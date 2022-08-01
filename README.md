@@ -8,3 +8,7 @@ The goal of this repository is to be able to quickly understand what federal age
 
 - https://ipinfo.io/countries/us
 - RADB - `whois -h whois.radb.net -- '-i origin AS32934' | grep ^route`
+
+## Running precommit
+
+`pre-commit run --all-files`
