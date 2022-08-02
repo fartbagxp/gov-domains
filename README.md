@@ -12,3 +12,7 @@ The goal of this repository is to be able to quickly understand what federal age
 ## Running precommit
 
 `pre-commit run --all-files`
+
+## Running Questions
+
+Can pre-commit analyze csv files?
