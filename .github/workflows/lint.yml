@@ -3,7 +3,7 @@ name: CSV Lint on CSV File Changes
 on:
   push:
     paths:
-      - "data/raw/**.csv"
+      - "data/**.csv"
       - ".github/workflows/lint.yml"
   pull_request:
     paths:
