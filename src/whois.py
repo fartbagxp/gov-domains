@@ -8,20 +8,20 @@ def whois(ip):
   results = obj.lookup_rdap(depth=1,retry_count=5,rate_limit_timeout=5)
 
   results_stripped = {
-      "asn": results.get("asn"),
-      "asn_cidr": results.get("asn_cidr"),
-      "asn_country_code": results.get("asn_country_code"),
-      "asn_date": results.get("asn_date"),
-      "asn_description": results.get("asn_description"),
-      "asn_registry": results.get("asn_registry"),
-      "entities": results.get("entities"),
-      "net_start_address": results.get("network").get("cidr"),
-      "net_end_address": results.get("network").get("end_address"),
-      "net_cidr": results.get("network").get("cidr"),
-      "net_type": results.get("network").get("type"),
-      "net_organization": results.get("network").get("name"),
-      "net_ref": results.get("network").get("links"),
-      "raw_command": f"whois -h whois.radb.net {ip}"
+    "asn": results.get("asn"),
+    "asn_cidr": results.get("asn_cidr"),
+    "asn_country_code": results.get("asn_country_code"),
+    "asn_date": results.get("asn_date"),
+    "asn_description": results.get("asn_description"),
+    "asn_registry": results.get("asn_registry"),
+    "entities": results.get("entities"),
+    "net_start_address": results.get("network").get("cidr"),
+    "net_end_address": results.get("network").get("end_address"),
+    "net_cidr": results.get("network").get("cidr"),
+    "net_type": results.get("network").get("type"),
+    "net_organization": results.get("network").get("name"),
+    "net_ref": results.get("network").get("links"),
+    "raw_command": f"whois -h whois.radb.net {ip}"
   }
 
   if results.get("network") is not None:

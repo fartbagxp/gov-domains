@@ -1,8 +1,12 @@
 # gov-domains
 
-This repository will be used to track government domains and AS as an information portal.
+This repository answers a couple questions about public government domains.
 
-The goal of this repository is to be able to quickly understand what federal agencies are using as their edge network environment.
+    What technology do public government websites use?
+    What is already allowed?
+    What can I use, based on precedence?
+
+The intention is to understand what federal agencies or state or city government are using as their technology stack, including edge technologies, network setup, and backend hosting.
 
 ## Sources of Information
 
@@ -12,7 +16,3 @@ The goal of this repository is to be able to quickly understand what federal age
 ## Running precommit
 
 `pre-commit run --all-files`
-
-## Running Questions
-
-Can pre-commit analyze csv files?
