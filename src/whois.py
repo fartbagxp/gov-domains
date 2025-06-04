@@ -1,4 +1,6 @@
 from ipwhois import IPWhois
+from ipwhois.net import Net
+from ipwhois.asn import IPASN
 from pprint import pprint
 
 def whois(ip):
@@ -22,8 +24,8 @@ def whois(ip):
       "raw_command": f"whois -h whois.radb.net {ip}"
   }
 
-  if results.get("network") != None:
-    if results.get("network").get("events") != None:
+  if results.get("network") is not None:
+    if results.get("network").get("events") is not None:
       for event in results.get("network").get("events"):
         if event.get("action") == "last changed":
           results_stripped["net_updated"] = event["timestamp"]
@@ -33,8 +35,8 @@ def whois(ip):
   return results_stripped
 
 def whois_asn(asn):
-  net = ipwhois.net('2001:1234:1234::')
-  obj = ipwhois.asn(net)
+  net = Net('2001:1234:1234::')
+  obj = IPASN(net)
   results = obj.lookup(asn=asn)
   return results
 
@@ -46,8 +48,8 @@ def main():
   # pprint(result)
   # result = whois('35.180.0.0')
   # pprint(result)
-  whois_asn('AS26810')
-  pprint(results)
+  result = whois_asn('AS26810')
+  pprint(result)
 
 if __name__ == "__main__":
   main()
