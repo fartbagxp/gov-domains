@@ -9,3 +9,4 @@ repos:
     rev: v0.11.13
     hooks:
       - id: ruff
+        exclude: ^data/raw/,^data/processed/
