@@ -17,11 +17,11 @@ jobs:
     strategy:
       matrix:
         domain: [
-          cdc.gov,
-          fda.gov,
-          nih.gov,
-          # hhs.gov,
-          # vaccines.gov,
+          # cdc.gov,
+          # fda.gov,
+          # nih.gov,
+          hhs.gov,
+          vaccines.gov,
           # healthdata.gov,
           # dhs.gov,
           # cisa.gov,
