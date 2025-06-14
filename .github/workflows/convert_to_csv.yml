@@ -1,0 +1,45 @@
+name: Convert raw files to CSV
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "data/raw/**"
+      - ".github/workflows/convert_to_csv.yml"
+  workflow_dispatch:
+
+jobs:
+  convert-to-csv:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Install the latest version of uv
+        uses: astral-sh/setup-uv@0c5e2b8115b80b4c7c5ddf6ffdd634974642d182 # v5.4.1
+        with:
+          version: "latest"
+
+      - name: Processing files to csv
+        run: |
+          mkdir -p data/processed
+          uv run python main.py -a
+
+      - name: Commit and push changes
+        run: |
+          git status
+          git config --local user.email "noreply@github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/raw/
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "Converting files to CSV format - $(date +'%Y-%m-%d')"
+            git push -u origin main
+          else
+            echo "No changes to commit"
+          fi
