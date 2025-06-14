@@ -12,7 +12,7 @@ jobs:
   update-sites-raw:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Write access is needed to push changes back to the repository
+      contents: read
 
     strategy:
       matrix:
@@ -37,14 +37,14 @@ jobs:
           whitehouse.gov,
           va.gov
         ]
-      fail-fast: false # continue if any domain fials
+      fail-fast: false # continue if any domain fails
       max-parallel: 1
 
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
         with:
           fetch-depth: 0
-          persist-credentials: true
+          persist-credentials: false
 
       - name: Install the latest version of uv
         uses: astral-sh/setup-uv@0c5e2b8115b80b4c7c5ddf6ffdd634974642d182 # v5.4.1
@@ -56,11 +56,21 @@ jobs:
           uv run python main.py -d ${{ matrix.domain }}
 
       - name: Sleep for 20 seconds
-        if: ${{ !endsWith(matrix.domain, matrix.domain) }} # Skip sleep on the last item
         run: sleep 20
 
+  commit-changes:
+    needs: update-sites-raw
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
       - name: Commit and push changes
-        if: github.ref == 'refs/heads/main' && ${{ !endsWith(matrix.domain, matrix.domain) }}
         run: |
           git status
           git config --local user.email "noreply@github.com"
