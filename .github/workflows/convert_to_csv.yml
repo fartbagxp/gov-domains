@@ -36,7 +36,7 @@ jobs:
           git status
           git config --local user.email "noreply@github.com"
           git config --local user.name "github-actions[bot]"
-          git add data/raw/
+          git add data/processed
           if ! git diff-index --quiet HEAD; then
             git commit -m "Converting files to CSV format - $(date +'%Y-%m-%d')"
             git push -u origin main
