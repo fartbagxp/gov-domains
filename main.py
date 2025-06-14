@@ -1,5 +1,6 @@
 import argparse
 import csv
+import glob
 import json
 import os
 
@@ -29,8 +30,6 @@ def extract_domains_from_certificates(certificates):
     issuer_name = cert.get('issuer_name', 'unknown')
     not_before = cert.get('not_before', '')
     not_after = cert.get('not_after', '')
-
-    # Extract domains from common_name
     if 'common_name' in cert and cert['common_name']:
       domain = cert['common_name'].replace('*.', '')
       if domain and '@' not in domain:
@@ -46,14 +45,11 @@ def extract_domains_from_certificates(certificates):
           }
         domains_data[domain]['certificate_ids'].add(str(cert_id))
         domains_data[domain]['issuers'].add(issuer_name)
-
-        # Update earliest/latest dates if necessary
         if not_before and (not domains_data[domain]['earliest_seen'] or not_before < domains_data[domain]['earliest_seen']):
           domains_data[domain]['earliest_seen'] = not_before
         if not_after and (not domains_data[domain]['latest_expiry'] or not_after > domains_data[domain]['latest_expiry']):
           domains_data[domain]['latest_expiry'] = not_after
 
-    # Extract domains from name_value
     if 'name_value' in cert and cert['name_value']:
       for name in cert['name_value'].split('\n'):
         domain = name.replace('*.', '')
@@ -73,8 +69,6 @@ def extract_domains_from_certificates(certificates):
 
           domains_data[domain]['certificate_ids'].add(str(cert_id))
           domains_data[domain]['issuers'].add(issuer_name)
-
-          # Update earliest/latest dates if necessary
           if not_before and (not domains_data[domain]['earliest_seen'] or not_before < domains_data[domain]['earliest_seen']):
             domains_data[domain]['earliest_seen'] = not_before
           if not_after and (not domains_data[domain]['latest_expiry'] or not_after > domains_data[domain]['latest_expiry']):
@@ -170,13 +164,44 @@ def process_raw_json_file(input_file):
     print(f"Error processing file {input_file}: {str(e)}")
     return {}
 
+def process_all_raw_files():
+  """
+  Process all JSON files in the data/raw directory.
+
+  Returns:
+    Combined dictionary of normalized domain data from all files.
+  """
+  raw_dir = "data/raw"
+  if not os.path.exists(raw_dir):
+    print(f"Error: Directory {raw_dir} does not exist")
+    return {}
+
+  json_files = glob.glob(os.path.join(raw_dir, "*.json"))
+  if not json_files:
+    print(f"No JSON files found in {raw_dir}")
+    return {}
+
+  print(f"Found {len(json_files)} JSON files to process")
+  for json_file in json_files:
+    print(f"\nProcessing {json_file}...")
+    domains_data = process_raw_json_file(json_file)
+    if domains_data:
+      base_filename = os.path.splitext(os.path.basename(json_file))[0]
+      csv_output = f"data/processed/{base_filename}.csv"
+      save_domains_to_csv(domains_data, csv_output)
 
 def main():
   parser = argparse.ArgumentParser(description='crt.sh Certificate Search Client')
-  group = parser.add_mutually_exclusive_group(required=True)
+  group = parser.add_mutually_exclusive_group(required=False)
   group.add_argument('-d', '--domain', help='Search for a domain name')
   group.add_argument('-p', '--process-file', help='Process an existing raw JSON file')
+  group.add_argument('-a', '--process-all', action='store_true',
+    help='Process all JSON files in data/raw directory')
   args = parser.parse_args()
+
+  if not (args.domain or args.process_file or args.process_all):
+    parser.print_help()
+    return
 
   client = CrtshClient()
   if args.domain:
@@ -188,12 +213,18 @@ def main():
   elif args.process_file:
     input_file = args.process_file
     base_filename = os.path.splitext(os.path.basename(input_file))[0]
-
     domains_data = process_raw_json_file(input_file)
-
     if domains_data:
       csv_output = f"data/processed/{base_filename}.csv"
       save_domains_to_csv(domains_data, csv_output)
+
+  elif args.process_all:
+    combined_domains = process_all_raw_files()
+    if combined_domains:
+      timestamp = datetime.now().strftime("%Y%m%d")
+      csv_output = f"data/processed/all_domains_{timestamp}.csv"
+      save_domains_to_csv(combined_domains, csv_output)
+
 
 if __name__ == '__main__':
   main()

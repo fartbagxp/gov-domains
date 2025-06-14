@@ -17,25 +17,25 @@ jobs:
     strategy:
       matrix:
         domain: [
-          # cdc.gov,
-          # fda.gov,
-          # nih.gov,
+          cdc.gov,
+          fda.gov,
+          nih.gov,
           hhs.gov,
           vaccines.gov,
-          # healthdata.gov,
-          # dhs.gov,
-          # cisa.gov,
-          # usa.gov,
-          # usaspending.gov,
-          # data.gov,
-          # sam.gov,
-          # dot.gov,
-          # epa.gov,
-          # nist.gov,
-          # commerce.gov,
-          # treasury.gov,
-          # whitehouse.gov,
-          # va.gov
+          healthdata.gov,
+          dhs.gov,
+          cisa.gov,
+          usa.gov,
+          usaspending.gov,
+          data.gov,
+          sam.gov,
+          dot.gov,
+          epa.gov,
+          nist.gov,
+          commerce.gov,
+          treasury.gov,
+          whitehouse.gov,
+          va.gov
         ]
       fail-fast: false # continue if any domain fails
       max-parallel: 1
