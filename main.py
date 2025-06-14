@@ -192,7 +192,7 @@ def process_all_raw_files():
 
 def main():
   parser = argparse.ArgumentParser(description='crt.sh Certificate Search Client')
-  group = parser.add_mutually_exclusive_group(required=False)
+  group = parser.add_mutually_exclusive_group(required=True)
   group.add_argument('-d', '--domain', help='Search for a domain name')
   group.add_argument('-p', '--process-file', help='Process an existing raw JSON file')
   group.add_argument('-a', '--process-all', action='store_true',
