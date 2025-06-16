@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "ofemsapps.fda.gov",
+    "name_value": "ofemsapps.fda.gov",
+    "id": 19038422492,
+    "entry_timestamp": "2025-06-15T15:59:36.48",
+    "not_before": "2025-06-15T15:01:04",
+    "not_after": "2025-09-13T15:01:03",
+    "serial_number": "0570efa997f7d537ac0c1473d1eaca6906d6",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "ofemsapps.fda.gov",
+    "name_value": "ofemsapps.fda.gov",
+    "id": 19038424148,
+    "entry_timestamp": "2025-06-15T15:59:34.356",
+    "not_before": "2025-06-15T15:01:04",
+    "not_after": "2025-09-13T15:01:03",
+    "serial_number": "0570efa997f7d537ac0c1473d1eaca6906d6",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "collaborationcqauth1.fda.gov",
@@ -506,18 +530,6 @@
   {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "cdersfapi.preprod.fda.gov",
-    "name_value": "cdersfapi-mig.preprod.fda.gov\ncdersfapi.preprod.fda.gov\nwww.cdersfapi-mig.preprod.fda.gov\nwww.cdersfapi.preprod.fda.gov",
-    "id": 18032424396,
-    "entry_timestamp": "2025-04-24T06:44:05.153",
-    "not_before": "2024-05-16T17:45:08",
-    "not_after": "2025-06-15T17:44:08",
-    "serial_number": "40018f8281ffad9a2890b24da5213bf1",
-    "result_count": 5
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "edm.fda.gov",
     "name_value": "edm.fda.gov\nedm-mig.fda.gov\nwww.edm.fda.gov\nwww.edm-mig.fda.gov",
     "id": 18007554235,
@@ -789,18 +801,6 @@
     "not_before": "2024-05-17T20:57:49",
     "not_after": "2025-06-16T20:56:49",
     "serial_number": "40018f8858c0e4925f4ba4904f6408ae",
-    "result_count": 5
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "edmpilot-web.preprod.fda.gov",
-    "name_value": "edmpilot-web-mig.preprod.fda.gov\nedmpilot-web.preprod.fda.gov\nwww.edmpilot-web-mig.preprod.fda.gov\nwww.edmpilot-web.preprod.fda.gov",
-    "id": 17925527042,
-    "entry_timestamp": "2025-04-18T17:15:33.62",
-    "not_before": "2024-05-16T17:45:59",
-    "not_after": "2025-06-15T17:44:59",
-    "serial_number": "40018f8282c5e44b54241a1590b1cdbc",
     "result_count": 5
   },
   {
@@ -4971,6 +4971,15 @@
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "ccp-aws.fda.gov",
+    "name_value": "ccp-aws.fda.gov\nccp-aws-mig.fda.gov\nwww.ccp-aws.fda.gov\nwww.ccp-aws-mig.fda.gov",
+    "id": 13083656690,
+    "entry_timestamp": "2024-05-17T20:57:49.24",
+    "not_before": "2024-05-17T20:57:49",
+    "not_after": "2025-06-16T20:56:49",
+    "serial_number": "40018f8858c0e4925f4ba4904f6408ae",
+    "result_count": 5
+  }
+]gov",
     "name_value": "ccp-aws.fda.gov\nccp-aws-mig.fda.gov\nwww.ccp-aws.fda.gov\nwww.ccp-aws-mig.fda.gov",
     "id": 13083656690,
     "entry_timestamp": "2024-05-17T20:57:49.24",
