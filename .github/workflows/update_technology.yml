@@ -1,0 +1,61 @@
+name: Run httpx on CSV files
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "data/csv/**"
+      - ".github/workflows/update_technology.yml"
+  workflow_dispatch:
+
+jobs:
+  run-httpx:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Install httpx
+        run: |
+          go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
+          echo "$HOME/go/bin" >> "$GITHUB_PATH"
+
+      - name: Verify httpx installation
+        run: httpx -version
+
+      - name: Create tech directory
+        run: mkdir -p data/tech
+
+      - name: Run httpx on all CSV files
+        run: |
+          for csv_file in data/csv/*.csv; do
+            # Extract filename without extension
+            filename=$(basename "$csv_file" .csv)
+            output_file="data/tech/${filename}_httpx.txt"
+
+            echo "Processing $csv_file..."
+
+            # Skip header, extract domain column, and run httpx
+            < "$csv_file" tail -n +2 | cut -d ',' -f 1 | httpx -title -tech-detect -status-code | grep "200" > "$output_file"
+
+            echo "Completed $csv_file. Results saved to $output_file"
+          done
+
+      - name: Commit and push changes
+        run: |
+          git status
+          git config --local user.email "noreply@github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/tech
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "Investigating technology stack with httpx - $(date +'%Y-%m-%d')"
+            git push -u origin main
+          else
+            echo "No changes to commit"
+          fi
