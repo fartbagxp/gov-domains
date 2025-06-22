@@ -1,4 +1,6 @@
-# gov-domains
+[![Last Sync](https://github.com/fartbagxp/gov-domains/actions/workflows/update_sites_raw.yml/badge.svg)](https://github.com/fartbagxp/gov-domains/actions/workflows/update_sites_raw.yml)
+
+# Overview
 
 This repository answers a couple questions about public government domains.
 
@@ -12,7 +14,3 @@ The intention is to understand what federal agencies or state or city government
 
 - https://ipinfo.io/countries/us
 - RADB - `whois -h whois.radb.net -- '-i origin AS32934' | grep ^route`
-
-## Running precommit
-
-`pre-commit run --all-files`
