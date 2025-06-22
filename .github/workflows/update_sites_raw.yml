@@ -54,11 +54,12 @@ jobs:
       - name: Running update script - ${{ matrix.domain }}
         run: |
           mkdir -p data/raw
+          rm -rf data/raw/*.json
           uv run python main.py -d ${{ matrix.domain }}
           # List the files for debugging
           ls -la data/raw/
 
-      - name: Upload raw data files
+      - name: Upload raw data file
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
         with:
           name: raw-data-${{ matrix.domain }}
@@ -90,8 +91,7 @@ jobs:
         with:
           path: artifacts
           pattern: raw-data-*
-          merge-multiple: false
-          overwrite: true
+          merge-multiple: true
 
       - name: Copy artifacts to data directory
         run: |
