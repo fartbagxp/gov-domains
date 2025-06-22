@@ -187,7 +187,7 @@ def process_all_raw_files():
     domains_data = process_raw_json_file(json_file)
     if domains_data:
       base_filename = os.path.splitext(os.path.basename(json_file))[0]
-      csv_output = f"data/processed/{base_filename}.csv"
+      csv_output = f"data/csv/{base_filename}.csv"
       save_domains_to_csv(domains_data, csv_output)
 
 def main():
@@ -215,16 +215,15 @@ def main():
     base_filename = os.path.splitext(os.path.basename(input_file))[0]
     domains_data = process_raw_json_file(input_file)
     if domains_data:
-      csv_output = f"data/processed/{base_filename}.csv"
+      csv_output = f"data/csv/{base_filename}.csv"
       save_domains_to_csv(domains_data, csv_output)
 
   elif args.process_all:
     combined_domains = process_all_raw_files()
     if combined_domains:
       timestamp = datetime.now().strftime("%Y%m%d")
-      csv_output = f"data/processed/all_domains_{timestamp}.csv"
+      csv_output = f"data/csv/all_domains_{timestamp}.csv"
       save_domains_to_csv(combined_domains, csv_output)
-
 
 if __name__ == '__main__':
   main()
