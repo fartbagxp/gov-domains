@@ -8,8 +8,6 @@ on:
       - "data/csv/**"
       - ".github/workflows/update_technology.yml"
   workflow_dispatch:
-  pull_request:
-
 
 jobs:
   find-csv-files:
@@ -112,6 +110,7 @@ jobs:
           ls -la data/tech/
 
       - name: Commit and push changes
+        if: github.ref == 'refs/heads/main'
         run: |
           git status
           git config --local user.email "noreply@github.com"
