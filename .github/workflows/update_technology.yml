@@ -10,16 +10,41 @@ on:
   workflow_dispatch:
 
 jobs:
-  run-httpx:
+  find-csv-files:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: read
+    outputs:
+      csv_files: ${{ steps.set-matrix.outputs.csv_files }}
 
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
         with:
           fetch-depth: 0
-          persist-credentials: true
+          persist-credentials: false
+
+      - name: Find all CSV files
+        id: set-matrix
+        run: |
+          CSV_FILES=$(find data/csv -name "*.csv" -type f | sed 's|^data/csv/||' | jq -R -s -c 'split("\n")[:-1]')
+          echo "csv_files=${CSV_FILES}" >> "$GITHUB_OUTPUT"
+          echo "Found CSV files: ${CSV_FILES}"
+
+  process-csv:
+    needs: find-csv-files
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    strategy:
+      matrix:
+        csv_file: ${{ fromJson(needs.find-csv-files.outputs.csv_files) }}
+      fail-fast: false
+
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          fetch-depth: 0
+          persist-credentials: false
 
       - name: Install httpx
         run: |
@@ -30,24 +55,62 @@ jobs:
         run: httpx -version
 
       - name: Create tech directory
-        run: mkdir -p data/tech
-
-      - name: Run httpx on all CSV files
         run: |
-          for csv_file in data/csv/*.csv; do
-            # Extract filename without extension
-            filename=$(basename "$csv_file" .csv)
-            output_file="data/tech/${filename}_httpx.txt"
+          mkdir -p data/tech
+          rm -rf data/tech/*
 
-            echo "Processing $csv_file..."
+      - name: Process File - ${{ matrix.csv_file }}
+        run: |
+          csv_file="data/csv/${{ matrix.csv_file }}"
+          # Extract filename without extension
+          filename=$(basename "$csv_file" .csv)
+          output_file="data/tech/${filename}_httpx.txt"
 
-            # Skip header, extract domain column, and run httpx
-            < "$csv_file" tail -n +2 | cut -d ',' -f 1 | httpx -title -tech-detect -status-code | grep "200" > "$output_file"
+          echo "Processing $csv_file..."
 
-            echo "Completed $csv_file. Results saved to $output_file"
-          done
+          # Skip header, extract domain column, and run httpx
+          < "$csv_file" tail -n +2 | cut -d ',' -f 1 | httpx -title -tech-detect -status-code | grep "200" > "$output_file" || true
+
+          echo "Completed $csv_file. Results saved to $output_file"
+
+      - name: Upload result as artifact
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
+        with:
+          name: tech-data-${{ matrix.csv_file }}
+          path: data/tech/
+          retention-days: 1
+
+  commit-results:
+    needs: process-csv
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Create tech directory
+        run: |
+          mkdir -p data/tech
+          rm -rf data/tech/*
+
+      - name: Download all tech data
+        uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4.3.0
+        with:
+          pattern: tech-data-*
+          path: artifacts
+          merge-multiple: true
+
+      - name: Copy artifacts to correct location
+        run: |
+          cp -R artifacts/* data/tech/
+          ls -la data/tech/
 
       - name: Commit and push changes
+        if: github.ref == 'refs/heads/main'
         run: |
           git status
           git config --local user.email "noreply@github.com"

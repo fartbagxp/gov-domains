@@ -32,6 +32,7 @@ jobs:
           uv run python main.py -a
 
       - name: Commit and push changes
+        if: github.ref == 'refs/heads/main'
         run: |
           git status
           git config --local user.email "noreply@github.com"
