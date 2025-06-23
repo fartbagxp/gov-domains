@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 247115,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
+    "common_name": "biis.aws.hhs.gov",
+    "name_value": "biis.aws.hhs.gov",
+    "id": 19189883864,
+    "entry_timestamp": "2025-06-23T00:08:15.766",
+    "not_before": "2024-09-26T00:00:00",
+    "not_after": "2025-10-26T23:59:59",
+    "serial_number": "0b7840a74b98218861d7250b8cbcc2b4",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "biis.aws.hhs.gov",
+    "name_value": "biis.aws.hhs.gov",
+    "id": 19189877385,
+    "entry_timestamp": "2025-06-23T00:07:56.086",
+    "not_before": "2025-06-23T00:00:00",
+    "not_after": "2026-07-21T23:59:59",
+    "serial_number": "0b10b461f46addef852109ad73ed5a36",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 295814,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
     "common_name": "asaconnecthubtest.hhs.gov",
@@ -2770,18 +2794,6 @@
     "not_after": "2025-07-20T16:17:37",
     "serial_number": "40019036715c7e37307f10d06ea8a366",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "aka-www.hhs.gov",
-    "name_value": "akadev1-ion-www.hhs.gov\nakadev2-ion-www.hhs.gov\nakadev3-ion-www.hhs.gov\nakadev4-ion-www.hhs.gov\nakadev5-ion-www.hhs.gov\nakadev-ion-www.hhs.gov\nakapreview-ion-www.hhs.gov\nakaprod-betobaccofree.hhs.gov\nakaprod-digitalmedia.hhs.gov\nakaprod-everytrycounts.betobaccofree.hhs.gov\nakaprod-freshempire.betobaccofree.hhs.gov\nakaprod-ion-www.hhs.gov\nakaprod-thisfreelife.betobaccofree.hhs.gov\nakaprod-wcdapps.hhs.gov\nakaqa1-ion-www.hhs.gov\nakaqa2-ion-www.hhs.gov\nakaqa3-ion-www.hhs.gov\nakaqa4-ion-www.hhs.gov\nakaqa5-ion-www.hhs.gov\nakaqa-ion-www.hhs.gov\nakastage1-ion-www.hhs.gov\nakastage2-ion-www.hhs.gov\nakastage3-ion-www.hhs.gov\nakastage4-ion-www.hhs.gov\nakastage5-ion-www.hhs.gov\nakastage-betobaccofree.hhs.gov\nakastage-everytrycounts.betobaccofree.hhs.gov\nakastage-freshempire.betobaccofree.hhs.gov\nakastage-ion-www.hhs.gov\nakastage-therealcost.betobaccofree.hhs.gov\nakastage-thisfreelife.betobaccofree.hhs.gov\nakastage-wcdapps.hhs.gov\nakastage-www.hhs.gov\nakatest1-ion-www.hhs.gov\nakatest2-ion-www.hhs.gov\nakatest3-ion-www.hhs.gov\nakatest4-ion-www.hhs.gov\nakatest5-ion-www.hhs.gov\nakatest-ion-www.hhs.gov\nakauat-ion-www.hhs.gov\naka-www.hhs.gov",
-    "id": 18010155315,
-    "entry_timestamp": "2025-04-23T03:24:27.869",
-    "not_before": "2024-06-20T00:00:00",
-    "not_after": "2025-06-22T23:59:59",
-    "serial_number": "010cb12d13e8a07e704464eb93712956",
-    "result_count": 42
   },
   {
     "issuer_ca_id": 295815,
@@ -7500,18 +7512,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "www.nhlbi.nih.gov",
-    "name_value": "onepoundatatime.hhs.gov",
-    "id": 15600556210,
-    "entry_timestamp": "2024-11-29T16:43:07.593",
-    "not_before": "2024-06-11T21:10:01",
-    "not_after": "2025-06-22T21:10:00",
-    "serial_number": "14442cca1b833a2759068c579ae5fb6d",
-    "result_count": 1
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "san-25-s13.tlsprovisioning.exacttarget.com",
@@ -10908,30 +10908,6 @@
     "result_count": 5
   },
   {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "aka-www.hhs.gov",
-    "name_value": "akadev1-ion-www.hhs.gov\nakadev2-ion-www.hhs.gov\nakadev3-ion-www.hhs.gov\nakadev4-ion-www.hhs.gov\nakadev5-ion-www.hhs.gov\nakadev-ion-www.hhs.gov\nakapreview-ion-www.hhs.gov\nakaprod-betobaccofree.hhs.gov\nakaprod-digitalmedia.hhs.gov\nakaprod-ion-www.hhs.gov\nakaqa1-ion-www.hhs.gov\nakaqa2-ion-www.hhs.gov\nakaqa3-ion-www.hhs.gov\nakaqa4-ion-www.hhs.gov\nakaqa5-ion-www.hhs.gov\nakaqa-ion-www.hhs.gov\nakastage1-ion-www.hhs.gov\nakastage2-ion-www.hhs.gov\nakastage3-ion-www.hhs.gov\nakastage4-ion-www.hhs.gov\nakastage5-ion-www.hhs.gov\nakastage-betobaccofree.hhs.gov\nakastage-ion-www.hhs.gov\nakastage-www.hhs.gov\nakatest1-ion-www.hhs.gov\nakatest2-ion-www.hhs.gov\nakatest3-ion-www.hhs.gov\nakatest4-ion-www.hhs.gov\nakatest5-ion-www.hhs.gov\nakatest-ion-www.hhs.gov\nakauat-ion-www.hhs.gov\naka-www.hhs.gov",
-    "id": 13765499193,
-    "entry_timestamp": "2024-07-16T17:38:12.667",
-    "not_before": "2024-07-16T00:00:00",
-    "not_after": "2025-06-22T23:59:59",
-    "serial_number": "0a3973d4540633444a6e230ba191d56a",
-    "result_count": 33
-  },
-  {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "aka-www.hhs.gov",
-    "name_value": "akadev1-ion-www.hhs.gov\nakadev2-ion-www.hhs.gov\nakadev3-ion-www.hhs.gov\nakadev4-ion-www.hhs.gov\nakadev5-ion-www.hhs.gov\nakadev-ion-www.hhs.gov\nakapreview-ion-www.hhs.gov\nakaprod-betobaccofree.hhs.gov\nakaprod-digitalmedia.hhs.gov\nakaprod-ion-www.hhs.gov\nakaqa1-ion-www.hhs.gov\nakaqa2-ion-www.hhs.gov\nakaqa3-ion-www.hhs.gov\nakaqa4-ion-www.hhs.gov\nakaqa5-ion-www.hhs.gov\nakaqa-ion-www.hhs.gov\nakastage1-ion-www.hhs.gov\nakastage2-ion-www.hhs.gov\nakastage3-ion-www.hhs.gov\nakastage4-ion-www.hhs.gov\nakastage5-ion-www.hhs.gov\nakastage-betobaccofree.hhs.gov\nakastage-ion-www.hhs.gov\nakastage-www.hhs.gov\nakatest1-ion-www.hhs.gov\nakatest2-ion-www.hhs.gov\nakatest3-ion-www.hhs.gov\nakatest4-ion-www.hhs.gov\nakatest5-ion-www.hhs.gov\nakatest-ion-www.hhs.gov\nakauat-ion-www.hhs.gov\naka-www.hhs.gov",
-    "id": 13765488618,
-    "entry_timestamp": "2024-07-16T17:37:35.681",
-    "not_before": "2024-07-16T00:00:00",
-    "not_after": "2025-06-22T23:59:59",
-    "serial_number": "079747369a51de6fcaef8b78431c8156",
-    "result_count": 33
-  },
-  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "gal.hhs.gov",
@@ -11700,30 +11676,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "aka-www.hhs.gov",
-    "name_value": "akadev1-ion-www.hhs.gov\nakadev2-ion-www.hhs.gov\nakadev3-ion-www.hhs.gov\nakadev4-ion-www.hhs.gov\nakadev5-ion-www.hhs.gov\nakadev-ion-www.hhs.gov\nakapreview-ion-www.hhs.gov\nakaprod-betobaccofree.hhs.gov\nakaprod-digitalmedia.hhs.gov\nakaprod-everytrycounts.betobaccofree.hhs.gov\nakaprod-freshempire.betobaccofree.hhs.gov\nakaprod-ion-www.hhs.gov\nakaprod-thisfreelife.betobaccofree.hhs.gov\nakaprod-wcdapps.hhs.gov\nakaqa1-ion-www.hhs.gov\nakaqa2-ion-www.hhs.gov\nakaqa3-ion-www.hhs.gov\nakaqa4-ion-www.hhs.gov\nakaqa5-ion-www.hhs.gov\nakaqa-ion-www.hhs.gov\nakastage1-ion-www.hhs.gov\nakastage2-ion-www.hhs.gov\nakastage3-ion-www.hhs.gov\nakastage4-ion-www.hhs.gov\nakastage5-ion-www.hhs.gov\nakastage-betobaccofree.hhs.gov\nakastage-everytrycounts.betobaccofree.hhs.gov\nakastage-freshempire.betobaccofree.hhs.gov\nakastage-ion-www.hhs.gov\nakastage-therealcost.betobaccofree.hhs.gov\nakastage-thisfreelife.betobaccofree.hhs.gov\nakastage-wcdapps.hhs.gov\nakastage-www.hhs.gov\nakatest1-ion-www.hhs.gov\nakatest2-ion-www.hhs.gov\nakatest3-ion-www.hhs.gov\nakatest4-ion-www.hhs.gov\nakatest5-ion-www.hhs.gov\nakatest-ion-www.hhs.gov\nakauat-ion-www.hhs.gov\naka-www.hhs.gov",
-    "id": 13458413950,
-    "entry_timestamp": "2024-06-20T20:21:52.619",
-    "not_before": "2024-06-20T00:00:00",
-    "not_after": "2025-06-22T23:59:59",
-    "serial_number": "010cb12d13e8a07e704464eb93712956",
-    "result_count": 42
-  },
-  {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "aka-www.hhs.gov",
-    "name_value": "akadev1-ion-www.hhs.gov\nakadev2-ion-www.hhs.gov\nakadev3-ion-www.hhs.gov\nakadev4-ion-www.hhs.gov\nakadev5-ion-www.hhs.gov\nakadev-ion-www.hhs.gov\nakapreview-ion-www.hhs.gov\nakaprod-betobaccofree.hhs.gov\nakaprod-digitalmedia.hhs.gov\nakaprod-everytrycounts.betobaccofree.hhs.gov\nakaprod-freshempire.betobaccofree.hhs.gov\nakaprod-ion-www.hhs.gov\nakaprod-thisfreelife.betobaccofree.hhs.gov\nakaprod-wcdapps.hhs.gov\nakaqa1-ion-www.hhs.gov\nakaqa2-ion-www.hhs.gov\nakaqa3-ion-www.hhs.gov\nakaqa4-ion-www.hhs.gov\nakaqa5-ion-www.hhs.gov\nakaqa-ion-www.hhs.gov\nakastage1-ion-www.hhs.gov\nakastage2-ion-www.hhs.gov\nakastage3-ion-www.hhs.gov\nakastage4-ion-www.hhs.gov\nakastage5-ion-www.hhs.gov\nakastage-betobaccofree.hhs.gov\nakastage-everytrycounts.betobaccofree.hhs.gov\nakastage-freshempire.betobaccofree.hhs.gov\nakastage-ion-www.hhs.gov\nakastage-therealcost.betobaccofree.hhs.gov\nakastage-thisfreelife.betobaccofree.hhs.gov\nakastage-wcdapps.hhs.gov\nakastage-www.hhs.gov\nakatest1-ion-www.hhs.gov\nakatest2-ion-www.hhs.gov\nakatest3-ion-www.hhs.gov\nakatest4-ion-www.hhs.gov\nakatest5-ion-www.hhs.gov\nakatest-ion-www.hhs.gov\nakauat-ion-www.hhs.gov\naka-www.hhs.gov",
-    "id": 13458026879,
-    "entry_timestamp": "2024-06-20T19:31:13.914",
-    "not_before": "2024-06-20T00:00:00",
-    "not_after": "2025-06-22T23:59:59",
-    "serial_number": "0a424f18acc769cef06caeceb5a0c463",
-    "result_count": 42
-  },
-  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "hppcat.hhs.gov",
@@ -11794,18 +11746,6 @@
     "not_after": "2025-07-09T23:59:59",
     "serial_number": "03379b1794707814497286a960e23c2c",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "www.nhlbi.nih.gov",
-    "name_value": "onepoundatatime.hhs.gov",
-    "id": 13357183212,
-    "entry_timestamp": "2024-06-11T21:10:01.37",
-    "not_before": "2024-06-11T21:10:01",
-    "not_after": "2025-06-22T21:10:00",
-    "serial_number": "14442cca1b833a2759068c579ae5fb6d",
-    "result_count": 1
   },
   {
     "issuer_ca_id": 1586,
