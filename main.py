@@ -127,7 +127,7 @@ def filter_valid_certificates(certificates):
   for cert in certificates:
     if 'not_after' in cert:
       try:
-        expiry_date = datetime.strptime(cert['not_after'], '%Y-%m-%dT%H:%M:%S')
+        expiry_date = datetime.strptime(cert['not_after'], '%Y-%m-%dT%H:%M:%S').replace(tzinfo=timezone.utc)
         if expiry_date > now:
           valid_certificates.append(cert)
       except ValueError:
