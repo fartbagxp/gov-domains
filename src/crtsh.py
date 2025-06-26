@@ -33,10 +33,10 @@ class CrtshClient:
       return data
     except requests.exceptions.RequestException as e:
       print(f"Error making request: {e}")
-      return [], []
+      return []
     except json.JSONDecodeError:
       print("Error decoding JSON response")
-      return [], []
+      return []
 
   def filter_expired_certificates(self, certificates):
     """

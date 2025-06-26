@@ -8,6 +8,10 @@ on:
       - "data/raw/**"
       - ".github/workflows/convert_to_csv.yml"
   workflow_dispatch:
+  workflow_run:
+    workflows: ["Site Update Raw - Nightly cronjob"]
+    types:
+      - completed
 
 jobs:
   convert-to-csv:

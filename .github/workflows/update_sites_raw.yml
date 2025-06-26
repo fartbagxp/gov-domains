@@ -18,16 +18,20 @@ jobs:
       matrix:
         domain: [
           cdc.gov,
+          cms.gov,
           fda.gov,
           nih.gov,
           hhs.gov,
           vaccines.gov,
           healthdata.gov,
-          dhs.gov,
+          census.gov,
           cisa.gov,
+          data.gov,
+          dhs.gov,
+          faa.gov,
+          fema.gov,
           usa.gov,
           usaspending.gov,
-          data.gov,
           sam.gov,
           dot.gov,
           epa.gov,
@@ -54,9 +58,7 @@ jobs:
       - name: Running update script - ${{ matrix.domain }}
         run: |
           mkdir -p data/raw
-          rm -rf data/raw/*.json
-          uv run python main.py -d ${{ matrix.domain }}
-          # List the files for debugging
+          uv run python main.py -d ${{ matrix.domain }} || echo "Python script failed, keeping previous file."
           ls -la data/raw/
 
       - name: Upload raw data file

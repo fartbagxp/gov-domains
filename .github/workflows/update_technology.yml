@@ -8,6 +8,10 @@ on:
       - "data/csv/**"
       - ".github/workflows/update_technology.yml"
   workflow_dispatch:
+  workflow_run:
+    workflows: ["Convert raw files to CSV"]
+    types:
+      - completed
 
 jobs:
   find-csv-files:

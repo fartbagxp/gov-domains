@@ -3,8 +3,9 @@ import csv
 import glob
 import json
 import os
+import sys
 
-from datetime import datetime
+from datetime import datetime, timezone
 from src.crtsh import CrtshClient
 
 def save_raw_json(data, filename):
@@ -120,7 +121,7 @@ def filter_valid_certificates(certificates):
   Returns:
     List of non-expired certificate dictionaries.
   """
-  now = datetime.utcnow()
+  now = datetime.now(timezone.utc)
   valid_certificates = []
 
   for cert in certificates:
@@ -205,10 +206,17 @@ def main():
 
   client = CrtshClient()
   if args.domain:
-    results = client.search_domain(args.domain)
-    if results:
-      output_file = f"data/raw/domain.{args.domain}.json"
-      save_raw_json(results, output_file)
+    try:
+      results = client.search_domain(args.domain)
+      if results:
+        output_file = f"data/raw/domain.{args.domain}.json"
+        save_raw_json(results, output_file)
+      else:
+        print(f"No results found for domain {args.domain}")
+        sys.exit(1)
+    except Exception as e:
+      print(f"Error searching for domain {args.domain}: {str(e)}")
+      sys.exit(1)
 
   elif args.process_file:
     input_file = args.process_file
