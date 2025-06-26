@@ -69,7 +69,7 @@ jobs:
           echo "Processing $csv_file..."
 
           # Skip header, extract domain column, and run httpx
-          < "$csv_file" tail -n +2 | cut -d ',' -f 1 | httpx -title -tech-detect -status-code | grep "200" > "$output_file" || true
+          < "$csv_file" tail -n +2 | cut -d ',' -f 1 | httpx -nc -title -tech-detect -status-code | grep "200" > "$output_file" || true
 
           echo "Completed $csv_file. Results saved to $output_file"
 
