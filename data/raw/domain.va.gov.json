@@ -1,5 +1,101 @@
 [
   {
+    "issuer_ca_id": 272222,
+    "issuer_name": "C=BE, O=GlobalSign nv-sa, CN=GlobalSign GCC R6 AlphaSSL CA 2023",
+    "common_name": "www.datahub.va.gov",
+    "name_value": "www.datahub.va.gov",
+    "id": 19401404471,
+    "entry_timestamp": "2025-07-02T18:41:35.043",
+    "not_before": "2024-07-12T18:26:47",
+    "not_after": "2025-08-13T18:26:46",
+    "serial_number": "1f6c156eef21c62119b8bc12",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 412165,
+    "issuer_name": "C=BE, O=GlobalSign nv-sa, CN=GlobalSign GCC R6 AlphaSSL CA 2025",
+    "common_name": "www.datahub.va.gov",
+    "name_value": "www.datahub.va.gov",
+    "id": 19401363371,
+    "entry_timestamp": "2025-07-02T18:40:41.113",
+    "not_before": "2025-07-02T18:40:36",
+    "not_after": "2026-08-03T18:40:35",
+    "serial_number": "4c79533003b2ecfcbbf57d15",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "tachyonbc.va.gov",
+    "name_value": "tachyonbc.va.gov\ntachyonsw.va.gov",
+    "id": 19401238263,
+    "entry_timestamp": "2025-07-02T18:32:54.448",
+    "not_before": "2025-07-02T00:00:00",
+    "not_after": "2026-07-07T23:59:59",
+    "serial_number": "088bc0f657750847b5a536e3cd01c3fb",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "department.va.gov",
+    "name_value": "department.va.gov\nwww.department.va.gov",
+    "id": 19382695318,
+    "entry_timestamp": "2025-07-01T22:52:09.978",
+    "not_before": "2025-04-15T00:00:00",
+    "not_after": "2026-04-21T23:59:59",
+    "serial_number": "038ffa2c36479f125070704e33913d93",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "www.icw.extsouth.mscprod.va.gov",
+    "name_value": "www.icw.extsouth.mscprod.va.gov",
+    "id": 19381850279,
+    "entry_timestamp": "2025-07-01T21:56:40.92",
+    "not_before": "2024-07-30T00:00:00",
+    "not_after": "2025-08-30T23:59:59",
+    "serial_number": "0e7c23b8c65f15524879a20d983e857d",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "www.icw.extsouth.mscprod.va.gov",
+    "name_value": "www.icw.extsouth.mscprod.va.gov",
+    "id": 19381841179,
+    "entry_timestamp": "2025-07-01T21:56:28.86",
+    "not_before": "2025-07-01T00:00:00",
+    "not_after": "2026-07-30T23:59:59",
+    "serial_number": "06cdc93fd1bf2b216685971ad788822a",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "www.icw.exteast.mscprod.va.gov",
+    "name_value": "www.icw.exteast.mscprod.va.gov",
+    "id": 19381850812,
+    "entry_timestamp": "2025-07-01T21:55:42.551",
+    "not_before": "2024-07-30T00:00:00",
+    "not_after": "2025-08-30T23:59:59",
+    "serial_number": "0546ebae6df1f045983d98912f44ff83",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "www.icw.exteast.mscprod.va.gov",
+    "name_value": "www.icw.exteast.mscprod.va.gov",
+    "id": 19381806744,
+    "entry_timestamp": "2025-07-01T21:53:35.189",
+    "not_before": "2025-07-01T00:00:00",
+    "not_after": "2026-07-30T23:59:59",
+    "serial_number": "0d0b17d2ce74abd831394f1dfa6bbc20",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "dev.marketplace.va.gov",
@@ -1368,18 +1464,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 904,
-    "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
-    "common_name": "shopvcs.va.gov",
-    "name_value": "shopvcs.va.gov\nwww.shopvcs.va.gov",
-    "id": 18201034812,
-    "entry_timestamp": "2025-05-03T14:36:48.406",
-    "not_before": "2025-05-03T14:36:47",
-    "not_after": "2025-07-01T19:45:18",
-    "serial_number": "0092e540657983d10f",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "tsit-soa.valerir.services.lgy.va.gov",
@@ -1894,18 +1978,6 @@
     "not_after": "2025-07-22T23:59:59",
     "serial_number": "00f3586045d5a01ea49ac6aa8759aa4fd7",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "cprs-auth.vaec.va.gov",
-    "name_value": "cprs-auth.vaec.va.gov",
-    "id": 18020664253,
-    "entry_timestamp": "2025-04-23T15:40:17.579",
-    "not_before": "2024-06-24T00:00:00",
-    "not_after": "2025-07-02T23:59:59",
-    "serial_number": "08ac58be7949e6446347e4f53958930f",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 185752,
@@ -6310,18 +6382,6 @@
     "not_after": "2025-07-07T23:59:59",
     "serial_number": "0a3abf28c2163c4d0a00ebd3fce4e4d9",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "cprs-auth.vaec.va.gov",
-    "name_value": "cprs-auth.vaec.va.gov",
-    "id": 13506012923,
-    "entry_timestamp": "2024-06-24T20:44:43.128",
-    "not_before": "2024-06-24T00:00:00",
-    "not_after": "2025-07-02T23:59:59",
-    "serial_number": "08ac58be7949e6446347e4f53958930f",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 185752,
