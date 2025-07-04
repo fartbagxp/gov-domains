@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 185748,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
+    "common_name": "www.homelandsecurity.gov",
+    "name_value": "cisa.gov\ndevlearning.cisa.gov\nlearning.cisa.gov\nwww.cisa.gov",
+    "id": 19396167678,
+    "entry_timestamp": "2025-07-02T13:12:06.821",
+    "not_before": "2025-07-02T00:00:00",
+    "not_after": "2025-11-19T23:59:59",
+    "serial_number": "0715aefa991e5cc37520d0222bb29cf7",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "www.homelandsecurity.gov",
+    "name_value": "cisa.gov\ndevlearning.cisa.gov\nlearning.cisa.gov\nwww.cisa.gov",
+    "id": 19396152796,
+    "entry_timestamp": "2025-07-02T13:10:47.603",
+    "not_before": "2025-07-02T00:00:00",
+    "not_after": "2025-11-19T23:59:59",
+    "serial_number": "05a1b8ff3ebef87c348480125083f3b7",
+    "result_count": 4
+  },
+  {
     "issuer_ca_id": 204407,
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
     "common_name": "protectivedns.cisa.gov",
@@ -754,18 +778,6 @@
     "not_after": "2026-04-24T23:59:59",
     "serial_number": "0df62ada86c94562fa19662f17f1f4cb",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "development.gateway.cisa.gov",
-    "name_value": "*.development.gateway.cisa.gov\ndevelopment.gateway.cisa.gov",
-    "id": 18044617096,
-    "entry_timestamp": "2025-04-24T21:45:16.153",
-    "not_before": "2024-07-03T00:00:00",
-    "not_after": "2025-07-02T23:59:59",
-    "serial_number": "08c0d8997596d8d4c6ec8a4581aff797",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 185752,
@@ -1798,17 +1810,5 @@
     "not_after": "2025-07-07T23:59:59",
     "serial_number": "0b65912ea7dcfeb9396ac7a0f211a36a",
     "result_count": 4
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "development.gateway.cisa.gov",
-    "name_value": "*.development.gateway.cisa.gov\ndevelopment.gateway.cisa.gov",
-    "id": 13605658213,
-    "entry_timestamp": "2024-07-03T21:07:30.141",
-    "not_before": "2024-07-03T00:00:00",
-    "not_after": "2025-07-02T23:59:59",
-    "serial_number": "08c0d8997596d8d4c6ec8a4581aff797",
-    "result_count": 3
   }
 ]
