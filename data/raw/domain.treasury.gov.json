@@ -1,5 +1,77 @@
 [
   {
+    "issuer_ca_id": 204407,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
+    "common_name": "treasury.gov",
+    "name_value": "*.treasury.gov\ntreasury.gov",
+    "id": 19464140995,
+    "entry_timestamp": "2025-07-05T09:30:12.5",
+    "not_before": "2025-07-05T00:00:00",
+    "not_after": "2025-10-02T15:26:44",
+    "serial_number": "00930d23e68536bcab05b306c5c3dad199",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204407,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
+    "common_name": "treasury.gov",
+    "name_value": "*.treasury.gov\ntreasury.gov",
+    "id": 19464140717,
+    "entry_timestamp": "2025-07-05T09:30:11.34",
+    "not_before": "2025-07-05T00:00:00",
+    "not_after": "2025-10-02T15:26:44",
+    "serial_number": "00930d23e68536bcab05b306c5c3dad199",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "treasury.gov",
+    "name_value": "*.treasury.gov\ntreasury.gov",
+    "id": 19446461673,
+    "entry_timestamp": "2025-07-04T15:26:31.387",
+    "not_before": "2025-07-04T00:00:00",
+    "not_after": "2025-10-01T06:45:25",
+    "serial_number": "63396ef91f3d736cd657c7cec8b401f3",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "treasury.gov",
+    "name_value": "*.treasury.gov\ntreasury.gov",
+    "id": 19446461222,
+    "entry_timestamp": "2025-07-04T15:26:30.151",
+    "not_before": "2025-07-04T00:00:00",
+    "not_after": "2025-10-01T06:45:25",
+    "serial_number": "63396ef91f3d736cd657c7cec8b401f3",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "ipp.for.fiscal.treasury.gov",
+    "name_value": "ipp.for.fiscal.treasury.gov\nwww.ipp.for.fiscal.treasury.gov",
+    "id": 19443002910,
+    "entry_timestamp": "2025-07-04T11:47:18.414",
+    "not_before": "2025-07-04T10:48:47",
+    "not_after": "2025-10-02T10:48:46",
+    "serial_number": "05c8ba4cf4b2d0426e803288c6b3b96d84a6",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "ipp.for.fiscal.treasury.gov",
+    "name_value": "ipp.for.fiscal.treasury.gov\nwww.ipp.for.fiscal.treasury.gov",
+    "id": 19442975979,
+    "entry_timestamp": "2025-07-04T11:47:17.444",
+    "not_before": "2025-07-04T10:48:47",
+    "not_after": "2025-10-02T10:48:46",
+    "serial_number": "05c8ba4cf4b2d0426e803288c6b3b96d84a6",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 295814,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
     "common_name": "www.cir.fiscal.treasury.gov",
@@ -429,30 +501,6 @@
     "not_before": "2025-06-24T00:00:00",
     "not_after": "2026-07-24T23:59:59",
     "serial_number": "0092cf9501f6387a86deed37fa245a93e6",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 385512,
-    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
-    "common_name": "caia-test.treasury.gov",
-    "name_value": "caia-test.treasury.gov",
-    "id": 19228444923,
-    "entry_timestamp": "2025-06-24T16:42:49.775",
-    "not_before": "2025-06-24T00:00:00",
-    "not_after": "2025-07-04T23:59:59",
-    "serial_number": "00fda52c39acd0010b9e4c3285a3b57e90",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 385512,
-    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
-    "common_name": "caia-test.treasury.gov",
-    "name_value": "caia-test.treasury.gov",
-    "id": 19228444914,
-    "entry_timestamp": "2025-06-24T16:42:46.693",
-    "not_before": "2025-06-24T00:00:00",
-    "not_after": "2025-07-04T23:59:59",
-    "serial_number": "00fda52c39acd0010b9e4c3285a3b57e90",
     "result_count": 2
   },
   {
@@ -9477,18 +9525,6 @@
     "not_before": "2024-06-07T14:33:39",
     "not_after": "2025-07-07T14:33:38",
     "serial_number": "6dc96569f115c1b9a4aae8ec7a6df494",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "aws-rdp.tcloud.treasury.gov",
-    "name_value": "aws-rdp.tcloud.treasury.gov",
-    "id": 13298027238,
-    "entry_timestamp": "2024-06-05T20:04:21.736",
-    "not_before": "2024-06-05T20:04:21",
-    "not_after": "2025-07-05T20:04:20",
-    "serial_number": "48e272a62ef9bcf4f3504d2c7a1972de",
     "result_count": 2
   }
 ]

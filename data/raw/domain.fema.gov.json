@@ -2,6 +2,54 @@
   {
     "issuer_ca_id": 282053,
     "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
+    "common_name": "apps.fema.gov",
+    "name_value": "apps.fema.gov",
+    "id": 19472401001,
+    "entry_timestamp": "2025-07-05T17:59:21.164",
+    "not_before": "2025-07-05T17:36:40",
+    "not_after": "2025-10-03T17:33:21",
+    "serial_number": "5d3eb6c6d99b4cf39c165ee8ff245040",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 282054,
+    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
+    "common_name": "apps.fema.gov",
+    "name_value": "apps.fema.gov",
+    "id": 19472373365,
+    "entry_timestamp": "2025-07-05T17:58:26.648",
+    "not_before": "2025-07-05T17:47:26",
+    "not_after": "2025-10-03T17:33:24",
+    "serial_number": "109448aee90520b2e633b47a44dd4ce6",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 282054,
+    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
+    "common_name": "apps.fema.gov",
+    "name_value": "apps.fema.gov",
+    "id": 19472362897,
+    "entry_timestamp": "2025-07-05T17:57:27.423",
+    "not_before": "2025-07-05T17:47:26",
+    "not_after": "2025-10-03T17:33:24",
+    "serial_number": "109448aee90520b2e633b47a44dd4ce6",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 282053,
+    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
+    "common_name": "apps.fema.gov",
+    "name_value": "apps.fema.gov",
+    "id": 19472232506,
+    "entry_timestamp": "2025-07-05T17:46:42.17",
+    "not_before": "2025-07-05T17:36:40",
+    "not_after": "2025-10-03T17:33:21",
+    "serial_number": "5d3eb6c6d99b4cf39c165ee8ff245040",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 282053,
+    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
     "common_name": "integration.aws.fema.gov",
     "name_value": "integration.aws.fema.gov",
     "id": 19445469779,
@@ -4562,30 +4610,6 @@
   {
     "issuer_ca_id": 1671,
     "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2014 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1M",
-    "common_name": "staging-fma.fema.gov",
-    "name_value": "staging-fma.fema.gov",
-    "id": 16780320728,
-    "entry_timestamp": "2025-02-20T21:36:48.356",
-    "not_before": "2024-07-02T12:42:06",
-    "not_after": "2025-07-05T12:42:05",
-    "serial_number": "37d2313f170c6bb1b4496fe599045355",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1671,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2014 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1M",
-    "common_name": "fma.fema.gov",
-    "name_value": "fma.fema.gov",
-    "id": 16780296282,
-    "entry_timestamp": "2025-02-20T21:28:24.382",
-    "not_before": "2024-07-02T12:40:12",
-    "not_after": "2025-07-05T12:40:10",
-    "serial_number": "1c2f8cd9443f3cebef39fe4e7b4935b0",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1671,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2014 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1M",
     "common_name": "training.fema.gov",
     "name_value": "training.fema.gov\nwww.training.fema.gov",
     "id": 16780288313,
@@ -4594,18 +4618,6 @@
     "not_after": "2025-07-11T11:25:14",
     "serial_number": "542e9dcc03fb36608750f5b379fb8352",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 1671,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2014 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1M",
-    "common_name": "ssp.fema.gov",
-    "name_value": "ssp.fema.gov",
-    "id": 16780183928,
-    "entry_timestamp": "2025-02-20T20:47:53.092",
-    "not_before": "2024-07-05T14:02:52",
-    "not_after": "2025-07-05T14:02:51",
-    "serial_number": "5e673b34ecb0e73aeb472eed58ac6b5c",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 365075,
@@ -6034,42 +6046,6 @@
     "not_after": "2025-07-08T23:59:59",
     "serial_number": "00b012913cb9cbd75432e23a93475cd4a0",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 1671,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2014 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1M",
-    "common_name": "ssp.fema.gov",
-    "name_value": "ssp.fema.gov",
-    "id": 13620755499,
-    "entry_timestamp": "2024-07-05T14:02:52.36",
-    "not_before": "2024-07-05T14:02:52",
-    "not_after": "2025-07-05T14:02:51",
-    "serial_number": "5e673b34ecb0e73aeb472eed58ac6b5c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1671,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2014 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1M",
-    "common_name": "staging-fma.fema.gov",
-    "name_value": "staging-fma.fema.gov",
-    "id": 13593002025,
-    "entry_timestamp": "2024-07-02T12:42:06.278",
-    "not_before": "2024-07-02T12:42:06",
-    "not_after": "2025-07-05T12:42:05",
-    "serial_number": "37d2313f170c6bb1b4496fe599045355",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1671,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2014 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1M",
-    "common_name": "fma.fema.gov",
-    "name_value": "fma.fema.gov",
-    "id": 13592987151,
-    "entry_timestamp": "2024-07-02T12:40:12.208",
-    "not_before": "2024-07-02T12:40:12",
-    "not_after": "2025-07-05T12:40:10",
-    "serial_number": "1c2f8cd9443f3cebef39fe4e7b4935b0",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 1586,
