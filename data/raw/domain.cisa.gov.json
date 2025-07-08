@@ -1,5 +1,17 @@
 [
   {
+    "issuer_ca_id": 185748,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
+    "common_name": "www.homelandsecurity.gov",
+    "name_value": "cisa.gov\ndevlearning.cisa.gov\nlearning.cisa.gov\nwww.cisa.gov",
+    "id": 19517907329,
+    "entry_timestamp": "2025-07-08T00:03:53.051",
+    "not_before": "2025-07-02T00:00:00",
+    "not_after": "2025-11-19T23:59:59",
+    "serial_number": "0715aefa991e5cc37520d0222bb29cf7",
+    "result_count": 4
+  },
+  {
     "issuer_ca_id": 282053,
     "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
     "common_name": "connect.cisa.gov",
@@ -1858,17 +1870,5 @@
     "not_after": "2025-07-14T23:59:59",
     "serial_number": "075f6373b4bfb0de67bce0df3b053ea2",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "gateway.cisa.gov",
-    "name_value": "*.gateway.cisa.gov\ngateway.cisa.gov\npciims.cisa.gov",
-    "id": 13662343034,
-    "entry_timestamp": "2024-07-08T19:34:05.983",
-    "not_before": "2024-07-08T00:00:00",
-    "not_after": "2025-07-07T23:59:59",
-    "serial_number": "0b65912ea7dcfeb9396ac7a0f211a36a",
-    "result_count": 4
   }
 ]
