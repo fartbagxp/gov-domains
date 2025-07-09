@@ -1,5 +1,89 @@
 [
   {
+    "issuer_ca_id": 1586,
+    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
+    "common_name": "teenpregnancy.acf.hhs.gov",
+    "name_value": "teenpregnancy.acf.hhs.gov\nwww.teenpregnancy.acf.hhs.gov",
+    "id": 19543007486,
+    "entry_timestamp": "2025-07-09T04:28:16.258",
+    "not_before": "2024-07-12T19:39:39",
+    "not_after": "2025-07-20T19:39:38",
+    "serial_number": "204cb4f22764f07f2248089b1f7fa542",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 1586,
+    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
+    "common_name": "cbexpress.acf.hhs.gov",
+    "name_value": "cbexpress.acf.hhs.gov\nwww.cbexpress.acf.hhs.gov",
+    "id": 19541800638,
+    "entry_timestamp": "2025-07-09T03:02:57.763",
+    "not_before": "2024-07-12T19:19:10",
+    "not_after": "2025-07-22T19:19:08",
+    "serial_number": "56d97a85e75aa5e08dbeaafd481a92b9",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "ispgsplunkext01.cms.hhs.gov",
+    "name_value": "ispgsplunkext01.cms.hhs.gov",
+    "id": 19541608984,
+    "entry_timestamp": "2025-07-09T02:50:19.845",
+    "not_before": "2024-07-12T14:26:38",
+    "not_after": "2025-08-11T14:25:38",
+    "serial_number": "400190a756bf0f6d61b55700a7862192",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "hclsig-thinkculturalhealth-qc.thinkculturalhealth.hhs.gov",
+    "name_value": "hclsig-thinkculturalhealth-qc.thinkculturalhealth.hhs.gov",
+    "id": 19539903610,
+    "entry_timestamp": "2025-07-09T00:54:24.663",
+    "not_before": "2024-07-10T13:44:38",
+    "not_after": "2025-08-09T13:43:38",
+    "serial_number": "4001909ce3940e3b9a20e43e5def0533",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "www.rds.cms.hhs.gov",
+    "name_value": "dev.rds.cms.hhs.gov\nimp.rds.cms.hhs.gov\nrds.cms.hhs.gov\nwww.dev.rds.cms.hhs.gov\nwww.imp.rds.cms.hhs.gov\nwww.rds.cms.hhs.gov",
+    "id": 19538239057,
+    "entry_timestamp": "2025-07-08T23:00:18.209",
+    "not_before": "2025-07-08T22:01:46",
+    "not_after": "2025-10-06T22:01:45",
+    "serial_number": "064ee122bc4a343884b043bf3abb1d285b4a",
+    "result_count": 7
+  },
+  {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "www.rds.cms.hhs.gov",
+    "name_value": "dev.rds.cms.hhs.gov\nimp.rds.cms.hhs.gov\nrds.cms.hhs.gov\nwww.dev.rds.cms.hhs.gov\nwww.imp.rds.cms.hhs.gov\nwww.rds.cms.hhs.gov",
+    "id": 19538242494,
+    "entry_timestamp": "2025-07-08T23:00:16.149",
+    "not_before": "2025-07-08T22:01:46",
+    "not_after": "2025-10-06T22:01:45",
+    "serial_number": "064ee122bc4a343884b043bf3abb1d285b4a",
+    "result_count": 7
+  },
+  {
+    "issuer_ca_id": 365075,
+    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
+    "common_name": "adfs.acf.hhs.gov",
+    "name_value": "adfs.acf.hhs.gov\ncertauth.adfs.acf.hhs.gov\nwww.adfs.acf.hhs.gov",
+    "id": 19531834781,
+    "entry_timestamp": "2025-07-08T15:33:11.986",
+    "not_before": "2025-07-08T15:23:10",
+    "not_after": "2026-07-13T16:45:43",
+    "serial_number": "184de6b55031654a3e5da3e43092296f",
+    "result_count": 4
+  },
+  {
     "issuer_ca_id": 247106,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
     "common_name": "*.acts.hhs.gov",
@@ -3768,18 +3852,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "www.cdc.gov",
-    "name_value": "hospitals.millionhearts.hhs.gov\nhospitals.millionhearts-int.hhs.gov\nhypertension.millionhearts.hhs.gov\nhypertension.millionhearts-int.hhs.gov\nmillionhearts.hhs.gov\nmillionheartsns.hhs.gov",
-    "id": 17608484086,
-    "entry_timestamp": "2025-04-03T17:14:24.746",
-    "not_before": "2025-04-02T00:00:00",
-    "not_after": "2025-07-08T23:59:59",
-    "serial_number": "076b172960db27d38a27a3311eb8683d",
-    "result_count": 6
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "*.cloud.hhs.gov",
@@ -3804,54 +3876,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "www.cdc.gov",
-    "name_value": "hospitals.millionhearts.hhs.gov\nhospitals.millionhearts-int.hhs.gov\nhypertension.millionhearts.hhs.gov\nhypertension.millionhearts-int.hhs.gov\nmillionhearts.hhs.gov\nmillionheartsns.hhs.gov",
-    "id": 17589651845,
-    "entry_timestamp": "2025-04-02T20:39:43.388",
-    "not_before": "2025-04-02T00:00:00",
-    "not_after": "2025-07-08T23:59:59",
-    "serial_number": "076b172960db27d38a27a3311eb8683d",
-    "result_count": 6
-  },
-  {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "www.cdc.gov",
-    "name_value": "hospitals.millionhearts.hhs.gov\nhospitals.millionhearts-int.hhs.gov\nhypertension.millionhearts.hhs.gov\nhypertension.millionhearts-int.hhs.gov\nmillionhearts.hhs.gov\nmillionheartsns.hhs.gov",
-    "id": 17586518642,
-    "entry_timestamp": "2025-04-02T18:14:52.276",
-    "not_before": "2025-04-02T00:00:00",
-    "not_after": "2025-07-08T23:59:59",
-    "serial_number": "0cbac8b48c2bf6f0a80066d904ddd40d",
-    "result_count": 6
-  },
-  {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "www.cdc.gov",
-    "name_value": "hospitals.millionhearts.hhs.gov\nhospitals.millionhearts-int.hhs.gov\nhypertension.millionhearts.hhs.gov\nhypertension.millionhearts-int.hhs.gov\nmillionhearts.hhs.gov\nmillionheartsns.hhs.gov",
-    "id": 17586847017,
-    "entry_timestamp": "2025-04-02T17:17:31.082",
-    "not_before": "2025-04-02T00:00:00",
-    "not_after": "2025-07-08T23:59:59",
-    "serial_number": "0cbac8b48c2bf6f0a80066d904ddd40d",
-    "result_count": 6
-  },
-  {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "www.cdc.gov",
-    "name_value": "hospitals.millionhearts.hhs.gov\nhospitals.millionhearts-int.hhs.gov\nhypertension.millionhearts.hhs.gov\nhypertension.millionhearts-int.hhs.gov\nmillionhearts.hhs.gov\nmillionheartsns.hhs.gov",
-    "id": 17584234465,
-    "entry_timestamp": "2025-04-02T15:13:22.325",
-    "not_before": "2025-04-02T00:00:00",
-    "not_after": "2025-07-08T23:59:59",
-    "serial_number": "0176833cae300c4f980fa2f3247270ef",
-    "result_count": 6
-  },
-  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "fplstest.acf.hhs.gov",
@@ -3874,18 +3898,6 @@
     "not_after": "2026-05-02T14:32:52",
     "serial_number": "400195f6ec3cc6c1c0c75e3ba2e721b7",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "www.cdc.gov",
-    "name_value": "hospitals.millionhearts.hhs.gov\nhospitals.millionhearts-int.hhs.gov\nhypertension.millionhearts.hhs.gov\nhypertension.millionhearts-int.hhs.gov\nmillionhearts.hhs.gov\nmillionheartsns.hhs.gov",
-    "id": 17583594475,
-    "entry_timestamp": "2025-04-02T14:06:49.847",
-    "not_before": "2025-04-02T00:00:00",
-    "not_after": "2025-07-08T23:59:59",
-    "serial_number": "0176833cae300c4f980fa2f3247270ef",
-    "result_count": 6
   },
   {
     "issuer_ca_id": 365075,
@@ -5590,18 +5602,6 @@
     "not_after": "2026-03-02T14:46:29",
     "serial_number": "400194bcd4ca8ca40c02a2061f5c5b38",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 62148,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust RSA CA 2018",
-    "common_name": "www.cdc.gov",
-    "name_value": "hospitals.millionhearts.hhs.gov\nhospitals.millionhearts-int.hhs.gov\nhypertension.millionhearts.hhs.gov\nhypertension.millionhearts-int.hhs.gov\nmillionhearts.hhs.gov\nmillionheartsns.hhs.gov",
-    "id": 16452590451,
-    "entry_timestamp": "2025-01-30T16:44:44.14",
-    "not_before": "2024-10-24T00:00:00",
-    "not_after": "2025-07-08T23:59:59",
-    "serial_number": "0a4580b96e0168349df1a48cab50d76e",
-    "result_count": 6
   },
   {
     "issuer_ca_id": 365075,
@@ -8388,30 +8388,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 62148,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust RSA CA 2018",
-    "common_name": "www.cdc.gov",
-    "name_value": "hospitals.millionhearts.hhs.gov\nhospitals.millionhearts-int.hhs.gov\nhypertension.millionhearts.hhs.gov\nhypertension.millionhearts-int.hhs.gov\nmillionhearts.hhs.gov\nmillionheartsns.hhs.gov",
-    "id": 15067435387,
-    "entry_timestamp": "2024-10-24T15:54:58.244",
-    "not_before": "2024-10-24T00:00:00",
-    "not_after": "2025-07-08T23:59:59",
-    "serial_number": "0a4580b96e0168349df1a48cab50d76e",
-    "result_count": 6
-  },
-  {
-    "issuer_ca_id": 62148,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust RSA CA 2018",
-    "common_name": "www.cdc.gov",
-    "name_value": "hospitals.millionhearts.hhs.gov\nhospitals.millionhearts-int.hhs.gov\nhypertension.millionhearts.hhs.gov\nhypertension.millionhearts-int.hhs.gov\nmillionhearts.hhs.gov\nmillionheartsns.hhs.gov",
-    "id": 15067121588,
-    "entry_timestamp": "2024-10-24T15:11:57.83",
-    "not_before": "2024-10-24T00:00:00",
-    "not_after": "2025-07-08T23:59:59",
-    "serial_number": "03f7140ea379cf76d918f3c80c9dd0d0",
-    "result_count": 6
-  },
-  {
     "issuer_ca_id": 1586,
     "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
     "common_name": "tags.acf.hhs.gov",
@@ -10104,18 +10080,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 62148,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust RSA CA 2018",
-    "common_name": "www.cdc.gov",
-    "name_value": "hospitals.millionhearts.hhs.gov\nhospitals.millionhearts-int.hhs.gov\nhypertension.millionhearts.hhs.gov\nhypertension.millionhearts-int.hhs.gov\nmillionhearts.hhs.gov\nmillionheartsns.hhs.gov",
-    "id": 14063655052,
-    "entry_timestamp": "2024-08-09T16:02:33.408",
-    "not_before": "2024-07-19T00:00:00",
-    "not_after": "2025-07-08T23:59:59",
-    "serial_number": "0825648339f24d7b9aa542dc299112d2",
-    "result_count": 6
-  },
-  {
     "issuer_ca_id": 247115,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
     "common_name": "ecquality.acf.hhs.gov",
@@ -10680,18 +10644,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 62148,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust RSA CA 2018",
-    "common_name": "www.cdc.gov",
-    "name_value": "hospitals.millionhearts.hhs.gov\nhospitals.millionhearts-int.hhs.gov\nhypertension.millionhearts.hhs.gov\nhypertension.millionhearts-int.hhs.gov\nmillionhearts.hhs.gov\nmillionheartsns.hhs.gov",
-    "id": 13805450918,
-    "entry_timestamp": "2024-07-19T22:09:25.35",
-    "not_before": "2024-07-19T00:00:00",
-    "not_after": "2025-07-08T23:59:59",
-    "serial_number": "0825648339f24d7b9aa542dc299112d2",
-    "result_count": 6
-  },
-  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "sawdhhsdbdap1.hhs.gov",
@@ -10910,18 +10862,6 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "ufmsnrt.hhs.gov",
-    "name_value": "ufmsnrt.hhs.gov",
-    "id": 13674124043,
-    "entry_timestamp": "2024-07-09T19:56:19.955",
-    "not_before": "2024-07-09T00:00:00",
-    "not_after": "2025-07-08T23:59:59",
-    "serial_number": "0c804aa3b814d0db30ec6bfdf8ed160f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "ewvtcexpe02.cms.hhs.gov",
     "name_value": "collab-edge.cms.hhs.gov\newvtcexpe02.cms.hhs.gov\newvtcexpe.cms.hhs.gov\nEWVTCEXPEEXT02.cms.hhs.gov",
     "id": 13671994915,
@@ -11025,54 +10965,6 @@
     "not_before": "2024-07-08T17:26:23",
     "not_after": "2025-08-07T17:25:23",
     "serial_number": "4001909361df402d0c4b8fc8693e5e5b",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "hypertension.millionhearts.hhs.gov",
-    "name_value": "hypertension.millionhearts.hhs.gov",
-    "id": 13660184946,
-    "entry_timestamp": "2024-07-08T16:01:36.863",
-    "not_before": "2024-07-08T16:01:36",
-    "not_after": "2025-07-08T16:01:35",
-    "serial_number": "7ea58052eadcbbe3d8acae14b25bcc3e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "hospitals.millionhearts.hhs.gov",
-    "name_value": "hospitals.millionhearts.hhs.gov",
-    "id": 13660185042,
-    "entry_timestamp": "2024-07-08T16:01:36.843",
-    "not_before": "2024-07-08T16:01:36",
-    "not_after": "2025-07-08T16:01:35",
-    "serial_number": "3202cef0eed2d34f8031e3ee6bae6c72",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "hospitals.millionhearts-int.hhs.gov",
-    "name_value": "hospitals.millionhearts-int.hhs.gov",
-    "id": 13660185043,
-    "entry_timestamp": "2024-07-08T16:01:36.812",
-    "not_before": "2024-07-08T16:01:36",
-    "not_after": "2025-07-08T16:01:35",
-    "serial_number": "5902bbbd42cc8be3dde691d3d313b7df",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "hypertension.millionhearts-int.hhs.gov",
-    "name_value": "hypertension.millionhearts-int.hhs.gov",
-    "id": 13660185041,
-    "entry_timestamp": "2024-07-08T16:01:36.666",
-    "not_before": "2024-07-08T16:01:36",
-    "not_after": "2025-07-08T16:01:35",
-    "serial_number": "69bcc042f00926e1a259f731492de921",
     "result_count": 2
   },
   {
