@@ -1,5 +1,65 @@
 [
   {
+    "issuer_ca_id": 282054,
+    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
+    "common_name": "uatextsoa.fsms.dhs.gov",
+    "name_value": "*.uatextsoa.fsms.dhs.gov\nuatextsoa.fsms.dhs.gov",
+    "id": 19667427057,
+    "entry_timestamp": "2025-07-14T23:10:12.791",
+    "not_before": "2025-07-14T23:00:11",
+    "not_after": "2025-10-11T23:21:18",
+    "serial_number": "742dfd2bf3ef4718cdc7bdaed7f05d5b",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "fpspubdev.dhs.gov",
+    "name_value": "fpspubdev.dhs.gov",
+    "id": 19664563917,
+    "entry_timestamp": "2025-07-14T20:34:53.646",
+    "not_before": "2025-07-14T19:36:20",
+    "not_after": "2025-10-12T19:36:19",
+    "serial_number": "05d0b144f192bdfa9febc77042a3e487f0c4",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "fpspubdev.dhs.gov",
+    "name_value": "fpspubdev.dhs.gov",
+    "id": 19664571249,
+    "entry_timestamp": "2025-07-14T20:34:51.177",
+    "not_before": "2025-07-14T19:36:20",
+    "not_after": "2025-10-12T19:36:19",
+    "serial_number": "05d0b144f192bdfa9febc77042a3e487f0c4",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "fpspubtest.dhs.gov",
+    "name_value": "fpspubtest.dhs.gov",
+    "id": 19664549236,
+    "entry_timestamp": "2025-07-14T20:34:21.811",
+    "not_before": "2025-07-14T19:35:51",
+    "not_after": "2025-10-12T19:35:50",
+    "serial_number": "06c05fb47bd507bab8116467fe08ae93aa99",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "fpspubtest.dhs.gov",
+    "name_value": "fpspubtest.dhs.gov",
+    "id": 19664553631,
+    "entry_timestamp": "2025-07-14T20:34:21.537",
+    "not_before": "2025-07-14T19:35:51",
+    "not_after": "2025-10-12T19:35:50",
+    "serial_number": "06c05fb47bd507bab8116467fe08ae93aa99",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 204411,
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
     "common_name": "esta.cbp.dhs.gov",
@@ -485,7 +545,7 @@
     "common_name": "extsoa.fsms.dhs.gov",
     "name_value": "extsoa.fsms.dhs.gov",
     "id": 19598445406,
-    "entry_timestamp": "2025-07-11T18:04:29.533",
+    "entry_timestamp": "2025-07-11T18:04:29.525",
     "not_before": "2025-07-11T17:04:28",
     "not_after": "2025-10-09T18:04:25",
     "serial_number": "008054aafe4a852e500d4206c2426d1813",
@@ -1493,7 +1553,7 @@
     "common_name": "snow-test.dhs.gov",
     "name_value": "snow-test.dhs.gov",
     "id": 19433252158,
-    "entry_timestamp": "2025-07-04T01:29:23.343",
+    "entry_timestamp": "2025-07-04T01:29:23.273",
     "not_before": "2025-07-04T00:30:53",
     "not_after": "2025-10-02T00:30:52",
     "serial_number": "05f0d14aad6866ba43fd22fd294dff8120f3",
@@ -12360,30 +12420,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 282054,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
-    "common_name": "origin-nonprod-save-mod.uscis.dhs.gov",
-    "name_value": "*.origin-nonprod-save-mod.uscis.dhs.gov\norigin-nonprod-save-mod.uscis.dhs.gov",
-    "id": 18009979397,
-    "entry_timestamp": "2025-04-23T03:13:00.284",
-    "not_before": "2025-04-23T03:02:59",
-    "not_after": "2025-07-21T19:06:53",
-    "serial_number": "12e6a402fe4bb0d331f186341291355d",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 282053,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
-    "common_name": "origin-nonprod-save-mod.uscis.dhs.gov",
-    "name_value": "*.origin-nonprod-save-mod.uscis.dhs.gov\norigin-nonprod-save-mod.uscis.dhs.gov",
-    "id": 18006188820,
-    "entry_timestamp": "2025-04-22T22:56:06.121",
-    "not_before": "2025-04-22T22:46:04",
-    "not_after": "2025-07-21T19:06:51",
-    "serial_number": "3a6650f8d0f553e5e95b00c1bcccfff9",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 385512,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
     "common_name": "*.ravenapp1.ice.dhs.gov",
@@ -12405,54 +12441,6 @@
     "not_before": "2025-04-22T00:00:00",
     "not_after": "2026-04-27T23:59:59",
     "serial_number": "1b36c324b86a268bde2e7c18bb153b80",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "origin-nonprod-save-mod.uscis.dhs.gov",
-    "name_value": "*.origin-nonprod-save-mod.uscis.dhs.gov\norigin-nonprod-save-mod.uscis.dhs.gov",
-    "id": 18003119932,
-    "entry_timestamp": "2025-04-22T19:08:38.545",
-    "not_before": "2025-04-22T18:08:37",
-    "not_after": "2025-07-21T19:08:31",
-    "serial_number": "009ff172fbee0ae0e40d882309fe92f039",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "origin-nonprod-save-mod.uscis.dhs.gov",
-    "name_value": "*.origin-nonprod-save-mod.uscis.dhs.gov\norigin-nonprod-save-mod.uscis.dhs.gov",
-    "id": 18003219651,
-    "entry_timestamp": "2025-04-22T19:08:25.79",
-    "not_before": "2025-04-22T18:08:25",
-    "not_after": "2025-07-21T19:06:50",
-    "serial_number": "00e00449f9720247741124b12a46ab744f",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 105493,
-    "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
-    "common_name": "ravenapp1.ice.dhs.gov",
-    "name_value": "ravenapp1.ice.dhs.gov\nwww.ravenapp1.ice.dhs.gov",
-    "id": 18001533318,
-    "entry_timestamp": "2025-04-22T17:30:47.254",
-    "not_before": "2025-04-22T00:00:00",
-    "not_after": "2025-07-21T23:59:59",
-    "serial_number": "00a74b321f95a036f301c254d9ebf30749",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 105493,
-    "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
-    "common_name": "ravenapp1.ice.dhs.gov",
-    "name_value": "ravenapp1.ice.dhs.gov\nwww.ravenapp1.ice.dhs.gov",
-    "id": 18001533634,
-    "entry_timestamp": "2025-04-22T17:30:45.611",
-    "not_before": "2025-04-22T00:00:00",
-    "not_after": "2025-07-21T23:59:59",
-    "serial_number": "00a74b321f95a036f301c254d9ebf30749",
     "result_count": 3
   },
   {
@@ -18862,17 +18850,5 @@
     "not_after": "2025-07-26T13:15:08",
     "serial_number": "489a236e2497c9304049d56f4804ae0d",
     "result_count": 4
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "etasx.tsa.dhs.gov",
-    "name_value": "etasx.tsa.dhs.gov",
-    "id": 13469646516,
-    "entry_timestamp": "2024-06-21T19:55:34.705",
-    "not_before": "2024-06-21T19:55:34",
-    "not_after": "2025-07-21T19:55:33",
-    "serial_number": "4b7c8e19ff34a2dc11ebaf23f36cd27f",
-    "result_count": 2
   }
 ]
