@@ -2,6 +2,30 @@
   {
     "issuer_ca_id": 295814,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "www.usa.gov",
+    "name_value": "www.usa.gov",
+    "id": 19887559999,
+    "entry_timestamp": "2025-07-25T00:19:05.504",
+    "not_before": "2025-07-24T23:20:35",
+    "not_after": "2025-10-22T23:20:34",
+    "serial_number": "06cc4b146c19d01a01010feaee7073a51c03",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "www.usa.gov",
+    "name_value": "www.usa.gov",
+    "id": 19886959560,
+    "entry_timestamp": "2025-07-25T00:19:05.383",
+    "not_before": "2025-07-24T23:20:35",
+    "not_after": "2025-10-22T23:20:34",
+    "serial_number": "06cc4b146c19d01a01010feaee7073a51c03",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
     "common_name": "beta.usa.gov",
     "name_value": "beta.usa.gov",
     "id": 19842841731,
@@ -89,7 +113,7 @@
     "common_name": "beta-dr.usa.gov",
     "name_value": "beta-dr.usa.gov",
     "id": 19662076711,
-    "entry_timestamp": "2025-07-14T17:53:47.978",
+    "entry_timestamp": "2025-07-14T17:53:47.87",
     "not_before": "2025-07-14T16:55:17",
     "not_after": "2025-10-12T16:55:16",
     "serial_number": "05a071c564b6eec32fdac64514b5918d2137",
@@ -113,7 +137,7 @@
     "common_name": "cms-dr.usa.gov",
     "name_value": "cms-dr.usa.gov",
     "id": 19662074326,
-    "entry_timestamp": "2025-07-14T17:53:42.207",
+    "entry_timestamp": "2025-07-14T17:53:42.195",
     "not_before": "2025-07-14T16:55:11",
     "not_after": "2025-10-12T16:55:10",
     "serial_number": "05ba59fd42fb1f76701d7c9894df059b0446",
@@ -1332,30 +1356,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "open.usa.gov",
-    "name_value": "open.usa.gov",
-    "id": 18081161704,
-    "entry_timestamp": "2025-04-26T22:19:28.246",
-    "not_before": "2025-04-26T21:20:57",
-    "not_after": "2025-07-25T21:20:56",
-    "serial_number": "063e98107f5cb87e71629f6a3c9fc38a9e06",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "open.usa.gov",
-    "name_value": "open.usa.gov",
-    "id": 18081161394,
-    "entry_timestamp": "2025-04-26T22:19:27.887",
-    "not_before": "2025-04-26T21:20:57",
-    "not_after": "2025-07-25T21:20:56",
-    "serial_number": "063e98107f5cb87e71629f6a3c9fc38a9e06",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 247115,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
     "common_name": "staging.search.usa.gov",
@@ -1534,17 +1534,5 @@
     "not_after": "2025-11-03T23:59:59",
     "serial_number": "055236dc1d88e2bcb834cb5c9fe8bfb7",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "elasticsearch-dev.search.usa.gov",
-    "name_value": "*.elasticsearch-dev.search.usa.gov\nelasticsearch-dev.search.usa.gov",
-    "id": 13507286773,
-    "entry_timestamp": "2024-06-24T23:32:09.567",
-    "not_before": "2024-06-24T00:00:00",
-    "not_after": "2025-07-23T23:59:59",
-    "serial_number": "02a7879ae93b6ce0606e3246fdebe616",
-    "result_count": 3
   }
 ]
