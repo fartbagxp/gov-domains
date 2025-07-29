@@ -1,5 +1,77 @@
 [
   {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "servicenowtest.fta.dot.gov",
+    "name_value": "servicenowtest.fta.dot.gov\nwww.servicenowtest.fta.dot.gov",
+    "id": 19964554315,
+    "entry_timestamp": "2025-07-28T13:52:30.476",
+    "not_before": "2025-07-28T00:00:00",
+    "not_after": "2026-07-28T23:59:59",
+    "serial_number": "782213b0dab10e8f5804aec3accc6a64",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "servicenowtest.fta.dot.gov",
+    "name_value": "servicenowtest.fta.dot.gov\nwww.servicenowtest.fta.dot.gov",
+    "id": 19964554436,
+    "entry_timestamp": "2025-07-28T13:52:30.175",
+    "not_before": "2025-07-28T00:00:00",
+    "not_after": "2026-07-28T23:59:59",
+    "serial_number": "782213b0dab10e8f5804aec3accc6a64",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295810,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E5",
+    "common_name": "equity-data.dot.gov",
+    "name_value": "equity-data.dot.gov",
+    "id": 19898415850,
+    "entry_timestamp": "2025-07-25T12:24:26.26",
+    "not_before": "2025-07-25T11:25:56",
+    "not_after": "2025-10-23T11:25:55",
+    "serial_number": "06fc2775d4464818e846220f83c715c3950e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295810,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E5",
+    "common_name": "equity-data.dot.gov",
+    "name_value": "equity-data.dot.gov",
+    "id": 19898414622,
+    "entry_timestamp": "2025-07-25T12:24:26.123",
+    "not_before": "2025-07-25T11:25:56",
+    "not_after": "2025-10-23T11:25:55",
+    "serial_number": "06fc2775d4464818e846220f83c715c3950e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295810,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E5",
+    "common_name": "equity-data.dot.gov",
+    "name_value": "equity-data.dot.gov",
+    "id": 19898413092,
+    "entry_timestamp": "2025-07-25T12:24:10.17",
+    "not_before": "2025-07-25T11:25:39",
+    "not_after": "2025-10-23T11:25:38",
+    "serial_number": "05b172a4d576107744c3f8ec7094918f003d",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295810,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E5",
+    "common_name": "equity-data.dot.gov",
+    "name_value": "equity-data.dot.gov",
+    "id": 19898410518,
+    "entry_timestamp": "2025-07-25T12:24:09.903",
+    "not_before": "2025-07-25T11:25:39",
+    "not_after": "2025-10-23T11:25:38",
+    "serial_number": "05b172a4d576107744c3f8ec7094918f003d",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 1586,
     "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
     "common_name": "www-odi.nhtsa.dot.gov",
@@ -1149,18 +1221,6 @@
     "not_before": "2025-06-12T00:00:00",
     "not_after": "2026-06-12T23:59:59",
     "serial_number": "00dde51b71c61409f5d6710309fd9a7b3e",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "score.fmcsa.dot.gov",
-    "name_value": "fmcsa.portal.dot.gov\nscore.fmcsa.dot.gov\nwww.score.fmcsa.dot.gov",
-    "id": 18962884482,
-    "entry_timestamp": "2025-06-11T19:33:59.798",
-    "not_before": "2024-08-30T18:15:55",
-    "not_after": "2025-07-26T18:15:54",
-    "serial_number": "44b2178f5ad377856d74f068c3ca0863",
     "result_count": 4
   },
   {
@@ -2722,30 +2782,6 @@
     "not_after": "2026-05-28T04:00:00",
     "serial_number": "7d40035311cadbc8ab709455d24e316d",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "www.itsknowledgeresources.its.dot.gov",
-    "name_value": "www.benefitcost.its.dot.gov\nwww.itsbenefits.its.dot.gov\nwww.itscosts.its.dot.gov\nwww.itsdeployment.its.dot.gov\nwww.itsknowledgeresources.its.dot.gov\nwww.itskr.its.dot.gov\nwww.itskrs.its.dot.gov\nwww.itslessons.its.dot.gov",
-    "id": 18110724139,
-    "entry_timestamp": "2025-04-28T16:03:57.599",
-    "not_before": "2025-04-28T15:05:27",
-    "not_after": "2025-07-27T15:05:26",
-    "serial_number": "06af9597f14bc1ceb46894ff9ad1180e1925",
-    "result_count": 9
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "www.itsknowledgeresources.its.dot.gov",
-    "name_value": "www.benefitcost.its.dot.gov\nwww.itsbenefits.its.dot.gov\nwww.itscosts.its.dot.gov\nwww.itsdeployment.its.dot.gov\nwww.itsknowledgeresources.its.dot.gov\nwww.itskr.its.dot.gov\nwww.itskrs.its.dot.gov\nwww.itslessons.its.dot.gov",
-    "id": 18110724360,
-    "entry_timestamp": "2025-04-28T16:03:57.329",
-    "not_before": "2025-04-28T15:05:27",
-    "not_after": "2025-07-27T15:05:26",
-    "serial_number": "06af9597f14bc1ceb46894ff9ad1180e1925",
-    "result_count": 9
   },
   {
     "issuer_ca_id": 365075,
@@ -7298,18 +7334,6 @@
   {
     "issuer_ca_id": 1586,
     "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "score.fmcsa.dot.gov",
-    "name_value": "fmcsa.portal.dot.gov\nscore.fmcsa.dot.gov\nwww.score.fmcsa.dot.gov",
-    "id": 14364688301,
-    "entry_timestamp": "2024-08-30T18:15:55.467",
-    "not_before": "2024-08-30T18:15:55",
-    "not_after": "2025-07-26T18:15:54",
-    "serial_number": "44b2178f5ad377856d74f068c3ca0863",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
     "common_name": "maps.dot.gov",
     "name_value": "maps.dot.gov\nwww.maps.dot.gov",
     "id": 14351491675,
@@ -8066,54 +8090,6 @@
   {
     "issuer_ca_id": 1586,
     "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "tmas.fhwa.dot.gov",
-    "name_value": "tmas.fhwa.dot.gov\ntmas-prod.dot.gov\nwww.tmas.fhwa.dot.gov",
-    "id": 13882072126,
-    "entry_timestamp": "2024-07-25T15:18:55.497",
-    "not_before": "2024-07-25T15:18:55",
-    "not_after": "2025-07-25T15:18:54",
-    "serial_number": "17e52429fbb6e7d148468338871e0057",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "tmas-fun.fhwa.dot.gov",
-    "name_value": "tmas-fun.fhwa.dot.gov\ntmas-fun-prod.dot.gov\nwww.tmas-fun.fhwa.dot.gov",
-    "id": 13881296403,
-    "entry_timestamp": "2024-07-25T13:57:48.602",
-    "not_before": "2024-07-25T13:57:48",
-    "not_after": "2025-07-25T13:57:47",
-    "serial_number": "23741757479eb4c298288e43bad7d095",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "nhthqnwas767vg.ext.dot.gov",
-    "name_value": "nhthqnwas767vg.ext.dot.gov\nwww.nhthqnwas767vg.ext.dot.gov",
-    "id": 13880941115,
-    "entry_timestamp": "2024-07-25T13:26:21.215",
-    "not_before": "2024-07-25T13:26:21",
-    "not_after": "2025-07-25T13:26:19",
-    "serial_number": "6576cb735db813b17fb44d9783a05d35",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "nhthqnwas768vg.ext.dot.gov",
-    "name_value": "nhthqnwas768vg.ext.dot.gov\nwww.nhthqnwas768vg.ext.dot.gov",
-    "id": 13880918156,
-    "entry_timestamp": "2024-07-25T13:24:12.918",
-    "not_before": "2024-07-25T13:24:12",
-    "not_after": "2025-07-25T13:24:11",
-    "serial_number": "27e2d47bd4499dd799cad2c8f90261b3",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
     "common_name": "servicenowtest.fta.dot.gov",
     "name_value": "servicenowtest.fta.dot.gov\nwww.servicenowtest.fta.dot.gov",
     "id": 13870227596,
@@ -8254,41 +8230,5 @@
     "not_after": "2025-08-01T15:20:08",
     "serial_number": "3f58e934adb8b6b585f00acd264b2cca",
     "result_count": 28
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "score.fmcsa.dot.gov",
-    "name_value": "fmcsa.portal.dot.gov\nscore.fmcsa.dot.gov\nwww.score.fmcsa.dot.gov",
-    "id": 13528894262,
-    "entry_timestamp": "2024-06-26T20:18:10.865",
-    "not_before": "2024-06-26T20:18:10",
-    "not_after": "2025-07-26T20:18:09",
-    "serial_number": "3c5c5cc9065ab2a8770a4b9ebd2f78ba",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "ftafmscoop.ad.dot.gov",
-    "name_value": "ftafmscoop.ad.dot.gov\nwww.ftafmscoop.ad.dot.gov",
-    "id": 13517114985,
-    "entry_timestamp": "2024-06-25T18:53:16.164",
-    "not_before": "2024-06-25T18:53:15",
-    "not_after": "2025-07-25T18:53:14",
-    "serial_number": "3782a00bd919c25cb4e4f532ea7be3f6",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "ftafmscoop.ad.dot.gov",
-    "name_value": "ftafmscoop.ad.dot.gov\nwww.ftafmscoop.ad.dot.gov",
-    "id": 13517074836,
-    "entry_timestamp": "2024-06-25T18:46:47.843",
-    "not_before": "2024-06-25T18:46:47",
-    "not_after": "2025-07-25T18:46:46",
-    "serial_number": "1aa38f5bd3554b9620e04fa6e28a9b25",
-    "result_count": 3
   }
 ]

@@ -1,5 +1,113 @@
 [
   {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "test.rfx.internal.cms.gov",
+    "name_value": "*.test.rfx.internal.cms.gov\ntest.rfx.internal.cms.gov",
+    "id": 19978599795,
+    "entry_timestamp": "2025-07-29T05:05:59.566",
+    "not_before": "2025-07-29T00:00:00",
+    "not_after": "2026-08-27T23:59:59",
+    "serial_number": "02d793d78dd1eb498201d39fd1b1f314",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 247106,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
+    "common_name": "*.dev.secops.internal.cms.gov",
+    "name_value": "*.dev.secops.internal.cms.gov",
+    "id": 19969528578,
+    "entry_timestamp": "2025-07-28T18:58:47.12",
+    "not_before": "2025-07-28T00:00:00",
+    "not_after": "2026-08-26T23:59:59",
+    "serial_number": "01f9587788c390c22027506c0f2cb54f",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "dev.casa.cms.gov",
+    "name_value": "dev.casa.cms.gov",
+    "id": 19967342354,
+    "entry_timestamp": "2025-07-28T16:32:40.335",
+    "not_before": "2025-07-28T16:32:40",
+    "not_after": "2026-08-27T16:31:40",
+    "serial_number": "40019851e10d56820d382b7bf9c45ad9",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "sbx.casa.cms.gov",
+    "name_value": "sbx.casa.cms.gov",
+    "id": 19967341497,
+    "entry_timestamp": "2025-07-28T16:31:54.217",
+    "not_before": "2025-07-28T16:31:54",
+    "not_after": "2026-08-27T16:30:54",
+    "serial_number": "40019851e05906865f72b71feff211c1",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "prod.mdpcp.internal.cms.gov",
+    "name_value": "*.prod.mdpcp.internal.cms.gov\nprod.mdpcp.internal.cms.gov",
+    "id": 19966041300,
+    "entry_timestamp": "2025-07-28T15:12:33.28",
+    "not_before": "2025-07-28T00:00:00",
+    "not_after": "2026-08-26T23:59:59",
+    "serial_number": "0a52bf0b9439628c33c19a67ac8ef6fb",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "casa.cms.gov",
+    "name_value": "casa.cms.gov",
+    "id": 19965411887,
+    "entry_timestamp": "2025-07-28T14:34:24.008",
+    "not_before": "2025-07-28T14:34:23",
+    "not_after": "2026-08-27T14:33:23",
+    "serial_number": "4001985174c513934b7e83f7c0f7fc08",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "test.casa.cms.gov",
+    "name_value": "test.casa.cms.gov",
+    "id": 19965356716,
+    "entry_timestamp": "2025-07-28T14:32:26.22",
+    "not_before": "2025-07-28T14:32:26",
+    "not_after": "2026-08-27T14:31:26",
+    "serial_number": "4001985172f911081ee83030363fb219",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "wms-mmdl.cms.gov",
+    "name_value": "wms-mmdl.cms.gov",
+    "id": 19965239653,
+    "entry_timestamp": "2025-07-28T14:25:49.18",
+    "not_before": "2025-07-28T14:25:49",
+    "not_after": "2026-08-27T14:24:49",
+    "serial_number": "400198516cea30acf1b62cfe3f881bc1",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247106,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
+    "common_name": "dev.rfx.internal.cms.gov",
+    "name_value": "*.dev.rfx.internal.cms.gov\ndev.rfx.internal.cms.gov",
+    "id": 19956954925,
+    "entry_timestamp": "2025-07-28T06:10:21.739",
+    "not_before": "2025-07-28T00:00:00",
+    "not_after": "2026-08-26T23:59:59",
+    "serial_number": "0db1aa935e39f389ef3ab24ae1a948fd",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 247106,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
     "common_name": "www.eacms.aws.cms.gov",
@@ -46,6 +154,30 @@
     "not_after": "2026-07-28T23:59:59",
     "serial_number": "04422a2756298b3bfd9327a44a9d2c4f",
     "result_count": 4
+  },
+  {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "devhealthffrdc.cms.gov",
+    "name_value": "devhealthffrdc.cms.gov",
+    "id": 19919629511,
+    "entry_timestamp": "2025-07-26T12:29:19.871",
+    "not_before": "2025-07-26T11:30:48",
+    "not_after": "2025-10-24T11:30:47",
+    "serial_number": "06f37aba37d187210a27063b7e33acbaf2e1",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "devhealthffrdc.cms.gov",
+    "name_value": "devhealthffrdc.cms.gov",
+    "id": 19919629352,
+    "entry_timestamp": "2025-07-26T12:29:18.978",
+    "not_before": "2025-07-26T11:30:48",
+    "not_after": "2025-10-24T11:30:47",
+    "serial_number": "06f37aba37d187210a27063b7e33acbaf2e1",
+    "result_count": 2
   },
   {
     "issuer_ca_id": 247106,
@@ -612,6 +744,30 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "test2.medicare.gov",
+    "name_value": "tealium-tags.cms.gov\ntest.static.bluebutton.cms.gov",
+    "id": 19736926172,
+    "entry_timestamp": "2025-07-17T16:28:40.43",
+    "not_before": "2025-07-17T15:30:10",
+    "not_after": "2025-10-15T15:30:09",
+    "serial_number": "06ae84e48f67c452a91ae13b6363c46cef62",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "test2.medicare.gov",
+    "name_value": "tealium-tags.cms.gov\ntest.static.bluebutton.cms.gov",
+    "id": 19736926365,
+    "entry_timestamp": "2025-07-17T16:28:40.218",
+    "not_before": "2025-07-17T15:30:10",
+    "not_after": "2025-10-15T15:30:09",
+    "serial_number": "06ae84e48f67c452a91ae13b6363c46cef62",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247115,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
     "common_name": "fhir.cmsimpl.qhpdirectorypilot.internal.cms.gov",
@@ -864,6 +1020,30 @@
     "result_count": 3
   },
   {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "test.cms.gov",
+    "name_value": "acn.openpaymentsdata.cms.gov\nconfluence.imp.cms.gov\nconfluence.prodnr.cms.gov\nconfluence.test.cms.gov\ndev-edit.openpaymentsdata.cms.gov\ndev.openpaymentsdata.cms.gov\nelmo.portaldev.cms.gov\nelmo.portalval.cms.gov\nes.imp.cms.gov\ngithub.imp.cms.gov\nimp.accounts.cms.gov\nimp-edit.openpaymentsdata.cms.gov\nimp.hfpp.cms.gov\nimp.openpaymentsdata.cms.gov\njira.dev.cms.gov\njira.imp.cms.gov\njira.test.cms.gov\nmo-idp.imp.cms.gov\nopenpaymentsdata.test.cms.gov\npm-impl0m.insuranceoversight.cms.gov\npm-impl1am.insuranceoversight.cms.gov\npm-impl1bm.insuranceoversight.cms.gov\npm-impl2m.insuranceoversight.cms.gov\npm-impl3m.insuranceoversight.cms.gov\npm-test0m.insuranceoversight.cms.gov\npm-test1m.insuranceoversight.cms.gov\npm-test2m.insuranceoversight.cms.gov\npm-test3m.insuranceoversight.cms.gov\npm-test4m.insuranceoversight.cms.gov\npm-test9m.insuranceoversight.cms.gov\npm-testpe0m.insuranceoversight.cms.gov\npm-testpe1m.insuranceoversight.cms.gov\npm-uat1m.insuranceoversight.cms.gov\npm-uatm.insuranceoversight.cms.gov\nportaldev.cms.gov\nportalval.cms.gov\npreview.qpp.cms.gov\nprod2.cms.gov\nsandbox.bluebutton.cms.gov\nstaging.bluebutton.cms.gov\ntest.accounts.cms.gov\ntest.bluebutton.cms.gov\ntest.cms.gov\ntest-edit.openpaymentsdata.cms.gov\ntest.openpaymentsdata.cms.gov",
+    "id": 19719474151,
+    "entry_timestamp": "2025-07-16T22:21:46.288",
+    "not_before": "2025-07-16T21:23:15",
+    "not_after": "2025-10-14T21:23:14",
+    "serial_number": "0587d85142690ca6b37263f37846ef3ab064",
+    "result_count": 46
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "test.cms.gov",
+    "name_value": "acn.openpaymentsdata.cms.gov\nconfluence.imp.cms.gov\nconfluence.prodnr.cms.gov\nconfluence.test.cms.gov\ndev-edit.openpaymentsdata.cms.gov\ndev.openpaymentsdata.cms.gov\nelmo.portaldev.cms.gov\nelmo.portalval.cms.gov\nes.imp.cms.gov\ngithub.imp.cms.gov\nimp.accounts.cms.gov\nimp-edit.openpaymentsdata.cms.gov\nimp.hfpp.cms.gov\nimp.openpaymentsdata.cms.gov\njira.dev.cms.gov\njira.imp.cms.gov\njira.test.cms.gov\nmo-idp.imp.cms.gov\nopenpaymentsdata.test.cms.gov\npm-impl0m.insuranceoversight.cms.gov\npm-impl1am.insuranceoversight.cms.gov\npm-impl1bm.insuranceoversight.cms.gov\npm-impl2m.insuranceoversight.cms.gov\npm-impl3m.insuranceoversight.cms.gov\npm-test0m.insuranceoversight.cms.gov\npm-test1m.insuranceoversight.cms.gov\npm-test2m.insuranceoversight.cms.gov\npm-test3m.insuranceoversight.cms.gov\npm-test4m.insuranceoversight.cms.gov\npm-test9m.insuranceoversight.cms.gov\npm-testpe0m.insuranceoversight.cms.gov\npm-testpe1m.insuranceoversight.cms.gov\npm-uat1m.insuranceoversight.cms.gov\npm-uatm.insuranceoversight.cms.gov\nportaldev.cms.gov\nportalval.cms.gov\npreview.qpp.cms.gov\nprod2.cms.gov\nsandbox.bluebutton.cms.gov\nstaging.bluebutton.cms.gov\ntest.accounts.cms.gov\ntest.bluebutton.cms.gov\ntest.cms.gov\ntest-edit.openpaymentsdata.cms.gov\ntest.openpaymentsdata.cms.gov",
+    "id": 19719473916,
+    "entry_timestamp": "2025-07-16T22:21:45.914",
+    "not_before": "2025-07-16T21:23:15",
+    "not_after": "2025-10-14T21:23:14",
+    "serial_number": "0587d85142690ca6b37263f37846ef3ab064",
+    "result_count": 46
+  },
+  {
     "issuer_ca_id": 62123,
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
     "common_name": "www.cms.gov",
@@ -1024,12 +1204,36 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
     "common_name": "test.data.cms.gov",
     "name_value": "data.cms.gov\ndev.data.cms.gov\nedit.pdc.cms.gov\nstage.data.cms.gov\ntest.data.cms.gov",
+    "id": 19665411087,
+    "entry_timestamp": "2025-07-14T21:18:14.197",
+    "not_before": "2025-07-14T20:19:42",
+    "not_after": "2025-10-12T20:19:41",
+    "serial_number": "06b45da3b8c3949ec968f76fb1b1909653ba",
+    "result_count": 6
+  },
+  {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "test.data.cms.gov",
+    "name_value": "data.cms.gov\ndev.data.cms.gov\nedit.pdc.cms.gov\nstage.data.cms.gov\ntest.data.cms.gov",
     "id": 19665399698,
     "entry_timestamp": "2025-07-14T21:18:12.121",
     "not_before": "2025-07-14T20:19:42",
     "not_after": "2025-10-12T20:19:41",
     "serial_number": "06b45da3b8c3949ec968f76fb1b1909653ba",
     "result_count": 6
+  },
+  {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "imp-edit.pdc.cms.gov",
+    "name_value": "dev-edit.pdc.cms.gov\nimp-edit.pdc.cms.gov\ntest.data.cms.gov\ntest-edit.pdc.cms.gov",
+    "id": 19664617960,
+    "entry_timestamp": "2025-07-14T20:38:18.317",
+    "not_before": "2025-07-14T19:39:48",
+    "not_after": "2025-10-12T19:39:47",
+    "serial_number": "0603a69131b3982383f1305afd6de9938072",
+    "result_count": 5
   },
   {
     "issuer_ca_id": 295814,
@@ -1636,6 +1840,18 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
     "common_name": "go.cms.gov",
     "name_value": "go.cms.gov",
+    "id": 19520847928,
+    "entry_timestamp": "2025-07-08T03:11:30.181",
+    "not_before": "2025-07-08T02:12:57",
+    "not_after": "2025-10-06T02:12:56",
+    "serial_number": "053646236044e00fa0feac291099b945127f",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "go.cms.gov",
+    "name_value": "go.cms.gov",
     "id": 19520845025,
     "entry_timestamp": "2025-07-08T03:11:27.963",
     "not_before": "2025-07-08T02:12:57",
@@ -1872,6 +2088,30 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "trnhealthffrdc.cms.gov",
+    "name_value": "trnhealthffrdc.cms.gov",
+    "id": 19433256183,
+    "entry_timestamp": "2025-07-04T01:29:46.74",
+    "not_before": "2025-07-04T00:31:16",
+    "not_after": "2025-10-02T00:31:15",
+    "serial_number": "054c258f2e6217cf61b91f82b63c361db8ac",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "trnhealthffrdc.cms.gov",
+    "name_value": "trnhealthffrdc.cms.gov",
+    "id": 19433267118,
+    "entry_timestamp": "2025-07-04T01:29:46.397",
+    "not_before": "2025-07-04T00:31:16",
+    "not_after": "2025-10-02T00:31:15",
+    "serial_number": "054c258f2e6217cf61b91f82b63c361db8ac",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "www.nsa-idr.cms.gov",
@@ -1965,6 +2205,18 @@
     "not_before": "2025-07-02T00:00:00",
     "not_after": "2026-07-31T23:59:59",
     "serial_number": "085e3794fd8a4fe46596aa2e6156104b",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "heimdall-lite.cms.gov",
+    "name_value": "heimdall-lite.cms.gov",
+    "id": 19384585609,
+    "entry_timestamp": "2025-07-02T00:51:44.917",
+    "not_before": "2025-07-01T23:53:10",
+    "not_after": "2025-09-29T23:53:09",
+    "serial_number": "061ff78b34f86c7a5c405a23d13fb2e1a10d",
     "result_count": 2
   },
   {
@@ -2152,6 +2404,18 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
     "common_name": "idp-radvcdat.cms.gov",
     "name_value": "idp-radvcdat.cms.gov",
+    "id": 19356194579,
+    "entry_timestamp": "2025-06-30T19:08:59.273",
+    "not_before": "2025-06-30T18:10:26",
+    "not_after": "2025-09-28T18:10:25",
+    "serial_number": "05b7524b10dcd3933fd227f899f7c09621b7",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "idp-radvcdat.cms.gov",
+    "name_value": "idp-radvcdat.cms.gov",
     "id": 19356194524,
     "entry_timestamp": "2025-06-30T19:08:57.057",
     "not_before": "2025-06-30T18:10:26",
@@ -2205,6 +2469,18 @@
     "not_before": "2025-06-30T00:00:00",
     "not_after": "2026-07-29T23:59:59",
     "serial_number": "0a25668dbba89c9925e3e7d7836d5466",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "saf.cms.gov",
+    "name_value": "saf.cms.gov",
+    "id": 19345169912,
+    "entry_timestamp": "2025-06-30T06:46:08.253",
+    "not_before": "2025-06-30T05:47:37",
+    "not_after": "2025-09-28T05:47:36",
+    "serial_number": "06dab00c4b3e729bc8f76a312be0beacd55e",
     "result_count": 2
   },
   {
@@ -2277,6 +2553,18 @@
     "not_before": "2025-06-30T00:00:00",
     "not_after": "2026-07-29T23:59:59",
     "serial_number": "0ef06da191e62881f5fbd3bc72643b88",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "snyk.cms.gov",
+    "name_value": "snyk.cms.gov",
+    "id": 19316295372,
+    "entry_timestamp": "2025-06-28T19:57:40.071",
+    "not_before": "2025-06-28T18:59:07",
+    "not_after": "2025-09-26T18:59:06",
+    "serial_number": "0645397096cb4bf23256cb11c9cbd5a27c36",
     "result_count": 2
   },
   {
@@ -2452,6 +2740,18 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
     "common_name": "ato.cms.gov",
     "name_value": "ato.cms.gov",
+    "id": 19267047814,
+    "entry_timestamp": "2025-06-26T12:33:40.53",
+    "not_before": "2025-06-26T11:35:09",
+    "not_after": "2025-09-24T11:35:08",
+    "serial_number": "05150bcd8f44639561c6f1dc75700071d9a6",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "ato.cms.gov",
+    "name_value": "ato.cms.gov",
     "id": 19267047805,
     "entry_timestamp": "2025-06-26T12:33:40.141",
     "not_before": "2025-06-26T11:35:09",
@@ -2620,11 +2920,35 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
     "common_name": "ai.cms.gov",
     "name_value": "ai.cms.gov",
+    "id": 19207124774,
+    "entry_timestamp": "2025-06-23T17:01:41.42",
+    "not_before": "2025-06-23T16:03:11",
+    "not_after": "2025-09-21T16:03:10",
+    "serial_number": "068b30b47682a1798ac37461caf27313c99c",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "ai.cms.gov",
+    "name_value": "ai.cms.gov",
     "id": 19207125964,
     "entry_timestamp": "2025-06-23T17:01:41.092",
     "not_before": "2025-06-23T16:03:11",
     "not_after": "2025-09-21T16:03:10",
     "serial_number": "068b30b47682a1798ac37461caf27313c99c",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "dev-edit.pdc.cms.gov",
+    "name_value": "dev-edit.pdc.cms.gov",
+    "id": 19205643007,
+    "entry_timestamp": "2025-06-23T15:32:59.063",
+    "not_before": "2025-06-23T14:34:24",
+    "not_after": "2025-09-21T14:34:23",
+    "serial_number": "069e238dedcf61808f1f93c48c7e154965e0",
     "result_count": 2
   },
   {
@@ -2832,6 +3156,30 @@
     "result_count": 3
   },
   {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "www.eacms.cms.gov",
+    "name_value": "api.eacms.cms.gov\napi-imp.eacms.cms.gov\nqua.eacms.cms.gov\ntraining.eacms.cms.gov\nwww.eacms.cms.gov",
+    "id": 19138697552,
+    "entry_timestamp": "2025-06-20T15:09:13.755",
+    "not_before": "2025-06-20T14:10:43",
+    "not_after": "2025-09-18T14:10:42",
+    "serial_number": "057710690101f7fb5b657d343767d9793bfb",
+    "result_count": 6
+  },
+  {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "www.eacms.cms.gov",
+    "name_value": "api.eacms.cms.gov\napi-imp.eacms.cms.gov\nqua.eacms.cms.gov\ntraining.eacms.cms.gov\nwww.eacms.cms.gov",
+    "id": 19138695378,
+    "entry_timestamp": "2025-06-20T15:09:13.536",
+    "not_before": "2025-06-20T14:10:43",
+    "not_after": "2025-09-18T14:10:42",
+    "serial_number": "057710690101f7fb5b657d343767d9793bfb",
+    "result_count": 6
+  },
+  {
     "issuer_ca_id": 247115,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
     "common_name": "eacms.impl.v4.eacms.aws.cms.gov",
@@ -2866,6 +3214,30 @@
     "not_after": "2026-07-19T23:59:59",
     "serial_number": "0c29394359b1603a7625f09504736c7c",
     "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "na21-1.cdn.salesforce-communities.com",
+    "name_value": "www.qhpcertification.cms.gov",
+    "id": 19125311664,
+    "entry_timestamp": "2025-06-19T22:53:49.67",
+    "not_before": "2025-06-19T21:55:15",
+    "not_after": "2025-09-17T21:55:14",
+    "serial_number": "053c034179072c5e56d3e7f803fcbda77788",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "na21-1.cdn.salesforce-communities.com",
+    "name_value": "www.qhpcertification.cms.gov",
+    "id": 19125338721,
+    "entry_timestamp": "2025-06-19T22:53:45.322",
+    "not_before": "2025-06-19T21:55:15",
+    "not_after": "2025-09-17T21:55:14",
+    "serial_number": "053c034179072c5e56d3e7f803fcbda77788",
+    "result_count": 1
   },
   {
     "issuer_ca_id": 247115,
@@ -3160,12 +3532,48 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
     "common_name": "healthffrdc.cms.gov",
     "name_value": "healthffrdc.cms.gov\nmedicaresecuremessaging.cms.gov",
+    "id": 19043805101,
+    "entry_timestamp": "2025-06-15T23:28:47.827",
+    "not_before": "2025-06-15T22:30:12",
+    "not_after": "2025-09-13T22:30:11",
+    "serial_number": "0583e469a16599497b5a34dc8a066868fef6",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "healthffrdc.cms.gov",
+    "name_value": "healthffrdc.cms.gov\nmedicaresecuremessaging.cms.gov",
     "id": 19043806190,
     "entry_timestamp": "2025-06-15T23:28:43.102",
     "not_before": "2025-06-15T22:30:12",
     "not_after": "2025-09-13T22:30:11",
     "serial_number": "0583e469a16599497b5a34dc8a066868fef6",
     "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "dew23ru98r2949283r9d.profitbricks.de",
+    "name_value": "status.tools.oc.cms.gov",
+    "id": 19030462727,
+    "entry_timestamp": "2025-06-15T06:22:08.935",
+    "not_before": "2025-06-15T05:23:36",
+    "not_after": "2025-09-13T05:23:35",
+    "serial_number": "0551682b1c04ae6b5a5a97d903e54caf2f27",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "dew23ru98r2949283r9d.profitbricks.de",
+    "name_value": "status.tools.oc.cms.gov",
+    "id": 19030461050,
+    "entry_timestamp": "2025-06-15T06:22:06.755",
+    "not_before": "2025-06-15T05:23:36",
+    "not_after": "2025-09-13T05:23:35",
+    "serial_number": "0551682b1c04ae6b5a5a97d903e54caf2f27",
+    "result_count": 1
   },
   {
     "issuer_ca_id": 247106,
@@ -3250,6 +3658,18 @@
     "not_after": "2026-07-12T23:59:59",
     "serial_number": "04f766f1b46c9f680277b1bb95231817",
     "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "hiosgateway.cms.gov",
+    "name_value": "hiosgateway.cms.gov\nhiostestgateway.cms.gov\nhiosvalgateway.cms.gov",
+    "id": 19001720519,
+    "entry_timestamp": "2025-06-13T16:01:54.043",
+    "not_before": "2025-06-13T15:03:21",
+    "not_after": "2025-09-11T15:03:20",
+    "serial_number": "0655f5a99ad55b09333fee573fb831e2a7aa",
+    "result_count": 4
   },
   {
     "issuer_ca_id": 295814,
@@ -4612,6 +5032,18 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
     "common_name": "idp-radvcdat.cms.gov",
     "name_value": "idp-radvcdat.cms.gov",
+    "id": 18717245114,
+    "entry_timestamp": "2025-05-30T19:10:20.722",
+    "not_before": "2025-05-30T18:11:50",
+    "not_after": "2025-08-28T18:11:49",
+    "serial_number": "05c19bdeaec3a053259c58bfa83d8204f564",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "idp-radvcdat.cms.gov",
+    "name_value": "idp-radvcdat.cms.gov",
     "id": 18717244453,
     "entry_timestamp": "2025-05-30T19:10:20.617",
     "not_before": "2025-05-30T18:11:50",
@@ -4840,6 +5272,18 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
     "common_name": "devhealthffrdc.cms.gov",
     "name_value": "devhealthffrdc.cms.gov",
+    "id": 18652383082,
+    "entry_timestamp": "2025-05-27T10:28:40.061",
+    "not_before": "2025-05-27T09:30:09",
+    "not_after": "2025-08-25T09:30:08",
+    "serial_number": "0614f6c480bbb571d98e59ba0b6aa6340e66",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "devhealthffrdc.cms.gov",
+    "name_value": "devhealthffrdc.cms.gov",
     "id": 18652392277,
     "entry_timestamp": "2025-05-27T10:28:39.746",
     "not_before": "2025-05-27T09:30:09",
@@ -4944,6 +5388,30 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "qa.cms.gov",
+    "name_value": "aps.portaldev.cms.gov\naps.portalval.cms.gov\napssit.portalval.cms.gov\napsvpt.portalval.cms.gov\nbeta.cms.gov\ncerrsd365impl.cerrs.cms.gov\ncerrsngtrainingimpl.cerrs.cms.gov\ndev1.cms.gov\ndev2.cms.gov\ndev.edit.cms.gov\ndev-edit.pdc.cms.gov\nhiostest.cms.gov\nhiosval.cms.gov\nimp.cms.gov\nimp.developer.cms.gov\nimp.edit.cms.gov\nimp-edit.pdc.cms.gov\nimpl.api.developer.cms.gov\nimp.partnershipforpatients.cms.gov\nimp.qpp.cms.gov\noffcycle.cms.gov\npecosai.portaldev.cms.gov\npecosai.portalval.cms.gov\nportaldev-beta.cms.gov\nportalval-beta.cms.gov\nqa.cms.gov\ntest2.cms.gov\ntest.api.developer.cms.gov\ntest.cms.gov\ntest.developer.cms.gov\ntest-edit.pdc.cms.gov\ntestoffcycle.cms.gov\nwww.imp.qpp.cms.gov",
+    "id": 18580086728,
+    "entry_timestamp": "2025-05-23T16:10:19.616",
+    "not_before": "2025-05-23T15:11:47",
+    "not_after": "2025-08-21T15:11:46",
+    "serial_number": "05ca86ac406033d04de51b00c19c0e4db080",
+    "result_count": 34
+  },
+  {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "qa.cms.gov",
+    "name_value": "aps.portaldev.cms.gov\naps.portalval.cms.gov\napssit.portalval.cms.gov\napsvpt.portalval.cms.gov\nbeta.cms.gov\ncerrsd365impl.cerrs.cms.gov\ncerrsngtrainingimpl.cerrs.cms.gov\ndev1.cms.gov\ndev2.cms.gov\ndev.edit.cms.gov\ndev-edit.pdc.cms.gov\nhiostest.cms.gov\nhiosval.cms.gov\nimp.cms.gov\nimp.developer.cms.gov\nimp.edit.cms.gov\nimp-edit.pdc.cms.gov\nimpl.api.developer.cms.gov\nimp.partnershipforpatients.cms.gov\nimp.qpp.cms.gov\noffcycle.cms.gov\npecosai.portaldev.cms.gov\npecosai.portalval.cms.gov\nportaldev-beta.cms.gov\nportalval-beta.cms.gov\nqa.cms.gov\ntest2.cms.gov\ntest.api.developer.cms.gov\ntest.cms.gov\ntest.developer.cms.gov\ntest-edit.pdc.cms.gov\ntestoffcycle.cms.gov\nwww.imp.qpp.cms.gov",
+    "id": 18580086099,
+    "entry_timestamp": "2025-05-23T16:10:17.358",
+    "not_before": "2025-05-23T15:11:47",
+    "not_after": "2025-08-21T15:11:46",
+    "serial_number": "05ca86ac406033d04de51b00c19c0e4db080",
+    "result_count": 34
+  },
+  {
     "issuer_ca_id": 62123,
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
     "common_name": "www2.healthcare.gov",
@@ -5026,6 +5494,30 @@
     "not_after": "2026-06-20T23:59:59",
     "serial_number": "0a463bde48f56d5df12c0bad0a1a84fa",
     "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "test.cms.gov",
+    "name_value": "acn.openpaymentsdata.cms.gov\nconfluence.imp.cms.gov\nconfluence.prodnr.cms.gov\nconfluence.test.cms.gov\ndev-edit.openpaymentsdata.cms.gov\ndev.openpaymentsdata.cms.gov\nelmo.portaldev.cms.gov\nelmo.portalval.cms.gov\nes.imp.cms.gov\ngithub.imp.cms.gov\nimp-edit.openpaymentsdata.cms.gov\nimp.hfpp.cms.gov\nimp.openpaymentsdata.cms.gov\njira.dev.cms.gov\njira.imp.cms.gov\njira.test.cms.gov\nmo-idp.imp.cms.gov\nopenpaymentsdata.test.cms.gov\npm-impl0m.insuranceoversight.cms.gov\npm-impl1am.insuranceoversight.cms.gov\npm-impl1bm.insuranceoversight.cms.gov\npm-impl2m.insuranceoversight.cms.gov\npm-impl3m.insuranceoversight.cms.gov\npm-test0m.insuranceoversight.cms.gov\npm-test1m.insuranceoversight.cms.gov\npm-test2m.insuranceoversight.cms.gov\npm-test3m.insuranceoversight.cms.gov\npm-test4m.insuranceoversight.cms.gov\npm-test9m.insuranceoversight.cms.gov\npm-testpe0m.insuranceoversight.cms.gov\npm-testpe1m.insuranceoversight.cms.gov\npm-uat1m.insuranceoversight.cms.gov\npm-uatm.insuranceoversight.cms.gov\nportaldev.cms.gov\nportalval.cms.gov\npreview.qpp.cms.gov\nprod2.cms.gov\nsandbox.bluebutton.cms.gov\nstaging.bluebutton.cms.gov\ntest.bluebutton.cms.gov\ntest.cms.gov\ntest-edit.openpaymentsdata.cms.gov\ntest.openpaymentsdata.cms.gov",
+    "id": 18559292888,
+    "entry_timestamp": "2025-05-22T15:10:02.053",
+    "not_before": "2025-05-22T14:11:31",
+    "not_after": "2025-08-20T14:11:30",
+    "serial_number": "052eff83a685680cf38d5e4f72efdc45a1f4",
+    "result_count": 44
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "test.cms.gov",
+    "name_value": "acn.openpaymentsdata.cms.gov\nconfluence.imp.cms.gov\nconfluence.prodnr.cms.gov\nconfluence.test.cms.gov\ndev-edit.openpaymentsdata.cms.gov\ndev.openpaymentsdata.cms.gov\nelmo.portaldev.cms.gov\nelmo.portalval.cms.gov\nes.imp.cms.gov\ngithub.imp.cms.gov\nimp-edit.openpaymentsdata.cms.gov\nimp.hfpp.cms.gov\nimp.openpaymentsdata.cms.gov\njira.dev.cms.gov\njira.imp.cms.gov\njira.test.cms.gov\nmo-idp.imp.cms.gov\nopenpaymentsdata.test.cms.gov\npm-impl0m.insuranceoversight.cms.gov\npm-impl1am.insuranceoversight.cms.gov\npm-impl1bm.insuranceoversight.cms.gov\npm-impl2m.insuranceoversight.cms.gov\npm-impl3m.insuranceoversight.cms.gov\npm-test0m.insuranceoversight.cms.gov\npm-test1m.insuranceoversight.cms.gov\npm-test2m.insuranceoversight.cms.gov\npm-test3m.insuranceoversight.cms.gov\npm-test4m.insuranceoversight.cms.gov\npm-test9m.insuranceoversight.cms.gov\npm-testpe0m.insuranceoversight.cms.gov\npm-testpe1m.insuranceoversight.cms.gov\npm-uat1m.insuranceoversight.cms.gov\npm-uatm.insuranceoversight.cms.gov\nportaldev.cms.gov\nportalval.cms.gov\npreview.qpp.cms.gov\nprod2.cms.gov\nsandbox.bluebutton.cms.gov\nstaging.bluebutton.cms.gov\ntest.bluebutton.cms.gov\ntest.cms.gov\ntest-edit.openpaymentsdata.cms.gov\ntest.openpaymentsdata.cms.gov",
+    "id": 18559293152,
+    "entry_timestamp": "2025-05-22T15:10:01.879",
+    "not_before": "2025-05-22T14:11:31",
+    "not_after": "2025-08-20T14:11:30",
+    "serial_number": "052eff83a685680cf38d5e4f72efdc45a1f4",
+    "result_count": 44
   },
   {
     "issuer_ca_id": 247119,
@@ -5230,6 +5722,30 @@
     "not_after": "2025-09-24T23:59:59",
     "serial_number": "01a141d6f3eb99e546b414cb8833b8b5",
     "result_count": 43
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "qa.cms.gov",
+    "name_value": "aps.portaldev.cms.gov\naps.portalval.cms.gov\napssit.portalval.cms.gov\napsvpt.portalval.cms.gov\nbeta.cms.gov\ncerrsd365impl.cerrs.cms.gov\ncerrsngtrainingimpl.cerrs.cms.gov\ndev1.cms.gov\ndev2.cms.gov\ndev.edit.cms.gov\ndev-edit.pdc.cms.gov\nhiostest.cms.gov\nhiosval.cms.gov\nimp.cms.gov\nimp.developer.cms.gov\nimp.edit.cms.gov\nimp-edit.pdc.cms.gov\nimpl.api.developer.cms.gov\nimp.partnershipforpatients.cms.gov\nimp.qpp.cms.gov\noffcycle.cms.gov\npecosai.portaldev.cms.gov\npecosai.portalval.cms.gov\nportaldev-beta.cms.gov\nportalval-beta.cms.gov\nqa.cms.gov\ntest2.cms.gov\ntest.api.developer.cms.gov\ntest.cms.gov\ntest.developer.cms.gov\ntest-edit.pdc.cms.gov\ntestoffcycle.cms.gov",
+    "id": 18521688660,
+    "entry_timestamp": "2025-05-20T16:52:40.043",
+    "not_before": "2025-05-20T15:54:09",
+    "not_after": "2025-08-18T15:54:08",
+    "serial_number": "05b577ec86afb97d104431e651f24d38846c",
+    "result_count": 33
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "qa.cms.gov",
+    "name_value": "aps.portaldev.cms.gov\naps.portalval.cms.gov\napssit.portalval.cms.gov\napsvpt.portalval.cms.gov\nbeta.cms.gov\ncerrsd365impl.cerrs.cms.gov\ncerrsngtrainingimpl.cerrs.cms.gov\ndev1.cms.gov\ndev2.cms.gov\ndev.edit.cms.gov\ndev-edit.pdc.cms.gov\nhiostest.cms.gov\nhiosval.cms.gov\nimp.cms.gov\nimp.developer.cms.gov\nimp.edit.cms.gov\nimp-edit.pdc.cms.gov\nimpl.api.developer.cms.gov\nimp.partnershipforpatients.cms.gov\nimp.qpp.cms.gov\noffcycle.cms.gov\npecosai.portaldev.cms.gov\npecosai.portalval.cms.gov\nportaldev-beta.cms.gov\nportalval-beta.cms.gov\nqa.cms.gov\ntest2.cms.gov\ntest.api.developer.cms.gov\ntest.cms.gov\ntest.developer.cms.gov\ntest-edit.pdc.cms.gov\ntestoffcycle.cms.gov",
+    "id": 18521692554,
+    "entry_timestamp": "2025-05-20T16:52:39.798",
+    "not_before": "2025-05-20T15:54:09",
+    "not_after": "2025-08-18T15:54:08",
+    "serial_number": "05b577ec86afb97d104431e651f24d38846c",
+    "result_count": 33
   },
   {
     "issuer_ca_id": 247106,
@@ -5512,6 +6028,18 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
     "common_name": "cms.gov",
     "name_value": "cms.gov\nedit.cms.gov\nwww.cms.gov",
+    "id": 18422916409,
+    "entry_timestamp": "2025-05-15T13:50:14.733",
+    "not_before": "2025-05-15T12:51:42",
+    "not_after": "2025-08-13T12:51:41",
+    "serial_number": "0595107f2ff41f6f9a9ae54b7b36a72251dc",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "cms.gov",
+    "name_value": "cms.gov\nedit.cms.gov\nwww.cms.gov",
     "id": 18422917628,
     "entry_timestamp": "2025-05-15T13:50:12.507",
     "not_before": "2025-05-15T12:51:42",
@@ -5524,11 +6052,35 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
     "common_name": "imp3.cms.gov",
     "name_value": "imp3.cms.gov\nimp3.edit.cms.gov",
+    "id": 18422872972,
+    "entry_timestamp": "2025-05-15T13:46:20.628",
+    "not_before": "2025-05-15T12:47:44",
+    "not_after": "2025-08-13T12:47:43",
+    "serial_number": "0598cdf910d55c888943255e598541e73298",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "imp3.cms.gov",
+    "name_value": "imp3.cms.gov\nimp3.edit.cms.gov",
     "id": 18422871733,
     "entry_timestamp": "2025-05-15T13:46:14.97",
     "not_before": "2025-05-15T12:47:44",
     "not_after": "2025-08-13T12:47:43",
     "serial_number": "0598cdf910d55c888943255e598541e73298",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "imp2.cms.gov",
+    "name_value": "imp2.cms.gov\nimp2.edit.cms.gov",
+    "id": 18422787163,
+    "entry_timestamp": "2025-05-15T13:41:21.231",
+    "not_before": "2025-05-15T12:42:50",
+    "not_after": "2025-08-13T12:42:49",
+    "serial_number": "0664005e82d6ef2988109d1e262dd5e5dbbe",
     "result_count": 3
   },
   {
@@ -5548,11 +6100,35 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
     "common_name": "dev2.cms.gov",
     "name_value": "dev2.cms.gov\ndev2.edit.cms.gov",
+    "id": 18422684800,
+    "entry_timestamp": "2025-05-15T13:33:30.741",
+    "not_before": "2025-05-15T12:34:59",
+    "not_after": "2025-08-13T12:34:58",
+    "serial_number": "06faa3b52bb20b0e0762e317d497566fea95",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "dev2.cms.gov",
+    "name_value": "dev2.cms.gov\ndev2.edit.cms.gov",
     "id": 18422684162,
     "entry_timestamp": "2025-05-15T13:33:30.387",
     "not_before": "2025-05-15T12:34:59",
     "not_after": "2025-08-13T12:34:58",
     "serial_number": "06faa3b52bb20b0e0762e317d497566fea95",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "imp.cms.gov",
+    "name_value": "imp.cms.gov\nimp.edit.cms.gov",
+    "id": 18422574685,
+    "entry_timestamp": "2025-05-15T13:24:56.893",
+    "not_before": "2025-05-15T12:26:26",
+    "not_after": "2025-08-13T12:26:25",
+    "serial_number": "05c6b7ae4b09510821caaf651b8a7802d4f3",
     "result_count": 3
   },
   {
@@ -5572,11 +6148,35 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
     "common_name": "dev1.cms.gov",
     "name_value": "dev1.cms.gov\ndev.edit.cms.gov",
+    "id": 18422482868,
+    "entry_timestamp": "2025-05-15T13:17:55.869",
+    "not_before": "2025-05-15T12:19:25",
+    "not_after": "2025-08-13T12:19:24",
+    "serial_number": "06ea423e24b07122ec9a2188a751406becb7",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "dev1.cms.gov",
+    "name_value": "dev1.cms.gov\ndev.edit.cms.gov",
     "id": 18422483317,
     "entry_timestamp": "2025-05-15T13:17:55.513",
     "not_before": "2025-05-15T12:19:25",
     "not_after": "2025-08-13T12:19:24",
     "serial_number": "06ea423e24b07122ec9a2188a751406becb7",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "dev1.cms.gov",
+    "name_value": "dev1.cms.gov\ndev.edit.cms.gov",
+    "id": 18422445770,
+    "entry_timestamp": "2025-05-15T13:15:11.341",
+    "not_before": "2025-05-15T12:16:37",
+    "not_after": "2025-08-13T12:16:36",
+    "serial_number": "052e28f2a4e3860b9dd8d910b847dafd6966",
     "result_count": 3
   },
   {
@@ -5596,11 +6196,35 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
     "common_name": "dev1.cms.gov",
     "name_value": "dev1.cms.gov\ndev.edit.cms.gov",
+    "id": 18422378531,
+    "entry_timestamp": "2025-05-15T13:09:06.474",
+    "not_before": "2025-05-15T12:10:35",
+    "not_after": "2025-08-13T12:10:34",
+    "serial_number": "0675736e131bf4a244a0fc4eb7bda9e5d891",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "dev1.cms.gov",
+    "name_value": "dev1.cms.gov\ndev.edit.cms.gov",
     "id": 18422378526,
     "entry_timestamp": "2025-05-15T13:09:06.25",
     "not_before": "2025-05-15T12:10:35",
     "not_after": "2025-08-13T12:10:34",
     "serial_number": "0675736e131bf4a244a0fc4eb7bda9e5d891",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "qic.cms.gov",
+    "name_value": "qic.cms.gov\nqic-edit.cms.gov",
+    "id": 18422207761,
+    "entry_timestamp": "2025-05-15T12:55:56.364",
+    "not_before": "2025-05-15T11:57:25",
+    "not_after": "2025-08-13T11:57:24",
+    "serial_number": "069f8d796ff80ed3b93efe6900c28dd4ccfd",
     "result_count": 3
   },
   {
@@ -5620,11 +6244,35 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
     "common_name": "imp-qic.cms.gov",
     "name_value": "imp-edit.qic.cms.gov\nimp-qic.cms.gov",
+    "id": 18422170465,
+    "entry_timestamp": "2025-05-15T12:52:36.603",
+    "not_before": "2025-05-15T11:54:01",
+    "not_after": "2025-08-13T11:54:00",
+    "serial_number": "066799c7230415be854b38f81f0f66e976d8",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "imp-qic.cms.gov",
+    "name_value": "imp-edit.qic.cms.gov\nimp-qic.cms.gov",
     "id": 18422169848,
     "entry_timestamp": "2025-05-15T12:52:32.282",
     "not_before": "2025-05-15T11:54:01",
     "not_after": "2025-08-13T11:54:00",
     "serial_number": "066799c7230415be854b38f81f0f66e976d8",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "test-qic.cms.gov",
+    "name_value": "test-edit.qic.cms.gov\ntest-qic.cms.gov",
+    "id": 18421983985,
+    "entry_timestamp": "2025-05-15T12:43:17.367",
+    "not_before": "2025-05-15T11:44:46",
+    "not_after": "2025-08-13T11:44:45",
+    "serial_number": "0660e8133ca9158995ceb80910711b6c6f8b",
     "result_count": 3
   },
   {
@@ -5644,11 +6292,35 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
     "common_name": "dev-qic.cms.gov",
     "name_value": "dev-edit.qic.cms.gov\ndev-qic.cms.gov",
+    "id": 18421728121,
+    "entry_timestamp": "2025-05-15T12:29:21.97",
+    "not_before": "2025-05-15T11:30:48",
+    "not_after": "2025-08-13T11:30:47",
+    "serial_number": "067976f3226542529b3b923a0eaa90f3f9d6",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "dev-qic.cms.gov",
+    "name_value": "dev-edit.qic.cms.gov\ndev-qic.cms.gov",
     "id": 18421727427,
     "entry_timestamp": "2025-05-15T12:29:19.746",
     "not_before": "2025-05-15T11:30:48",
     "not_after": "2025-08-13T11:30:47",
     "serial_number": "067976f3226542529b3b923a0eaa90f3f9d6",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "pfs.data.cms.gov",
+    "name_value": "edit.pfs.data.cms.gov\npfs.data.cms.gov",
+    "id": 18421536611,
+    "entry_timestamp": "2025-05-15T12:14:31.99",
+    "not_before": "2025-05-15T11:15:58",
+    "not_after": "2025-08-13T11:15:57",
+    "serial_number": "06057664fab3257db36a0e35b554866dd9ef",
     "result_count": 3
   },
   {
@@ -5668,11 +6340,35 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
     "common_name": "imp.pfs.data.cms.gov",
     "name_value": "imp-edit.pfs.data.cms.gov\nimp.pfs.data.cms.gov",
+    "id": 18421389339,
+    "entry_timestamp": "2025-05-15T12:04:26.04",
+    "not_before": "2025-05-15T11:05:55",
+    "not_after": "2025-08-13T11:05:54",
+    "serial_number": "05793dc3825ad83ff0e199476744eb94fe36",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "imp.pfs.data.cms.gov",
+    "name_value": "imp-edit.pfs.data.cms.gov\nimp.pfs.data.cms.gov",
     "id": 18421395391,
     "entry_timestamp": "2025-05-15T12:04:25.839",
     "not_before": "2025-05-15T11:05:55",
     "not_after": "2025-08-13T11:05:54",
     "serial_number": "05793dc3825ad83ff0e199476744eb94fe36",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "test.pfs.data.cms.gov",
+    "name_value": "test-edit.pfs.data.cms.gov\ntest.pfs.data.cms.gov",
+    "id": 18421277762,
+    "entry_timestamp": "2025-05-15T11:55:47.706",
+    "not_before": "2025-05-15T10:57:14",
+    "not_after": "2025-08-13T10:57:13",
+    "serial_number": "06e6a7bc4bcd8ea69de708309b73ddb59797",
     "result_count": 3
   },
   {
@@ -5692,11 +6388,35 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
     "common_name": "dev.pfs.data.cms.gov",
     "name_value": "dev-edit.pfs.data.cms.gov\ndev.pfs.data.cms.gov",
+    "id": 18421079600,
+    "entry_timestamp": "2025-05-15T11:42:24.061",
+    "not_before": "2025-05-15T10:43:51",
+    "not_after": "2025-08-13T10:43:50",
+    "serial_number": "058ce9a8e945d333020ddbb03526944dfd26",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "dev.pfs.data.cms.gov",
+    "name_value": "dev-edit.pfs.data.cms.gov\ndev.pfs.data.cms.gov",
     "id": 18421078935,
     "entry_timestamp": "2025-05-15T11:42:21.824",
     "not_before": "2025-05-15T10:43:51",
     "not_after": "2025-08-13T10:43:50",
     "serial_number": "058ce9a8e945d333020ddbb03526944dfd26",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "openpaymentsdata.cms.gov",
+    "name_value": "edit.openpaymentsdata.cms.gov\nopenpaymentsdata.cms.gov",
+    "id": 18406368334,
+    "entry_timestamp": "2025-05-14T18:57:39.241",
+    "not_before": "2025-05-14T17:59:08",
+    "not_after": "2025-08-12T17:59:07",
+    "serial_number": "05d0aeb3030f53df9b8b2397078401dbe8af",
     "result_count": 3
   },
   {
@@ -5716,11 +6436,35 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
     "common_name": "openpaymentsdata.cms.gov",
     "name_value": "edit.openpaymentsdata.cms.gov\nopenpaymentsdata.cms.gov",
+    "id": 18406325668,
+    "entry_timestamp": "2025-05-14T18:55:04.918",
+    "not_before": "2025-05-14T17:56:34",
+    "not_after": "2025-08-12T17:56:33",
+    "serial_number": "05db5861e2596f47c684e9e91d1b5c86c86e",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "openpaymentsdata.cms.gov",
+    "name_value": "edit.openpaymentsdata.cms.gov\nopenpaymentsdata.cms.gov",
     "id": 18406332064,
     "entry_timestamp": "2025-05-14T18:55:04.673",
     "not_before": "2025-05-14T17:56:34",
     "not_after": "2025-08-12T17:56:33",
     "serial_number": "05db5861e2596f47c684e9e91d1b5c86c86e",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "prod2.openpaymentsdata.cms.gov",
+    "name_value": "prod2-edit.openpaymentsdata.cms.gov\nprod2.openpaymentsdata.cms.gov",
+    "id": 18406261388,
+    "entry_timestamp": "2025-05-14T18:49:54.796",
+    "not_before": "2025-05-14T17:51:24",
+    "not_after": "2025-08-12T17:51:23",
+    "serial_number": "06e3dd625f2b968efd8dd02ec1d4b6b7cf76",
     "result_count": 3
   },
   {
@@ -5740,6 +6484,18 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
     "common_name": "imp.openpaymentsdata.cms.gov",
     "name_value": "imp-edit.openpaymentsdata.cms.gov\nimp.openpaymentsdata.cms.gov",
+    "id": 18406212247,
+    "entry_timestamp": "2025-05-14T18:46:37.634",
+    "not_before": "2025-05-14T17:48:05",
+    "not_after": "2025-08-12T17:48:04",
+    "serial_number": "05d379efd563c5df34011fedf69d224a7d86",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "imp.openpaymentsdata.cms.gov",
+    "name_value": "imp-edit.openpaymentsdata.cms.gov\nimp.openpaymentsdata.cms.gov",
     "id": 18406213375,
     "entry_timestamp": "2025-05-14T18:46:35.519",
     "not_before": "2025-05-14T17:48:05",
@@ -5752,11 +6508,35 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
     "common_name": "test.openpaymentsdata.cms.gov",
     "name_value": "test-edit.openpaymentsdata.cms.gov\ntest.openpaymentsdata.cms.gov",
+    "id": 18406160013,
+    "entry_timestamp": "2025-05-14T18:42:53.115",
+    "not_before": "2025-05-14T17:44:21",
+    "not_after": "2025-08-12T17:44:20",
+    "serial_number": "0589db983b58298987fdfd9c69a6bea11740",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "test.openpaymentsdata.cms.gov",
+    "name_value": "test-edit.openpaymentsdata.cms.gov\ntest.openpaymentsdata.cms.gov",
     "id": 18406159371,
     "entry_timestamp": "2025-05-14T18:42:51.263",
     "not_before": "2025-05-14T17:44:21",
     "not_after": "2025-08-12T17:44:20",
     "serial_number": "0589db983b58298987fdfd9c69a6bea11740",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "dev.openpaymentsdata.cms.gov",
+    "name_value": "dev-edit.openpaymentsdata.cms.gov\ndev.openpaymentsdata.cms.gov",
+    "id": 18406067070,
+    "entry_timestamp": "2025-05-14T18:35:59.569",
+    "not_before": "2025-05-14T17:37:28",
+    "not_after": "2025-08-12T17:37:27",
+    "serial_number": "06385129f6b5956014adeb2f7380d4238be9",
     "result_count": 3
   },
   {
@@ -5986,6 +6766,30 @@
     "not_after": "2026-06-12T17:47:08",
     "serial_number": "400196cac2d781e7d095ffcaf8ba197d",
     "result_count": 5
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "test2.cms.gov",
+    "name_value": "bidev.cms.gov\nbival.cms.gov\ndata.test.cms.gov\ndev2.edit.cms.gov\ndev.data.cms.gov\ndev.design.cms.gov\ndev-edit.pfs.data.cms.gov\ndev-edit.qic.cms.gov\ndev.pfs.data.cms.gov\ndev-qic.cms.gov\nhicsimpl1.cms.gov\nhicsimpl2.cms.gov\nhicstest.cms.gov\nhiostest2.cms.gov\nhiostest2gateway.cms.gov\nimp2.cms.gov\nimp2.edit.cms.gov\nimp3.cms.gov\nimp3.edit.cms.gov\nimp.data.cms.gov\nimp.design.cms.gov\nimp-edit.pfs.data.cms.gov\nimp-edit.qic.cms.gov\nimpl.ar.ocean.cms.gov\nimpl.ocean.cms.gov\nimpl.sei.cms.gov\nimp.pfs.data.cms.gov\nimp-qic.cms.gov\nmo-idp.test.cms.gov\nnsa-idr-qa.cms.gov\nnsa-idr-uat.cms.gov\noffcycle.edit.cms.gov\nsccliatest.cms.gov\nsccliaval.cms.gov\nseedimpl.cms.gov\nstage.data.cms.gov\ntableau.bidev.cms.gov\ntableau.bival.cms.gov\ntableau.gc.bidev.cms.gov\ntableau.gc.bival.cms.gov\ntest2.cms.gov\ntest.data.cms.gov\ntest-edit.pfs.data.cms.gov\ntest-edit.qic.cms.gov\ntest.ocean.cms.gov\ntest.pfs.data.cms.gov\ntest-qic.cms.gov\ntest.sei.cms.gov\nwork.cms.gov\nwww.nsa-idr-qa.cms.gov\nwww.nsa-idr-uat.cms.gov\nzone-impl.cms.gov\nzone-test.cms.gov",
+    "id": 18385694251,
+    "entry_timestamp": "2025-05-13T17:14:36.266",
+    "not_before": "2025-05-13T16:16:03",
+    "not_after": "2025-08-11T16:16:02",
+    "serial_number": "065f2272ac820da0d35b90321c2163c4d4e7",
+    "result_count": 54
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "test2.cms.gov",
+    "name_value": "bidev.cms.gov\nbival.cms.gov\ndata.test.cms.gov\ndev2.edit.cms.gov\ndev.data.cms.gov\ndev.design.cms.gov\ndev-edit.pfs.data.cms.gov\ndev-edit.qic.cms.gov\ndev.pfs.data.cms.gov\ndev-qic.cms.gov\nhicsimpl1.cms.gov\nhicsimpl2.cms.gov\nhicstest.cms.gov\nhiostest2.cms.gov\nhiostest2gateway.cms.gov\nimp2.cms.gov\nimp2.edit.cms.gov\nimp3.cms.gov\nimp3.edit.cms.gov\nimp.data.cms.gov\nimp.design.cms.gov\nimp-edit.pfs.data.cms.gov\nimp-edit.qic.cms.gov\nimpl.ar.ocean.cms.gov\nimpl.ocean.cms.gov\nimpl.sei.cms.gov\nimp.pfs.data.cms.gov\nimp-qic.cms.gov\nmo-idp.test.cms.gov\nnsa-idr-qa.cms.gov\nnsa-idr-uat.cms.gov\noffcycle.edit.cms.gov\nsccliatest.cms.gov\nsccliaval.cms.gov\nseedimpl.cms.gov\nstage.data.cms.gov\ntableau.bidev.cms.gov\ntableau.bival.cms.gov\ntableau.gc.bidev.cms.gov\ntableau.gc.bival.cms.gov\ntest2.cms.gov\ntest.data.cms.gov\ntest-edit.pfs.data.cms.gov\ntest-edit.qic.cms.gov\ntest.ocean.cms.gov\ntest.pfs.data.cms.gov\ntest-qic.cms.gov\ntest.sei.cms.gov\nwork.cms.gov\nwww.nsa-idr-qa.cms.gov\nwww.nsa-idr-uat.cms.gov\nzone-impl.cms.gov\nzone-test.cms.gov",
+    "id": 18385695796,
+    "entry_timestamp": "2025-05-13T17:14:33.895",
+    "not_before": "2025-05-13T16:16:03",
+    "not_after": "2025-08-11T16:16:02",
+    "serial_number": "065f2272ac820da0d35b90321c2163c4d4e7",
+    "result_count": 54
   },
   {
     "issuer_ca_id": 247106,
@@ -6640,6 +7444,18 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
     "common_name": "trnhealthffrdc.cms.gov",
     "name_value": "trnhealthffrdc.cms.gov",
+    "id": 18224291416,
+    "entry_timestamp": "2025-05-04T23:28:42.548",
+    "not_before": "2025-05-04T22:30:11",
+    "not_after": "2025-08-02T22:30:10",
+    "serial_number": "050116fab81683ecd5592cc7fc6c197e1355",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "trnhealthffrdc.cms.gov",
+    "name_value": "trnhealthffrdc.cms.gov",
     "id": 18224293460,
     "entry_timestamp": "2025-05-04T23:28:41.836",
     "not_before": "2025-05-04T22:30:11",
@@ -6681,6 +7497,18 @@
     "not_before": "2025-05-04T00:00:00",
     "not_after": "2026-06-03T23:59:59",
     "serial_number": "0680c9245519ecc7874a930f43e0897d",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "heimdall-lite.cms.gov",
+    "name_value": "heimdall-lite.cms.gov",
+    "id": 18190983601,
+    "entry_timestamp": "2025-05-03T00:59:40.268",
+    "not_before": "2025-05-03T00:01:08",
+    "not_after": "2025-08-01T00:01:07",
+    "serial_number": "06a79617a219ed02f1105975c7ab45e16ad6",
     "result_count": 2
   },
   {
@@ -6780,6 +7608,54 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "edit.pdc.cms.gov",
+    "name_value": "data.cms.gov\ndev.data.cms.gov\nedit.pdc.cms.gov\nstage.data.cms.gov\ntest.data.cms.gov",
+    "id": 18168032322,
+    "entry_timestamp": "2025-05-01T16:36:29.765",
+    "not_before": "2025-05-01T15:37:58",
+    "not_after": "2025-07-30T15:37:57",
+    "serial_number": "06b8b96aa3f9038d982ec7b3a6f3be0c8bca",
+    "result_count": 6
+  },
+  {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "edit.pdc.cms.gov",
+    "name_value": "data.cms.gov\ndev.data.cms.gov\nedit.pdc.cms.gov\nstage.data.cms.gov\ntest.data.cms.gov",
+    "id": 18168037305,
+    "entry_timestamp": "2025-05-01T16:36:28.669",
+    "not_before": "2025-05-01T15:37:58",
+    "not_after": "2025-07-30T15:37:57",
+    "serial_number": "06b8b96aa3f9038d982ec7b3a6f3be0c8bca",
+    "result_count": 6
+  },
+  {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "dev-edit.pdc.cms.gov",
+    "name_value": "dev-edit.pdc.cms.gov\nimp-edit.pdc.cms.gov\ntest.data.cms.gov\ntest-edit.pdc.cms.gov",
+    "id": 18167729605,
+    "entry_timestamp": "2025-05-01T16:09:14.04",
+    "not_before": "2025-05-01T15:10:41",
+    "not_after": "2025-07-30T15:10:40",
+    "serial_number": "06373b5688fcd57959a34d270029864f5709",
+    "result_count": 5
+  },
+  {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "dev-edit.pdc.cms.gov",
+    "name_value": "dev-edit.pdc.cms.gov\nimp-edit.pdc.cms.gov\ntest.data.cms.gov\ntest-edit.pdc.cms.gov",
+    "id": 18167733541,
+    "entry_timestamp": "2025-05-01T16:09:11.735",
+    "not_before": "2025-05-01T15:10:41",
+    "not_after": "2025-07-30T15:10:40",
+    "serial_number": "06373b5688fcd57959a34d270029864f5709",
+    "result_count": 5
+  },
+  {
     "issuer_ca_id": 247115,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
     "common_name": "impl.mdpcp.internal.cms.gov",
@@ -6790,6 +7666,18 @@
     "not_after": "2026-05-30T23:59:59",
     "serial_number": "02590e0d9a4d461c5f17b4bd71166a5f",
     "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "saf.cms.gov",
+    "name_value": "saf.cms.gov",
+    "id": 18160240299,
+    "entry_timestamp": "2025-05-01T07:07:13.247",
+    "not_before": "2025-05-01T06:08:39",
+    "not_after": "2025-07-30T06:08:38",
+    "serial_number": "0627974b4f170737b1efa4608bf8a3b3912b",
+    "result_count": 2
   },
   {
     "issuer_ca_id": 295814,
@@ -6850,18 +7738,6 @@
     "not_after": "2026-05-30T14:44:36",
     "serial_number": "40019687290d7dfb886a748347723ba1",
     "result_count": 5
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "go.cms.gov",
-    "name_value": "go.cms.gov",
-    "id": 18138028411,
-    "entry_timestamp": "2025-04-30T04:03:23.547",
-    "not_before": "2025-04-30T03:04:53",
-    "not_after": "2025-07-29T03:04:52",
-    "serial_number": "057adf1e0a98f0b87d11148980b0093078cd",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 153248,
@@ -6936,18 +7812,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "idp-radvcdat.cms.gov",
-    "name_value": "idp-radvcdat.cms.gov",
-    "id": 18129312017,
-    "entry_timestamp": "2025-04-29T19:08:57.262",
-    "not_before": "2025-04-29T18:10:27",
-    "not_after": "2025-07-28T18:10:26",
-    "serial_number": "060bd377122944b9817466bfa6c510c83354",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 247115,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
     "common_name": "dev.statuspage.infraops.backends.cms.gov",
@@ -6969,18 +7833,6 @@
     "not_before": "2025-04-29T16:50:38",
     "not_after": "2026-05-29T16:49:38",
     "serial_number": "400196827528108bf4772242f2420477",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "snyk.cms.gov",
-    "name_value": "snyk.cms.gov",
-    "id": 18119500384,
-    "entry_timestamp": "2025-04-29T03:49:07.121",
-    "not_before": "2025-04-29T02:50:37",
-    "not_after": "2025-07-28T02:50:36",
-    "serial_number": "05048de154e7015c02e195c169ffbdbf6f28",
     "result_count": 2
   },
   {
@@ -7416,42 +8268,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "sandbox.dpc.cms.gov",
-    "name_value": "sandbox.dpc.cms.gov",
-    "id": 18035488119,
-    "entry_timestamp": "2025-04-24T10:32:06.421",
-    "not_before": "2024-06-28T15:59:06",
-    "not_after": "2025-07-28T15:58:06",
-    "serial_number": "4001905f925f3a3c4037b5300ed74382",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "prod.dpc.cms.gov",
-    "name_value": "prod.dpc.cms.gov",
-    "id": 18035006795,
-    "entry_timestamp": "2025-04-24T09:55:56.112",
-    "not_before": "2024-06-28T16:02:14",
-    "not_after": "2025-07-28T16:01:14",
-    "serial_number": "4001905f953d33ac44edb11a9f347d73",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "test.dpc.cms.gov",
-    "name_value": "test.dpc.cms.gov",
-    "id": 18034930965,
-    "entry_timestamp": "2025-04-24T09:50:40.851",
-    "not_before": "2024-06-28T15:58:23",
-    "not_after": "2025-07-28T15:57:23",
-    "serial_number": "4001905f91b62912dd7deb8bfc835f1a",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 247106,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
     "common_name": "dev.mailchecker.backends.cms.gov",
@@ -7461,18 +8277,6 @@
     "not_before": "2025-04-24T00:00:00",
     "not_after": "2026-05-24T23:59:59",
     "serial_number": "015ccc142b20d008afa425a57d7f4017",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "akamaisecure7.qualtrics.com",
-    "name_value": "qualtrics.cms.gov\nsurveys.CMS.gov",
-    "id": 18029941270,
-    "entry_timestamp": "2025-04-24T03:34:13.255",
-    "not_before": "2024-06-27T00:00:00",
-    "not_after": "2025-07-28T23:59:59",
-    "serial_number": "0d085861af7dda06e755944738346df7",
     "result_count": 2
   },
   {
@@ -24765,78 +25569,6 @@
     "not_before": "2024-06-30T00:00:00",
     "not_after": "2025-07-29T23:59:59",
     "serial_number": "0c5007866abdaafb6280e55d8dbfab66",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "jenkins.ab2d.cms.gov",
-    "name_value": "jenkins.ab2d.cms.gov",
-    "id": 13551195886,
-    "entry_timestamp": "2024-06-28T16:03:00.546",
-    "not_before": "2024-06-28T16:03:00",
-    "not_after": "2025-07-28T16:02:00",
-    "serial_number": "4001905f95f0509c63c827325110203e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "prod.dpc.cms.gov",
-    "name_value": "prod.dpc.cms.gov",
-    "id": 13551195863,
-    "entry_timestamp": "2024-06-28T16:02:14.701",
-    "not_before": "2024-06-28T16:02:14",
-    "not_after": "2025-07-28T16:01:14",
-    "serial_number": "4001905f953d33ac44edb11a9f347d73",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "sandbox.dpc.cms.gov",
-    "name_value": "sandbox.dpc.cms.gov",
-    "id": 13551166238,
-    "entry_timestamp": "2024-06-28T15:59:06.752",
-    "not_before": "2024-06-28T15:59:06",
-    "not_after": "2025-07-28T15:58:06",
-    "serial_number": "4001905f925f3a3c4037b5300ed74382",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "test.dpc.cms.gov",
-    "name_value": "test.dpc.cms.gov",
-    "id": 13551156721,
-    "entry_timestamp": "2024-06-28T15:58:23.469",
-    "not_before": "2024-06-28T15:58:23",
-    "not_after": "2025-07-28T15:57:23",
-    "serial_number": "4001905f91b62912dd7deb8bfc835f1a",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "coverage.cms.gov",
-    "name_value": "coverage.cms.gov",
-    "id": 13541253774,
-    "entry_timestamp": "2024-06-27T21:14:25.241",
-    "not_before": "2024-06-27T21:14:25",
-    "not_after": "2025-07-27T21:13:25",
-    "serial_number": "4001905b8cafa43948c315d001176c63",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "akamaisecure7.qualtrics.com",
-    "name_value": "qualtrics.cms.gov\nsurveys.CMS.gov",
-    "id": 13538067410,
-    "entry_timestamp": "2024-06-27T14:48:18.755",
-    "not_before": "2024-06-27T00:00:00",
-    "not_after": "2025-07-28T23:59:59",
-    "serial_number": "0d085861af7dda06e755944738346df7",
     "result_count": 2
   }
 ]
