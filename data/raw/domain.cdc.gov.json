@@ -1,5 +1,41 @@
 [
   {
+    "issuer_ca_id": 365075,
+    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
+    "common_name": "wilcard.nhsnstg.cdc.gov",
+    "name_value": "*.nhsnstg.cdc.gov\nwilcard.nhsnstg.cdc.gov",
+    "id": 20036121247,
+    "entry_timestamp": "2025-07-31T19:29:10.453",
+    "not_before": "2025-07-31T19:19:09",
+    "not_after": "2026-07-31T14:21:19",
+    "serial_number": "125f283fac8668d76f54e67906ac98ed",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 365075,
+    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
+    "common_name": "spoke-uat.amdp.cdc.gov",
+    "name_value": "spoke-uat.amdp.cdc.gov",
+    "id": 20031517975,
+    "entry_timestamp": "2025-07-31T14:07:10.143",
+    "not_before": "2025-07-31T13:57:08",
+    "not_after": "2026-07-31T05:17:34",
+    "serial_number": "0daf4fbabee70e88023a55eb6baa2fd0",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 365075,
+    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
+    "common_name": "staging-mbda.cdc.gov",
+    "name_value": "staging-mbda.cdc.gov",
+    "id": 20031518538,
+    "entry_timestamp": "2025-07-31T14:07:10.004",
+    "not_before": "2025-07-31T13:57:08",
+    "not_after": "2026-07-31T05:11:32",
+    "serial_number": "62468bc1f07c0ecf1bcb8373271fcd5c",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 295815,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
     "common_name": "www.cdc.gov",
@@ -538,30 +574,6 @@
     "not_after": "2026-06-21T04:00:00",
     "serial_number": "78b5d3df0f2b7f1e3991ce48346f24ce",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "npp.cdc.gov",
-    "name_value": "npp.cdc.gov",
-    "id": 19750256366,
-    "entry_timestamp": "2025-07-18T07:46:46.3",
-    "not_before": "2024-07-22T13:29:41",
-    "not_after": "2025-07-31T13:29:40",
-    "serial_number": "576f1d2e82bd57af32321e554c2fdd33",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "npptest.cdc.gov",
-    "name_value": "npptest.cdc.gov",
-    "id": 19749044413,
-    "entry_timestamp": "2025-07-18T06:30:24.404",
-    "not_before": "2024-07-22T13:29:41",
-    "not_after": "2025-07-31T13:29:40",
-    "serial_number": "63b6c0af4760c7c1dd259af55aa5fc49",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 365075,
@@ -1833,18 +1845,6 @@
     "not_before": "2025-06-14T00:00:00",
     "not_after": "2025-12-11T23:59:59",
     "serial_number": "0d55f2a6c1e5a87d882cc1ca1180c2f1",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "dev.eipp.cdc.gov",
-    "name_value": "dev.eipp.cdc.gov",
-    "id": 19005241983,
-    "entry_timestamp": "2025-06-13T20:29:09.059",
-    "not_before": "2024-07-31T17:43:44",
-    "not_after": "2025-07-31T17:43:43",
-    "serial_number": "212b10ab6c472d95ef9e778815e00185",
     "result_count": 2
   },
   {
@@ -3420,30 +3420,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "www.cdc.gov",
-    "name_value": "4mmp.cdc.gov\namdtower.cdc.gov\namdtower-stg.cdc.gov\nartreportingnew.cdc.gov\ncanary.fhir.nvss.cdc.gov\ncanary-v4.fhir.nvss.cdc.gov\ncovidnew.cdc.gov\ncvtm-graph-fa.cdc.gov\ndcipher.cdc.gov\ndcipher-test.cdc.gov\ndpd.cdc.gov\ndrt.cdc.gov\ndsmes-program-locator.cdc.gov\nednweb.cdc.gov\nejinew.cdc.gov\nemergencynew.cdc.gov\nepiinfosecurewebsurvey.cdc.gov\nepiinfosecurewebsurveynew.cdc.gov\nepixstgcloud.cdc.gov\nfronterasaludable.cdc.gov\ngisnew.cdc.gov\nmicrobenetnew.cdc.gov\nnchsdatanew.cdc.gov\nnhsn4.cdc.gov\nonemapnew.cdc.gov\nphilnew.cdc.gov\npons-web-int.cdc.gov\npredict.cdc.gov\nsnapshot2024atsdr.cdc.gov\nsnapshot2024atsdrnew.cdc.gov\nsvinew.cdc.gov\nvaccinecodeset.cdc.gov\nvtrcks-grantee2-q5.cdc.gov\nvtrcks-grantee2-q6.cdc.gov\nvtrcks-grantee2-s1.cdc.gov\nvtrcks-grantee-q5.cdc.gov\nvtrcks-grantee-q6.cdc.gov\nvtrcks-grantee-s1.cdc.gov\nvtrcks-help-qa.cdc.gov\nvtrcks-provider-q5.cdc.gov\nvtrcks-provider-q6.cdc.gov\nvtrcks-provider-s1.cdc.gov\nvtrcks-provider-training.cdc.gov\nvtrcks-training2.cdc.gov\nvtrcks-training.cdc.gov\nwebappnew.cdc.gov\nwonder.cdc.gov\nwtchp.cdc.gov\nwtchpstage.cdc.gov\nwww2.cdc.gov\nwww2new.cdc.gov\nwww.cdc.gov\nwwwncnew.cdc.gov\nwwwnnew.cdc.gov\nyouthonline.cdc.gov\nyouthonline-int.cdc.gov",
-    "id": 18185199541,
-    "entry_timestamp": "2025-05-02T17:21:32.188",
-    "not_before": "2025-05-02T16:22:59",
-    "not_after": "2025-07-31T16:22:58",
-    "serial_number": "055ff2ad541c7c5e0a219e56e81121bd4640",
-    "result_count": 57
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "www.cdc.gov",
-    "name_value": "4mmp.cdc.gov\namdtower.cdc.gov\namdtower-stg.cdc.gov\nartreportingnew.cdc.gov\ncanary.fhir.nvss.cdc.gov\ncanary-v4.fhir.nvss.cdc.gov\ncovidnew.cdc.gov\ncvtm-graph-fa.cdc.gov\ndcipher.cdc.gov\ndcipher-test.cdc.gov\ndpd.cdc.gov\ndrt.cdc.gov\ndsmes-program-locator.cdc.gov\nednweb.cdc.gov\nejinew.cdc.gov\nemergencynew.cdc.gov\nepiinfosecurewebsurvey.cdc.gov\nepiinfosecurewebsurveynew.cdc.gov\nepixstgcloud.cdc.gov\nfronterasaludable.cdc.gov\ngisnew.cdc.gov\nmicrobenetnew.cdc.gov\nnchsdatanew.cdc.gov\nnhsn4.cdc.gov\nonemapnew.cdc.gov\nphilnew.cdc.gov\npons-web-int.cdc.gov\npredict.cdc.gov\nsnapshot2024atsdr.cdc.gov\nsnapshot2024atsdrnew.cdc.gov\nsvinew.cdc.gov\nvaccinecodeset.cdc.gov\nvtrcks-grantee2-q5.cdc.gov\nvtrcks-grantee2-q6.cdc.gov\nvtrcks-grantee2-s1.cdc.gov\nvtrcks-grantee-q5.cdc.gov\nvtrcks-grantee-q6.cdc.gov\nvtrcks-grantee-s1.cdc.gov\nvtrcks-help-qa.cdc.gov\nvtrcks-provider-q5.cdc.gov\nvtrcks-provider-q6.cdc.gov\nvtrcks-provider-s1.cdc.gov\nvtrcks-provider-training.cdc.gov\nvtrcks-training2.cdc.gov\nvtrcks-training.cdc.gov\nwebappnew.cdc.gov\nwonder.cdc.gov\nwtchp.cdc.gov\nwtchpstage.cdc.gov\nwww2.cdc.gov\nwww2new.cdc.gov\nwww.cdc.gov\nwwwncnew.cdc.gov\nwwwnnew.cdc.gov\nyouthonline.cdc.gov\nyouthonline-int.cdc.gov",
-    "id": 18185189268,
-    "entry_timestamp": "2025-05-02T17:21:30.03",
-    "not_before": "2025-05-02T16:22:59",
-    "not_after": "2025-07-31T16:22:58",
-    "serial_number": "055ff2ad541c7c5e0a219e56e81121bd4640",
-    "result_count": 57
-  },
-  {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "amdtower-stg.origin.cdc.gov",
@@ -3862,18 +3838,6 @@
     "not_after": "2026-04-25T13:18:28",
     "serial_number": "6c06b473dcb4c9a6e43cf81f45de6184",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "npals-dcw.cdc.gov",
-    "name_value": "npals-dcw.cdc.gov\nwww.npals-dcw.cdc.gov",
-    "id": 18043815214,
-    "entry_timestamp": "2025-04-24T20:46:47.996",
-    "not_before": "2024-07-02T17:13:38",
-    "not_after": "2025-07-31T17:13:37",
-    "serial_number": "1294b6e058d5d96909cfd97a46b08f29",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 365075,
@@ -11968,18 +11932,6 @@
     "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
     "common_name": "dev.eipp.cdc.gov",
     "name_value": "dev.eipp.cdc.gov",
-    "id": 13943858683,
-    "entry_timestamp": "2024-07-31T17:43:44.405",
-    "not_before": "2024-07-31T17:43:44",
-    "not_after": "2025-07-31T17:43:43",
-    "serial_number": "212b10ab6c472d95ef9e778815e00185",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "dev.eipp.cdc.gov",
-    "name_value": "dev.eipp.cdc.gov",
     "id": 13925399139,
     "entry_timestamp": "2024-07-30T17:55:01.984",
     "not_before": "2024-07-30T17:55:01",
@@ -12038,30 +11990,6 @@
   {
     "issuer_ca_id": 1586,
     "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "npptest.cdc.gov",
-    "name_value": "npptest.cdc.gov",
-    "id": 13836199612,
-    "entry_timestamp": "2024-07-22T13:29:41.635",
-    "not_before": "2024-07-22T13:29:41",
-    "not_after": "2025-07-31T13:29:40",
-    "serial_number": "63b6c0af4760c7c1dd259af55aa5fc49",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "npp.cdc.gov",
-    "name_value": "npp.cdc.gov",
-    "id": 13836199559,
-    "entry_timestamp": "2024-07-22T13:29:41.562",
-    "not_before": "2024-07-22T13:29:41",
-    "not_after": "2025-07-31T13:29:40",
-    "serial_number": "576f1d2e82bd57af32321e554c2fdd33",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
     "common_name": "clft-sbc-01.cdc.gov",
     "name_value": "clft-sbc-01.cdc.gov",
     "id": 13794732438,
@@ -12069,18 +11997,6 @@
     "not_before": "2024-07-18T18:52:20",
     "not_after": "2025-08-01T18:52:19",
     "serial_number": "1c8dbc529b7afc9cb8811248f3d4a082",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "cham-sbc-01.cdc.gov",
-    "name_value": "cham-sbc-01.cdc.gov",
-    "id": 13781588312,
-    "entry_timestamp": "2024-07-17T20:53:06.946",
-    "not_before": "2024-07-17T20:53:06",
-    "not_after": "2025-07-31T20:53:05",
-    "serial_number": "101752ebd5522b2e080b872622add419",
     "result_count": 2
   },
   {
@@ -12130,17 +12046,5 @@
     "not_after": "2025-08-05T13:55:42",
     "serial_number": "297ae5b5d631f3cce8bea00cf94e0eca",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "npals-dcw.cdc.gov",
-    "name_value": "npals-dcw.cdc.gov\nwww.npals-dcw.cdc.gov",
-    "id": 13595038886,
-    "entry_timestamp": "2024-07-02T17:13:38.601",
-    "not_before": "2024-07-02T17:13:38",
-    "not_after": "2025-07-31T17:13:37",
-    "serial_number": "1294b6e058d5d96909cfd97a46b08f29",
-    "result_count": 3
   }
 ]
