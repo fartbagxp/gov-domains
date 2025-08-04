@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "ci.protectivedns.cisa.gov",
+    "name_value": "*.ci.protectivedns.cisa.gov\nci.protectivedns.cisa.gov",
+    "id": 20099866725,
+    "entry_timestamp": "2025-08-04T00:03:18.676",
+    "not_before": "2025-08-04T00:00:00",
+    "not_after": "2026-09-02T23:59:59",
+    "serial_number": "082cfba64922cf35ff87eb564337e1a6",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185748,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
+    "common_name": "www.homelandsecurity.gov",
+    "name_value": "cisa.gov\ndevlearning.cisa.gov\nlearning.cisa.gov\nwww.cisa.gov",
+    "id": 20080458571,
+    "entry_timestamp": "2025-08-02T23:26:19.526",
+    "not_before": "2025-07-31T00:00:00",
+    "not_after": "2025-11-19T23:59:59",
+    "serial_number": "0e687aef2ed08d32e8e484260baee228",
+    "result_count": 4
+  },
+  {
     "issuer_ca_id": 185748,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
     "common_name": "www.homelandsecurity.gov",
@@ -57,18 +81,6 @@
     "not_before": "2025-07-29T15:02:24",
     "not_after": "2025-10-27T15:02:23",
     "serial_number": "057ca3aa58549c43937dd2b58c2d3dae7b76",
-    "result_count": 5
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "protectivedns.cisa.gov",
-    "name_value": "*.ci.protectivedns.cisa.gov\n*.protectivedns.cisa.gov\nprotectivedns.cisa.gov\n*.test-ci.protectivedns.cisa.gov",
-    "id": 19989019670,
-    "entry_timestamp": "2025-07-29T16:00:44.094",
-    "not_before": "2025-07-29T15:02:13",
-    "not_after": "2025-10-27T15:02:12",
-    "serial_number": "05dcd66931d1adec189d8ede83db77db3b80",
     "result_count": 5
   },
   {
@@ -244,18 +256,6 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
     "common_name": "protectivedns.cisa.gov",
     "name_value": "*.ci.protectivedns.cisa.gov\n*.protectivedns.cisa.gov\nprotectivedns.cisa.gov",
-    "id": 19628824989,
-    "entry_timestamp": "2025-07-13T05:26:19.776",
-    "not_before": "2025-07-13T04:27:49",
-    "not_after": "2025-10-11T04:27:48",
-    "serial_number": "05a1b6e56a1f07668fe4158f11d4f81c67c3",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "protectivedns.cisa.gov",
-    "name_value": "*.ci.protectivedns.cisa.gov\n*.protectivedns.cisa.gov\nprotectivedns.cisa.gov",
     "id": 19628824589,
     "entry_timestamp": "2025-07-13T05:26:19.607",
     "not_before": "2025-07-13T04:27:49",
@@ -334,30 +334,6 @@
     "not_after": "2025-10-02T12:51:07",
     "serial_number": "4af42d8836ad2e0723fa7b3e6d134009",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "myservices.cisa.gov",
-    "name_value": "myservices.cisa.gov",
-    "id": 19491853436,
-    "entry_timestamp": "2025-07-06T16:29:14.08",
-    "not_before": "2025-07-06T15:30:43",
-    "not_after": "2025-10-04T15:30:42",
-    "serial_number": "05cb66355a7d95b07963cd6ea1fca40ddde4",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "myservices.cisa.gov",
-    "name_value": "myservices.cisa.gov",
-    "id": 19491850325,
-    "entry_timestamp": "2025-07-06T16:29:13.809",
-    "not_before": "2025-07-06T15:30:43",
-    "not_after": "2025-10-04T15:30:42",
-    "serial_number": "05cb66355a7d95b07963cd6ea1fca40ddde4",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 286236,
@@ -660,30 +636,6 @@
     "result_count": 7
   },
   {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "protectivedns.cisa.gov",
-    "name_value": "*.ci.protectivedns.cisa.gov\n*.dev.protectivedns.cisa.gov\n*.protectivedns.cisa.gov\nprotectivedns.cisa.gov\n*.test-ci.protectivedns.cisa.gov\n*.test.protectivedns.cisa.gov",
-    "id": 19095593643,
-    "entry_timestamp": "2025-06-18T11:46:55.634",
-    "not_before": "2025-06-18T10:48:23",
-    "not_after": "2025-09-16T10:48:22",
-    "serial_number": "05dd9afdc667b48bce5bc9c11de5871cef35",
-    "result_count": 7
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "protectivedns.cisa.gov",
-    "name_value": "*.ci.protectivedns.cisa.gov\n*.dev.protectivedns.cisa.gov\n*.protectivedns.cisa.gov\nprotectivedns.cisa.gov\n*.test-ci.protectivedns.cisa.gov\n*.test.protectivedns.cisa.gov",
-    "id": 19095591169,
-    "entry_timestamp": "2025-06-18T11:46:53.326",
-    "not_before": "2025-06-18T10:48:23",
-    "not_after": "2025-09-16T10:48:22",
-    "serial_number": "05dd9afdc667b48bce5bc9c11de5871cef35",
-    "result_count": 7
-  },
-  {
     "issuer_ca_id": 185748,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
     "common_name": "www.homelandsecurity.gov",
@@ -801,18 +753,6 @@
     "not_before": "2025-05-31T15:33:10",
     "not_after": "2025-08-29T15:33:09",
     "serial_number": "051cf264d5d5bc7f38a648e6b05e09e00f35",
-    "result_count": 5
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "protectivedns.cisa.gov",
-    "name_value": "*.ci.protectivedns.cisa.gov\n*.protectivedns.cisa.gov\nprotectivedns.cisa.gov\n*.test-ci.protectivedns.cisa.gov",
-    "id": 18734268962,
-    "entry_timestamp": "2025-05-31T16:31:31.906",
-    "not_before": "2025-05-31T15:33:01",
-    "not_after": "2025-08-29T15:33:00",
-    "serial_number": "054c05823b0f7c223d91c28b006c891b5bb9",
     "result_count": 5
   },
   {
@@ -1000,18 +940,6 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
     "common_name": "protectivedns.cisa.gov",
     "name_value": "*.ci.protectivedns.cisa.gov\n*.protectivedns.cisa.gov\nprotectivedns.cisa.gov",
-    "id": 18416207201,
-    "entry_timestamp": "2025-05-15T06:11:17.034",
-    "not_before": "2025-05-15T05:12:43",
-    "not_after": "2025-08-13T05:12:42",
-    "serial_number": "06c481ed378ad684db1376fd0f45d2df6258",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "protectivedns.cisa.gov",
-    "name_value": "*.ci.protectivedns.cisa.gov\n*.protectivedns.cisa.gov\nprotectivedns.cisa.gov",
     "id": 18416207441,
     "entry_timestamp": "2025-05-15T06:11:13.968",
     "not_before": "2025-05-15T05:12:43",
@@ -1066,30 +994,6 @@
     "not_after": "2025-08-04T11:46:56",
     "serial_number": "22c696b54eaebf7f6c3abea7cbabf7c4",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "myservices.cisa.gov",
-    "name_value": "myservices.cisa.gov",
-    "id": 18271912752,
-    "entry_timestamp": "2025-05-07T14:29:18.06",
-    "not_before": "2025-05-07T13:30:45",
-    "not_after": "2025-08-05T13:30:44",
-    "serial_number": "068caf5382893c01067364f4f8eb89aef82c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "myservices.cisa.gov",
-    "name_value": "myservices.cisa.gov",
-    "id": 18271920678,
-    "entry_timestamp": "2025-05-07T14:29:16.289",
-    "not_before": "2025-05-07T13:30:45",
-    "not_after": "2025-08-05T13:30:44",
-    "serial_number": "068caf5382893c01067364f4f8eb89aef82c",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 286236,
