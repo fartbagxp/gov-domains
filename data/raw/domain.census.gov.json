@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "test.data.census.gov",
+    "name_value": "test.data.census.gov",
+    "id": 20126732002,
+    "entry_timestamp": "2025-08-05T04:47:57.044",
+    "not_before": "2025-07-21T16:25:47",
+    "not_after": "2025-10-19T17:25:44",
+    "serial_number": "60d2911f7ce2dbdf134ec2b45ae3d459",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247106,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
+    "common_name": "darhts.dapps.train.2026test.census.gov",
+    "name_value": "darhts.dapps.train.2026test.census.gov",
+    "id": 20117366441,
+    "entry_timestamp": "2025-08-04T19:02:49.042",
+    "not_before": "2025-08-04T00:00:00",
+    "not_after": "2026-09-02T23:59:59",
+    "serial_number": "06b01480697bfbcfd6872295f01a0e25",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "darhts.dapps.uat.2026test.census.gov",
@@ -1562,18 +1586,6 @@
   {
     "issuer_ca_id": 282053,
     "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
-    "common_name": "cloudflaretest.census.gov",
-    "name_value": "cloudflaretest.census.gov",
-    "id": 19535788963,
-    "entry_timestamp": "2025-07-08T20:06:58.851",
-    "not_before": "2025-07-08T19:54:47",
-    "not_after": "2025-08-07T20:01:27",
-    "serial_number": "67c81bbc42c6b420c67e914913358c7b",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 282053,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
     "common_name": "chris.test.hrd.cloudflaretest.census.gov",
     "name_value": "chris.test.hrd.cloudflaretest.census.gov",
     "id": 19535789075,
@@ -1581,6 +1593,18 @@
     "not_before": "2025-07-08T19:54:57",
     "not_after": "2025-08-07T20:01:37",
     "serial_number": "3251a926a62757e8130cdbaa4195e5f2",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 282053,
+    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
+    "common_name": "cloudflaretest.census.gov",
+    "name_value": "cloudflaretest.census.gov",
+    "id": 19535788963,
+    "entry_timestamp": "2025-07-08T20:06:58.851",
+    "not_before": "2025-07-08T19:54:47",
+    "not_after": "2025-08-07T20:01:27",
+    "serial_number": "67c81bbc42c6b420c67e914913358c7b",
     "result_count": 2
   },
   {
