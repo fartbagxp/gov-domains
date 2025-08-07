@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 365075,
+    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
+    "common_name": "dev.eipp.cdc.gov",
+    "name_value": "dev.eipp.cdc.gov",
+    "id": 20167805361,
+    "entry_timestamp": "2025-08-06T23:00:38.795",
+    "not_before": "2025-07-24T13:16:06",
+    "not_after": "2026-07-23T18:48:54",
+    "serial_number": "1aaf1cf0d47f6e62494f8570fee4da92",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 239799,
+    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
+    "common_name": "dev.eipp.cdc.gov",
+    "name_value": "dev.eipp.cdc.gov",
+    "id": 20167792281,
+    "entry_timestamp": "2025-08-06T23:00:23.514",
+    "not_before": "2025-08-06T00:00:00",
+    "not_after": "2026-02-06T23:59:59",
+    "serial_number": "05814b1e243fe8d28403ef02b02c37b6",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 295815,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
     "common_name": "www.cdc.gov",
@@ -3262,30 +3286,6 @@
     "not_after": "2026-05-13T14:08:05",
     "serial_number": "3eaf9fc4162cecd6ccec8d3160604015",
     "result_count": 1
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "vetoviolence.cdc.gov",
-    "name_value": "vetoviolence.cdc.gov",
-    "id": 18296355395,
-    "entry_timestamp": "2025-05-08T20:55:09.966",
-    "not_before": "2025-05-08T19:56:37",
-    "not_after": "2025-08-06T19:56:36",
-    "serial_number": "062b8d3eadf8aba22322bd4806ced96a3247",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "vetoviolence.cdc.gov",
-    "name_value": "vetoviolence.cdc.gov",
-    "id": 18296382994,
-    "entry_timestamp": "2025-05-08T20:55:07.863",
-    "not_before": "2025-05-08T19:56:37",
-    "not_after": "2025-08-06T19:56:36",
-    "serial_number": "062b8d3eadf8aba22322bd4806ced96a3247",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 365075,
@@ -11914,42 +11914,6 @@
     "not_after": "2025-08-24T11:32:48",
     "serial_number": "2507807ee59dcf68beabc73d7928451f",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "shorturl.cdc.gov",
-    "name_value": "shorturl.cdc.gov",
-    "id": 14021883059,
-    "entry_timestamp": "2024-08-06T19:35:17.911",
-    "not_before": "2024-08-06T19:35:17",
-    "not_after": "2025-08-06T19:35:16",
-    "serial_number": "6385d284a56e42e7a04f6aadb3b60620",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "hecatonline.cdc.gov",
-    "name_value": "hecatonline.cdc.gov",
-    "id": 14021883022,
-    "entry_timestamp": "2024-08-06T19:35:17.837",
-    "not_before": "2024-08-06T19:35:17",
-    "not_after": "2025-08-06T19:35:16",
-    "serial_number": "4778b739d9a222c56da519ecaebd0612",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "LMSRDemo-test.cdc.gov",
-    "name_value": "LMSRDemo-test.cdc.gov",
-    "id": 14019294016,
-    "entry_timestamp": "2024-08-06T15:32:52.222",
-    "not_before": "2024-08-06T15:32:52",
-    "not_after": "2025-08-06T15:32:50",
-    "serial_number": "6b9b10c5f0085a9d734e2ab66160bf3e",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 1586,

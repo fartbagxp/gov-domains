@@ -1,5 +1,137 @@
 [
   {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "training.eacms.aws.cms.gov",
+    "name_value": "training.eacms.aws.cms.gov",
+    "id": 20171653862,
+    "entry_timestamp": "2025-08-07T03:41:11.661",
+    "not_before": "2025-08-07T00:00:00",
+    "not_after": "2026-09-05T23:59:59",
+    "serial_number": "06288a88396d931412cc1ca5302882b2",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247106,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
+    "common_name": "costpoint.prod.mtfpm.internal.cms.gov",
+    "name_value": "costpoint.prod.mtfpm.internal.cms.gov",
+    "id": 20170768332,
+    "entry_timestamp": "2025-08-07T02:40:32.009",
+    "not_before": "2025-08-07T00:00:00",
+    "not_after": "2026-09-05T23:59:59",
+    "serial_number": "08f167c0b75aecb3064b18275b93a959",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247115,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
+    "common_name": "dev-internal.artifactory.backends.cms.gov",
+    "name_value": "dev-internal.artifactory.backends.cms.gov",
+    "id": 20170131008,
+    "entry_timestamp": "2025-08-07T01:55:21.684",
+    "not_before": "2025-08-07T00:00:00",
+    "not_after": "2026-09-05T23:59:59",
+    "serial_number": "0eed581925e6b1c738a7e436f292887c",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247106,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
+    "common_name": "dev.artifactory.cms.gov",
+    "name_value": "dev.artifactory.cms.gov",
+    "id": 20170129244,
+    "entry_timestamp": "2025-08-07T01:54:35.91",
+    "not_before": "2025-08-07T00:00:00",
+    "not_after": "2026-09-05T23:59:59",
+    "serial_number": "0bf1c6e6cd1e56ac3e888b1b8a550261",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "ap.ap-dev.eacms.aws.cms.gov",
+    "name_value": "ap.ap-dev.eacms.aws.cms.gov",
+    "id": 20166321004,
+    "entry_timestamp": "2025-08-06T21:01:48.531",
+    "not_before": "2025-08-06T00:00:00",
+    "not_after": "2026-09-04T23:59:59",
+    "serial_number": "03e2c2b612d699322b62332941cf4e24",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247106,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
+    "common_name": "e27b.mock.mea.backends.cms.gov",
+    "name_value": "e27b.mock.mea.backends.cms.gov",
+    "id": 20165607782,
+    "entry_timestamp": "2025-08-06T20:04:54.221",
+    "not_before": "2025-08-06T00:00:00",
+    "not_after": "2026-09-04T23:59:59",
+    "serial_number": "09916fbd2bc0b7d58c7b27795d604021",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247106,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
+    "common_name": "costpoint.prod.mtfpm.internal.cms.gov",
+    "name_value": "costpoint.prod.mtfpm.internal.cms.gov",
+    "id": 20165030795,
+    "entry_timestamp": "2025-08-06T19:24:34.489",
+    "not_before": "2025-08-06T00:00:00",
+    "not_after": "2026-09-04T23:59:59",
+    "serial_number": "0e0b408f47ed15529dda943f8910f775",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "costpoint.impl.mtfpm.internal.cms.gov",
+    "name_value": "costpoint.impl.mtfpm.internal.cms.gov",
+    "id": 20164403239,
+    "entry_timestamp": "2025-08-06T18:50:38.471",
+    "not_before": "2025-08-06T00:00:00",
+    "not_after": "2026-09-04T23:59:59",
+    "serial_number": "0dd59a63f996841a33685f25868c4e12",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "qa.cms.gov",
+    "name_value": "aps.portaldev.cms.gov\naps.portalval.cms.gov\napssit.portalval.cms.gov\napsvpt.portalval.cms.gov\nbeta.cms.gov\ncerrsd365impl.cerrs.cms.gov\ncerrsngtrainingimpl.cerrs.cms.gov\ndev1.cms.gov\ndev2.cms.gov\ndev.edit.cms.gov\ndev-edit.pdc.cms.gov\nhiostest.cms.gov\nhiosval.cms.gov\nimp.cms.gov\nimp.developer.cms.gov\nimp.edit.cms.gov\nimp-edit.pdc.cms.gov\nimpl.api.developer.cms.gov\nimp.partnershipforpatients.cms.gov\nimp.qpp.cms.gov\noffcycle.cms.gov\npecosai.portaldev.cms.gov\npecosai.portalval.cms.gov\nportaldev-beta.cms.gov\nportalval-beta.cms.gov\nqa.cms.gov\ntest2.cms.gov\ntest.api.developer.cms.gov\ntest.cms.gov\ntest.developer.cms.gov\ntest-edit.pdc.cms.gov\ntestoffcycle.cms.gov\nwww.imp.qpp.cms.gov",
+    "id": 20163916006,
+    "entry_timestamp": "2025-08-06T18:20:07.769",
+    "not_before": "2025-08-06T17:21:35",
+    "not_after": "2025-11-04T17:21:34",
+    "serial_number": "05b9b1abedcd7ee01b24fd99a8db91e238bb",
+    "result_count": 34
+  },
+  {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "qa.cms.gov",
+    "name_value": "aps.portaldev.cms.gov\naps.portalval.cms.gov\napssit.portalval.cms.gov\napsvpt.portalval.cms.gov\nbeta.cms.gov\ncerrsd365impl.cerrs.cms.gov\ncerrsngtrainingimpl.cerrs.cms.gov\ndev1.cms.gov\ndev2.cms.gov\ndev.edit.cms.gov\ndev-edit.pdc.cms.gov\nhiostest.cms.gov\nhiosval.cms.gov\nimp.cms.gov\nimp.developer.cms.gov\nimp.edit.cms.gov\nimp-edit.pdc.cms.gov\nimpl.api.developer.cms.gov\nimp.partnershipforpatients.cms.gov\nimp.qpp.cms.gov\noffcycle.cms.gov\npecosai.portaldev.cms.gov\npecosai.portalval.cms.gov\nportaldev-beta.cms.gov\nportalval-beta.cms.gov\nqa.cms.gov\ntest2.cms.gov\ntest.api.developer.cms.gov\ntest.cms.gov\ntest.developer.cms.gov\ntest-edit.pdc.cms.gov\ntestoffcycle.cms.gov\nwww.imp.qpp.cms.gov",
+    "id": 20163914180,
+    "entry_timestamp": "2025-08-06T18:20:05.658",
+    "not_before": "2025-08-06T17:21:35",
+    "not_after": "2025-11-04T17:21:34",
+    "serial_number": "05b9b1abedcd7ee01b24fd99a8db91e238bb",
+    "result_count": 34
+  },
+  {
+    "issuer_ca_id": 62123,
+    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
+    "common_name": "printanywhere.cms.gov",
+    "name_value": "printanywhere.cms.gov",
+    "id": 20162843252,
+    "entry_timestamp": "2025-08-06T17:04:10.403",
+    "not_before": "2025-08-06T00:00:00",
+    "not_after": "2026-08-07T23:59:59",
+    "serial_number": "04647c94f881a8f33e52523cfe141de5",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247115,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
     "common_name": "4innovation-impl2-uploads.cms.gov",
@@ -26049,18 +26181,6 @@
     "not_before": "2024-07-09T13:58:48",
     "not_after": "2025-08-08T13:57:48",
     "serial_number": "40019097ca2e53123173918c41528e98",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "test.arts.cms.gov",
-    "name_value": "test.arts.cms.gov",
-    "id": 13653934941,
-    "entry_timestamp": "2024-07-08T04:17:15.406",
-    "not_before": "2024-07-08T00:00:00",
-    "not_after": "2025-08-06T23:59:59",
-    "serial_number": "09692a600335be1cde58cf6917ad6e58",
     "result_count": 2
   }
 ]
