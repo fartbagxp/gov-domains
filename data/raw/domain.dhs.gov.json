@@ -1,5 +1,89 @@
 [
   {
+    "issuer_ca_id": 204407,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
+    "common_name": "exisadfs.tsa.dhs.gov",
+    "name_value": "*.exisadfs.tsa.dhs.gov\nexisadfs.tsa.dhs.gov",
+    "id": 20256651852,
+    "entry_timestamp": "2025-08-11T02:35:02.594",
+    "not_before": "2025-08-11T00:00:00",
+    "not_after": "2025-11-09T01:45:01",
+    "serial_number": "00a42a36cee7760eb5b1fa27921f4c881a",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204407,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
+    "common_name": "exisadfs.tsa.dhs.gov",
+    "name_value": "*.exisadfs.tsa.dhs.gov\nexisadfs.tsa.dhs.gov",
+    "id": 20256652327,
+    "entry_timestamp": "2025-08-11T02:35:02.034",
+    "not_before": "2025-08-11T00:00:00",
+    "not_after": "2025-11-09T01:45:01",
+    "serial_number": "00a42a36cee7760eb5b1fa27921f4c881a",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "exisadfs.tsa.dhs.gov",
+    "name_value": "*.exisadfs.tsa.dhs.gov\nexisadfs.tsa.dhs.gov",
+    "id": 20255791023,
+    "entry_timestamp": "2025-08-11T01:44:51.369",
+    "not_before": "2025-08-11T00:00:00",
+    "not_after": "2025-11-09T01:14:21",
+    "serial_number": "675aa6ea50c106c41ccce74db67a2615",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "exisadfs.tsa.dhs.gov",
+    "name_value": "*.exisadfs.tsa.dhs.gov\nexisadfs.tsa.dhs.gov",
+    "id": 20255790554,
+    "entry_timestamp": "2025-08-11T01:44:50.747",
+    "not_before": "2025-08-11T00:00:00",
+    "not_after": "2025-11-09T01:14:21",
+    "serial_number": "675aa6ea50c106c41ccce74db67a2615",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "exisadfs.tsa.dhs.gov",
+    "name_value": "*.exisadfs.tsa.dhs.gov\nexisadfs.tsa.dhs.gov",
+    "id": 20253557785,
+    "entry_timestamp": "2025-08-10T23:35:08.783",
+    "not_before": "2025-08-10T22:35:08",
+    "not_after": "2025-11-08T23:34:59",
+    "serial_number": "5549ccfd6bc2296f0d318d3e3cbb2649",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "exisadfs.tsa.dhs.gov",
+    "name_value": "*.exisadfs.tsa.dhs.gov\nexisadfs.tsa.dhs.gov",
+    "id": 20253553954,
+    "entry_timestamp": "2025-08-10T23:34:54.118",
+    "not_before": "2025-08-10T22:34:53",
+    "not_after": "2025-11-08T23:33:36",
+    "serial_number": "00b523408d948ff8c213b83f9d88a2a99b",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "giitest-api.dhs.gov",
+    "name_value": "giitest-api.dhs.gov",
+    "id": 20249967722,
+    "entry_timestamp": "2025-08-10T19:15:02.593",
+    "not_before": "2025-07-25T18:31:53",
+    "not_after": "2025-10-23T19:31:52",
+    "serial_number": "008a657512df8fe86b0e5e5709b78424b8",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 295815,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
     "common_name": "dhsauthportal.dhs.gov",
@@ -4682,18 +4766,6 @@
   {
     "issuer_ca_id": 1586,
     "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "vetting.cbp.dhs.gov",
-    "name_value": "vetting.cbp.dhs.gov\nwww.vetting.cbp.dhs.gov",
-    "id": 19540537097,
-    "entry_timestamp": "2025-07-09T01:33:35.359",
-    "not_before": "2024-07-10T14:44:50",
-    "not_after": "2025-08-10T14:44:49",
-    "serial_number": "0e04d8bfcf6b6893a0860ff6e96f202b",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
     "common_name": "macmdm.tsa.dhs.gov",
     "name_value": "macmdm.tsa.dhs.gov",
     "id": 19540444095,
@@ -4701,30 +4773,6 @@
     "not_before": "2024-07-11T16:32:31",
     "not_after": "2025-08-11T16:32:30",
     "serial_number": "52ef09620f625c9269bd3dca6be156d3",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "ems.tsa.dhs.gov",
-    "name_value": "ems.tsa.dhs.gov",
-    "id": 19540401234,
-    "entry_timestamp": "2025-07-09T01:24:47.182",
-    "not_before": "2024-07-10T14:05:33",
-    "not_after": "2025-08-10T14:05:32",
-    "serial_number": "4e9267930f2d055872abddacc9073377",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "rfi.dhs.gov",
-    "name_value": "rfi.dhs.gov",
-    "id": 19539337286,
-    "entry_timestamp": "2025-07-09T00:15:32.433",
-    "not_before": "2024-07-10T00:00:00",
-    "not_after": "2025-08-10T23:59:59",
-    "serial_number": "0119f41b4c67d8688b6df7a2ff7c0e19",
     "result_count": 2
   },
   {
@@ -12720,30 +12768,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "serviceportal-sandbox.fema.dhs.gov",
-    "name_value": "serviceportal-sandbox.fema.dhs.gov",
-    "id": 18365185952,
-    "entry_timestamp": "2025-05-12T17:00:14.371",
-    "not_before": "2025-05-12T16:01:42",
-    "not_after": "2025-08-10T16:01:41",
-    "serial_number": "058c45fac77a7457ad7bad47c004bfbaa4d7",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "serviceportal-sandbox.fema.dhs.gov",
-    "name_value": "serviceportal-sandbox.fema.dhs.gov",
-    "id": 18365185474,
-    "entry_timestamp": "2025-05-12T17:00:12.167",
-    "not_before": "2025-05-12T16:01:42",
-    "not_after": "2025-08-10T16:01:41",
-    "serial_number": "058c45fac77a7457ad7bad47c004bfbaa4d7",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "uscis-uc-exp-e-cluster.uscis.dhs.gov",
@@ -12754,78 +12778,6 @@
     "not_after": "2026-06-09T23:59:59",
     "serial_number": "06d0dcf1eef95cf66ecc1f1f998b5ede",
     "result_count": 6
-  },
-  {
-    "issuer_ca_id": 295810,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E5",
-    "common_name": "azprerasftp01.dhs.gov",
-    "name_value": "*.azprerasftp01.dhs.gov\nazprerasftp01.dhs.gov",
-    "id": 18349356471,
-    "entry_timestamp": "2025-05-11T21:49:38.839",
-    "not_before": "2025-05-11T20:51:07",
-    "not_after": "2025-08-09T20:51:06",
-    "serial_number": "05c69505f556497305e587a1346f55551aae",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295810,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E5",
-    "common_name": "azprerasftp01.dhs.gov",
-    "name_value": "*.azprerasftp01.dhs.gov\nazprerasftp01.dhs.gov",
-    "id": 18349354903,
-    "entry_timestamp": "2025-05-11T21:49:38.016",
-    "not_before": "2025-05-11T20:51:07",
-    "not_after": "2025-08-09T20:51:06",
-    "serial_number": "05c69505f556497305e587a1346f55551aae",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "azprerasftp01.dhs.gov",
-    "name_value": "*.azprerasftp01.dhs.gov\nazprerasftp01.dhs.gov",
-    "id": 18347126449,
-    "entry_timestamp": "2025-05-11T18:32:53.499",
-    "not_before": "2025-05-11T17:34:22",
-    "not_after": "2025-08-09T17:34:21",
-    "serial_number": "05e81dca28da1d8ff5395d1b3f4f1b329d15",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "azprerasftp01.dhs.gov",
-    "name_value": "*.azprerasftp01.dhs.gov\nazprerasftp01.dhs.gov",
-    "id": 18347125987,
-    "entry_timestamp": "2025-05-11T18:32:52.853",
-    "not_before": "2025-05-11T17:34:22",
-    "not_after": "2025-08-09T17:34:21",
-    "serial_number": "05e81dca28da1d8ff5395d1b3f4f1b329d15",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "azprerasftp01.dhs.gov",
-    "name_value": "*.azprerasftp01.dhs.gov\nazprerasftp01.dhs.gov",
-    "id": 18342937569,
-    "entry_timestamp": "2025-05-11T12:57:18.268",
-    "not_before": "2025-05-11T11:57:17",
-    "not_after": "2025-08-09T12:57:06",
-    "serial_number": "17922ac0b08ebc891397d4f1d96bf9a6",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "azprerasftp01.dhs.gov",
-    "name_value": "*.azprerasftp01.dhs.gov\nazprerasftp01.dhs.gov",
-    "id": 18342938633,
-    "entry_timestamp": "2025-05-11T12:57:01.447",
-    "not_before": "2025-05-11T11:57:00",
-    "not_after": "2025-08-09T12:55:48",
-    "serial_number": "008a1360e0866ec50711a1fd9e72280c54",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 185752,
@@ -13054,78 +13006,6 @@
     "not_after": "2026-05-18T04:00:00",
     "serial_number": "4be9e43feb2dca0005be95f15b3beaf5",
     "result_count": 6
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "hsin.dhs.gov",
-    "name_value": "hsin.dhs.gov",
-    "id": 18067564717,
-    "entry_timestamp": "2025-04-26T02:46:34.564",
-    "not_before": "2024-07-10T00:00:00",
-    "not_after": "2025-08-10T23:59:59",
-    "serial_number": "078f07622065caef6d07c0ccaa0bf5fd",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "hsinpiv.dhs.gov",
-    "name_value": "certauth.hsinpiv.dhs.gov\nhsinpiv.dhs.gov",
-    "id": 18067524179,
-    "entry_timestamp": "2025-04-26T02:44:05.782",
-    "not_before": "2024-07-10T00:00:00",
-    "not_after": "2025-08-10T23:59:59",
-    "serial_number": "03f4748900b97996b8a6e62934a93710",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "*.myhsin.dhs.gov",
-    "name_value": "auth.myhsin.dhs.gov\nesri.myhsin.dhs.gov\nicam.myhsin.dhs.gov\nmobile.myhsin.dhs.gov\n*.myhsin.dhs.gov\nreports.myhsin.dhs.gov\nsmartcard.myhsin.dhs.gov",
-    "id": 18067463174,
-    "entry_timestamp": "2025-04-26T02:39:54.778",
-    "not_before": "2024-07-10T00:00:00",
-    "not_after": "2025-08-10T23:59:59",
-    "serial_number": "076337a960c77ef06bc7f13bed350f69",
-    "result_count": 8
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "share1.dhs.gov",
-    "name_value": "share10.dhs.gov\nshare1.dhs.gov\nshare2.dhs.gov\nshare3.dhs.gov\nshare4.dhs.gov\nshare5.dhs.gov\nshare6.dhs.gov\nshare7.dhs.gov\nshare8.dhs.gov\nshare9.dhs.gov",
-    "id": 18067446717,
-    "entry_timestamp": "2025-04-26T02:38:26.207",
-    "not_before": "2024-07-10T00:00:00",
-    "not_after": "2025-08-10T23:59:59",
-    "serial_number": "02d4abd2a4110b3d06a2afb4cb3702d4",
-    "result_count": 11
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "learn1.dhs.gov",
-    "name_value": "learn1.dhs.gov\nlearn2.dhs.gov\nlearn3.dhs.gov\nlearn4.dhs.gov",
-    "id": 18064381816,
-    "entry_timestamp": "2025-04-25T23:31:30.645",
-    "not_before": "2024-07-09T00:00:00",
-    "not_after": "2025-08-09T23:59:59",
-    "serial_number": "08d41f2a65565e2a124d2d2a9af662f5",
-    "result_count": 5
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "learn.dhs.gov",
-    "name_value": "learn-act1.dhs.gov\nlearn-act2.dhs.gov\nlearn.dhs.gov",
-    "id": 18064378036,
-    "entry_timestamp": "2025-04-25T23:31:07.729",
-    "not_before": "2024-07-09T00:00:00",
-    "not_after": "2025-08-09T23:59:59",
-    "serial_number": "038334b24e4032ca2858797c6e7669fc",
-    "result_count": 4
   },
   {
     "issuer_ca_id": 365075,
@@ -16754,18 +16634,6 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "share.dhs.gov",
-    "name_value": "share-act1.dhs.gov\nshare-act2.dhs.gov\nshare-author.dhs.gov\nshare.dhs.gov\nshare-pub.dhs.gov",
-    "id": 15071895352,
-    "entry_timestamp": "2024-10-25T02:07:22.178",
-    "not_before": "2024-07-10T00:00:00",
-    "not_after": "2025-08-10T23:59:59",
-    "serial_number": "02113802481c20c012cb861b91a7f2ec",
-    "result_count": 6
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "elis-push-event-smktest.k8s.elis.nonprod.uscis.dhs.gov",
     "name_value": "elis-push-event-dt.k8s.elis.nonprod.uscis.dhs.gov\nelis-push-event-pt.k8s.elis.nonprod.uscis.dhs.gov\nelis-push-event-sky.k8s.elis.nonprod.uscis.dhs.gov\nelis-push-event-smktest.k8s.elis.nonprod.uscis.dhs.gov\nelis-push-event-trn2.k8s.elis.nonprod.uscis.dhs.gov\nelis-push-event-trn.k8s.elis.nonprod.uscis.dhs.gov",
     "id": 15067787474,
@@ -18216,42 +18084,6 @@
     "result_count": 4
   },
   {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "hq-onb-gp2.dhs.gov",
-    "name_value": "hq-onb-gp2.dhs.gov\nhq-onb-gp.dhs.gov",
-    "id": 14064858970,
-    "entry_timestamp": "2024-08-09T18:06:06.111",
-    "not_before": "2024-08-09T18:06:05",
-    "not_after": "2025-08-09T18:06:04",
-    "serial_number": "04bb7f95682895e1d74247a5b146ca3d",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "hq-onb-gp1.dhs.gov",
-    "name_value": "hq-onb-gp1.dhs.gov\nhq-onb-gp.dhs.gov",
-    "id": 14064850360,
-    "entry_timestamp": "2024-08-09T18:04:37.46",
-    "not_before": "2024-08-09T18:04:37",
-    "not_after": "2025-08-09T18:04:36",
-    "serial_number": "29b6797c16c6ba2bb0438f1e548f9203",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "isccompliance.dhs.gov",
-    "name_value": "isccompliance.dhs.gov\nisccompliance-staging.dhs.gov",
-    "id": 14064243888,
-    "entry_timestamp": "2024-08-09T17:02:34.98",
-    "not_before": "2024-08-09T17:02:34",
-    "not_after": "2025-08-09T17:02:33",
-    "serial_number": "294e32a48e593076d7becf65c210b478",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "hsinpiv.hsinuat.dhs.gov",
@@ -18273,18 +18105,6 @@
     "not_before": "2024-08-07T18:36:11",
     "not_after": "2025-09-07T18:36:10",
     "serial_number": "7f1816cb16800d9f2c5bca1e441760e7",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 1671,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2014 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1M",
-    "common_name": "adfs.fema.dhs.gov",
-    "name_value": "adfs.fema.dhs.gov\nwww.adfs.fema.dhs.gov",
-    "id": 14020760422,
-    "entry_timestamp": "2024-08-06T17:57:57.993",
-    "not_before": "2024-08-06T17:57:57",
-    "not_after": "2025-08-09T17:57:56",
-    "serial_number": "4c970a1f430229e4707d6cb1c412109c",
     "result_count": 3
   },
   {
@@ -18658,137 +18478,5 @@
     "not_after": "2025-08-11T16:32:30",
     "serial_number": "52ef09620f625c9269bd3dca6be156d3",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "tsaprecheckbytelos.tsa.dhs.gov",
-    "name_value": "tsaprecheckbytelos.tsa.dhs.gov",
-    "id": 13682600386,
-    "entry_timestamp": "2024-07-10T15:06:33.462",
-    "not_before": "2024-07-10T15:06:33",
-    "not_after": "2025-08-10T15:06:32",
-    "serial_number": "36ffbc98948a68551ad2f67f1e8303ee",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "vetting.cbp.dhs.gov",
-    "name_value": "vetting.cbp.dhs.gov\nwww.vetting.cbp.dhs.gov",
-    "id": 13682360598,
-    "entry_timestamp": "2024-07-10T14:44:50.742",
-    "not_before": "2024-07-10T14:44:50",
-    "not_after": "2025-08-10T14:44:49",
-    "serial_number": "0e04d8bfcf6b6893a0860ff6e96f202b",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "ems.tsa.dhs.gov",
-    "name_value": "ems.tsa.dhs.gov",
-    "id": 13681937511,
-    "entry_timestamp": "2024-07-10T14:05:33.681",
-    "not_before": "2024-07-10T14:05:33",
-    "not_after": "2025-08-10T14:05:32",
-    "serial_number": "4e9267930f2d055872abddacc9073377",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "rfi.dhs.gov",
-    "name_value": "rfi.dhs.gov",
-    "id": 13676980153,
-    "entry_timestamp": "2024-07-10T01:32:10.756",
-    "not_before": "2024-07-10T00:00:00",
-    "not_after": "2025-08-10T23:59:59",
-    "serial_number": "0119f41b4c67d8688b6df7a2ff7c0e19",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "*.myhsin.dhs.gov",
-    "name_value": "auth.myhsin.dhs.gov\nesri.myhsin.dhs.gov\nicam.myhsin.dhs.gov\nmobile.myhsin.dhs.gov\n*.myhsin.dhs.gov\nreports.myhsin.dhs.gov\nsmartcard.myhsin.dhs.gov",
-    "id": 13676932838,
-    "entry_timestamp": "2024-07-10T01:22:28.865",
-    "not_before": "2024-07-10T00:00:00",
-    "not_after": "2025-08-10T23:59:59",
-    "serial_number": "076337a960c77ef06bc7f13bed350f69",
-    "result_count": 8
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "hsinpiv.dhs.gov",
-    "name_value": "certauth.hsinpiv.dhs.gov\nhsinpiv.dhs.gov",
-    "id": 13676911626,
-    "entry_timestamp": "2024-07-10T01:16:12.798",
-    "not_before": "2024-07-10T00:00:00",
-    "not_after": "2025-08-10T23:59:59",
-    "serial_number": "03f4748900b97996b8a6e62934a93710",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "hsin.dhs.gov",
-    "name_value": "hsin.dhs.gov",
-    "id": 13676865530,
-    "entry_timestamp": "2024-07-10T01:05:50.455",
-    "not_before": "2024-07-10T00:00:00",
-    "not_after": "2025-08-10T23:59:59",
-    "serial_number": "078f07622065caef6d07c0ccaa0bf5fd",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "share1.dhs.gov",
-    "name_value": "share10.dhs.gov\nshare1.dhs.gov\nshare2.dhs.gov\nshare3.dhs.gov\nshare4.dhs.gov\nshare5.dhs.gov\nshare6.dhs.gov\nshare7.dhs.gov\nshare8.dhs.gov\nshare9.dhs.gov",
-    "id": 13676826097,
-    "entry_timestamp": "2024-07-10T00:59:04.083",
-    "not_before": "2024-07-10T00:00:00",
-    "not_after": "2025-08-10T23:59:59",
-    "serial_number": "02d4abd2a4110b3d06a2afb4cb3702d4",
-    "result_count": 11
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "share.dhs.gov",
-    "name_value": "share-act1.dhs.gov\nshare-act2.dhs.gov\nshare-author.dhs.gov\nshare.dhs.gov\nshare-pub.dhs.gov",
-    "id": 13676779595,
-    "entry_timestamp": "2024-07-10T00:50:31.36",
-    "not_before": "2024-07-10T00:00:00",
-    "not_after": "2025-08-10T23:59:59",
-    "serial_number": "02113802481c20c012cb861b91a7f2ec",
-    "result_count": 6
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "learn1.dhs.gov",
-    "name_value": "learn1.dhs.gov\nlearn2.dhs.gov\nlearn3.dhs.gov\nlearn4.dhs.gov",
-    "id": 13666142225,
-    "entry_timestamp": "2024-07-09T02:39:47.906",
-    "not_before": "2024-07-09T00:00:00",
-    "not_after": "2025-08-09T23:59:59",
-    "serial_number": "08d41f2a65565e2a124d2d2a9af662f5",
-    "result_count": 5
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "learn.dhs.gov",
-    "name_value": "learn-act1.dhs.gov\nlearn-act2.dhs.gov\nlearn.dhs.gov",
-    "id": 13665998931,
-    "entry_timestamp": "2024-07-09T02:24:40.1",
-    "not_before": "2024-07-09T00:00:00",
-    "not_after": "2025-08-09T23:59:59",
-    "serial_number": "038334b24e4032ca2858797c6e7669fc",
-    "result_count": 4
   }
 ]
