@@ -1,5 +1,53 @@
 [
   {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "tdl.regportal.fema.gov",
+    "name_value": "*.tdl.regportal.fema.gov\ntdl.regportal.fema.gov",
+    "id": 20335922874,
+    "entry_timestamp": "2025-08-14T21:30:40.035",
+    "not_before": "2025-08-14T20:30:39",
+    "not_after": "2025-11-12T21:30:21",
+    "serial_number": "00c2f3c2ded887e2971104527964bfaae2",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "tdl.regportal.fema.gov",
+    "name_value": "*.tdl.regportal.fema.gov\ntdl.regportal.fema.gov",
+    "id": 20335920107,
+    "entry_timestamp": "2025-08-14T21:30:15.959",
+    "not_before": "2025-08-14T20:30:15",
+    "not_after": "2025-11-12T21:28:42",
+    "serial_number": "585b8e27227f6d940dbac5e3f3f20774",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185748,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
+    "common_name": "www3.dhs.gov",
+    "name_value": "blog.fema.gov\nespfaq.fema.gov\nfaq.fema.gov\nfema.gov",
+    "id": 20330286795,
+    "entry_timestamp": "2025-08-14T14:46:27.033",
+    "not_before": "2025-08-14T00:00:00",
+    "not_after": "2026-04-09T23:59:59",
+    "serial_number": "03407e9857386c67b940ebce78c79c4f",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "www3.dhs.gov",
+    "name_value": "blog.fema.gov\nespfaq.fema.gov\nfaq.fema.gov\nfema.gov",
+    "id": 20330264595,
+    "entry_timestamp": "2025-08-14T14:45:38.452",
+    "not_before": "2025-08-14T00:00:00",
+    "not_after": "2026-04-09T23:59:59",
+    "serial_number": "05a04c64bd0c0c49efe102cfeb0d78a8",
+    "result_count": 4
+  },
+  {
     "issuer_ca_id": 185748,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
     "common_name": "www.homelandsecurity.gov",
@@ -165,18 +213,6 @@
     "not_before": "2025-08-08T14:54:54",
     "not_after": "2025-11-06T14:54:53",
     "serial_number": "065440aad59746281a15e64955ab062a8aa5",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "api.stage.nfipdirect.fema.gov",
-    "name_value": "*.api.stage.nfipdirect.fema.gov\napi.stage.nfipdirect.fema.gov",
-    "id": 20204262425,
-    "entry_timestamp": "2025-08-08T15:52:56.402",
-    "not_before": "2025-08-08T14:52:56",
-    "not_after": "2025-11-06T15:52:50",
-    "serial_number": "00e816d5f6bbd12964136f23d3823581d2",
     "result_count": 3
   },
   {
@@ -502,18 +538,6 @@
     "not_after": "2026-09-05T23:59:59",
     "serial_number": "00c0ddcaed0a27ba3ef4bf2400f7d489fe",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295810,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E5",
-    "common_name": "api.nfipdirect.fema.gov",
-    "name_value": "*.api.nfipdirect.fema.gov\napi.nfipdirect.fema.gov",
-    "id": 20114474979,
-    "entry_timestamp": "2025-08-04T15:50:23.639",
-    "not_before": "2025-08-04T14:51:53",
-    "not_after": "2025-11-02T14:51:52",
-    "serial_number": "055aec6c68aab3b7ffaf537a5066f8632f68",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 295810,
@@ -874,18 +898,6 @@
     "not_after": "2026-04-09T23:59:59",
     "serial_number": "0342dcddff64b788ef88c42805e6f528",
     "result_count": 4
-  },
-  {
-    "issuer_ca_id": 185748,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
-    "common_name": "www3.usda.gov",
-    "name_value": "pivot-analytics-beta.fema.gov\npivot-analytics.fema.gov\npivot-beta.fema.gov\npivot.fema.gov\npivot-reporting-beta.fema.gov\npivot-reporting.fema.gov\nucort-pivot-beta.fema.gov\nucort-pivot.fema.gov",
-    "id": 19879229962,
-    "entry_timestamp": "2025-07-24T15:46:03.09",
-    "not_before": "2025-04-16T00:00:00",
-    "not_after": "2025-08-14T23:59:59",
-    "serial_number": "07d315e94c4182ed46db15c3f16f1dbf",
-    "result_count": 8
   },
   {
     "issuer_ca_id": 185748,
@@ -2386,18 +2398,6 @@
     "not_after": "2025-10-02T14:11:13",
     "serial_number": "44436d15f7e09c9be17a3c5d6c845895",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295810,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E5",
-    "common_name": "origin-go.fema.gov",
-    "name_value": "*.origin-go.fema.gov\norigin-go.fema.gov",
-    "id": 19417961016,
-    "entry_timestamp": "2025-07-03T12:03:05.857",
-    "not_before": "2025-07-03T11:04:33",
-    "not_after": "2025-10-01T11:04:32",
-    "serial_number": "061ae2918ea616e74090f59b75b3b9ad3971",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 295810,
@@ -4836,30 +4836,6 @@
     "result_count": 16
   },
   {
-    "issuer_ca_id": 185748,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
-    "common_name": "www3.usda.gov",
-    "name_value": "pivot-analytics-beta.fema.gov\npivot-analytics.fema.gov\npivot-beta.fema.gov\npivot.fema.gov\npivot-reporting-beta.fema.gov\npivot-reporting.fema.gov\nucort-pivot-beta.fema.gov\nucort-pivot.fema.gov",
-    "id": 17889003615,
-    "entry_timestamp": "2025-04-16T19:50:10.536",
-    "not_before": "2025-04-16T00:00:00",
-    "not_after": "2025-08-14T23:59:59",
-    "serial_number": "07d315e94c4182ed46db15c3f16f1dbf",
-    "result_count": 8
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "www3.usda.gov",
-    "name_value": "pivot-analytics-beta.fema.gov\npivot-analytics.fema.gov\npivot-beta.fema.gov\npivot.fema.gov\npivot-reporting-beta.fema.gov\npivot-reporting.fema.gov\nucort-pivot-beta.fema.gov\nucort-pivot.fema.gov",
-    "id": 17888819557,
-    "entry_timestamp": "2025-04-16T19:37:01.484",
-    "not_before": "2025-04-16T00:00:00",
-    "not_after": "2025-08-14T23:59:59",
-    "serial_number": "09d5b00d74ad7cc99a3a8809bdeda2c3",
-    "result_count": 8
-  },
-  {
     "issuer_ca_id": 385517,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust EV TLS Issuing RSA CA 2",
     "common_name": "pivot-reporting.fema.net",
@@ -5772,18 +5748,6 @@
     "result_count": 16
   },
   {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "www3.usda.gov",
-    "name_value": "pivot-analytics-beta.fema.gov\npivot-analytics.fema.gov\npivot-beta.fema.gov\npivot.fema.gov\nucort-pivot-beta.fema.gov\nucort-pivot.fema.gov",
-    "id": 16477941031,
-    "entry_timestamp": "2025-02-01T09:41:51.154",
-    "not_before": "2024-08-14T00:00:00",
-    "not_after": "2025-08-14T23:59:59",
-    "serial_number": "020388be6b7b102e384c8e63475b8252",
-    "result_count": 6
-  },
-  {
     "issuer_ca_id": 62148,
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust RSA CA 2018",
     "common_name": "www.dhs.gov",
@@ -6646,30 +6610,6 @@
     "not_after": "2025-08-15T23:59:59",
     "serial_number": "07ba4d67f31acaa98c3058bd84f00524",
     "result_count": 1
-  },
-  {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "www3.usda.gov",
-    "name_value": "pivot-analytics-beta.fema.gov\npivot-analytics.fema.gov\npivot-beta.fema.gov\npivot.fema.gov\nucort-pivot-beta.fema.gov\nucort-pivot.fema.gov",
-    "id": 14125696300,
-    "entry_timestamp": "2024-08-14T00:13:03.658",
-    "not_before": "2024-08-14T00:00:00",
-    "not_after": "2025-08-14T23:59:59",
-    "serial_number": "020388be6b7b102e384c8e63475b8252",
-    "result_count": 6
-  },
-  {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "www3.usda.gov",
-    "name_value": "pivot-analytics-beta.fema.gov\npivot-analytics.fema.gov\npivot-beta.fema.gov\npivot.fema.gov\nucort-pivot-beta.fema.gov\nucort-pivot.fema.gov",
-    "id": 14125657758,
-    "entry_timestamp": "2024-08-14T00:09:02.317",
-    "not_before": "2024-08-14T00:00:00",
-    "not_after": "2025-08-14T23:59:59",
-    "serial_number": "03c282dc6c88dd5e85bb9d6f2c8a019a",
-    "result_count": 6
   },
   {
     "issuer_ca_id": 185756,
