@@ -1,5 +1,53 @@
 [
   {
+    "issuer_ca_id": 185748,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
+    "common_name": "www3.dhs.gov",
+    "name_value": "blog.fema.gov\nespfaq.fema.gov\nfaq.fema.gov\nfema.gov",
+    "id": 20463347795,
+    "entry_timestamp": "2025-08-20T18:46:20.792",
+    "not_before": "2025-08-20T00:00:00",
+    "not_after": "2026-04-09T23:59:59",
+    "serial_number": "0c69c5e8527b57caccf91723bdce40be",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "www3.dhs.gov",
+    "name_value": "blog.fema.gov\nespfaq.fema.gov\nfaq.fema.gov\nfema.gov",
+    "id": 20463328242,
+    "entry_timestamp": "2025-08-20T18:45:40.819",
+    "not_before": "2025-08-20T00:00:00",
+    "not_after": "2026-04-09T23:59:59",
+    "serial_number": "0a75bc00e74959eb5f234723a5800f4c",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 185748,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
+    "common_name": "www3.dhs.gov",
+    "name_value": "blog.fema.gov\nespfaq.fema.gov\nfaq.fema.gov\nfema.gov",
+    "id": 20438552877,
+    "entry_timestamp": "2025-08-19T18:25:25.733",
+    "not_before": "2025-08-14T00:00:00",
+    "not_after": "2026-04-09T23:59:59",
+    "serial_number": "03407e9857386c67b940ebce78c79c4f",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "demo.apps.aws.fema.gov",
+    "name_value": "demo.apps.aws.fema.gov",
+    "id": 20429312875,
+    "entry_timestamp": "2025-08-19T04:17:55.579",
+    "not_before": "2024-09-17T00:00:00",
+    "not_after": "2025-10-18T23:59:59",
+    "serial_number": "0367fb7e5858a21ed089ed24ebb3d635",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 282053,
     "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
     "common_name": "tdl.gis.fema.gov",
@@ -244,18 +292,6 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=E6",
     "common_name": "api.stage.nfipdirect.fema.gov",
     "name_value": "*.api.stage.nfipdirect.fema.gov\napi.stage.nfipdirect.fema.gov",
-    "id": 20204265704,
-    "entry_timestamp": "2025-08-08T15:53:25.055",
-    "not_before": "2025-08-08T14:54:54",
-    "not_after": "2025-11-06T14:54:53",
-    "serial_number": "065440aad59746281a15e64955ab062a8aa5",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295819,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E6",
-    "common_name": "api.stage.nfipdirect.fema.gov",
-    "name_value": "*.api.stage.nfipdirect.fema.gov\napi.stage.nfipdirect.fema.gov",
     "id": 20204266273,
     "entry_timestamp": "2025-08-08T15:53:24.727",
     "not_before": "2025-08-08T14:54:54",
@@ -273,30 +309,6 @@
     "not_before": "2025-08-08T14:52:56",
     "not_after": "2025-11-06T15:52:50",
     "serial_number": "00e816d5f6bbd12964136f23d3823581d2",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "api.stage.nfipdirect.fema.gov",
-    "name_value": "*.api.stage.nfipdirect.fema.gov\napi.stage.nfipdirect.fema.gov",
-    "id": 20204260015,
-    "entry_timestamp": "2025-08-08T15:52:51.322",
-    "not_before": "2025-08-08T14:54:18",
-    "not_after": "2025-11-06T14:54:17",
-    "serial_number": "06733221cc01cdb54053e3405dbaff7268d5",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "api.stage.nfipdirect.fema.gov",
-    "name_value": "*.api.stage.nfipdirect.fema.gov\napi.stage.nfipdirect.fema.gov",
-    "id": 20204251495,
-    "entry_timestamp": "2025-08-08T15:52:49.007",
-    "not_before": "2025-08-08T14:54:18",
-    "not_after": "2025-11-06T14:54:17",
-    "serial_number": "06733221cc01cdb54053e3405dbaff7268d5",
     "result_count": 3
   },
   {
@@ -621,30 +633,6 @@
     "not_before": "2025-08-04T14:51:53",
     "not_after": "2025-11-02T14:51:52",
     "serial_number": "055aec6c68aab3b7ffaf537a5066f8632f68",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "api.nfipdirect.fema.gov",
-    "name_value": "*.api.nfipdirect.fema.gov\napi.nfipdirect.fema.gov",
-    "id": 20114189209,
-    "entry_timestamp": "2025-08-04T15:31:58.593",
-    "not_before": "2025-08-04T14:33:28",
-    "not_after": "2025-11-02T14:33:27",
-    "serial_number": "069913251efa1ea980ec2640b243226efe99",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "api.nfipdirect.fema.gov",
-    "name_value": "*.api.nfipdirect.fema.gov\napi.nfipdirect.fema.gov",
-    "id": 20114189669,
-    "entry_timestamp": "2025-08-04T15:31:58.363",
-    "not_before": "2025-08-04T14:33:28",
-    "not_after": "2025-11-02T14:33:27",
-    "serial_number": "069913251efa1ea980ec2640b243226efe99",
     "result_count": 3
   },
   {
@@ -2518,30 +2506,6 @@
     "not_after": "2025-11-19T23:59:59",
     "serial_number": "05a1b8ff3ebef87c348480125083f3b7",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "origin-go.fema.gov",
-    "name_value": "*.origin-go.fema.gov\norigin-go.fema.gov",
-    "id": 19395831893,
-    "entry_timestamp": "2025-07-02T12:49:10.105",
-    "not_before": "2025-07-02T11:50:37",
-    "not_after": "2025-09-30T11:50:36",
-    "serial_number": "0600a71e491e68d9479a2d8cb99b576a75d4",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "origin-go.fema.gov",
-    "name_value": "*.origin-go.fema.gov\norigin-go.fema.gov",
-    "id": 19395831138,
-    "entry_timestamp": "2025-07-02T12:49:07.76",
-    "not_before": "2025-07-02T11:50:37",
-    "not_after": "2025-09-30T11:50:36",
-    "serial_number": "0600a71e491e68d9479a2d8cb99b576a75d4",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 286236,
