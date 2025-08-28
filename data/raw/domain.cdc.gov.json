@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 239799,
+    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
+    "common_name": "microbenet-test.cdc.gov",
+    "name_value": "microbenet-test.cdc.gov",
+    "id": 20600821640,
+    "entry_timestamp": "2025-08-27T05:19:36.458",
+    "not_before": "2025-05-11T00:00:00",
+    "not_after": "2025-11-11T23:59:59",
+    "serial_number": "04a16d06d2be1fd4c7a4c15d10753b72",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 239799,
+    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
+    "common_name": "microbenet-test.cdc.gov",
+    "name_value": "microbenet-test.cdc.gov",
+    "id": 20600754544,
+    "entry_timestamp": "2025-08-27T05:18:08.079",
+    "not_before": "2025-08-27T00:00:00",
+    "not_after": "2026-02-27T23:59:59",
+    "serial_number": "0a04dc28329f7d8dcb7739d6e5e4f107",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 295816,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "www.cdc.gov",
@@ -1449,18 +1473,6 @@
     "not_before": "2025-08-07T17:43:02",
     "not_after": "2026-08-07T17:46:03",
     "serial_number": "7fc53b462fc84bcf18a2101071915629",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "apigw.cdc.gov",
-    "name_value": "apigw.cdc.gov",
-    "id": 20180615973,
-    "entry_timestamp": "2025-08-07T13:44:13.499",
-    "not_before": "2024-08-27T19:34:05",
-    "not_after": "2025-08-27T19:34:04",
-    "serial_number": "1a0bd9558c7c7c70262b5a1aab7175cc",
     "result_count": 2
   },
   {
@@ -12357,90 +12369,6 @@
     "not_before": "2024-08-28T12:37:03",
     "not_after": "2025-09-01T12:37:02",
     "serial_number": "27123bb004c0eb567f7ad51187e33b23",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "mugsi.uat.cdc.gov",
-    "name_value": "mugsi.uat.cdc.gov",
-    "id": 14324360463,
-    "entry_timestamp": "2024-08-27T20:12:16.749",
-    "not_before": "2024-08-27T20:12:16",
-    "not_after": "2025-08-27T20:12:15",
-    "serial_number": "513ac3215b3a0779150c5acad5674648",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "cdicms.uat.cdc.gov",
-    "name_value": "cdicms.uat.cdc.gov",
-    "id": 14324360610,
-    "entry_timestamp": "2024-08-27T20:12:16.159",
-    "not_before": "2024-08-27T20:12:15",
-    "not_after": "2025-08-27T20:12:14",
-    "serial_number": "65d8966fb2ae524657e719c01d192bc7",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "*.montana-stage.nbs.cdc.gov",
-    "name_value": "*.montana-stage.nbs.cdc.gov",
-    "id": 14324351187,
-    "entry_timestamp": "2024-08-27T20:10:46.785",
-    "not_before": "2024-08-27T20:10:46",
-    "not_after": "2025-08-27T20:10:45",
-    "serial_number": "1ed8e80a906677f028309eeb53bf1889",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "*.montana-dev.nbs.cdc.gov",
-    "name_value": "*.montana-dev.nbs.cdc.gov",
-    "id": 14324351186,
-    "entry_timestamp": "2024-08-27T20:10:46.666",
-    "not_before": "2024-08-27T20:10:46",
-    "not_after": "2025-08-27T20:10:45",
-    "serial_number": "542f9159db41788283fe848145561b67",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "*.montana.nbs.cdc.gov",
-    "name_value": "*.montana.nbs.cdc.gov",
-    "id": 14324351122,
-    "entry_timestamp": "2024-08-27T20:10:46.457",
-    "not_before": "2024-08-27T20:10:46",
-    "not_after": "2025-08-27T20:10:45",
-    "serial_number": "0baec4f0effaeae77d2421f1ea19ceb7",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "apigw.cdc.gov",
-    "name_value": "apigw.cdc.gov",
-    "id": 14324039503,
-    "entry_timestamp": "2024-08-27T19:34:05.43",
-    "not_before": "2024-08-27T19:34:05",
-    "not_after": "2025-08-27T19:34:04",
-    "serial_number": "1a0bd9558c7c7c70262b5a1aab7175cc",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "helloworld-poc2.cdc.gov",
-    "name_value": "helloworld-poc2.cdc.gov",
-    "id": 14324039502,
-    "entry_timestamp": "2024-08-27T19:34:05.217",
-    "not_before": "2024-08-27T19:34:04",
-    "not_after": "2025-08-27T19:34:03",
-    "serial_number": "31b2c37d5985b31f07b4deb6fb1cd1bc",
     "result_count": 2
   },
   {
