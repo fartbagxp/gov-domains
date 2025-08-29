@@ -1,5 +1,77 @@
 [
   {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "oig.hhs.gov",
+    "name_value": "oig.hhs.gov",
+    "id": 20638560826,
+    "entry_timestamp": "2025-08-28T20:42:54.561",
+    "not_before": "2025-08-28T00:00:00",
+    "not_after": "2025-11-26T23:59:59",
+    "serial_number": "786b3430f295fe6eab66be889242aa6e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "oig.hhs.gov",
+    "name_value": "oig.hhs.gov",
+    "id": 20638560609,
+    "entry_timestamp": "2025-08-28T20:42:53.98",
+    "not_before": "2025-08-28T00:00:00",
+    "not_after": "2025-11-26T23:59:59",
+    "serial_number": "786b3430f295fe6eab66be889242aa6e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "ldap02.hhsnet.hhs.gov",
+    "name_value": "ldap02.hhsnet.hhs.gov",
+    "id": 20636951564,
+    "entry_timestamp": "2025-08-28T19:11:55.004",
+    "not_before": "2025-08-28T19:11:54",
+    "not_after": "2026-09-27T19:10:54",
+    "serial_number": "400198f217fbfe471f012b62e6e7abf6",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "mfa-staging.thinkculturalhealth.hhs.gov",
+    "name_value": "mfa-staging.thinkculturalhealth.hhs.gov",
+    "id": 20632989785,
+    "entry_timestamp": "2025-08-28T15:21:28.98",
+    "not_before": "2025-08-28T15:21:28",
+    "not_after": "2026-09-27T15:20:28",
+    "serial_number": "400198f1450425ead2770412367e1768",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "hclsig-mfa-staging-thinkculturalhealth.hhs.gov",
+    "name_value": "hclsig-mfa-staging-thinkculturalhealth.hhs.gov",
+    "id": 20632990228,
+    "entry_timestamp": "2025-08-28T15:21:09.487",
+    "not_before": "2025-08-28T15:21:09",
+    "not_after": "2026-09-27T15:20:09",
+    "serial_number": "400198f144b81c165611f6ebcf165209",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "oralhealth-mfa-staging.thinkculturalhealth.hhs.gov",
+    "name_value": "oralhealth-mfa-staging.thinkculturalhealth.hhs.gov",
+    "id": 20632988202,
+    "entry_timestamp": "2025-08-28T15:20:43.938",
+    "not_before": "2025-08-28T15:20:43",
+    "not_after": "2026-09-27T15:19:43",
+    "serial_number": "400198f1445450d61d441dedc71a3151",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247110,
     "issuer_name": "C=US, O=Amazon, CN=Amazon ECDSA 256 M03",
     "common_name": "usphstraining.hhs.gov",
@@ -2016,18 +2088,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "eclkc.ohs.acf.hhs.gov",
-    "name_value": "eclkc.ohs.acf.hhs.gov\nsecure.eclkc.ohs.acf.hhs.gov\nwww.eclkc.ohs.acf.hhs.gov",
-    "id": 20061472864,
-    "entry_timestamp": "2025-08-02T01:01:40.35",
-    "not_before": "2024-07-31T20:58:39",
-    "not_after": "2025-08-28T20:58:37",
-    "serial_number": "241d621f8ee2c8fab06bf560d0e8d7e4",
-    "result_count": 4
-  },
-  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "hhs.gov",
@@ -2404,35 +2464,11 @@
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "UC-HHH-EXPE-Pri1.hhs.gov",
     "name_value": "hhs.gov\nUC-HHH-EXPE-Pri1.hhs.gov\nUC-HHS-EXPE.hhs.gov\nUC-PKL-EXPE-Sec1.hhs.gov",
-    "id": 19861540742,
-    "entry_timestamp": "2025-07-23T19:41:04.412",
-    "not_before": "2024-07-30T00:00:00",
-    "not_after": "2025-08-28T23:59:59",
-    "serial_number": "0cf2e82d09bbd8a159e3894f8408a329",
-    "result_count": 5
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "UC-HHH-EXPE-Pri1.hhs.gov",
-    "name_value": "hhs.gov\nUC-HHH-EXPE-Pri1.hhs.gov\nUC-HHS-EXPE.hhs.gov\nUC-PKL-EXPE-Sec1.hhs.gov",
     "id": 19861517573,
     "entry_timestamp": "2025-07-23T19:39:47.314",
     "not_before": "2025-07-23T00:00:00",
     "not_after": "2026-08-23T23:59:59",
     "serial_number": "02a46dc927feb22ecde0e65f306e1f29",
-    "result_count": 5
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "UC-PKL-EXPE-Sec1.hhs.gov",
-    "name_value": "hhs.gov\nUC-HHH-EXPE-Pri1.hhs.gov\nUC-HHS-EXPE.hhs.gov\nUC-PKL-EXPE-Sec1.hhs.gov",
-    "id": 19861502586,
-    "entry_timestamp": "2025-07-23T19:37:00.464",
-    "not_before": "2024-07-30T00:00:00",
-    "not_after": "2025-08-28T23:59:59",
-    "serial_number": "07f916e561c811fd7d6d1f72109a38fe",
     "result_count": 5
   },
   {
@@ -12288,18 +12324,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "eclkc.ohs.acf.hhs.gov",
-    "name_value": "eclkc.ohs.acf.hhs.gov\nsecure.eclkc.ohs.acf.hhs.gov\nwww.eclkc.ohs.acf.hhs.gov",
-    "id": 13946130638,
-    "entry_timestamp": "2024-07-31T20:58:39.302",
-    "not_before": "2024-07-31T20:58:39",
-    "not_after": "2025-08-28T20:58:37",
-    "serial_number": "241d621f8ee2c8fab06bf560d0e8d7e4",
-    "result_count": 4
-  },
-  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "drive-app-dev.beam.hhs.gov",
@@ -12346,30 +12370,6 @@
     "not_after": "2025-08-30T15:07:33",
     "serial_number": "4001910955f4fe30c243c226c8622f09",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "UC-HHH-EXPE-Pri1.hhs.gov",
-    "name_value": "hhs.gov\nUC-HHH-EXPE-Pri1.hhs.gov\nUC-HHS-EXPE.hhs.gov\nUC-PKL-EXPE-Sec1.hhs.gov",
-    "id": 13924524057,
-    "entry_timestamp": "2024-07-30T16:52:00.396",
-    "not_before": "2024-07-30T00:00:00",
-    "not_after": "2025-08-28T23:59:59",
-    "serial_number": "0cf2e82d09bbd8a159e3894f8408a329",
-    "result_count": 5
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "UC-PKL-EXPE-Sec1.hhs.gov",
-    "name_value": "hhs.gov\nUC-HHH-EXPE-Pri1.hhs.gov\nUC-HHS-EXPE.hhs.gov\nUC-PKL-EXPE-Sec1.hhs.gov",
-    "id": 13924438226,
-    "entry_timestamp": "2024-07-30T16:45:39.135",
-    "not_before": "2024-07-30T00:00:00",
-    "not_after": "2025-08-28T23:59:59",
-    "serial_number": "07f916e561c811fd7d6d1f72109a38fe",
-    "result_count": 5
   },
   {
     "issuer_ca_id": 153248,
