@@ -1,5 +1,185 @@
 [
   {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "*.mgmt.4innovation.cms.gov",
+    "name_value": "*.mgmt.4innovation.cms.gov",
+    "id": 20661423302,
+    "entry_timestamp": "2025-08-29T19:20:24.325",
+    "not_before": "2025-08-29T00:00:00",
+    "not_after": "2026-09-27T23:59:59",
+    "serial_number": "0c9685f90498896eddb19498c1f97322",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "www.eacms.cms.gov",
+    "name_value": "api.eacms.cms.gov\napi-imp.eacms.cms.gov\nqua.eacms.cms.gov\ntraining.eacms.cms.gov\nwww.eacms.cms.gov",
+    "id": 20656356935,
+    "entry_timestamp": "2025-08-29T14:12:04.182",
+    "not_before": "2025-08-29T13:13:33",
+    "not_after": "2025-11-27T13:13:32",
+    "serial_number": "06cf905f3eefd5a784c9cbce6949fbf02f6b",
+    "result_count": 6
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "www.eacms.cms.gov",
+    "name_value": "api.eacms.cms.gov\napi-imp.eacms.cms.gov\nqua.eacms.cms.gov\ntraining.eacms.cms.gov\nwww.eacms.cms.gov",
+    "id": 20656352219,
+    "entry_timestamp": "2025-08-29T14:12:03.92",
+    "not_before": "2025-08-29T13:13:33",
+    "not_after": "2025-11-27T13:13:32",
+    "serial_number": "06cf905f3eefd5a784c9cbce6949fbf02f6b",
+    "result_count": 6
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "saf.cms.gov",
+    "name_value": "saf.cms.gov",
+    "id": 20651331081,
+    "entry_timestamp": "2025-08-29T09:11:08.843",
+    "not_before": "2025-08-29T08:12:38",
+    "not_after": "2025-11-27T08:12:37",
+    "serial_number": "06c34d9eb58b2b448b847b77c5d9e457c101",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "saf.cms.gov",
+    "name_value": "saf.cms.gov",
+    "id": 20651333062,
+    "entry_timestamp": "2025-08-29T09:11:08.555",
+    "not_before": "2025-08-29T08:12:38",
+    "not_after": "2025-11-27T08:12:37",
+    "serial_number": "06c34d9eb58b2b448b847b77c5d9e457c101",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247106,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
+    "common_name": "eapi-next.ap-dev.eacms.aws.cms.gov",
+    "name_value": "eapi-next.ap-dev.eacms.aws.cms.gov",
+    "id": 20651075479,
+    "entry_timestamp": "2025-08-29T08:57:02.023",
+    "not_before": "2025-08-29T00:00:00",
+    "not_after": "2026-09-27T23:59:59",
+    "serial_number": "08135a0284d7afb93fd6cc21b474893e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "eapi-next.ap-dev.eacms.aws.cms.gov",
+    "name_value": "eapi-next.ap-dev.eacms.aws.cms.gov",
+    "id": 20650844189,
+    "entry_timestamp": "2025-08-29T08:43:07.881",
+    "not_before": "2025-08-29T00:00:00",
+    "not_after": "2026-09-27T23:59:59",
+    "serial_number": "046c62dce45a60d19d4c32d53c3b7413",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "eapi-next.ap-test.eacms.aws.cms.gov",
+    "name_value": "eapi-next.ap-test.eacms.aws.cms.gov",
+    "id": 20649407714,
+    "entry_timestamp": "2025-08-29T07:23:38.231",
+    "not_before": "2025-08-29T00:00:00",
+    "not_after": "2026-09-27T23:59:59",
+    "serial_number": "09aadc60a82b3f2c6cc76a13c230f543",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247115,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
+    "common_name": "eapi-next.ap-test.eacms.aws.cms.gov",
+    "name_value": "eapi-next.ap-test.eacms.aws.cms.gov",
+    "id": 20649025944,
+    "entry_timestamp": "2025-08-29T07:04:02.02",
+    "not_before": "2025-08-29T00:00:00",
+    "not_after": "2026-09-27T23:59:59",
+    "serial_number": "0942d065367b3fa0ac4d5e3f4e51840d",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247106,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
+    "common_name": "eapi-next.ap-test.eacms.aws.cms.gov",
+    "name_value": "eapi-next.ap-test.eacms.aws.cms.gov",
+    "id": 20648135987,
+    "entry_timestamp": "2025-08-29T06:09:14.545",
+    "not_before": "2025-08-29T00:00:00",
+    "not_after": "2026-09-27T23:59:59",
+    "serial_number": "0f3bcd77166918cd191a7a1b9cb09226",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "mearis-test.cms.gov",
+    "name_value": "mearis-test.cms.gov",
+    "id": 20646381403,
+    "entry_timestamp": "2025-08-29T04:20:01.98",
+    "not_before": "2025-08-29T00:00:00",
+    "not_after": "2026-09-26T23:59:59",
+    "serial_number": "0b8e68eaea53d52cf84f1373433d2bd1",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247106,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
+    "common_name": "mearis-test-api.cms.gov",
+    "name_value": "mearis-test-api.cms.gov",
+    "id": 20645064352,
+    "entry_timestamp": "2025-08-29T03:05:32.545",
+    "not_before": "2025-08-29T00:00:00",
+    "not_after": "2026-09-26T23:59:59",
+    "serial_number": "0df460d0cd8bd81b6ed0e706ec4e571b",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247115,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
+    "common_name": "ipcvalbackend.ipctest.internal.cms.gov",
+    "name_value": "ipcvalbackend.ipctest.internal.cms.gov",
+    "id": 20644702247,
+    "entry_timestamp": "2025-08-29T02:46:41.505",
+    "not_before": "2025-08-29T00:00:00",
+    "not_after": "2026-09-27T23:59:59",
+    "serial_number": "0c19ce9303442fd55ff9e8025f7aa153",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247115,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
+    "common_name": "mearis-dev.cms.gov",
+    "name_value": "mearis-dev.cms.gov",
+    "id": 20643977615,
+    "entry_timestamp": "2025-08-29T02:12:05.766",
+    "not_before": "2024-09-28T00:00:00",
+    "not_after": "2025-10-27T23:59:59",
+    "serial_number": "0f3a28b9bf8a6563247ab2d34fd25d93",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "mearis-dev.cms.gov",
+    "name_value": "mearis-dev.cms.gov",
+    "id": 20643947103,
+    "entry_timestamp": "2025-08-29T02:10:39.311",
+    "not_before": "2025-08-29T00:00:00",
+    "not_after": "2026-09-26T23:59:59",
+    "serial_number": "048859c18aa08b4efd08854f39cb8f97",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "www.impl.mft-admin.cms.gov",
@@ -3117,18 +3297,6 @@
     "not_before": "2025-08-02T00:00:00",
     "not_after": "2026-08-31T23:59:59",
     "serial_number": "0f8dd0f1a882c08974353832788f2743",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "idm.cms.gov",
-    "name_value": "idm.cms.gov",
-    "id": 20062315007,
-    "entry_timestamp": "2025-08-02T02:02:38.732",
-    "not_before": "2024-07-30T15:41:12",
-    "not_after": "2025-08-29T15:40:12",
-    "serial_number": "400191044d7b007e2e10a938b6f500a5",
     "result_count": 2
   },
   {
@@ -26553,18 +26721,6 @@
     "not_before": "2024-07-31T00:00:00",
     "not_after": "2025-08-30T23:59:59",
     "serial_number": "0e284d2cb7949a7d2bc3bd99c2f87255",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "idm.cms.gov",
-    "name_value": "idm.cms.gov",
-    "id": 13923590143,
-    "entry_timestamp": "2024-07-30T15:41:12.382",
-    "not_before": "2024-07-30T15:41:12",
-    "not_after": "2025-08-29T15:40:12",
-    "serial_number": "400191044d7b007e2e10a938b6f500a5",
     "result_count": 2
   }
 ]

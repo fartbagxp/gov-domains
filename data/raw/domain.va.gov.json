@@ -1,5 +1,41 @@
 [
   {
+    "issuer_ca_id": 176211,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2",
+    "common_name": "sandbox-portal.myhealth.va.gov",
+    "name_value": "sandbox-portal.myhealth.va.gov",
+    "id": 20616010050,
+    "entry_timestamp": "2025-08-27T22:11:43.38",
+    "not_before": "2025-08-27T00:00:00",
+    "not_after": "2026-08-26T23:59:59",
+    "serial_number": "078be515e8d62e259192d9f784627367",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 904,
+    "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+    "common_name": "veteransurvey.va.gov",
+    "name_value": "veteransurvey.va.gov\nvetprams.va.gov\nwww.vetprams.va.gov",
+    "id": 20615612213,
+    "entry_timestamp": "2025-08-27T21:44:22.317",
+    "not_before": "2025-08-27T21:44:21",
+    "not_after": "2026-09-18T22:46:08",
+    "serial_number": "00a1a3a656878830d4",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "www.escm-hc-east.va.gov",
+    "name_value": "www.escm-hc-east.va.gov",
+    "id": 20612391036,
+    "entry_timestamp": "2025-08-27T18:04:03.294",
+    "not_before": "2025-08-27T00:00:00",
+    "not_after": "2026-09-16T23:59:59",
+    "serial_number": "022ba45918a4b115b745d861601d883c",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "hybrid.va.gov",
@@ -628,35 +664,11 @@
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "vasolidstartchat.va.gov",
     "name_value": "vasolidstartchat.va.gov\nwww.vasolidstartchat.va.gov",
-    "id": 20111057938,
-    "entry_timestamp": "2025-08-04T12:27:36.561",
-    "not_before": "2024-08-27T00:00:00",
-    "not_after": "2025-08-29T23:59:59",
-    "serial_number": "0f3703dfc1fab11dc03e2b394a3c6ff7",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "vasolidstartchat.va.gov",
-    "name_value": "vasolidstartchat.va.gov\nwww.vasolidstartchat.va.gov",
     "id": 20111050081,
     "entry_timestamp": "2025-08-04T12:27:26.319",
     "not_before": "2025-08-04T00:00:00",
     "not_after": "2026-09-01T23:59:59",
     "serial_number": "056dcd9708cc79e48497faa948625db5",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "cdceportal.va.gov",
-    "name_value": "cdceportal.va.gov\nwww.cdceportal.va.gov",
-    "id": 20110857909,
-    "entry_timestamp": "2025-08-04T12:14:54.826",
-    "not_before": "2024-08-27T00:00:00",
-    "not_after": "2025-08-29T23:59:59",
-    "serial_number": "0f171699c1bff692fae2d4099437f4bc",
     "result_count": 3
   },
   {
@@ -6406,30 +6418,6 @@
     "not_after": "2025-09-09T23:59:59",
     "serial_number": "07e24626afae090769044db8c9506891",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "vasolidstartchat.va.gov",
-    "name_value": "vasolidstartchat.va.gov\nwww.vasolidstartchat.va.gov",
-    "id": 14322641370,
-    "entry_timestamp": "2024-08-27T17:03:36.174",
-    "not_before": "2024-08-27T00:00:00",
-    "not_after": "2025-08-29T23:59:59",
-    "serial_number": "0f3703dfc1fab11dc03e2b394a3c6ff7",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "cdceportal.va.gov",
-    "name_value": "cdceportal.va.gov\nwww.cdceportal.va.gov",
-    "id": 14312761613,
-    "entry_timestamp": "2024-08-27T02:40:37.252",
-    "not_before": "2024-08-27T00:00:00",
-    "not_after": "2025-08-29T23:59:59",
-    "serial_number": "0f171699c1bff692fae2d4099437f4bc",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 62137,
