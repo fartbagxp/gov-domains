@@ -1,5 +1,77 @@
 [
   {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "mint.cms.gov",
+    "name_value": "mint.cms.gov",
+    "id": 20708964085,
+    "entry_timestamp": "2025-08-31T21:38:25.884",
+    "not_before": "2024-10-07T14:41:24",
+    "not_after": "2025-11-06T14:40:24",
+    "serial_number": "400192676d8856e9eaf2b802a4153436",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "idp-radvcdat.cms.gov",
+    "name_value": "idp-radvcdat.cms.gov",
+    "id": 20706832233,
+    "entry_timestamp": "2025-08-31T19:08:57.51",
+    "not_before": "2025-08-31T18:10:25",
+    "not_after": "2025-11-29T18:10:24",
+    "serial_number": "0692f16ae392f6469d5f127e730c7e7891fa",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "idp-radvcdat.cms.gov",
+    "name_value": "idp-radvcdat.cms.gov",
+    "id": 20706826612,
+    "entry_timestamp": "2025-08-31T19:08:55.579",
+    "not_before": "2025-08-31T18:10:25",
+    "not_after": "2025-11-29T18:10:24",
+    "serial_number": "0692f16ae392f6469d5f127e730c7e7891fa",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "heimdall-lite.cms.gov",
+    "name_value": "heimdall-lite.cms.gov",
+    "id": 20695076409,
+    "entry_timestamp": "2025-08-31T06:48:38.262",
+    "not_before": "2025-08-31T05:50:07",
+    "not_after": "2025-11-29T05:50:06",
+    "serial_number": "06917b9c07ac6ea17bdde8104514dd2103a1",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "heimdall-lite.cms.gov",
+    "name_value": "heimdall-lite.cms.gov",
+    "id": 20695075746,
+    "entry_timestamp": "2025-08-31T06:48:38.091",
+    "not_before": "2025-08-31T05:50:07",
+    "not_after": "2025-11-29T05:50:06",
+    "serial_number": "06917b9c07ac6ea17bdde8104514dd2103a1",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247106,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
+    "common_name": "structurizr.backends.cms.gov",
+    "name_value": "structurizr.backends.cms.gov",
+    "id": 20691663695,
+    "entry_timestamp": "2025-08-31T02:55:48.028",
+    "not_before": "2025-08-31T00:00:00",
+    "not_after": "2026-09-29T23:59:59",
+    "serial_number": "0a90280f2a3ef6cc78d94c57d9f95ab4",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "*.mgmt.4innovation.cms.gov",
@@ -25284,18 +25356,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "hglvdi.cms.gov",
-    "name_value": "hglvdi.cms.gov\nwww.hglvdi.cms.gov",
-    "id": 14306575043,
-    "entry_timestamp": "2024-08-26T18:07:31.78",
-    "not_before": "2024-08-26T18:07:31",
-    "not_after": "2025-08-31T18:07:30",
-    "serial_number": "436422bf6b7a2a8077d5bff063418d6f",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 247115,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
     "common_name": "www.eacms.aws.cms.gov",
@@ -25870,18 +25930,6 @@
     "not_after": "2025-09-15T17:28:35",
     "serial_number": "4001915c3cd02266ef6ff22e5861aa8e",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "hglvdi.cms.gov",
-    "name_value": "hglvdi.cms.gov\nwww.hglvdi.cms.gov",
-    "id": 14163443239,
-    "entry_timestamp": "2024-08-16T15:08:26.863",
-    "not_before": "2024-08-16T15:08:26",
-    "not_after": "2025-08-31T15:08:25",
-    "serial_number": "3abcab95177dcaf564c52bc038fc84ec",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 247106,
