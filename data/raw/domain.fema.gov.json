@@ -1,5 +1,53 @@
 [
   {
+    "issuer_ca_id": 282054,
+    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
+    "common_name": "integration.aws.fema.gov",
+    "name_value": "integration.aws.fema.gov",
+    "id": 20724948235,
+    "entry_timestamp": "2025-09-01T14:34:33.116",
+    "not_before": "2025-09-01T14:24:10",
+    "not_after": "2025-11-30T14:29:45",
+    "serial_number": "4b24dd10065e352073887acc81ce266e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 282053,
+    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
+    "common_name": "integration.aws.fema.gov",
+    "name_value": "integration.aws.fema.gov",
+    "id": 20724948529,
+    "entry_timestamp": "2025-09-01T14:34:32.657",
+    "not_before": "2025-09-01T14:22:25",
+    "not_after": "2025-11-30T14:29:42",
+    "serial_number": "1e745f85a3925d07755cbd49a9b4af37",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 282054,
+    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
+    "common_name": "integration.aws.fema.gov",
+    "name_value": "integration.aws.fema.gov",
+    "id": 20724927294,
+    "entry_timestamp": "2025-09-01T14:34:11.274",
+    "not_before": "2025-09-01T14:24:10",
+    "not_after": "2025-11-30T14:29:45",
+    "serial_number": "4b24dd10065e352073887acc81ce266e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 282053,
+    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
+    "common_name": "integration.aws.fema.gov",
+    "name_value": "integration.aws.fema.gov",
+    "id": 20724895204,
+    "entry_timestamp": "2025-09-01T14:32:26.281",
+    "not_before": "2025-09-01T14:22:25",
+    "not_after": "2025-11-30T14:29:42",
+    "serial_number": "1e745f85a3925d07755cbd49a9b4af37",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 295809,
     "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
     "common_name": "origin-go.fema.gov",
@@ -6754,53 +6802,5 @@
     "not_after": "2025-09-15T17:07:57",
     "serial_number": "0db6a68ded137fba837db4435ec720d9",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "ndg-gg-aws-uat.fema.gov",
-    "name_value": "ndg-gg-aws-uat.fema.gov",
-    "id": 14005104259,
-    "entry_timestamp": "2024-08-05T15:23:07.525",
-    "not_before": "2024-08-05T15:23:07",
-    "not_after": "2025-09-01T15:23:06",
-    "serial_number": "0e97c847bbd413d64d62d161315d86ba",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "ndg-gg-aws-sit.fema.gov",
-    "name_value": "ndg-gg-aws-sit.fema.gov",
-    "id": 14005086488,
-    "entry_timestamp": "2024-08-05T15:20:52.258",
-    "not_before": "2024-08-05T15:20:52",
-    "not_after": "2025-09-01T15:20:50",
-    "serial_number": "507efa25f6da474f503552c37a77e2ac",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "ndg-gg-aws-ivv.fema.gov",
-    "name_value": "ndg-gg-aws-ivv.fema.gov",
-    "id": 14005055709,
-    "entry_timestamp": "2024-08-05T15:18:23.557",
-    "not_before": "2024-08-05T15:18:23",
-    "not_after": "2025-09-01T15:18:22",
-    "serial_number": "23dc5aa2ddf4a1b8e66438f36d4957b2",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "ndg-gg-aws-dev.fema.gov",
-    "name_value": "ndg-gg-aws-dev.fema.gov",
-    "id": 14005014841,
-    "entry_timestamp": "2024-08-05T15:13:22.886",
-    "not_before": "2024-08-05T15:13:22",
-    "not_after": "2025-09-01T15:13:21",
-    "serial_number": "315ad28f1c12da3fac613a24eed44185",
-    "result_count": 2
   }
 ]

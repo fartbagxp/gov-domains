@@ -113,7 +113,7 @@
     "common_name": "biometrics.nist.gov",
     "name_value": "biometrics.nist.gov",
     "id": 20706706101,
-    "entry_timestamp": "2025-08-31T19:01:17.638",
+    "entry_timestamp": "2025-08-31T19:01:17.618",
     "not_before": "2025-08-31T18:02:47",
     "not_after": "2025-11-29T18:02:46",
     "serial_number": "0562333bf223020431b4245b05215fd01a05",
@@ -677,7 +677,7 @@
     "common_name": "ihe-pcd-precon.nist.gov",
     "name_value": "ihe-pcd-precon.nist.gov",
     "id": 20705313107,
-    "entry_timestamp": "2025-08-31T17:31:11.988",
+    "entry_timestamp": "2025-08-31T17:31:11.966",
     "not_before": "2025-08-31T16:32:41",
     "not_after": "2025-11-29T16:32:40",
     "serial_number": "06a257758b79eb7c576de470201ecacf0c0b",
@@ -1001,7 +1001,7 @@
     "common_name": "kinetics.nist.gov",
     "name_value": "kinetics.nist.gov",
     "id": 20704579931,
-    "entry_timestamp": "2025-08-31T16:45:28.631",
+    "entry_timestamp": "2025-08-31T16:45:28.613",
     "not_before": "2025-08-31T15:46:58",
     "not_after": "2025-11-29T15:46:57",
     "serial_number": "056f94621fd71a5a550514a698cb90ade773",
@@ -1145,7 +1145,7 @@
     "common_name": "rpki-monitor.nist.gov",
     "name_value": "rpki-monitor.nist.gov",
     "id": 20704343805,
-    "entry_timestamp": "2025-08-31T16:28:27.153",
+    "entry_timestamp": "2025-08-31T16:28:27.152",
     "not_before": "2025-08-31T15:29:56",
     "not_after": "2025-11-29T15:29:55",
     "serial_number": "060598fb90f7a5c98b5e5651ee1aa5214c4a",
@@ -1896,18 +1896,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "sitexpress.nist.gov",
-    "name_value": "sitexpress.nist.gov",
-    "id": 20702953955,
-    "entry_timestamp": "2025-08-31T14:46:12.946",
-    "not_before": "2025-08-31T13:47:42",
-    "not_after": "2025-11-29T13:47:41",
-    "serial_number": "0631a788ddbdef54b5a2b1b6392c0c1b0f5b",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 295817,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "tcamt.nist.gov",
@@ -1917,6 +1905,18 @@
     "not_before": "2025-08-31T13:47:42",
     "not_after": "2025-11-29T13:47:41",
     "serial_number": "06fa871b2a1db25a353cbe834f5424921840",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "sitexpress.nist.gov",
+    "name_value": "sitexpress.nist.gov",
+    "id": 20702953955,
+    "entry_timestamp": "2025-08-31T14:46:12.946",
+    "not_before": "2025-08-31T13:47:42",
+    "not_after": "2025-11-29T13:47:41",
+    "serial_number": "0631a788ddbdef54b5a2b1b6392c0c1b0f5b",
     "result_count": 2
   },
   {
@@ -16070,18 +16070,6 @@
   {
     "issuer_ca_id": 295815,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "hl7v2tools.nist.gov",
-    "name_value": "hl7v2tools.nist.gov",
-    "id": 19421884158,
-    "entry_timestamp": "2025-07-03T15:20:36.099",
-    "not_before": "2025-07-03T14:22:05",
-    "not_after": "2025-10-01T14:22:04",
-    "serial_number": "06de51ae60b73ce6dfbf53751bb7d0b6a1de",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
     "common_name": "hl7v2-elr-r2-testing.nist.gov",
     "name_value": "hl7v2-elr-r2-testing.nist.gov",
     "id": 19421810908,
@@ -16089,6 +16077,18 @@
     "not_before": "2025-07-03T14:22:05",
     "not_after": "2025-10-01T14:22:04",
     "serial_number": "06e2e8c8a21875e9ed18a6590468ce2f6a81",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "hl7v2tools.nist.gov",
+    "name_value": "hl7v2tools.nist.gov",
+    "id": 19421884158,
+    "entry_timestamp": "2025-07-03T15:20:36.099",
+    "not_before": "2025-07-03T14:22:05",
+    "not_after": "2025-10-01T14:22:04",
+    "serial_number": "06de51ae60b73ce6dfbf53751bb7d0b6a1de",
     "result_count": 2
   },
   {
@@ -24177,54 +24177,6 @@
     "not_before": "2025-06-04T16:35:50",
     "not_after": "2025-09-02T16:35:49",
     "serial_number": "056ac0d1a880b8e99d66b7f231ea51db33bb",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295819,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E6",
-    "common_name": "iedisonuat.ct.nist.gov",
-    "name_value": "iedisonuat.ct.nist.gov",
-    "id": 18794639835,
-    "entry_timestamp": "2025-06-03T22:16:35.977",
-    "not_before": "2025-06-03T21:18:05",
-    "not_after": "2025-09-01T21:18:04",
-    "serial_number": "0605ea111029f7644e8966ee94cc8887fa54",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295819,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E6",
-    "common_name": "iedisonuat.ct.nist.gov",
-    "name_value": "iedisonuat.ct.nist.gov",
-    "id": 18796406520,
-    "entry_timestamp": "2025-06-03T22:16:35.648",
-    "not_before": "2025-06-03T21:18:05",
-    "not_after": "2025-09-01T21:18:04",
-    "serial_number": "0605ea111029f7644e8966ee94cc8887fa54",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "iedisonuat.ct.nist.gov",
-    "name_value": "iedisonuat.ct.nist.gov",
-    "id": 18794637799,
-    "entry_timestamp": "2025-06-03T22:16:33.655",
-    "not_before": "2025-06-03T21:18:01",
-    "not_after": "2025-09-01T21:18:00",
-    "serial_number": "05dbc2eabfd6cd48529ee1790e64c547b6f2",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "iedisonuat.ct.nist.gov",
-    "name_value": "iedisonuat.ct.nist.gov",
-    "id": 18796406091,
-    "entry_timestamp": "2025-06-03T22:16:31.584",
-    "not_before": "2025-06-03T21:18:01",
-    "not_after": "2025-09-01T21:18:00",
-    "serial_number": "05dbc2eabfd6cd48529ee1790e64c547b6f2",
     "result_count": 2
   },
   {

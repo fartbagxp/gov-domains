@@ -2,6 +2,42 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "ensocarerespond.va.gov",
+    "name_value": "enscdn.va.gov\nensdsvc.va.gov\nensocareembedded.va.gov\nensocarerespond.va.gov\nensocareretrieve.va.gov\nensrtr.va.gov\nstageensocareembedded.va.gov",
+    "id": 20712572679,
+    "entry_timestamp": "2025-09-01T01:43:45.16",
+    "not_before": "2024-10-08T00:00:00",
+    "not_after": "2025-10-14T23:59:59",
+    "serial_number": "043ba9e18945bf85b1e437b73e496511",
+    "result_count": 8
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "API.TEST.MDM.VA.GOV",
+    "name_value": "API.TEST.MDM.VA.GOV",
+    "id": 20712384303,
+    "entry_timestamp": "2025-09-01T01:32:09.237",
+    "not_before": "2024-10-08T00:00:00",
+    "not_after": "2025-10-07T23:59:59",
+    "serial_number": "0d3cb3335ac02893f403762550ef2405",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "WIN.TEST.MDM.VA.GOV",
+    "name_value": "WIN.TEST.MDM.VA.GOV",
+    "id": 20711887960,
+    "entry_timestamp": "2025-09-01T01:01:36.567",
+    "not_before": "2024-10-08T00:00:00",
+    "not_after": "2025-10-07T23:59:59",
+    "serial_number": "0e6f2d7687e586f31209da049dbed02f",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "genhub.va.gov",
     "name_value": "genhub.va.gov",
     "id": 20710271622,
@@ -189,30 +225,6 @@
     "not_before": "2025-08-18T00:00:00",
     "not_after": "2026-08-17T23:59:59",
     "serial_number": "08b8277f9926fb668e2dba2b71b98378",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "yourit-dev.va.gov",
-    "name_value": "yourit-dev.va.gov",
-    "id": 20411618937,
-    "entry_timestamp": "2025-08-18T06:29:20.133",
-    "not_before": "2025-08-18T05:30:49",
-    "not_after": "2025-11-16T05:30:48",
-    "serial_number": "05ad6072783fd5d5c09c3fd5560211b058ee",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "yourit-dev.va.gov",
-    "name_value": "yourit-dev.va.gov",
-    "id": 20404100059,
-    "entry_timestamp": "2025-08-18T06:29:20.036",
-    "not_before": "2025-08-18T05:30:49",
-    "not_after": "2025-11-16T05:30:48",
-    "serial_number": "05ad6072783fd5d5c09c3fd5560211b058ee",
     "result_count": 2
   },
   {
@@ -700,18 +712,6 @@
     "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
     "common_name": "veteransurvey.va.gov",
     "name_value": "veteransurvey.va.gov\nvetprams.va.gov\nwww.vetprams.va.gov",
-    "id": 20057811858,
-    "entry_timestamp": "2025-08-01T20:17:42.696",
-    "not_before": "2024-07-31T20:12:30",
-    "not_after": "2025-09-01T20:12:30",
-    "serial_number": "23cfdeb4240dd0b0",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 904,
-    "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
-    "common_name": "veteransurvey.va.gov",
-    "name_value": "veteransurvey.va.gov\nvetprams.va.gov\nwww.vetprams.va.gov",
     "id": 20057765868,
     "entry_timestamp": "2025-08-01T20:16:01.103",
     "not_before": "2025-08-01T20:15:59",
@@ -801,18 +801,6 @@
     "not_before": "2025-07-29T00:00:00",
     "not_after": "2026-07-28T23:59:59",
     "serial_number": "0bf884f9eccdaa2cce73f2e684c2d3ee",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "yourit.va.gov",
-    "name_value": "yourit.va.gov",
-    "id": 19875631242,
-    "entry_timestamp": "2025-07-24T11:29:19.623",
-    "not_before": "2025-07-24T10:30:49",
-    "not_after": "2025-10-22T10:30:48",
-    "serial_number": "064978a9000dafaf72b2d385c3257092c583",
     "result_count": 2
   },
   {
@@ -1389,30 +1377,6 @@
     "not_before": "2025-06-23T00:00:00",
     "not_after": "2026-06-23T23:59:59",
     "serial_number": "0f6458274fe8a6f1bfa04e4f5a88f052",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "yourit-dev.va.gov",
-    "name_value": "yourit-dev.va.gov",
-    "id": 19109703828,
-    "entry_timestamp": "2025-06-19T04:29:15.874",
-    "not_before": "2025-06-19T03:30:43",
-    "not_after": "2025-09-17T03:30:42",
-    "serial_number": "061b3643058b94722825d4d482cc8ddbc611",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "yourit-dev.va.gov",
-    "name_value": "yourit-dev.va.gov",
-    "id": 19109701705,
-    "entry_timestamp": "2025-06-19T04:29:13.756",
-    "not_before": "2025-06-19T03:30:43",
-    "not_after": "2025-09-17T03:30:42",
-    "serial_number": "061b3643058b94722825d4d482cc8ddbc611",
     "result_count": 2
   },
   {
@@ -6490,41 +6454,5 @@
     "not_after": "2025-09-02T23:59:59",
     "serial_number": "01423ae6bae1cfc275177ddb034ee8bb",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "cc.gateway.spd.vaec.va.gov",
-    "name_value": "cc.gateway.spd.vaec.va.gov",
-    "id": 13957100383,
-    "entry_timestamp": "2024-08-01T17:40:51.12",
-    "not_before": "2024-08-01T00:00:00",
-    "not_after": "2025-09-01T23:59:59",
-    "serial_number": "0be23c255396d92f90a4ca7cfe256e44",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "vaausappeiv21.aac.va.gov",
-    "name_value": "vaausappeiv21.aac.va.gov",
-    "id": 13956392716,
-    "entry_timestamp": "2024-08-01T16:09:57.889",
-    "not_before": "2024-08-01T16:09:57",
-    "not_after": "2025-09-01T16:09:56",
-    "serial_number": "4707f5c2faef9b9f42c097c10755f83d",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 904,
-    "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
-    "common_name": "veteransurvey.va.gov",
-    "name_value": "veteransurvey.va.gov\nvetprams.va.gov\nwww.vetprams.va.gov",
-    "id": 13945667897,
-    "entry_timestamp": "2024-07-31T20:12:31.808",
-    "not_before": "2024-07-31T20:12:30",
-    "not_after": "2025-09-01T20:12:30",
-    "serial_number": "23cfdeb4240dd0b0",
-    "result_count": 4
   }
 ]

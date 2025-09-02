@@ -1,5 +1,41 @@
 [
   {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "trnhealthffrdc.cms.gov",
+    "name_value": "trnhealthffrdc.cms.gov",
+    "id": 20735945493,
+    "entry_timestamp": "2025-09-02T03:29:34.932",
+    "not_before": "2025-09-02T02:31:04",
+    "not_after": "2025-12-01T02:31:03",
+    "serial_number": "0679d7caaccc51a5fa7cb919ef137dc13049",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "trnhealthffrdc.cms.gov",
+    "name_value": "trnhealthffrdc.cms.gov",
+    "id": 20735941538,
+    "entry_timestamp": "2025-09-02T03:29:34.724",
+    "not_before": "2025-09-02T02:31:04",
+    "not_after": "2025-12-01T02:31:03",
+    "serial_number": "0679d7caaccc51a5fa7cb919ef137dc13049",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "www.cert.cms.gov",
+    "name_value": "www.cert.cms.gov",
+    "id": 20731808964,
+    "entry_timestamp": "2025-09-01T22:55:17.446",
+    "not_before": "2024-10-10T00:00:00",
+    "not_after": "2025-10-28T23:59:59",
+    "serial_number": "0f7673f10735430f713e19307ea2787e",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "mint.cms.gov",
@@ -2438,18 +2474,6 @@
   {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "ldap-aws-adap-v.cms.gov",
-    "name_value": "ldap-aws-adap-v.cms.gov",
-    "id": 20297814678,
-    "entry_timestamp": "2025-08-13T01:24:15.513",
-    "not_before": "2024-08-02T20:34:45",
-    "not_after": "2025-09-01T20:33:45",
-    "serial_number": "40019114cd4f352bf80d21465110a065",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "identity.cms.gov",
     "name_value": "identity.cms.gov",
     "id": 20297251818,
@@ -2481,18 +2505,6 @@
     "not_before": "2024-08-06T15:33:28",
     "not_after": "2025-09-05T15:32:28",
     "serial_number": "4001912852ea86d0d66d0274e30c8106",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "ldap-aws-adap-p.cms.gov",
-    "name_value": "ldap-aws-adap-p.cms.gov",
-    "id": 20297095587,
-    "entry_timestamp": "2025-08-13T00:36:17.185",
-    "not_before": "2024-08-02T20:34:16",
-    "not_after": "2025-09-01T20:33:16",
-    "serial_number": "40019114ccdeda4534bc87a30fc9fd25",
     "result_count": 2
   },
   {
@@ -26602,89 +26614,5 @@
     "not_after": "2025-09-04T23:59:59",
     "serial_number": "07e5529430802dc4f9722de662b3457b",
     "result_count": 5
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "ldap-ash-unix-p.cms.gov",
-    "name_value": "ldap-ash-unix-p.cms.gov",
-    "id": 13971835211,
-    "entry_timestamp": "2024-08-02T20:35:06.497",
-    "not_before": "2024-08-02T20:35:06",
-    "not_after": "2025-09-01T20:34:06",
-    "serial_number": "40019114cda24078612eaeb8a854bb27",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "ldap-aws-adap-v.cms.gov",
-    "name_value": "ldap-aws-adap-v.cms.gov",
-    "id": 13971829552,
-    "entry_timestamp": "2024-08-02T20:34:45.439",
-    "not_before": "2024-08-02T20:34:45",
-    "not_after": "2025-09-01T20:33:45",
-    "serial_number": "40019114cd4f352bf80d21465110a065",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "ldap-aws-adap-p.cms.gov",
-    "name_value": "ldap-aws-adap-p.cms.gov",
-    "id": 13971828159,
-    "entry_timestamp": "2024-08-02T20:34:16.581",
-    "not_before": "2024-08-02T20:34:16",
-    "not_after": "2025-09-01T20:33:16",
-    "serial_number": "40019114ccdeda4534bc87a30fc9fd25",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "ssas.test.bcda.cms.gov",
-    "name_value": "ssas.test.bcda.cms.gov",
-    "id": 13968903940,
-    "entry_timestamp": "2024-08-02T15:22:34.287",
-    "not_before": "2024-08-02T15:22:34",
-    "not_after": "2025-09-01T15:21:34",
-    "serial_number": "40019113af7f73f176b60bb1bd48d419",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "ssas.opensbx.bcda.cms.gov",
-    "name_value": "ssas.opensbx.bcda.cms.gov",
-    "id": 13968896916,
-    "entry_timestamp": "2024-08-02T15:22:09.92",
-    "not_before": "2024-08-02T15:22:09",
-    "not_after": "2025-09-01T15:21:09",
-    "serial_number": "40019113af1fdd4d661cea67a8b7cb1c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "ssas.dev.bcda.cms.gov",
-    "name_value": "ssas.dev.bcda.cms.gov",
-    "id": 13968895205,
-    "entry_timestamp": "2024-08-02T15:21:43.318",
-    "not_before": "2024-08-02T15:21:43",
-    "not_after": "2025-09-01T15:20:43",
-    "serial_number": "40019113aeb85f4f69d6a339d4640734",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "ssas.bcda.cms.gov",
-    "name_value": "ssas.bcda.cms.gov",
-    "id": 13968889066,
-    "entry_timestamp": "2024-08-02T15:21:14.431",
-    "not_before": "2024-08-02T15:21:14",
-    "not_after": "2025-09-01T15:20:14",
-    "serial_number": "40019113ae472425802ed73789b75012",
-    "result_count": 2
   }
 ]

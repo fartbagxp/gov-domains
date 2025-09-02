@@ -1,5 +1,65 @@
 [
   {
+    "issuer_ca_id": 385516,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust DV TLS Issuing RSA CA 2",
+    "common_name": "saml.cdc.gov",
+    "name_value": "saml.cdc.gov\nwww.saml.cdc.gov",
+    "id": 20732853805,
+    "entry_timestamp": "2025-09-02T00:21:10.425",
+    "not_before": "2025-09-02T00:00:00",
+    "not_after": "2025-09-12T23:59:59",
+    "serial_number": "79c58053f4125e7d4ea4a32ba110fdac",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 385516,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust DV TLS Issuing RSA CA 2",
+    "common_name": "saml.cdc.gov",
+    "name_value": "saml.cdc.gov\nwww.saml.cdc.gov",
+    "id": 20732853649,
+    "entry_timestamp": "2025-09-02T00:21:09.874",
+    "not_before": "2025-09-02T00:00:00",
+    "not_after": "2025-09-12T23:59:59",
+    "serial_number": "79c58053f4125e7d4ea4a32ba110fdac",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 1586,
+    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
+    "common_name": "phlipstage.cdc.gov",
+    "name_value": "phlipstage.cdc.gov",
+    "id": 20729712931,
+    "entry_timestamp": "2025-09-01T20:04:16.354",
+    "not_before": "2024-10-09T17:53:29",
+    "not_after": "2025-10-09T17:53:27",
+    "serial_number": "5ad4b6fde58301971fa36750e6fe6603",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 1586,
+    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
+    "common_name": "WIPV-INFW-NET2.hce.cdc.gov",
+    "name_value": "ARTReporting.cdc.gov\nConWebEXTNetFD1.cdc.gov\nConWebEXTNetFD2.cdc.gov\nConWebEXTNetFD3.cdc.gov\nConWebEXTNetFD4.cdc.gov\nCOVID.cdc.gov\nEJI.cdc.gov\nEpiInfoSecureWebSurvey.cdc.gov\nEpiInfoSecureWebSurveyNEW.cdc.gov\nGIS.cdc.gov\nMicrobeNet.cdc.gov\nNCHSData.cdc.gov\nOneMap.cdc.gov\nPHIL.cdc.gov\nSVI.cdc.gov\nWIPV-INFW-NET2.hce.cdc.gov\nWWWN.cdc.gov",
+    "id": 20719463006,
+    "entry_timestamp": "2025-09-01T08:40:57.331",
+    "not_before": "2024-10-08T13:05:08",
+    "not_after": "2025-10-07T13:05:06",
+    "serial_number": "0089dc586678c9172f490686e0729fe3fc",
+    "result_count": 18
+  },
+  {
+    "issuer_ca_id": 1586,
+    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
+    "common_name": "pva.cdc.gov",
+    "name_value": "pva.cdc.gov",
+    "id": 20716375498,
+    "entry_timestamp": "2025-09-01T05:32:42.126",
+    "not_before": "2024-10-08T13:10:05",
+    "not_after": "2025-10-14T13:10:03",
+    "serial_number": "7f5e99e05995e1d3c3a7dd7c13e14beb",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 1586,
     "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
     "common_name": "trust.cdc.gov",
@@ -1402,18 +1462,6 @@
     "not_after": "2025-11-13T12:46:57",
     "serial_number": "053c0722ccfa066eb5f44bbeab84d35bbd34",
     "result_count": 84
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "epiinfosecureWebSurvey.cdc.gov",
-    "name_value": "epiinfosecureWebSurvey.cdc.gov",
-    "id": 20345652721,
-    "entry_timestamp": "2025-08-15T08:27:07.449",
-    "not_before": "2024-08-28T12:37:03",
-    "not_after": "2025-09-01T12:37:02",
-    "serial_number": "27123bb004c0eb567f7ad51187e33b23",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 365075,
@@ -4138,78 +4186,6 @@
     "not_after": "2026-06-03T18:39:11",
     "serial_number": "6352f551e0b2a680010bd5783c61d20c",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "staging-stacks.cdc.gov",
-    "name_value": "staging-fdic.cdc.gov\nstaging-stacks.cdc.gov",
-    "id": 18791734612,
-    "entry_timestamp": "2025-06-03T18:12:15.844",
-    "not_before": "2025-06-03T17:13:41",
-    "not_after": "2025-09-01T17:13:40",
-    "serial_number": "060cb01da3894a499a93ccbefdd10bec7c08",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "staging-stacks.cdc.gov",
-    "name_value": "staging-fdic.cdc.gov\nstaging-stacks.cdc.gov",
-    "id": 18792856703,
-    "entry_timestamp": "2025-06-03T18:12:11.544",
-    "not_before": "2025-06-03T17:13:41",
-    "not_after": "2025-09-01T17:13:40",
-    "serial_number": "060cb01da3894a499a93ccbefdd10bec7c08",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "stacks.cdc.gov",
-    "name_value": "stacks.cdc.gov",
-    "id": 18791560545,
-    "entry_timestamp": "2025-06-03T17:54:33.25",
-    "not_before": "2025-06-03T16:56:02",
-    "not_after": "2025-09-01T16:56:01",
-    "serial_number": "067e5c6ea5593b3900c215e8049e190f3daa",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "stacks.cdc.gov",
-    "name_value": "stacks.cdc.gov",
-    "id": 18792605416,
-    "entry_timestamp": "2025-06-03T17:54:32.956",
-    "not_before": "2025-06-03T16:56:02",
-    "not_after": "2025-09-01T16:56:01",
-    "serial_number": "067e5c6ea5593b3900c215e8049e190f3daa",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "staging-stacks.cdc.gov",
-    "name_value": "staging-fdic.cdc.gov\nstaging-stacks.cdc.gov",
-    "id": 18791197274,
-    "entry_timestamp": "2025-06-03T17:11:44.171",
-    "not_before": "2025-06-03T16:13:07",
-    "not_after": "2025-09-01T16:13:06",
-    "serial_number": "06894b134883491af3102b5a7e2bd0e352a0",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "staging-stacks.cdc.gov",
-    "name_value": "staging-fdic.cdc.gov\nstaging-stacks.cdc.gov",
-    "id": 18791974936,
-    "entry_timestamp": "2025-06-03T17:11:37.977",
-    "not_before": "2025-06-03T16:13:07",
-    "not_after": "2025-09-01T16:13:06",
-    "serial_number": "06894b134883491af3102b5a7e2bd0e352a0",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 185756,
@@ -12405,18 +12381,6 @@
     "not_before": "2024-09-03T11:43:30",
     "not_after": "2025-09-08T11:43:29",
     "serial_number": "53abfe0c7d09f70ec13217f3c2217966",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "epiinfosecureWebSurvey.cdc.gov",
-    "name_value": "epiinfosecureWebSurvey.cdc.gov",
-    "id": 14333965714,
-    "entry_timestamp": "2024-08-28T12:37:04.142",
-    "not_before": "2024-08-28T12:37:03",
-    "not_after": "2025-09-01T12:37:02",
-    "serial_number": "27123bb004c0eb567f7ad51187e33b23",
     "result_count": 2
   },
   {
