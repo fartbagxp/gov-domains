@@ -30,7 +30,6 @@ jobs:
 
           # Executive Branch: Dept of Homeland Security
           dhs.gov,
-          census.gov,
           cisa.gov,
           data.gov,
           fema.gov,
@@ -52,7 +51,8 @@ jobs:
           gsa.gov,
           usa.gov,
           sam.gov,
-          dot.gov,
+
+          ## Executive Branch: Environmental Protection Agency
           epa.gov,
 
           # Executive Branch: Dept of State
@@ -92,8 +92,11 @@ jobs:
           veteranscrisisline.net,
 
           ## Executive Branch: White House
-          trumpcard.gov
-          whitehouse.gov
+
+          whitehouse.gov,
+          ndstudio.gov,
+          trumpcard.gov,
+          americabydesign.gov
         ]
       fail-fast: false # continue if any domain fails
       max-parallel: 1
