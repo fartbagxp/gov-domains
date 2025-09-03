@@ -1,5 +1,53 @@
 [
   {
+    "issuer_ca_id": 247115,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
+    "common_name": "dev.api.datahub.dol.gov",
+    "name_value": "dev.api.datahub.dol.gov",
+    "id": 20748664531,
+    "entry_timestamp": "2025-09-02T17:24:51.793",
+    "not_before": "2025-08-01T00:00:00",
+    "not_after": "2026-08-30T23:59:59",
+    "serial_number": "0b581de4495eb277baffb949c4ffdee6",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "dev.api.datahub.dol.gov",
+    "name_value": "dev.api.datahub.dol.gov",
+    "id": 20748650281,
+    "entry_timestamp": "2025-09-02T17:24:46.015",
+    "not_before": "2025-09-02T00:00:00",
+    "not_after": "2026-10-01T23:59:59",
+    "serial_number": "0f96edd60f9271178a4c628a854417d2",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "staging.api.datahub.dol.gov",
+    "name_value": "staging.api.datahub.dol.gov",
+    "id": 20748651061,
+    "entry_timestamp": "2025-09-02T17:24:20.167",
+    "not_before": "2025-08-27T00:00:00",
+    "not_after": "2026-09-25T23:59:59",
+    "serial_number": "0337b5072435e1a1291b2eab856994ee",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247115,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
+    "common_name": "staging.api.datahub.dol.gov",
+    "name_value": "staging.api.datahub.dol.gov",
+    "id": 20748649231,
+    "entry_timestamp": "2025-09-02T17:24:15.456",
+    "not_before": "2025-09-02T00:00:00",
+    "not_after": "2026-10-01T23:59:59",
+    "serial_number": "0c58306fd5f8afd0c00e43d2e5c40186",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247106,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
     "common_name": "test.api.datahub.dol.gov",
@@ -8062,41 +8110,5 @@
     "not_after": "2025-09-10T23:59:59",
     "serial_number": "05a8c2eb406b7a4402e821d19144d2e7",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "off.ncfms.dol.gov",
-    "name_value": "off.ncfms.dol.gov\nwww.off.ncfms.dol.gov",
-    "id": 13974236712,
-    "entry_timestamp": "2024-08-03T00:59:44.081",
-    "not_before": "2024-08-03T00:59:43",
-    "not_after": "2025-09-03T00:59:42",
-    "serial_number": "5b62d70fb573716a36cba4312bd2d4c6",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "ncfms.dol.gov",
-    "name_value": "ncfms.dol.gov\nwww.ncfms.dol.gov",
-    "id": 13974147893,
-    "entry_timestamp": "2024-08-03T00:46:14.42",
-    "not_before": "2024-08-03T00:46:14",
-    "not_after": "2025-09-03T00:46:13",
-    "serial_number": "1272328f3e498eb153e8a0bf91743973",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "off.ncfms.dol.gov",
-    "name_value": "off.ncfms.dol.gov\nwww.off.ncfms.dol.gov",
-    "id": 13974141043,
-    "entry_timestamp": "2024-08-03T00:45:07.275",
-    "not_before": "2024-08-03T00:45:07",
-    "not_after": "2025-09-03T00:45:05",
-    "serial_number": "149a87fd6217be23cffcd924e211fc0b",
-    "result_count": 3
   }
 ]
