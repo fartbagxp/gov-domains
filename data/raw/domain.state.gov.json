@@ -1,5 +1,65 @@
 [
   {
+    "issuer_ca_id": 1586,
+    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
+    "common_name": "jira-eca.state.gov",
+    "name_value": "jira-eca.state.gov",
+    "id": 20773466098,
+    "entry_timestamp": "2025-09-03T21:48:33.547",
+    "not_before": "2024-10-16T18:33:43",
+    "not_after": "2025-10-20T18:33:42",
+    "serial_number": "33e2c06d94837314b48c42a44cb30421",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295809,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
+    "common_name": "pal.foia.state.gov",
+    "name_value": "pal.foia.state.gov",
+    "id": 20767690666,
+    "entry_timestamp": "2025-09-03T13:38:47.128",
+    "not_before": "2025-09-03T12:40:16",
+    "not_after": "2025-12-02T12:40:15",
+    "serial_number": "05a7cf8d4ed4512d47a112907a0f3d2a4935",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295809,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
+    "common_name": "pal.foia.state.gov",
+    "name_value": "pal.foia.state.gov",
+    "id": 20771035759,
+    "entry_timestamp": "2025-09-03T13:38:46.859",
+    "not_before": "2025-09-03T12:40:16",
+    "not_after": "2025-12-02T12:40:15",
+    "serial_number": "05a7cf8d4ed4512d47a112907a0f3d2a4935",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "pal.foia.state.gov",
+    "name_value": "pal.foia.state.gov",
+    "id": 20766796486,
+    "entry_timestamp": "2025-09-03T13:38:37.986",
+    "not_before": "2025-09-03T12:40:07",
+    "not_after": "2025-12-02T12:40:06",
+    "serial_number": "05339e6bf0af45f9faf1de42323cd1548cf9",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "pal.foia.state.gov",
+    "name_value": "pal.foia.state.gov",
+    "id": 20766036172,
+    "entry_timestamp": "2025-09-03T13:38:37.759",
+    "not_before": "2025-09-03T12:40:07",
+    "not_after": "2025-12-02T12:40:06",
+    "serial_number": "05339e6bf0af45f9faf1de42323cd1548cf9",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "ecrba.c1-service-cloud.state.gov",
@@ -6422,18 +6482,6 @@
   {
     "issuer_ca_id": 239799,
     "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
-    "common_name": "bangkok.ilea.state.gov",
-    "name_value": "bangkok.ilea.state.gov",
-    "id": 20171236251,
-    "entry_timestamp": "2025-08-07T03:13:10.594",
-    "not_before": "2025-07-31T00:00:00",
-    "not_after": "2026-01-31T23:59:59",
-    "serial_number": "026ff0e3908fcf8a30f132c9452de078",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 239799,
-    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
     "common_name": "budapest.ilea.state.gov",
     "name_value": "budapest.ilea.state.gov",
     "id": 20171235900,
@@ -6441,6 +6489,18 @@
     "not_before": "2025-07-30T00:00:00",
     "not_after": "2026-01-30T23:59:59",
     "serial_number": "0b4fa613a3b724b17cfbb4b309739a8e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 239799,
+    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
+    "common_name": "bangkok.ilea.state.gov",
+    "name_value": "bangkok.ilea.state.gov",
+    "id": 20171236251,
+    "entry_timestamp": "2025-08-07T03:13:10.594",
+    "not_before": "2025-07-31T00:00:00",
+    "not_after": "2026-01-31T23:59:59",
+    "serial_number": "026ff0e3908fcf8a30f132c9452de078",
     "result_count": 2
   },
   {
@@ -15573,30 +15633,6 @@
     "not_before": "2025-06-06T00:00:00",
     "not_after": "2025-12-06T23:59:59",
     "serial_number": "06feaf9d76c7a52b7e2601762b745eba",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "adgsupport.state.gov",
-    "name_value": "adgsupport.state.gov",
-    "id": 18837453285,
-    "entry_timestamp": "2025-06-06T00:39:55.775",
-    "not_before": "2025-06-05T23:41:25",
-    "not_after": "2025-09-03T23:41:24",
-    "serial_number": "060400214f5d14de78007003b03ba68ea461",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "adgsupport.state.gov",
-    "name_value": "adgsupport.state.gov",
-    "id": 18837810764,
-    "entry_timestamp": "2025-06-06T00:39:55.571",
-    "not_before": "2025-06-05T23:41:25",
-    "not_after": "2025-09-03T23:41:24",
-    "serial_number": "060400214f5d14de78007003b03ba68ea461",
     "result_count": 2
   },
   {
