@@ -2,6 +2,30 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "*.avso.doi.gov",
+    "name_value": "*.avso.doi.gov",
+    "id": 20803474889,
+    "entry_timestamp": "2025-09-05T09:57:45.565",
+    "not_before": "2024-10-25T00:00:00",
+    "not_after": "2025-11-04T23:59:59",
+    "serial_number": "03e976638f2a167dc5202edf7511c2e6",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185748,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
+    "common_name": "*.ibc.doi.gov",
+    "name_value": "*.ibc.doi.gov",
+    "id": 20788340198,
+    "entry_timestamp": "2025-09-04T16:32:14.081",
+    "not_before": "2025-09-04T00:00:00",
+    "not_after": "2026-08-11T23:59:59",
+    "serial_number": "0e841f1785585cd36d746fc0007d73c2",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "*.doi.gov",
     "name_value": "*.doi.gov\ndoi.gov\nwww.doi.gov",
     "id": 20767805620,
@@ -1404,18 +1428,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 282054,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
-    "common_name": "ai.doi.gov",
-    "name_value": "*.ai.doi.gov\nai.doi.gov",
-    "id": 19120876926,
-    "entry_timestamp": "2025-06-19T18:04:47.01",
-    "not_before": "2025-06-19T17:54:45",
-    "not_after": "2025-09-04T16:02:04",
-    "serial_number": "7a188e8e60d22b38ba2b1318476de32a",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 295815,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
     "common_name": "doi-ocio-um-ecs-mgmt-funct.exm.doi.gov",
@@ -1438,18 +1450,6 @@
     "not_after": "2025-09-11T23:02:51",
     "serial_number": "05616ad01932a6aebb48e529e33f4fb4f894",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 282053,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
-    "common_name": "ai.doi.gov",
-    "name_value": "*.ai.doi.gov\nai.doi.gov",
-    "id": 19004452652,
-    "entry_timestamp": "2025-06-13T19:22:03.022",
-    "not_before": "2025-06-13T19:12:01",
-    "not_after": "2025-09-04T16:02:01",
-    "serial_number": "7b42997be8b7143313720eff557e2d1b",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 185752,
@@ -1510,30 +1510,6 @@
     "not_after": "2025-09-07T12:32:40",
     "serial_number": "05a2a87de565fb3133bef5cf4640b2cb0922",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "ai.doi.gov",
-    "name_value": "*.ai.doi.gov\nai.doi.gov",
-    "id": 18853383260,
-    "entry_timestamp": "2025-06-06T15:28:38.83",
-    "not_before": "2025-06-06T14:28:38",
-    "not_after": "2025-09-04T15:28:36",
-    "serial_number": "00984f9dc28ed8096d0d592e5901f3bcfa",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "ai.doi.gov",
-    "name_value": "*.ai.doi.gov\nai.doi.gov",
-    "id": 18853939741,
-    "entry_timestamp": "2025-06-06T15:28:31.349",
-    "not_before": "2025-06-06T14:28:30",
-    "not_after": "2025-09-04T15:26:08",
-    "serial_number": "194345e818c8dbe911bf063154bd1d81",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 185752,

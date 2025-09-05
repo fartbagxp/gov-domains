@@ -1,5 +1,77 @@
 [
   {
+    "issuer_ca_id": 62124,
+    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=Thawte TLS RSA CA G1",
+    "common_name": "cscvpn.camsic.commerce.gov",
+    "name_value": "cscvpn.camsic.commerce.gov",
+    "id": 20791708001,
+    "entry_timestamp": "2025-09-04T20:26:58.597",
+    "not_before": "2024-10-22T00:00:00",
+    "not_after": "2025-11-22T23:59:59",
+    "serial_number": "094ef40d896151b46a08800710cbf452",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 62123,
+    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
+    "common_name": "remoteappspiv.eas.commerce.gov",
+    "name_value": "remoteappspiv.eas.commerce.gov",
+    "id": 20770907725,
+    "entry_timestamp": "2025-09-03T19:55:11.02",
+    "not_before": "2025-09-03T00:00:00",
+    "not_after": "2026-09-02T23:59:59",
+    "serial_number": "034ed4666095c39d109ee6b37055ad4a",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "*.commerce.gov",
+    "name_value": "*.commerce.gov\n*.d.commerce.gov",
+    "id": 20768418019,
+    "entry_timestamp": "2025-09-03T17:11:47.651",
+    "not_before": "2025-09-03T00:00:00",
+    "not_after": "2026-04-15T23:59:59",
+    "serial_number": "0f511cacf3821db30101aa4d559dde00",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "*.commerce.gov",
+    "name_value": "*.commerce.gov\n*.d.commerce.gov",
+    "id": 20768368602,
+    "entry_timestamp": "2025-09-03T17:09:15.691",
+    "not_before": "2025-09-03T00:00:00",
+    "not_after": "2026-04-15T23:59:59",
+    "serial_number": "0b76abe25c217eb2804039e482e76eed",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 62123,
+    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
+    "common_name": "ets2prodnist.eas.commerce.gov",
+    "name_value": "ets2prodnist.eas.commerce.gov",
+    "id": 20766325461,
+    "entry_timestamp": "2025-09-03T13:57:34.447",
+    "not_before": "2025-09-03T00:00:00",
+    "not_after": "2026-09-02T23:59:59",
+    "serial_number": "0caf07cbdf307a2899337a0cc40d5f9f",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 62123,
+    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
+    "common_name": "ets2prodcensus.eas.commerce.gov",
+    "name_value": "ets2prodcensus.eas.commerce.gov",
+    "id": 20766311259,
+    "entry_timestamp": "2025-09-03T13:56:14.381",
+    "not_before": "2025-09-03T00:00:00",
+    "not_after": "2026-09-02T23:59:59",
+    "serial_number": "0c1600251ab61c7b0589b0de85ef7cc4",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 412165,
     "issuer_name": "C=BE, O=GlobalSign nv-sa, CN=GlobalSign GCC R6 AlphaSSL CA 2025",
     "common_name": "performance.commerce.gov",
@@ -346,30 +418,6 @@
     "not_after": "2026-04-15T23:59:59",
     "serial_number": "0f497f6d0b622c41ffce1dd49b5e80ca",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "search.usa.gov",
-    "name_value": "search.commerce.gov",
-    "id": 20115466402,
-    "entry_timestamp": "2025-08-04T16:55:42.839",
-    "not_before": "2025-08-04T15:57:12",
-    "not_after": "2025-11-02T15:57:11",
-    "serial_number": "06192f1142c906303f4c801eb5d9c49534ab",
-    "result_count": 1
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "search.usa.gov",
-    "name_value": "search.commerce.gov",
-    "id": 20115466938,
-    "entry_timestamp": "2025-08-04T16:55:42.611",
-    "not_before": "2025-08-04T15:57:12",
-    "not_after": "2025-11-02T15:57:11",
-    "serial_number": "06192f1142c906303f4c801eb5d9c49534ab",
-    "result_count": 1
   },
   {
     "issuer_ca_id": 185752,
@@ -792,30 +840,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "search.usa.gov",
-    "name_value": "search.commerce.gov",
-    "id": 19429053293,
-    "entry_timestamp": "2025-07-03T21:22:48.066",
-    "not_before": "2025-07-03T20:24:17",
-    "not_after": "2025-10-01T20:24:16",
-    "serial_number": "05b225294e9f8f052a55d3f77a2a36a752e4",
-    "result_count": 1
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "search.usa.gov",
-    "name_value": "search.commerce.gov",
-    "id": 19429052620,
-    "entry_timestamp": "2025-07-03T21:22:47.681",
-    "not_before": "2025-07-03T20:24:17",
-    "not_after": "2025-10-01T20:24:16",
-    "serial_number": "05b225294e9f8f052a55d3f77a2a36a752e4",
-    "result_count": 1
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "*.commerce.gov",
@@ -1054,42 +1078,6 @@
     "not_after": "2026-04-15T23:59:59",
     "serial_number": "046c6f77b31eb2f5abee755bc2f74335",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "commerce.gov",
-    "name_value": "*.beta.w1.space.commerce.gov\nbeta.w1.space.commerce.gov\n*.camsic.commerce.gov\n*.commerce.gov\ncommerce.gov\n*.connection.commerce.gov\n*.data.commerce.gov\n*.d.commerce.gov\n*.ea.commerce.gov\n*.eas.commerce.gov\n*.e-learning.commerce.gov\n*.hr.commerce.gov\n*.learn.commerce.gov\n*.learning.commerce.gov\nlogin.csc.eas.commerce.gov\n*.space.commerce.gov",
-    "id": 18835928054,
-    "entry_timestamp": "2025-06-05T23:09:42.577",
-    "not_before": "2025-06-05T21:02:49",
-    "not_after": "2025-09-03T22:02:41",
-    "serial_number": "71d50397f58a35a91189c1295e3ae1ea",
-    "result_count": 17
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "commerce.gov",
-    "name_value": "*.beta.w1.space.commerce.gov\nbeta.w1.space.commerce.gov\n*.camsic.commerce.gov\n*.commerce.gov\ncommerce.gov\n*.connection.commerce.gov\n*.data.commerce.gov\n*.d.commerce.gov\n*.ea.commerce.gov\n*.eas.commerce.gov\n*.e-learning.commerce.gov\n*.hr.commerce.gov\n*.learn.commerce.gov\n*.learning.commerce.gov\nlogin.csc.eas.commerce.gov\n*.space.commerce.gov",
-    "id": 18837031452,
-    "entry_timestamp": "2025-06-05T22:02:50.013",
-    "not_before": "2025-06-05T21:02:49",
-    "not_after": "2025-09-03T22:02:41",
-    "serial_number": "71d50397f58a35a91189c1295e3ae1ea",
-    "result_count": 17
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "commerce.gov",
-    "name_value": "*.beta.w1.space.commerce.gov\nbeta.w1.space.commerce.gov\n*.camsic.commerce.gov\n*.commerce.gov\ncommerce.gov\n*.connection.commerce.gov\n*.data.commerce.gov\n*.d.commerce.gov\n*.ea.commerce.gov\n*.eas.commerce.gov\n*.e-learning.commerce.gov\n*.hr.commerce.gov\n*.learn.commerce.gov\n*.learning.commerce.gov\nlogin.csc.eas.commerce.gov\n*.space.commerce.gov",
-    "id": 18837602284,
-    "entry_timestamp": "2025-06-05T22:02:35.136",
-    "not_before": "2025-06-05T21:02:34",
-    "not_after": "2025-09-03T21:59:47",
-    "serial_number": "00807b08a09df4d3070dcfa94557fd893e",
-    "result_count": 17
   },
   {
     "issuer_ca_id": 185752,
