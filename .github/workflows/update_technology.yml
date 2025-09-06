@@ -56,7 +56,7 @@ jobs:
 
       - name: Verify httpx installation
         run: |
-          $HOME/go/bin/httpx -version
+          "$HOME/go/bin/httpx" -version
 
       - name: Create tech directory
         run: |
@@ -66,14 +66,12 @@ jobs:
       - name: Process File - ${{ matrix.csv_file }}
         run: |
           csv_file="data/csv/${{ matrix.csv_file }}"
-          # Extract filename without extension
           filename=$(basename "$csv_file" .csv)
           output_file="data/tech/${filename}_httpx.txt"
 
           echo "Processing $csv_file..."
-
           # Skip header, extract domain column, and run httpx
-          < "$csv_file" tail -n +2 | cut -d ',' -f 1 | $HOME/go/bin/httpx -nc -title -tech-detect -status-code -csv | grep "200" > "$output_file" || true
+          < "$csv_file" tail -n +2 | cut -d ',' -f 1 | "$HOME/go/bin/httpx" -nc -title -tech-detect -status-code -csv | grep "200" > "$output_file" || true
 
           echo "Completed $csv_file. Results saved to $output_file"
 
