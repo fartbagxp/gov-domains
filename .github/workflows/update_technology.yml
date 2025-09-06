@@ -53,10 +53,10 @@ jobs:
       - name: Install httpx
         run: |
           go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
-          echo "$HOME/go/bin" >> "$GITHUB_PATH"
 
       - name: Verify httpx installation
-        run: httpx -version
+        run: |
+          $HOME/go/bin/httpx -version
 
       - name: Create tech directory
         run: |
