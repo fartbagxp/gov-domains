@@ -1,15 +1,75 @@
 [
   {
-    "issuer_ca_id": 405762,
-    "issuer_name": "C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2025 Q3",
-    "common_name": "imperva.com",
-    "name_value": "*.dol.gov",
-    "id": 20823693573,
-    "entry_timestamp": "2025-09-06T06:17:45.445",
-    "not_before": "2025-09-06T06:17:43",
-    "not_after": "2025-09-07T06:17:43",
-    "serial_number": "01081847fc25d03bfe4b91a8f8459bd9",
-    "result_count": 1
+    "issuer_ca_id": 1586,
+    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
+    "common_name": "webapps.dol.gov",
+    "name_value": "webapps.dol.gov\nwww.webapps.dol.gov",
+    "id": 20845906612,
+    "entry_timestamp": "2025-09-07T08:32:59.543",
+    "not_before": "2024-11-06T20:21:44",
+    "not_after": "2025-12-06T20:21:43",
+    "serial_number": "5175a2357c965abecf4807b1e7e9bf81",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 62148,
+    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust RSA CA 2018",
+    "common_name": "efast.dol.gov",
+    "name_value": "5500search.dol.gov\nefast.dol.gov\nendpoint.efast.dol.gov\nlte.endpoint.efast.dol.gov\nlte.www.efast.dol.gov\nwww.efast.dol.gov",
+    "id": 20843281395,
+    "entry_timestamp": "2025-09-07T05:16:43.915",
+    "not_before": "2024-11-06T00:00:00",
+    "not_after": "2025-11-05T23:59:59",
+    "serial_number": "061e0c74a91d9e9be6b3db90524f9a32",
+    "result_count": 7
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "beta.dol.gov",
+    "name_value": "beta.dol.gov",
+    "id": 20838597750,
+    "entry_timestamp": "2025-09-06T22:20:03.014",
+    "not_before": "2025-09-06T21:21:32",
+    "not_after": "2025-12-05T21:21:31",
+    "serial_number": "051d967278e1fad68bbee6997525243b89cc",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "beta.dol.gov",
+    "name_value": "beta.dol.gov",
+    "id": 20841183312,
+    "entry_timestamp": "2025-09-06T22:20:02.693",
+    "not_before": "2025-09-06T21:21:32",
+    "not_after": "2025-12-05T21:21:31",
+    "serial_number": "051d967278e1fad68bbee6997525243b89cc",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "edit.beta.dol.gov",
+    "name_value": "edit.beta.dol.gov",
+    "id": 20837722884,
+    "entry_timestamp": "2025-09-06T22:20:02.431",
+    "not_before": "2025-09-06T21:21:32",
+    "not_after": "2025-12-05T21:21:31",
+    "serial_number": "069f7cacb478ea1e7d6c45506aee46cbe442",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "edit.beta.dol.gov",
+    "name_value": "edit.beta.dol.gov",
+    "id": 20838101980,
+    "entry_timestamp": "2025-09-06T22:20:02.331",
+    "not_before": "2025-09-06T21:21:32",
+    "not_after": "2025-12-05T21:21:31",
+    "serial_number": "069f7cacb478ea1e7d6c45506aee46cbe442",
+    "result_count": 2
   },
   {
     "issuer_ca_id": 1586,
@@ -3453,30 +3513,6 @@
     "not_before": "2025-06-11T00:00:00",
     "not_after": "2026-07-10T23:59:59",
     "serial_number": "0dab72ec1acbca4d44f3d00ff0eecb62",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295819,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E6",
-    "common_name": "cmgpilot.dol.gov",
-    "name_value": "cmgpilot.dol.gov",
-    "id": 18899607343,
-    "entry_timestamp": "2025-06-08T23:25:08.47",
-    "not_before": "2025-06-08T22:26:36",
-    "not_after": "2025-09-06T22:26:35",
-    "serial_number": "0687ec6a4a5b8fd943486fe2b4d09d365ddf",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295819,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E6",
-    "common_name": "cmgpilot.dol.gov",
-    "name_value": "cmgpilot.dol.gov",
-    "id": 18899605222,
-    "entry_timestamp": "2025-06-08T23:25:06.338",
-    "not_before": "2025-06-08T22:26:36",
-    "not_after": "2025-09-06T22:26:35",
-    "serial_number": "0687ec6a4a5b8fd943486fe2b4d09d365ddf",
     "result_count": 2
   },
   {

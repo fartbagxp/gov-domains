@@ -1,5 +1,41 @@
 [
   {
+    "issuer_ca_id": 1586,
+    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
+    "common_name": "eocgis.cdc.gov",
+    "name_value": "cdcshare.cdc.gov\neocgis.cdc.gov",
+    "id": 20839917909,
+    "entry_timestamp": "2025-09-07T01:05:27.299",
+    "not_before": "2024-11-04T16:14:10",
+    "not_after": "2025-11-04T16:14:09",
+    "serial_number": "12ffe78d6e9c1396320d6ecc6786d4ad",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 1586,
+    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
+    "common_name": "amd-tower-dev.cdc.gov",
+    "name_value": "amd-tower-dev.cdc.gov",
+    "id": 20839748645,
+    "entry_timestamp": "2025-09-07T00:53:44.949",
+    "not_before": "2024-11-01T18:30:15",
+    "not_after": "2025-11-01T18:30:14",
+    "serial_number": "00aa88fa7645379e9c870a27af09d7e6f9",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 1586,
+    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
+    "common_name": "webdev.techlab.cdc.gov",
+    "name_value": "webdev.techlab.cdc.gov",
+    "id": 20826982404,
+    "entry_timestamp": "2025-09-06T11:24:40.376",
+    "not_before": "2024-10-30T14:29:46",
+    "not_after": "2025-10-29T14:29:44",
+    "serial_number": "00a23d2c09d3f93dd3e56f30ed456b3f6b",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 239799,
     "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
     "common_name": "stg-pulsenet-usa.cdc.gov",
@@ -17,7 +53,7 @@
     "common_name": "vetoviolence.cdc.gov",
     "name_value": "vetoviolence.cdc.gov",
     "id": 20813877719,
-    "entry_timestamp": "2025-09-05T21:38:35.151",
+    "entry_timestamp": "2025-09-05T21:38:29.419",
     "not_before": "2025-09-05T20:39:59",
     "not_after": "2025-12-04T20:39:58",
     "serial_number": "065c43d425833cb1c61761f3a6871ec20a16",
@@ -12429,54 +12465,6 @@
     "not_before": "2024-09-10T14:14:07",
     "not_after": "2025-09-09T14:14:06",
     "serial_number": "3a51b2d6ab48c43aa9ac6d1a56899b19",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "pulsenet-usa.cdc.gov",
-    "name_value": "pulsenet-api-usa.cdc.gov\npulsenet-usa.cdc.gov",
-    "id": 14452401170,
-    "entry_timestamp": "2024-09-06T15:19:45.664",
-    "not_before": "2024-09-06T15:19:45",
-    "not_after": "2025-09-06T15:19:44",
-    "serial_number": "31698f1d8577df5cd271685cb60e9425",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "pulsenet-usa.cdc.gov",
-    "name_value": "pulsenet-usa.cdc.gov",
-    "id": 14451671886,
-    "entry_timestamp": "2024-09-06T13:59:08.11",
-    "not_before": "2024-09-06T13:59:07",
-    "not_after": "2025-09-06T13:59:06",
-    "serial_number": "5c241d3e232924f559f3edbd22345c88",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "dccfiles.cdc.gov",
-    "name_value": "dccdbarchive.cdc.gov\ndccdbckup.cdc.gov\ndccfiles.cdc.gov\ndccsasarchive.cdc.gov",
-    "id": 14451671885,
-    "entry_timestamp": "2024-09-06T13:59:07.927",
-    "not_before": "2024-09-06T13:59:07",
-    "not_after": "2025-09-06T13:59:06",
-    "serial_number": "13c19004995dfa7079256cd78e49c55a",
-    "result_count": 5
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "pulsenet-api-usa.cdc.gov",
-    "name_value": "pulsenet-api-usa.cdc.gov",
-    "id": 14451671884,
-    "entry_timestamp": "2024-09-06T13:59:07.423",
-    "not_before": "2024-09-06T13:59:07",
-    "not_after": "2025-09-06T13:59:06",
-    "serial_number": "60496d77da8ed2a5e90dfbfb625a19c7",
     "result_count": 2
   },
   {
