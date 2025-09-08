@@ -1,5 +1,53 @@
 [
   {
+    "issuer_ca_id": 365075,
+    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
+    "common_name": "sdt.irs.gov",
+    "name_value": "sdt-a.irs.gov\nsdt-b.irs.gov\nsdt.irs.gov\nwww.sdt.irs.gov",
+    "id": 20863868331,
+    "entry_timestamp": "2025-09-08T03:38:13.78",
+    "not_before": "2024-11-21T14:50:53",
+    "not_after": "2025-11-21T14:52:59",
+    "serial_number": "1a4d7beaa9efbb8de26c886198f28b1b",
+    "result_count": 5
+  },
+  {
+    "issuer_ca_id": 365075,
+    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
+    "common_name": "freetaxassistance.for.irs.gov",
+    "name_value": "freetaxassistance.for.irs.gov\nwww.freetaxassistance.for.irs.gov",
+    "id": 20854738023,
+    "entry_timestamp": "2025-09-07T18:52:12.432",
+    "not_before": "2024-11-15T17:25:32",
+    "not_after": "2025-11-15T17:28:32",
+    "serial_number": "760de5c2bfded60a2b77e2a07ec2ccd2",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 365075,
+    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
+    "common_name": "slft.for.irs.gov",
+    "name_value": "slft-east1.for.irs.gov\nslft.for.irs.gov\nslft-west1.for.irs.gov\nwww.slft.for.irs.gov",
+    "id": 20853581753,
+    "entry_timestamp": "2025-09-07T17:35:25.067",
+    "not_before": "2024-11-13T19:06:20",
+    "not_after": "2025-11-13T19:08:46",
+    "serial_number": "2c1b8a08798afdf5d0d70a262decc455",
+    "result_count": 5
+  },
+  {
+    "issuer_ca_id": 365075,
+    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
+    "common_name": "slft-dev-east1.for.irs.gov",
+    "name_value": "slft-dev-east1.for.irs.gov\nwww.slft-dev-east1.for.irs.gov",
+    "id": 20851663070,
+    "entry_timestamp": "2025-09-07T15:28:38.791",
+    "not_before": "2024-11-13T19:00:14",
+    "not_after": "2025-11-13T19:04:39",
+    "serial_number": "085df496498c438cc21bd327b657a195",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 1586,
     "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
     "common_name": "dev.taxpayeradvocate.irs.gov",
@@ -1836,54 +1884,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "www.irs.gov",
-    "name_value": "apps.irs.gov\nefile.irs.gov\neitc.irs.gov\nforms.irs.gov\nfreefile.irs.gov\nidverify.irs.gov\nsearch.irs.gov\nservices.irs.gov\nstayexempt.irs.gov\nwww.eitc.irs.gov\nwww.idverify.irs.gov\nwww.irs.gov\nwww.stayexempt.irs.gov",
-    "id": 18934467151,
-    "entry_timestamp": "2025-06-10T11:35:36.649",
-    "not_before": "2025-06-10T10:37:06",
-    "not_after": "2025-09-08T10:37:05",
-    "serial_number": "06c72dad3269924a7385c0a75f250fce3ec6",
-    "result_count": 14
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "www.irs.gov",
-    "name_value": "apps.irs.gov\nefile.irs.gov\neitc.irs.gov\nforms.irs.gov\nfreefile.irs.gov\nidverify.irs.gov\nsearch.irs.gov\nservices.irs.gov\nstayexempt.irs.gov\nwww.eitc.irs.gov\nwww.idverify.irs.gov\nwww.irs.gov\nwww.stayexempt.irs.gov",
-    "id": 18934466277,
-    "entry_timestamp": "2025-06-10T11:35:36.319",
-    "not_before": "2025-06-10T10:37:06",
-    "not_after": "2025-09-08T10:37:05",
-    "serial_number": "06c72dad3269924a7385c0a75f250fce3ec6",
-    "result_count": 14
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "employee-verification.irs.gov",
-    "name_value": "employee-verification.irs.gov\nstb-employee-verification.irs.gov",
-    "id": 18915917160,
-    "entry_timestamp": "2025-06-09T15:46:10.459",
-    "not_before": "2025-06-09T14:47:39",
-    "not_after": "2025-09-07T14:47:38",
-    "serial_number": "05b744946350d9afae9ce574a1bd2c03e199",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "employee-verification.irs.gov",
-    "name_value": "employee-verification.irs.gov\nstb-employee-verification.irs.gov",
-    "id": 18915917373,
-    "entry_timestamp": "2025-06-09T15:46:10.127",
-    "not_before": "2025-06-09T14:47:39",
-    "not_after": "2025-09-07T14:47:38",
-    "serial_number": "05b744946350d9afae9ce574a1bd2c03e199",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 185756,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
     "common_name": "test.connect-a.for.irs.gov",
@@ -3226,17 +3226,5 @@
     "not_after": "2025-09-12T16:17:09",
     "serial_number": "3f73231b09fae9527e7e44063b20f5dc",
     "result_count": 57
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "ecmdas.public.irs.gov",
-    "name_value": "ecmdas.public.irs.gov\nwww.ecmdas.public.irs.gov",
-    "id": 14065709732,
-    "entry_timestamp": "2024-08-09T19:25:10.9",
-    "not_before": "2024-08-09T19:25:10",
-    "not_after": "2025-09-07T19:25:09",
-    "serial_number": "67745f8f81f97c60be7082128490677e",
-    "result_count": 3
   }
 ]

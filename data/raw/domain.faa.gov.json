@@ -1,5 +1,77 @@
 [
   {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "hello-world.rdoe.faa.gov",
+    "name_value": "hello-world.rdoe.faa.gov",
+    "id": 20860280845,
+    "entry_timestamp": "2025-09-08T00:08:18.527",
+    "not_before": "2025-09-08T00:00:00",
+    "not_after": "2026-10-07T23:59:59",
+    "serial_number": "0ab028650a47d80df2a95e5c84dda518",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 62123,
+    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
+    "common_name": "notamsuat.aim.faa.gov",
+    "name_value": "notamsuat.aim.faa.gov",
+    "id": 20858053620,
+    "entry_timestamp": "2025-09-07T22:05:42.938",
+    "not_before": "2024-11-19T00:00:00",
+    "not_after": "2025-11-18T23:59:59",
+    "serial_number": "0f4fce5e8af25c65d5eaf05782d93de7",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "relay4.faa.gov",
+    "name_value": "relay4.faa.gov",
+    "id": 20855774528,
+    "entry_timestamp": "2025-09-07T19:58:38.272",
+    "not_before": "2024-11-18T00:00:00",
+    "not_after": "2025-12-16T23:59:59",
+    "serial_number": "056388d1d608b1046650632b46d36c98",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "sso.ciam-rd.myaccess.faa.gov",
+    "name_value": "sso.ciam-rd.myaccess.faa.gov",
+    "id": 20852263789,
+    "entry_timestamp": "2025-09-07T16:08:19.044",
+    "not_before": "2024-11-14T00:00:00",
+    "not_after": "2025-11-13T23:59:59",
+    "serial_number": "04c0d12e3c122e8b2b475d443af368dd",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "aspire.faa.gov",
+    "name_value": "aspire.faa.gov",
+    "id": 20849849599,
+    "entry_timestamp": "2025-09-07T13:24:38.517",
+    "not_before": "2024-11-13T00:00:00",
+    "not_after": "2025-11-20T23:59:59",
+    "serial_number": "069a8c528215cb064c5c489fa5ae8212",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "uas-support.faa.gov",
+    "name_value": "uas-support.faa.gov",
+    "id": 20840459637,
+    "entry_timestamp": "2025-09-07T01:45:31.975",
+    "not_before": "2024-11-04T00:00:00",
+    "not_after": "2025-11-13T23:59:59",
+    "serial_number": "0cd749379d421bdcb4f7d05d56892265",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "oaps.faa.gov",
@@ -17,7 +89,7 @@
     "common_name": "adfs.faa.gov",
     "name_value": "adfs.faa.gov\ncertauth.adfs.faa.gov\nenterpriseregistration.faa.gov",
     "id": 20819572706,
-    "entry_timestamp": "2025-09-06T03:46:48.164",
+    "entry_timestamp": "2025-09-06T03:46:46.28",
     "not_before": "2024-10-29T00:00:00",
     "not_after": "2025-11-12T23:59:59",
     "serial_number": "08a326356c81102d2f61c8665eb7a920",
@@ -31077,30 +31149,6 @@
     "not_before": "2024-08-12T00:00:00",
     "not_after": "2025-09-08T23:59:59",
     "serial_number": "0c9c6d6815b698df26937b1a3853c553",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "fimc-rra.rdoe.faa.gov",
-    "name_value": "fimc-rra.rdoe.faa.gov",
-    "id": 14065523611,
-    "entry_timestamp": "2024-08-09T19:08:26.61",
-    "not_before": "2024-08-09T00:00:00",
-    "not_after": "2025-09-07T23:59:59",
-    "serial_number": "0507343f4a98397c7470650146adf448",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "bmx.faa.gov",
-    "name_value": "bmx.faa.gov",
-    "id": 14033615509,
-    "entry_timestamp": "2024-08-07T14:21:22.962",
-    "not_before": "2024-08-07T00:00:00",
-    "not_after": "2025-09-07T23:59:59",
-    "serial_number": "08aa1d6c8d985b373c9789cbd6e50352",
     "result_count": 2
   }
 ]

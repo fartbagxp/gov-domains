@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 185756,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
+    "common_name": "www.homelandsecurity.gov",
+    "name_value": "locator.ice.gov\nmedpar.ice.gov\nportal.ice.gov\nrhportal.ice.gov",
+    "id": 20863775428,
+    "entry_timestamp": "2025-09-08T03:32:10.963",
+    "not_before": "2024-11-21T00:00:00",
+    "not_after": "2025-11-19T23:59:59",
+    "serial_number": "0a14aad8b4fc76f1ed5046d775fcddf3",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "sevis.ice.gov",
+    "name_value": "egov.ice.gov\nsevis.ice.gov\nwww.sevis.ice.gov",
+    "id": 20853106927,
+    "entry_timestamp": "2025-09-07T17:03:29.386",
+    "not_before": "2024-11-14T00:00:00",
+    "not_after": "2025-12-15T23:59:59",
+    "serial_number": "05e7c271f95928011af8e5c0f6afcf6f",
+    "result_count": 4
+  },
+  {
     "issuer_ca_id": 185748,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
     "common_name": "www3.dhs.gov",
@@ -262,18 +286,6 @@
     "not_after": "2025-09-23T23:59:59",
     "serial_number": "0faaca1e960798f1e871c131dadb7204",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "eservice.ice.gov",
-    "name_value": "eservice.ice.gov\neserviceportal.ice.gov\neserviceregistration.ice.gov",
-    "id": 20323411269,
-    "entry_timestamp": "2025-08-14T06:52:34.203",
-    "not_before": "2024-08-23T00:00:00",
-    "not_after": "2025-09-07T23:59:59",
-    "serial_number": "068e3cdb637f053c0e9747212c070fa4",
-    "result_count": 4
   },
   {
     "issuer_ca_id": 185748,
@@ -1870,17 +1882,5 @@
     "not_after": "2025-09-23T23:59:59",
     "serial_number": "09f532d68a0e69b142185c55c53cca66",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "eservice.ice.gov",
-    "name_value": "eservice.ice.gov\neserviceportal.ice.gov\neserviceregistration.ice.gov",
-    "id": 14258303051,
-    "entry_timestamp": "2024-08-23T19:47:17.701",
-    "not_before": "2024-08-23T00:00:00",
-    "not_after": "2025-09-07T23:59:59",
-    "serial_number": "068e3cdb637f053c0e9747212c070fa4",
-    "result_count": 4
   }
 ]
