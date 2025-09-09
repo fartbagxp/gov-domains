@@ -1,5 +1,41 @@
 [
   {
+    "issuer_ca_id": 365075,
+    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
+    "common_name": "upstream.acf.gov",
+    "name_value": "upstream.acf.gov",
+    "id": 20894703166,
+    "entry_timestamp": "2025-09-09T10:11:52.55",
+    "not_before": "2024-12-17T16:34:19",
+    "not_after": "2025-12-19T12:51:03",
+    "serial_number": "70cd97e59a4ed6781c2094b7fedbebc4",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "login-sbx.acf.gov",
+    "name_value": "login-sbx.acf.gov",
+    "id": 20883212589,
+    "entry_timestamp": "2025-09-08T22:01:31.882",
+    "not_before": "2025-09-08T21:02:59",
+    "not_after": "2025-12-07T21:02:58",
+    "serial_number": "05b83d0c4fa46c534a5e7b3caeee9bd8cd6b",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "login-sbx.acf.gov",
+    "name_value": "login-sbx.acf.gov",
+    "id": 20883211320,
+    "entry_timestamp": "2025-09-08T22:01:29.703",
+    "not_before": "2025-09-08T21:02:59",
+    "not_after": "2025-12-07T21:02:58",
+    "serial_number": "05b83d0c4fa46c534a5e7b3caeee9bd8cd6b",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247115,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
     "common_name": "filecloud.acf.gov",
@@ -1152,18 +1188,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "nct.acf.gov",
-    "name_value": "nct.acf.gov",
-    "id": 19291872477,
-    "entry_timestamp": "2025-06-27T17:51:04.965",
-    "not_before": "2025-06-27T00:00:00",
-    "not_after": "2026-07-26T23:59:59",
-    "serial_number": "0a0c817bd159167eeff64ff1ebebb6cb",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "www.nct.acf.gov",
@@ -1173,6 +1197,18 @@
     "not_before": "2025-06-27T00:00:00",
     "not_after": "2026-07-26T23:59:59",
     "serial_number": "057aebe42a0a0ba98e124c29f1f74344",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247106,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
+    "common_name": "nct.acf.gov",
+    "name_value": "nct.acf.gov",
+    "id": 19291872477,
+    "entry_timestamp": "2025-06-27T17:51:04.965",
+    "not_before": "2025-06-27T00:00:00",
+    "not_after": "2026-07-26T23:59:59",
+    "serial_number": "0a0c817bd159167eeff64ff1ebebb6cb",
     "result_count": 2
   },
   {
@@ -1618,30 +1654,6 @@
     "not_after": "2026-05-29T23:59:59",
     "serial_number": "0097087db7a48476f58499202efb07572b",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "acf.gov",
-    "name_value": "acf.gov\nwww.acf.gov",
-    "id": 18939848868,
-    "entry_timestamp": "2025-06-10T17:48:17.504",
-    "not_before": "2025-06-10T00:00:00",
-    "not_after": "2025-09-08T23:59:59",
-    "serial_number": "446dab283b716be238d9fba13cda4e2c",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "acf.gov",
-    "name_value": "acf.gov\nwww.acf.gov",
-    "id": 18939855739,
-    "entry_timestamp": "2025-06-10T17:48:16.163",
-    "not_before": "2025-06-10T00:00:00",
-    "not_after": "2025-09-08T23:59:59",
-    "serial_number": "446dab283b716be238d9fba13cda4e2c",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 365075,

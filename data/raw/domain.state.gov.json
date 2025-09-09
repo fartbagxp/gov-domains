@@ -1,5 +1,77 @@
 [
   {
+    "issuer_ca_id": 365075,
+    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
+    "common_name": "ecaapi-nonprod.state.gov",
+    "name_value": "ecaapi-nonprod.state.gov",
+    "id": 20884925053,
+    "entry_timestamp": "2025-09-08T23:44:03.378",
+    "not_before": "2024-12-06T17:54:40",
+    "not_after": "2025-12-06T18:03:53",
+    "serial_number": "0301172b45f43a0beeed7e4b6939e664",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "csm.state.gov",
+    "name_value": "AOPRALS.state.gov\ncsm.state.gov",
+    "id": 20880889804,
+    "entry_timestamp": "2025-09-08T19:31:49.847",
+    "not_before": "2024-12-04T00:00:00",
+    "not_after": "2025-09-21T23:59:59",
+    "serial_number": "0f3bb7ba6cf8c2f7d8377ac2b223ac10",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "mail.state.gov",
+    "name_value": "ALT1-bimc.state.gov\nALT1-ew.state.gov\nALT2-bimc.state.gov\nALT2-ew.state.gov\nALT3-bimc.state.gov\nALT3-ew.state.gov\nALT4-bimc.state.gov\nALT4-ew.state.gov\nALT5-bimc.state.gov\nALT5-ew.state.gov\nALT6-bimc.state.gov\nALT6-ew.state.gov\nAUTODISCOVERDR.STATE.GOV\nAUTODISCOVER.STATE.GOV\nHybrid1-bimc.state.gov\nHybrid1-ew.state.gov\nHybrid2-bimc.state.gov\nHybrid2-ew.state.gov\nHybrid3-bimc.state.gov\nHybrid3-ew.state.gov\nHybrid4-bimc.state.gov\nHybrid4-ew.state.gov\nHybrid5-bimc.state.gov\nHybrid5-ew.state.gov\nHybrid6-bimc.state.gov\nHybrid6-ew.state.gov\nHYBRIDDR.STATE.GOV\nHYBRID.STATE.GOV\nMAILDR-INT.STATE.GOV\nMAILDR.STATE.GOV\nMAIL-INT.STATE.GOV\nmail.state.gov\nOOSDR.STATE.GOV\nOOS.STATE.GOV\nOWADR.STATE.GOV\nOWA.STATE.GOV\nSMTPDR.STATE.GOV\nSMTP.STATE.GOV",
+    "id": 20879117056,
+    "entry_timestamp": "2025-09-08T17:37:27.665",
+    "not_before": "2025-09-08T00:00:00",
+    "not_after": "2026-10-09T23:59:59",
+    "serial_number": "02669b0a1967dd2b8bc4e61a9d5be437",
+    "result_count": 39
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "manila-ch-vg1.state.gov",
+    "name_value": "manila-ch-vg1.state.gov\nmanila-ch-vg2.state.gov",
+    "id": 20879116832,
+    "entry_timestamp": "2025-09-08T17:37:27.468",
+    "not_before": "2025-09-08T00:00:00",
+    "not_after": "2026-09-08T23:59:59",
+    "serial_number": "015150eb4f4d19446753c1f2ed9980c8",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "gopiv.state.gov",
+    "name_value": "EEGOPIVOGR.STATE.GOV\nEEGOPIV.STATE.GOV\nEWGOPIVOGR.STATE.GOV\nEWGOPIV.STATE.GOV\ngopiv.state.gov",
+    "id": 20879115330,
+    "entry_timestamp": "2025-09-08T17:36:41.95",
+    "not_before": "2024-12-04T00:00:00",
+    "not_after": "2026-01-04T23:59:59",
+    "serial_number": "0255be865b228fd1352482a2e9916850",
+    "result_count": 6
+  },
+  {
+    "issuer_ca_id": 152826,
+    "issuer_name": "C=US, O=IdenTrust, OU=TrustID Server, CN=TrustID Server CA O1",
+    "common_name": "preproddcastemp.state.gov",
+    "name_value": "preproddcastemp.state.gov",
+    "id": 20878396576,
+    "entry_timestamp": "2025-09-08T16:52:45.924",
+    "not_before": "2025-09-08T16:52:45",
+    "not_after": "2026-09-30T16:51:45",
+    "serial_number": "4001992a3e89ea1a5cc4ca447390581d",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "caauthservice.state.gov",
@@ -6842,18 +6914,6 @@
   {
     "issuer_ca_id": 239799,
     "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
-    "common_name": "bangkok.ilea.state.gov",
-    "name_value": "bangkok.ilea.state.gov",
-    "id": 20171236251,
-    "entry_timestamp": "2025-08-07T03:13:10.594",
-    "not_before": "2025-07-31T00:00:00",
-    "not_after": "2026-01-31T23:59:59",
-    "serial_number": "026ff0e3908fcf8a30f132c9452de078",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 239799,
-    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
     "common_name": "budapest.ilea.state.gov",
     "name_value": "budapest.ilea.state.gov",
     "id": 20171235900,
@@ -6861,6 +6921,18 @@
     "not_before": "2025-07-30T00:00:00",
     "not_after": "2026-01-30T23:59:59",
     "serial_number": "0b4fa613a3b724b17cfbb4b309739a8e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 239799,
+    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
+    "common_name": "bangkok.ilea.state.gov",
+    "name_value": "bangkok.ilea.state.gov",
+    "id": 20171236251,
+    "entry_timestamp": "2025-08-07T03:13:10.594",
+    "not_before": "2025-07-31T00:00:00",
+    "not_after": "2026-01-31T23:59:59",
+    "serial_number": "026ff0e3908fcf8a30f132c9452de078",
     "result_count": 2
   },
   {
@@ -15489,54 +15561,6 @@
     "not_before": "2025-06-11T00:00:00",
     "not_after": "2025-12-11T23:59:59",
     "serial_number": "0d0783e8a1dc9c6024014944833772c4",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295819,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E6",
-    "common_name": "hx-bimc-vcenter.ucn.state.gov",
-    "name_value": "hx-bimc-vcenter.ucn.state.gov",
-    "id": 18941982674,
-    "entry_timestamp": "2025-06-10T20:14:25.158",
-    "not_before": "2025-06-10T19:15:50",
-    "not_after": "2025-09-08T19:15:49",
-    "serial_number": "06409b512140ef3d86aaaedcf6ee5e8b0b9f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295819,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E6",
-    "common_name": "hx-bimc-vcenter.ucn.state.gov",
-    "name_value": "hx-bimc-vcenter.ucn.state.gov",
-    "id": 18941982385,
-    "entry_timestamp": "2025-06-10T20:14:20.951",
-    "not_before": "2025-06-10T19:15:50",
-    "not_after": "2025-09-08T19:15:49",
-    "serial_number": "06409b512140ef3d86aaaedcf6ee5e8b0b9f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "hx-bimc-vcenter.ucn.state.gov",
-    "name_value": "hx-bimc-vcenter.ucn.state.gov",
-    "id": 18941981165,
-    "entry_timestamp": "2025-06-10T20:14:17.793",
-    "not_before": "2025-06-10T19:15:47",
-    "not_after": "2025-09-08T19:15:46",
-    "serial_number": "069d7afe013788137b6a9821cd0686fc76cb",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "hx-bimc-vcenter.ucn.state.gov",
-    "name_value": "hx-bimc-vcenter.ucn.state.gov",
-    "id": 18941980391,
-    "entry_timestamp": "2025-06-10T20:14:17.541",
-    "not_before": "2025-06-10T19:15:47",
-    "not_after": "2025-09-08T19:15:46",
-    "serial_number": "069d7afe013788137b6a9821cd0686fc76cb",
     "result_count": 2
   },
   {
