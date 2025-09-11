@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 247115,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
+    "common_name": "app2-elb.dev.healthcare.gov",
+    "name_value": "app2-elb.dev.healthcare.gov",
+    "id": 20912661931,
+    "entry_timestamp": "2025-09-10T03:26:39.36",
+    "not_before": "2025-09-10T00:00:00",
+    "not_after": "2026-10-09T23:59:59",
+    "serial_number": "0aca270ffbabfb9f08ebb1755b06a569",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "adobe-ep.healthcare.gov",
+    "name_value": "adobe-ep.healthcare.gov",
+    "id": 20907758366,
+    "entry_timestamp": "2025-09-09T22:21:29.052",
+    "not_before": "2024-12-29T00:00:00",
+    "not_after": "2026-01-29T23:59:59",
+    "serial_number": "0e3136d73a40b021d95cbc8835abc9d0",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 295816,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "test2.healthcare.gov",
@@ -17,7 +41,7 @@
     "common_name": "test2.healthcare.gov",
     "name_value": "dev.marketplace.api.healthcare.gov\ndev.marketplace-int.api.healthcare.gov\ndev-t.healthcare.gov\nimp1a.marketplace.api.healthcare.gov\nimp1b.marketplace.api.healthcare.gov\nimp.geo.api.healthcare.gov\nimpl0.dsrs.api.healthcare.gov\nimpl1a.mcr.api.healthcare.gov\nimpl1b.dsrs.api.healthcare.gov\nimpl1b.mcr.api.healthcare.gov\nimpl2b.ses.api.healthcare.gov\nimpl2.mcr.api.healthcare.gov\nimpl.mcr.api.healthcare.gov\nimp.marketplace.api.healthcare.gov\nimp.marketplace-int.api.healthcare.gov\nimp-t.healthcare.gov\nprod-t.healthcare.gov\nratereview.dev.healthcare.gov\nratereview.imp.healthcare.gov\nratereview.test.healthcare.gov\ntest0.dsrs.api.healthcare.gov\ntest0.mcr.api.healthcare.gov\ntest1.mcr.api.healthcare.gov\ntest2.healthcare.gov\ntest2.mcr.api.healthcare.gov\ntest3.mcr.api.healthcare.gov\ntest.aca.api.healthcare.gov\ntest.geo.api.healthcare.gov\ntest.marketplace.api.healthcare.gov\ntest.marketplace-int.api.healthcare.gov\ntest.mcr.api.healthcare.gov\ntestpe1.mcr.api.healthcare.gov\ntestpe.dsrs.api.healthcare.gov\ntestpe.mcr.api.healthcare.gov\ntest-t.healthcare.gov",
     "id": 20880761465,
-    "entry_timestamp": "2025-09-08T19:24:12.87",
+    "entry_timestamp": "2025-09-08T19:24:12.869",
     "not_before": "2025-09-08T18:25:42",
     "not_after": "2025-12-07T18:25:41",
     "serial_number": "0538b09578eb0512dc5f024e893b707b7f49",
@@ -706,18 +730,6 @@
     "not_after": "2026-07-25T23:59:59",
     "serial_number": "07b48274f3d7d28929b7882cee57762c",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "api.healthcare.gov",
-    "name_value": "api.healthcare.gov\nies.api.healthcare.gov\nmcr.api.healthcare.gov",
-    "id": 19228688767,
-    "entry_timestamp": "2025-06-24T16:57:47.894",
-    "not_before": "2024-09-10T00:00:00",
-    "not_after": "2025-09-10T23:59:59",
-    "serial_number": "0124f9eda767e18c80e10461e6251d09",
-    "result_count": 4
   },
   {
     "issuer_ca_id": 62123,
@@ -2098,30 +2110,6 @@
     "not_after": "2025-10-10T23:59:59",
     "serial_number": "03c7b2adc071b4feb92ff70130e43c1f",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "api.healthcare.gov",
-    "name_value": "api.healthcare.gov\nies.api.healthcare.gov\nmcr.api.healthcare.gov",
-    "id": 14502796271,
-    "entry_timestamp": "2024-09-10T16:35:07.108",
-    "not_before": "2024-09-10T00:00:00",
-    "not_after": "2025-09-10T23:59:59",
-    "serial_number": "0124f9eda767e18c80e10461e6251d09",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "api.healthcare.gov",
-    "name_value": "api.healthcare.gov\nies.api.healthcare.gov\nmcr.api.healthcare.gov",
-    "id": 14502783864,
-    "entry_timestamp": "2024-09-10T16:33:44.673",
-    "not_before": "2024-09-10T00:00:00",
-    "not_after": "2025-09-09T23:59:59",
-    "serial_number": "0ed08f7d398d50b92e682c724f051a62",
-    "result_count": 4
   },
   {
     "issuer_ca_id": 247106,

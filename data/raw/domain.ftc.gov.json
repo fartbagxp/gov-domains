@@ -180,18 +180,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "hq-mgtexpe-s1.ftc.gov",
-    "name_value": "cc-mgtexpe-s1.ftc.gov\nftc.gov\nhq-mgtexpe-s1.ftc.gov\nmgtexpe-s1.ftc.gov\ntrade.ftc.gov",
-    "id": 20323918849,
-    "entry_timestamp": "2025-08-14T07:27:18.597",
-    "not_before": "2024-08-23T00:00:00",
-    "not_after": "2025-09-10T23:59:59",
-    "serial_number": "071f866d0d8735e09675677c168dd01b",
-    "result_count": 6
-  },
-  {
     "issuer_ca_id": 295814,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
     "common_name": "hsrfilingtest.ftc.gov",
@@ -286,6 +274,18 @@
     "not_after": "2026-08-05T23:59:59",
     "serial_number": "0390acd2a5185372b303f794022050c0",
     "result_count": 6
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "search.usa.gov",
+    "name_value": "search.ftc.gov",
+    "id": 20115466402,
+    "entry_timestamp": "2025-08-04T16:55:42.839",
+    "not_before": "2025-08-04T15:57:12",
+    "not_after": "2025-11-02T15:57:11",
+    "serial_number": "06192f1142c906303f4c801eb5d9c49534ab",
+    "result_count": 1
   },
   {
     "issuer_ca_id": 295815,
@@ -458,6 +458,30 @@
   {
     "issuer_ca_id": 295815,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "search.usa.gov",
+    "name_value": "search.ftc.gov",
+    "id": 19429053293,
+    "entry_timestamp": "2025-07-03T21:22:48.066",
+    "not_before": "2025-07-03T20:24:17",
+    "not_after": "2025-10-01T20:24:16",
+    "serial_number": "05b225294e9f8f052a55d3f77a2a36a752e4",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "search.usa.gov",
+    "name_value": "search.ftc.gov",
+    "id": 19429052620,
+    "entry_timestamp": "2025-07-03T21:22:47.681",
+    "not_before": "2025-07-03T20:24:17",
+    "not_after": "2025-10-01T20:24:16",
+    "serial_number": "05b225294e9f8f052a55d3f77a2a36a752e4",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
     "common_name": "hsrfilingtest.ftc.gov",
     "name_value": "adminefilingtest.ftc.gov\nhsrfilingtest.ftc.gov\nrntest.ftc.gov",
     "id": 19008870727,
@@ -502,30 +526,6 @@
     "not_after": "2025-09-11T15:52:49",
     "serial_number": "0507470dbc382f7929860ef599e358bd4951",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "rntestprod.ftc.gov",
-    "name_value": "adminefiling.ftc.gov\nrntestprod.ftc.gov",
-    "id": 18981798322,
-    "entry_timestamp": "2025-06-12T18:09:16.852",
-    "not_before": "2025-06-12T17:10:46",
-    "not_after": "2025-09-10T17:10:45",
-    "serial_number": "053764dbc1ef366b346c6a6792c661e85200",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "rntestprod.ftc.gov",
-    "name_value": "adminefiling.ftc.gov\nrntestprod.ftc.gov",
-    "id": 18981804016,
-    "entry_timestamp": "2025-06-12T18:09:16.62",
-    "not_before": "2025-06-12T17:10:46",
-    "not_after": "2025-09-10T17:10:45",
-    "serial_number": "053764dbc1ef366b346c6a6792c661e85200",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 185752,
@@ -982,17 +982,5 @@
     "not_after": "2025-09-23T23:59:59",
     "serial_number": "051e09e46383fafdd90b4dbd48f483a5",
     "result_count": 9
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "hq-mgtexpe-s1.ftc.gov",
-    "name_value": "cc-mgtexpe-s1.ftc.gov\nftc.gov\nhq-mgtexpe-s1.ftc.gov\nmgtexpe-s1.ftc.gov\ntrade.ftc.gov",
-    "id": 14251742497,
-    "entry_timestamp": "2024-08-23T09:09:59.529",
-    "not_before": "2024-08-23T00:00:00",
-    "not_after": "2025-09-10T23:59:59",
-    "serial_number": "071f866d0d8735e09675677c168dd01b",
-    "result_count": 6
   }
 ]

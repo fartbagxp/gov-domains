@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "*.helix.edc.usda.gov",
+    "name_value": "*.helix.edc.usda.gov\nhelix.edc.usda.gov",
+    "id": 20928392669,
+    "entry_timestamp": "2025-09-10T19:35:18.582",
+    "not_before": "2025-09-10T00:00:00",
+    "not_after": "2026-09-09T23:59:59",
+    "serial_number": "06b21ea033f386892e8218882c786e98",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "search.nal.usda.gov",
+    "name_value": "search.nal.usda.gov",
+    "id": 20925832099,
+    "entry_timestamp": "2025-09-10T16:59:51.622",
+    "not_before": "2025-09-10T00:00:00",
+    "not_after": "2026-10-10T23:59:59",
+    "serial_number": "0f19c245231f3f3321f2f06ee5059439",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 295816,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "ucc2.scinet.usda.gov",
@@ -3129,18 +3153,6 @@
     "not_before": "2024-09-03T18:42:22",
     "not_after": "2025-10-03T18:42:21",
     "serial_number": "7c76b1b131b3f2a1578b42d341ad74eb",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "www-wfweb.fs2c.usda.gov",
-    "name_value": "www-wfweb.fs2c.usda.gov",
-    "id": 20349583080,
-    "entry_timestamp": "2025-08-15T12:39:50.921",
-    "not_before": "2024-08-29T00:00:00",
-    "not_after": "2025-09-10T23:59:59",
-    "serial_number": "04a27360bf7b95df6de49b720cfca349",
     "result_count": 2
   },
   {
@@ -22572,18 +22584,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "fasapdb0014.EDC.DS1.USDA.GOV",
-    "name_value": "fasapdb0014.EDC.DS1.USDA.GOV",
-    "id": 14502269617,
-    "entry_timestamp": "2024-09-10T15:37:11.545",
-    "not_before": "2024-09-10T15:37:11",
-    "not_after": "2025-09-10T15:37:10",
-    "serial_number": "7ab50bc2cd5153021d410d1a01c6b09e",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "search.nal.usda.gov",
@@ -22737,42 +22737,6 @@
     "not_before": "2024-08-29T23:00:19",
     "not_after": "2025-09-29T23:00:18",
     "serial_number": "177c05f26ef5e2746a33a2b92ce9166b",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "www-wfweb-stg.fs2c.usda.gov",
-    "name_value": "www-wfweb-stg.fs2c.usda.gov",
-    "id": 14351153012,
-    "entry_timestamp": "2024-08-29T19:00:28.734",
-    "not_before": "2024-08-29T00:00:00",
-    "not_after": "2025-09-10T23:59:59",
-    "serial_number": "0979d813d06779e2d9ca0239a3d5e51f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "www-wfweb.fs2c.usda.gov",
-    "name_value": "www-wfweb.fs2c.usda.gov",
-    "id": 14351148359,
-    "entry_timestamp": "2024-08-29T19:00:28.725",
-    "not_before": "2024-08-29T00:00:00",
-    "not_after": "2025-09-10T23:59:59",
-    "serial_number": "04a27360bf7b95df6de49b720cfca349",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "www-wfweb-dev.fs2c.usda.gov",
-    "name_value": "www-wfweb-dev.fs2c.usda.gov",
-    "id": 14351152885,
-    "entry_timestamp": "2024-08-29T19:00:28.684",
-    "not_before": "2024-08-29T00:00:00",
-    "not_after": "2025-09-10T23:59:59",
-    "serial_number": "0c37901ef0f9e210255807bccaca1eed",
     "result_count": 2
   },
   {
