@@ -1,5 +1,65 @@
 [
   {
+    "issuer_ca_id": 239799,
+    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
+    "common_name": "doe417.energy.gov",
+    "name_value": "doe417.energy.gov",
+    "id": 20977708181,
+    "entry_timestamp": "2025-09-12T22:43:19.694",
+    "not_before": "2025-09-12T00:00:00",
+    "not_after": "2026-03-12T23:59:59",
+    "serial_number": "04c5bd6a9f08cf381ccbaba0b0038ad5",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 239799,
+    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
+    "common_name": "doe417.energy.gov",
+    "name_value": "doe417.energy.gov",
+    "id": 20975990935,
+    "entry_timestamp": "2025-09-12T20:48:30.717",
+    "not_before": "2025-09-12T00:00:00",
+    "not_after": "2026-03-12T23:59:59",
+    "serial_number": "04c5bd6a9f08cf381ccbaba0b0038ad5",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "doe411.energy.gov",
+    "name_value": "certs.energy.gov\ndoe411.egds.energy.gov\ndoe411.energy.gov\ndoe411-vip.energy.gov",
+    "id": 20974116715,
+    "entry_timestamp": "2025-09-12T18:39:34.041",
+    "not_before": "2025-09-12T00:00:00",
+    "not_after": "2026-09-12T23:59:59",
+    "serial_number": "70b9befded6cc84ef3eeb743fe2ff5dd",
+    "result_count": 5
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "doe411.energy.gov",
+    "name_value": "certs.energy.gov\ndoe411.egds.energy.gov\ndoe411.energy.gov\ndoe411-vip.energy.gov",
+    "id": 20974101181,
+    "entry_timestamp": "2025-09-12T18:38:55.829",
+    "not_before": "2025-09-12T00:00:00",
+    "not_after": "2026-09-12T23:59:59",
+    "serial_number": "70b9befded6cc84ef3eeb743fe2ff5dd",
+    "result_count": 5
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "aut.annualmeritreview.energy.gov",
+    "name_value": "aut.annualmeritreview.energy.gov",
+    "id": 20972371130,
+    "entry_timestamp": "2025-09-12T16:54:23.984",
+    "not_before": "2025-09-01T00:39:26",
+    "not_after": "2025-11-30T01:39:14",
+    "serial_number": "773ad466b5272ee8134b5cb64b043cbf",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 295809,
     "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
     "common_name": "productinfo.energy.gov",
@@ -17,7 +77,7 @@
     "common_name": "productinfo.energy.gov",
     "name_value": "productinfo.energy.gov",
     "id": 20939409906,
-    "entry_timestamp": "2025-09-11T07:22:23.562",
+    "entry_timestamp": "2025-09-11T07:22:23.546",
     "not_before": "2025-09-11T06:23:53",
     "not_after": "2025-12-10T06:23:52",
     "serial_number": "05a27206a7ab983a6ff6f469eb43c9b0827c",
@@ -1202,18 +1262,6 @@
   {
     "issuer_ca_id": 1586,
     "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "www7b.eere.energy.gov",
-    "name_value": "www7b.eere.energy.gov",
-    "id": 20417248359,
-    "entry_timestamp": "2025-08-18T13:25:00.522",
-    "not_before": "2024-09-11T21:09:47",
-    "not_after": "2025-09-11T21:09:46",
-    "serial_number": "413504bda37d8ce119527548e44e8db4",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
     "common_name": "etec.energy.gov",
     "name_value": "etec.energy.gov\nwww.etec.energy.gov",
     "id": 20415602846,
@@ -1358,18 +1406,6 @@
   {
     "issuer_ca_id": 1586,
     "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "edms.energy.gov",
-    "name_value": "edms2.energy.gov\nedms3.energy.gov\nedms.energy.gov\nwww.edms.energy.gov",
-    "id": 20377764369,
-    "entry_timestamp": "2025-08-16T19:31:11.244",
-    "not_before": "2024-09-03T11:38:13",
-    "not_after": "2025-09-12T11:38:12",
-    "serial_number": "39cc9725b6db6f41b57f78b4bb71eef2",
-    "result_count": 5
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
     "common_name": "tcc.transcom.energy.gov",
     "name_value": "tcc.transcom.energy.gov",
     "id": 20338551089,
@@ -1462,18 +1498,6 @@
     "not_after": "2026-08-28T23:59:59",
     "serial_number": "05c3149fad84d6c3331c0b55e4f5ab82",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "irb.energy.gov",
-    "name_value": "irb.energy.gov\nwww.irb.energy.gov",
-    "id": 20316070187,
-    "entry_timestamp": "2025-08-13T22:08:34.518",
-    "not_before": "2024-08-20T13:55:57",
-    "not_after": "2025-09-11T13:55:56",
-    "serial_number": "569b2b5e62f1cf2c13ff0b9ed4a92de2",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 295815,
@@ -5894,18 +5918,6 @@
   {
     "issuer_ca_id": 1586,
     "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "www7b.eere.energy.gov",
-    "name_value": "www7b.eere.energy.gov",
-    "id": 14516389799,
-    "entry_timestamp": "2024-09-11T21:09:48.021",
-    "not_before": "2024-09-11T21:09:47",
-    "not_after": "2025-09-11T21:09:46",
-    "serial_number": "413504bda37d8ce119527548e44e8db4",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
     "common_name": "etec.energy.gov",
     "name_value": "etec.energy.gov\nwww.etec.energy.gov",
     "id": 14515630688,
@@ -5966,18 +5978,6 @@
   {
     "issuer_ca_id": 1586,
     "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "edms.energy.gov",
-    "name_value": "edms2.energy.gov\nedms3.energy.gov\nedms.energy.gov\nwww.edms.energy.gov",
-    "id": 14412571567,
-    "entry_timestamp": "2024-09-03T11:38:13.393",
-    "not_before": "2024-09-03T11:38:13",
-    "not_after": "2025-09-12T11:38:12",
-    "serial_number": "39cc9725b6db6f41b57f78b4bb71eef2",
-    "result_count": 5
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
     "common_name": "tcc.transcom.energy.gov",
     "name_value": "tcc.transcom.energy.gov",
     "id": 14323202163,
@@ -5986,17 +5986,5 @@
     "not_after": "2025-09-22T18:04:18",
     "serial_number": "0bd527fdd3809bb21a1b57853d309a90",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "irb.energy.gov",
-    "name_value": "irb.energy.gov\nwww.irb.energy.gov",
-    "id": 14217992404,
-    "entry_timestamp": "2024-08-20T13:55:57.775",
-    "not_before": "2024-08-20T13:55:57",
-    "not_after": "2025-09-11T13:55:56",
-    "serial_number": "569b2b5e62f1cf2c13ff0b9ed4a92de2",
-    "result_count": 3
   }
 ]
