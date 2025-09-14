@@ -1,5 +1,53 @@
 [
   {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "snow-pub.dhs.gov",
+    "name_value": "snow-pub.dhs.gov",
+    "id": 21009467475,
+    "entry_timestamp": "2025-09-14T09:29:19.595",
+    "not_before": "2025-09-14T08:30:49",
+    "not_after": "2025-12-13T08:30:48",
+    "serial_number": "05a04850380ff93136af00cb2420e041f49f",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "snow-pub.dhs.gov",
+    "name_value": "snow-pub.dhs.gov",
+    "id": 21009467469,
+    "entry_timestamp": "2025-09-14T09:29:19.33",
+    "not_before": "2025-09-14T08:30:49",
+    "not_after": "2025-12-13T08:30:48",
+    "serial_number": "05a04850380ff93136af00cb2420e041f49f",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "azprerasftp01.dhs.gov",
+    "name_value": "*.azprerasftp01.dhs.gov\nazprerasftp01.dhs.gov",
+    "id": 21008376490,
+    "entry_timestamp": "2025-09-14T08:16:53.166",
+    "not_before": "2025-09-14T07:18:22",
+    "not_after": "2025-12-13T07:18:21",
+    "serial_number": "0599afa9de5394b441afcba31ed20d3d7dc3",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "azprerasftp01.dhs.gov",
+    "name_value": "*.azprerasftp01.dhs.gov\nazprerasftp01.dhs.gov",
+    "id": 21008376604,
+    "entry_timestamp": "2025-09-14T08:16:52.962",
+    "not_before": "2025-09-14T07:18:22",
+    "not_after": "2025-12-13T07:18:21",
+    "serial_number": "0599afa9de5394b441afcba31ed20d3d7dc3",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 185748,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
     "common_name": "edit.dhs.gov",
@@ -5325,18 +5373,6 @@
     "not_before": "2025-08-18T22:06:41",
     "not_after": "2025-11-16T22:04:01",
     "serial_number": "56cce6f27929f74cf00dad9916d69330",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "eapis.cbp.dhs.gov",
-    "name_value": "eapis.cbp.dhs.gov\nwww.eapis.cbp.dhs.gov",
-    "id": 20421552428,
-    "entry_timestamp": "2025-08-18T18:45:50.874",
-    "not_before": "2024-09-13T20:35:33",
-    "not_after": "2025-09-13T20:35:32",
-    "serial_number": "2981e6fbdacac7679548dd63965e54a0",
     "result_count": 3
   },
   {
@@ -13644,30 +13680,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "hsinuat.dhs.gov",
-    "name_value": "*.hsinuat.dhs.gov\nhsinuat.dhs.gov",
-    "id": 19170116778,
-    "entry_timestamp": "2025-06-22T03:45:17.464",
-    "not_before": "2025-06-22T00:00:00",
-    "not_after": "2025-09-14T05:06:12",
-    "serial_number": "775ec8463e42f7b2ede7d40d5438dede",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "hsinuat.dhs.gov",
-    "name_value": "*.hsinuat.dhs.gov\nhsinuat.dhs.gov",
-    "id": 19170117163,
-    "entry_timestamp": "2025-06-22T03:45:16.05",
-    "not_before": "2025-06-22T00:00:00",
-    "not_after": "2025-09-14T05:06:12",
-    "serial_number": "775ec8463e42f7b2ede7d40d5438dede",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "origin-nonprod-save-mod.uscis.dhs.gov",
@@ -15538,30 +15550,6 @@
     "not_after": "2025-09-14T13:41:31",
     "serial_number": "79afc4459c1cbdab0e2753a3d4cc196f",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "sftp.neptune.dhs.gov",
-    "name_value": "*.sftp.neptune.dhs.gov\nsftp.neptune.dhs.gov",
-    "id": 19048041396,
-    "entry_timestamp": "2025-06-16T05:16:40.007",
-    "not_before": "2025-06-16T04:16:39",
-    "not_after": "2025-09-14T05:16:35",
-    "serial_number": "00f5a02019b137a18a0efe6ee308f3933f",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "sftp.neptune.dhs.gov",
-    "name_value": "*.sftp.neptune.dhs.gov\nsftp.neptune.dhs.gov",
-    "id": 19048040766,
-    "entry_timestamp": "2025-06-16T05:16:29.913",
-    "not_before": "2025-06-16T04:16:29",
-    "not_after": "2025-09-14T05:14:12",
-    "serial_number": "00ffbb568586d6ea200eeaeea52feb452c",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 62123,
@@ -17470,18 +17458,6 @@
     "not_after": "2026-04-25T23:59:59",
     "serial_number": "0df5485692653b49289b608d90ea9bdd",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "bigdataanalytics-max.uscis.dhs.gov",
-    "name_value": "bigdataanalytics-max.uscis.dhs.gov\nbmaxtableau-01.uscis.dhs.gov\ngmaxtableau-01.uscis.dhs.gov\nwww.bigdataanalytics-max.uscis.dhs.gov",
-    "id": 17402306115,
-    "entry_timestamp": "2025-03-25T20:58:45.552",
-    "not_before": "2024-09-13T13:59:27",
-    "not_after": "2025-09-13T13:59:26",
-    "serial_number": "23948b2157e861334f43551d0fffc7e0",
-    "result_count": 5
   },
   {
     "issuer_ca_id": 185752,
@@ -20810,30 +20786,6 @@
   {
     "issuer_ca_id": 1586,
     "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "eapis.cbp.dhs.gov",
-    "name_value": "eapis.cbp.dhs.gov\nwww.eapis.cbp.dhs.gov",
-    "id": 14541452175,
-    "entry_timestamp": "2024-09-13T20:35:33.989",
-    "not_before": "2024-09-13T20:35:33",
-    "not_after": "2025-09-13T20:35:32",
-    "serial_number": "2981e6fbdacac7679548dd63965e54a0",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "bigdataanalytics-max.uscis.dhs.gov",
-    "name_value": "bigdataanalytics-max.uscis.dhs.gov\nbmaxtableau-01.uscis.dhs.gov\ngmaxtableau-01.uscis.dhs.gov\nwww.bigdataanalytics-max.uscis.dhs.gov",
-    "id": 14537574969,
-    "entry_timestamp": "2024-09-13T13:59:27.878",
-    "not_before": "2024-09-13T13:59:27",
-    "not_after": "2025-09-13T13:59:26",
-    "serial_number": "23948b2157e861334f43551d0fffc7e0",
-    "result_count": 5
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
     "common_name": "api-sat.cbp.dhs.gov",
     "name_value": "api-sat.cbp.dhs.gov",
     "id": 14525475651,
@@ -21010,17 +20962,5 @@
     "not_after": "2025-09-14T17:24:10",
     "serial_number": "3d241fbd554214d228bd1f346c613ce6",
     "result_count": 7
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "uxvawsep1r0442.cbp.dhs.gov",
-    "name_value": "uxvawsep1r0442.cbp.dhs.gov",
-    "id": 14119201587,
-    "entry_timestamp": "2024-08-13T13:00:12.281",
-    "not_before": "2024-08-13T13:00:11",
-    "not_after": "2025-09-13T13:00:10",
-    "serial_number": "02a40b7acdeb0099c364a95db29b7f5b",
-    "result_count": 2
   }
 ]
