@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 405762,
+    "issuer_name": "C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2025 Q3",
+    "common_name": "imperva.com",
+    "name_value": "*.dol.gov",
+    "id": 21029064293,
+    "entry_timestamp": "2025-09-15T06:58:44.88",
+    "not_before": "2025-09-15T06:58:42",
+    "not_after": "2025-09-16T06:58:42",
+    "serial_number": "011644f754662160fc887d660b1b8273",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 405762,
+    "issuer_name": "C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2025 Q3",
+    "common_name": "imperva.com",
+    "name_value": "*.uat.dol.gov",
+    "id": 21029052300,
+    "entry_timestamp": "2025-09-15T06:58:44.824",
+    "not_before": "2025-09-15T06:58:42",
+    "not_after": "2025-09-16T06:58:42",
+    "serial_number": "01bd50ec3d42271d0806eeaf4230fcd1",
+    "result_count": 1
+  },
+  {
     "issuer_ca_id": 246719,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "css.dol.gov",
@@ -8338,17 +8362,5 @@
     "not_after": "2025-09-17T23:59:59",
     "serial_number": "03347a78f9e5f19f6e14a34c052d960e",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "datastage.dol.gov",
-    "name_value": "datastage.dol.gov",
-    "id": 14142590249,
-    "entry_timestamp": "2024-08-15T03:50:17.96",
-    "not_before": "2024-08-15T00:00:00",
-    "not_after": "2025-09-14T23:59:59",
-    "serial_number": "02cafaad05aab4cc338d698c75240a79",
-    "result_count": 2
   }
 ]

@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "cloudflaretest.census.gov",
+    "name_value": "*.cloudflaretest.census.gov\ncloudflaretest.census.gov",
+    "id": 21018015464,
+    "entry_timestamp": "2025-09-14T19:10:46.764",
+    "not_before": "2025-09-14T00:00:00",
+    "not_after": "2025-12-10T02:59:54",
+    "serial_number": "29108579980ffe4546ba97a7af4e20f5",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "cloudflaretest.census.gov",
+    "name_value": "*.cloudflaretest.census.gov\ncloudflaretest.census.gov",
+    "id": 21018025411,
+    "entry_timestamp": "2025-09-14T19:10:46.27",
+    "not_before": "2025-09-14T00:00:00",
+    "not_after": "2025-12-10T02:59:54",
+    "serial_number": "29108579980ffe4546ba97a7af4e20f5",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 282053,
     "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
     "common_name": "cloudflaretest.census.gov",
@@ -3118,42 +3142,6 @@
     "not_after": "2026-06-16T23:59:59",
     "serial_number": "080c6adc67c036fc88f409caaf207156",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "ee3e7f13.sni.cloudflaressl.com",
-    "name_value": "test.census.gov",
-    "id": 19065423510,
-    "entry_timestamp": "2025-06-17T03:29:56.973",
-    "not_before": "2025-06-17T02:25:35",
-    "not_after": "2025-09-15T03:25:30",
-    "serial_number": "3b9567e6add1963811a1ddc741135415",
-    "result_count": 1
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "ee3e7f13.sni.cloudflaressl.com",
-    "name_value": "test.census.gov",
-    "id": 19065379157,
-    "entry_timestamp": "2025-06-17T03:25:36.547",
-    "not_before": "2025-06-17T02:25:35",
-    "not_after": "2025-09-15T03:25:30",
-    "serial_number": "3b9567e6add1963811a1ddc741135415",
-    "result_count": 1
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "ee3e7f13.sni.cloudflaressl.com",
-    "name_value": "test.census.gov",
-    "id": 19065361326,
-    "entry_timestamp": "2025-06-17T03:25:24.724",
-    "not_before": "2025-06-17T02:25:24",
-    "not_after": "2025-09-15T03:23:57",
-    "serial_number": "11f4157c67928e8f13fa9814255c8bcb",
-    "result_count": 1
   },
   {
     "issuer_ca_id": 185752,

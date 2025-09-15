@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "mail.scinet.usda.gov",
+    "name_value": "mail.scinet.usda.gov",
+    "id": 21000944192,
+    "entry_timestamp": "2025-09-14T00:02:51.132",
+    "not_before": "2025-09-13T23:04:20",
+    "not_after": "2025-12-12T23:04:19",
+    "serial_number": "06a62b76c4a1dd5b8b721c2e259d30a238a6",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "mail.scinet.usda.gov",
+    "name_value": "mail.scinet.usda.gov",
+    "id": 21000944796,
+    "entry_timestamp": "2025-09-14T00:02:51.023",
+    "not_before": "2025-09-13T23:04:20",
+    "not_after": "2025-12-12T23:04:19",
+    "serial_number": "06a62b76c4a1dd5b8b721c2e259d30a238a6",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 62123,
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
     "common_name": "usda.gov",
@@ -3504,18 +3528,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "pubmai.sc.egov.usda.gov",
-    "name_value": "pubmai.sc.egov.usda.gov\nrdhomeloans.usda.gov",
-    "id": 20300256598,
-    "entry_timestamp": "2025-08-13T04:05:55.947",
-    "not_before": "2024-08-13T15:51:46",
-    "not_after": "2025-09-13T15:51:45",
-    "serial_number": "737a0a75b480bb556d2de42c72c32ce3",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 295814,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
     "common_name": "ucc2.scinet.usda.gov",
@@ -4053,18 +4065,6 @@
     "not_before": "2025-08-04T23:58:29",
     "not_after": "2025-11-02T23:58:28",
     "serial_number": "06e994148436f4da2d159163ffd63669f0e1",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "search.usa.gov",
-    "name_value": "search.ers.usda.gov\nusdasearch.usda.gov",
-    "id": 20115466402,
-    "entry_timestamp": "2025-08-04T16:55:42.839",
-    "not_before": "2025-08-04T15:57:12",
-    "not_after": "2025-11-02T15:57:11",
-    "serial_number": "06192f1142c906303f4c801eb5d9c49534ab",
     "result_count": 2
   },
   {
@@ -5709,30 +5709,6 @@
     "not_before": "2025-07-03T21:02:15",
     "not_after": "2025-10-01T21:02:14",
     "serial_number": "05d87978d813f92a099d62163f51e71c315e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "search.usa.gov",
-    "name_value": "search.ers.usda.gov\nusdasearch.usda.gov",
-    "id": 19429053293,
-    "entry_timestamp": "2025-07-03T21:22:48.066",
-    "not_before": "2025-07-03T20:24:17",
-    "not_after": "2025-10-01T20:24:16",
-    "serial_number": "05b225294e9f8f052a55d3f77a2a36a752e4",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "search.usa.gov",
-    "name_value": "search.ers.usda.gov\nusdasearch.usda.gov",
-    "id": 19429052620,
-    "entry_timestamp": "2025-07-03T21:22:47.681",
-    "not_before": "2025-07-03T20:24:17",
-    "not_after": "2025-10-01T20:24:16",
-    "serial_number": "05b225294e9f8f052a55d3f77a2a36a752e4",
     "result_count": 2
   },
   {
@@ -23278,41 +23254,5 @@
     "not_after": "2025-09-15T15:21:13",
     "serial_number": "1696a76daba0490a3fc57d08572fff71",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "originwww.fs.usda.gov",
-    "name_value": "originwww.fs.usda.gov",
-    "id": 14134314523,
-    "entry_timestamp": "2024-08-14T14:27:49.358",
-    "not_before": "2024-08-14T14:27:49",
-    "not_after": "2025-09-14T14:27:48",
-    "serial_number": "770bb0ef9cc3252934e55532f4c92bdf",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "insight.edc.usda.gov",
-    "name_value": "insight.edc.usda.gov",
-    "id": 14124535589,
-    "entry_timestamp": "2024-08-13T22:15:49.701",
-    "not_before": "2024-08-13T22:15:49",
-    "not_after": "2025-09-13T22:15:48",
-    "serial_number": "2d0b920dd5a8b9198c3544514d4384a4",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "pubmai.sc.egov.usda.gov",
-    "name_value": "pubmai.sc.egov.usda.gov\nrdhomeloans.usda.gov",
-    "id": 14120714044,
-    "entry_timestamp": "2024-08-13T15:51:46.655",
-    "not_before": "2024-08-13T15:51:46",
-    "not_after": "2025-09-13T15:51:45",
-    "serial_number": "737a0a75b480bb556d2de42c72c32ce3",
-    "result_count": 3
   }
 ]
