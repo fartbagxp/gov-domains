@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "dev.taxpayeradvocate.irs.gov",
+    "name_value": "dev.taxpayeradvocate.irs.gov\nwww.dev.taxpayeradvocate.irs.gov",
+    "id": 21037676363,
+    "entry_timestamp": "2025-09-15T15:56:58.57",
+    "not_before": "2025-09-15T00:00:00",
+    "not_after": "2026-09-30T23:59:59",
+    "serial_number": "1b6ba4d50895bc65fcd5015b75e55760",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "dev.taxpayeradvocate.irs.gov",
+    "name_value": "dev.taxpayeradvocate.irs.gov\nwww.dev.taxpayeradvocate.irs.gov",
+    "id": 21037675171,
+    "entry_timestamp": "2025-09-15T15:56:57.624",
+    "not_before": "2025-09-15T00:00:00",
+    "not_after": "2026-09-30T23:59:59",
+    "serial_number": "1b6ba4d50895bc65fcd5015b75e55760",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 204403,
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA EV R36",
     "common_name": "dev.edit.irs.gov",
@@ -1812,30 +1836,6 @@
     "result_count": 24
   },
   {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "assistance-uat.for.irs.gov",
-    "name_value": "assistance-uat.for.irs.gov",
-    "id": 19082063419,
-    "entry_timestamp": "2025-06-17T21:40:57.206",
-    "not_before": "2025-06-17T20:42:22",
-    "not_after": "2025-09-15T20:42:21",
-    "serial_number": "051ff185383958837176ba894f65677ec615",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "assistance-uat.for.irs.gov",
-    "name_value": "assistance-uat.for.irs.gov",
-    "id": 19082061601,
-    "entry_timestamp": "2025-06-17T21:40:52.854",
-    "not_before": "2025-06-17T20:42:22",
-    "not_after": "2025-09-15T20:42:21",
-    "serial_number": "051ff185383958837176ba894f65677ec615",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 385512,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
     "common_name": "foiapublicaccessportal.for.irs.gov",
@@ -2870,18 +2870,6 @@
   {
     "issuer_ca_id": 1586,
     "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "irs.gov",
-    "name_value": "irs.gov\nwww.irs.gov",
-    "id": 15045066575,
-    "entry_timestamp": "2024-10-03T19:52:39.631",
-    "not_before": "2024-08-19T12:26:07",
-    "not_after": "2025-09-14T12:26:06",
-    "serial_number": "34bb67429f4a4d865168cb4dff286171",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
     "common_name": "Connect.irs.gov",
     "name_value": "Connect.irs.gov",
     "id": 14785705755,
@@ -3166,17 +3154,5 @@
     "not_after": "2025-09-19T21:25:52",
     "serial_number": "4ecc385571e7266fbee37f46ac7e188f",
     "result_count": 6
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "irs.gov",
-    "name_value": "irs.gov\nwww.irs.gov",
-    "id": 14206476975,
-    "entry_timestamp": "2024-08-19T12:26:07.443",
-    "not_before": "2024-08-19T12:26:07",
-    "not_after": "2025-09-14T12:26:06",
-    "serial_number": "34bb67429f4a4d865168cb4dff286171",
-    "result_count": 3
   }
 ]

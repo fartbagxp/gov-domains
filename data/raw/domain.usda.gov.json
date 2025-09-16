@@ -1,5 +1,53 @@
 [
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "www.rus-services.rd.usda.gov",
+    "name_value": "www.rus-services.rd.usda.gov",
+    "id": 21040446960,
+    "entry_timestamp": "2025-09-15T18:54:31.002",
+    "not_before": "2025-09-15T00:00:00",
+    "not_after": "2026-09-14T23:59:59",
+    "serial_number": "0d240fd33529ed55a5ae136bb317ccfd",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "tfaa-ppd.eai.usda.gov",
+    "name_value": "oirmule0013.edc.ds1.usda.gov\noirmule0014.edc.ds1.usda.gov\ntfaa-ppd.eai.usda.gov",
+    "id": 21039977360,
+    "entry_timestamp": "2025-09-15T18:23:14.577",
+    "not_before": "2025-09-15T00:00:00",
+    "not_after": "2026-09-14T23:59:59",
+    "serial_number": "01bdea4a28ccd0f0757201a60a260cda",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "rdpilot-dev.fs2c.usda.gov",
+    "name_value": "rdpilot-dev.fs2c.usda.gov",
+    "id": 21035847073,
+    "entry_timestamp": "2025-09-15T14:05:18.608",
+    "not_before": "2025-09-15T00:00:00",
+    "not_after": "2026-09-15T23:59:59",
+    "serial_number": "01e4ecf44affaf16f3c9f5147ea7ed45",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "fhfpc.fs2c.usda.gov",
+    "name_value": "fhfpc.fs2c.usda.gov",
+    "id": 21035794907,
+    "entry_timestamp": "2025-09-15T14:02:57.619",
+    "not_before": "2025-09-15T00:00:00",
+    "not_after": "2026-10-16T23:59:59",
+    "serial_number": "0727e032d7cc691a331453fd415ed56a",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 295817,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "mail.scinet.usda.gov",
@@ -3468,30 +3516,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "symbols-dev.fs2c.usda.gov",
-    "name_value": "symbols-dev.fs2c.usda.gov",
-    "id": 20314828239,
-    "entry_timestamp": "2025-08-13T20:32:40.129",
-    "not_before": "2024-08-20T00:00:00",
-    "not_after": "2025-09-15T23:59:59",
-    "serial_number": "0e70bde9cf2c70c2fa541ee3aed3cf35",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "symbols.fs2c.usda.gov",
-    "name_value": "symbols.fs2c.usda.gov",
-    "id": 20314482459,
-    "entry_timestamp": "2025-08-13T20:06:51.474",
-    "not_before": "2024-08-20T00:00:00",
-    "not_after": "2025-09-15T23:59:59",
-    "serial_number": "0ba81cac5448df1f936c905899cab964",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 1586,
     "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
     "common_name": "prodwebnlb.rma.usda.gov",
@@ -4065,6 +4089,18 @@
     "not_before": "2025-08-04T23:58:29",
     "not_after": "2025-11-02T23:58:28",
     "serial_number": "06e994148436f4da2d159163ffd63669f0e1",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "search.usa.gov",
+    "name_value": "search.ers.usda.gov\nusdasearch.usda.gov",
+    "id": 20115466402,
+    "entry_timestamp": "2025-08-04T16:55:42.839",
+    "not_before": "2025-08-04T15:57:12",
+    "not_after": "2025-11-02T15:57:11",
+    "serial_number": "06192f1142c906303f4c801eb5d9c49534ab",
     "result_count": 2
   },
   {
@@ -5712,6 +5748,30 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "search.usa.gov",
+    "name_value": "search.ers.usda.gov\nusdasearch.usda.gov",
+    "id": 19429053293,
+    "entry_timestamp": "2025-07-03T21:22:48.066",
+    "not_before": "2025-07-03T20:24:17",
+    "not_after": "2025-10-01T20:24:16",
+    "serial_number": "05b225294e9f8f052a55d3f77a2a36a752e4",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "search.usa.gov",
+    "name_value": "search.ers.usda.gov\nusdasearch.usda.gov",
+    "id": 19429052620,
+    "entry_timestamp": "2025-07-03T21:22:47.681",
+    "not_before": "2025-07-03T20:24:17",
+    "not_after": "2025-10-01T20:24:16",
+    "serial_number": "05b225294e9f8f052a55d3f77a2a36a752e4",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 295814,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
     "common_name": "helpdev.aphis.usda.gov",
@@ -7306,30 +7366,6 @@
     "not_after": "2026-06-17T23:59:59",
     "serial_number": "05b3f7c5ef1af74b988b1795575f95af",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "ucc2.scinet.usda.gov",
-    "name_value": "ucc2.scinet.usda.gov",
-    "id": 19087998037,
-    "entry_timestamp": "2025-06-18T03:55:11.787",
-    "not_before": "2025-06-18T02:56:39",
-    "not_after": "2025-09-16T02:56:38",
-    "serial_number": "0672d0c3b39fac76107db389198b88e3eab5",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "ucc2.scinet.usda.gov",
-    "name_value": "ucc2.scinet.usda.gov",
-    "id": 19087995053,
-    "entry_timestamp": "2025-06-18T03:55:09.543",
-    "not_before": "2025-06-18T02:56:39",
-    "not_after": "2025-09-16T02:56:38",
-    "serial_number": "0672d0c3b39fac76107db389198b88e3eab5",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 247119,
@@ -23112,42 +23148,6 @@
     "result_count": 4
   },
   {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "symbols.fs2c.usda.gov",
-    "name_value": "symbols.fs2c.usda.gov",
-    "id": 14219300654,
-    "entry_timestamp": "2024-08-20T16:27:33.21",
-    "not_before": "2024-08-20T00:00:00",
-    "not_after": "2025-09-15T23:59:59",
-    "serial_number": "0ba81cac5448df1f936c905899cab964",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "symbols-stg.fs2c.usda.gov",
-    "name_value": "symbols-stg.fs2c.usda.gov",
-    "id": 14219298645,
-    "entry_timestamp": "2024-08-20T16:27:06.804",
-    "not_before": "2024-08-20T00:00:00",
-    "not_after": "2025-09-15T23:59:59",
-    "serial_number": "0118c6ab89d3898f85dd078471559739",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "symbols-dev.fs2c.usda.gov",
-    "name_value": "symbols-dev.fs2c.usda.gov",
-    "id": 14219297333,
-    "entry_timestamp": "2024-08-20T16:26:41.321",
-    "not_before": "2024-08-20T00:00:00",
-    "not_after": "2025-09-15T23:59:59",
-    "serial_number": "0e70bde9cf2c70c2fa541ee3aed3cf35",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 1586,
     "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
     "common_name": "prodwebnlb.rma.usda.gov",
@@ -23241,18 +23241,6 @@
     "not_before": "2024-08-18T00:00:00",
     "not_after": "2025-09-18T23:59:59",
     "serial_number": "0bb4bc1a4b8947609122a49d359110bc",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "staging-cms.fs.usda.gov",
-    "name_value": "staging-cms.fs.usda.gov",
-    "id": 14149333341,
-    "entry_timestamp": "2024-08-15T15:21:14.941",
-    "not_before": "2024-08-15T15:21:14",
-    "not_after": "2025-09-15T15:21:13",
-    "serial_number": "1696a76daba0490a3fc57d08572fff71",
     "result_count": 2
   }
 ]
