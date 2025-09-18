@@ -67,7 +67,7 @@ jobs:
         run: |
           csv_file="data/csv/${{ matrix.csv_file }}"
           filename=$(basename "$csv_file" .csv)
-          output_file="data/tech/${filename}_httpx.txt"
+          output_file="data/tech/${filename}_httpx.csv"
 
           echo "Processing $csv_file..."
           # Skip header, extract domain column, and run httpx
