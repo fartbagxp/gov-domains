@@ -1,5 +1,113 @@
 [
   {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "data.census.gov",
+    "name_value": "data.census.gov",
+    "id": 21114934191,
+    "entry_timestamp": "2025-09-18T19:38:49.656",
+    "not_before": "2025-09-18T17:41:15",
+    "not_after": "2025-12-17T18:41:12",
+    "serial_number": "6c8d093ed35434270ec66088540baf83",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "data.census.gov",
+    "name_value": "data.census.gov",
+    "id": 21114089115,
+    "entry_timestamp": "2025-09-18T18:41:15.458",
+    "not_before": "2025-09-18T17:41:15",
+    "not_after": "2025-12-17T18:41:12",
+    "serial_number": "6c8d093ed35434270ec66088540baf83",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "data.census.gov",
+    "name_value": "data.census.gov",
+    "id": 21114087540,
+    "entry_timestamp": "2025-09-18T18:41:07.182",
+    "not_before": "2025-09-18T17:41:06",
+    "not_after": "2025-12-17T18:39:58",
+    "serial_number": "009c6bb4071e25a48a0e26c69385cec465",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "test.data.census.gov",
+    "name_value": "test.data.census.gov",
+    "id": 21114064073,
+    "entry_timestamp": "2025-09-18T18:39:42.206",
+    "not_before": "2025-09-18T16:44:34",
+    "not_after": "2025-12-17T17:44:30",
+    "serial_number": "09bb156bb20c1e9911c6f350404df120",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "auth-aws-ew.census.gov",
+    "name_value": "auth-aws-ew.census.gov",
+    "id": 21113757532,
+    "entry_timestamp": "2025-09-18T18:22:05.936",
+    "not_before": "2025-09-18T00:00:00",
+    "not_after": "2026-09-17T23:59:59",
+    "serial_number": "0a381c750478606423a5dafdecb51666",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "test.data.census.gov",
+    "name_value": "test.data.census.gov",
+    "id": 21113183245,
+    "entry_timestamp": "2025-09-18T17:44:34.961",
+    "not_before": "2025-09-18T16:44:34",
+    "not_after": "2025-12-17T17:44:30",
+    "serial_number": "09bb156bb20c1e9911c6f350404df120",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "test.data.census.gov",
+    "name_value": "test.data.census.gov",
+    "id": 21113177005,
+    "entry_timestamp": "2025-09-18T17:44:25.223",
+    "not_before": "2025-09-18T16:44:24",
+    "not_after": "2025-12-17T17:43:17",
+    "serial_number": "00f1162e5958f401000e66a06e841ffec5",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 204407,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
+    "common_name": "cloudflaretest.census.gov",
+    "name_value": "*.cloudflaretest.census.gov\ncloudflaretest.census.gov",
+    "id": 21071489026,
+    "entry_timestamp": "2025-09-17T01:24:58.835",
+    "not_before": "2025-09-17T00:00:00",
+    "not_after": "2025-12-13T19:11:03",
+    "serial_number": "00ae9022b9d88ae12bf611e014c74c57a4",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204407,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
+    "common_name": "cloudflaretest.census.gov",
+    "name_value": "*.cloudflaretest.census.gov\ncloudflaretest.census.gov",
+    "id": 21071486614,
+    "entry_timestamp": "2025-09-17T01:24:58.071",
+    "not_before": "2025-09-17T00:00:00",
+    "not_after": "2025-12-13T19:11:03",
+    "serial_number": "00ae9022b9d88ae12bf611e014c74c57a4",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 204406,
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
     "common_name": "cloudflaretest.census.gov",
@@ -1305,30 +1413,6 @@
     "not_before": "2025-08-20T00:00:00",
     "not_after": "2026-08-19T23:59:59",
     "serial_number": "0761e14075ca408f1ce88467aceb778d",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "accesscallbackdev.census.gov",
-    "name_value": "accesscallbackdev.census.gov",
-    "id": 20429306534,
-    "entry_timestamp": "2025-08-19T09:36:18.866",
-    "not_before": "2024-09-18T00:00:00",
-    "not_after": "2025-09-17T23:59:59",
-    "serial_number": "057e2bd81814487ef74c919408130a3c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "accesscallback.census.gov",
-    "name_value": "accesscallback.census.gov",
-    "id": 20428259166,
-    "entry_timestamp": "2025-08-19T03:15:19.944",
-    "not_before": "2024-09-17T00:00:00",
-    "not_after": "2025-09-16T23:59:59",
-    "serial_number": "02e6a71081823d3d883b5fb617bf969b",
     "result_count": 2
   },
   {
@@ -5373,42 +5457,6 @@
     "not_before": "2024-10-01T00:00:00",
     "not_after": "2025-09-30T23:59:59",
     "serial_number": "0ddf414f977f61d6a83b761fa426e54c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "accesscallbackdev.census.gov",
-    "name_value": "accesscallbackdev.census.gov",
-    "id": 14597179023,
-    "entry_timestamp": "2024-09-18T16:07:06.196",
-    "not_before": "2024-09-18T00:00:00",
-    "not_after": "2025-09-17T23:59:59",
-    "serial_number": "057e2bd81814487ef74c919408130a3c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "accesscallback.census.gov",
-    "name_value": "accesscallback.census.gov",
-    "id": 14588012813,
-    "entry_timestamp": "2024-09-17T21:02:22.24",
-    "not_before": "2024-09-17T00:00:00",
-    "not_after": "2025-09-16T23:59:59",
-    "serial_number": "02e6a71081823d3d883b5fb617bf969b",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "accesscallback.census.gov",
-    "name_value": "accesscallback.census.gov",
-    "id": 14587965806,
-    "entry_timestamp": "2024-09-17T20:57:07.815",
-    "not_before": "2024-09-17T00:00:00",
-    "not_after": "2025-09-16T23:59:59",
-    "serial_number": "055bfa759500b2a57c6548de90837c84",
     "result_count": 2
   }
 ]
