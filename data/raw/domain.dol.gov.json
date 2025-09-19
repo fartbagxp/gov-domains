@@ -1,5 +1,41 @@
 [
   {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "osha.gov",
+    "name_value": "osha-edit.prod.pace.dol.gov\nosha-ita-edit.prod.pace.dol.gov\nosha-ita.preview.pace.dol.gov\nosha.prod.pace.dol.gov\nwhistleblowers-edit.prod.pace.dol.gov\nwhistleblowers.prod.pace.dol.gov",
+    "id": 21116274423,
+    "entry_timestamp": "2025-09-18T21:04:35.887",
+    "not_before": "2025-09-18T00:00:00",
+    "not_after": "2026-10-17T23:59:59",
+    "serial_number": "05c8aed65c878d6961db724cd45fae0b",
+    "result_count": 6
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "owcp-dev-owcs.dol.gov",
+    "name_value": "owcp-dev-owcs.dol.gov",
+    "id": 21072822452,
+    "entry_timestamp": "2025-09-17T02:53:58.115",
+    "not_before": "2025-09-17T00:00:00",
+    "not_after": "2026-10-16T23:59:59",
+    "serial_number": "0be754d4746d8b01a541b9e31597eeaf",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "cssapi.dol.gov",
+    "name_value": "cssapi.dol.gov",
+    "id": 21072295929,
+    "entry_timestamp": "2025-09-17T02:18:25.094",
+    "not_before": "2025-09-17T00:00:00",
+    "not_after": "2026-10-16T23:59:59",
+    "serial_number": "0bda6e64324fb082a8e1f0d19688b1f7",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 385512,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
     "common_name": "splunk.dol.gov",
@@ -8397,18 +8433,6 @@
     "not_before": "2024-08-22T18:29:12",
     "not_after": "2025-09-22T18:29:11",
     "serial_number": "14eed5562a463753e18960c38727662b",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "dev-ofccp-tls-api.dol.gov",
-    "name_value": "dev-ofccp-tls-api.dol.gov\nwww.dev-ofccp-tls-api.dol.gov",
-    "id": 14205167529,
-    "entry_timestamp": "2024-08-19T09:26:33.201",
-    "not_before": "2024-08-19T00:00:00",
-    "not_after": "2025-09-17T23:59:59",
-    "serial_number": "03347a78f9e5f19f6e14a34c052d960e",
     "result_count": 3
   }
 ]
