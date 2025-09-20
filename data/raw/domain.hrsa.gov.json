@@ -1,5 +1,41 @@
 [
   {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "*.hrsa.gov",
+    "name_value": "*.hrsa.gov",
+    "id": 21138399463,
+    "entry_timestamp": "2025-09-19T19:09:36.023",
+    "not_before": "2025-09-19T00:00:00",
+    "not_after": "2026-10-18T23:59:59",
+    "serial_number": "0cba614d652fec4b2e13d4d17937558d",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "*.uat.hrsa.gov",
+    "name_value": "*.uat.hrsa.gov",
+    "id": 21138382486,
+    "entry_timestamp": "2025-09-19T19:08:43.764",
+    "not_before": "2025-09-19T00:00:00",
+    "not_after": "2026-10-18T23:59:59",
+    "serial_number": "05978ee5dbd05177ee5cd54fda1dc1e7",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "*.hrsa.gov",
+    "name_value": "*.hrsa.gov",
+    "id": 21138294100,
+    "entry_timestamp": "2025-09-19T19:04:00.064",
+    "not_before": "2025-09-19T00:00:00",
+    "not_after": "2026-10-18T23:59:59",
+    "serial_number": "0ebd2e30c715af0fe1aa5ca4a88b501c",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "commercialaudit.hrsa.gov",
@@ -754,18 +790,6 @@
     "not_after": "2025-10-06T19:57:11",
     "serial_number": "400191c8ea68eba76916b4ceac66bfd5",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "commercialaudit.hrsa.gov",
-    "name_value": "commercialaudit.hrsa.gov\nwww.commercialaudit.hrsa.gov",
-    "id": 20316936536,
-    "entry_timestamp": "2025-08-13T23:09:52.512",
-    "not_before": "2024-08-20T19:46:34",
-    "not_after": "2025-09-19T19:45:34",
-    "serial_number": "4001917153aca03455301adadc2b7f49",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 153248,
@@ -1665,54 +1689,6 @@
     "not_before": "2025-06-23T18:46:59",
     "not_after": "2026-07-23T18:45:59",
     "serial_number": "4001979e1d7454f072add6c5316aa423",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "miechvmeeting.hrsa.gov",
-    "name_value": "miechvmeeting.hrsa.gov",
-    "id": 19167821904,
-    "entry_timestamp": "2025-06-22T01:29:10.197",
-    "not_before": "2025-06-22T00:30:39",
-    "not_after": "2025-09-20T00:30:38",
-    "serial_number": "0524edab73579a3063660a82c5700bc79816",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "miechvmeeting.hrsa.gov",
-    "name_value": "miechvmeeting.hrsa.gov",
-    "id": 19167818171,
-    "entry_timestamp": "2025-06-22T01:29:09.845",
-    "not_before": "2025-06-22T00:30:39",
-    "not_after": "2025-09-20T00:30:38",
-    "serial_number": "0524edab73579a3063660a82c5700bc79816",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "hrsa.gov",
-    "name_value": "*.hrsa.gov\nhrsa.gov",
-    "id": 19159051719,
-    "entry_timestamp": "2025-06-21T15:31:23.979",
-    "not_before": "2025-06-21T14:31:23",
-    "not_after": "2025-09-19T15:31:19",
-    "serial_number": "009ce26c4cfd6ca8610e987b3c761ad602",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "hrsa.gov",
-    "name_value": "*.hrsa.gov\nhrsa.gov",
-    "id": 19159040309,
-    "entry_timestamp": "2025-06-21T15:31:14.282",
-    "not_before": "2025-06-21T14:31:13",
-    "not_after": "2025-09-19T15:28:32",
-    "serial_number": "229c25f793da9aee0d279835655c4dd9",
     "result_count": 3
   },
   {
@@ -4125,18 +4101,6 @@
     "not_before": "2024-08-30T14:01:12",
     "not_after": "2025-09-29T14:00:12",
     "serial_number": "400191a39713ae2cf47fae318900452f",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "commercialaudit.hrsa.gov",
-    "name_value": "commercialaudit.hrsa.gov\nwww.commercialaudit.hrsa.gov",
-    "id": 14221076863,
-    "entry_timestamp": "2024-08-20T19:46:34.847",
-    "not_before": "2024-08-20T19:46:34",
-    "not_after": "2025-09-19T19:45:34",
-    "serial_number": "4001917153aca03455301adadc2b7f49",
     "result_count": 3
   }
 ]
