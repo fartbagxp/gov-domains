@@ -113,7 +113,7 @@
     "common_name": "*.prod.cnxs.vpcaas.fcs.gsa.gov",
     "name_value": "*.prod.cnxs.vpcaas.fcs.gsa.gov",
     "id": 21098359618,
-    "entry_timestamp": "2025-09-18T02:05:44.384",
+    "entry_timestamp": "2025-09-18T02:05:44.365",
     "not_before": "2025-09-18T01:07:14",
     "not_after": "2025-12-17T01:07:13",
     "serial_number": "052adfcbb3aa8466628758cb7bacdb587d97",
@@ -185,7 +185,7 @@
     "common_name": "*.preprod.cnxs.vpcaas.fcs.gsa.gov",
     "name_value": "*.preprod.cnxs.vpcaas.fcs.gsa.gov",
     "id": 21087272290,
-    "entry_timestamp": "2025-09-17T15:17:10.71",
+    "entry_timestamp": "2025-09-17T15:17:10.7",
     "not_before": "2025-09-17T14:18:40",
     "not_after": "2025-12-16T14:18:39",
     "serial_number": "06a12fc62730de7cc8fe86c812faf096c27d",
@@ -233,7 +233,7 @@
     "common_name": "networx-public-pricer.test.nhc.vpcaas.fcs.gsa.gov",
     "name_value": "networx-public-pricer.test.nhc.vpcaas.fcs.gsa.gov",
     "id": 21075149812,
-    "entry_timestamp": "2025-09-17T05:05:45.346",
+    "entry_timestamp": "2025-09-17T05:05:45.237",
     "not_before": "2025-09-17T04:07:15",
     "not_after": "2025-12-16T04:07:14",
     "serial_number": "055962f3421385a5e47c864e5494028ca98a",
@@ -305,7 +305,7 @@
     "common_name": "eis-public-pricer.test.nhc.vpcaas.fcs.gsa.gov",
     "name_value": "eis-public-pricer.test.nhc.vpcaas.fcs.gsa.gov",
     "id": 21075147388,
-    "entry_timestamp": "2025-09-17T05:05:20.94",
+    "entry_timestamp": "2025-09-17T05:05:20.919",
     "not_before": "2025-09-17T04:06:50",
     "not_after": "2025-12-16T04:06:49",
     "serial_number": "06225f0adae6ee126aef6cae9f26467c2eca",
@@ -377,7 +377,7 @@
     "common_name": "eis-agency-pricer.test.nhc.vpcaas.fcs.gsa.gov",
     "name_value": "eis-agency-pricer.test.nhc.vpcaas.fcs.gsa.gov\nnetworx-agency-pricer.test.nhc.vpcaas.fcs.gsa.gov\nwits3-agency-pricer.test.nhc.vpcaas.fcs.gsa.gov",
     "id": 21075046345,
-    "entry_timestamp": "2025-09-17T05:01:17.848",
+    "entry_timestamp": "2025-09-17T05:01:17.806",
     "not_before": "2025-09-17T04:02:47",
     "not_after": "2025-12-16T04:02:46",
     "serial_number": "05dea3f67f54b9bbf872a83ad95049a6afc9",
@@ -11628,30 +11628,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "nsobs-cert.fasbilling.gsa.gov",
-    "name_value": "nsobs-cert.fasbilling.gsa.gov",
-    "id": 19181988310,
-    "entry_timestamp": "2025-06-22T16:09:47.59",
-    "not_before": "2025-06-22T15:11:15",
-    "not_after": "2025-09-20T15:11:14",
-    "serial_number": "0503d7db00e8b818bcbbef06a81d61e7b4a8",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "nsobs-cert.fasbilling.gsa.gov",
-    "name_value": "nsobs-cert.fasbilling.gsa.gov",
-    "id": 19181988280,
-    "entry_timestamp": "2025-06-22T16:09:45.256",
-    "not_before": "2025-06-22T15:11:15",
-    "not_after": "2025-09-20T15:11:14",
-    "serial_number": "0503d7db00e8b818bcbbef06a81d61e7b4a8",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "acmexporttest.cc.mcaas.fcs.gsa.gov",
@@ -20590,17 +20566,5 @@
     "not_after": "2025-09-22T23:59:59",
     "serial_number": "0414feca64039ba1bd57f41c46545719",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "boxi.ocfo.gsa.gov",
-    "name_value": "boxi.gss.gsa.gov\nboxi.ocfo.gsa.gov\ndev-boxi.ocfo.gsa.gov\ndev-mstr.ocfo.gsa.gov\ndev-pentaho.ocfo.gsa.gov\ntest-boxi.ocfo.gsa.gov",
-    "id": 14212948255,
-    "entry_timestamp": "2024-08-20T03:07:19.784",
-    "not_before": "2024-08-20T00:00:00",
-    "not_after": "2025-09-20T23:59:59",
-    "serial_number": "0971b1ca59de9623ec9955a060f212a1",
-    "result_count": 7
   }
 ]

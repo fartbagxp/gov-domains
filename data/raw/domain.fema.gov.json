@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 185748,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
+    "common_name": "www.homelandsecurity.gov",
+    "name_value": "fma.fema.gov\nstaging-fma.fema.gov",
+    "id": 21166901885,
+    "entry_timestamp": "2025-09-21T00:32:32.384",
+    "not_before": "2025-09-21T00:00:00",
+    "not_after": "2026-09-22T23:59:59",
+    "serial_number": "08a106d58e7a234f92256199d64ec62a",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "www.homelandsecurity.gov",
+    "name_value": "fma.fema.gov\nstaging-fma.fema.gov",
+    "id": 21166729553,
+    "entry_timestamp": "2025-09-21T00:22:02.424",
+    "not_before": "2025-09-21T00:00:00",
+    "not_after": "2026-09-22T23:59:59",
+    "serial_number": "02786b6c15040fe80f6e086bff2e9f99",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "core.nfipdirect.fema.gov",
@@ -2304,30 +2328,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "api.stage.nfipdirect.fema.gov",
-    "name_value": "*.api.stage.nfipdirect.fema.gov\napi.stage.nfipdirect.fema.gov",
-    "id": 20204260015,
-    "entry_timestamp": "2025-08-08T15:52:51.322",
-    "not_before": "2025-08-08T14:54:18",
-    "not_after": "2025-11-06T14:54:17",
-    "serial_number": "06733221cc01cdb54053e3405dbaff7268d5",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "api.stage.nfipdirect.fema.gov",
-    "name_value": "*.api.stage.nfipdirect.fema.gov\napi.stage.nfipdirect.fema.gov",
-    "id": 20204251495,
-    "entry_timestamp": "2025-08-08T15:52:49.007",
-    "not_before": "2025-08-08T14:54:18",
-    "not_after": "2025-11-06T14:54:17",
-    "serial_number": "06733221cc01cdb54053e3405dbaff7268d5",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 286242,
     "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
     "common_name": "api.stage.nfipdirect.fema.gov",
@@ -2649,30 +2649,6 @@
     "not_before": "2025-08-04T14:51:53",
     "not_after": "2025-11-02T14:51:52",
     "serial_number": "055aec6c68aab3b7ffaf537a5066f8632f68",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "api.nfipdirect.fema.gov",
-    "name_value": "*.api.nfipdirect.fema.gov\napi.nfipdirect.fema.gov",
-    "id": 20114189209,
-    "entry_timestamp": "2025-08-04T15:31:58.593",
-    "not_before": "2025-08-04T14:33:28",
-    "not_after": "2025-11-02T14:33:27",
-    "serial_number": "069913251efa1ea980ec2640b243226efe99",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "api.nfipdirect.fema.gov",
-    "name_value": "*.api.nfipdirect.fema.gov\napi.nfipdirect.fema.gov",
-    "id": 20114189669,
-    "entry_timestamp": "2025-08-04T15:31:58.363",
-    "not_before": "2025-08-04T14:33:28",
-    "not_after": "2025-11-02T14:33:27",
-    "serial_number": "069913251efa1ea980ec2640b243226efe99",
     "result_count": 3
   },
   {
@@ -4546,30 +4522,6 @@
     "not_after": "2025-11-19T23:59:59",
     "serial_number": "05a1b8ff3ebef87c348480125083f3b7",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "origin-go.fema.gov",
-    "name_value": "*.origin-go.fema.gov\norigin-go.fema.gov",
-    "id": 19395831893,
-    "entry_timestamp": "2025-07-02T12:49:10.105",
-    "not_before": "2025-07-02T11:50:37",
-    "not_after": "2025-09-30T11:50:36",
-    "serial_number": "0600a71e491e68d9479a2d8cb99b576a75d4",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "origin-go.fema.gov",
-    "name_value": "*.origin-go.fema.gov\norigin-go.fema.gov",
-    "id": 19395831138,
-    "entry_timestamp": "2025-07-02T12:49:07.76",
-    "not_before": "2025-07-02T11:50:37",
-    "not_after": "2025-09-30T11:50:36",
-    "serial_number": "0600a71e491e68d9479a2d8cb99b576a75d4",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 286236,
@@ -6624,30 +6576,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 1671,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2014 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1M",
-    "common_name": "nfipdirect.fema.gov",
-    "name_value": "get.nfipdirect.fema.gov\nIdfed.nfipdirect.fema.gov\nmy.nfipdirect.fema.gov\nnfipdirect.fema.gov\nsftp.nfipdirect.fema.gov\ntableau.nfipdirect.fema.gov\nwww.nfipdirect.fema.gov",
-    "id": 16780697779,
-    "entry_timestamp": "2025-02-20T23:52:40.817",
-    "not_before": "2024-09-17T15:03:27",
-    "not_after": "2025-09-20T15:03:26",
-    "serial_number": "138963e583b27a460e7dd1d2fd53031d",
-    "result_count": 8
-  },
-  {
-    "issuer_ca_id": 1671,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2014 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1M",
-    "common_name": "stage.nfipdirect.fema.gov",
-    "name_value": "stage.nfipdirect.fema.gov",
-    "id": 16780679142,
-    "entry_timestamp": "2025-02-20T23:45:56.471",
-    "not_before": "2024-09-17T15:08:57",
-    "not_after": "2025-09-20T15:08:56",
-    "serial_number": "7e7a4b8870ce778d0af09464037ed0e9",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "*.nfipdirect.fema.gov",
@@ -7272,18 +7200,6 @@
     "result_count": 11
   },
   {
-    "issuer_ca_id": 1671,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2014 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1M",
-    "common_name": "pivot.pentest.gcp-pivot.fema.net",
-    "name_value": "part-pentest.fema.gov\npivot-pentest.fema.gov\nucort-pivot-pentest.fema.gov",
-    "id": 14610170747,
-    "entry_timestamp": "2024-09-19T19:06:51.96",
-    "not_before": "2024-09-19T19:06:51",
-    "not_after": "2025-09-20T19:06:50",
-    "serial_number": "5cff2e8b998d34f945a500c52e4ce934",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "apps.fema.gov",
@@ -7320,18 +7236,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 1671,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2014 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1M",
-    "common_name": "stage.nfipdirect.fema.gov",
-    "name_value": "stage.nfipdirect.fema.gov",
-    "id": 14585152861,
-    "entry_timestamp": "2024-09-17T15:08:58.096",
-    "not_before": "2024-09-17T15:08:57",
-    "not_after": "2025-09-20T15:08:56",
-    "serial_number": "7e7a4b8870ce778d0af09464037ed0e9",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "atp.aws.fema.gov",
@@ -7342,18 +7246,6 @@
     "not_after": "2025-10-18T23:59:59",
     "serial_number": "0fe17cf06ee58d02e983cc26a0e5fe50",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1671,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2014 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1M",
-    "common_name": "nfipdirect.fema.gov",
-    "name_value": "get.nfipdirect.fema.gov\nIdfed.nfipdirect.fema.gov\nmy.nfipdirect.fema.gov\nnfipdirect.fema.gov\nsftp.nfipdirect.fema.gov\ntableau.nfipdirect.fema.gov\nwww.nfipdirect.fema.gov",
-    "id": 14585107802,
-    "entry_timestamp": "2024-09-17T15:03:27.817",
-    "not_before": "2024-09-17T15:03:27",
-    "not_after": "2025-09-20T15:03:26",
-    "serial_number": "138963e583b27a460e7dd1d2fd53031d",
-    "result_count": 8
   },
   {
     "issuer_ca_id": 185752,
@@ -7414,18 +7306,6 @@
     "not_after": "2025-10-18T23:59:59",
     "serial_number": "083a5187712c3866d459a8c384656714",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1671,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2014 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1M",
-    "common_name": "nfipdirect.fema.gov",
-    "name_value": "get.nfipdirect.fema.gov\nIdfed.nfipdirect.fema.gov\nmy.nfipdirect.fema.gov\nnfipdirect.fema.gov\nreports.nfipdirect.fema.gov\nsftp.nfipdirect.fema.gov\nsplunk.nfipdirect.fema.gov\ntableau.nfipdirect.fema.gov\nwww.nfipdirect.fema.gov",
-    "id": 14575043227,
-    "entry_timestamp": "2024-09-16T19:33:39.286",
-    "not_before": "2024-09-16T19:33:39",
-    "not_after": "2025-09-20T19:33:37",
-    "serial_number": "7ace0885814a980abe3f4bc2b0a195db",
-    "result_count": 10
   },
   {
     "issuer_ca_id": 185752,
