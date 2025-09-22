@@ -1,5 +1,65 @@
 [
   {
+    "issuer_ca_id": 405762,
+    "issuer_name": "C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2025 Q3",
+    "common_name": "imperva.com",
+    "name_value": "*.uat.dol.gov",
+    "id": 21195369033,
+    "entry_timestamp": "2025-09-22T07:00:47.196",
+    "not_before": "2025-09-22T07:00:44",
+    "not_after": "2025-09-23T07:00:07",
+    "serial_number": "01bd8c3154a5e8721df640bb1761f09e",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 405762,
+    "issuer_name": "C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2025 Q3",
+    "common_name": "imperva.com",
+    "name_value": "*.dol.gov",
+    "id": 21195366401,
+    "entry_timestamp": "2025-09-22T07:00:46.691",
+    "not_before": "2025-09-22T07:00:44",
+    "not_after": "2025-09-23T07:00:06",
+    "serial_number": "01e46c28cca43a2f062523e12bb15f8c",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "flag.dol.gov",
+    "name_value": "api.seasonaljobs.dol.gov\nedit.flag.dol.gov\nflag.datahub.dol.gov\nflag.dol.gov\nseasonaljobs.dol.gov\nwww.flag.dol.gov",
+    "id": 21185634028,
+    "entry_timestamp": "2025-09-21T20:40:55.621",
+    "not_before": "2025-09-21T00:00:00",
+    "not_after": "2026-10-20T23:59:59",
+    "serial_number": "05ee1e940578d3bd8409406a1ca7dfbd",
+    "result_count": 7
+  },
+  {
+    "issuer_ca_id": 247115,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
+    "common_name": "flag.dol.gov",
+    "name_value": "api.seasonaljobs.dol.gov\nedit.flag.dol.gov\nflag.datahub.dol.gov\nflag.dol.gov\nseasonaljobs.dol.gov",
+    "id": 21182929630,
+    "entry_timestamp": "2025-09-21T17:45:37.34",
+    "not_before": "2025-08-20T00:00:00",
+    "not_after": "2026-09-18T23:59:59",
+    "serial_number": "0ff616b963fcb74474b659febf8dcf64",
+    "result_count": 6
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "flag.dol.gov",
+    "name_value": "api.seasonaljobs.dol.gov\nedit.flag.dol.gov\nflag.datahub.dol.gov\nflag.dol.gov\nseasonaljobs.dol.gov\nwww.flag.dol.gov",
+    "id": 21182913333,
+    "entry_timestamp": "2025-09-21T17:44:06.359",
+    "not_before": "2025-09-21T00:00:00",
+    "not_after": "2026-10-20T23:59:59",
+    "serial_number": "05ee1e940578d3bd8409406a1ca7dfbd",
+    "result_count": 7
+  },
+  {
     "issuer_ca_id": 246719,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "prod.api.datahub.dol.gov",

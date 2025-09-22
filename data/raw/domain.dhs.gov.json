@@ -1,5 +1,77 @@
 [
   {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "hq-icap.dhs.gov",
+    "name_value": "*.hq-icap.dhs.gov\nhq-icap.dhs.gov",
+    "id": 21188684418,
+    "entry_timestamp": "2025-09-21T23:58:01.968",
+    "not_before": "2025-09-21T22:58:01",
+    "not_after": "2025-12-20T23:57:58",
+    "serial_number": "00b19d834d7ebdc38e0d274ca0339c5481",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "hq-icap.dhs.gov",
+    "name_value": "*.hq-icap.dhs.gov\nhq-icap.dhs.gov",
+    "id": 21188681734,
+    "entry_timestamp": "2025-09-21T23:57:52.318",
+    "not_before": "2025-09-21T22:57:51",
+    "not_after": "2025-12-20T23:55:26",
+    "serial_number": "0084836edb72146e2713e3c54b3be33b3c",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295809,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
+    "common_name": "si2o.dhs.gov",
+    "name_value": "si2o.dhs.gov",
+    "id": 21177570069,
+    "entry_timestamp": "2025-09-21T12:31:42.269",
+    "not_before": "2025-09-21T11:33:10",
+    "not_after": "2025-12-20T11:33:09",
+    "serial_number": "0541bf1a5c292afdc34b1c3be375ac868143",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295809,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
+    "common_name": "si2o.dhs.gov",
+    "name_value": "si2o.dhs.gov",
+    "id": 21177548629,
+    "entry_timestamp": "2025-09-21T12:31:40.507",
+    "not_before": "2025-09-21T11:33:10",
+    "not_after": "2025-12-20T11:33:09",
+    "serial_number": "0541bf1a5c292afdc34b1c3be375ac868143",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295813,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
+    "common_name": "si2o.dhs.gov",
+    "name_value": "si2o.dhs.gov",
+    "id": 21177567974,
+    "entry_timestamp": "2025-09-21T12:31:40.424",
+    "not_before": "2025-09-21T11:33:07",
+    "not_after": "2025-12-20T11:33:06",
+    "serial_number": "05a4e08f11cd152e9a745a0ffcf1e24fc15c",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295813,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
+    "common_name": "si2o.dhs.gov",
+    "name_value": "si2o.dhs.gov",
+    "id": 21177568761,
+    "entry_timestamp": "2025-09-21T12:31:39.985",
+    "not_before": "2025-09-21T11:33:07",
+    "not_after": "2025-12-20T11:33:06",
+    "serial_number": "05a4e08f11cd152e9a745a0ffcf1e24fc15c",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 185748,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
     "common_name": "www.homelandsecurity.gov",
@@ -101,7 +173,7 @@
     "common_name": "uscis-gp.dhs.gov",
     "name_value": "*.uscis-gp.dhs.gov\nuscis-gp.dhs.gov",
     "id": 21140564205,
-    "entry_timestamp": "2025-09-19T19:16:25.528",
+    "entry_timestamp": "2025-09-19T19:16:25.494",
     "not_before": "2025-09-19T18:17:55",
     "not_after": "2025-12-18T18:17:54",
     "serial_number": "0680c61c00f3b6f570d9dcda772159a45adb",
@@ -125,7 +197,7 @@
     "common_name": "cdp.dhs.gov",
     "name_value": "*.cdp.dhs.gov\ncdp.dhs.gov",
     "id": 21139838963,
-    "entry_timestamp": "2025-09-19T18:25:37.131",
+    "entry_timestamp": "2025-09-19T18:25:37.128",
     "not_before": "2025-09-19T17:27:06",
     "not_after": "2025-12-18T17:27:05",
     "serial_number": "05e9836d7bc70516aae263171bbaa5fb12cc",
@@ -13308,30 +13380,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 204407,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
-    "common_name": "govtauat.dhs.gov",
-    "name_value": "*.govtauat.dhs.gov\ngovtauat.dhs.gov",
-    "id": 19326464776,
-    "entry_timestamp": "2025-06-29T08:44:08.217",
-    "not_before": "2025-06-29T00:00:00",
-    "not_after": "2025-09-21T21:24:02",
-    "serial_number": "2db7b1a8a170c15d3b8d7c18381b3675",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204407,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
-    "common_name": "govtauat.dhs.gov",
-    "name_value": "*.govtauat.dhs.gov\ngovtauat.dhs.gov",
-    "id": 19326464622,
-    "entry_timestamp": "2025-06-29T08:44:07.366",
-    "not_before": "2025-06-29T00:00:00",
-    "not_after": "2025-09-21T21:24:02",
-    "serial_number": "2db7b1a8a170c15d3b8d7c18381b3675",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 295810,
     "issuer_name": "C=US, O=Let's Encrypt, CN=E5",
     "common_name": "frtf.dhs.gov",
@@ -14112,54 +14160,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "share-author-ext.dhs.gov",
-    "name_value": "*.share-author-ext.dhs.gov\nshare-author-ext.dhs.gov",
-    "id": 19219981771,
-    "entry_timestamp": "2025-06-24T07:10:30.845",
-    "not_before": "2025-06-24T06:12:00",
-    "not_after": "2025-09-22T06:11:59",
-    "serial_number": "058b46193a65af12f6c901e8ef253cb65862",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "share-author-ext.dhs.gov",
-    "name_value": "*.share-author-ext.dhs.gov\nshare-author-ext.dhs.gov",
-    "id": 19219981756,
-    "entry_timestamp": "2025-06-24T07:10:30.467",
-    "not_before": "2025-06-24T06:12:00",
-    "not_after": "2025-09-22T06:11:59",
-    "serial_number": "058b46193a65af12f6c901e8ef253cb65862",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "share-pub-ext.dhs.gov",
-    "name_value": "*.share-pub-ext.dhs.gov\nshare-pub-ext.dhs.gov",
-    "id": 19219687448,
-    "entry_timestamp": "2025-06-24T06:50:42.898",
-    "not_before": "2025-06-24T05:52:12",
-    "not_after": "2025-09-22T05:52:11",
-    "serial_number": "0545cec8de443f3a2f4f4aecbcff735bfadb",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "share-pub-ext.dhs.gov",
-    "name_value": "*.share-pub-ext.dhs.gov\nshare-pub-ext.dhs.gov",
-    "id": 19219687125,
-    "entry_timestamp": "2025-06-24T06:50:42.508",
-    "not_before": "2025-06-24T05:52:12",
-    "not_after": "2025-09-22T05:52:11",
-    "serial_number": "0545cec8de443f3a2f4f4aecbcff735bfadb",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "cbp-bigpipe-dev.sat.cbp.dhs.gov",
@@ -14169,30 +14169,6 @@
     "not_before": "2025-06-23T23:24:54",
     "not_after": "2026-06-23T04:00:00",
     "serial_number": "6325f61f7b06b592a003438b216e8428",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "tiedata.dhs.gov",
-    "name_value": "*.tiedata.dhs.gov\ntiedata.dhs.gov",
-    "id": 19212539927,
-    "entry_timestamp": "2025-06-23T23:21:53.113",
-    "not_before": "2025-06-23T22:21:52",
-    "not_after": "2025-09-21T23:21:51",
-    "serial_number": "00e8841cdc96d444630e5e905cc2838569",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "tiedata.dhs.gov",
-    "name_value": "*.tiedata.dhs.gov\ntiedata.dhs.gov",
-    "id": 19212539715,
-    "entry_timestamp": "2025-06-23T23:21:45.953",
-    "not_before": "2025-06-23T22:21:45",
-    "not_after": "2025-09-21T23:20:01",
-    "serial_number": "00d6549ddd771a3473135382ff16b06c86",
     "result_count": 3
   },
   {
@@ -17064,30 +17040,6 @@
     "result_count": 4
   },
   {
-    "issuer_ca_id": 1671,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2014 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1M",
-    "common_name": "cbpuag.cbp.dhs.gov",
-    "name_value": "cbpuag.cbp.dhs.gov",
-    "id": 16780800679,
-    "entry_timestamp": "2025-02-21T00:04:17.746",
-    "not_before": "2024-08-21T20:03:07",
-    "not_after": "2025-09-21T20:03:06",
-    "serial_number": "149cae6a88927ea3907d475d3cbd94f6",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1671,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2014 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1M",
-    "common_name": "cbpmdm.cbp.dhs.gov",
-    "name_value": "cbpmdm.cbp.dhs.gov",
-    "id": 16780699322,
-    "entry_timestamp": "2025-02-20T23:53:03.881",
-    "not_before": "2024-08-21T20:03:28",
-    "not_after": "2025-09-21T20:03:27",
-    "serial_number": "0fa2b431028d3bacf3fcd059c5e1e771",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 904,
     "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
     "common_name": "oip.dhs.gov",
@@ -19762,29 +19714,5 @@
     "not_after": "2025-09-23T14:10:31",
     "serial_number": "2b5e36da8c0da1094d6631aa0dae6d9a",
     "result_count": 4
-  },
-  {
-    "issuer_ca_id": 1671,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2014 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1M",
-    "common_name": "cbpmdm.cbp.dhs.gov",
-    "name_value": "cbpmdm.cbp.dhs.gov",
-    "id": 14233257068,
-    "entry_timestamp": "2024-08-21T20:03:28.734",
-    "not_before": "2024-08-21T20:03:28",
-    "not_after": "2025-09-21T20:03:27",
-    "serial_number": "0fa2b431028d3bacf3fcd059c5e1e771",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1671,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2014 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1M",
-    "common_name": "cbpuag.cbp.dhs.gov",
-    "name_value": "cbpuag.cbp.dhs.gov",
-    "id": 14233256774,
-    "entry_timestamp": "2024-08-21T20:03:08.125",
-    "not_before": "2024-08-21T20:03:07",
-    "not_after": "2025-09-21T20:03:06",
-    "serial_number": "149cae6a88927ea3907d475d3cbd94f6",
-    "result_count": 2
   }
 ]

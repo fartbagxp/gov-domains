@@ -1,5 +1,65 @@
 [
   {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "discvr.faa.gov",
+    "name_value": "discvr.faa.gov",
+    "id": 21170980677,
+    "entry_timestamp": "2025-09-21T05:01:06.088",
+    "not_before": "2025-09-21T00:00:00",
+    "not_after": "2026-10-20T23:59:59",
+    "serial_number": "0d913ae2d8c0d582801545317ed44055",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "discvr-stage.faa.gov",
+    "name_value": "discvr-stage.faa.gov",
+    "id": 21170469121,
+    "entry_timestamp": "2025-09-21T04:26:09.761",
+    "not_before": "2025-09-21T00:00:00",
+    "not_after": "2026-10-20T23:59:59",
+    "serial_number": "06ce7004ce71507a2c3878c59ffe956b",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "discvr-test.faa.gov",
+    "name_value": "discvr-test.faa.gov",
+    "id": 21170227830,
+    "entry_timestamp": "2025-09-21T04:09:42.909",
+    "not_before": "2025-09-21T00:00:00",
+    "not_after": "2026-10-20T23:59:59",
+    "serial_number": "0c9c2d0860fd4d2d89b75432101d32c7",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "discvr-onboarding.faa.gov",
+    "name_value": "discvr-onboarding.faa.gov",
+    "id": 21170123067,
+    "entry_timestamp": "2025-09-21T04:03:10.638",
+    "not_before": "2025-09-21T00:00:00",
+    "not_after": "2026-10-20T23:59:59",
+    "serial_number": "03444616e9a6fb05ef177601b15a99a5",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "discvr-dev.faa.gov",
+    "name_value": "discvr-dev.faa.gov",
+    "id": 21169952362,
+    "entry_timestamp": "2025-09-21T03:50:50.42",
+    "not_before": "2025-09-21T00:00:00",
+    "not_after": "2026-10-20T23:59:59",
+    "serial_number": "0637ddf494ca22504869a2d4b4a15b2e",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 62123,
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
     "common_name": "acy-vm.faves.faa.gov",
@@ -30417,102 +30477,6 @@
     "not_before": "2024-08-27T00:00:00",
     "not_after": "2025-09-23T23:59:59",
     "serial_number": "0739111c76da46a46290b790c3646455",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "pure-bo-prod.faa.gov",
-    "name_value": "pure-bo-prod.faa.gov",
-    "id": 14231104747,
-    "entry_timestamp": "2024-08-21T15:51:40.132",
-    "not_before": "2024-08-21T00:00:00",
-    "not_after": "2025-09-21T23:59:59",
-    "serial_number": "06d491b65eaa3d603195bb00e4ed343a",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "pure-bo-test.faa.gov",
-    "name_value": "pure-bo-test.faa.gov",
-    "id": 14221446378,
-    "entry_timestamp": "2024-08-20T20:28:42.212",
-    "not_before": "2024-08-20T00:00:00",
-    "not_after": "2025-09-20T23:59:59",
-    "serial_number": "0449db2234126fbb3292a1b0ae3b65c4",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "pure-bo-dev.faa.gov",
-    "name_value": "pure-bo-dev.faa.gov",
-    "id": 14220492459,
-    "entry_timestamp": "2024-08-20T18:39:08.308",
-    "not_before": "2024-08-20T00:00:00",
-    "not_after": "2025-09-20T23:59:59",
-    "serial_number": "05d014f815b52afd5a95c52637f32415",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "JACTDFPASVW03.faa.gov",
-    "name_value": "JACTDFPASVW03.faa.gov\nwifisponsor.faa.gov",
-    "id": 14218728633,
-    "entry_timestamp": "2024-08-20T15:23:03.657",
-    "not_before": "2024-08-20T00:00:00",
-    "not_after": "2025-09-20T23:59:59",
-    "serial_number": "0589ee1b8b95f45453a0396c2b0a7c1a",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "jactdfpasvw01.faa.gov",
-    "name_value": "jactdfpasvw01.faa.gov",
-    "id": 14218721662,
-    "entry_timestamp": "2024-08-20T15:22:24.999",
-    "not_before": "2024-08-20T00:00:00",
-    "not_after": "2025-09-20T23:59:59",
-    "serial_number": "0e78f7e9a5835de93c108bdb23f29d76",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "JANMDFPASVW03.faa.gov",
-    "name_value": "JANMDFPASVW03.faa.gov",
-    "id": 14218720288,
-    "entry_timestamp": "2024-08-20T15:21:57.69",
-    "not_before": "2024-08-20T00:00:00",
-    "not_after": "2025-09-20T23:59:59",
-    "serial_number": "0d2d8085030f0e264653f0229e9a2b87",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "IAMCDFPASVDMZ01.faa.gov",
-    "name_value": "IAMCDFPASVDMZ01.faa.gov",
-    "id": 14218711538,
-    "entry_timestamp": "2024-08-20T15:21:34.293",
-    "not_before": "2024-08-20T00:00:00",
-    "not_after": "2025-09-20T23:59:59",
-    "serial_number": "01a129274eed705f47e3be5100ea2dd7",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "JACTDFPASVW02.faa.gov",
-    "name_value": "JACTDFPASVW02.faa.gov",
-    "id": 14218713492,
-    "entry_timestamp": "2024-08-20T15:21:05.241",
-    "not_before": "2024-08-20T00:00:00",
-    "not_after": "2025-09-20T23:59:59",
-    "serial_number": "0ff7989cf88e1322e20a8002a27b33f9",
     "result_count": 2
   }
 ]

@@ -1,5 +1,65 @@
 [
   {
+    "issuer_ca_id": 247117,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon ECDSA 256 M01",
+    "common_name": "usphstraining-test.hhs.gov",
+    "name_value": "usphstraining-test.hhs.gov\nwww.usphstraining-test.hhs.gov",
+    "id": 21190002467,
+    "entry_timestamp": "2025-09-22T01:18:31.324",
+    "not_before": "2025-09-22T00:00:00",
+    "not_after": "2026-10-21T23:59:59",
+    "serial_number": "0f837568f55e9b2a24cab6f95269ca0c",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 247108,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon ECDSA 256 M02",
+    "common_name": "usphstraining-test.hhs.gov",
+    "name_value": "usphstraining-test.hhs.gov\nwww.usphstraining-test.hhs.gov",
+    "id": 21188824863,
+    "entry_timestamp": "2025-09-22T00:08:13.21",
+    "not_before": "2024-10-21T00:00:00",
+    "not_after": "2025-11-20T23:59:59",
+    "serial_number": "076314bd4445b9e75964a7ed18bb58ab",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 247117,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon ECDSA 256 M01",
+    "common_name": "usphstraining-test.hhs.gov",
+    "name_value": "usphstraining-test.hhs.gov\nwww.usphstraining-test.hhs.gov",
+    "id": 21188821733,
+    "entry_timestamp": "2025-09-22T00:08:08.836",
+    "not_before": "2025-09-22T00:00:00",
+    "not_after": "2026-10-21T23:59:59",
+    "serial_number": "0f837568f55e9b2a24cab6f95269ca0c",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "go.hhs.gov",
+    "name_value": "go.hhs.gov",
+    "id": 21186851606,
+    "entry_timestamp": "2025-09-21T22:01:12.17",
+    "not_before": "2025-09-21T21:02:41",
+    "not_after": "2025-12-20T21:02:40",
+    "serial_number": "06519b87f971addcb5d04257820370875186",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "go.hhs.gov",
+    "name_value": "go.hhs.gov",
+    "id": 21186859087,
+    "entry_timestamp": "2025-09-21T22:01:12.027",
+    "not_before": "2025-09-21T21:02:41",
+    "not_after": "2025-12-20T21:02:40",
+    "serial_number": "06519b87f971addcb5d04257820370875186",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 385516,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust DV TLS Issuing RSA CA 2",
     "common_name": "cwagencyportal.acf.hhs.gov",
@@ -2589,18 +2649,6 @@
     "not_before": "2025-08-15T13:22:56",
     "not_after": "2026-09-14T13:21:56",
     "serial_number": "400198ade5d27987bbfb8e4010e79065",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "asprcaamp.hhs.gov",
-    "name_value": "asprcaamp.hhs.gov",
-    "id": 20322098231,
-    "entry_timestamp": "2025-08-14T05:21:18.73",
-    "not_before": "2024-08-22T15:55:38",
-    "not_after": "2025-09-21T15:54:38",
-    "serial_number": "4001917accf5dbef35721127f62caaf5",
     "result_count": 2
   },
   {
@@ -12417,30 +12465,6 @@
     "not_before": "2024-08-25T23:05:24",
     "not_after": "2025-09-24T23:04:24",
     "serial_number": "4001918bc97fa4d98c1601eae445098e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "licensingregulations.acf.hhs.gov",
-    "name_value": "*.licensingregulations.acf.hhs.gov\nlicensingregulations.acf.hhs.gov",
-    "id": 14256842805,
-    "entry_timestamp": "2024-08-23T17:19:29.187",
-    "not_before": "2024-08-23T00:00:00",
-    "not_after": "2025-09-21T23:59:59",
-    "serial_number": "04524fb09f0dc86d4909bcac73a6ead3",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "asprcaamp.hhs.gov",
-    "name_value": "asprcaamp.hhs.gov",
-    "id": 14243554178,
-    "entry_timestamp": "2024-08-22T15:55:38.404",
-    "not_before": "2024-08-22T15:55:38",
-    "not_after": "2025-09-21T15:54:38",
-    "serial_number": "4001917accf5dbef35721127f62caaf5",
     "result_count": 2
   }
 ]

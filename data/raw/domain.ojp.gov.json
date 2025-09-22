@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 204407,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
+    "common_name": "uat.facjj.ojp.gov",
+    "name_value": "*.uat.facjj.ojp.gov\nuat.facjj.ojp.gov",
+    "id": 21183970309,
+    "entry_timestamp": "2025-09-21T18:49:24.913",
+    "not_before": "2025-09-21T00:00:00",
+    "not_after": "2025-12-18T09:02:25",
+    "serial_number": "7ba8e6bffb9b82496d200d9484e146b6",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204407,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
+    "common_name": "uat.facjj.ojp.gov",
+    "name_value": "*.uat.facjj.ojp.gov\nuat.facjj.ojp.gov",
+    "id": 21183970307,
+    "entry_timestamp": "2025-09-21T18:49:24.464",
+    "not_before": "2025-09-21T00:00:00",
+    "not_after": "2025-12-18T09:02:25",
+    "serial_number": "7ba8e6bffb9b82496d200d9484e146b6",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 204406,
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
     "common_name": "uat.facjj.ojp.gov",
@@ -1846,30 +1870,6 @@
     "not_after": "2025-09-22T23:59:59",
     "serial_number": "06d106005984ae92c18af12c2b6d1797",
     "result_count": 4
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "UAT.BJATTA.BJA.OJP.GOV",
-    "name_value": "ocp-stage.bjatta.bja.ojp.gov\nrp-stage.bjatta.bja.ojp.gov\nstage.bjatta.bja.ojp.gov\nUAT.BJATTA.BJA.OJP.GOV\nvarnish-stage.bjatta.bja.ojp.gov",
-    "id": 20318239085,
-    "entry_timestamp": "2025-08-14T00:48:12.82",
-    "not_before": "2024-08-21T00:00:00",
-    "not_after": "2025-09-21T23:59:59",
-    "serial_number": "04e7c46c63179f398fa3d0cf21f292f8",
-    "result_count": 6
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "BJATTA.BJA.OJP.GOV",
-    "name_value": "BJATTA.BJA.OJP.GOV\nocp.bjatta.bja.ojp.gov\nrp.bjatta.bja.ojp.gov\nvarnish.bjatta.bja.ojp.gov\nwww.bjatta.bja.ojp.gov",
-    "id": 20317507273,
-    "entry_timestamp": "2025-08-13T23:56:46.714",
-    "not_before": "2024-08-21T00:00:00",
-    "not_after": "2025-09-21T23:59:59",
-    "serial_number": "01caf2b9f41e551fa375b57f0427107e",
-    "result_count": 6
   },
   {
     "issuer_ca_id": 286236,
@@ -5074,29 +5074,5 @@
     "not_after": "2025-09-22T23:59:59",
     "serial_number": "04f4117641fe1dadc693b2330ca64e62",
     "result_count": 5
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "UAT.BJATTA.BJA.OJP.GOV",
-    "name_value": "ocp-stage.bjatta.bja.ojp.gov\nrp-stage.bjatta.bja.ojp.gov\nstage.bjatta.bja.ojp.gov\nUAT.BJATTA.BJA.OJP.GOV\nvarnish-stage.bjatta.bja.ojp.gov",
-    "id": 14233856791,
-    "entry_timestamp": "2024-08-21T21:10:35.21",
-    "not_before": "2024-08-21T00:00:00",
-    "not_after": "2025-09-21T23:59:59",
-    "serial_number": "04e7c46c63179f398fa3d0cf21f292f8",
-    "result_count": 6
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "BJATTA.BJA.OJP.GOV",
-    "name_value": "BJATTA.BJA.OJP.GOV\nocp.bjatta.bja.ojp.gov\nrp.bjatta.bja.ojp.gov\nvarnish.bjatta.bja.ojp.gov\nwww.bjatta.bja.ojp.gov",
-    "id": 14233841986,
-    "entry_timestamp": "2024-08-21T21:08:45.76",
-    "not_before": "2024-08-21T00:00:00",
-    "not_after": "2025-09-21T23:59:59",
-    "serial_number": "01caf2b9f41e551fa375b57f0427107e",
-    "result_count": 6
   }
 ]
