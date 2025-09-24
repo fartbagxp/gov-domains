@@ -1,5 +1,53 @@
 [
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "reportfraud.ftc.gov",
+    "name_value": "dr-reportfraud.ftc.gov\ndr-www1.reportfraud.ftc.gov\ndr-www2.reportfraud.ftc.gov\ndr.www.reportfraud.ftc.gov\nreportfraud.ftc.gov\nwww1.reportfraud.ftc.gov\nwww2.reportfraud.ftc.gov\nwww.reportfraud.ftc.gov",
+    "id": 21225911567,
+    "entry_timestamp": "2025-09-23T16:43:51.825",
+    "not_before": "2025-09-09T00:00:00",
+    "not_after": "2026-09-29T23:59:59",
+    "serial_number": "09b58a3a4f5fa69c25664f7c1c5fc1b9",
+    "result_count": 9
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "*.reportfraud.ftc.gov",
+    "name_value": "*.reportfraud.ftc.gov\nreportfraud.ftc.gov",
+    "id": 21225908403,
+    "entry_timestamp": "2025-09-23T16:43:39.363",
+    "not_before": "2025-09-23T00:00:00",
+    "not_after": "2026-10-22T23:59:59",
+    "serial_number": "088178568c486c292c15564dbc97b2b2",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "reportefraude.ftc.gov",
+    "name_value": "dr-reportefraude.ftc.gov\ndr.www1.reportefraude.ftc.gov\ndr.www2.reportefraude.ftc.gov\ndr.www.reportefraude.ftc.gov\nreportefraude.ftc.gov\nwww1.reportefraude.ftc.gov\nwww2.reportefraude.ftc.gov\nwww.reportefraude.ftc.gov",
+    "id": 21225891498,
+    "entry_timestamp": "2025-09-23T16:42:18.312",
+    "not_before": "2025-09-09T00:00:00",
+    "not_after": "2026-09-29T23:59:59",
+    "serial_number": "0281c3bdb8264fdc02d53f246996c209",
+    "result_count": 9
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "*.reportefraude.ftc.gov",
+    "name_value": "*.reportefraude.ftc.gov\nreportefraude.ftc.gov",
+    "id": 21225890942,
+    "entry_timestamp": "2025-09-23T16:42:03.003",
+    "not_before": "2025-09-23T00:00:00",
+    "not_after": "2026-10-22T23:59:59",
+    "serial_number": "08ba0eb12e9c765f0423aab2ce1fa7f1",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 295816,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "rnlogin.ftc.gov",
@@ -190,18 +238,6 @@
     "not_after": "2025-12-01T02:30:44",
     "serial_number": "06a969e7a7793534cb36283906228d55574e",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "reportefraude.ftc.gov",
-    "name_value": "dr-reportefraude.ftc.gov\ndr.www1.reportefraude.ftc.gov\ndr.www2.reportefraude.ftc.gov\ndr.www.reportefraude.ftc.gov\nreportefraude.ftc.gov\nwww1.reportefraude.ftc.gov\nwww2.reportefraude.ftc.gov\nwww.reportefraude.ftc.gov",
-    "id": 20408878661,
-    "entry_timestamp": "2025-08-18T03:23:37.008",
-    "not_before": "2024-09-09T00:00:00",
-    "not_after": "2025-09-23T23:59:59",
-    "serial_number": "0ef5e7bf4d893322b8d440f5e911bad4",
-    "result_count": 9
   },
   {
     "issuer_ca_id": 295815,
@@ -842,18 +878,6 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "reportfraud.ftc.gov",
-    "name_value": "dr-reportfraud.ftc.gov\ndr-www1.reportfraud.ftc.gov\ndr-www2.reportfraud.ftc.gov\ndr.www.reportfraud.ftc.gov\nreportfraud.ftc.gov\nwww1.reportfraud.ftc.gov\nwww2.reportfraud.ftc.gov\nwww.reportfraud.ftc.gov",
-    "id": 15453482346,
-    "entry_timestamp": "2024-11-22T08:47:52.681",
-    "not_before": "2024-09-09T00:00:00",
-    "not_after": "2025-09-23T23:59:59",
-    "serial_number": "051e09e46383fafdd90b4dbd48f483a5",
-    "result_count": 9
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "guestlogin.ftc.gov",
     "name_value": "guestlogin.ftc.gov",
     "id": 15069573802,
@@ -946,29 +970,5 @@
     "not_after": "2025-10-19T23:59:59",
     "serial_number": "0717c60ed5d6e32cddf5417ae831d727",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "reportefraude.ftc.gov",
-    "name_value": "dr-reportefraude.ftc.gov\ndr.www1.reportefraude.ftc.gov\ndr.www2.reportefraude.ftc.gov\ndr.www.reportefraude.ftc.gov\nreportefraude.ftc.gov\nwww1.reportefraude.ftc.gov\nwww2.reportefraude.ftc.gov\nwww.reportefraude.ftc.gov",
-    "id": 14489835438,
-    "entry_timestamp": "2024-09-09T15:08:24.689",
-    "not_before": "2024-09-09T00:00:00",
-    "not_after": "2025-09-23T23:59:59",
-    "serial_number": "0ef5e7bf4d893322b8d440f5e911bad4",
-    "result_count": 9
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "reportfraud.ftc.gov",
-    "name_value": "dr-reportfraud.ftc.gov\ndr-www1.reportfraud.ftc.gov\ndr-www2.reportfraud.ftc.gov\ndr.www.reportfraud.ftc.gov\nreportfraud.ftc.gov\nwww1.reportfraud.ftc.gov\nwww2.reportfraud.ftc.gov\nwww.reportfraud.ftc.gov",
-    "id": 14489823535,
-    "entry_timestamp": "2024-09-09T15:07:02.701",
-    "not_before": "2024-09-09T00:00:00",
-    "not_after": "2025-09-23T23:59:59",
-    "serial_number": "051e09e46383fafdd90b4dbd48f483a5",
-    "result_count": 9
   }
 ]
