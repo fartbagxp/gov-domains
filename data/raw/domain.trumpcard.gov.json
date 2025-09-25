@@ -1,5 +1,41 @@
 [
   {
+    "issuer_ca_id": 295809,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
+    "common_name": "trumpcard.gov",
+    "name_value": "*.trumpcard.gov\ntrumpcard.gov",
+    "id": 21230653008,
+    "entry_timestamp": "2025-09-23T21:05:11.829",
+    "not_before": "2025-09-23T20:03:53",
+    "not_after": "2025-12-22T20:03:52",
+    "serial_number": "05569b8b7334357ed79421aea4bc9bba2a71",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "trumpcard.gov",
+    "name_value": "*.trumpcard.gov\ntrumpcard.gov",
+    "id": 21236536414,
+    "entry_timestamp": "2025-09-23T05:49:16.341",
+    "not_before": "2025-09-23T04:50:46",
+    "not_after": "2025-12-22T04:50:45",
+    "serial_number": "067bf2d509dc623f55c80535ac3ad9d92edf",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "trumpcard.gov",
+    "name_value": "*.trumpcard.gov\ntrumpcard.gov",
+    "id": 21237065772,
+    "entry_timestamp": "2025-09-23T05:49:16.164",
+    "not_before": "2025-09-23T04:50:46",
+    "not_after": "2025-12-22T04:50:45",
+    "serial_number": "067bf2d509dc623f55c80535ac3ad9d92edf",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 286234,
     "issuer_name": "C=US, O=Google Trust Services, CN=AE1",
     "common_name": "trumpcard.gov",
@@ -441,126 +477,6 @@
     "not_before": "2025-07-02T03:08:57",
     "not_after": "2025-09-30T01:06:42",
     "serial_number": "7ead3f8af971912d0d1bea50182d06ff",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "*.dos.int.trumpcard.gov",
-    "name_value": "*.dos.int.trumpcard.gov\n*.stg.dos.int.trumpcard.gov",
-    "id": 19269479198,
-    "entry_timestamp": "2025-06-26T15:26:08.722",
-    "not_before": "2025-06-26T13:13:55",
-    "not_after": "2025-09-24T14:13:52",
-    "serial_number": "00a63d49a5bf0ea7e60d23b07a3c6474d7",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "*.cbp.int.trumpcard.gov",
-    "name_value": "*.cbp.int.trumpcard.gov\n*.stg.cbp.int.trumpcard.gov",
-    "id": 19268471214,
-    "entry_timestamp": "2025-06-26T14:15:49.656",
-    "not_before": "2025-06-26T13:13:50",
-    "not_after": "2025-09-24T14:13:46",
-    "serial_number": "0086d0973d8fc5519d0d4f195f983bdf0a",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "*.dos.int.trumpcard.gov",
-    "name_value": "*.dos.int.trumpcard.gov\n*.stg.dos.int.trumpcard.gov",
-    "id": 19268451554,
-    "entry_timestamp": "2025-06-26T14:13:56.342",
-    "not_before": "2025-06-26T13:13:55",
-    "not_after": "2025-09-24T14:13:52",
-    "serial_number": "00a63d49a5bf0ea7e60d23b07a3c6474d7",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "*.cbp.int.trumpcard.gov",
-    "name_value": "*.cbp.int.trumpcard.gov\n*.stg.cbp.int.trumpcard.gov",
-    "id": 19268451103,
-    "entry_timestamp": "2025-06-26T14:13:51.141",
-    "not_before": "2025-06-26T13:13:50",
-    "not_after": "2025-09-24T14:13:46",
-    "serial_number": "0086d0973d8fc5519d0d4f195f983bdf0a",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "*.stg.elis.int.trumpcard.gov",
-    "name_value": "*.stg.elis.int.trumpcard.gov",
-    "id": 19268478176,
-    "entry_timestamp": "2025-06-26T14:13:47.166",
-    "not_before": "2025-06-26T13:13:46",
-    "not_after": "2025-09-24T14:13:45",
-    "serial_number": "00c13b5f60dd8f86f61328d7714c137cf2",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "*.dos.int.trumpcard.gov",
-    "name_value": "*.dos.int.trumpcard.gov\n*.stg.dos.int.trumpcard.gov",
-    "id": 19268465156,
-    "entry_timestamp": "2025-06-26T14:13:46.697",
-    "not_before": "2025-06-26T13:13:46",
-    "not_after": "2025-09-24T14:11:26",
-    "serial_number": "00f5c520d069c4971d1393567186ccd1eb",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "*.cbp.int.trumpcard.gov",
-    "name_value": "*.cbp.int.trumpcard.gov\n*.stg.cbp.int.trumpcard.gov",
-    "id": 19268465077,
-    "entry_timestamp": "2025-06-26T14:13:41.551",
-    "not_before": "2025-06-26T13:13:40",
-    "not_after": "2025-09-24T14:11:24",
-    "serial_number": "2b42ede9d56243f111ed50add93ac8bd",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "*.stg.elis.int.trumpcard.gov",
-    "name_value": "*.stg.elis.int.trumpcard.gov",
-    "id": 19268464972,
-    "entry_timestamp": "2025-06-26T14:13:40.58",
-    "not_before": "2025-06-26T13:13:40",
-    "not_after": "2025-09-24T14:11:26",
-    "serial_number": "0091bf0e6f08b964e60ecd6e4251274487",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "*.elis.int.trumpcard.gov",
-    "name_value": "*.elis.int.trumpcard.gov\n*.elis.stg.int.trumpcard.gov",
-    "id": 19268292344,
-    "entry_timestamp": "2025-06-26T14:00:16.107",
-    "not_before": "2025-06-26T13:00:15",
-    "not_after": "2025-09-24T14:00:13",
-    "serial_number": "00d1466b61d853597613041b16d2fee106",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "*.elis.int.trumpcard.gov",
-    "name_value": "*.elis.int.trumpcard.gov\n*.elis.stg.int.trumpcard.gov",
-    "id": 19268276040,
-    "entry_timestamp": "2025-06-26T14:00:07.064",
-    "not_before": "2025-06-26T13:00:06",
-    "not_after": "2025-09-24T13:57:53",
-    "serial_number": "3e38ff9f181ca64c11a5140a20431a21",
     "result_count": 3
   }
 ]

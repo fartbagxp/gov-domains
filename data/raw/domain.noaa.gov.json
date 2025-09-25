@@ -1,11 +1,47 @@
 [
   {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "minio2.gsd.esrl.noaa.gov",
+    "name_value": "minio2.gsd.esrl.noaa.gov",
+    "id": 21249451590,
+    "entry_timestamp": "2025-09-24T11:16:42.523",
+    "not_before": "2025-09-24T09:07:57",
+    "not_after": "2025-12-23T09:07:56",
+    "serial_number": "0603a59cdf428ecd7cc606e6f3267ff7c18b",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 158800,
+    "issuer_name": "C=AT, O=ZeroSSL, CN=ZeroSSL RSA Domain Secure Site CA",
+    "common_name": "dashboard.nhc.noaa.gov",
+    "name_value": "dashboard.nhc.noaa.gov\nnhc-vm-sysadm.nhc.noaa.gov",
+    "id": 21239215311,
+    "entry_timestamp": "2025-09-24T05:37:37.418",
+    "not_before": "2025-09-24T00:00:00",
+    "not_after": "2025-12-23T23:59:59",
+    "serial_number": "0149932b4353d8406e47f2be2519d394",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 158800,
+    "issuer_name": "C=AT, O=ZeroSSL, CN=ZeroSSL RSA Domain Secure Site CA",
+    "common_name": "www2.nhc.noaa.gov",
+    "name_value": "nhc-ls-www2.nhc.noaa.gov\nnhc-vm-www2.nhc.noaa.gov\nwww2.nhc.noaa.gov",
+    "id": 21236814282,
+    "entry_timestamp": "2025-09-24T03:08:22.418",
+    "not_before": "2025-09-24T00:00:00",
+    "not_after": "2025-12-23T23:59:59",
+    "serial_number": "0d13c22f519a491c5c16cfc1d6eb1dcc",
+    "result_count": 4
+  },
+  {
     "issuer_ca_id": 247115,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
     "common_name": "services.swpc.noaa.gov",
     "name_value": "services.swpc.noaa.gov\nservices.swpc.woc.noaa.gov",
     "id": 21226121339,
-    "entry_timestamp": "2025-09-23T16:54:40.024",
+    "entry_timestamp": "2025-09-23T16:54:39.732",
     "not_before": "2024-10-07T00:00:00",
     "not_after": "2025-11-04T23:59:59",
     "serial_number": "01d5717ed01207acaf32a8185d2c53e8",
@@ -17,7 +53,19 @@
     "common_name": "dcinv.star.nesdis.noaa.gov",
     "name_value": "dcinv.star.nesdis.noaa.gov",
     "id": 21225579673,
-    "entry_timestamp": "2025-09-23T16:25:11.83",
+    "entry_timestamp": "2025-09-23T16:25:08.907",
+    "not_before": "2025-09-23T14:28:19",
+    "not_after": "2025-12-22T14:28:18",
+    "serial_number": "0524485b3bece9b07aaf3627b22bb0edd79d",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "dcinv.star.nesdis.noaa.gov",
+    "name_value": "dcinv.star.nesdis.noaa.gov",
+    "id": 21239151818,
+    "entry_timestamp": "2025-09-23T15:26:49.671",
     "not_before": "2025-09-23T14:28:19",
     "not_after": "2025-12-22T14:28:18",
     "serial_number": "0524485b3bece9b07aaf3627b22bb0edd79d",
@@ -29,7 +77,7 @@
     "common_name": "sso-dev.noaa.gov",
     "name_value": "sso-dev5.haes.noaa.gov\nsso-dev.noaa.gov",
     "id": 21223175073,
-    "entry_timestamp": "2025-09-23T14:09:51.67",
+    "entry_timestamp": "2025-09-23T14:09:41.588",
     "not_before": "2025-09-23T13:07:58",
     "not_after": "2025-12-22T13:07:57",
     "serial_number": "05a1bd022b40727746274bef4145793b8640",
@@ -53,7 +101,7 @@
     "common_name": "list.woc.noaa.gov",
     "name_value": "list.woc.noaa.gov",
     "id": 21213744299,
-    "entry_timestamp": "2025-09-23T04:08:30.229",
+    "entry_timestamp": "2025-09-23T04:08:30.154",
     "not_before": "2025-09-23T03:09:59",
     "not_after": "2025-12-22T03:09:58",
     "serial_number": "05efdf5579f3e38ec13e988e81a6775db888",
@@ -149,7 +197,7 @@
     "common_name": "ngfs-data.ctc.nwave.noaa.gov",
     "name_value": "ngfs-data.ctc.nwave.noaa.gov",
     "id": 21227794767,
-    "entry_timestamp": "2025-09-23T01:56:35.468",
+    "entry_timestamp": "2025-09-23T01:56:35.415",
     "not_before": "2025-09-23T00:58:05",
     "not_after": "2025-12-22T00:58:04",
     "serial_number": "0652052015626c33bdb689fc89d67f75cfd6",
@@ -197,7 +245,7 @@
     "common_name": "carto.bldc.nwave.noaa.gov",
     "name_value": "carto.bldc.nwave.noaa.gov\ncarto-new.bldc.nwave.noaa.gov\ncarto.nwave.noaa.gov\nmap-builder.nwave.noaa.gov",
     "id": 21203510261,
-    "entry_timestamp": "2025-09-22T15:01:01.812",
+    "entry_timestamp": "2025-09-22T15:00:59.784",
     "not_before": "2025-09-22T14:02:29",
     "not_after": "2025-12-21T14:02:28",
     "serial_number": "05e32a072c6a623287abe983f4661e8ca1c4",
@@ -377,7 +425,7 @@
     "common_name": "ngfs-data.bldc.nwave.noaa.gov",
     "name_value": "ngfs-data.bldc.nwave.noaa.gov",
     "id": 21190778193,
-    "entry_timestamp": "2025-09-22T02:02:28.72",
+    "entry_timestamp": "2025-09-22T02:02:28.628",
     "not_before": "2025-09-22T01:03:58",
     "not_after": "2025-12-21T01:03:57",
     "serial_number": "06de7b7285a31732354462c284e2dd87ccf3",
@@ -11582,6 +11630,18 @@
   {
     "issuer_ca_id": 247115,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
+    "common_name": "*.eng.woc.noaa.gov",
+    "name_value": "*.eng.woc.noaa.gov",
+    "id": 20259507565,
+    "entry_timestamp": "2025-08-11T05:24:04.927",
+    "not_before": "2025-08-11T00:00:00",
+    "not_after": "2026-09-09T23:59:59",
+    "serial_number": "0d1717f9cded668771f6f323d45653e8",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247115,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
     "common_name": "hub.oar.noaa.gov",
     "name_value": "hub.oar.noaa.gov\nwww.hub.oar.noaa.gov",
     "id": 20259170596,
@@ -11590,6 +11650,18 @@
     "not_after": "2025-10-09T23:59:59",
     "serial_number": "0e5a0a26c73e2ba9b70065e9cb9eb9ba",
     "result_count": 3
+  },
+  {
+    "issuer_ca_id": 247115,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
+    "common_name": "hub.oar.noaa.gov",
+    "name_value": "hub.oar.noaa.gov",
+    "id": 20259151972,
+    "entry_timestamp": "2025-08-11T05:04:11.21",
+    "not_before": "2025-08-11T00:00:00",
+    "not_after": "2026-09-09T23:59:59",
+    "serial_number": "06220e872dfd27ddcd0736db9d90b511",
+    "result_count": 2
   },
   {
     "issuer_ca_id": 295815,
@@ -11928,6 +12000,30 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 247115,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
+    "common_name": "*.woc.noaa.gov",
+    "name_value": "*.woc.noaa.gov",
+    "id": 20234571507,
+    "entry_timestamp": "2025-08-10T03:29:28.005",
+    "not_before": "2025-04-03T00:00:00",
+    "not_after": "2026-05-02T23:59:59",
+    "serial_number": "06119ba73676195278c77c3433b602c8",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247115,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
+    "common_name": "*.eng.woc.noaa.gov",
+    "name_value": "*.eng.woc.noaa.gov",
+    "id": 20234530078,
+    "entry_timestamp": "2025-08-10T03:29:07.429",
+    "not_before": "2025-08-10T00:00:00",
+    "not_after": "2026-09-08T23:59:59",
+    "serial_number": "0f99d5c45e6b7d6e160000f6693ea3e8",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 158800,
     "issuer_name": "C=AT, O=ZeroSSL, CN=ZeroSSL RSA Domain Secure Site CA",
     "common_name": "seahorse3.nhc.noaa.gov",
@@ -12096,6 +12192,30 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 247106,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
+    "common_name": "mysite.dev.oarcloud.noaa.gov",
+    "name_value": "mysite.dev.oarcloud.noaa.gov",
+    "id": 20186640219,
+    "entry_timestamp": "2025-08-07T20:51:21.896",
+    "not_before": "2025-08-07T00:00:00",
+    "not_after": "2026-09-05T23:59:59",
+    "serial_number": "0297da57c57ad37864019f21ffa40b4e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247115,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
+    "common_name": "staging-site.dev.oarcloud.noaa.gov",
+    "name_value": "staging-site.dev.oarcloud.noaa.gov",
+    "id": 20185819044,
+    "entry_timestamp": "2025-08-07T19:47:31.382",
+    "not_before": "2025-08-07T00:00:00",
+    "not_after": "2026-09-05T23:59:59",
+    "serial_number": "0438c37a878a0d76ca298c1b997826f4",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 158800,
     "issuer_name": "C=AT, O=ZeroSSL, CN=ZeroSSL RSA Domain Secure Site CA",
     "common_name": "seahorse3-internal.nhc.noaa.gov",
@@ -12129,7 +12249,7 @@
     "not_before": "2025-08-07T00:00:00",
     "not_after": "2026-02-07T23:59:59",
     "serial_number": "0f30b5a07590a478ca0b219e6a8a84d0",
-    "result_count": 1
+    "result_count": 2
   },
   {
     "issuer_ca_id": 239799,
@@ -26688,54 +26808,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "apps.gsl.noaa.gov",
-    "name_value": "apps.gsl.noaa.gov",
-    "id": 19285480197,
-    "entry_timestamp": "2025-06-27T10:09:26.496",
-    "not_before": "2025-06-27T09:10:54",
-    "not_after": "2025-09-25T09:10:53",
-    "serial_number": "0669d64f6700cde95a9edb0569f68fdfec48",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "apps.gsl.noaa.gov",
-    "name_value": "apps.gsl.noaa.gov",
-    "id": 19285480971,
-    "entry_timestamp": "2025-06-27T10:09:24.387",
-    "not_before": "2025-06-27T09:10:54",
-    "not_after": "2025-09-25T09:10:53",
-    "serial_number": "0669d64f6700cde95a9edb0569f68fdfec48",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "adb-cb2.gsd.esrl.noaa.gov",
-    "name_value": "adb-cb2.gsd.esrl.noaa.gov",
-    "id": 19285472981,
-    "entry_timestamp": "2025-06-27T10:08:39.049",
-    "not_before": "2025-06-27T09:10:06",
-    "not_after": "2025-09-25T09:10:05",
-    "serial_number": "05ebf61cec193c24bd78ad9d6b941c9a2b78",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "adb-cb2.gsd.esrl.noaa.gov",
-    "name_value": "adb-cb2.gsd.esrl.noaa.gov",
-    "id": 19285473482,
-    "entry_timestamp": "2025-06-27T10:08:36.692",
-    "not_before": "2025-06-27T09:10:06",
-    "not_after": "2025-09-25T09:10:05",
-    "serial_number": "05ebf61cec193c24bd78ad9d6b941c9a2b78",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 239799,
     "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
     "common_name": "esail-staging.omao.noaa.gov",
@@ -26746,30 +26818,6 @@
     "not_after": "2025-12-27T23:59:59",
     "serial_number": "0cd81207611b3752a5259412daf1bed5",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "qa.ncep.noaa.gov",
-    "name_value": "ftp.nhc.ncep.noaa.gov\nqa.ncep.noaa.gov\nwww.ftp.ncep.noaa.gov",
-    "id": 19281034956,
-    "entry_timestamp": "2025-06-27T05:06:20.142",
-    "not_before": "2025-06-27T04:07:45",
-    "not_after": "2025-09-25T04:07:44",
-    "serial_number": "0687886c2a0e391d415d9e063b90ed85b941",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "qa.ncep.noaa.gov",
-    "name_value": "ftp.nhc.ncep.noaa.gov\nqa.ncep.noaa.gov\nwww.ftp.ncep.noaa.gov",
-    "id": 19281034845,
-    "entry_timestamp": "2025-06-27T05:06:15.947",
-    "not_before": "2025-06-27T04:07:45",
-    "not_after": "2025-09-25T04:07:44",
-    "serial_number": "0687886c2a0e391d415d9e063b90ed85b941",
-    "result_count": 4
   },
   {
     "issuer_ca_id": 239799,
@@ -26808,30 +26856,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "scdr-api.star.nesdis.noaa.gov",
-    "name_value": "scdr-api.star.nesdis.noaa.gov",
-    "id": 19272505657,
-    "entry_timestamp": "2025-06-26T19:00:44.707",
-    "not_before": "2025-06-26T18:02:14",
-    "not_after": "2025-09-24T18:02:13",
-    "serial_number": "057fe2836986138dccc1a26e15aba0827f43",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "scdr-api.star.nesdis.noaa.gov",
-    "name_value": "scdr-api.star.nesdis.noaa.gov",
-    "id": 19272505652,
-    "entry_timestamp": "2025-06-26T19:00:44.294",
-    "not_before": "2025-06-26T18:02:14",
-    "not_after": "2025-09-24T18:02:13",
-    "serial_number": "057fe2836986138dccc1a26e15aba0827f43",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "migration.dev.oarcloud.noaa.gov",
@@ -26865,30 +26889,6 @@
     "not_before": "2025-06-26T00:00:00",
     "not_after": "2026-07-25T23:59:59",
     "serial_number": "07649d69f342802d37084e051f4ecaae",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 158800,
-    "issuer_name": "C=AT, O=ZeroSSL, CN=ZeroSSL RSA Domain Secure Site CA",
-    "common_name": "gate-11.esrl.noaa.gov",
-    "name_value": "gate-11.esrl.noaa.gov",
-    "id": 19260908390,
-    "entry_timestamp": "2025-06-26T06:01:09.011",
-    "not_before": "2025-06-26T00:00:00",
-    "not_after": "2025-09-24T23:59:59",
-    "serial_number": "009bb00ec3e057845e92fdbda861389230",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 158800,
-    "issuer_name": "C=AT, O=ZeroSSL, CN=ZeroSSL RSA Domain Secure Site CA",
-    "common_name": "gate-11.esrl.noaa.gov",
-    "name_value": "gate-11.esrl.noaa.gov",
-    "id": 19260907190,
-    "entry_timestamp": "2025-06-26T06:01:07.561",
-    "not_before": "2025-06-26T00:00:00",
-    "not_after": "2025-09-24T23:59:59",
-    "serial_number": "009bb00ec3e057845e92fdbda861389230",
     "result_count": 2
   },
   {

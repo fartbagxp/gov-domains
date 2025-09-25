@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "mft-proxy.prod.adsd.census.gov",
+    "name_value": "mft-proxy.prod.adsd.census.gov",
+    "id": 21248819577,
+    "entry_timestamp": "2025-09-24T15:17:26.382",
+    "not_before": "2025-09-24T00:00:00",
+    "not_after": "2026-09-23T23:59:59",
+    "serial_number": "0f50f398ef1cc74860a323692e5ef007",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "mft-proxy.test.adsd.census.gov",
+    "name_value": "mft-proxy.test.adsd.census.gov",
+    "id": 21248818324,
+    "entry_timestamp": "2025-09-24T15:17:07.312",
+    "not_before": "2025-09-24T00:00:00",
+    "not_after": "2026-09-23T23:59:59",
+    "serial_number": "0af9d0aef0a2e0ff0b653a748a21c32a",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 295809,
     "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
     "common_name": "darhts.2026test.census.gov",
@@ -3072,18 +3096,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 282053,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
-    "common_name": "2026test.census.gov",
-    "name_value": "*.2026test.census.gov\n2026test.census.gov",
-    "id": 19459558102,
-    "entry_timestamp": "2025-07-05T05:11:42.797",
-    "not_before": "2025-07-05T05:01:41",
-    "not_after": "2025-09-24T20:46:22",
-    "serial_number": "31bccaf60459a23aac6ad4dae95bc681",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 295815,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
     "common_name": "search.usa.gov",
@@ -3226,30 +3238,6 @@
     "not_after": "2025-09-25T19:11:15",
     "serial_number": "052fd83934ae4d72c58a7fb9acf233e9660a",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "2026test.census.gov",
-    "name_value": "*.2026test.census.gov\n2026test.census.gov",
-    "id": 19273909105,
-    "entry_timestamp": "2025-06-26T20:47:52.985",
-    "not_before": "2025-06-26T19:47:52",
-    "not_after": "2025-09-24T20:47:48",
-    "serial_number": "00e0b22a341b9698c21156055633115514",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "2026test.census.gov",
-    "name_value": "*.2026test.census.gov\n2026test.census.gov",
-    "id": 19273909373,
-    "entry_timestamp": "2025-06-26T20:47:42.842",
-    "not_before": "2025-06-26T19:47:42",
-    "not_after": "2025-09-24T20:46:21",
-    "serial_number": "1237ecb0a02e4bfe0e134f68e1ff8551",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 185752,
