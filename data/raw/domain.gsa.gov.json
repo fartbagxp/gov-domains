@@ -1,5 +1,197 @@
 [
   {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "*.prod.apiss.mcaas.fcs.gsa.gov",
+    "name_value": "*.prod.apiss.mcaas.fcs.gsa.gov",
+    "id": 21253571182,
+    "entry_timestamp": "2025-09-24T20:28:47.317",
+    "not_before": "2025-09-24T00:00:00",
+    "not_after": "2026-10-23T23:59:59",
+    "serial_number": "08c8a80b72d2e17eb680f22b052bf2c9",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "*.prod.tsc.mcaas.fcs.gsa.gov",
+    "name_value": "*.prod.tsc.mcaas.fcs.gsa.gov",
+    "id": 21251794370,
+    "entry_timestamp": "2025-09-24T18:14:19.339",
+    "not_before": "2025-09-24T00:00:00",
+    "not_after": "2026-10-23T23:59:59",
+    "serial_number": "0573f69823e9fa42c3c82ea0b78d1dcf",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "*.dev.tsc.mcaas.fcs.gsa.gov",
+    "name_value": "*.dev.tsc.mcaas.fcs.gsa.gov",
+    "id": 21251794803,
+    "entry_timestamp": "2025-09-24T18:14:18.219",
+    "not_before": "2025-09-24T00:00:00",
+    "not_after": "2026-10-23T23:59:59",
+    "serial_number": "0e4a41ab521a29df72dc458c4ef239f7",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "*.staging.tsc.mcaas.fcs.gsa.gov",
+    "name_value": "*.staging.tsc.mcaas.fcs.gsa.gov",
+    "id": 21251794212,
+    "entry_timestamp": "2025-09-24T18:14:18.168",
+    "not_before": "2025-09-24T00:00:00",
+    "not_after": "2026-10-23T23:59:59",
+    "serial_number": "08bd07f5bd280bf094e8e7dffa94efef",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "*.test.tsc.mcaas.fcs.gsa.gov",
+    "name_value": "*.test.tsc.mcaas.fcs.gsa.gov",
+    "id": 21251794210,
+    "entry_timestamp": "2025-09-24T18:14:17.675",
+    "not_before": "2025-09-24T00:00:00",
+    "not_after": "2026-10-23T23:59:59",
+    "serial_number": "0764fa1ba7a09a99435a9820aacc9ea1",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "*.prod.dxcore.dx.mcaas.fcs.gsa.gov",
+    "name_value": "*.prod.dxcore.dx.mcaas.fcs.gsa.gov",
+    "id": 21251794000,
+    "entry_timestamp": "2025-09-24T18:14:08.885",
+    "not_before": "2025-09-24T00:00:00",
+    "not_after": "2026-10-23T23:59:59",
+    "serial_number": "0ee19cdcbbbfade05fbfe61ce2778f8f",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "*.dev.dxcore.dx.mcaas.fcs.gsa.gov",
+    "name_value": "*.dev.dxcore.dx.mcaas.fcs.gsa.gov",
+    "id": 21251794120,
+    "entry_timestamp": "2025-09-24T18:14:08.761",
+    "not_before": "2025-09-24T00:00:00",
+    "not_after": "2026-10-23T23:59:59",
+    "serial_number": "024c4758c347c55f9310372bd8e99c7b",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "*.staging.dxcore.dx.mcaas.fcs.gsa.gov",
+    "name_value": "*.staging.dxcore.dx.mcaas.fcs.gsa.gov",
+    "id": 21251793554,
+    "entry_timestamp": "2025-09-24T18:14:08.569",
+    "not_before": "2025-09-24T00:00:00",
+    "not_after": "2026-10-23T23:59:59",
+    "serial_number": "0568297985cfbfb87175a2775d3d709d",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "*.test.dxcore.dx.mcaas.fcs.gsa.gov",
+    "name_value": "*.test.dxcore.dx.mcaas.fcs.gsa.gov",
+    "id": 21251794067,
+    "entry_timestamp": "2025-09-24T18:14:08.055",
+    "not_before": "2025-09-24T00:00:00",
+    "not_after": "2026-10-23T23:59:59",
+    "serial_number": "0a87dd6b258cb3c12b20b98d898c9542",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "smartpay.gsa.gov",
+    "name_value": "smartpay.gsa.gov",
+    "id": 21250488689,
+    "entry_timestamp": "2025-09-24T16:21:09.716",
+    "not_before": "2025-09-24T14:21:12",
+    "not_after": "2025-12-23T14:21:11",
+    "serial_number": "0649e8b99ffbc0b0af42e7190711ef3d91dd",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "training.smartpay.gsa.gov",
+    "name_value": "training.smartpay.gsa.gov",
+    "id": 21248898194,
+    "entry_timestamp": "2025-09-24T15:19:47.83",
+    "not_before": "2025-09-24T14:21:11",
+    "not_after": "2025-12-23T14:21:10",
+    "serial_number": "06fa243344a6b02d323c3bc148cfb35cb1fe",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "training.smartpay.gsa.gov",
+    "name_value": "training.smartpay.gsa.gov",
+    "id": 21249317879,
+    "entry_timestamp": "2025-09-24T15:19:41.678",
+    "not_before": "2025-09-24T14:21:11",
+    "not_after": "2025-12-23T14:21:10",
+    "serial_number": "06fa243344a6b02d323c3bc148cfb35cb1fe",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "hrlinks.gsa.gov",
+    "name_value": "hrlinks.gsa.gov\nuat-hrlinks.gsa.gov",
+    "id": 21247315394,
+    "entry_timestamp": "2025-09-24T13:43:56.41",
+    "not_before": "2025-09-24T00:00:00",
+    "not_after": "2026-09-23T23:59:59",
+    "serial_number": "02f01aceea8736f187a04ec04cf152cd",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "tmssbi-preprod.gsa.gov",
+    "name_value": "tmssbi-preprod.gsa.gov\nwww.tmssbi-preprod.gsa.gov",
+    "id": 21245026292,
+    "entry_timestamp": "2025-09-24T11:26:04.502",
+    "not_before": "2025-09-24T00:00:00",
+    "not_after": "2026-10-22T23:59:59",
+    "serial_number": "082c0cdff8329ef73b771b2c9699052b",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "tmssbi.gsa.gov",
+    "name_value": "tmssbi.gsa.gov\nwww.tmssbi.gsa.gov",
+    "id": 21244980248,
+    "entry_timestamp": "2025-09-24T11:22:23.26",
+    "not_before": "2025-09-24T00:00:00",
+    "not_after": "2026-10-22T23:59:59",
+    "serial_number": "0ae23dc132379ba77631c437473fe511",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "tmssbi-test.gsa.gov",
+    "name_value": "tmssbi-test.gsa.gov\nwww.tmssbi-test.gsa.gov",
+    "id": 21244814331,
+    "entry_timestamp": "2025-09-24T11:11:42.517",
+    "not_before": "2025-09-24T00:00:00",
+    "not_after": "2026-10-22T23:59:59",
+    "serial_number": "0676ee08c10b5fcbbb9e1b847e51ceb6",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 246719,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "pricing-api-bulk.fss19-mgmt.fcs.gsa.gov",
@@ -5326,18 +5518,6 @@
     "not_after": "2025-11-14T01:14:30",
     "serial_number": "0536c8a3d9577470496360f59cfc1a39115a",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "www.sell.gsa.gov",
-    "name_value": "sell.gsa.gov\nwww.sell.gsa.gov",
-    "id": 20350850634,
-    "entry_timestamp": "2025-08-15T14:04:52.594",
-    "not_before": "2024-08-29T00:00:00",
-    "not_after": "2025-09-25T23:59:59",
-    "serial_number": "084ffc4bff372fe313dc16fdab42b390",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 295815,
@@ -11158,30 +11338,6 @@
     "not_after": "2026-07-23T23:59:59",
     "serial_number": "0a98e1b60f89d1bc313cf158c15f9148",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "grafana-loki-server.test-ppm.fcs.gsa.gov",
-    "name_value": "grafana-loki-server.test-ppm.fcs.gsa.gov",
-    "id": 19287440119,
-    "entry_timestamp": "2025-06-27T12:32:59.318",
-    "not_before": "2025-06-27T11:34:29",
-    "not_after": "2025-09-25T11:34:28",
-    "serial_number": "06642f609169ab9bf5cb6380876bab670349",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "grafana-loki-server.test-ppm.fcs.gsa.gov",
-    "name_value": "grafana-loki-server.test-ppm.fcs.gsa.gov",
-    "id": 19287440761,
-    "entry_timestamp": "2025-06-27T12:32:59.117",
-    "not_before": "2025-06-27T11:34:29",
-    "not_after": "2025-09-25T11:34:28",
-    "serial_number": "06642f609169ab9bf5cb6380876bab670349",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 247119,
@@ -19978,29 +20134,5 @@
     "not_after": "2025-10-03T23:59:59",
     "serial_number": "04ce1edc55e2c4fcd4726b11d2f78bd6",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "www.sell.gsa.gov",
-    "name_value": "sell.gsa.gov\nwww.sell.gsa.gov",
-    "id": 14352002522,
-    "entry_timestamp": "2024-08-29T20:45:49.033",
-    "not_before": "2024-08-29T00:00:00",
-    "not_after": "2025-09-25T23:59:59",
-    "serial_number": "084ffc4bff372fe313dc16fdab42b390",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "*.data.fleet-stg.fcs.gsa.gov",
-    "name_value": "*.data.fleet-stg.fcs.gsa.gov\ndata.fleet-stg.fcs.gsa.gov",
-    "id": 14297592520,
-    "entry_timestamp": "2024-08-26T04:57:29.75",
-    "not_before": "2024-08-26T00:00:00",
-    "not_after": "2025-09-25T23:59:59",
-    "serial_number": "0a0237248412ffb73fd30a02bb07a317",
-    "result_count": 3
   }
 ]
