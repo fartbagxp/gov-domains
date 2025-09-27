@@ -1,11 +1,23 @@
 [
   {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "eoir.justice.gov",
+    "name_value": "*.eoir.justice.gov\neoir.justice.gov",
+    "id": 21257859018,
+    "entry_timestamp": "2025-09-25T01:34:59.152",
+    "not_before": "2025-09-24T23:30:49",
+    "not_after": "2025-12-24T00:30:45",
+    "serial_number": "00968d5ec12b5943a80dabac0dfa9d685f",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 286242,
     "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
     "common_name": "eoir.justice.gov",
     "name_value": "*.eoir.justice.gov\neoir.justice.gov",
     "id": 21255947048,
-    "entry_timestamp": "2025-09-25T00:30:44.158",
+    "entry_timestamp": "2025-09-25T00:30:39.623",
     "not_before": "2025-09-24T23:30:38",
     "not_after": "2025-12-24T00:29:03",
     "serial_number": "00e1ca88fe55958c000d54aa16f7e1dfbb",
@@ -394,30 +406,6 @@
     "not_after": "2025-09-29T13:52:46",
     "serial_number": "26d15038afceddc1f8104cf6ab872325",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "GRANTSNET.JUSTICE.GOV",
-    "name_value": "GRANTSNET.JUSTICE.GOV\nwww.grantsnet.justice.gov",
-    "id": 20333289566,
-    "entry_timestamp": "2025-08-14T18:15:19.976",
-    "not_before": "2024-08-26T00:00:00",
-    "not_after": "2025-09-26T23:59:59",
-    "serial_number": "0a441c978e8b1ff630833ef281d2976f",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "UAT.GRANTSNET.JUSTICE.GOV",
-    "name_value": "UAT.GRANTSNET.JUSTICE.GOV\nuat-www.grantsnet.justice.gov",
-    "id": 20332426281,
-    "entry_timestamp": "2025-08-14T17:10:06.005",
-    "not_before": "2024-08-26T00:00:00",
-    "not_after": "2025-09-26T23:59:59",
-    "serial_number": "06cf432284c731813397e5eb6877a73e",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 185752,
@@ -1390,29 +1378,5 @@
     "not_after": "2025-09-29T13:52:46",
     "serial_number": "2729212845aa1cd338531a2673dbe2d0",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "UAT.GRANTSNET.JUSTICE.GOV",
-    "name_value": "UAT.GRANTSNET.JUSTICE.GOV\nuat-www.grantsnet.justice.gov",
-    "id": 14305265034,
-    "entry_timestamp": "2024-08-26T16:09:24.074",
-    "not_before": "2024-08-26T00:00:00",
-    "not_after": "2025-09-26T23:59:59",
-    "serial_number": "06cf432284c731813397e5eb6877a73e",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "GRANTSNET.JUSTICE.GOV",
-    "name_value": "GRANTSNET.JUSTICE.GOV\nwww.grantsnet.justice.gov",
-    "id": 14305148727,
-    "entry_timestamp": "2024-08-26T15:57:34.281",
-    "not_before": "2024-08-26T00:00:00",
-    "not_after": "2025-09-26T23:59:59",
-    "serial_number": "0a441c978e8b1ff630833ef281d2976f",
-    "result_count": 3
   }
 ]

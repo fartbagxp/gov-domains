@@ -1,5 +1,41 @@
 [
   {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "medialogin-dev.usps.com",
+    "name_value": "medialogin-dev.usps.com",
+    "id": 21271842268,
+    "entry_timestamp": "2025-09-25T19:54:24.081",
+    "not_before": "2025-09-25T18:53:57",
+    "not_after": "2025-12-24T18:53:56",
+    "serial_number": "059b426995ae8667b48c48b09f3660f3f00d",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 204411,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
+    "common_name": "pfsc.usps.com",
+    "name_value": "origin-pfsc.usps.com\norigin-pfsl.usps.com\norigin-reship.usps.com\npfsc-backend.usps.com\npfsc.usps.com\npfsl-backend.usps.com\npfsl.usps.com\nreship.usps.com\ntmp-reship.usps.com",
+    "id": 21268768916,
+    "entry_timestamp": "2025-09-25T16:43:22.71",
+    "not_before": "2025-09-25T00:00:00",
+    "not_after": "2026-09-25T23:59:59",
+    "serial_number": "00a143d0e4be81612e2a8e7715709ac813",
+    "result_count": 10
+  },
+  {
+    "issuer_ca_id": 204411,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
+    "common_name": "pfsc.usps.com",
+    "name_value": "origin-pfsc.usps.com\norigin-pfsl.usps.com\norigin-reship.usps.com\npfsc-backend.usps.com\npfsc.usps.com\npfsl-backend.usps.com\npfsl.usps.com\nreship.usps.com\ntmp-reship.usps.com",
+    "id": 21268768364,
+    "entry_timestamp": "2025-09-25T16:43:21.754",
+    "not_before": "2025-09-25T00:00:00",
+    "not_after": "2026-09-25T23:59:59",
+    "serial_number": "00a143d0e4be81612e2a8e7715709ac813",
+    "result_count": 10
+  },
+  {
     "issuer_ca_id": 204411,
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
     "common_name": "origin-apis-cat2-gc-useast4.usps.com",
@@ -18886,29 +18922,5 @@
     "not_after": "2025-09-30T23:59:59",
     "serial_number": "7b6955ad50d53ef5b29a9495764cddbb",
     "result_count": 5
-  },
-  {
-    "issuer_ca_id": 105487,
-    "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA",
-    "common_name": "ecom-prod.usps.com",
-    "name_value": "cpsstore2.usps.com\ncpsstore.usps.com\necom-prod2.usps.com\necom-prod.usps.com\nholdmail2.usps.com\nholdmail.usps.com\nstore2.usps.com\nstore.usps.com",
-    "id": 14698527322,
-    "entry_timestamp": "2024-09-26T15:16:04.523",
-    "not_before": "2024-09-26T00:00:00",
-    "not_after": "2025-09-26T23:59:59",
-    "serial_number": "07e14e1c0b65c311fd7ca3bc9ef44d1f",
-    "result_count": 9
-  },
-  {
-    "issuer_ca_id": 105487,
-    "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA",
-    "common_name": "ecom-prod.usps.com",
-    "name_value": "cpsstore2.usps.com\ncpsstore.usps.com\necom-prod2.usps.com\necom-prod.usps.com\nholdmail2.usps.com\nholdmail.usps.com\nstore2.usps.com\nstore.usps.com",
-    "id": 14698518678,
-    "entry_timestamp": "2024-09-26T15:16:04.064",
-    "not_before": "2024-09-26T00:00:00",
-    "not_after": "2025-09-26T23:59:59",
-    "serial_number": "07e14e1c0b65c311fd7ca3bc9ef44d1f",
-    "result_count": 9
   }
 ]

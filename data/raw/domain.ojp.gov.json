@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "smart.ojp.gov",
+    "name_value": "smart.ojp.gov\nwww.smart.ojp.gov",
+    "id": 21273189353,
+    "entry_timestamp": "2025-09-25T21:22:01.303",
+    "not_before": "2025-09-09T00:00:00",
+    "not_after": "2026-10-10T23:59:59",
+    "serial_number": "023739cec5a0d0f1739d5b24a92a4ff6",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "nsopw-api.ojp.gov",
+    "name_value": "nsopw-api.ojp.gov",
+    "id": 21268337203,
+    "entry_timestamp": "2025-09-25T16:19:06.156",
+    "not_before": "2025-09-05T00:00:00",
+    "not_after": "2026-09-17T23:59:59",
+    "serial_number": "0fb63753767c26b71580751226848b71",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 204407,
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
     "common_name": "uat.facjj.ojp.gov",
@@ -3108,54 +3132,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 204407,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
-    "common_name": "ashanti.bja.ojp.gov",
-    "name_value": "*.ashanti.bja.ojp.gov\nashanti.bja.ojp.gov",
-    "id": 19394751191,
-    "entry_timestamp": "2025-07-02T11:37:07.619",
-    "not_before": "2025-07-02T00:00:00",
-    "not_after": "2025-09-26T13:24:41",
-    "serial_number": "668945d8b25b87be2fadea32527b6bfc",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204407,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
-    "common_name": "ashanti.bja.ojp.gov",
-    "name_value": "*.ashanti.bja.ojp.gov\nashanti.bja.ojp.gov",
-    "id": 19394751231,
-    "entry_timestamp": "2025-07-02T11:37:06.71",
-    "not_before": "2025-07-02T00:00:00",
-    "not_after": "2025-09-26T13:24:41",
-    "serial_number": "668945d8b25b87be2fadea32527b6bfc",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204407,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
-    "common_name": "ncirc.bja.ojp.gov",
-    "name_value": "*.ncirc.bja.ojp.gov\nncirc.bja.ojp.gov",
-    "id": 19394696838,
-    "entry_timestamp": "2025-07-02T11:33:27.47",
-    "not_before": "2025-07-02T00:00:00",
-    "not_after": "2025-09-26T12:42:33",
-    "serial_number": "00a8e4f47555934f951d3dcaea0cd6abeb",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204407,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
-    "common_name": "ncirc.bja.ojp.gov",
-    "name_value": "*.ncirc.bja.ojp.gov\nncirc.bja.ojp.gov",
-    "id": 19394696983,
-    "entry_timestamp": "2025-07-02T11:33:25.078",
-    "not_before": "2025-07-02T00:00:00",
-    "not_after": "2025-09-26T12:42:33",
-    "serial_number": "00a8e4f47555934f951d3dcaea0cd6abeb",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 295819,
     "issuer_name": "C=US, O=Let's Encrypt, CN=E6",
     "common_name": "ojp.gov",
@@ -3178,30 +3154,6 @@
     "not_after": "2025-09-27T22:26:29",
     "serial_number": "0676632a6b779030a3b70a8fbc233ae0ffec",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "namus.nij.ojp.gov",
-    "name_value": "namus.nij.ojp.gov",
-    "id": 19323591602,
-    "entry_timestamp": "2025-06-29T05:22:25.167",
-    "not_before": "2025-06-29T04:22:24",
-    "not_after": "2025-09-27T05:22:22",
-    "serial_number": "1ddf9b914978c68511a022065c5eaa5a",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "namus.nij.ojp.gov",
-    "name_value": "namus.nij.ojp.gov",
-    "id": 19323590082,
-    "entry_timestamp": "2025-06-29T05:22:16.667",
-    "not_before": "2025-06-29T04:22:16",
-    "not_after": "2025-09-27T05:21:11",
-    "serial_number": "00f51280a0702c17430d7fc7df763f40e9",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 185752,
