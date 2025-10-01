@@ -1,5 +1,17 @@
 [
   {
+    "issuer_ca_id": 282053,
+    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
+    "common_name": "atp.aws.fema.gov",
+    "name_value": "*.atp.aws.fema.gov\natp.aws.fema.gov",
+    "id": 21351721858,
+    "entry_timestamp": "2025-09-29T06:38:32.634",
+    "not_before": "2025-09-29T06:28:31",
+    "not_after": "2025-12-20T06:32:20",
+    "serial_number": "5aa1adec489b51822ccc6fa3cce9784a",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 185748,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
     "common_name": "www.homelandsecurity.gov",
@@ -33,6 +45,18 @@
     "not_before": "2025-09-24T00:00:00",
     "not_after": "2026-10-25T23:59:59",
     "serial_number": "6374aaad522a349982fbd2fc8685d26d",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 282053,
+    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
+    "common_name": "tdl.nfirs.fema.gov",
+    "name_value": "tdl.nfirs.fema.gov",
+    "id": 21304515183,
+    "entry_timestamp": "2025-09-24T08:22:33.138",
+    "not_before": "2025-09-24T07:39:02",
+    "not_after": "2025-12-23T07:40:42",
+    "serial_number": "75bf1d9031957ad6d4823bafafa24b67",
     "result_count": 2
   },
   {
@@ -4668,30 +4692,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 295810,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E5",
-    "common_name": "origin-go.fema.gov",
-    "name_value": "*.origin-go.fema.gov\norigin-go.fema.gov",
-    "id": 19417961016,
-    "entry_timestamp": "2025-07-03T12:03:05.857",
-    "not_before": "2025-07-03T11:04:33",
-    "not_after": "2025-10-01T11:04:32",
-    "serial_number": "061ae2918ea616e74090f59b75b3b9ad3971",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295810,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E5",
-    "common_name": "origin-go.fema.gov",
-    "name_value": "*.origin-go.fema.gov\norigin-go.fema.gov",
-    "id": 19418180211,
-    "entry_timestamp": "2025-07-03T12:03:03.8",
-    "not_before": "2025-07-03T11:04:33",
-    "not_after": "2025-10-01T11:04:32",
-    "serial_number": "061ae2918ea616e74090f59b75b3b9ad3971",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 185748,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
     "common_name": "www.homelandsecurity.gov",
@@ -4714,30 +4714,6 @@
     "not_after": "2025-11-19T23:59:59",
     "serial_number": "05a1b8ff3ebef87c348480125083f3b7",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "origin-go.fema.gov",
-    "name_value": "*.origin-go.fema.gov\norigin-go.fema.gov",
-    "id": 19395831893,
-    "entry_timestamp": "2025-07-02T12:49:10.105",
-    "not_before": "2025-07-02T11:50:37",
-    "not_after": "2025-09-30T11:50:36",
-    "serial_number": "0600a71e491e68d9479a2d8cb99b576a75d4",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "origin-go.fema.gov",
-    "name_value": "*.origin-go.fema.gov\norigin-go.fema.gov",
-    "id": 19395831138,
-    "entry_timestamp": "2025-07-02T12:49:07.76",
-    "not_before": "2025-07-02T11:50:37",
-    "not_after": "2025-09-30T11:50:36",
-    "serial_number": "0600a71e491e68d9479a2d8cb99b576a75d4",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 385517,
