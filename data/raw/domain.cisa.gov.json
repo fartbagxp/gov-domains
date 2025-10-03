@@ -5,7 +5,7 @@
     "common_name": "protectivedns.cisa.gov",
     "name_value": "*.ci.protectivedns.cisa.gov\n*.protectivedns.cisa.gov\nprotectivedns.cisa.gov\n*.test-ci.protectivedns.cisa.gov",
     "id": 21306896113,
-    "entry_timestamp": "2025-09-26T16:38:52.666",
+    "entry_timestamp": "2025-09-26T15:28:52.833",
     "not_before": "2025-09-26T14:30:22",
     "not_after": "2025-12-25T14:30:21",
     "serial_number": "06387e6a625d87ef1cfb5ef178b811e64682",
@@ -21,6 +21,18 @@
     "not_before": "2025-09-26T14:30:22",
     "not_after": "2025-12-25T14:30:21",
     "serial_number": "06387e6a625d87ef1cfb5ef178b811e64682",
+    "result_count": 5
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "protectivedns.cisa.gov",
+    "name_value": "*.ci.protectivedns.cisa.gov\n*.protectivedns.cisa.gov\nprotectivedns.cisa.gov\n*.test-ci.protectivedns.cisa.gov",
+    "id": 21425450228,
+    "entry_timestamp": "2025-09-26T15:28:50.47",
+    "not_before": "2025-09-26T14:30:19",
+    "not_after": "2025-12-25T14:30:18",
+    "serial_number": "0584ab9a040db06d09a5ab6432da03042620",
     "result_count": 5
   },
   {
@@ -1284,18 +1296,6 @@
     "result_count": 4
   },
   {
-    "issuer_ca_id": 282054,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
-    "common_name": "connect.cisa.gov",
-    "name_value": "*.connect.cisa.gov\nconnect.cisa.gov",
-    "id": 19583409588,
-    "entry_timestamp": "2025-07-11T01:58:12.554",
-    "not_before": "2025-07-11T01:48:11",
-    "not_after": "2025-10-02T12:51:10",
-    "serial_number": "130701e93f544d26427b7aa89c85ec4a",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "protectivedns.cisa.gov",
@@ -1332,18 +1332,6 @@
     "result_count": 4
   },
   {
-    "issuer_ca_id": 282053,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
-    "common_name": "connect.cisa.gov",
-    "name_value": "*.connect.cisa.gov\nconnect.cisa.gov",
-    "id": 19500050219,
-    "entry_timestamp": "2025-07-07T02:48:56.825",
-    "not_before": "2025-07-07T02:38:50",
-    "not_after": "2025-10-02T12:51:07",
-    "serial_number": "4af42d8836ad2e0723fa7b3e6d134009",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 295814,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
     "common_name": "myservices.cisa.gov",
@@ -1366,30 +1354,6 @@
     "not_after": "2025-10-04T15:30:42",
     "serial_number": "05cb66355a7d95b07963cd6ea1fca40ddde4",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "connect.cisa.gov",
-    "name_value": "*.connect.cisa.gov\nconnect.cisa.gov",
-    "id": 19443525467,
-    "entry_timestamp": "2025-07-04T12:14:13.106",
-    "not_before": "2025-07-04T11:14:12",
-    "not_after": "2025-10-02T12:14:10",
-    "serial_number": "00cb374d2a99b9eb250d794481acbc80c1",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "connect.cisa.gov",
-    "name_value": "*.connect.cisa.gov\nconnect.cisa.gov",
-    "id": 19443521760,
-    "entry_timestamp": "2025-07-04T12:14:04.96",
-    "not_before": "2025-07-04T11:14:04",
-    "not_after": "2025-10-02T12:12:25",
-    "serial_number": "00c3e3cb193eb40b0f0d011c3c4115d48c",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 185748,
@@ -2470,17 +2434,5 @@
     "not_after": "2025-10-11T23:59:59",
     "serial_number": "0d127d22f7378dc6a1ba9a00a7a57c04",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "ci.protectivedns.cisa.gov",
-    "name_value": "*.ci.protectivedns.cisa.gov\nci.protectivedns.cisa.gov",
-    "id": 14393488378,
-    "entry_timestamp": "2024-09-02T00:04:57.204",
-    "not_before": "2024-09-02T00:00:00",
-    "not_after": "2025-10-02T23:59:59",
-    "serial_number": "03b49c17770fdfcd81690ac78e319f4e",
-    "result_count": 3
   }
 ]

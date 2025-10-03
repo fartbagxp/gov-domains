@@ -1,5 +1,41 @@
 [
   {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "tableau-uat.hdw.hrsa.gov",
+    "name_value": "ak-tableau-uat.hdw.hrsa.gov\ntableau-uat.hdw.hrsa.gov\nwww.tableau-uat.hdw.hrsa.gov",
+    "id": 21400169984,
+    "entry_timestamp": "2025-10-01T16:07:56.088",
+    "not_before": "2025-10-01T16:07:55",
+    "not_after": "2026-10-31T16:06:55",
+    "serial_number": "400199a087c35c03c3c3aa3fa912be84",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "*.hrsa.gov",
+    "name_value": "*.hrsa.gov",
+    "id": 21379065479,
+    "entry_timestamp": "2025-09-30T17:44:52.052",
+    "not_before": "2025-09-30T00:00:00",
+    "not_after": "2026-10-29T23:59:59",
+    "serial_number": "07eda6d708fd265face19df9c9989005",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "*.uat.hrsa.gov",
+    "name_value": "*.uat.hrsa.gov",
+    "id": 21379046609,
+    "entry_timestamp": "2025-09-30T17:43:35.219",
+    "not_before": "2025-09-30T00:00:00",
+    "not_after": "2026-10-29T23:59:59",
+    "serial_number": "0fda8cad8af812ba10ecb8b6de5ff850",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 295817,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "www.hhs.gov",
