@@ -2,6 +2,30 @@
   {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "*.dcbps.cms.gov",
+    "name_value": "*.dcbps.cms.gov",
+    "id": 21451094723,
+    "entry_timestamp": "2025-10-03T19:26:49.71",
+    "not_before": "2025-10-03T00:00:00",
+    "not_after": "2026-11-01T23:59:59",
+    "serial_number": "0b8cf23eca7940ece223b721eff60359",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "*.dev.secops.internal.cms.gov",
+    "name_value": "*.dev.secops.internal.cms.gov",
+    "id": 21450302910,
+    "entry_timestamp": "2025-10-03T18:41:12.914",
+    "not_before": "2025-10-03T00:00:00",
+    "not_after": "2026-11-01T23:59:59",
+    "serial_number": "0347118a7e775fc487d83dec2ee5dd48",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "dev.ocforgesimpleapp.infraops.backends.cms.gov",
     "name_value": "dev.ocforgesimpleapp.infraops.backends.cms.gov",
     "id": 21448498082,
@@ -785,7 +809,7 @@
     "common_name": "jiraentimpl.cms.gov",
     "name_value": "jiraentimpl.cms.gov",
     "id": 21305259256,
-    "entry_timestamp": "2025-09-27T02:59:32.698",
+    "entry_timestamp": "2025-09-27T02:59:32.662",
     "not_before": "2024-10-28T00:00:00",
     "not_after": "2025-11-25T23:59:59",
     "serial_number": "017a863f7109c2cc972bd3becdfd9b1d",
@@ -6360,18 +6384,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "4innovation-impl2-api.cms.gov",
-    "name_value": "4innovation-impl2-api.cms.gov",
-    "id": 20149412416,
-    "entry_timestamp": "2025-08-06T03:28:41.275",
-    "not_before": "2024-09-05T00:00:00",
-    "not_after": "2025-10-04T23:59:59",
-    "serial_number": "0d6a2cc9b39374b6818043c55f38aac6",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 247106,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
     "common_name": "4innovation-impl2-api.cms.gov",
@@ -6381,18 +6393,6 @@
     "not_before": "2025-08-06T00:00:00",
     "not_after": "2026-09-04T23:59:59",
     "serial_number": "05fb359d05921dbbe80eb22841e82bea",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "mearis.cms.gov",
-    "name_value": "mearis.cms.gov",
-    "id": 20149364029,
-    "entry_timestamp": "2025-08-06T03:24:32.781",
-    "not_before": "2024-09-06T00:00:00",
-    "not_after": "2025-10-04T23:59:59",
-    "serial_number": "06efaf8af7522075afffea19f6d4dc72",
     "result_count": 2
   },
   {
@@ -6420,18 +6420,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "mearis-api.cms.gov",
-    "name_value": "mearis-api.cms.gov",
-    "id": 20148805278,
-    "entry_timestamp": "2025-08-06T02:45:53.6",
-    "not_before": "2024-09-06T00:00:00",
-    "not_after": "2025-10-04T23:59:59",
-    "serial_number": "0610566d0a9efe463116187ebd5079f9",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 247115,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
     "common_name": "mearis-api.cms.gov",
@@ -6441,18 +6429,6 @@
     "not_before": "2025-08-06T00:00:00",
     "not_after": "2026-09-03T23:59:59",
     "serial_number": "06325c60a25b5d65b10b9e87225ae4c0",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "4innovation-impl2-wss.cms.gov",
-    "name_value": "4innovation-impl2-wss.cms.gov",
-    "id": 20147899240,
-    "entry_timestamp": "2025-08-06T01:49:10.245",
-    "not_before": "2024-09-05T00:00:00",
-    "not_after": "2025-10-04T23:59:59",
-    "serial_number": "09bcee6d7ae160722619921dd2df37eb",
     "result_count": 2
   },
   {
@@ -6477,18 +6453,6 @@
     "not_before": "2025-08-06T00:00:00",
     "not_after": "2026-09-04T23:59:59",
     "serial_number": "06ea276efd15f7caa7d83c213cf8296f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "4innovation-impl2.cms.gov",
-    "name_value": "4innovation-impl2.cms.gov",
-    "id": 20147173335,
-    "entry_timestamp": "2025-08-06T01:04:59.308",
-    "not_before": "2024-09-05T00:00:00",
-    "not_after": "2025-10-04T23:59:59",
-    "serial_number": "078acb1578b5c852649037bc7113e513",
     "result_count": 2
   },
   {
@@ -27348,78 +27312,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "mearis.cms.gov",
-    "name_value": "mearis.cms.gov",
-    "id": 14449334617,
-    "entry_timestamp": "2024-09-06T09:30:32.661",
-    "not_before": "2024-09-06T00:00:00",
-    "not_after": "2025-10-04T23:59:59",
-    "serial_number": "06efaf8af7522075afffea19f6d4dc72",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "mearis-api.cms.gov",
-    "name_value": "mearis-api.cms.gov",
-    "id": 14448298263,
-    "entry_timestamp": "2024-09-06T07:34:40.585",
-    "not_before": "2024-09-06T00:00:00",
-    "not_after": "2025-10-04T23:59:59",
-    "serial_number": "0610566d0a9efe463116187ebd5079f9",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "4innovation-impl2-api.cms.gov",
-    "name_value": "4innovation-impl2-api.cms.gov",
-    "id": 14442828828,
-    "entry_timestamp": "2024-09-05T20:32:50.186",
-    "not_before": "2024-09-05T00:00:00",
-    "not_after": "2025-10-04T23:59:59",
-    "serial_number": "0d6a2cc9b39374b6818043c55f38aac6",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "4innovation-impl2.cms.gov",
-    "name_value": "4innovation-impl2.cms.gov",
-    "id": 14442819513,
-    "entry_timestamp": "2024-09-05T20:32:48.959",
-    "not_before": "2024-09-05T00:00:00",
-    "not_after": "2025-10-04T23:59:59",
-    "serial_number": "078acb1578b5c852649037bc7113e513",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "4innovation-impl2-wss.cms.gov",
-    "name_value": "4innovation-impl2-wss.cms.gov",
-    "id": 14442819524,
-    "entry_timestamp": "2024-09-05T20:32:47.863",
-    "not_before": "2024-09-05T00:00:00",
-    "not_after": "2025-10-04T23:59:59",
-    "serial_number": "09bcee6d7ae160722619921dd2df37eb",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "4innovation-impl2-uploads.cms.gov",
-    "name_value": "4innovation-impl2-uploads.cms.gov",
-    "id": 14442825292,
-    "entry_timestamp": "2024-09-05T20:32:46.043",
-    "not_before": "2024-09-05T00:00:00",
-    "not_after": "2025-10-04T23:59:59",
-    "serial_number": "0cc174d7730953ffbd1d837a7f3b7311",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "mcrefval.cms.gov",
@@ -27489,18 +27381,6 @@
     "not_before": "2024-09-05T00:00:00",
     "not_after": "2025-10-05T23:59:59",
     "serial_number": "072f8222df9e930f1ac86e35f89ba84c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "sep.dev.x1.bic.cms.gov",
-    "name_value": "sep.dev.x1.bic.cms.gov",
-    "id": 14421457993,
-    "entry_timestamp": "2024-09-04T05:50:17.43",
-    "not_before": "2024-09-04T00:00:00",
-    "not_after": "2025-10-04T23:59:59",
-    "serial_number": "0b9125a706703b73b7f9ac3d4a9029ba",
     "result_count": 2
   }
 ]
