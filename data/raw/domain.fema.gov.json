@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "api.nfipdirect.fema.gov",
+    "name_value": "*.api.nfipdirect.fema.gov\napi.nfipdirect.fema.gov",
+    "id": 21485757271,
+    "entry_timestamp": "2025-10-02T16:29:56.551",
+    "not_before": "2025-10-02T15:29:56",
+    "not_after": "2025-12-31T16:04:09",
+    "serial_number": "00eba039db8af7ad570e438de5a284fa8f",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 282053,
+    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
+    "common_name": "atp.aws.fema.gov",
+    "name_value": "*.atp.aws.fema.gov\natp.aws.fema.gov",
+    "id": 21351721858,
+    "entry_timestamp": "2025-09-29T06:38:32.634",
+    "not_before": "2025-09-29T06:28:31",
+    "not_after": "2025-12-20T06:32:20",
+    "serial_number": "5aa1adec489b51822ccc6fa3cce9784a",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 185748,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
     "common_name": "www.homelandsecurity.gov",
@@ -4054,30 +4078,6 @@
     "not_after": "2026-06-16T23:59:59",
     "serial_number": "0aafeae3f1e7c326be949f7512cfa635",
     "result_count": 10
-  },
-  {
-    "issuer_ca_id": 282054,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
-    "common_name": "tdl.apps.fema.gov",
-    "name_value": "tdl.apps.fema.gov",
-    "id": 19522898393,
-    "entry_timestamp": "2025-07-08T05:25:34.565",
-    "not_before": "2025-07-08T05:15:30",
-    "not_after": "2025-10-05T22:57:02",
-    "serial_number": "4e299cd5a091763333ca11acde1ff587",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 282054,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
-    "common_name": "tdl.apps.fema.gov",
-    "name_value": "tdl.apps.fema.gov",
-    "id": 19522890127,
-    "entry_timestamp": "2025-07-08T05:25:31.979",
-    "not_before": "2025-07-08T05:15:30",
-    "not_after": "2025-10-05T22:57:02",
-    "serial_number": "4e299cd5a091763333ca11acde1ff587",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 176211,
