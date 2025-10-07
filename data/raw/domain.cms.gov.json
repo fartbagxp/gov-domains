@@ -2,6 +2,42 @@
   {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "spellchecker.test.echimp.internal.cms.gov",
+    "name_value": "spellchecker.test.echimp.internal.cms.gov",
+    "id": 21540254128,
+    "entry_timestamp": "2025-10-07T06:31:03.475",
+    "not_before": "2025-10-07T00:00:00",
+    "not_after": "2026-11-05T23:59:59",
+    "serial_number": "02c540fabe601727f5eaba3ca238c8f6",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "test.devportal-api.backends.cms.gov",
+    "name_value": "test.devportal-api.backends.cms.gov",
+    "id": 21537017841,
+    "entry_timestamp": "2025-10-07T03:46:56.261",
+    "not_before": "2025-10-07T00:00:00",
+    "not_after": "2026-11-05T23:59:59",
+    "serial_number": "0b07a58f643138ea7f5fe6a852d66de0",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "test.devportal-api.backends.cms.gov.backends.cms.gov",
+    "name_value": "test.devportal-api.backends.cms.gov.backends.cms.gov",
+    "id": 21531294939,
+    "entry_timestamp": "2025-10-06T22:35:57.814",
+    "not_before": "2025-10-06T00:00:00",
+    "not_after": "2026-11-04T23:59:59",
+    "serial_number": "0c01bf9bc88736b14c8ba339033d9f75",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "*.dcbps.cms.gov",
     "name_value": "*.dcbps.cms.gov",
     "id": 21451094723,
@@ -41,7 +77,7 @@
     "common_name": "jiraent.cms.gov",
     "name_value": "jiraent.cms.gov",
     "id": 21434147822,
-    "entry_timestamp": "2025-10-03T04:25:27.849",
+    "entry_timestamp": "2025-10-03T04:25:27.376",
     "not_before": "2024-11-03T00:00:00",
     "not_after": "2025-12-01T23:59:59",
     "serial_number": "088d28333c5f67a8ceafe06b8cbfdc7f",
@@ -5196,18 +5232,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "test2.home.idm.cms.gov",
-    "name_value": "test2.home.idm.cms.gov",
-    "id": 20401756250,
-    "entry_timestamp": "2025-08-17T20:35:24.741",
-    "not_before": "2024-09-05T15:12:11",
-    "not_after": "2025-10-05T15:11:11",
-    "serial_number": "400191c2be373e20829f24b483d3640c",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 247115,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
     "common_name": "test.ci.backends.cms.gov",
@@ -6189,18 +6213,6 @@
     "not_before": "2025-08-08T14:27:54",
     "not_after": "2026-09-07T14:26:54",
     "serial_number": "4001988a14c6ce37c53d2ece0b95f0cc",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "dev.easi.cms.gov",
-    "name_value": "dev.easi.cms.gov",
-    "id": 20192835296,
-    "entry_timestamp": "2025-08-08T03:55:11.084",
-    "not_before": "2024-09-09T00:00:00",
-    "not_after": "2025-10-06T23:59:59",
-    "serial_number": "08585d9e29128f3b88ec62ee3409edef",
     "result_count": 2
   },
   {
@@ -8973,30 +8985,6 @@
     "not_before": "2025-07-08T14:22:28",
     "not_after": "2026-08-07T14:21:28",
     "serial_number": "400197ea6aaa8e52eaab46645ce57bc3",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "go.cms.gov",
-    "name_value": "go.cms.gov",
-    "id": 19520847928,
-    "entry_timestamp": "2025-07-08T03:11:30.181",
-    "not_before": "2025-07-08T02:12:57",
-    "not_after": "2025-10-06T02:12:56",
-    "serial_number": "053646236044e00fa0feac291099b945127f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "go.cms.gov",
-    "name_value": "go.cms.gov",
-    "id": 19520845025,
-    "entry_timestamp": "2025-07-08T03:11:27.963",
-    "not_before": "2025-07-08T02:12:57",
-    "not_after": "2025-10-06T02:12:56",
-    "serial_number": "053646236044e00fa0feac291099b945127f",
     "result_count": 2
   },
   {
@@ -18290,18 +18278,6 @@
   {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "drfpval.cms.gov",
-    "name_value": "drfpval.cms.gov",
-    "id": 16754037167,
-    "entry_timestamp": "2025-02-16T23:34:22.403",
-    "not_before": "2024-09-06T16:06:05",
-    "not_after": "2025-10-06T16:05:05",
-    "serial_number": "400191c815ea4cdddb129ca5828078f3",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "dev.dpc.cms.gov",
     "name_value": "dev.dpc.cms.gov",
     "id": 16754016608,
@@ -27252,18 +27228,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "dev.easi.cms.gov",
-    "name_value": "dev.easi.cms.gov",
-    "id": 14486350426,
-    "entry_timestamp": "2024-09-09T08:49:14.025",
-    "not_before": "2024-09-09T00:00:00",
-    "not_after": "2025-10-06T23:59:59",
-    "serial_number": "08585d9e29128f3b88ec62ee3409edef",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 247106,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
     "common_name": "test.rfx.internal.cms.gov",
@@ -27273,114 +27237,6 @@
     "not_before": "2024-09-09T00:00:00",
     "not_after": "2025-10-09T23:59:59",
     "serial_number": "02d447a6d627de3b64f1a072dd081dcc",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "vpn-api.west.cms.gov",
-    "name_value": "vpn-api.west.cms.gov",
-    "id": 14457360387,
-    "entry_timestamp": "2024-09-07T01:00:44.808",
-    "not_before": "2024-09-07T00:00:00",
-    "not_after": "2025-10-06T23:59:59",
-    "serial_number": "0c0e0575152f455ce787bdeab46d2618",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "drfpval.cms.gov",
-    "name_value": "drfpval.cms.gov",
-    "id": 14452775021,
-    "entry_timestamp": "2024-09-06T16:06:05.199",
-    "not_before": "2024-09-06T16:06:05",
-    "not_after": "2025-10-06T16:05:05",
-    "serial_number": "400191c815ea4cdddb129ca5828078f3",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "drfpconnectval.cms.gov",
-    "name_value": "drfpconnectval.cms.gov",
-    "id": 14452763800,
-    "entry_timestamp": "2024-09-06T16:04:32.885",
-    "not_before": "2024-09-06T16:04:32",
-    "not_after": "2025-10-06T16:03:32",
-    "serial_number": "400191c81481aabc0c3c42f7a34e1c09",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "mcrefval.cms.gov",
-    "name_value": "mcrefval.cms.gov",
-    "id": 14442207457,
-    "entry_timestamp": "2024-09-05T19:15:42.96",
-    "not_before": "2024-09-05T00:00:00",
-    "not_after": "2025-10-06T23:59:59",
-    "serial_number": "013d3feacaed9daa68d44382b4388afa",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "test2.home.idm.cms.gov",
-    "name_value": "test2.home.idm.cms.gov",
-    "id": 14440020152,
-    "entry_timestamp": "2024-09-05T15:12:11.674",
-    "not_before": "2024-09-05T15:12:11",
-    "not_after": "2025-10-05T15:11:11",
-    "serial_number": "400191c2be373e20829f24b483d3640c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "sccliadev.cms.gov",
-    "name_value": "sccliadev.cms.gov",
-    "id": 14440009620,
-    "entry_timestamp": "2024-09-05T15:10:53.434",
-    "not_before": "2024-09-05T15:10:53",
-    "not_after": "2025-10-05T15:09:53",
-    "serial_number": "400191c2bd059b6a24eca1ce0484881f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "training.eacms.aws.cms.gov",
-    "name_value": "training.eacms.aws.cms.gov",
-    "id": 14434388557,
-    "entry_timestamp": "2024-09-05T05:53:10.167",
-    "not_before": "2024-09-05T00:00:00",
-    "not_after": "2025-10-05T23:59:59",
-    "serial_number": "03ad7c1f4c66306d2bb4ace9586f8c7e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "dev-internal.artifactory.backends.cms.gov",
-    "name_value": "dev-internal.artifactory.backends.cms.gov",
-    "id": 14432761953,
-    "entry_timestamp": "2024-09-05T02:57:48.421",
-    "not_before": "2024-09-05T00:00:00",
-    "not_after": "2025-10-05T23:59:59",
-    "serial_number": "0edbe0c02fd0e5741dff9586a1fa1c02",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "dev.artifactory.cms.gov",
-    "name_value": "dev.artifactory.cms.gov",
-    "id": 14432753942,
-    "entry_timestamp": "2024-09-05T02:57:24.063",
-    "not_before": "2024-09-05T00:00:00",
-    "not_after": "2025-10-05T23:59:59",
-    "serial_number": "072f8222df9e930f1ac86e35f89ba84c",
     "result_count": 2
   }
 ]

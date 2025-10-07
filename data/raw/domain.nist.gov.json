@@ -209,7 +209,7 @@
     "common_name": "demo.amvp.nist.gov",
     "name_value": "demo.amvp.nist.gov",
     "id": 21352420655,
-    "entry_timestamp": "2025-09-28T15:20:59.857",
+    "entry_timestamp": "2025-09-28T14:31:13.932",
     "not_before": "2025-09-28T13:32:43",
     "not_after": "2025-12-27T13:32:42",
     "serial_number": "06b00232364d481d84b49c469152bc35751c",
@@ -221,10 +221,22 @@
     "common_name": "demo.amvp.nist.gov",
     "name_value": "demo.amvp.nist.gov",
     "id": 21430141793,
-    "entry_timestamp": "2025-09-28T14:31:13.845",
+    "entry_timestamp": "2025-09-28T14:31:13.813",
     "not_before": "2025-09-28T13:32:43",
     "not_after": "2025-12-27T13:32:42",
     "serial_number": "06b00232364d481d84b49c469152bc35751c",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "demo.amvp.nist.gov",
+    "name_value": "demo.amvp.nist.gov",
+    "id": 21504535555,
+    "entry_timestamp": "2025-09-28T14:31:07.749",
+    "not_before": "2025-09-28T13:32:35",
+    "not_after": "2025-12-27T13:32:34",
+    "serial_number": "06c1e89394bf883c3d4bdd0a57caf1c33ced",
     "result_count": 2
   },
   {
@@ -245,22 +257,10 @@
     "common_name": "testing.ct.nist.gov",
     "name_value": "testing.ct.nist.gov",
     "id": 21350855063,
-    "entry_timestamp": "2025-09-28T13:47:54.259",
+    "entry_timestamp": "2025-09-28T13:47:49.83",
     "not_before": "2025-09-28T12:49:19",
     "not_after": "2025-12-27T12:49:18",
     "serial_number": "0616ce15ef8759e9bb0aa16d7d7b2b070d29",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "testing.ct.nist.gov",
-    "name_value": "testing.ct.nist.gov",
-    "id": 21350854532,
-    "entry_timestamp": "2025-09-28T13:47:51.83",
-    "not_before": "2025-09-28T12:49:16",
-    "not_after": "2025-12-27T12:49:15",
-    "serial_number": "061458d517d6de8fc3cbfe940935a5b7bba1",
     "result_count": 2
   },
   {
@@ -280,8 +280,8 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "testing.ct.nist.gov",
     "name_value": "testing.ct.nist.gov",
-    "id": 21351668608,
-    "entry_timestamp": "2025-09-28T13:47:46.459",
+    "id": 21350854532,
+    "entry_timestamp": "2025-09-28T13:47:46.655",
     "not_before": "2025-09-28T12:49:16",
     "not_after": "2025-12-27T12:49:15",
     "serial_number": "061458d517d6de8fc3cbfe940935a5b7bba1",
@@ -290,13 +290,25 @@
   {
     "issuer_ca_id": 295817,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "testing.ct.nist.gov",
+    "name_value": "testing.ct.nist.gov",
+    "id": 21351668608,
+    "entry_timestamp": "2025-09-28T13:47:46.459",
+    "not_before": "2025-09-28T12:49:16",
+    "not_after": "2025-12-27T12:49:15",
+    "serial_number": "061458d517d6de8fc3cbfe940935a5b7bba1",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295809,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
     "common_name": "edge-cert-test.ct.nist.gov",
     "name_value": "edge-cert-test.ct.nist.gov",
-    "id": 21350007015,
-    "entry_timestamp": "2025-09-28T13:02:06.171",
-    "not_before": "2025-09-28T12:03:31",
-    "not_after": "2025-12-27T12:03:30",
-    "serial_number": "060608870a254bf6468cf3122e962e14caa8",
+    "id": 21502297605,
+    "entry_timestamp": "2025-09-28T13:02:04.767",
+    "not_before": "2025-09-28T12:03:34",
+    "not_after": "2025-12-27T12:03:33",
+    "serial_number": "061a9a1c4a7b4a8a141469e115b3fbc9197b",
     "result_count": 2
   },
   {
@@ -309,6 +321,18 @@
     "not_before": "2025-09-28T12:03:34",
     "not_after": "2025-12-27T12:03:33",
     "serial_number": "061a9a1c4a7b4a8a141469e115b3fbc9197b",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "edge-cert-test.ct.nist.gov",
+    "name_value": "edge-cert-test.ct.nist.gov",
+    "id": 21350007015,
+    "entry_timestamp": "2025-09-28T13:02:02",
+    "not_before": "2025-09-28T12:03:31",
+    "not_after": "2025-12-27T12:03:30",
+    "serial_number": "060608870a254bf6468cf3122e962e14caa8",
     "result_count": 2
   },
   {
@@ -19810,18 +19834,6 @@
     "not_after": "2025-11-07T23:59:59",
     "serial_number": "029f98f0ace0843993ee94bdbd351192",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "password.nccoe.nist.gov",
-    "name_value": "ad360.nccoe.nist.gov\nITWINVMSMON360.core.nccoe.nist.gov\npassword.nccoe.nist.gov",
-    "id": 14833336710,
-    "entry_timestamp": "2024-10-07T12:01:03.807",
-    "not_before": "2024-10-07T00:00:00",
-    "not_after": "2025-10-06T23:59:59",
-    "serial_number": "02a9f713c3d9a213c5c961627cf11a5a",
-    "result_count": 4
   },
   {
     "issuer_ca_id": 185752,
