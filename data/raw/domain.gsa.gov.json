@@ -1,5 +1,41 @@
 [
   {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "store.fleet-test.fcs.gsa.gov",
+    "name_value": "*.store.fleet-test.fcs.gsa.gov\nstore.fleet-test.fcs.gsa.gov",
+    "id": 21540263343,
+    "entry_timestamp": "2025-10-07T06:30:14.949",
+    "not_before": "2025-10-07T00:00:00",
+    "not_after": "2026-11-04T23:59:59",
+    "serial_number": "0c655570d15e0430b9930d07a6edc89d",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "store.fleet-test.fcs.gsa.gov",
+    "name_value": "*.store.fleet-test.fcs.gsa.gov\nstore.fleet-test.fcs.gsa.gov",
+    "id": 21539209822,
+    "entry_timestamp": "2025-10-07T05:36:23.208",
+    "not_before": "2025-10-07T00:00:00",
+    "not_after": "2026-11-04T23:59:59",
+    "serial_number": "0c655570d15e0430b9930d07a6edc89d",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "*.prod.hud.mcaas.fcs.gsa.gov",
+    "name_value": "*.prod.hud.mcaas.fcs.gsa.gov",
+    "id": 21530301483,
+    "entry_timestamp": "2025-10-06T21:36:57.953",
+    "not_before": "2025-10-06T00:00:00",
+    "not_after": "2026-11-04T23:59:59",
+    "serial_number": "0cb218448ce60106f968a82b9e06be23",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 295809,
     "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
     "common_name": "networx-billing-pricer.eos.gsa.gov",
@@ -437,7 +473,7 @@
     "common_name": "idiq.gsa.gov",
     "name_value": "idiq.gsa.gov",
     "id": 21374760738,
-    "entry_timestamp": "2025-09-29T15:29:51.71",
+    "entry_timestamp": "2025-09-29T15:29:47.49",
     "not_before": "2025-09-29T14:31:16",
     "not_after": "2025-12-28T14:31:15",
     "serial_number": "05b5a3e8c9335247aae398c97af02b7c409e",
@@ -449,10 +485,22 @@
     "common_name": "idiq.gsa.gov",
     "name_value": "idiq.gsa.gov",
     "id": 21374972135,
-    "entry_timestamp": "2025-09-29T15:29:47.151",
+    "entry_timestamp": "2025-09-29T15:29:47.15",
     "not_before": "2025-09-29T14:31:16",
     "not_after": "2025-12-28T14:31:15",
     "serial_number": "05b5a3e8c9335247aae398c97af02b7c409e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "tosca.etsnext.fas.gsa.gov",
+    "name_value": "tosca.etsnext.fas.gsa.gov",
+    "id": 21534142378,
+    "entry_timestamp": "2025-09-29T11:25:03.623",
+    "not_before": "2025-09-29T10:26:31",
+    "not_after": "2025-12-28T10:26:30",
+    "serial_number": "052e1e5cf9c810958de8cf99542106400b03",
     "result_count": 2
   },
   {
@@ -9804,30 +9852,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 295810,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E5",
-    "common_name": "eis-public-pricer.test.eos.gsa.gov",
-    "name_value": "eis-public-pricer.test.eos.gsa.gov",
-    "id": 19556920731,
-    "entry_timestamp": "2025-07-09T20:44:45.043",
-    "not_before": "2025-07-09T19:46:12",
-    "not_after": "2025-10-07T19:46:11",
-    "serial_number": "063ca3c9ceade9fd5137df2891d4f4f49086",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295810,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E5",
-    "common_name": "eis-public-pricer.test.eos.gsa.gov",
-    "name_value": "eis-public-pricer.test.eos.gsa.gov",
-    "id": 19556918214,
-    "entry_timestamp": "2025-07-09T20:44:42.81",
-    "not_before": "2025-07-09T19:46:12",
-    "not_after": "2025-10-07T19:46:11",
-    "serial_number": "063ca3c9ceade9fd5137df2891d4f4f49086",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "gsbca2.gsa.gov",
@@ -18778,17 +18802,5 @@
     "not_after": "2025-10-10T23:59:59",
     "serial_number": "0d2da18cae21e9a6069e5c379903bd56",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "ocms.fas.gsa.gov",
-    "name_value": "ocms.fas.gsa.gov\nwww.ocms.fas.gsa.gov",
-    "id": 14491281786,
-    "entry_timestamp": "2024-09-09T17:45:23.426",
-    "not_before": "2024-09-09T00:00:00",
-    "not_after": "2025-10-07T23:59:59",
-    "serial_number": "0aea732ff0608e0785243e5f7507a6eb",
-    "result_count": 3
   }
 ]
