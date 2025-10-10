@@ -1,5 +1,41 @@
 [
   {
+    "issuer_ca_id": 247115,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
+    "common_name": "visit.archives.gov",
+    "name_value": "visit.archives.gov",
+    "id": 21577827425,
+    "entry_timestamp": "2025-10-08T17:08:07.76",
+    "not_before": "2025-08-17T00:00:00",
+    "not_after": "2026-09-15T23:59:59",
+    "serial_number": "013bc924359f8f10b28233479539d509",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "visit.archives.gov",
+    "name_value": "visit.archives.gov",
+    "id": 21577842285,
+    "entry_timestamp": "2025-10-08T17:07:57.449",
+    "not_before": "2025-10-08T00:00:00",
+    "not_after": "2026-11-08T23:59:59",
+    "serial_number": "00d85bd81fe8e61b3d28319c26319d151b",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "visit.archives.gov",
+    "name_value": "visit.archives.gov",
+    "id": 21577826478,
+    "entry_timestamp": "2025-10-08T17:07:56.04",
+    "not_before": "2025-10-08T00:00:00",
+    "not_after": "2026-11-08T23:59:59",
+    "serial_number": "00d85bd81fe8e61b3d28319c26319d151b",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 295816,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "research.archives.gov",
@@ -29,7 +65,7 @@
     "common_name": "images.catalog.archives.gov",
     "name_value": "images.catalog.archives.gov",
     "id": 21386004501,
-    "entry_timestamp": "2025-10-01T00:58:03.151",
+    "entry_timestamp": "2025-10-01T00:56:53.993",
     "not_before": "2024-10-31T00:00:00",
     "not_after": "2025-11-29T23:59:59",
     "serial_number": "092c2c1c743cf0e2934cd99076fc1536",
@@ -113,7 +149,7 @@
     "common_name": "blogs.qa.archives.gov",
     "name_value": "*.blogs.qa.archives.gov\nblogs.qa.archives.gov",
     "id": 21364050898,
-    "entry_timestamp": "2025-09-30T04:30:57.989",
+    "entry_timestamp": "2025-09-30T04:30:57.862",
     "not_before": "2024-10-30T00:00:00",
     "not_after": "2025-11-28T23:59:59",
     "serial_number": "0de2ef444652c16023845183e1642245",
@@ -586,18 +622,6 @@
     "not_after": "2025-11-11T08:35:31",
     "serial_number": "059763cf5861c0077b22f6a9718a1b5f70b4",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "alb.preview.nac-mvp.archives.gov",
-    "name_value": "alb.preview.nac-mvp.archives.gov",
-    "id": 20260216274,
-    "entry_timestamp": "2025-08-11T06:12:20.785",
-    "not_before": "2024-09-10T00:00:00",
-    "not_after": "2025-10-09T23:59:59",
-    "serial_number": "08efe86829ca828d1e60ab82e880ff7e",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 247106,
@@ -2049,18 +2073,6 @@
     "not_before": "2024-09-15T00:00:00",
     "not_after": "2025-10-15T23:59:59",
     "serial_number": "0c9b575f036369467273f6f409e3a105",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "alb.preview.nac-mvp.archives.gov",
-    "name_value": "alb.preview.nac-mvp.archives.gov",
-    "id": 14498254949,
-    "entry_timestamp": "2024-09-10T07:49:38.587",
-    "not_before": "2024-09-10T00:00:00",
-    "not_after": "2025-10-09T23:59:59",
-    "serial_number": "08efe86829ca828d1e60ab82e880ff7e",
     "result_count": 2
   }
 ]
