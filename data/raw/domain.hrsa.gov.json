@@ -1,5 +1,65 @@
 [
   {
+    "issuer_ca_id": 204407,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
+    "common_name": "hrsa.gov",
+    "name_value": "*.hrsa.gov\nhrsa.gov",
+    "id": 21645205407,
+    "entry_timestamp": "2025-10-11T12:40:33.217",
+    "not_before": "2025-10-11T00:00:00",
+    "not_after": "2026-01-02T18:31:17",
+    "serial_number": "00c928681d1675275136f47b5ba381b0f7",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204407,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
+    "common_name": "hrsa.gov",
+    "name_value": "*.hrsa.gov\nhrsa.gov",
+    "id": 21645205389,
+    "entry_timestamp": "2025-10-11T12:40:32.724",
+    "not_before": "2025-10-11T00:00:00",
+    "not_after": "2026-01-02T18:31:17",
+    "serial_number": "00c928681d1675275136f47b5ba381b0f7",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "tableau-uat.hdw.hrsa.gov",
+    "name_value": "ak-tableau-uat.hdw.hrsa.gov\ntableau-uat.hdw.hrsa.gov\nwww.tableau-uat.hdw.hrsa.gov",
+    "id": 21605775042,
+    "entry_timestamp": "2025-10-09T18:27:57.241",
+    "not_before": "2025-10-09T18:27:57",
+    "not_after": "2026-11-08T18:26:57",
+    "serial_number": "400199ca3ad41c31fa11be326bba3748",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "cribl.hrsa.gov",
+    "name_value": "cribl.hrsa.gov\nsoc-crblas-p01.hrsa.gov\nsoc-crblas-p02.hrsa.gov\nsoc-crblas-p03.hrsa.gov\nsoc-crblas-p04.hrsa.gov\nsoc-crblas-p05.hrsa.gov\nsoc-crblas-p06.hrsa.gov\nsoc-crblas-p07.hrsa.gov\nsoc-crblas-p08.hrsa.gov\nsoc-crblas-p09.hrsa.gov\nsoc-crblas-p10.hrsa.gov\nsoc-crblas-p11.hrsa.gov",
+    "id": 21601424206,
+    "entry_timestamp": "2025-10-09T14:32:05.494",
+    "not_before": "2025-10-09T14:32:05",
+    "not_after": "2026-11-08T14:31:05",
+    "serial_number": "400199c962e3f741ca17817883805438",
+    "result_count": 13
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "tableau-uat.hdw.hrsa.gov",
+    "name_value": "ak-tableau-uat.hdw.hrsa.gov\ntableau-uat.hdw.hrsa.gov\nwww.tableau-uat.hdw.hrsa.gov",
+    "id": 21601281548,
+    "entry_timestamp": "2025-10-09T14:26:23.368",
+    "not_before": "2025-10-09T14:26:23",
+    "not_after": "2026-11-08T14:25:23",
+    "serial_number": "400199c95dabd2bba75ed1f505f61bed",
+    "result_count": 4
+  },
+  {
     "issuer_ca_id": 185748,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
     "common_name": "demo.npdb.hrsa.gov",
@@ -53,7 +113,7 @@
     "common_name": "hrsa.gov",
     "name_value": "*.hrsa.gov\nhrsa.gov",
     "id": 21521770524,
-    "entry_timestamp": "2025-10-04T18:31:02.365",
+    "entry_timestamp": "2025-10-04T18:31:02.237",
     "not_before": "2025-10-04T00:00:00",
     "not_after": "2025-12-27T08:10:31",
     "serial_number": "0181131fa6a9b24a93c96042f04be52b",
@@ -65,7 +125,7 @@
     "common_name": "hrsa.gov",
     "name_value": "*.hrsa.gov\nhrsa.gov",
     "id": 21521770238,
-    "entry_timestamp": "2025-10-04T18:30:59.479",
+    "entry_timestamp": "2025-10-04T18:30:59.377",
     "not_before": "2025-10-04T00:00:00",
     "not_after": "2025-12-27T08:10:31",
     "serial_number": "0181131fa6a9b24a93c96042f04be52b",
@@ -1116,6 +1176,30 @@
     "result_count": 3
   },
   {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "search.usa.gov",
+    "name_value": "search.npdb.hrsa.gov",
+    "id": 20115466402,
+    "entry_timestamp": "2025-08-04T16:55:42.839",
+    "not_before": "2025-08-04T15:57:12",
+    "not_after": "2025-11-02T15:57:11",
+    "serial_number": "06192f1142c906303f4c801eb5d9c49534ab",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "search.usa.gov",
+    "name_value": "search.npdb.hrsa.gov",
+    "id": 20115466938,
+    "entry_timestamp": "2025-08-04T16:55:42.611",
+    "not_before": "2025-08-04T15:57:12",
+    "not_after": "2025-11-02T15:57:11",
+    "serial_number": "06192f1142c906303f4c801eb5d9c49534ab",
+    "result_count": 1
+  },
+  {
     "issuer_ca_id": 385512,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
     "common_name": "access3.nih.gov",
@@ -1474,18 +1558,6 @@
     "not_after": "2026-08-16T20:19:45",
     "serial_number": "4001981a0beadd217fe6f0829c9dc573",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "servicecenterdev.hrsa.gov",
-    "name_value": "servicecenterdev.hrsa.gov",
-    "id": 19715543300,
-    "entry_timestamp": "2025-07-16T17:59:10.559",
-    "not_before": "2025-07-16T17:00:40",
-    "not_after": "2025-10-14T17:00:39",
-    "serial_number": "05a616038a2f0817b33ce2b1d79373ded3bb",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 153248,
@@ -3802,18 +3874,6 @@
     "not_after": "2025-11-21T23:59:59",
     "serial_number": "0925bfbe75349a20b8418ae369d156a7",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "crucible.npdb.hrsa.gov",
-    "name_value": "crucible.npdb.hrsa.gov",
-    "id": 14931645007,
-    "entry_timestamp": "2024-10-14T17:30:00.128",
-    "not_before": "2024-10-14T00:00:00",
-    "not_after": "2025-10-14T23:59:59",
-    "serial_number": "071d13754bfa4b7ef4338b756ae83dce",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 153248,
