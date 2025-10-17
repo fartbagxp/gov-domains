@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "hrms.usgs.gov",
+    "name_value": "hrms.usgs.gov",
+    "id": 21611898524,
+    "entry_timestamp": "2025-10-10T01:29:09.309",
+    "not_before": "2025-10-10T00:30:38",
+    "not_after": "2026-01-08T00:30:37",
+    "serial_number": "056524675506402c370f51ef2f73a562afb8",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "hrms.usgs.gov",
+    "name_value": "hrms.usgs.gov",
+    "id": 21611903373,
+    "entry_timestamp": "2025-10-10T01:29:08.886",
+    "not_before": "2025-10-10T00:30:38",
+    "not_after": "2026-01-08T00:30:37",
+    "serial_number": "056524675506402c370f51ef2f73a562afb8",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 295817,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "ens-eq.usgs.gov",
@@ -2760,54 +2784,6 @@
     "result_count": 4
   },
   {
-    "issuer_ca_id": 295819,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E6",
-    "common_name": "usgs.gov",
-    "name_value": "*.usgs.gov\nusgs.gov",
-    "id": 19743999580,
-    "entry_timestamp": "2025-07-18T00:55:30.958",
-    "not_before": "2025-07-17T23:57:00",
-    "not_after": "2025-10-15T23:56:59",
-    "serial_number": "051f8d3a81addc43fd8451fb318633c63273",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295819,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E6",
-    "common_name": "usgs.gov",
-    "name_value": "*.usgs.gov\nusgs.gov",
-    "id": 19743997304,
-    "entry_timestamp": "2025-07-18T00:55:30.686",
-    "not_before": "2025-07-17T23:57:00",
-    "not_after": "2025-10-15T23:56:59",
-    "serial_number": "051f8d3a81addc43fd8451fb318633c63273",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "usgs.gov",
-    "name_value": "*.usgs.gov\nusgs.gov",
-    "id": 19743996729,
-    "entry_timestamp": "2025-07-18T00:55:25.41",
-    "not_before": "2025-07-17T23:56:52",
-    "not_after": "2025-10-15T23:56:51",
-    "serial_number": "059df8825d5e99d050c1deeadc2d708b5b30",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "usgs.gov",
-    "name_value": "*.usgs.gov\nusgs.gov",
-    "id": 19743996485,
-    "entry_timestamp": "2025-07-18T00:55:23.096",
-    "not_before": "2025-07-17T23:56:52",
-    "not_after": "2025-10-15T23:56:51",
-    "serial_number": "059df8825d5e99d050c1deeadc2d708b5b30",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "*.er.usgs.gov",
@@ -2902,30 +2878,6 @@
     "not_after": "2026-07-23T23:59:59",
     "serial_number": "059e7a72cd4cc288c4dfdfc456e58860",
     "result_count": 7
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "usgs.gov",
-    "name_value": "*.usgs.gov\nusgs.gov",
-    "id": 19691062665,
-    "entry_timestamp": "2025-07-15T20:02:57.993",
-    "not_before": "2025-07-15T19:02:57",
-    "not_after": "2025-10-13T20:02:54",
-    "serial_number": "27e3e0c59932d05f11af8856131ac151",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "usgs.gov",
-    "name_value": "*.usgs.gov\nusgs.gov",
-    "id": 19691084310,
-    "entry_timestamp": "2025-07-15T20:02:48.546",
-    "not_before": "2025-07-15T19:02:48",
-    "not_after": "2025-10-13T19:59:22",
-    "serial_number": "00dac1c2483f1d30ba0e87e00b393a1575",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 185752,
@@ -4221,18 +4173,6 @@
     "not_before": "2024-10-01T00:00:00",
     "not_after": "2025-10-21T23:59:59",
     "serial_number": "07f1715b399a4421649217d69f8181fd",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "*.wma.usgs.gov",
-    "name_value": "*.wma.usgs.gov\nwma.usgs.gov",
-    "id": 14547286494,
-    "entry_timestamp": "2024-09-14T08:33:14.715",
-    "not_before": "2024-09-14T00:00:00",
-    "not_after": "2025-10-11T23:59:59",
-    "serial_number": "0f128806e76df086124b40aa1e307d33",
     "result_count": 3
   }
 ]
