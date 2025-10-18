@@ -1,5 +1,89 @@
 [
   {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "app3-elb.test.healthcare.gov",
+    "name_value": "app3-elb.test.healthcare.gov",
+    "id": 21750449996,
+    "entry_timestamp": "2025-10-16T02:48:49.877",
+    "not_before": "2025-10-16T00:00:00",
+    "not_after": "2026-11-14T23:59:59",
+    "serial_number": "0cb2547d246950d62d1d1fa5d3f96066",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "app3-elb.perf.healthcare.gov",
+    "name_value": "app3-elb.perf.healthcare.gov",
+    "id": 21743141840,
+    "entry_timestamp": "2025-10-15T18:47:05.139",
+    "not_before": "2025-10-15T00:00:00",
+    "not_after": "2026-11-13T23:59:59",
+    "serial_number": "03f0ad83f4b1ca2377fa974e8af1a922",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "auth-app.test4.healthcare.gov",
+    "name_value": "auth-app.test4.healthcare.gov",
+    "id": 21574942447,
+    "entry_timestamp": "2025-10-08T14:41:01.455",
+    "not_before": "2025-10-08T00:00:00",
+    "not_after": "2026-10-07T23:59:59",
+    "serial_number": "0e7a17ed6b72b3f2690237b5f8b434db",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "auth-app.test5.healthcare.gov",
+    "name_value": "auth-app.test5.healthcare.gov",
+    "id": 21574941077,
+    "entry_timestamp": "2025-10-08T14:40:44.431",
+    "not_before": "2025-10-08T00:00:00",
+    "not_after": "2026-10-07T23:59:59",
+    "serial_number": "04fcddebfa739a29e27e164d86de0b69",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "uat0.bpc.api.healthcare.gov",
+    "name_value": "uat0.bpc.api.healthcare.gov",
+    "id": 21574939759,
+    "entry_timestamp": "2025-10-08T14:40:23.491",
+    "not_before": "2025-10-08T00:00:00",
+    "not_after": "2026-10-07T23:59:59",
+    "serial_number": "0659a7fe587ad2a350270f299b95a926",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "test.fdai.healthcare.gov",
+    "name_value": "test.fdai.healthcare.gov",
+    "id": 21574873450,
+    "entry_timestamp": "2025-10-08T14:37:08.37",
+    "not_before": "2025-10-08T00:00:00",
+    "not_after": "2026-10-07T23:59:59",
+    "serial_number": "0447246f94e035875d2ea58bfdd1ee4e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "dev.fdai.healthcare.gov",
+    "name_value": "dev.fdai.healthcare.gov",
+    "id": 21574852781,
+    "entry_timestamp": "2025-10-08T14:36:49.431",
+    "not_before": "2025-10-08T00:00:00",
+    "not_after": "2026-10-07T23:59:59",
+    "serial_number": "016b22be1bdd780dcc5dc0dce95ba7ff",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "fdai.healthcare.gov",
@@ -1893,18 +1977,6 @@
     "not_before": "2024-09-23T00:00:00",
     "not_after": "2025-10-22T23:59:59",
     "serial_number": "0618e4c1b6ccbb55d982be289b743f04",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "preview.healthcare.gov",
-    "name_value": "preview.healthcare.gov",
-    "id": 14513585785,
-    "entry_timestamp": "2024-09-11T15:06:18.893",
-    "not_before": "2024-09-11T00:00:00",
-    "not_after": "2025-10-10T23:59:59",
-    "serial_number": "03c7b2adc071b4feb92ff70130e43c1f",
     "result_count": 2
   }
 ]

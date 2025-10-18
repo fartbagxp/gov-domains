@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 176211,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2",
+    "common_name": "hub-test.sec.gov",
+    "name_value": "hub-test.sec.gov",
+    "id": 21656872807,
+    "entry_timestamp": "2025-10-12T01:26:50.493",
+    "not_before": "2025-08-07T00:00:00",
+    "not_after": "2026-08-06T23:59:59",
+    "serial_number": "09eaf18989676fad6476120268b645fa",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 62123,
+    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
+    "common_name": "www.sec.gov",
+    "name_value": "acadia.sec.gov\nacadiastg.sec.gov\nadfs.sec.gov\naskhr.sec.gov\ndata.sec.gov\ndata-test.sec.gov\ndcmstg.sec.gov\nedgarfiling.appsdmz.edg-stg.sec.gov\nedgarfiling.apps.edg-stg.sec.gov\nedgarfiling-beta.edgarfiling.sec.gov\nedgarfiling-enterprise.appsdmz.edgar.sec.gov\nedgarfiling-enterprise.apps.edgar.sec.gov\nefap.sec.gov\nefapstg.sec.gov\nefoia-pal.sec.gov\nefoia-palstg.sec.gov\nefts.sec.gov\nefts-stage.sec.gov\nenfdev.sec.gov\nenfprod.sec.gov\nenfstage.sec.gov\nenftest.sec.gov\neslogin.sec.gov\nesloginstg.sec.gov\nfilermanagement.appsdmz.edg-stg.sec.gov\nfilermanagement-beta.edgarfiling.sec.gov\nfilermgmt.apps.edg-stg.sec.gov\nfilermgmt-enterprise.appsdmz.edgar.sec.gov\nfilermgmt-enterprise.apps.edgar.sec.gov\nhub-dev.sec.gov\nhub-test.sec.gov\nlogin.sec.gov\nloginstg.sec.gov\nmeetings1.sec.gov\nmeetings2.sec.gov\nmeetings.sec.gov\nonlineforms.appsdmz.edg-stg.sec.gov\nonlineforms.apps.edg-stg.sec.gov\nonlineforms-beta.edgarfiling.sec.gov\nonlineforms-enterprise.appsdmz.edgar.sec.gov\nonlineforms-enterprise.apps.edgar.sec.gov\npenny.edgarcompany.sec.gov\npenny.edgarfiling.sec.gov\npenny.filermanagement.edgarfiling.sec.gov\npenny.onlineforms.edgarfiling.sec.gov\npenny.portal.edgarfiling.sec.gov\nportal.appsdmz.edg-stg.sec.gov\nportal.apps.edg-stg.sec.gov\nportal-beta.edgarfiling.sec.gov\nportal-enterprise.appsdmz.edgar.sec.gov\nportal-enterprise.apps.edgar.sec.gov\nregandsurvey.sec.gov\nsearch.sec.gov\nsearchwww.sec.gov\nsec.gov\nstgpal.sec.gov\ntcr.sec.gov\ntcrstg.sec.gov\ntts2.sec.gov\ntts.sec.gov\nwts.sec.gov\nwtsstg.sec.gov\nwww.edgarcompany.sec.gov\nwww.edgarfiling.sec.gov\nwww.filermanagement.edgarfiling.sec.gov\nwww.onlineforms.edgarfiling.sec.gov\nwww.portal.edgarfiling.sec.gov\nwww.sec.gov\nwww-test.sec.gov\nxbrl.sec.gov",
+    "id": 21655749471,
+    "entry_timestamp": "2025-10-12T00:09:35.442",
+    "not_before": "2025-10-12T00:00:00",
+    "not_after": "2026-10-13T23:59:59",
+    "serial_number": "0a6be07d7d98a090e67c747c771ed01f",
+    "result_count": 71
+  },
+  {
     "issuer_ca_id": 185748,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
     "common_name": "stage.edgarfiling.sec.gov",
@@ -622,18 +646,6 @@
     "not_after": "2025-11-21T23:59:59",
     "serial_number": "041589cd5adb75cabb3c7117e5724b90",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 18093,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2016 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1J",
-    "common_name": "tcrstg.sec.gov",
-    "name_value": "tcrstg.glb.sec.gov\ntcrstg.sec.gov",
-    "id": 19517293734,
-    "entry_timestamp": "2025-07-07T23:18:25.478",
-    "not_before": "2024-10-02T19:09:29",
-    "not_after": "2025-10-11T19:09:28",
-    "serial_number": "55a05cc0904b9452587912b461c658de",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 185748,
@@ -1498,29 +1510,5 @@
     "not_after": "2025-10-23T23:59:59",
     "serial_number": "0f92f63f65070814611ef1d88b0df766",
     "result_count": 21
-  },
-  {
-    "issuer_ca_id": 18093,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2016 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1J",
-    "common_name": "tcrstg.sec.gov",
-    "name_value": "tcrstg.glb.sec.gov\ntcrstg.sec.gov",
-    "id": 14773408784,
-    "entry_timestamp": "2024-10-02T19:09:30.049",
-    "not_before": "2024-10-02T19:09:29",
-    "not_after": "2025-10-11T19:09:28",
-    "serial_number": "55a05cc0904b9452587912b461c658de",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 18093,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2016 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1J",
-    "common_name": "tcr.sec.gov",
-    "name_value": "tcr.glb.sec.gov\ntcr.sec.gov",
-    "id": 14773388298,
-    "entry_timestamp": "2024-10-02T19:07:11.917",
-    "not_before": "2024-10-02T19:07:11",
-    "not_after": "2025-10-11T19:07:10",
-    "serial_number": "21c5e50af80fed35f93e0a901a8c0d3a",
-    "result_count": 3
   }
 ]
