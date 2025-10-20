@@ -1,5 +1,65 @@
 [
   {
+    "issuer_ca_id": 282053,
+    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
+    "common_name": "services.nfipdirect.fema.gov",
+    "name_value": "*.services.nfipdirect.fema.gov\nservices.nfipdirect.fema.gov",
+    "id": 21837636756,
+    "entry_timestamp": "2025-10-19T23:11:25.666",
+    "not_before": "2025-10-19T23:01:24",
+    "not_after": "2026-01-07T05:38:22",
+    "serial_number": "7cbf523ea84d6f4a78c83033ced5981a",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204407,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
+    "common_name": "origin-staging-go.fema.gov",
+    "name_value": "*.origin-staging-go.fema.gov\norigin-staging-go.fema.gov",
+    "id": 21788633309,
+    "entry_timestamp": "2025-10-17T18:47:45.589",
+    "not_before": "2025-10-17T00:00:00",
+    "not_after": "2026-01-08T20:45:49",
+    "serial_number": "5f346f84bce418fc9978e2580385f784",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204407,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
+    "common_name": "origin-staging-go.fema.gov",
+    "name_value": "*.origin-staging-go.fema.gov\norigin-staging-go.fema.gov",
+    "id": 21788633111,
+    "entry_timestamp": "2025-10-17T18:47:44.292",
+    "not_before": "2025-10-17T00:00:00",
+    "not_after": "2026-01-08T20:45:49",
+    "serial_number": "5f346f84bce418fc9978e2580385f784",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "api.stage.nfipdirect.fema.gov",
+    "name_value": "*.api.stage.nfipdirect.fema.gov\napi.stage.nfipdirect.fema.gov",
+    "id": 21773052072,
+    "entry_timestamp": "2025-10-17T01:58:17.512",
+    "not_before": "2025-10-17T00:59:47",
+    "not_after": "2026-01-15T00:59:46",
+    "serial_number": "05624e55c2d3632eb68d3c3c21163324a45d",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "api.stage.nfipdirect.fema.gov",
+    "name_value": "*.api.stage.nfipdirect.fema.gov\napi.stage.nfipdirect.fema.gov",
+    "id": 21773053754,
+    "entry_timestamp": "2025-10-17T01:58:17.294",
+    "not_before": "2025-10-17T00:59:47",
+    "not_after": "2026-01-15T00:59:46",
+    "serial_number": "05624e55c2d3632eb68d3c3c21163324a45d",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 282054,
     "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
     "common_name": "tdl.gis.fema.gov",
@@ -2494,18 +2554,6 @@
     "not_after": "2026-04-09T23:59:59",
     "serial_number": "03407e9857386c67b940ebce78c79c4f",
     "result_count": 4
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "demo.apps.aws.fema.gov",
-    "name_value": "demo.apps.aws.fema.gov",
-    "id": 20429312875,
-    "entry_timestamp": "2025-08-19T04:17:55.579",
-    "not_before": "2024-09-17T00:00:00",
-    "not_after": "2025-10-18T23:59:59",
-    "serial_number": "0367fb7e5858a21ed089ed24ebb3d635",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 282053,
@@ -6082,113 +6130,5 @@
     "not_after": "2025-10-21T23:59:59",
     "serial_number": "0d8aa4a63c55b6b25ee8f646c8c14d34",
     "result_count": 11
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "apps.fema.gov",
-    "name_value": "apps.fema.gov",
-    "id": 14595654783,
-    "entry_timestamp": "2024-09-18T13:28:13.051",
-    "not_before": "2024-09-18T00:00:00",
-    "not_after": "2025-10-19T23:59:59",
-    "serial_number": "0e63b7b1db4a94281b2bcdc1eb93adc0",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "integration.aws.fema.gov",
-    "name_value": "integration.aws.fema.gov",
-    "id": 14595645445,
-    "entry_timestamp": "2024-09-18T13:26:29.56",
-    "not_before": "2024-09-18T00:00:00",
-    "not_after": "2025-10-19T23:59:59",
-    "serial_number": "0238515a63c5c67b9c3b60cae7becf9a",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "atpuserguide.aws.fema.gov",
-    "name_value": "atpuserguide.aws.fema.gov",
-    "id": 14585162947,
-    "entry_timestamp": "2024-09-17T15:09:42.75",
-    "not_before": "2024-09-17T00:00:00",
-    "not_after": "2025-10-18T23:59:59",
-    "serial_number": "05c0c9959931de4e102fb0992b3a5d57",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "atp.aws.fema.gov",
-    "name_value": "atp.aws.fema.gov",
-    "id": 14585156753,
-    "entry_timestamp": "2024-09-17T15:08:28.072",
-    "not_before": "2024-09-17T00:00:00",
-    "not_after": "2025-10-18T23:59:59",
-    "serial_number": "0fe17cf06ee58d02e983cc26a0e5fe50",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "demo.apps.aws.fema.gov",
-    "name_value": "demo.apps.aws.fema.gov",
-    "id": 14585109753,
-    "entry_timestamp": "2024-09-17T15:03:10.649",
-    "not_before": "2024-09-17T00:00:00",
-    "not_after": "2025-10-18T23:59:59",
-    "serial_number": "0367fb7e5858a21ed089ed24ebb3d635",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "demo.integration.aws.fema.gov",
-    "name_value": "demo.integration.aws.fema.gov",
-    "id": 14585093776,
-    "entry_timestamp": "2024-09-17T15:01:24.579",
-    "not_before": "2024-09-17T00:00:00",
-    "not_after": "2025-10-18T23:59:59",
-    "serial_number": "0c34add6cb27540f95777fc8c3f43af5",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "tdl.apps.fema.gov",
-    "name_value": "tdl.apps.fema.gov",
-    "id": 14585070513,
-    "entry_timestamp": "2024-09-17T14:58:15.55",
-    "not_before": "2024-09-17T00:00:00",
-    "not_after": "2025-10-18T23:59:59",
-    "serial_number": "0dc9f0067d7dc3d3f5a89a7f2adab531",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "tdl.integration.aws.fema.gov",
-    "name_value": "tdl.integration.aws.fema.gov",
-    "id": 14585061053,
-    "entry_timestamp": "2024-09-17T14:56:17.221",
-    "not_before": "2024-09-17T00:00:00",
-    "not_after": "2025-10-18T23:59:59",
-    "serial_number": "072541577c2e3d47b87cef3ce70c60b0",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "messageviewer.demo.apps.fema.gov",
-    "name_value": "messageviewer.demo.apps.fema.gov",
-    "id": 14585033314,
-    "entry_timestamp": "2024-09-17T14:53:44.05",
-    "not_before": "2024-09-17T00:00:00",
-    "not_after": "2025-10-18T23:59:59",
-    "serial_number": "083a5187712c3866d459a8c384656714",
-    "result_count": 2
   }
 ]
