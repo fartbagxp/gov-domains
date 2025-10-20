@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "asaconnecthubtest.hhs.gov",
+    "name_value": "asaconnecthubtest.hhs.gov",
+    "id": 21841844380,
+    "entry_timestamp": "2025-10-20T02:59:11.416",
+    "not_before": "2025-10-20T02:00:40",
+    "not_after": "2026-01-18T02:00:39",
+    "serial_number": "05c6b9147cbbf087a1661b4d25a7396682dd",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "asaconnecthubtest.hhs.gov",
+    "name_value": "asaconnecthubtest.hhs.gov",
+    "id": 21841837119,
+    "entry_timestamp": "2025-10-20T02:59:11.054",
+    "not_before": "2025-10-20T02:00:40",
+    "not_after": "2026-01-18T02:00:39",
+    "serial_number": "05c6b9147cbbf087a1661b4d25a7396682dd",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "bdrexternal.hhs.gov",
@@ -3024,18 +3048,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "itams.ohs.acf.hhs.gov",
-    "name_value": "analytics.itams.ohs.acf.hhs.gov\napi.itams.ohs.acf.hhs.gov\nitams.ohs.acf.hhs.gov\nsftp.itams.ohs.acf.hhs.gov\nstaging.analytics.itams.ohs.acf.hhs.gov\nstaging.api.itams.ohs.acf.hhs.gov\nstaging.itams.ohs.acf.hhs.gov\nwww.itams.ohs.acf.hhs.gov",
-    "id": 20721186235,
-    "entry_timestamp": "2025-09-01T10:30:10.652",
-    "not_before": "2024-10-08T16:49:56",
-    "not_after": "2025-10-18T16:49:55",
-    "serial_number": "0094e0f1117f67995699290305b262fa6b",
-    "result_count": 9
-  },
-  {
     "issuer_ca_id": 295817,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "staging.hses.ohs.acf.hhs.gov",
@@ -3838,18 +3850,6 @@
     "not_after": "2026-09-19T14:51:47",
     "serial_number": "400198c7f7e0803eb4630d467486485a",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185748,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
-    "common_name": "akamai-san15.exacttarget.com",
-    "name_value": "image.connect.hhs.gov",
-    "id": 20428910849,
-    "entry_timestamp": "2025-08-19T03:52:31.162",
-    "not_before": "2024-09-17T00:00:00",
-    "not_after": "2025-10-18T23:59:59",
-    "serial_number": "04e999acc12f70417d044d0bbf8acdd6",
-    "result_count": 1
   },
   {
     "issuer_ca_id": 295814,
@@ -5337,42 +5337,6 @@
     "not_before": "2025-07-22T16:07:42",
     "not_after": "2026-08-21T16:06:42",
     "serial_number": "40019832e40a49e5242ad7629c70e62f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "wiki.simpler.hhs.gov",
-    "name_value": "wiki.simpler.hhs.gov",
-    "id": 19817529212,
-    "entry_timestamp": "2025-07-21T16:19:30.854",
-    "not_before": "2025-07-21T14:21:23",
-    "not_after": "2025-10-19T15:21:14",
-    "serial_number": "3edc6edc507f12a40d22c0c4f5927e2f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "wiki.simpler.hhs.gov",
-    "name_value": "wiki.simpler.hhs.gov",
-    "id": 19816722163,
-    "entry_timestamp": "2025-07-21T15:21:23.905",
-    "not_before": "2025-07-21T14:21:23",
-    "not_after": "2025-10-19T15:21:14",
-    "serial_number": "3edc6edc507f12a40d22c0c4f5927e2f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "wiki.simpler.hhs.gov",
-    "name_value": "wiki.simpler.hhs.gov",
-    "id": 19816710738,
-    "entry_timestamp": "2025-07-21T15:21:08.393",
-    "not_before": "2025-07-21T14:21:08",
-    "not_after": "2025-10-19T15:19:52",
-    "serial_number": "18c1059a385079711326e88968ac052e",
     "result_count": 2
   },
   {
@@ -12768,18 +12732,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "itams.ohs.acf.hhs.gov",
-    "name_value": "analytics.itams.ohs.acf.hhs.gov\napi.itams.ohs.acf.hhs.gov\nitams.ohs.acf.hhs.gov\nsftp.itams.ohs.acf.hhs.gov\nstaging.analytics.itams.ohs.acf.hhs.gov\nstaging.api.itams.ohs.acf.hhs.gov\nstaging.itams.ohs.acf.hhs.gov\nwww.itams.ohs.acf.hhs.gov",
-    "id": 14850502767,
-    "entry_timestamp": "2024-10-08T16:49:57.095",
-    "not_before": "2024-10-08T16:49:56",
-    "not_after": "2025-10-18T16:49:55",
-    "serial_number": "0094e0f1117f67995699290305b262fa6b",
-    "result_count": 9
-  },
-  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "npiregistry.cms.hhs.gov",
@@ -12874,29 +12826,5 @@
     "not_after": "2025-10-24T16:14:34",
     "serial_number": "40019224d11135570897a2aabe7ec86d",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "efds.hhs.gov",
-    "name_value": "efds.hhs.gov",
-    "id": 14609997536,
-    "entry_timestamp": "2024-09-19T18:47:15.013",
-    "not_before": "2024-09-19T18:47:14",
-    "not_after": "2025-10-19T18:46:14",
-    "serial_number": "4001920b9c22fd193143d50eeeaf6229",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185748,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
-    "common_name": "akamai-san15.exacttarget.com",
-    "name_value": "image.connect.hhs.gov",
-    "id": 14587346988,
-    "entry_timestamp": "2024-09-17T19:33:00.765",
-    "not_before": "2024-09-17T00:00:00",
-    "not_after": "2025-10-18T23:59:59",
-    "serial_number": "04e999acc12f70417d044d0bbf8acdd6",
-    "result_count": 1
   }
 ]
