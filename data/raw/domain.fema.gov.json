@@ -1,5 +1,53 @@
 [
   {
+    "issuer_ca_id": 62123,
+    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
+    "common_name": "www.dhs.gov",
+    "name_value": "emilms.fema.gov\ngo.fema.gov\nm.fema.gov\nmobile.fema.gov\nm.usfa.fema.gov\npreview-m.fema.gov\nstaging-go.fema.gov\nusfa.fema.gov\nwww.fema.gov\nwww.usfa.fema.gov",
+    "id": 21885448362,
+    "entry_timestamp": "2025-10-21T13:23:51.453",
+    "not_before": "2025-10-21T00:00:00",
+    "not_after": "2026-10-23T23:59:59",
+    "serial_number": "0426b0af4706238eb1f8ba5f58ecab6b",
+    "result_count": 10
+  },
+  {
+    "issuer_ca_id": 176209,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=GeoTrust EV RSA CA G2",
+    "common_name": "preptoolkit.fema.gov",
+    "name_value": "auth.preptoolkit.fema.gov\ngis.preptoolkit.fema.gov\nmstr.preptoolkit.fema.gov\noneresponder.preptoolkit.fema.gov\npreptoolkit.fema.gov\nris.preptoolkit.fema.gov\nrtlt.preptoolkit.fema.gov\nwww.preptoolkit.fema.gov",
+    "id": 21864174033,
+    "entry_timestamp": "2025-10-20T21:51:35.282",
+    "not_before": "2025-10-20T00:00:00",
+    "not_after": "2026-11-20T23:59:59",
+    "serial_number": "0e45a4860074352103fd8a6c75f366b2",
+    "result_count": 9
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "ndg-gg-aws.fema.gov",
+    "name_value": "ndg-gg-aws.fema.gov",
+    "id": 21853480452,
+    "entry_timestamp": "2025-10-20T12:41:56.899",
+    "not_before": "2025-10-20T00:00:00",
+    "not_after": "2026-11-20T23:59:59",
+    "serial_number": "7c77c43a1a70ad0aa0823fa9dcce2ebe",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "ndg-gg-aws.fema.gov",
+    "name_value": "ndg-gg-aws.fema.gov",
+    "id": 21853458605,
+    "entry_timestamp": "2025-10-20T12:41:53.471",
+    "not_before": "2025-10-20T00:00:00",
+    "not_after": "2026-11-20T23:59:59",
+    "serial_number": "7c77c43a1a70ad0aa0823fa9dcce2ebe",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 295809,
     "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
     "common_name": "api.stage.nfipdirect.fema.gov",
@@ -3492,42 +3540,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 282054,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
-    "common_name": "atp.aws.fema.gov",
-    "name_value": "*.atp.aws.fema.gov\natp.aws.fema.gov",
-    "id": 19906702452,
-    "entry_timestamp": "2025-07-25T21:34:21.903",
-    "not_before": "2025-07-25T21:24:20",
-    "not_after": "2025-10-21T05:40:37",
-    "serial_number": "579020a12a9e1e8580df69df669b59c5",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 282054,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
-    "common_name": "services.nfipdirect.fema.gov",
-    "name_value": "*.services.nfipdirect.fema.gov\nservices.nfipdirect.fema.gov",
-    "id": 19897850025,
-    "entry_timestamp": "2025-07-25T11:46:58.786",
-    "not_before": "2025-07-25T11:36:57",
-    "not_after": "2025-10-21T03:02:59",
-    "serial_number": "1cf7509b2fd876934f96c2ada36edd53",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 282054,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
-    "common_name": "core.nfipdirect.fema.gov",
-    "name_value": "*.core.nfipdirect.fema.gov\ncore.nfipdirect.fema.gov",
-    "id": 19894249813,
-    "entry_timestamp": "2025-07-25T07:42:40.961",
-    "not_before": "2025-07-25T07:32:39",
-    "not_after": "2025-10-21T03:19:14",
-    "serial_number": "7fcf7740478ecbef34263e45104e4329",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 62123,
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
     "common_name": "preview.dhs.gov",
@@ -3588,42 +3600,6 @@
     "result_count": 8
   },
   {
-    "issuer_ca_id": 282053,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
-    "common_name": "core.nfipdirect.fema.gov",
-    "name_value": "*.core.nfipdirect.fema.gov\ncore.nfipdirect.fema.gov",
-    "id": 19878094197,
-    "entry_timestamp": "2025-07-24T14:25:19.886",
-    "not_before": "2025-07-24T14:15:18",
-    "not_after": "2025-10-21T03:19:07",
-    "serial_number": "6b466dba1a24b118a35b4980e65761fe",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 282053,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
-    "common_name": "atp.aws.fema.gov",
-    "name_value": "*.atp.aws.fema.gov\natp.aws.fema.gov",
-    "id": 19873225216,
-    "entry_timestamp": "2025-07-24T08:43:07.134",
-    "not_before": "2025-07-24T08:33:06",
-    "not_after": "2025-10-21T05:40:32",
-    "serial_number": "224ac80a88b7a37ebfc558ac1b50cd89",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 282053,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
-    "common_name": "services.nfipdirect.fema.gov",
-    "name_value": "*.services.nfipdirect.fema.gov\nservices.nfipdirect.fema.gov",
-    "id": 19868042227,
-    "entry_timestamp": "2025-07-24T02:59:39.691",
-    "not_before": "2025-07-24T02:49:38",
-    "not_after": "2025-10-21T03:02:59",
-    "serial_number": "2a3036ccf5002ff07e6825ba5cfb12e2",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 185748,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
     "common_name": "www4.dhs.gov",
@@ -3634,78 +3610,6 @@
     "not_after": "2026-06-16T23:59:59",
     "serial_number": "069cdfab60e2ee6d6edbbf4659406238",
     "result_count": 1
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "atp.aws.fema.gov",
-    "name_value": "*.atp.aws.fema.gov\natp.aws.fema.gov",
-    "id": 19847381290,
-    "entry_timestamp": "2025-07-23T04:02:48.245",
-    "not_before": "2025-07-23T03:02:47",
-    "not_after": "2025-10-21T04:02:44",
-    "serial_number": "00c6f2879fc9a2c065111aee34a9e8ead5",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "atp.aws.fema.gov",
-    "name_value": "*.atp.aws.fema.gov\natp.aws.fema.gov",
-    "id": 19847357347,
-    "entry_timestamp": "2025-07-23T04:02:39.6",
-    "not_before": "2025-07-23T03:02:39",
-    "not_after": "2025-10-21T02:36:50",
-    "serial_number": "3a008bbb684c4d5a0e070b42ed31d706",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "core.nfipdirect.fema.gov",
-    "name_value": "*.core.nfipdirect.fema.gov\ncore.nfipdirect.fema.gov",
-    "id": 19845143470,
-    "entry_timestamp": "2025-07-23T01:43:27.447",
-    "not_before": "2025-07-23T00:43:27",
-    "not_after": "2025-10-21T01:43:23",
-    "serial_number": "603b10c26dc7e06c1303b274b098ab74",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "core.nfipdirect.fema.gov",
-    "name_value": "*.core.nfipdirect.fema.gov\ncore.nfipdirect.fema.gov",
-    "id": 19845131019,
-    "entry_timestamp": "2025-07-23T01:43:18.298",
-    "not_before": "2025-07-23T00:43:17",
-    "not_after": "2025-10-21T01:40:54",
-    "serial_number": "00a84d699720cce8700d6ccea5ff4dddb8",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "services.nfipdirect.fema.gov",
-    "name_value": "*.services.nfipdirect.fema.gov\nservices.nfipdirect.fema.gov",
-    "id": 19843648177,
-    "entry_timestamp": "2025-07-23T00:08:33.102",
-    "not_before": "2025-07-22T23:08:32",
-    "not_after": "2025-10-21T00:08:12",
-    "serial_number": "0946c761cfc050a51387252c91da96da",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "services.nfipdirect.fema.gov",
-    "name_value": "*.services.nfipdirect.fema.gov\nservices.nfipdirect.fema.gov",
-    "id": 19843620226,
-    "entry_timestamp": "2025-07-23T00:08:07.002",
-    "not_before": "2025-07-22T23:08:06",
-    "not_after": "2025-10-21T00:06:41",
-    "serial_number": "00ea75d1abb848bca713e99820f729c2a6",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 185748,
@@ -5544,18 +5448,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 176209,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=GeoTrust EV RSA CA G2",
-    "common_name": "preptoolkit.fema.gov",
-    "name_value": "auth.preptoolkit.fema.gov\ngis.preptoolkit.fema.gov\nirishub.preptoolkit.fema.gov\nmstr.preptoolkit.fema.gov\noneresponder.preptoolkit.fema.gov\npreptoolkit.fema.gov\nris.preptoolkit.fema.gov\nrtlt.preptoolkit.fema.gov\nsso.preptoolkit.fema.gov\nwww.preptoolkit.fema.gov",
-    "id": 16781587050,
-    "entry_timestamp": "2025-02-21T01:20:04.599",
-    "not_before": "2024-09-30T00:00:00",
-    "not_after": "2025-10-21T23:59:59",
-    "serial_number": "0d8aa4a63c55b6b25ee8f646c8c14d34",
-    "result_count": 11
-  },
-  {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "*.nfipdirect.fema.gov",
@@ -6154,17 +6046,5 @@
     "not_after": "2025-11-14T16:46:38",
     "serial_number": "78e468226962a2785b8c79a592eac18f",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 176209,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=GeoTrust EV RSA CA G2",
-    "common_name": "preptoolkit.fema.gov",
-    "name_value": "auth.preptoolkit.fema.gov\ngis.preptoolkit.fema.gov\nirishub.preptoolkit.fema.gov\nmstr.preptoolkit.fema.gov\noneresponder.preptoolkit.fema.gov\npreptoolkit.fema.gov\nris.preptoolkit.fema.gov\nrtlt.preptoolkit.fema.gov\nsso.preptoolkit.fema.gov\nwww.preptoolkit.fema.gov",
-    "id": 14747497486,
-    "entry_timestamp": "2024-09-30T18:01:41.07",
-    "not_before": "2024-09-30T00:00:00",
-    "not_after": "2025-10-21T23:59:59",
-    "serial_number": "0d8aa4a63c55b6b25ee8f646c8c14d34",
-    "result_count": 11
   }
 ]
