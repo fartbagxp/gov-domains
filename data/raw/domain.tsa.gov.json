@@ -1,5 +1,17 @@
 [
   {
+    "issuer_ca_id": 62123,
+    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
+    "common_name": "www.dhs.gov",
+    "name_value": "blog.tsa.gov\nmobile.tsa.gov\npreview.mobile.tsa.gov\nwww.tsa.gov",
+    "id": 21885448362,
+    "entry_timestamp": "2025-10-21T13:23:51.453",
+    "not_before": "2025-10-21T00:00:00",
+    "not_after": "2026-10-23T23:59:59",
+    "serial_number": "0426b0af4706238eb1f8ba5f58ecab6b",
+    "result_count": 4
+  },
+  {
     "issuer_ca_id": 385512,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
     "common_name": "jobs.tsa.gov",
@@ -778,29 +790,5 @@
     "not_after": "2025-12-16T23:59:59",
     "serial_number": "0c48bdca9d351993d5769721f299f33c",
     "result_count": 4
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "sdczapp395t.network.ad.tsa.gov",
-    "name_value": "sdczapp395t.network.ad.tsa.gov",
-    "id": 14622838826,
-    "entry_timestamp": "2024-09-20T19:34:30.166",
-    "not_before": "2024-09-20T19:34:29",
-    "not_after": "2025-10-20T19:34:28",
-    "serial_number": "2c7b199776805dadaa4cd1ffebf878f4",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "sdczapp396t.network.ad.tsa.gov",
-    "name_value": "sdczapp396t.network.ad.tsa.gov",
-    "id": 14622686173,
-    "entry_timestamp": "2024-09-20T19:17:58.922",
-    "not_before": "2024-09-20T19:17:58",
-    "not_after": "2025-10-20T19:17:57",
-    "serial_number": "286e786b23ef8aff62728c63761b4a2e",
-    "result_count": 2
   }
 ]
