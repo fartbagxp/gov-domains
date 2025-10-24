@@ -2,6 +2,114 @@
   {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "test.pc2-elb.healthcare.gov",
+    "name_value": "test.pc2-elb.healthcare.gov",
+    "id": 21900959246,
+    "entry_timestamp": "2025-10-22T01:04:59.662",
+    "not_before": "2025-10-22T00:00:00",
+    "not_after": "2026-11-20T23:59:59",
+    "serial_number": "0c7f401eede990826573392d76389ca9",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "data.healthcare.gov",
+    "name_value": "data.healthcare.gov\nedit.data.healthcare.gov",
+    "id": 21894119540,
+    "entry_timestamp": "2025-10-21T20:21:35.649",
+    "not_before": "2025-10-21T19:23:05",
+    "not_after": "2026-01-19T19:23:04",
+    "serial_number": "057aabd2c905ffaff205e8c0d9f122db2cd6",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "data.healthcare.gov",
+    "name_value": "data.healthcare.gov\nedit.data.healthcare.gov",
+    "id": 21894118981,
+    "entry_timestamp": "2025-10-21T20:21:35.297",
+    "not_before": "2025-10-21T19:23:05",
+    "not_after": "2026-01-19T19:23:04",
+    "serial_number": "057aabd2c905ffaff205e8c0d9f122db2cd6",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "imp.data.healthcare.gov",
+    "name_value": "imp.data.healthcare.gov\nimp-edit.data.healthcare.gov",
+    "id": 21894027451,
+    "entry_timestamp": "2025-10-21T20:17:08.667",
+    "not_before": "2025-10-21T19:18:38",
+    "not_after": "2026-01-19T19:18:37",
+    "serial_number": "064567b180eb077c9ef6c2d034474990f38e",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "imp.data.healthcare.gov",
+    "name_value": "imp.data.healthcare.gov\nimp-edit.data.healthcare.gov",
+    "id": 21893993180,
+    "entry_timestamp": "2025-10-21T20:17:08.507",
+    "not_before": "2025-10-21T19:18:38",
+    "not_after": "2026-01-19T19:18:37",
+    "serial_number": "064567b180eb077c9ef6c2d034474990f38e",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "test.data.healthcare.gov",
+    "name_value": "test.data.healthcare.gov\ntest-edit.data.healthcare.gov",
+    "id": 21893912941,
+    "entry_timestamp": "2025-10-21T20:12:02.864",
+    "not_before": "2025-10-21T19:13:30",
+    "not_after": "2026-01-19T19:13:29",
+    "serial_number": "067093656b559fd4ddf240bfd5fc127d2e8c",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "test.data.healthcare.gov",
+    "name_value": "test.data.healthcare.gov\ntest-edit.data.healthcare.gov",
+    "id": 21893891975,
+    "entry_timestamp": "2025-10-21T20:12:00.766",
+    "not_before": "2025-10-21T19:13:30",
+    "not_after": "2026-01-19T19:13:29",
+    "serial_number": "067093656b559fd4ddf240bfd5fc127d2e8c",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "dev.data.healthcare.gov",
+    "name_value": "dev.data.healthcare.gov\ndev-edit.data.healthcare.gov",
+    "id": 21893782542,
+    "entry_timestamp": "2025-10-21T20:07:11.811",
+    "not_before": "2025-10-21T19:08:41",
+    "not_after": "2026-01-19T19:08:40",
+    "serial_number": "059b649a30e699128ab51cdd251e09e351f0",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "dev.data.healthcare.gov",
+    "name_value": "dev.data.healthcare.gov\ndev-edit.data.healthcare.gov",
+    "id": 21893784536,
+    "entry_timestamp": "2025-10-21T20:07:11.584",
+    "not_before": "2025-10-21T19:08:41",
+    "not_after": "2026-01-19T19:08:40",
+    "serial_number": "059b649a30e699128ab51cdd251e09e351f0",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "app2-elb.test.healthcare.gov",
     "name_value": "app2-elb.test.healthcare.gov",
     "id": 21817742166,
@@ -1977,18 +2085,6 @@
     "not_before": "2024-10-01T00:00:00",
     "not_after": "2025-10-30T23:59:59",
     "serial_number": "0e22e6b726d4b3ed90beff576dae68ee",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "app3-elb.dev.healthcare.gov",
-    "name_value": "app3-elb.dev.healthcare.gov",
-    "id": 14658276455,
-    "entry_timestamp": "2024-09-23T12:35:33.883",
-    "not_before": "2024-09-23T00:00:00",
-    "not_after": "2025-10-22T23:59:59",
-    "serial_number": "0618e4c1b6ccbb55d982be289b743f04",
     "result_count": 2
   }
 ]
