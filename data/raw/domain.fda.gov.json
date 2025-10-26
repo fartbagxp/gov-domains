@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "api.fda.gov",
+    "name_value": "api.fda.gov",
+    "id": 21994089050,
+    "entry_timestamp": "2025-10-25T12:19:34.501",
+    "not_before": "2025-10-25T11:21:04",
+    "not_after": "2026-01-23T11:21:03",
+    "serial_number": "06314ceeed76a86e8b6712637db5751896f0",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "api.fda.gov",
+    "name_value": "api.fda.gov",
+    "id": 21994086222,
+    "entry_timestamp": "2025-10-25T12:19:34.228",
+    "not_before": "2025-10-25T11:21:04",
+    "not_after": "2026-01-23T11:21:03",
+    "serial_number": "06314ceeed76a86e8b6712637db5751896f0",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "timp-ccms.preprod.fda.gov",
@@ -2062,30 +2086,6 @@
     "not_after": "2025-10-30T18:46:20",
     "serial_number": "40019244422c82bc854d16c2037cf770",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "hfp-onlinesubmissions.fda.gov",
-    "name_value": "cfsan-onlinesubmissions.fda.gov\ncfsan-onlinesubmissions-mig.fda.gov\nhfp-onlinesubmissions.fda.gov\nhfp-onlinesubmissions-mig.fda.gov\nwww.cfsan-onlinesubmissions.fda.gov\nwww.cfsan-onlinesubmissions-mig.fda.gov\nwww.hfp-onlinesubmissions.fda.gov\nwww.hfp-onlinesubmissions-mig.fda.gov",
-    "id": 20467752455,
-    "entry_timestamp": "2025-08-20T15:39:13.06",
-    "not_before": "2024-09-25T18:59:57",
-    "not_after": "2025-10-25T18:58:57",
-    "serial_number": "4001922a8decf7ff3645a9a464e6003e",
-    "result_count": 9
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "hfp-onlinesubmissions.preprod.fda.gov",
-    "name_value": "cfsan-onlinesubmissions-mig.preprod.fda.gov\ncfsan-onlinesubmissions.preprod.fda.gov\nhfp-onlinesubmissions-mig.preprod.fda.gov\nhfp-onlinesubmissions.preprod.fda.gov\nwww.cfsan-onlinesubmissions-mig.preprod.fda.gov\nwww.cfsan-onlinesubmissions.preprod.fda.gov\nwww.hfp-onlinesubmissions-mig.preprod.fda.gov\nwww.hfp-onlinesubmissions.preprod.fda.gov",
-    "id": 20467669510,
-    "entry_timestamp": "2025-08-20T15:33:02.359",
-    "not_before": "2024-09-25T18:59:09",
-    "not_after": "2025-10-25T18:58:09",
-    "serial_number": "4001922a8d319bee04f4cac3fce032ff",
-    "result_count": 9
   },
   {
     "issuer_ca_id": 295815,
@@ -5854,29 +5854,5 @@
     "not_after": "2025-10-26T17:23:19",
     "serial_number": "4001922f5cba5d61c6b7a933be53ad4e",
     "result_count": 5
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "hfp-onlinesubmissions.fda.gov",
-    "name_value": "cfsan-onlinesubmissions.fda.gov\ncfsan-onlinesubmissions-mig.fda.gov\nhfp-onlinesubmissions.fda.gov\nhfp-onlinesubmissions-mig.fda.gov\nwww.cfsan-onlinesubmissions.fda.gov\nwww.cfsan-onlinesubmissions-mig.fda.gov\nwww.hfp-onlinesubmissions.fda.gov\nwww.hfp-onlinesubmissions-mig.fda.gov",
-    "id": 14688149597,
-    "entry_timestamp": "2024-09-25T18:59:57.417",
-    "not_before": "2024-09-25T18:59:57",
-    "not_after": "2025-10-25T18:58:57",
-    "serial_number": "4001922a8decf7ff3645a9a464e6003e",
-    "result_count": 9
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "hfp-onlinesubmissions.preprod.fda.gov",
-    "name_value": "cfsan-onlinesubmissions-mig.preprod.fda.gov\ncfsan-onlinesubmissions.preprod.fda.gov\nhfp-onlinesubmissions-mig.preprod.fda.gov\nhfp-onlinesubmissions.preprod.fda.gov\nwww.cfsan-onlinesubmissions-mig.preprod.fda.gov\nwww.cfsan-onlinesubmissions.preprod.fda.gov\nwww.hfp-onlinesubmissions-mig.preprod.fda.gov\nwww.hfp-onlinesubmissions.preprod.fda.gov",
-    "id": 14688143700,
-    "entry_timestamp": "2024-09-25T18:59:09.45",
-    "not_before": "2024-09-25T18:59:09",
-    "not_after": "2025-10-25T18:58:09",
-    "serial_number": "4001922a8d319bee04f4cac3fce032ff",
-    "result_count": 9
   }
 ]
