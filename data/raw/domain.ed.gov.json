@@ -1,5 +1,65 @@
 [
   {
+    "issuer_ca_id": 185748,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
+    "common_name": "sa.ed.gov",
+    "name_value": "sa.ed.gov\ntest2sa.ed.gov\ntestsa.ed.gov",
+    "id": 22004796420,
+    "entry_timestamp": "2025-10-26T00:10:10.794",
+    "not_before": "2025-10-26T00:00:00",
+    "not_after": "2026-10-27T23:59:59",
+    "serial_number": "0beb5f9515a996c06961c632e133d829",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "sa.ed.gov",
+    "name_value": "sa.ed.gov\ntest2sa.ed.gov\ntestsa.ed.gov",
+    "id": 22004756817,
+    "entry_timestamp": "2025-10-26T00:07:37.697",
+    "not_before": "2025-10-26T00:00:00",
+    "not_after": "2026-10-27T23:59:59",
+    "serial_number": "04e0b162b09a60c03fab4dbf8478b538",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "courses.lincs.ed.gov",
+    "name_value": "courses.lincs.ed.gov",
+    "id": 21933486832,
+    "entry_timestamp": "2025-10-23T05:43:50.429",
+    "not_before": "2025-10-23T04:45:20",
+    "not_after": "2026-01-21T04:45:19",
+    "serial_number": "0643c5a3f3f0683418cb481e1caacd54c5fc",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "courses.lincs.ed.gov",
+    "name_value": "courses.lincs.ed.gov",
+    "id": 21933460266,
+    "entry_timestamp": "2025-10-23T05:43:50.118",
+    "not_before": "2025-10-23T04:45:20",
+    "not_after": "2026-01-21T04:45:19",
+    "serial_number": "0643c5a3f3f0683418cb481e1caacd54c5fc",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "*.ed.gov",
+    "name_value": "*.ed.gov",
+    "id": 21918017620,
+    "entry_timestamp": "2025-10-22T15:51:09.279",
+    "not_before": "2025-10-22T00:00:00",
+    "not_after": "2026-11-10T23:59:59",
+    "serial_number": "0e3db144180eb78b36d751dbc25848aa",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 295817,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "*.ppo.atagc.com",
@@ -1773,18 +1833,6 @@
     "not_before": "2025-08-16T00:00:00",
     "not_after": "2026-02-16T23:59:59",
     "serial_number": "01bbc79e9b46dd62c76c5554637b290e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 904,
-    "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
-    "common_name": "tsa.ed.gov",
-    "name_value": "tsa.ed.gov",
-    "id": 20356799354,
-    "entry_timestamp": "2025-08-15T21:16:30.697",
-    "not_before": "2024-10-29T14:53:48",
-    "not_after": "2025-10-24T20:21:56",
-    "serial_number": "00dc72afccfcc86e78",
     "result_count": 2
   },
   {
@@ -5148,30 +5196,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 239799,
-    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
-    "common_name": "edphishme.ed.gov",
-    "name_value": "edphishme.ed.gov",
-    "id": 18061979661,
-    "entry_timestamp": "2025-04-25T20:36:43.452",
-    "not_before": "2025-04-25T00:00:00",
-    "not_after": "2025-10-25T23:59:59",
-    "serial_number": "0331c3e072f516a531995ba148efdf83",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 239799,
-    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
-    "common_name": "edphishme.ed.gov",
-    "name_value": "edphishme.ed.gov",
-    "id": 18061150643,
-    "entry_timestamp": "2025-04-25T19:27:10.022",
-    "not_before": "2025-04-25T00:00:00",
-    "not_after": "2025-10-25T23:59:59",
-    "serial_number": "0331c3e072f516a531995ba148efdf83",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "h3006sjvce004.ed.gov",
@@ -5218,30 +5242,6 @@
     "not_after": "2026-04-24T23:59:59",
     "serial_number": "05343f10d266f841f2301eb8f3940bfc",
     "result_count": 4
-  },
-  {
-    "issuer_ca_id": 239799,
-    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
-    "common_name": "edphishme.scm.ed.gov",
-    "name_value": "edphishme.scm.ed.gov",
-    "id": 18050657589,
-    "entry_timestamp": "2025-04-25T05:39:17.404",
-    "not_before": "2025-04-25T00:00:00",
-    "not_after": "2025-10-25T23:59:59",
-    "serial_number": "09d6407c0b0a7f0ff2da393890a85f04",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 239799,
-    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
-    "common_name": "edphishme.scm.ed.gov",
-    "name_value": "edphishme.scm.ed.gov",
-    "id": 18049851273,
-    "entry_timestamp": "2025-04-25T04:31:09.862",
-    "not_before": "2025-04-25T00:00:00",
-    "not_after": "2025-10-25T23:59:59",
-    "serial_number": "09d6407c0b0a7f0ff2da393890a85f04",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 185752,
@@ -6876,30 +6876,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 105493,
-    "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
-    "common_name": "literacycenter.ed.gov",
-    "name_value": "literacycenter.ed.gov\nwww.literacycenter.ed.gov",
-    "id": 15450311973,
-    "entry_timestamp": "2024-11-22T01:29:34.675",
-    "not_before": "2024-11-22T00:00:00",
-    "not_after": "2025-10-25T23:59:59",
-    "serial_number": "5b2f093c541a99321dcf26863f853787",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 105493,
-    "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
-    "common_name": "literacycenter.ed.gov",
-    "name_value": "literacycenter.ed.gov\nwww.literacycenter.ed.gov",
-    "id": 15450311967,
-    "entry_timestamp": "2024-11-22T01:29:33.95",
-    "not_before": "2024-11-22T00:00:00",
-    "not_after": "2025-10-25T23:59:59",
-    "serial_number": "5b2f093c541a99321dcf26863f853787",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "cdp1chin.sys.ed.gov",
@@ -7258,18 +7234,6 @@
     "not_after": "2025-11-19T23:59:59",
     "serial_number": "0df128c2e54c0bf16a942af58d72360f",
     "result_count": 8
-  },
-  {
-    "issuer_ca_id": 904,
-    "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
-    "common_name": "tsa.ed.gov",
-    "name_value": "tsa.ed.gov",
-    "id": 15128421244,
-    "entry_timestamp": "2024-10-29T14:53:49.112",
-    "not_before": "2024-10-29T14:53:48",
-    "not_after": "2025-10-24T20:21:56",
-    "serial_number": "00dc72afccfcc86e78",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 105493,

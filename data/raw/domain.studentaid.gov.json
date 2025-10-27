@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 185748,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
+    "common_name": "mohela.studentaid.gov",
+    "name_value": "authenticate1.mohela.studentaid.gov\nauthenticate1-test.mohela.studentaid.gov\nauthenticate2.mohela.studentaid.gov\nauthenticate2-test.mohela.studentaid.gov\nmediaserver.mohela.studentaid.gov\nmohela.studentaid.gov\nmyaccount-cat.mohela.studentaid.gov\nmyaccount-env1.mohela.studentaid.gov\nmyaccount.mohela.studentaid.gov\nmyaccount-prodfix.mohela.studentaid.gov\nportal.mohela.studentaid.gov\nportal-staging.mohela.studentaid.gov\nrocketweb.mohela.studentaid.gov\nstaging-usds.mohela.studentaid.gov\nusds-view.mohela.studentaid.gov",
+    "id": 22004796284,
+    "entry_timestamp": "2025-10-26T00:10:16.061",
+    "not_before": "2025-10-26T00:00:00",
+    "not_after": "2026-10-27T23:59:59",
+    "serial_number": "0c6fa51c7aa5cf9f6285b713156902fe",
+    "result_count": 16
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "mohela.studentaid.gov",
+    "name_value": "authenticate1.mohela.studentaid.gov\nauthenticate1-test.mohela.studentaid.gov\nauthenticate2.mohela.studentaid.gov\nauthenticate2-test.mohela.studentaid.gov\nmediaserver.mohela.studentaid.gov\nmohela.studentaid.gov\nmyaccount-cat.mohela.studentaid.gov\nmyaccount-env1.mohela.studentaid.gov\nmyaccount.mohela.studentaid.gov\nmyaccount-prodfix.mohela.studentaid.gov\nportal.mohela.studentaid.gov\nportal-staging.mohela.studentaid.gov\nrocketweb.mohela.studentaid.gov\nstaging-usds.mohela.studentaid.gov\nusds-view.mohela.studentaid.gov",
+    "id": 22004756754,
+    "entry_timestamp": "2025-10-26T00:07:41.619",
+    "not_before": "2025-10-26T00:00:00",
+    "not_after": "2026-10-27T23:59:59",
+    "serial_number": "0e237bd4acbd0d4fbbb460e708ac6cd9",
+    "result_count": 16
+  },
+  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "testaccountrecovery.studentaid.gov",
@@ -1281,78 +1305,6 @@
     "not_before": "2025-07-31T22:07:52",
     "not_after": "2025-10-29T23:03:47",
     "serial_number": "00e8060f9b5b1b6297121772cfdf351ff9",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "oauth-openshift.apps.rosa.prod.studentaid.gov",
-    "name_value": "oauth-openshift.apps.rosa.prod.studentaid.gov",
-    "id": 19966440465,
-    "entry_timestamp": "2025-07-28T15:34:51.217",
-    "not_before": "2025-07-28T14:36:18",
-    "not_after": "2025-10-26T14:36:17",
-    "serial_number": "067344a213ddeca32004d844f4b2b2092753",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "*.apps.rosa.prod.studentaid.gov",
-    "name_value": "*.apps.rosa.prod.studentaid.gov",
-    "id": 19966443116,
-    "entry_timestamp": "2025-07-28T15:34:50.951",
-    "not_before": "2025-07-28T14:36:18",
-    "not_after": "2025-10-26T14:36:17",
-    "serial_number": "069fc18b84aa3d30c589b779c86d4fab2c7b",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "oauth-openshift.apps.rosa.prod.studentaid.gov",
-    "name_value": "oauth-openshift.apps.rosa.prod.studentaid.gov",
-    "id": 19966433467,
-    "entry_timestamp": "2025-07-28T15:34:49.007",
-    "not_before": "2025-07-28T14:36:18",
-    "not_after": "2025-10-26T14:36:17",
-    "serial_number": "067344a213ddeca32004d844f4b2b2092753",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "*.apps.rosa.prod.studentaid.gov",
-    "name_value": "*.apps.rosa.prod.studentaid.gov",
-    "id": 19966438699,
-    "entry_timestamp": "2025-07-28T15:34:48.883",
-    "not_before": "2025-07-28T14:36:18",
-    "not_after": "2025-10-26T14:36:17",
-    "serial_number": "069fc18b84aa3d30c589b779c86d4fab2c7b",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "console-openshift-console.apps.rosa.prod.studentaid.gov",
-    "name_value": "console-openshift-console.apps.rosa.prod.studentaid.gov",
-    "id": 19966011073,
-    "entry_timestamp": "2025-07-28T15:09:33.492",
-    "not_before": "2025-07-28T14:11:02",
-    "not_after": "2025-10-26T14:11:01",
-    "serial_number": "0590db6a516a4f31ffc62048dc51ea0bd669",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "console-openshift-console.apps.rosa.prod.studentaid.gov",
-    "name_value": "console-openshift-console.apps.rosa.prod.studentaid.gov",
-    "id": 19966010572,
-    "entry_timestamp": "2025-07-28T15:09:33.182",
-    "not_before": "2025-07-28T14:11:02",
-    "not_after": "2025-10-26T14:11:01",
-    "serial_number": "0590db6a516a4f31ffc62048dc51ea0bd669",
     "result_count": 2
   },
   {
