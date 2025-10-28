@@ -1,5 +1,89 @@
 [
   {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "ehbgrantsgov.hrsa.gov",
+    "name_value": "ehbgrantsgov.hrsa.gov\nwww.ehbgrantsgov.hrsa.gov",
+    "id": 21974663940,
+    "entry_timestamp": "2025-10-24T17:09:35.583",
+    "not_before": "2025-10-24T17:09:35",
+    "not_after": "2026-11-23T17:08:35",
+    "serial_number": "40019a17327a1e427ee368209aff2ecb",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "newsroom.hrsa.gov",
+    "name_value": "newsroom.hrsa.gov\nwww.newsroom.hrsa.gov",
+    "id": 21971469142,
+    "entry_timestamp": "2025-10-24T14:17:42.59",
+    "not_before": "2025-10-24T14:17:42",
+    "not_after": "2026-11-23T14:16:42",
+    "serial_number": "40019a16951d4321c2e6e672522acdc8",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "search.usa.gov",
+    "name_value": "search.npdb.hrsa.gov",
+    "id": 21950416097,
+    "entry_timestamp": "2025-10-23T20:22:13.5",
+    "not_before": "2025-10-23T19:23:43",
+    "not_after": "2026-01-21T19:23:42",
+    "serial_number": "0670d5ec8dbb931b0bf92ebaffdfbdcb5c74",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "search.usa.gov",
+    "name_value": "search.npdb.hrsa.gov",
+    "id": 21950417921,
+    "entry_timestamp": "2025-10-23T20:22:13.29",
+    "not_before": "2025-10-23T19:23:43",
+    "not_after": "2026-01-21T19:23:42",
+    "serial_number": "0670d5ec8dbb931b0bf92ebaffdfbdcb5c74",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "miechvmeeting.hrsa.gov",
+    "name_value": "miechvmeeting.hrsa.gov",
+    "id": 21901706230,
+    "entry_timestamp": "2025-10-22T01:29:09.747",
+    "not_before": "2025-10-22T00:30:37",
+    "not_after": "2026-01-20T00:30:36",
+    "serial_number": "06473027dacf099140845f10959992f4e332",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "miechvmeeting.hrsa.gov",
+    "name_value": "miechvmeeting.hrsa.gov",
+    "id": 21901523744,
+    "entry_timestamp": "2025-10-22T01:29:07.627",
+    "not_before": "2025-10-22T00:30:37",
+    "not_after": "2026-01-20T00:30:36",
+    "serial_number": "06473027dacf099140845f10959992f4e332",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "*.npdb.hrsa.gov",
+    "name_value": "*.npdb.hrsa.gov",
+    "id": 21860997165,
+    "entry_timestamp": "2025-10-20T19:07:37.663",
+    "not_before": "2025-10-20T00:00:00",
+    "not_after": "2026-10-19T23:59:59",
+    "serial_number": "0717043efccf9457abc90c6063c9d17f",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "hrsa.gov",
@@ -3922,29 +4006,5 @@
     "not_after": "2025-11-07T18:16:14",
     "serial_number": "4001926d597c117f988d1407c89412f5",
     "result_count": 8
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "soc-prox-ext.hrsa.gov",
-    "name_value": "soc-prox-ext.hrsa.gov\nwww.soc-prox-ext.hrsa.gov",
-    "id": 14673101402,
-    "entry_timestamp": "2024-09-24T16:14:09.113",
-    "not_before": "2024-09-24T16:14:09",
-    "not_after": "2025-10-24T16:13:09",
-    "serial_number": "40019224cfc4a51092c642e67462e0cb",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "nihsfbfebpool.nih.gov",
-    "name_value": "face2face.hrsa.gov\nLyncdiscover.hrsa.gov\nLyncdiscoverInternal.hrsa.gov\nsip.hrsa.gov",
-    "id": 14663308113,
-    "entry_timestamp": "2024-09-23T22:02:25.24",
-    "not_before": "2024-09-23T22:02:24",
-    "not_after": "2025-10-23T22:02:23",
-    "serial_number": "00a81e68639308f7648b525a3809ffd7c7",
-    "result_count": 4
   }
 ]

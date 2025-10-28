@@ -1,5 +1,53 @@
 [
   {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "test.pet-elb.healthcare.gov",
+    "name_value": "test.pet-elb.healthcare.gov",
+    "id": 22054008028,
+    "entry_timestamp": "2025-10-28T04:37:58.829",
+    "not_before": "2025-10-28T00:00:00",
+    "not_after": "2026-11-26T23:59:59",
+    "serial_number": "06ad07fb4fcc27e83e6db4b0688e4f2e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185748,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
+    "common_name": "test4.healthcare.gov",
+    "name_value": "dev.dashboard.healthcare.gov\nedit.dev.healthcare.gov\nedit.imp.healthcare.gov\nedit.test.healthcare.gov\nimp2b.healthcare.gov\nimp3.healthcare.gov\nimpl0.ies.api.healthcare.gov\nimpl1a.ies.api.healthcare.gov\nimpl1b.ies.api.healthcare.gov\nimpl2b.dsrs.api.healthcare.gov\nimpl2b.ies.api.healthcare.gov\nimpl2b.mcr.api.healthcare.gov\nimpl2.ies.api.healthcare.gov\nimpl3.dsrs.api.healthcare.gov\nimpl3.ies.api.healthcare.gov\nimpl3.mcr.api.healthcare.gov\nimpl3.ses.api.healthcare.gov\nimpl.dashboard.healthcare.gov\npoc.dashboard.healthcare.gov\ntest0.ies.api.healthcare.gov\ntest1.ies.api.healthcare.gov\ntest2.ies.api.healthcare.gov\ntest3.ies.api.healthcare.gov\ntest4.dsrs.api.healthcare.gov\ntest4.healthcare.gov\ntest4.ies.api.healthcare.gov\ntest4.mcr.api.healthcare.gov\ntest5.dsrs.api.healthcare.gov\ntest5.ies.api.healthcare.gov\ntest5.mcr.api.healthcare.gov\ntest5.ses.api.healthcare.gov\ntest.dashboard.healthcare.gov\ntestpe1.ies.api.healthcare.gov\nuat0.ies.api.healthcare.gov",
+    "id": 21977977881,
+    "entry_timestamp": "2025-10-24T20:53:22.221",
+    "not_before": "2025-07-20T00:00:00",
+    "not_after": "2026-07-21T23:59:59",
+    "serial_number": "0582e24347d57dea24827dbe8fcf054a",
+    "result_count": 35
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "impl3.dsrs.api.healthcare.gov",
+    "name_value": "impl3.dsrs.api.healthcare.gov",
+    "id": 21977976962,
+    "entry_timestamp": "2025-10-24T20:52:55.516",
+    "not_before": "2025-10-24T00:00:00",
+    "not_after": "2026-10-23T23:59:59",
+    "serial_number": "05bf83281bd016451b583becf374efed",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "uat0.ses.api.healthcare.gov",
+    "name_value": "uat0.ses.api.healthcare.gov",
+    "id": 21975661053,
+    "entry_timestamp": "2025-10-24T18:41:16.094",
+    "not_before": "2025-10-24T00:00:00",
+    "not_after": "2026-10-23T23:59:59",
+    "serial_number": "0c365449ba945b249a51cd89c9017936",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "test.pc2-elb.healthcare.gov",
