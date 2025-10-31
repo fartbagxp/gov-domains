@@ -1,5 +1,89 @@
 [
   {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "staging.hses.ohs.acf.hhs.gov",
+    "name_value": "staging.hses.ohs.acf.hhs.gov",
+    "id": 22116020272,
+    "entry_timestamp": "2025-10-31T07:19:18.146",
+    "not_before": "2025-10-31T06:20:47",
+    "not_after": "2026-01-29T06:20:46",
+    "serial_number": "060916831138c594153fca93d71c11191a82",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "staging.hses.ohs.acf.hhs.gov",
+    "name_value": "staging.hses.ohs.acf.hhs.gov",
+    "id": 22116020213,
+    "entry_timestamp": "2025-10-31T07:19:17.919",
+    "not_before": "2025-10-31T06:20:47",
+    "not_after": "2026-01-29T06:20:46",
+    "serial_number": "060916831138c594153fca93d71c11191a82",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "hses.ohs.acf.hhs.gov",
+    "name_value": "hses.ohs.acf.hhs.gov",
+    "id": 22115301230,
+    "entry_timestamp": "2025-10-31T06:19:19.515",
+    "not_before": "2025-10-31T05:20:48",
+    "not_after": "2026-01-29T05:20:47",
+    "serial_number": "056aae4218e6e176a0df3d55b4dc7c344a93",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "hses.ohs.acf.hhs.gov",
+    "name_value": "hses.ohs.acf.hhs.gov",
+    "id": 22115290909,
+    "entry_timestamp": "2025-10-31T06:19:19.181",
+    "not_before": "2025-10-31T05:20:48",
+    "not_after": "2026-01-29T05:20:47",
+    "serial_number": "056aae4218e6e176a0df3d55b4dc7c344a93",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "aspr.gov",
+    "name_value": "aspr.hhs.gov\nwww.aspr.hhs.gov",
+    "id": 22109314682,
+    "entry_timestamp": "2025-10-30T21:43:07.043",
+    "not_before": "2025-10-30T21:43:06",
+    "not_after": "2026-11-29T21:42:06",
+    "serial_number": "40019a37130de5fab9253834553c5bbe",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "border.ees.hhs.gov",
+    "name_value": "border.ees.hhs.gov\nwww.border.ees.hhs.gov",
+    "id": 22106695439,
+    "entry_timestamp": "2025-10-30T17:49:40.273",
+    "not_before": "2025-10-30T17:49:40",
+    "not_after": "2026-11-29T17:48:40",
+    "serial_number": "40019a363d5400311f7d135a6c594c8e",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "border-staging.ees.hhs.gov",
+    "name_value": "border-staging.ees.hhs.gov\nwww.border-staging.ees.hhs.gov",
+    "id": 22106682613,
+    "entry_timestamp": "2025-10-30T17:48:19.259",
+    "not_before": "2025-10-30T17:48:19",
+    "not_after": "2026-11-29T17:47:19",
+    "serial_number": "40019a363c1743e8503a642ffc5ddf66",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "ofspopamdr.hhs.gov",
@@ -4101,18 +4185,6 @@
     "not_before": "2025-08-21T00:00:00",
     "not_after": "2026-02-21T23:59:59",
     "serial_number": "0c4f727e7970c8dcde67ace1c3ad430e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "requests.publiclink.hhs.gov",
-    "name_value": "requests.publiclink.hhs.gov",
-    "id": 20476408388,
-    "entry_timestamp": "2025-08-21T05:54:17.197",
-    "not_before": "2024-09-30T20:18:24",
-    "not_after": "2025-10-30T20:17:24",
-    "serial_number": "40019244958b1648dd0e7e181db523a1",
     "result_count": 2
   },
   {
@@ -12922,41 +12994,5 @@
     "not_after": "2025-11-01T23:59:59",
     "serial_number": "061dd88af8b823a0d11e4cff8472b3f3",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "ufmsperf.hhs.gov",
-    "name_value": "ufmsperf.hhs.gov",
-    "id": 14770511902,
-    "entry_timestamp": "2024-10-02T13:31:17.573",
-    "not_before": "2024-10-02T00:00:00",
-    "not_after": "2025-10-30T23:59:59",
-    "serial_number": "0554181212cbd5c47a1fa8907de3fa0c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "requests.publiclink.hhs.gov",
-    "name_value": "requests.publiclink.hhs.gov",
-    "id": 14748684371,
-    "entry_timestamp": "2024-09-30T20:18:24.246",
-    "not_before": "2024-09-30T20:18:24",
-    "not_after": "2025-10-30T20:17:24",
-    "serial_number": "40019244958b1648dd0e7e181db523a1",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "hhsfx-user.foiaxpress.hhs.gov",
-    "name_value": "hhsfx-user.foiaxpress.hhs.gov",
-    "id": 14748682505,
-    "entry_timestamp": "2024-09-30T20:18:02.7",
-    "not_before": "2024-09-30T20:18:02",
-    "not_after": "2025-10-30T20:17:02",
-    "serial_number": "400192449536e52f750751566a77f014",
-    "result_count": 2
   }
 ]

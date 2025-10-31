@@ -2,6 +2,30 @@
   {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "test-ndcac.fbi.gov",
+    "name_value": "test-ndcac.fbi.gov",
+    "id": 22102260289,
+    "entry_timestamp": "2025-10-30T12:03:04.455",
+    "not_before": "2025-10-30T11:03:04",
+    "not_after": "2026-01-28T12:03:00",
+    "serial_number": "7ca1f721e91736aa0e67f19009ae9fbd",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "test-ndcac.fbi.gov",
+    "name_value": "test-ndcac.fbi.gov",
+    "id": 22102258543,
+    "entry_timestamp": "2025-10-30T12:02:54.908",
+    "not_before": "2025-10-30T11:02:54",
+    "not_after": "2026-01-28T12:01:46",
+    "serial_number": "00d00dbcd264ac2d250dfc96f9d716b260",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "le.fbi.gov",
     "name_value": "le.fbi.gov",
     "id": 21983668731,
@@ -2736,42 +2760,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "ucr.fbi.gov",
-    "name_value": "ucr.fbi.gov",
-    "id": 20067908983,
-    "entry_timestamp": "2025-08-02T08:30:02.021",
-    "not_before": "2025-08-02T06:33:38",
-    "not_after": "2025-10-31T07:33:33",
-    "serial_number": "6c5644786e2171e51128947d2effa9e9",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "ucr.fbi.gov",
-    "name_value": "ucr.fbi.gov",
-    "id": 20067130051,
-    "entry_timestamp": "2025-08-02T07:33:38.803",
-    "not_before": "2025-08-02T06:33:38",
-    "not_after": "2025-10-31T07:33:33",
-    "serial_number": "6c5644786e2171e51128947d2effa9e9",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "ucr.fbi.gov",
-    "name_value": "ucr.fbi.gov",
-    "id": 20067125032,
-    "entry_timestamp": "2025-08-02T07:33:28.393",
-    "not_before": "2025-08-02T06:33:28",
-    "not_after": "2025-10-31T07:32:19",
-    "serial_number": "00c34a566f30fb4e640ea87058cf09f0b8",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "*.entapps.fbi.gov",
@@ -2820,54 +2808,6 @@
     "result_count": 6
   },
   {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "static.fbi.gov",
-    "name_value": "static.fbi.gov",
-    "id": 20049564076,
-    "entry_timestamp": "2025-08-01T11:29:10.705",
-    "not_before": "2025-08-01T09:30:39",
-    "not_after": "2025-10-30T10:30:38",
-    "serial_number": "00b73e78a4caaa99d611cca9f88b293e5e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "static.fbi.gov",
-    "name_value": "static.fbi.gov",
-    "id": 20048647799,
-    "entry_timestamp": "2025-08-01T10:30:40.318",
-    "not_before": "2025-08-01T09:30:39",
-    "not_after": "2025-10-30T10:30:38",
-    "serial_number": "00b73e78a4caaa99d611cca9f88b293e5e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "static.fbi.gov",
-    "name_value": "static.fbi.gov",
-    "id": 20048657759,
-    "entry_timestamp": "2025-08-01T10:30:32.852",
-    "not_before": "2025-08-01T09:30:32",
-    "not_after": "2025-10-30T10:29:29",
-    "serial_number": "7997c2f9b98f7e5c138c86099e9ae160",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "sos.fbi.gov",
-    "name_value": "sos.fbi.gov",
-    "id": 20036003106,
-    "entry_timestamp": "2025-07-31T19:17:38.864",
-    "not_before": "2025-07-31T17:10:07",
-    "not_after": "2025-10-29T18:10:06",
-    "serial_number": "17d7c779ed1205051380b02dcc939f98",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "xacta360.fbi.gov",
@@ -2902,30 +2842,6 @@
     "not_after": "2026-07-30T23:59:59",
     "serial_number": "0b2a871c36149edcf31b1456fe8848df",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "sos.fbi.gov",
-    "name_value": "sos.fbi.gov",
-    "id": 20035108544,
-    "entry_timestamp": "2025-07-31T18:10:08.242",
-    "not_before": "2025-07-31T17:10:07",
-    "not_after": "2025-10-29T18:10:06",
-    "serial_number": "17d7c779ed1205051380b02dcc939f98",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "sos.fbi.gov",
-    "name_value": "sos.fbi.gov",
-    "id": 20035106029,
-    "entry_timestamp": "2025-07-31T18:10:00.476",
-    "not_before": "2025-07-31T17:09:59",
-    "not_after": "2025-10-29T18:08:56",
-    "serial_number": "5d123dbaa83fe3400df3a18f8373bf16",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 185752,

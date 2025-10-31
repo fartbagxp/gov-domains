@@ -1,5 +1,41 @@
 [
   {
+    "issuer_ca_id": 62123,
+    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
+    "common_name": "edit-wcms-testint.dhs.gov",
+    "name_value": "edit.cisa.gov\nedit-preview.cisa.gov\nedit-staging.cisa.gov\nedit-testint.cisa.gov\ntestint.cisa.gov",
+    "id": 22108504452,
+    "entry_timestamp": "2025-10-30T20:22:45.019",
+    "not_before": "2025-10-30T00:00:00",
+    "not_after": "2026-10-31T23:59:59",
+    "serial_number": "0bc565e97c6da1846b33bf0745d59a03",
+    "result_count": 5
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "connect.cisa.gov",
+    "name_value": "*.connect.cisa.gov\nconnect.cisa.gov",
+    "id": 22103221061,
+    "entry_timestamp": "2025-10-30T13:17:59.498",
+    "not_before": "2025-10-30T12:17:59",
+    "not_after": "2026-01-28T13:17:40",
+    "serial_number": "7c5f596ad1e73b151325e9091ae4f856",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "connect.cisa.gov",
+    "name_value": "*.connect.cisa.gov\nconnect.cisa.gov",
+    "id": 22103230248,
+    "entry_timestamp": "2025-10-30T13:17:35.797",
+    "not_before": "2025-10-30T12:17:35",
+    "not_after": "2026-01-28T13:15:06",
+    "serial_number": "36a970e292d5dd67115aee5af8bad598",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 204407,
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
     "common_name": "protectivedns.cisa.gov",
