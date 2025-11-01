@@ -2,6 +2,18 @@
   {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "developer.fda.gov",
+    "name_value": "app.fda.gov\ndata.fda.gov\ndeveloper.fda.gov",
+    "id": 22125548334,
+    "entry_timestamp": "2025-10-31T19:52:53.626",
+    "not_before": "2025-10-31T19:52:53",
+    "not_after": "2026-11-30T19:51:53",
+    "serial_number": "40019a3bd47ffe266669e4b9fb053f85",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "ctpportal-ng-esub.dev.fda.gov",
     "name_value": "ctpportal-ng-esub.dev.fda.gov\nctpportal-ng-esub-mig.dev.fda.gov",
     "id": 22088765729,
@@ -2064,66 +2076,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "cfsanbpm.fda.gov",
-    "name_value": "cfsan-bpm-dynamic.fda.gov\ncfsan-bpm.fda.gov\ncfsanbpm.fda.gov\ncfsan-bpm-static.fda.gov\nhfp-bpm-dynamic.fda.gov\nhfp-bpm.fda.gov\nhfp-bpm-static.fda.gov\nwww.cfsan-bpm.fda.gov\nwww.hfp-bpm.fda.gov",
-    "id": 20479029510,
-    "entry_timestamp": "2025-08-21T07:41:24.431",
-    "not_before": "2024-10-01T16:03:31",
-    "not_after": "2025-10-31T16:02:31",
-    "serial_number": "40019248d28fa892c88eb9ba8bb0b72a",
-    "result_count": 10
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "fc-esgng.preprod.fda.gov",
-    "name_value": "fc-esgng.preprod.fda.gov",
-    "id": 20474994689,
-    "entry_timestamp": "2025-08-21T04:49:31.119",
-    "not_before": "2024-09-30T18:46:06",
-    "not_after": "2025-10-30T18:45:06",
-    "serial_number": "40019244410be0647e494557b0e70cd9",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "esgng.preprod.fda.gov",
-    "name_value": "esgng.preprod.fda.gov",
-    "id": 20474497680,
-    "entry_timestamp": "2025-08-21T04:30:46.965",
-    "not_before": "2024-09-30T18:40:04",
-    "not_after": "2025-10-30T18:39:04",
-    "serial_number": "400192443b84fec672fec935e6cca653",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "external-api-esgng.preprod.fda.gov",
-    "name_value": "external-api-esgng.preprod.fda.gov",
-    "id": 20474083682,
-    "entry_timestamp": "2025-08-21T04:15:18.553",
-    "not_before": "2024-09-30T18:47:54",
-    "not_after": "2025-10-30T18:46:54",
-    "serial_number": "4001924442b19ffc7308bec9a4812d1f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "upload-api-esgng.preprod.fda.gov",
-    "name_value": "upload-api-esgng.preprod.fda.gov",
-    "id": 20473967349,
-    "entry_timestamp": "2025-08-21T04:09:38.779",
-    "not_before": "2024-09-30T18:47:20",
-    "not_after": "2025-10-30T18:46:20",
-    "serial_number": "40019244422c82bc854d16c2037cf770",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 295815,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
     "common_name": "tbmcoe-apps.fda.gov",
@@ -2146,6 +2098,18 @@
     "not_after": "2025-11-17T15:30:35",
     "serial_number": "06b67c99b09c7b4f86ff226841912d4101de",
     "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295815,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
+    "common_name": "dps.fda.gov",
+    "name_value": "dps-admin.dev.fda.gov\ndps-admin.fda.gov\ndps-admin.preprod.fda.gov\ndps.dev.fda.gov\ndps.fda.gov\ndps.preprod.fda.gov",
+    "id": 20417425424,
+    "entry_timestamp": "2025-08-18T13:36:48.522",
+    "not_before": "2025-08-18T12:38:16",
+    "not_after": "2025-11-16T12:38:15",
+    "serial_number": "05a4b93e76dd83ff81a42e1f77183d5fbe91",
+    "result_count": 7
   },
   {
     "issuer_ca_id": 295815,
@@ -2362,30 +2326,6 @@
     "not_after": "2026-09-10T14:53:05",
     "serial_number": "400198999fd3bf232d87256a07a62c21",
     "result_count": 4
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "powerapps.fda.gov",
-    "name_value": "powerapps.fda.gov",
-    "id": 20076987722,
-    "entry_timestamp": "2025-08-02T18:59:12.864",
-    "not_before": "2025-08-02T18:00:42",
-    "not_after": "2025-10-31T18:00:41",
-    "serial_number": "0501e37eb7fb68a65c81d24f3260132c6c71",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "powerapps.fda.gov",
-    "name_value": "powerapps.fda.gov",
-    "id": 20076987522,
-    "entry_timestamp": "2025-08-02T18:59:12.58",
-    "not_before": "2025-08-02T18:00:42",
-    "not_after": "2025-10-31T18:00:41",
-    "serial_number": "0501e37eb7fb68a65c81d24f3260132c6c71",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 153248,
@@ -5758,101 +5698,5 @@
     "not_after": "2025-11-01T16:17:06",
     "serial_number": "4001924e06435e6fcffa2155cf2739ac",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "cfsanbpm.preprod.fda.gov",
-    "name_value": "cfsan-bpm-preprod-dynamic.fda.gov\ncfsan-bpm-preprod.fda.gov\ncfsanbpm.preprod.fda.gov\ncfsan-bpm-preprod-static.fda.gov\nhfp-bpm-preprod-dynamic.fda.gov\nhfp-bpm-preprod.fda.gov\nhfp-bpm-preprod-static.fda.gov\nwww.cfsan-bpm-preprod.fda.gov\nwww.hfp-bpm-preprod.fda.gov",
-    "id": 14759404020,
-    "entry_timestamp": "2024-10-01T16:03:56.777",
-    "not_before": "2024-10-01T16:03:56",
-    "not_after": "2025-10-31T16:02:56",
-    "serial_number": "40019248d2f07a7ecd158cd747a6fcc2",
-    "result_count": 10
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "cfsanbpm.fda.gov",
-    "name_value": "cfsan-bpm-dynamic.fda.gov\ncfsan-bpm.fda.gov\ncfsanbpm.fda.gov\ncfsan-bpm-static.fda.gov\nhfp-bpm-dynamic.fda.gov\nhfp-bpm.fda.gov\nhfp-bpm-static.fda.gov\nwww.cfsan-bpm.fda.gov\nwww.hfp-bpm.fda.gov",
-    "id": 14759401198,
-    "entry_timestamp": "2024-10-01T16:03:32.013",
-    "not_before": "2024-10-01T16:03:31",
-    "not_after": "2025-10-31T16:02:31",
-    "serial_number": "40019248d28fa892c88eb9ba8bb0b72a",
-    "result_count": 10
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "cder2-mtls-prod.fda.gov",
-    "name_value": "cder2-mtls-prod.fda.gov",
-    "id": 14759390165,
-    "entry_timestamp": "2024-10-01T16:03:01.818",
-    "not_before": "2024-10-01T16:03:01",
-    "not_after": "2025-10-31T16:02:01",
-    "serial_number": "40019248d219f89c9a4e90dfbc567279",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "appian-api-esgng.preprod.fda.gov",
-    "name_value": "appian-api-esgng.preprod.fda.gov",
-    "id": 14748610864,
-    "entry_timestamp": "2024-09-30T20:09:36.485",
-    "not_before": "2024-09-30T20:09:36",
-    "not_after": "2025-10-30T20:08:36",
-    "serial_number": "400192448d7d95acdc08f9c278067368",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "external-api-esgng.preprod.fda.gov",
-    "name_value": "external-api-esgng.preprod.fda.gov",
-    "id": 14747915279,
-    "entry_timestamp": "2024-09-30T18:47:54.575",
-    "not_before": "2024-09-30T18:47:54",
-    "not_after": "2025-10-30T18:46:54",
-    "serial_number": "4001924442b19ffc7308bec9a4812d1f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "upload-api-esgng.preprod.fda.gov",
-    "name_value": "upload-api-esgng.preprod.fda.gov",
-    "id": 14747914492,
-    "entry_timestamp": "2024-09-30T18:47:20.555",
-    "not_before": "2024-09-30T18:47:20",
-    "not_after": "2025-10-30T18:46:20",
-    "serial_number": "40019244422c82bc854d16c2037cf770",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "fc-esgng.preprod.fda.gov",
-    "name_value": "fc-esgng.preprod.fda.gov",
-    "id": 14747905667,
-    "entry_timestamp": "2024-09-30T18:46:06.665",
-    "not_before": "2024-09-30T18:46:06",
-    "not_after": "2025-10-30T18:45:06",
-    "serial_number": "40019244410be0647e494557b0e70cd9",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "esgng.preprod.fda.gov",
-    "name_value": "esgng.preprod.fda.gov",
-    "id": 14747849759,
-    "entry_timestamp": "2024-09-30T18:40:04.466",
-    "not_before": "2024-09-30T18:40:04",
-    "not_after": "2025-10-30T18:39:04",
-    "serial_number": "400192443b84fec672fec935e6cca653",
-    "result_count": 2
   }
 ]

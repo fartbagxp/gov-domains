@@ -1,5 +1,53 @@
 [
   {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "trnhealthffrdc.cms.gov",
+    "name_value": "trnhealthffrdc.cms.gov",
+    "id": 22132525457,
+    "entry_timestamp": "2025-11-01T05:29:35.992",
+    "not_before": "2025-11-01T04:31:05",
+    "not_after": "2026-01-30T04:31:04",
+    "serial_number": "059e20e1de33bbc31b8fbc30f1e841d68aee",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "trnhealthffrdc.cms.gov",
+    "name_value": "trnhealthffrdc.cms.gov",
+    "id": 22132508563,
+    "entry_timestamp": "2025-11-01T05:29:35.713",
+    "not_before": "2025-11-01T04:31:05",
+    "not_after": "2026-01-30T04:31:04",
+    "serial_number": "059e20e1de33bbc31b8fbc30f1e841d68aee",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "hiosgateway.cms.gov",
+    "name_value": "hiosgateway.cms.gov\nhiostestgateway.cms.gov\nhiosvalgateway.cms.gov",
+    "id": 22121375865,
+    "entry_timestamp": "2025-10-31T14:08:40.854",
+    "not_before": "2025-10-31T13:10:10",
+    "not_after": "2026-01-29T13:10:09",
+    "serial_number": "061d7191a150e621955068c8533508983267",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "hiosgateway.cms.gov",
+    "name_value": "hiosgateway.cms.gov\nhiostestgateway.cms.gov\nhiosvalgateway.cms.gov",
+    "id": 22121364287,
+    "entry_timestamp": "2025-10-31T14:08:40.587",
+    "not_before": "2025-10-31T13:10:10",
+    "not_after": "2026-01-29T13:10:09",
+    "serial_number": "061d7191a150e621955068c8533508983267",
+    "result_count": 4
+  },
+  {
     "issuer_ca_id": 246719,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "sccliaval.cms.gov",
@@ -26568,54 +26616,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "test.apim-admin.backends.cms.gov",
-    "name_value": "test.apim-admin.backends.cms.gov",
-    "id": 14772819336,
-    "entry_timestamp": "2024-10-02T17:57:14.893",
-    "not_before": "2024-10-02T00:00:00",
-    "not_after": "2025-10-31T23:59:59",
-    "serial_number": "044b1b9cc0db75a94d76a1b8feca1e39",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "test.apim2proxy.backends.cms.gov",
-    "name_value": "test.apim2proxy.backends.cms.gov\ntest.apim2proxy-internal.backends.cms.gov\nv4.test.apim2proxy-endpoint.backends.cms.gov",
-    "id": 14772819173,
-    "entry_timestamp": "2024-10-02T17:57:08.593",
-    "not_before": "2024-10-02T00:00:00",
-    "not_after": "2025-10-31T23:59:59",
-    "serial_number": "041fb7435552be23fec7d2694b576429",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "test.apim2proxy-ami.backends.cms.gov",
-    "name_value": "test.apim2proxy-ami.backends.cms.gov\ntest.apim2proxy-internal.backends.cms.gov\nv4.test.apim2proxy-endpoint.backends.cms.gov",
-    "id": 14772641385,
-    "entry_timestamp": "2024-10-02T17:38:13.834",
-    "not_before": "2024-10-02T00:00:00",
-    "not_after": "2025-10-31T23:59:59",
-    "serial_number": "07bb75f9571756ec036c09406b9e6b25",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "test.apim-admin-ami.backends.cms.gov",
-    "name_value": "test.apim-admin-ami.backends.cms.gov",
-    "id": 14772634099,
-    "entry_timestamp": "2024-10-02T17:36:36.943",
-    "not_before": "2024-10-02T00:00:00",
-    "not_after": "2025-10-31T23:59:59",
-    "serial_number": "0254fb98ab7598793474c0173bf70968",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "splunkgc.cms.gov",
@@ -26625,18 +26625,6 @@
     "not_before": "2024-10-02T16:22:25",
     "not_after": "2025-11-01T16:21:25",
     "serial_number": "4001924e0a3991df537407aeb774fcab",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "dev-api.mct.backends.cms.gov",
-    "name_value": "dev-api.mct.backends.cms.gov",
-    "id": 14767918681,
-    "entry_timestamp": "2024-10-02T08:24:13.095",
-    "not_before": "2024-10-02T00:00:00",
-    "not_after": "2025-10-31T23:59:59",
-    "serial_number": "0a84a7459718907a4921153e37fe0106",
     "result_count": 2
   },
   {
@@ -26661,18 +26649,6 @@
     "not_before": "2024-10-01T00:00:00",
     "not_after": "2025-11-01T23:59:59",
     "serial_number": "09b701c04edd6680ccc7b747e1bd3053",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "trn-ps2.eacms.aws.cms.gov",
-    "name_value": "trn-ps2.eacms.aws.cms.gov",
-    "id": 14752797663,
-    "entry_timestamp": "2024-10-01T03:59:27.508",
-    "not_before": "2024-10-01T00:00:00",
-    "not_after": "2025-10-31T23:59:59",
-    "serial_number": "09dcf960dfc8048bd3ef2213dede4125",
     "result_count": 2
   }
 ]
