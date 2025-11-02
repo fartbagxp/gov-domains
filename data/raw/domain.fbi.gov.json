@@ -2,6 +2,42 @@
   {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "fbibiospecs.fbi.gov",
+    "name_value": "fbibiospecs.fbi.gov",
+    "id": 22125274665,
+    "entry_timestamp": "2025-10-31T19:28:52.342",
+    "not_before": "2025-10-31T18:27:43",
+    "not_after": "2026-01-29T19:27:42",
+    "serial_number": "7f271fd6deb00f5513023e452d88c1eb",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "fbibiospecs.fbi.gov",
+    "name_value": "fbibiospecs.fbi.gov",
+    "id": 22125262518,
+    "entry_timestamp": "2025-10-31T19:27:43.867",
+    "not_before": "2025-10-31T18:27:43",
+    "not_after": "2026-01-29T19:27:42",
+    "serial_number": "7f271fd6deb00f5513023e452d88c1eb",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "fbibiospecs.fbi.gov",
+    "name_value": "fbibiospecs.fbi.gov",
+    "id": 22125256701,
+    "entry_timestamp": "2025-10-31T19:27:36.875",
+    "not_before": "2025-10-31T18:27:36",
+    "not_after": "2026-01-29T19:26:32",
+    "serial_number": "00db0746a09d6b27a00eee6ba60f367756",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "test-ndcac.fbi.gov",
     "name_value": "test-ndcac.fbi.gov",
     "id": 22102260289,
@@ -2724,42 +2760,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "ndcac.fbi.gov",
-    "name_value": "ndcac.fbi.gov",
-    "id": 20086038199,
-    "entry_timestamp": "2025-08-03T06:12:20.38",
-    "not_before": "2025-08-03T03:57:57",
-    "not_after": "2025-11-01T04:57:56",
-    "serial_number": "008efbd7855f3c9f2f0d5e4ba662b8cd54",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "ndcac.fbi.gov",
-    "name_value": "ndcac.fbi.gov",
-    "id": 20085052844,
-    "entry_timestamp": "2025-08-03T04:57:57.834",
-    "not_before": "2025-08-03T03:57:57",
-    "not_after": "2025-11-01T04:57:56",
-    "serial_number": "008efbd7855f3c9f2f0d5e4ba662b8cd54",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "ndcac.fbi.gov",
-    "name_value": "ndcac.fbi.gov",
-    "id": 20085066734,
-    "entry_timestamp": "2025-08-03T04:57:50.17",
-    "not_before": "2025-08-03T03:57:49",
-    "not_after": "2025-11-01T04:56:44",
-    "serial_number": "0dee5ac58f6447da118e92ab8556d3e8",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "*.entapps.fbi.gov",
@@ -2938,18 +2938,6 @@
     "not_after": "2026-07-30T23:59:59",
     "serial_number": "00fbc11106254c42a1af59dc339be90137",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "sentinel.fbi.gov",
-    "name_value": "sentinel-api.fbi.gov\nsentinel.fbi.gov\nsentinel-gint-api.fbi.gov\nsentinel-gint.fbi.gov\nwww.sentinel.fbi.gov",
-    "id": 20012032420,
-    "entry_timestamp": "2025-07-30T16:25:31.208",
-    "not_before": "2024-10-02T14:52:45",
-    "not_after": "2025-11-01T14:52:44",
-    "serial_number": "47aad16095a338dddb0a0d579c761b1e",
-    "result_count": 6
   },
   {
     "issuer_ca_id": 185752,
@@ -3910,17 +3898,5 @@
     "not_after": "2025-11-09T14:34:09",
     "serial_number": "00bd048549f7492f92f6f83545d670127c",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "sentinel.fbi.gov",
-    "name_value": "sentinel-api.fbi.gov\nsentinel.fbi.gov\nsentinel-gint-api.fbi.gov\nsentinel-gint.fbi.gov\nwww.sentinel.fbi.gov",
-    "id": 14771200528,
-    "entry_timestamp": "2024-10-02T14:52:45.565",
-    "not_before": "2024-10-02T14:52:45",
-    "not_after": "2025-11-01T14:52:44",
-    "serial_number": "47aad16095a338dddb0a0d579c761b1e",
-    "result_count": 6
   }
 ]
