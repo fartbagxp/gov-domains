@@ -1,5 +1,41 @@
 [
   {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "portal.formstest.ed.gov",
+    "name_value": "portal.formstest.ed.gov",
+    "id": 22214778318,
+    "entry_timestamp": "2025-11-05T01:17:06.279",
+    "not_before": "2025-11-05T00:00:00",
+    "not_after": "2026-12-04T23:59:59",
+    "serial_number": "0c402395d71b963d2fbd2a21c5976c3a",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247106,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
+    "common_name": "portal.formstest.ed.gov",
+    "name_value": "portal.formstest.ed.gov",
+    "id": 22213420286,
+    "entry_timestamp": "2025-11-05T00:08:16.753",
+    "not_before": "2024-12-05T00:00:00",
+    "not_after": "2026-01-03T23:59:59",
+    "serial_number": "02e03044bd2500bfe324bd751b1e00b8",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "portal.formstest.ed.gov",
+    "name_value": "portal.formstest.ed.gov",
+    "id": 22213418229,
+    "entry_timestamp": "2025-11-05T00:08:11.277",
+    "not_before": "2025-11-05T00:00:00",
+    "not_after": "2026-12-04T23:59:59",
+    "serial_number": "0c402395d71b963d2fbd2a21c5976c3a",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 295813,
     "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
     "common_name": "portal.fsapartners.ed.gov",
@@ -1960,12 +1996,36 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
     "common_name": "*.nsldsops.ed.gov",
     "name_value": "*.edmaps.ed.gov\n*.nsldsops.ed.gov\nnsldsops.ed.gov",
+    "id": 20352042316,
+    "entry_timestamp": "2025-08-15T15:13:52.689",
+    "not_before": "2025-08-15T14:15:20",
+    "not_after": "2025-11-13T14:15:19",
+    "serial_number": "0624bf380750937798d793ad5b08cef5defd",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "*.nsldsops.ed.gov",
+    "name_value": "*.edmaps.ed.gov\n*.nsldsops.ed.gov\nnsldsops.ed.gov",
     "id": 20352040436,
     "entry_timestamp": "2025-08-15T15:13:50.406",
     "not_before": "2025-08-15T14:15:20",
     "not_after": "2025-11-13T14:15:19",
     "serial_number": "0624bf380750937798d793ad5b08cef5defd",
     "result_count": 4
+  },
+  {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "*.test.studentaid.gov",
+    "name_value": "nsldsopstest.ed.gov\n*.origin.test.fsapartners.ed.gov\n*.test.cod.ed.gov\n*.test.edmaps.ed.gov\n*.test.fsapartners.ed.gov\n*.test.nsldsfap.ed.gov",
+    "id": 20352029902,
+    "entry_timestamp": "2025-08-15T15:13:05.461",
+    "not_before": "2025-08-15T14:14:33",
+    "not_after": "2025-11-13T14:14:32",
+    "serial_number": "054aa8482f16fab45873c3005b7220f5e045",
+    "result_count": 6
   },
   {
     "issuer_ca_id": 295814,
@@ -2186,6 +2246,42 @@
   {
     "issuer_ca_id": 295814,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "*.cod.atagc.com",
+    "name_value": "*.test.cod.ed.gov",
+    "id": 20290011312,
+    "entry_timestamp": "2025-08-12T15:44:25.306",
+    "not_before": "2025-08-12T14:45:52",
+    "not_after": "2025-11-10T14:45:51",
+    "serial_number": "05af328b04cdd8788dff161b09ba9d7e3a1c",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "*.cod.atagc.com",
+    "name_value": "*.test.cod.ed.gov",
+    "id": 20290010164,
+    "entry_timestamp": "2025-08-12T15:44:22.809",
+    "not_before": "2025-08-12T14:45:52",
+    "not_after": "2025-11-10T14:45:51",
+    "serial_number": "05af328b04cdd8788dff161b09ba9d7e3a1c",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "*.edmaps.atagc.com",
+    "name_value": "*.test.edmaps.ed.gov",
+    "id": 20289533925,
+    "entry_timestamp": "2025-08-12T15:12:12.277",
+    "not_before": "2025-08-12T14:13:39",
+    "not_after": "2025-11-10T14:13:38",
+    "serial_number": "06280f589598e512a2f582c9146653f5307e",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
     "common_name": "*.edmaps.atagc.com",
     "name_value": "*.test.edmaps.ed.gov",
     "id": 20289531430,
@@ -2242,6 +2338,18 @@
     "not_after": "2025-11-10T14:11:09",
     "serial_number": "068b3c486060fc5996a82529991b758c5dea",
     "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "*.dcc.atagc.com",
+    "name_value": "*.test.edmaps.ed.gov\n*.test.nsldsfap.ed.gov",
+    "id": 20289466292,
+    "entry_timestamp": "2025-08-12T15:07:50.748",
+    "not_before": "2025-08-12T14:09:20",
+    "not_after": "2025-11-10T14:09:19",
+    "serial_number": "06ed3ce808613251c24ac30e596e8c624738",
+    "result_count": 2
   },
   {
     "issuer_ca_id": 295814,
@@ -3009,6 +3117,18 @@
     "not_before": "2025-08-08T13:02:59",
     "not_after": "2025-11-06T13:02:58",
     "serial_number": "06a50952be55e63ddacd04325bb49f003bb3",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295814,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
+    "common_name": "*.dcc.atagc.com",
+    "name_value": "*.test.edmaps.ed.gov\n*.test.nsldsfap.ed.gov",
+    "id": 20183847904,
+    "entry_timestamp": "2025-08-07T17:19:07.66",
+    "not_before": "2025-08-07T16:20:37",
+    "not_after": "2025-11-05T16:20:36",
+    "serial_number": "05aa88f3381f808b5c3f77eb1da91ba9a1da",
     "result_count": 2
   },
   {
@@ -6898,18 +7018,6 @@
     "not_after": "2025-11-05T23:59:59",
     "serial_number": "06d775678daa33609190e9b766ae8831",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 904,
-    "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
-    "common_name": "naep.ed.gov",
-    "name_value": "api.enaep.cotw-ng.naep.ed.gov\nas2.enaep-dev.naep.ed.gov\nas2.enaep-devqc.naep.ed.gov\nas2.enaep.naep.ed.gov\nas2.enaep-stage.naep.ed.gov\nas2.enaep-test.naep.ed.gov\nenaep.cotw-ng.naep.ed.gov\nenaep.naep.ed.gov\nenaep-stage.naep.ed.gov\nnaep.ed.gov\nnaepq.naep.ed.gov\nnaepq-stage.naep.ed.gov\nwww.naep.ed.gov",
-    "id": 15212826433,
-    "entry_timestamp": "2024-11-04T18:54:42.129",
-    "not_before": "2024-11-04T18:54:41",
-    "not_after": "2025-11-04T18:54:41",
-    "serial_number": "1f0a33008a771ed0",
-    "result_count": 14
   },
   {
     "issuer_ca_id": 185752,
