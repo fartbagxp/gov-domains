@@ -36,16 +36,52 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "gitlab.weather.noaa.gov",
+    "name_value": "gitlab.weather.noaa.gov",
+    "id": 22033787579,
+    "entry_timestamp": "2025-10-27T07:10:29.518",
+    "not_before": "2025-10-27T06:11:59",
+    "not_after": "2026-01-25T06:11:58",
+    "serial_number": "06044cfde2c1b5783f89253de0689f85625c",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "gitlab.weather.noaa.gov",
+    "name_value": "gitlab.weather.noaa.gov",
+    "id": 22033763422,
+    "entry_timestamp": "2025-10-27T07:10:29.4",
+    "not_before": "2025-10-27T06:11:59",
+    "not_after": "2026-01-25T06:11:58",
+    "serial_number": "06044cfde2c1b5783f89253de0689f85625c",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 295813,
     "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
     "common_name": "services.tsds.hchb.nwave.noaa.gov",
-    "name_value": "services.tsds.hchb.bldc.nwave.noaa.gov",
+    "name_value": "services.tsds.hchb.bldc.nwave.noaa.gov\nservices.tsds.hchb.ctc.nwave.noaa.gov\nservices.tsds.hchb.nwave.noaa.gov",
     "id": 22029806303,
     "entry_timestamp": "2025-10-27T03:15:44.806",
     "not_before": "2025-10-27T02:17:14",
     "not_after": "2026-01-25T02:17:13",
     "serial_number": "0629996ca9466e714a4583ddd71cc368ed60",
-    "result_count": 1
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 295813,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
+    "common_name": "services.tsds.hchb.nwave.noaa.gov",
+    "name_value": "services.tsds.hchb.bldc.nwave.noaa.gov\nservices.tsds.hchb.ctc.nwave.noaa.gov\nservices.tsds.hchb.nwave.noaa.gov",
+    "id": 22029806387,
+    "entry_timestamp": "2025-10-27T03:15:44.557",
+    "not_before": "2025-10-27T02:17:14",
+    "not_after": "2026-01-25T02:17:13",
+    "serial_number": "0629996ca9466e714a4583ddd71cc368ed60",
+    "result_count": 4
   },
   {
     "issuer_ca_id": 295817,
@@ -23016,30 +23052,6 @@
     "result_count": 5
   },
   {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "blend.mdl.nws.noaa.gov",
-    "name_value": "blend.mdl.nws.noaa.gov",
-    "id": 20188721417,
-    "entry_timestamp": "2025-08-07T23:27:06.251",
-    "not_before": "2025-08-07T22:28:35",
-    "not_after": "2025-11-05T22:28:34",
-    "serial_number": "050257496716b9f80cc80b1ee35472b1a9c3",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "blend.mdl.nws.noaa.gov",
-    "name_value": "blend.mdl.nws.noaa.gov",
-    "id": 20188721083,
-    "entry_timestamp": "2025-08-07T23:27:06.037",
-    "not_before": "2025-08-07T22:28:35",
-    "not_after": "2025-11-05T22:28:34",
-    "serial_number": "050257496716b9f80cc80b1ee35472b1a9c3",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 247106,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
     "common_name": "mysite.dev.oarcloud.noaa.gov",
@@ -23062,30 +23074,6 @@
     "not_after": "2026-09-05T23:59:59",
     "serial_number": "0438c37a878a0d76ca298c1b997826f4",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 158800,
-    "issuer_name": "C=AT, O=ZeroSSL, CN=ZeroSSL RSA Domain Secure Site CA",
-    "common_name": "seahorse3-internal.nhc.noaa.gov",
-    "name_value": "seahorse3-internal.nhc.noaa.gov\nseahorse.nhc.noaa.gov",
-    "id": 20184042873,
-    "entry_timestamp": "2025-08-07T17:33:53.25",
-    "not_before": "2025-08-07T00:00:00",
-    "not_after": "2025-11-05T23:59:59",
-    "serial_number": "48a80e30d335597687091e55530e2ee2",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 158800,
-    "issuer_name": "C=AT, O=ZeroSSL, CN=ZeroSSL RSA Domain Secure Site CA",
-    "common_name": "seahorse3-internal.nhc.noaa.gov",
-    "name_value": "seahorse3-internal.nhc.noaa.gov\nseahorse.nhc.noaa.gov",
-    "id": 20184042244,
-    "entry_timestamp": "2025-08-07T17:33:52.785",
-    "not_before": "2025-08-07T00:00:00",
-    "not_after": "2025-11-05T23:59:59",
-    "serial_number": "48a80e30d335597687091e55530e2ee2",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 239799,

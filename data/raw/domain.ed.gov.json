@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "*.ed.gov",
+    "name_value": "*.ed.gov",
+    "id": 22230783502,
+    "entry_timestamp": "2025-11-05T15:15:25.826",
+    "not_before": "2025-11-05T00:00:00",
+    "not_after": "2026-11-04T23:59:59",
+    "serial_number": "0833b8a1e4b3227136f6030953e9a252",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "edfacts.ed.gov",
+    "name_value": "api.edpass.ed.gov\neden.ed.gov\nedfacts.ed.gov\nedpass.ed.gov\nemaps.ed.gov",
+    "id": 22229627589,
+    "entry_timestamp": "2025-11-05T14:18:52.303",
+    "not_before": "2025-11-05T00:00:00",
+    "not_after": "2026-11-04T23:59:59",
+    "serial_number": "0c21b013c88b3c8b92d9355f8afd5a82",
+    "result_count": 6
+  },
+  {
     "issuer_ca_id": 246719,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "portal.formstest.ed.gov",
@@ -3120,30 +3144,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "*.dcc.atagc.com",
-    "name_value": "*.test.edmaps.ed.gov\n*.test.nsldsfap.ed.gov",
-    "id": 20183847904,
-    "entry_timestamp": "2025-08-07T17:19:07.66",
-    "not_before": "2025-08-07T16:20:37",
-    "not_after": "2025-11-05T16:20:36",
-    "serial_number": "05aa88f3381f808b5c3f77eb1da91ba9a1da",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "*.dcc.atagc.com",
-    "name_value": "*.test.edmaps.ed.gov\n*.test.nsldsfap.ed.gov",
-    "id": 20183846935,
-    "entry_timestamp": "2025-08-07T17:19:07.429",
-    "not_before": "2025-08-07T16:20:37",
-    "not_after": "2025-11-05T16:20:36",
-    "serial_number": "05aa88f3381f808b5c3f77eb1da91ba9a1da",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "1edprod-ext.ed.gov",
@@ -5460,18 +5460,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "*.ed.gov",
-    "name_value": "*.ed.gov\ned.gov",
-    "id": 17374425612,
-    "entry_timestamp": "2025-03-24T18:43:39.127",
-    "not_before": "2024-11-05T00:00:00",
-    "not_after": "2025-11-05T23:59:59",
-    "serial_number": "06ef90cceb409ceb8bfd8e0bd912cf69",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "dmcseddebt.ed.gov",
@@ -6994,30 +6982,6 @@
     "not_after": "2025-11-14T23:59:59",
     "serial_number": "013eed4640bb3979312297740d43c001",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "*.ed.gov",
-    "name_value": "*.ed.gov\ned.gov",
-    "id": 15215897646,
-    "entry_timestamp": "2024-11-05T00:54:57.552",
-    "not_before": "2024-11-05T00:00:00",
-    "not_after": "2025-11-05T23:59:59",
-    "serial_number": "06ef90cceb409ceb8bfd8e0bd912cf69",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "*.ed.gov",
-    "name_value": "*.ed.gov\ned.gov",
-    "id": 15215759189,
-    "entry_timestamp": "2024-11-05T00:37:02.558",
-    "not_before": "2024-11-05T00:00:00",
-    "not_after": "2025-11-05T23:59:59",
-    "serial_number": "06d775678daa33609190e9b766ae8831",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 185752,
