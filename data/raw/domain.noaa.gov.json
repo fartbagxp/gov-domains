@@ -36,6 +36,30 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 158800,
+    "issuer_name": "C=AT, O=ZeroSSL, CN=ZeroSSL RSA Domain Secure Site CA",
+    "common_name": "wwwprod.nhc.noaa.gov",
+    "name_value": "nhc-ls-www03.nhc.noaa.gov\nnhc-vm-www01.nhc.noaa.gov\nnhc-vm-www02.nhc.noaa.gov",
+    "id": 22034181209,
+    "entry_timestamp": "2025-10-27T07:34:21.567",
+    "not_before": "2025-10-27T00:00:00",
+    "not_after": "2026-01-25T23:59:59",
+    "serial_number": "4df21be1fc33b1a689b717ec690a8224",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 158800,
+    "issuer_name": "C=AT, O=ZeroSSL, CN=ZeroSSL RSA Domain Secure Site CA",
+    "common_name": "wwwprod.nhc.noaa.gov",
+    "name_value": "nhc-ls-www03.nhc.noaa.gov\nnhc-vm-www01.nhc.noaa.gov\nnhc-vm-www02.nhc.noaa.gov\nwwwprod.nhc.noaa.gov",
+    "id": 22034180282,
+    "entry_timestamp": "2025-10-27T07:34:21.048",
+    "not_before": "2025-10-27T00:00:00",
+    "not_after": "2026-01-25T23:59:59",
+    "serial_number": "4df21be1fc33b1a689b717ec690a8224",
+    "result_count": 5
+  },
+  {
     "issuer_ca_id": 295816,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "gitlab.weather.noaa.gov",
@@ -45,7 +69,7 @@
     "not_before": "2025-10-27T06:11:59",
     "not_after": "2026-01-25T06:11:58",
     "serial_number": "06044cfde2c1b5783f89253de0689f85625c",
-    "result_count": 1
+    "result_count": 2
   },
   {
     "issuer_ca_id": 295816,
@@ -22932,30 +22956,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "vault33.esrl.noaa.gov",
-    "name_value": "vault33.esrl.noaa.gov",
-    "id": 20216843034,
-    "entry_timestamp": "2025-08-09T06:03:56.305",
-    "not_before": "2025-08-09T05:05:25",
-    "not_after": "2025-11-07T05:05:24",
-    "serial_number": "0695d538255fa140c3503200539576fbd096",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "vault33.esrl.noaa.gov",
-    "name_value": "vault33.esrl.noaa.gov",
-    "id": 20216841112,
-    "entry_timestamp": "2025-08-09T06:03:55.926",
-    "not_before": "2025-08-09T05:05:25",
-    "not_after": "2025-11-07T05:05:24",
-    "serial_number": "0695d538255fa140c3503200539576fbd096",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 158800,
     "issuer_name": "C=AT, O=ZeroSSL, CN=ZeroSSL RSA Domain Secure Site CA",
     "common_name": "wwwprod.nhc.noaa.gov",
@@ -34728,18 +34728,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 904,
-    "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
-    "common_name": "rsa-vlc-ftp1.cnrfc.noaa.gov",
-    "name_value": "rsa-vlc-ftp1.cnrfc.noaa.gov\nwww.rsa-vlc-ftp1.cnrfc.noaa.gov",
-    "id": 15242976034,
-    "entry_timestamp": "2024-11-06T22:46:00.934",
-    "not_before": "2024-11-06T22:46:00",
-    "not_after": "2025-11-06T22:44:37",
-    "serial_number": "3fc77ee73d245cc4",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 247115,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
     "common_name": "sso.oarcloud.noaa.gov",
@@ -35266,17 +35254,5 @@
     "not_after": "2025-11-08T23:59:59",
     "serial_number": "6197d65cc12a043afb6fada0bd69aed7",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "*.education.noaa.gov",
-    "name_value": "*.education.noaa.gov",
-    "id": 14844619466,
-    "entry_timestamp": "2024-10-08T07:21:43.135",
-    "not_before": "2024-10-08T00:00:00",
-    "not_after": "2025-11-06T23:59:59",
-    "serial_number": "0733fe0bb612b92b2d243c3c136f0c53",
-    "result_count": 2
   }
 ]
