@@ -1,5 +1,53 @@
 [
   {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "www.ffb.gov",
+    "name_value": "ffb.treasury.gov",
+    "id": 22293614333,
+    "entry_timestamp": "2025-11-07T21:29:23.355",
+    "not_before": "2025-11-07T20:30:53",
+    "not_after": "2026-02-05T20:30:52",
+    "serial_number": "0576281d9645598d6f5655ff647fea6c7a8c",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "www.ffb.gov",
+    "name_value": "ffb.treasury.gov",
+    "id": 22293590409,
+    "entry_timestamp": "2025-11-07T21:29:23.141",
+    "not_before": "2025-11-07T20:30:53",
+    "not_after": "2026-02-05T20:30:52",
+    "serial_number": "0576281d9645598d6f5655ff647fea6c7a8c",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "fahc-prod.epsc.for.fiscal.treasury.gov",
+    "name_value": "callcenter.epsc.for.fiscal.treasury.gov\nfahc-prod.epsc.for.fiscal.treasury.gov\ngodirect.epsc.for.fiscal.treasury.gov",
+    "id": 22285825422,
+    "entry_timestamp": "2025-11-07T14:59:02.505",
+    "not_before": "2025-11-07T00:00:00",
+    "not_after": "2026-11-07T23:59:59",
+    "serial_number": "092e42ded36137ec5577b2c68fbfb844",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "fahc-prod.epsc.for.fiscal.treasury.gov",
+    "name_value": "callcenter.epsc.for.fiscal.treasury.gov\nfahc-prod.epsc.for.fiscal.treasury.gov\ngodirect.epsc.for.fiscal.treasury.gov",
+    "id": 22285790654,
+    "entry_timestamp": "2025-11-07T14:59:00.785",
+    "not_before": "2025-11-07T00:00:00",
+    "not_after": "2026-11-07T23:59:59",
+    "serial_number": "092e42ded36137ec5577b2c68fbfb844",
+    "result_count": 4
+  },
+  {
     "issuer_ca_id": 385512,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
     "common_name": "iam-poc.wc2m.treasury.gov",
@@ -4176,18 +4224,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "*.otcnet.for.fiscal.treasury.gov",
-    "name_value": "*.otcnet.for.fiscal.treasury.gov\notcnet.for.fiscal.treasury.gov",
-    "id": 20729290873,
-    "entry_timestamp": "2025-09-01T19:30:48.965",
-    "not_before": "2024-10-09T10:03:46",
-    "not_after": "2025-11-08T10:03:45",
-    "serial_number": "792972af13e99e246ebfc22ae4acf337",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 204406,
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
     "common_name": "treasury.gov",
@@ -4209,18 +4245,6 @@
     "not_before": "2025-09-01T00:00:00",
     "not_after": "2025-11-30T10:32:28",
     "serial_number": "7100e1957c4a1d1b34db08471930a2ee",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "*.qa.fs.fiscal.treasury.gov",
-    "name_value": "*.qa.fs.fiscal.treasury.gov\nqa.fs.fiscal.treasury.gov",
-    "id": 20728940133,
-    "entry_timestamp": "2025-09-01T19:05:45.531",
-    "not_before": "2024-10-09T10:03:47",
-    "not_after": "2025-11-08T10:03:45",
-    "serial_number": "00c0b595e509b66ffc5eff99f432e4ae06",
     "result_count": 3
   },
   {
@@ -12490,30 +12514,6 @@
     "not_after": "2025-11-10T14:36:52",
     "serial_number": "1191bf0c04674577d5cfdaa5195a28ba",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "*.qa.fs.fiscal.treasury.gov",
-    "name_value": "*.qa.fs.fiscal.treasury.gov\nqa.fs.fiscal.treasury.gov",
-    "id": 14859974489,
-    "entry_timestamp": "2024-10-09T10:03:47.286",
-    "not_before": "2024-10-09T10:03:47",
-    "not_after": "2025-11-08T10:03:45",
-    "serial_number": "00c0b595e509b66ffc5eff99f432e4ae06",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "*.otcnet.for.fiscal.treasury.gov",
-    "name_value": "*.otcnet.for.fiscal.treasury.gov\notcnet.for.fiscal.treasury.gov",
-    "id": 14859974488,
-    "entry_timestamp": "2024-10-09T10:03:47.161",
-    "not_before": "2024-10-09T10:03:46",
-    "not_after": "2025-11-08T10:03:45",
-    "serial_number": "792972af13e99e246ebfc22ae4acf337",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 1586,

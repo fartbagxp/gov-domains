@@ -2,6 +2,30 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "prod.adfs.federation.va.gov",
+    "name_value": "enterpriseregistration.va.gov\nprod.adfs.federation.va.gov",
+    "id": 22292210521,
+    "entry_timestamp": "2025-11-07T20:18:29.021",
+    "not_before": "2025-11-07T00:00:00",
+    "not_after": "2026-12-08T23:59:59",
+    "serial_number": "079164ed2a228d59b425775333d61ee8",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "dev.adfs.federation.va.gov",
+    "name_value": "dev.adfs.federation.va.gov\nenterpriseregistration.va.gov",
+    "id": 22291598939,
+    "entry_timestamp": "2025-11-07T19:46:22.404",
+    "not_before": "2025-11-07T00:00:00",
+    "not_after": "2026-12-08T23:59:59",
+    "serial_number": "0890aed9da5ccadbf8e407ba19ae9c48",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "my.vapm.int.va.gov",
     "name_value": "my.vapm.int.sites.va.gov\nmy.vapm.int.va.gov\nwww.my.vapm.int.sites.va.gov\nwww.my.vapm.int.va.gov",
     "id": 22262998353,
@@ -5400,18 +5424,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 176211,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2",
-    "common_name": "sandbox-patientportal.myhealth.va.gov",
-    "name_value": "sandbox-patientportal.myhealth.va.gov",
-    "id": 16781721761,
-    "entry_timestamp": "2025-02-21T01:49:11.227",
-    "not_before": "2024-11-08T00:00:00",
-    "not_after": "2025-11-07T23:59:59",
-    "serial_number": "0b5ac607519c6c55a76cb8ead616ec75",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 1399,
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 Extended Validation Server CA",
     "common_name": "vc.va.gov",
@@ -6742,18 +6754,6 @@
     "not_after": "2025-11-12T23:59:59",
     "serial_number": "0b2bdd426d1deb7f3f08aaa3a0a2aff4",
     "result_count": 11
-  },
-  {
-    "issuer_ca_id": 176211,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2",
-    "common_name": "sandbox-patientportal.myhealth.va.gov",
-    "name_value": "sandbox-patientportal.myhealth.va.gov",
-    "id": 15268806991,
-    "entry_timestamp": "2024-11-08T19:22:00.945",
-    "not_before": "2024-11-08T00:00:00",
-    "not_after": "2025-11-07T23:59:59",
-    "serial_number": "0b5ac607519c6c55a76cb8ead616ec75",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 176211,

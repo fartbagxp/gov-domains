@@ -1,5 +1,101 @@
 [
   {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "training.learning.hhs.gov",
+    "name_value": "training.learning.hhs.gov",
+    "id": 22284228154,
+    "entry_timestamp": "2025-11-07T13:39:59.15",
+    "not_before": "2025-11-07T12:41:28",
+    "not_after": "2026-02-05T12:41:27",
+    "serial_number": "06e719d3342c2f7367d55f4bba05dcfcffa5",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "training.learning.hhs.gov",
+    "name_value": "training.learning.hhs.gov",
+    "id": 22284207033,
+    "entry_timestamp": "2025-11-07T13:39:58.985",
+    "not_before": "2025-11-07T12:41:28",
+    "not_after": "2026-02-05T12:41:27",
+    "serial_number": "06e719d3342c2f7367d55f4bba05dcfcffa5",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "test.learning.hhs.gov",
+    "name_value": "test.learning.hhs.gov",
+    "id": 22284201708,
+    "entry_timestamp": "2025-11-07T13:39:52.523",
+    "not_before": "2025-11-07T12:41:22",
+    "not_after": "2026-02-05T12:41:21",
+    "serial_number": "051f82d897bba91cc6ab369602388cd6fc0e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "test.learning.hhs.gov",
+    "name_value": "test.learning.hhs.gov",
+    "id": 22284199522,
+    "entry_timestamp": "2025-11-07T13:39:52.3",
+    "not_before": "2025-11-07T12:41:22",
+    "not_after": "2026-02-05T12:41:21",
+    "serial_number": "051f82d897bba91cc6ab369602388cd6fc0e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "staging.learning.hhs.gov",
+    "name_value": "staging.learning.hhs.gov",
+    "id": 22284193021,
+    "entry_timestamp": "2025-11-07T13:39:25.165",
+    "not_before": "2025-11-07T12:40:54",
+    "not_after": "2026-02-05T12:40:53",
+    "serial_number": "06376d699d72d82a0940f76fc484fb5c7ca7",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "staging.learning.hhs.gov",
+    "name_value": "staging.learning.hhs.gov",
+    "id": 22284193722,
+    "entry_timestamp": "2025-11-07T13:39:24.976",
+    "not_before": "2025-11-07T12:40:54",
+    "not_after": "2026-02-05T12:40:53",
+    "serial_number": "06376d699d72d82a0940f76fc484fb5c7ca7",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "lms.learning.hhs.gov",
+    "name_value": "lms.learning.hhs.gov",
+    "id": 22284188191,
+    "entry_timestamp": "2025-11-07T13:39:10.813",
+    "not_before": "2025-11-07T12:40:40",
+    "not_after": "2026-02-05T12:40:39",
+    "serial_number": "0603303905989025ae7677ee124db9fe062c",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "lms.learning.hhs.gov",
+    "name_value": "lms.learning.hhs.gov",
+    "id": 22284191126,
+    "entry_timestamp": "2025-11-07T13:39:10.459",
+    "not_before": "2025-11-07T12:40:40",
+    "not_after": "2026-02-05T12:40:39",
+    "serial_number": "0603303905989025ae7677ee124db9fe062c",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "cribl-syslog.int.hhs.gov",
@@ -3238,18 +3334,6 @@
     "not_after": "2025-11-14T17:39:56",
     "serial_number": "00be4b9d4c153c5ffa61db9c5aae462cdb",
     "result_count": 4
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "CLASSReviewsOHS.acf.hhs.gov",
-    "name_value": "CLASSReviewsOHS.acf.hhs.gov",
-    "id": 20844555674,
-    "entry_timestamp": "2025-09-07T06:54:05.114",
-    "not_before": "2024-11-07T19:58:30",
-    "not_after": "2025-11-07T19:58:29",
-    "serial_number": "2237b5eef8ecc220339ace7071b5b66b",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 1586,
@@ -11793,30 +11877,6 @@
     "not_before": "2024-11-08T18:38:26",
     "not_after": "2025-12-08T18:37:26",
     "serial_number": "4001930d120ae7aef84f2960331f423f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "appworxtest.hhs.gov",
-    "name_value": "appworxtest.hhs.gov",
-    "id": 15268161450,
-    "entry_timestamp": "2024-11-08T18:19:36.087",
-    "not_before": "2024-11-08T00:00:00",
-    "not_after": "2025-11-07T23:59:59",
-    "serial_number": "092bc131b78b74cc05d726ff87e16633",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "CLASSReviewsOHS.acf.hhs.gov",
-    "name_value": "CLASSReviewsOHS.acf.hhs.gov",
-    "id": 15255264928,
-    "entry_timestamp": "2024-11-07T19:58:30.429",
-    "not_before": "2024-11-07T19:58:30",
-    "not_after": "2025-11-07T19:58:29",
-    "serial_number": "2237b5eef8ecc220339ace7071b5b66b",
     "result_count": 2
   },
   {

@@ -1,5 +1,65 @@
 [
   {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "visitorpass-obt.tsa.gov",
+    "name_value": "visitorpass-obt.tsa.dhs.gov",
+    "id": 22287617608,
+    "entry_timestamp": "2025-11-07T16:21:14.738",
+    "not_before": "2025-11-07T00:00:00",
+    "not_after": "2026-12-08T23:59:59",
+    "serial_number": "00c4d5b99932354681df11934bcef70043",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "visitorpass-obt.tsa.gov",
+    "name_value": "visitorpass-obt.tsa.dhs.gov",
+    "id": 22287573755,
+    "entry_timestamp": "2025-11-07T16:21:13.861",
+    "not_before": "2025-11-07T00:00:00",
+    "not_after": "2026-12-08T23:59:59",
+    "serial_number": "00c4d5b99932354681df11934bcef70043",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "extsoa.fsms.dhs.gov",
+    "name_value": "extsoa.fsms.dhs.gov",
+    "id": 22263419714,
+    "entry_timestamp": "2025-11-06T19:01:10.995",
+    "not_before": "2025-11-06T18:00:58",
+    "not_after": "2026-02-04T19:00:55",
+    "serial_number": "4372b93aac7a3c1d0d9d8ded39de846a",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "extsoa.fsms.dhs.gov",
+    "name_value": "extsoa.fsms.dhs.gov",
+    "id": 22263407463,
+    "entry_timestamp": "2025-11-06T19:00:58.946",
+    "not_before": "2025-11-06T18:00:58",
+    "not_after": "2026-02-04T19:00:55",
+    "serial_number": "4372b93aac7a3c1d0d9d8ded39de846a",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "extsoa.fsms.dhs.gov",
+    "name_value": "extsoa.fsms.dhs.gov",
+    "id": 22263444495,
+    "entry_timestamp": "2025-11-06T19:00:49.823",
+    "not_before": "2025-11-06T18:00:49",
+    "not_after": "2026-02-04T18:58:41",
+    "serial_number": "008da5bd8199e2c79f13ad7ce9b64de5d5",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 185748,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
     "common_name": "www.homelandsecurity.gov",
@@ -9482,18 +9542,6 @@
   {
     "issuer_ca_id": 1586,
     "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "camits.cbp.dhs.gov",
-    "name_value": "camits.cbp.dhs.gov\ncamitsdb.cbp.dhs.gov\ncamitsm.cbp.dhs.gov\ncamitsp.cbp.dhs.gov",
-    "id": 20844908248,
-    "entry_timestamp": "2025-09-07T07:19:31.565",
-    "not_before": "2024-11-06T15:01:58",
-    "not_after": "2025-11-06T15:01:56",
-    "serial_number": "0102fdd9ee803be704f7dc9f8c88de82",
-    "result_count": 5
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
     "common_name": "response.tsa.dhs.gov",
     "name_value": "response.tsa.dhs.gov",
     "id": 20843123548,
@@ -14830,78 +14878,6 @@
     "not_after": "2025-11-08T23:33:36",
     "serial_number": "00b523408d948ff8c213b83f9d88a2a99b",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "dhsauthportal.dhs.gov",
-    "name_value": "dhsauthportal.dhs.gov",
-    "id": 20209844604,
-    "entry_timestamp": "2025-08-08T22:01:33.257",
-    "not_before": "2025-08-08T21:03:00",
-    "not_after": "2025-11-06T21:02:59",
-    "serial_number": "058a90638e057541656bc6ba549e678e3970",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "dhsauthportalext.dhs.gov",
-    "name_value": "dhsauthportalext.dhs.gov",
-    "id": 20209854616,
-    "entry_timestamp": "2025-08-08T22:01:31.098",
-    "not_before": "2025-08-08T21:03:00",
-    "not_after": "2025-11-06T21:02:59",
-    "serial_number": "05fbf10dcd8893eef8cae88616862dec06c9",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "dhsauthportal.dhs.gov",
-    "name_value": "dhsauthportal.dhs.gov",
-    "id": 20209839186,
-    "entry_timestamp": "2025-08-08T22:01:30.964",
-    "not_before": "2025-08-08T21:03:00",
-    "not_after": "2025-11-06T21:02:59",
-    "serial_number": "058a90638e057541656bc6ba549e678e3970",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "dhsauthportalext.dhs.gov",
-    "name_value": "dhsauthportalext.dhs.gov",
-    "id": 20209917248,
-    "entry_timestamp": "2025-08-08T22:01:30.791",
-    "not_before": "2025-08-08T21:03:00",
-    "not_after": "2025-11-06T21:02:59",
-    "serial_number": "05fbf10dcd8893eef8cae88616862dec06c9",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "dhsauthportalextnonprod.dhs.gov",
-    "name_value": "dhsauthportalextnonprod.dhs.gov",
-    "id": 20209825002,
-    "entry_timestamp": "2025-08-08T22:01:30.289",
-    "not_before": "2025-08-08T21:02:59",
-    "not_after": "2025-11-06T21:02:58",
-    "serial_number": "05ae85f7f3ec84fa022bbcc3a4c526117f27",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "dhsauthportalextnonprod.dhs.gov",
-    "name_value": "dhsauthportalextnonprod.dhs.gov",
-    "id": 20209839304,
-    "entry_timestamp": "2025-08-08T22:01:29.975",
-    "not_before": "2025-08-08T21:02:59",
-    "not_after": "2025-11-06T21:02:58",
-    "serial_number": "05ae85f7f3ec84fa022bbcc3a4c526117f27",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 185752,
@@ -21322,18 +21298,6 @@
     "not_after": "2025-11-11T23:59:59",
     "serial_number": "0267f86cd9fee5796caaa6c8af8e830f",
     "result_count": 22
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "camits.cbp.dhs.gov",
-    "name_value": "camits.cbp.dhs.gov\ncamitsdb.cbp.dhs.gov\ncamitsm.cbp.dhs.gov\ncamitsp.cbp.dhs.gov",
-    "id": 15238243506,
-    "entry_timestamp": "2024-11-06T15:01:58.255",
-    "not_before": "2024-11-06T15:01:58",
-    "not_after": "2025-11-06T15:01:56",
-    "serial_number": "0102fdd9ee803be704f7dc9f8c88de82",
-    "result_count": 5
   },
   {
     "issuer_ca_id": 1586,
