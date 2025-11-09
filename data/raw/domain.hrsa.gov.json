@@ -1,5 +1,17 @@
 [
   {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "vpn.hrsa.gov",
+    "name_value": "vpn1.hrsa.gov\nvpn2.hrsa.gov\nvpn.hrsa.gov\nvpnqa.hrsa.gov",
+    "id": 22286879527,
+    "entry_timestamp": "2025-11-07T15:50:05.238",
+    "not_before": "2025-11-07T15:50:05",
+    "not_after": "2026-12-07T15:49:05",
+    "serial_number": "40019a5f02b831f98e23909531980f9b",
+    "result_count": 5
+  },
+  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "ehbgrantsgov.hrsa.gov",
@@ -3970,17 +3982,5 @@
     "not_after": "2025-11-09T16:27:59",
     "serial_number": "40019277431c8ac66af02446d8a47767",
     "result_count": 7
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "bhwautomationtest.hrsa.gov",
-    "name_value": "bhwautomationtest.hrsa.gov\nwww.alm.bhwautomationtest.hrsa.gov\nwww.bhwautomationtest.hrsa.gov\nwww.insights.bhwautomationtest.hrsa.gov\nwww.monitoring.bhwautomationtest.hrsa.gov\nwww.objectstore.bhwautomationtest.hrsa.gov\nwww.registry.bhwautomationtest.hrsa.gov",
-    "id": 14851262390,
-    "entry_timestamp": "2024-10-08T18:17:14.137",
-    "not_before": "2024-10-08T18:17:14",
-    "not_after": "2025-11-07T18:16:14",
-    "serial_number": "4001926d597c117f988d1407c89412f5",
-    "result_count": 8
   }
 ]
