@@ -3,6 +3,30 @@
     "issuer_ca_id": 422998,
     "issuer_name": "C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2025 Q4",
     "common_name": "imperva.com",
+    "name_value": "*.uat.dol.gov",
+    "id": 22353504293,
+    "entry_timestamp": "2025-11-10T07:01:18.511",
+    "not_before": "2025-11-10T07:01:16",
+    "not_after": "2025-11-11T07:00:41",
+    "serial_number": "012e66379147ce43ad07e47d08263ee3",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 422998,
+    "issuer_name": "C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2025 Q4",
+    "common_name": "imperva.com",
+    "name_value": "*.dol.gov",
+    "id": 22353504181,
+    "entry_timestamp": "2025-11-10T07:01:17.896",
+    "not_before": "2025-11-10T07:01:16",
+    "not_after": "2025-11-11T07:00:41",
+    "serial_number": "01d300e56c0600a4dd31728632bc3dd4",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 422998,
+    "issuer_name": "C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2025 Q4",
+    "common_name": "imperva.com",
     "name_value": "*.dol.gov\n*.uat.dol.gov",
     "id": 22333140851,
     "entry_timestamp": "2025-11-09T09:56:53.655",
@@ -8998,29 +9022,5 @@
     "not_after": "2025-11-11T23:59:59",
     "serial_number": "03d2190c900fe2c2d52c7b80938a51ea",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "section14capi.dol.gov",
-    "name_value": "section14capi.dol.gov\nwww.section14capi.dol.gov",
-    "id": 14865247850,
-    "entry_timestamp": "2024-10-09T19:15:18.476",
-    "not_before": "2024-10-09T19:15:18",
-    "not_after": "2025-11-09T19:15:17",
-    "serial_number": "0093e0fff7313d8525e1a9767b994e1646",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "section14c.dol.gov",
-    "name_value": "section14c.dol.gov\nwww.section14c.dol.gov",
-    "id": 14865197943,
-    "entry_timestamp": "2024-10-09T19:10:08.569",
-    "not_before": "2024-10-09T19:10:08",
-    "not_after": "2025-11-09T19:10:07",
-    "serial_number": "00ea1cc65ad5fc45195eba2b303afe88d9",
-    "result_count": 3
   }
 ]

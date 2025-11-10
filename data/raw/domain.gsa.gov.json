@@ -1,5 +1,17 @@
 [
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "*.gsa.gov",
+    "name_value": "*.gsa.gov\ngsa.gov",
+    "id": 22347150229,
+    "entry_timestamp": "2025-11-10T00:39:39.236",
+    "not_before": "2025-11-10T00:00:00",
+    "not_after": "2026-11-09T23:59:59",
+    "serial_number": "0d5d8f946cdf98b37b0ac2461520c3b3",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 295816,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "auth-dev.gsa.gov",
@@ -9408,54 +9420,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "jenkins.mgmt-ppm.fcs.gsa.gov",
-    "name_value": "jenkins.mgmt-ppm.fcs.gsa.gov",
-    "id": 20284695478,
-    "entry_timestamp": "2025-08-12T09:52:53.493",
-    "not_before": "2025-08-12T08:54:19",
-    "not_after": "2025-11-10T08:54:18",
-    "serial_number": "06597dec04574b49705b944929b63c69eca3",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "jenkins.mgmt-ppm.fcs.gsa.gov",
-    "name_value": "jenkins.mgmt-ppm.fcs.gsa.gov",
-    "id": 20284694434,
-    "entry_timestamp": "2025-08-12T09:52:49.277",
-    "not_before": "2025-08-12T08:54:19",
-    "not_after": "2025-11-10T08:54:18",
-    "serial_number": "06597dec04574b49705b944929b63c69eca3",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "zipkin-collector.mgmt-ppm.fcs.gsa.gov",
-    "name_value": "zipkin-collector.mgmt-ppm.fcs.gsa.gov",
-    "id": 20284689618,
-    "entry_timestamp": "2025-08-12T09:52:23.082",
-    "not_before": "2025-08-12T08:53:50",
-    "not_after": "2025-11-10T08:53:49",
-    "serial_number": "06c7cafd7fee48d84f0abc51335a40afba72",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "zipkin-collector.mgmt-ppm.fcs.gsa.gov",
-    "name_value": "zipkin-collector.mgmt-ppm.fcs.gsa.gov",
-    "id": 20284689196,
-    "entry_timestamp": "2025-08-12T09:52:20.721",
-    "not_before": "2025-08-12T08:53:50",
-    "not_after": "2025-11-10T08:53:49",
-    "serial_number": "06c7cafd7fee48d84f0abc51335a40afba72",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 247106,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
     "common_name": "falcon.gsa.gov",
@@ -9465,102 +9429,6 @@
     "not_before": "2025-08-12T00:00:00",
     "not_after": "2026-09-10T23:59:59",
     "serial_number": "03ac459f91012569cdd1883492da1efc",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "sonar.mgmt-ppm.fcs.gsa.gov",
-    "name_value": "sonar.mgmt-ppm.fcs.gsa.gov",
-    "id": 20280630434,
-    "entry_timestamp": "2025-08-12T05:25:02.641",
-    "not_before": "2025-08-12T04:26:32",
-    "not_after": "2025-11-10T04:26:31",
-    "serial_number": "0620d329d0c1696b1b0e87c52f282958558a",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "sonar.mgmt-ppm.fcs.gsa.gov",
-    "name_value": "sonar.mgmt-ppm.fcs.gsa.gov",
-    "id": 20280630503,
-    "entry_timestamp": "2025-08-12T05:25:02.408",
-    "not_before": "2025-08-12T04:26:32",
-    "not_after": "2025-11-10T04:26:31",
-    "serial_number": "0620d329d0c1696b1b0e87c52f282958558a",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "grafana.mgmt-ppm.fcs.gsa.gov",
-    "name_value": "grafana.mgmt-ppm.fcs.gsa.gov",
-    "id": 20280628969,
-    "entry_timestamp": "2025-08-12T05:24:57.252",
-    "not_before": "2025-08-12T04:26:26",
-    "not_after": "2025-11-10T04:26:25",
-    "serial_number": "06ba081797240ad4329ffac41082adada9ef",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "grafana.mgmt-ppm.fcs.gsa.gov",
-    "name_value": "grafana.mgmt-ppm.fcs.gsa.gov",
-    "id": 20280629171,
-    "entry_timestamp": "2025-08-12T05:24:56.778",
-    "not_before": "2025-08-12T04:26:26",
-    "not_after": "2025-11-10T04:26:25",
-    "serial_number": "06ba081797240ad4329ffac41082adada9ef",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "prometheus.mgmt-ppm.fcs.gsa.gov",
-    "name_value": "prometheus.mgmt-ppm.fcs.gsa.gov",
-    "id": 20280628905,
-    "entry_timestamp": "2025-08-12T05:24:54.315",
-    "not_before": "2025-08-12T04:26:23",
-    "not_after": "2025-11-10T04:26:22",
-    "serial_number": "06a55eff94ffa70bc130b06d128c8bda1d90",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "prometheus.mgmt-ppm.fcs.gsa.gov",
-    "name_value": "prometheus.mgmt-ppm.fcs.gsa.gov",
-    "id": 20280628481,
-    "entry_timestamp": "2025-08-12T05:24:53.977",
-    "not_before": "2025-08-12T04:26:23",
-    "not_after": "2025-11-10T04:26:22",
-    "serial_number": "06a55eff94ffa70bc130b06d128c8bda1d90",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "itvmo.gsa.gov",
-    "name_value": "itvmo.gsa.gov",
-    "id": 20273826619,
-    "entry_timestamp": "2025-08-11T21:19:39.731",
-    "not_before": "2025-08-11T20:21:07",
-    "not_after": "2025-11-09T20:21:06",
-    "serial_number": "053e07a550be56ffc627b779b8a60378affc",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "itvmo.gsa.gov",
-    "name_value": "itvmo.gsa.gov",
-    "id": 20273825253,
-    "entry_timestamp": "2025-08-11T21:19:37.418",
-    "not_before": "2025-08-11T20:21:07",
-    "not_after": "2025-11-09T20:21:06",
-    "serial_number": "053e07a550be56ffc627b779b8a60378affc",
     "result_count": 2
   },
   {
@@ -9574,30 +9442,6 @@
     "not_after": "2026-09-11T23:59:59",
     "serial_number": "056dbe6503d2e043948e01afac0f14e1",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "auth.gsa.gov",
-    "name_value": "auth.gsa.gov",
-    "id": 20267461266,
-    "entry_timestamp": "2025-08-11T14:01:33.146",
-    "not_before": "2025-08-11T13:03:00",
-    "not_after": "2025-11-09T13:02:59",
-    "serial_number": "05c2826e0353ea878e5cb647ed65c76142b6",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "auth.gsa.gov",
-    "name_value": "auth.gsa.gov",
-    "id": 20267459739,
-    "entry_timestamp": "2025-08-11T14:01:30.843",
-    "not_before": "2025-08-11T13:03:00",
-    "not_after": "2025-11-09T13:02:59",
-    "serial_number": "05c2826e0353ea878e5cb647ed65c76142b6",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 185752,
