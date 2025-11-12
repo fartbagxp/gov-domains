@@ -1,5 +1,17 @@
 [
   {
+    "issuer_ca_id": 422998,
+    "issuer_name": "C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2025 Q4",
+    "common_name": "imperva.com",
+    "name_value": "*.dol.gov",
+    "id": 22407266052,
+    "entry_timestamp": "2025-11-12T07:04:53.208",
+    "not_before": "2025-11-12T07:04:49",
+    "not_after": "2025-11-13T07:03:50",
+    "serial_number": "01bea08b6f04e5a1f6f56bea0c22b2d4",
+    "result_count": 1
+  },
+  {
     "issuer_ca_id": 246719,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "stageapi.jobcorps.dol.gov",
@@ -2229,18 +2241,6 @@
     "not_before": "2024-10-15T20:24:21",
     "not_after": "2025-11-15T20:24:20",
     "serial_number": "00a5dc41cf39dd4cab60e79310f8df5d6f",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "securetransfer2.dol.gov",
-    "name_value": "securetransfer2.dol.gov\nwww.securetransfer2.dol.gov",
-    "id": 20768072848,
-    "entry_timestamp": "2025-09-03T14:58:21.41",
-    "not_before": "2024-10-15T18:12:23",
-    "not_after": "2025-11-11T18:12:22",
-    "serial_number": "00ee8f828f19379e88214385a01976a459",
     "result_count": 3
   },
   {
@@ -8998,53 +8998,5 @@
     "not_after": "2025-11-15T20:24:20",
     "serial_number": "00a5dc41cf39dd4cab60e79310f8df5d6f",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "securetransfer2.dol.gov",
-    "name_value": "securetransfer2.dol.gov\nwww.securetransfer2.dol.gov",
-    "id": 14946945071,
-    "entry_timestamp": "2024-10-15T18:12:23.409",
-    "not_before": "2024-10-15T18:12:23",
-    "not_after": "2025-11-11T18:12:22",
-    "serial_number": "00ee8f828f19379e88214385a01976a459",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "css.dol.gov",
-    "name_value": "css.dol.gov",
-    "id": 14918805689,
-    "entry_timestamp": "2024-10-13T20:53:06.984",
-    "not_before": "2024-10-13T00:00:00",
-    "not_after": "2025-11-11T23:59:59",
-    "serial_number": "05cecd58a20d1280f0fc61ffac7370f6",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "css.dol.gov",
-    "name_value": "css.dol.gov",
-    "id": 14912185806,
-    "entry_timestamp": "2024-10-13T08:16:20.988",
-    "not_before": "2024-10-13T00:00:00",
-    "not_after": "2025-11-11T23:59:59",
-    "serial_number": "05cecd58a20d1280f0fc61ffac7370f6",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "devapi.wds.dol.gov",
-    "name_value": "devapi.wds.dol.gov",
-    "id": 14911465830,
-    "entry_timestamp": "2024-10-13T06:57:04.323",
-    "not_before": "2024-10-13T00:00:00",
-    "not_after": "2025-11-11T23:59:59",
-    "serial_number": "03d2190c900fe2c2d52c7b80938a51ea",
-    "result_count": 2
   }
 ]
