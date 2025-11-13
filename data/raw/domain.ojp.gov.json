@@ -2,6 +2,54 @@
   {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "uat.amberalert.ojp.gov",
+    "name_value": "*.uat.amberalert.ojp.gov\nuat.amberalert.ojp.gov",
+    "id": 22432886735,
+    "entry_timestamp": "2025-11-13T07:24:38.471",
+    "not_before": "2025-11-13T06:24:37",
+    "not_after": "2026-02-11T07:24:31",
+    "serial_number": "151551b215fb5e001127be7a67f7b9b4",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "uat.amberalert.ojp.gov",
+    "name_value": "*.uat.amberalert.ojp.gov\nuat.amberalert.ojp.gov",
+    "id": 22432879986,
+    "entry_timestamp": "2025-11-13T07:24:26.63",
+    "not_before": "2025-11-13T06:24:26",
+    "not_after": "2026-02-11T07:21:06",
+    "serial_number": "0098fc2f5bc53a6f500ec72339d2bcecf2",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "hatecrimes.ojp.gov",
+    "name_value": "*.hatecrimes.ojp.gov\nhatecrimes.ojp.gov",
+    "id": 22432323043,
+    "entry_timestamp": "2025-11-13T06:52:20.405",
+    "not_before": "2025-11-13T05:52:19",
+    "not_after": "2026-02-11T06:52:15",
+    "serial_number": "6318c7ab563d5be211c680e2aa5ce446",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "hatecrimes.ojp.gov",
+    "name_value": "*.hatecrimes.ojp.gov\nhatecrimes.ojp.gov",
+    "id": 22432332493,
+    "entry_timestamp": "2025-11-13T06:52:10.011",
+    "not_before": "2025-11-13T05:52:09",
+    "not_after": "2026-02-11T06:50:45",
+    "serial_number": "2a43f7ef12e7131213a577c028b815c0",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "ncirc.bja.ojp.gov",
     "name_value": "*.ncirc.bja.ojp.gov\nncirc.bja.ojp.gov",
     "id": 22296971945,
@@ -3936,30 +3984,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "facjj.ojp.gov",
-    "name_value": "*.facjj.ojp.gov\nfacjj.ojp.gov",
-    "id": 20345914121,
-    "entry_timestamp": "2025-08-15T08:43:40.48",
-    "not_before": "2025-08-15T07:43:39",
-    "not_after": "2025-11-13T08:43:34",
-    "serial_number": "009dac61ad51952f3c113dea841a9101e2",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "facjj.ojp.gov",
-    "name_value": "*.facjj.ojp.gov\nfacjj.ojp.gov",
-    "id": 20345893309,
-    "entry_timestamp": "2025-08-15T08:43:28.438",
-    "not_before": "2025-08-15T07:43:28",
-    "not_after": "2025-11-13T08:40:58",
-    "serial_number": "00d00426d7954394200eb472825a56df1d",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "uat.bja.ojp.gov",
@@ -5196,18 +5220,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "uat.hatecrimes.ojp.gov",
-    "name_value": "uat.hatecrimes.ojp.gov",
-    "id": 15463499234,
-    "entry_timestamp": "2024-11-23T07:42:41.574",
-    "not_before": "2024-11-13T00:00:00",
-    "not_after": "2025-11-12T23:59:59",
-    "serial_number": "098eb0ebb68a9fe5ffc6c1e855762a6e",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 105484,
     "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo ECC Domain Validation Secure Server CA",
     "common_name": "hatecrimes.ojp.gov",
@@ -5229,18 +5241,6 @@
     "not_before": "2024-11-23T00:00:00",
     "not_after": "2025-11-23T23:59:59",
     "serial_number": "682a9889d81a9822ea51cd09f557261c",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "hatecrimes.ojp.gov",
-    "name_value": "hatecrimes.ojp.gov\nwww.hatecrimes.ojp.gov",
-    "id": 15463440253,
-    "entry_timestamp": "2024-11-23T07:34:16.331",
-    "not_before": "2024-11-13T00:00:00",
-    "not_after": "2025-11-12T23:59:59",
-    "serial_number": "06beb7e9669023c39f6ec2c1a946cd0f",
     "result_count": 3
   },
   {
@@ -5313,54 +5313,6 @@
     "not_before": "2024-11-22T00:00:00",
     "not_after": "2025-12-23T23:59:59",
     "serial_number": "06ab640530b86dec2a0c2ed641785eb0",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "dev.hatecrimes.ojp.gov",
-    "name_value": "dev.hatecrimes.ojp.gov",
-    "id": 15341130697,
-    "entry_timestamp": "2024-11-13T20:46:55.653",
-    "not_before": "2024-11-13T00:00:00",
-    "not_after": "2025-11-12T23:59:59",
-    "serial_number": "02c1d800a16b8b1168224a9b02d2721b",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "uat.hatecrimes.ojp.gov",
-    "name_value": "uat.hatecrimes.ojp.gov",
-    "id": 15341122658,
-    "entry_timestamp": "2024-11-13T20:43:30.556",
-    "not_before": "2024-11-13T00:00:00",
-    "not_after": "2025-11-12T23:59:59",
-    "serial_number": "098eb0ebb68a9fe5ffc6c1e855762a6e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "test.hatecrimes.ojp.gov",
-    "name_value": "test.hatecrimes.ojp.gov",
-    "id": 15341103201,
-    "entry_timestamp": "2024-11-13T20:40:58.203",
-    "not_before": "2024-11-13T00:00:00",
-    "not_after": "2025-11-12T23:59:59",
-    "serial_number": "0b6ecb9df4e09126977aa424eeba55a8",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "hatecrimes.ojp.gov",
-    "name_value": "hatecrimes.ojp.gov\nwww.hatecrimes.ojp.gov",
-    "id": 15341039085,
-    "entry_timestamp": "2024-11-13T20:35:02.89",
-    "not_before": "2024-11-13T00:00:00",
-    "not_after": "2025-11-12T23:59:59",
-    "serial_number": "06beb7e9669023c39f6ec2c1a946cd0f",
     "result_count": 3
   },
   {
