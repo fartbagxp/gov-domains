@@ -2,6 +2,42 @@
   {
     "issuer_ca_id": 385516,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust DV TLS Issuing RSA CA 2",
+    "common_name": "leie-test.oig.hhs.gov",
+    "name_value": "leie-test.oig.hhs.gov\nwww.leie-test.oig.hhs.gov",
+    "id": 22442904661,
+    "entry_timestamp": "2025-11-13T17:29:07.087",
+    "not_before": "2025-11-13T00:00:00",
+    "not_after": "2026-11-13T23:59:59",
+    "serial_number": "00cd497ba7f48df042a80e189395108999",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 385516,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust DV TLS Issuing RSA CA 2",
+    "common_name": "leie-test.oig.hhs.gov",
+    "name_value": "leie-test.oig.hhs.gov\nwww.leie-test.oig.hhs.gov",
+    "id": 22442874170,
+    "entry_timestamp": "2025-11-13T17:29:06.116",
+    "not_before": "2025-11-13T00:00:00",
+    "not_after": "2026-11-13T23:59:59",
+    "serial_number": "00cd497ba7f48df042a80e189395108999",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "splunk-hec.int.hhs.gov",
+    "name_value": "splunk-hec.hhs.gov\nsplunk-hec.int.hhs.gov",
+    "id": 22419144014,
+    "entry_timestamp": "2025-11-12T19:03:19.849",
+    "not_before": "2025-11-12T19:03:19",
+    "not_after": "2026-12-12T19:02:19",
+    "serial_number": "40019a79736fadee506f3a8347aace7d",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 385516,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust DV TLS Issuing RSA CA 2",
     "common_name": "vpn.oig.hhs.gov",
     "name_value": "vpn.oig.hhs.gov",
     "id": 22365380193,
@@ -3408,18 +3444,6 @@
     "result_count": 4
   },
   {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "uctableau.acf.hhs.gov",
-    "name_value": "stage.uctableau.acf.hhs.gov\nuctableau.acf.hhs.gov\nwww.uctableau.acf.hhs.gov",
-    "id": 20844046601,
-    "entry_timestamp": "2025-09-07T06:15:54.756",
-    "not_before": "2024-11-06T17:42:06",
-    "not_after": "2025-11-13T17:42:05",
-    "serial_number": "00e19b48fab04d235687c2b7fbe2042466",
-    "result_count": 4
-  },
-  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "asprburp.hhs.gov",
@@ -4569,30 +4593,6 @@
     "not_before": "2025-08-15T18:56:46",
     "not_after": "2026-09-14T18:55:46",
     "serial_number": "400198af1773ff2bb8db5a5404221c23",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "cms.hhs.gov",
-    "name_value": "cms.hhs.gov",
-    "id": 20354686974,
-    "entry_timestamp": "2025-08-15T18:28:55.284",
-    "not_before": "2025-08-15T00:00:00",
-    "not_after": "2025-11-13T23:59:59",
-    "serial_number": "1fec5b851b6c9cde9e19b0943d5721a8",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "cms.hhs.gov",
-    "name_value": "cms.hhs.gov",
-    "id": 20354687727,
-    "entry_timestamp": "2025-08-15T18:28:54.608",
-    "not_before": "2025-08-15T00:00:00",
-    "not_after": "2025-11-13T23:59:59",
-    "serial_number": "1fec5b851b6c9cde9e19b0943d5721a8",
     "result_count": 2
   },
   {
@@ -11592,18 +11592,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "appworx.hhs.gov",
-    "name_value": "appworx.hhs.gov",
-    "id": 15353152949,
-    "entry_timestamp": "2024-11-14T17:16:02.462",
-    "not_before": "2024-11-14T00:00:00",
-    "not_after": "2025-11-13T23:59:59",
-    "serial_number": "062086e62ac1225f1ab1be7611da6f2d",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "baryon.hadron.cms.hhs.gov",
@@ -11806,18 +11794,6 @@
     "not_after": "2025-11-16T15:28:23",
     "serial_number": "008598bd6c2c8c1c5608512b7e3eb4d269",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "uctableau.acf.hhs.gov",
-    "name_value": "stage.uctableau.acf.hhs.gov\nuctableau.acf.hhs.gov\nwww.uctableau.acf.hhs.gov",
-    "id": 15239799758,
-    "entry_timestamp": "2024-11-06T17:42:06.986",
-    "not_before": "2024-11-06T17:42:06",
-    "not_after": "2025-11-13T17:42:05",
-    "serial_number": "00e19b48fab04d235687c2b7fbe2042466",
-    "result_count": 4
   },
   {
     "issuer_ca_id": 1586,
@@ -12158,18 +12134,6 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "rpaprod.hhs.gov",
-    "name_value": "rpaprod.hhs.gov",
-    "id": 15028210857,
-    "entry_timestamp": "2024-10-21T13:02:51.752",
-    "not_before": "2024-10-21T00:00:00",
-    "not_after": "2025-11-13T23:59:59",
-    "serial_number": "0cd4132fa69520314e60fb40ff78c84d",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "soauat.hhs.gov",
     "name_value": "soauat.hhs.gov",
     "id": 15028100115,
@@ -12189,18 +12153,6 @@
     "not_before": "2024-10-21T00:00:00",
     "not_after": "2025-11-19T23:59:59",
     "serial_number": "0fc35e1ccab8bb8fd4f64a2997b8ad53",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "prodsoa.hhs.gov",
-    "name_value": "prodsoa.hhs.gov",
-    "id": 15027973760,
-    "entry_timestamp": "2024-10-21T12:41:57.431",
-    "not_before": "2024-10-21T00:00:00",
-    "not_after": "2025-11-13T23:59:59",
-    "serial_number": "09cad2e8ade100d84282e7403ff68996",
     "result_count": 2
   },
   {
