@@ -1,5 +1,113 @@
 [
   {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "*.tools.fleet-dev.fcs.gsa.gov",
+    "name_value": "*.tools.fleet-dev.fcs.gsa.gov\ntools.fleet-dev.fcs.gsa.gov",
+    "id": 22478754420,
+    "entry_timestamp": "2025-11-15T03:39:29.847",
+    "not_before": "2025-11-15T00:00:00",
+    "not_after": "2026-12-13T23:59:59",
+    "serial_number": "0957ab14f05dcbfc76f993f09243ddc6",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "auth-preprod.gsa.gov",
+    "name_value": "auth-preprod.gsa.gov",
+    "id": 22473302669,
+    "entry_timestamp": "2025-11-14T22:01:29.972",
+    "not_before": "2025-11-14T21:02:59",
+    "not_after": "2026-02-12T21:02:58",
+    "serial_number": "052d2e83d50616450796139f1b2260ef2352",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "auth-preprod.gsa.gov",
+    "name_value": "auth-preprod.gsa.gov",
+    "id": 22473306871,
+    "entry_timestamp": "2025-11-14T22:01:29.864",
+    "not_before": "2025-11-14T21:02:59",
+    "not_after": "2026-02-12T21:02:58",
+    "serial_number": "052d2e83d50616450796139f1b2260ef2352",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "smp-stage.gsa.gov",
+    "name_value": "smp-stage.gsa.gov",
+    "id": 22470779474,
+    "entry_timestamp": "2025-11-14T19:19:11.758",
+    "not_before": "2025-11-14T18:20:41",
+    "not_after": "2026-02-12T18:20:40",
+    "serial_number": "05771d1981dd3193780fc29ba9b3ebe5d39e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "smp-stage.gsa.gov",
+    "name_value": "smp-stage.gsa.gov",
+    "id": 22470753502,
+    "entry_timestamp": "2025-11-14T19:19:11.521",
+    "not_before": "2025-11-14T18:20:41",
+    "not_after": "2026-02-12T18:20:40",
+    "serial_number": "05771d1981dd3193780fc29ba9b3ebe5d39e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "ppms-redis-insight-test.test-ppm.fcs.gsa.gov",
+    "name_value": "ppms-redis-insight-test.test-ppm.fcs.gsa.gov",
+    "id": 22466944847,
+    "entry_timestamp": "2025-11-14T15:52:44.482",
+    "not_before": "2025-11-14T14:54:14",
+    "not_after": "2026-02-12T14:54:13",
+    "serial_number": "05fd0dc6f14e44a80b0dd53e863ba9f93e8e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "ppms-redis-insight-test.test-ppm.fcs.gsa.gov",
+    "name_value": "ppms-redis-insight-test.test-ppm.fcs.gsa.gov",
+    "id": 22466931524,
+    "entry_timestamp": "2025-11-14T15:52:44.371",
+    "not_before": "2025-11-14T14:54:14",
+    "not_after": "2026-02-12T14:54:13",
+    "serial_number": "05fd0dc6f14e44a80b0dd53e863ba9f93e8e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "cloud.gsa-solutions.gsa.gov",
+    "name_value": "cloud.gsa-solutions.gsa.gov",
+    "id": 22462512217,
+    "entry_timestamp": "2025-11-14T12:10:19.411",
+    "not_before": "2025-11-14T00:00:00",
+    "not_after": "2026-12-15T23:59:59",
+    "serial_number": "0ea9f672a42ae0df4bfc7e44a0bbf1dc",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "cloud.gsa-solutions.gsa.gov",
+    "name_value": "cloud.gsa-solutions.gsa.gov",
+    "id": 22462476601,
+    "entry_timestamp": "2025-11-14T12:08:55.991",
+    "not_before": "2025-11-14T00:00:00",
+    "not_after": "2026-12-15T23:59:59",
+    "serial_number": "0ea9f672a42ae0df4bfc7e44a0bbf1dc",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "cloud.gsa-solutions.gsa.gov",
@@ -6036,54 +6144,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "rat.usaccess.gsa.gov",
-    "name_value": "rat.usaccess.gsa.gov",
-    "id": 20805278612,
-    "entry_timestamp": "2025-09-05T12:03:27.947",
-    "not_before": "2024-10-24T16:07:23",
-    "not_after": "2025-11-24T16:07:22",
-    "serial_number": "008ca53965ea858483ee1b85258b4f66b6",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "ras.usaccess.gsa.gov",
-    "name_value": "ras.usaccess.gsa.gov",
-    "id": 20804023234,
-    "entry_timestamp": "2025-09-05T10:35:31.884",
-    "not_before": "2024-10-24T16:12:43",
-    "not_after": "2025-11-24T16:12:42",
-    "serial_number": "00f60ae1cfe2e530fba17858df8bb364d8",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "rad.usaccess.gsa.gov",
-    "name_value": "rad.usaccess.gsa.gov",
-    "id": 20803725521,
-    "entry_timestamp": "2025-09-05T10:13:49.131",
-    "not_before": "2024-10-24T17:17:05",
-    "not_after": "2025-11-24T17:17:04",
-    "serial_number": "2b50019fd0cd61a8dbf91190a9a5bb4c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "rap.usaccess.gsa.gov",
-    "name_value": "rap.usaccess.gsa.gov",
-    "id": 20803379713,
-    "entry_timestamp": "2025-09-05T09:49:41.104",
-    "not_before": "2024-10-24T16:18:21",
-    "not_after": "2025-11-24T16:18:20",
-    "serial_number": "00ad6a84a598280faf6c9ebc58f86338cc",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "*.preprod.cnxs.vpcaas.fcs.gsa.gov",
@@ -6153,18 +6213,6 @@
     "not_before": "2025-09-04T00:00:00",
     "not_after": "2026-10-03T23:59:59",
     "serial_number": "010a0bb7ae840349e49fe343646e273d",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "ack.usaccess.gsa.gov",
-    "name_value": "ack.usaccess.gsa.gov",
-    "id": 20773907808,
-    "entry_timestamp": "2025-09-03T22:25:15.433",
-    "not_before": "2024-10-16T16:21:17",
-    "not_after": "2025-11-16T16:21:16",
-    "serial_number": "253651cb4689eecf9fa5fc01ce5c9185",
     "result_count": 2
   },
   {
@@ -6442,54 +6490,6 @@
     "not_after": "2026-09-23T23:59:59",
     "serial_number": "0ea0360ca381d32818e239787ad1daea",
     "result_count": 4
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "services.usaccess.gsa.gov",
-    "name_value": "services.usaccess.gsa.gov",
-    "id": 20769775148,
-    "entry_timestamp": "2025-09-03T16:50:30.723",
-    "not_before": "2024-10-15T16:29:13",
-    "not_after": "2025-11-15T16:29:12",
-    "serial_number": "00bea9be99c873f071427f74fec47e7500",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "portal.usaccess.gsa.gov",
-    "name_value": "portal.usaccess.gsa.gov",
-    "id": 20768233083,
-    "entry_timestamp": "2025-09-03T15:07:11.348",
-    "not_before": "2024-10-15T16:59:43",
-    "not_after": "2025-11-15T16:59:42",
-    "serial_number": "008d4338eb5457892d3c0795eb8d922325",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "issuance.usaccess.gsa.gov",
-    "name_value": "issuance.usaccess.gsa.gov",
-    "id": 20767695509,
-    "entry_timestamp": "2025-09-03T14:30:41.775",
-    "not_before": "2024-10-15T17:57:59",
-    "not_after": "2025-11-15T17:57:58",
-    "serial_number": "009114c77783efc02d879239c625c07163",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "nonpiv-issuance.usaccess.gsa.gov",
-    "name_value": "nonpiv-issuance.usaccess.gsa.gov",
-    "id": 20767274493,
-    "entry_timestamp": "2025-09-03T14:06:09.756",
-    "not_before": "2024-10-15T17:13:30",
-    "not_after": "2025-11-15T17:13:28",
-    "serial_number": "00af1cbb076e21ab5362949f9407062ee0",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 295817,
@@ -18038,30 +18038,6 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "*.helix.gsa.gov",
-    "name_value": "*.helix.gsa.gov\nhelix.gsa.gov",
-    "id": 15368369379,
-    "entry_timestamp": "2024-11-15T18:32:48.598",
-    "not_before": "2024-11-15T00:00:00",
-    "not_after": "2025-11-14T23:59:59",
-    "serial_number": "09555f1963b1f063b079c1d49f722841",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "test.buy.gsa.gov",
-    "name_value": "test.buy.gsa.gov\nwww.test.buy.gsa.gov",
-    "id": 15368303262,
-    "entry_timestamp": "2024-11-15T18:27:16.061",
-    "not_before": "2024-11-15T00:00:00",
-    "not_after": "2025-11-14T23:59:59",
-    "serial_number": "0384c0148c983613a2b14eebcfba4c22",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "secureauth.gsa.gov",
     "name_value": "e04bmm-sa01.ent.ds.gsa.gov\ne04bmm-sa02.ent.ds.gsa.gov\ne04bmm-sa03.ent.ds.gsa.gov\ne04bmm-sa04.ent.ds.gsa.gov\ne04bmm-sa05.ent.ds.gsa.gov\ne04bmm-sa06.ent.ds.gsa.gov\ne04tcm-sa01.ent.ds.gsa.gov\ne04tcm-sa02.ent.ds.gsa.gov\ne04tcm-sa03.ent.ds.gsa.gov\ne04tcm-sa04.ent.ds.gsa.gov\ne04tcm-sa05.ent.ds.gsa.gov\ne04tcm-sa06.ent.ds.gsa.gov\nsecureauth.gsa.gov",
     "id": 15352935187,
@@ -18468,54 +18444,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "rad.usaccess.gsa.gov",
-    "name_value": "rad.usaccess.gsa.gov",
-    "id": 15068026510,
-    "entry_timestamp": "2024-10-24T17:17:05.885",
-    "not_before": "2024-10-24T17:17:05",
-    "not_after": "2025-11-24T17:17:04",
-    "serial_number": "2b50019fd0cd61a8dbf91190a9a5bb4c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "rap.usaccess.gsa.gov",
-    "name_value": "rap.usaccess.gsa.gov",
-    "id": 15067587949,
-    "entry_timestamp": "2024-10-24T16:18:21.534",
-    "not_before": "2024-10-24T16:18:21",
-    "not_after": "2025-11-24T16:18:20",
-    "serial_number": "00ad6a84a598280faf6c9ebc58f86338cc",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "ras.usaccess.gsa.gov",
-    "name_value": "ras.usaccess.gsa.gov",
-    "id": 15067546340,
-    "entry_timestamp": "2024-10-24T16:12:44.082",
-    "not_before": "2024-10-24T16:12:43",
-    "not_after": "2025-11-24T16:12:42",
-    "serial_number": "00f60ae1cfe2e530fba17858df8bb364d8",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "rat.usaccess.gsa.gov",
-    "name_value": "rat.usaccess.gsa.gov",
-    "id": 15067511319,
-    "entry_timestamp": "2024-10-24T16:07:23.736",
-    "not_before": "2024-10-24T16:07:23",
-    "not_after": "2025-11-24T16:07:22",
-    "serial_number": "008ca53965ea858483ee1b85258b4f66b6",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 247115,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
     "common_name": "pricing-api-bulk.fss19-mgmt.fcs.gsa.gov",
@@ -18540,18 +18468,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "fpstg.usaccess.gsa.gov",
-    "name_value": "certauth.fpstg.usaccess.gsa.gov\nfpstg.usaccess.gsa.gov",
-    "id": 15042082728,
-    "entry_timestamp": "2024-10-22T14:55:29.66",
-    "not_before": "2024-10-22T14:55:29",
-    "not_after": "2025-11-22T14:55:28",
-    "serial_number": "11c17059f4aeed4cd944c2092ebf1c52",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "muleapi.gsa.gov",
@@ -18562,101 +18478,5 @@
     "not_after": "2025-11-21T23:59:59",
     "serial_number": "0993d4452dbb88de9b2a09b490bebf38",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "ack.usaccess.gsa.gov",
-    "name_value": "ack.usaccess.gsa.gov",
-    "id": 14960519232,
-    "entry_timestamp": "2024-10-16T16:21:18.018",
-    "not_before": "2024-10-16T16:21:17",
-    "not_after": "2025-11-16T16:21:16",
-    "serial_number": "253651cb4689eecf9fa5fc01ce5c9185",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "enroll.usaccess.gsa.gov",
-    "name_value": "enroll.usaccess.gsa.gov",
-    "id": 14960335267,
-    "entry_timestamp": "2024-10-16T16:05:52.872",
-    "not_before": "2024-10-16T16:05:52",
-    "not_after": "2025-11-16T16:05:51",
-    "serial_number": "00c2d7e3a6ddf942436a123562916d17de",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "issuance.usaccess.gsa.gov",
-    "name_value": "issuance.usaccess.gsa.gov",
-    "id": 14946804391,
-    "entry_timestamp": "2024-10-15T17:58:00.288",
-    "not_before": "2024-10-15T17:57:59",
-    "not_after": "2025-11-15T17:57:58",
-    "serial_number": "009114c77783efc02d879239c625c07163",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "nonpiv-issuance.usaccess.gsa.gov",
-    "name_value": "nonpiv-issuance.usaccess.gsa.gov",
-    "id": 14946370628,
-    "entry_timestamp": "2024-10-15T17:13:30.32",
-    "not_before": "2024-10-15T17:13:30",
-    "not_after": "2025-11-15T17:13:28",
-    "serial_number": "00af1cbb076e21ab5362949f9407062ee0",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "portal.usaccess.gsa.gov",
-    "name_value": "portal.usaccess.gsa.gov",
-    "id": 14946216600,
-    "entry_timestamp": "2024-10-15T16:59:43.451",
-    "not_before": "2024-10-15T16:59:43",
-    "not_after": "2025-11-15T16:59:42",
-    "serial_number": "008d4338eb5457892d3c0795eb8d922325",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "services.usaccess.gsa.gov",
-    "name_value": "services.usaccess.gsa.gov",
-    "id": 14945884023,
-    "entry_timestamp": "2024-10-15T16:29:13.432",
-    "not_before": "2024-10-15T16:29:13",
-    "not_after": "2025-11-15T16:29:12",
-    "serial_number": "00bea9be99c873f071427f74fec47e7500",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "wsgsa.usaccess.gsa.gov",
-    "name_value": "wsgsa.usaccess.gsa.gov",
-    "id": 14944908919,
-    "entry_timestamp": "2024-10-15T14:57:51.141",
-    "not_before": "2024-10-15T14:57:50",
-    "not_after": "2025-11-15T14:57:49",
-    "serial_number": "00cd29c49e1cb1f22a3493dca3163177c7",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "fes-wsgsastg.usaccess.gsa.gov",
-    "name_value": "fes-wsgsastg.usaccess.gsa.gov",
-    "id": 14944322778,
-    "entry_timestamp": "2024-10-15T14:06:46.344",
-    "not_before": "2024-10-15T14:06:46",
-    "not_after": "2025-11-15T14:06:45",
-    "serial_number": "751c69afaa043b0b6108e25f30ff4b9a",
-    "result_count": 2
   }
 ]

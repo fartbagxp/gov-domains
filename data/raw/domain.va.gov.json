@@ -1,5 +1,53 @@
 [
   {
+    "issuer_ca_id": 176211,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2",
+    "common_name": "patientportal.myhealth.va.gov",
+    "name_value": "patientportal.myhealth.va.gov",
+    "id": 22471057277,
+    "entry_timestamp": "2025-11-14T19:39:56.164",
+    "not_before": "2025-11-14T00:00:00",
+    "not_after": "2026-11-13T23:59:59",
+    "serial_number": "06caed03f2db47d88b47c64c1e5c3419",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 176211,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2",
+    "common_name": "sandbox-portal.myhealth.va.gov",
+    "name_value": "sandbox-portal.myhealth.va.gov",
+    "id": 22470967368,
+    "entry_timestamp": "2025-11-14T19:32:48.805",
+    "not_before": "2025-11-14T00:00:00",
+    "not_after": "2026-11-13T23:59:59",
+    "serial_number": "047cd48499b7f1ac9e83205554362cfd",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 176211,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2",
+    "common_name": "sandbox-patientportal.myhealth.va.gov",
+    "name_value": "sandbox-patientportal.myhealth.va.gov",
+    "id": 22470842978,
+    "entry_timestamp": "2025-11-14T19:24:42.417",
+    "not_before": "2025-11-14T00:00:00",
+    "not_after": "2026-11-13T23:59:59",
+    "serial_number": "03ea78245a8ceacba5169da417306475",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "elk.mdm.va.gov",
+    "name_value": "elk.mdm.va.gov",
+    "id": 22465028616,
+    "entry_timestamp": "2025-11-14T14:14:59.611",
+    "not_before": "2025-11-14T00:00:00",
+    "not_after": "2026-11-13T23:59:59",
+    "serial_number": "0acdb0d3db09bfb25215e485d2f9641f",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "login.va.gov",
@@ -2746,18 +2794,6 @@
     "not_after": "2026-06-24T23:59:59",
     "serial_number": "03e546ad5c97d57586d6dc8048a06469",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "www.icw.external.mscnprod.va.gov",
-    "name_value": "www.icw.external.mscnprod.va.gov",
-    "id": 19230038404,
-    "entry_timestamp": "2025-06-24T18:27:22.991",
-    "not_before": "2024-11-14T00:00:00",
-    "not_after": "2025-11-13T23:59:59",
-    "serial_number": "0339163b657415851806315d1f2f2c49",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 185752,
@@ -6660,18 +6696,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "www.icw.external.mscnprod.va.gov",
-    "name_value": "www.icw.external.mscnprod.va.gov",
-    "id": 15355573972,
-    "entry_timestamp": "2024-11-14T21:20:38.604",
-    "not_before": "2024-11-14T00:00:00",
-    "not_after": "2025-11-13T23:59:59",
-    "serial_number": "0339163b657415851806315d1f2f2c49",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 1399,
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 Extended Validation Server CA",
     "common_name": "evn.va.gov",
@@ -6828,54 +6852,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 105493,
-    "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
-    "common_name": "sandbox-api.va.gov",
-    "name_value": "sandbox-api.va.gov\nwww.sandbox-api.va.gov",
-    "id": 14945159874,
-    "entry_timestamp": "2024-10-15T15:20:49.214",
-    "not_before": "2024-10-15T00:00:00",
-    "not_after": "2025-11-13T23:59:59",
-    "serial_number": "00834c3f3f86cfaf35be026d2b2cffcc66",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 105493,
-    "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
-    "common_name": "sandbox-api.va.gov",
-    "name_value": "sandbox-api.va.gov\nwww.sandbox-api.va.gov",
-    "id": 14945159706,
-    "entry_timestamp": "2024-10-15T15:20:48.62",
-    "not_before": "2024-10-15T00:00:00",
-    "not_after": "2025-11-13T23:59:59",
-    "serial_number": "00834c3f3f86cfaf35be026d2b2cffcc66",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 105493,
-    "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
-    "common_name": "staging-api.va.gov",
-    "name_value": "staging-api.va.gov\nwww.staging-api.va.gov",
-    "id": 14945150868,
-    "entry_timestamp": "2024-10-15T15:20:20.145",
-    "not_before": "2024-10-15T00:00:00",
-    "not_after": "2025-11-13T23:59:59",
-    "serial_number": "6188e6ed6a1989239e9fe58d7061c9ed",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 105493,
-    "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
-    "common_name": "staging-api.va.gov",
-    "name_value": "staging-api.va.gov\nwww.staging-api.va.gov",
-    "id": 14945150908,
-    "entry_timestamp": "2024-10-15T15:20:18.665",
-    "not_before": "2024-10-15T00:00:00",
-    "not_after": "2025-11-13T23:59:59",
-    "serial_number": "6188e6ed6a1989239e9fe58d7061c9ed",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "xtwebmanagerservice.v08.med.va.gov",
@@ -6885,30 +6861,6 @@
     "not_before": "2024-10-15T00:00:00",
     "not_after": "2025-11-15T23:59:59",
     "serial_number": "0b80e6c3ff11b5a3583deba78aeb03a0",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 105493,
-    "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
-    "common_name": "dev-api.va.gov",
-    "name_value": "dev-api.va.gov",
-    "id": 14944843418,
-    "entry_timestamp": "2024-10-15T14:50:33.106",
-    "not_before": "2024-10-15T00:00:00",
-    "not_after": "2025-11-13T23:59:59",
-    "serial_number": "00f283297aedbc4fb6e443cdbc7fbe2d96",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 105493,
-    "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
-    "common_name": "dev-api.va.gov",
-    "name_value": "dev-api.va.gov",
-    "id": 14944843391,
-    "entry_timestamp": "2024-10-15T14:50:32.169",
-    "not_before": "2024-10-15T00:00:00",
-    "not_after": "2025-11-13T23:59:59",
-    "serial_number": "00f283297aedbc4fb6e443cdbc7fbe2d96",
     "result_count": 2
   },
   {

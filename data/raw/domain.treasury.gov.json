@@ -2,6 +2,78 @@
   {
     "issuer_ca_id": 385512,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "access.stg.platform.fahc.fiscal.treasury.gov",
+    "name_value": "access-backup.stg.platform.fahc.fiscal.treasury.gov\naccess-local-backup.stg.util.tsd.gw1.fahc.fiscal.treasury.gov\naccess-local.stg.util.tsd.gw1.fahc.fiscal.treasury.gov\naccess.stg.platform.fahc.fiscal.treasury.gov",
+    "id": 22473074263,
+    "entry_timestamp": "2025-11-14T21:45:20.824",
+    "not_before": "2025-11-14T00:00:00",
+    "not_after": "2026-09-06T23:59:59",
+    "serial_number": "7a3b7989a5ece7fc07d444f29d4f7978",
+    "result_count": 5
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "access.stg.platform.fahc.fiscal.treasury.gov",
+    "name_value": "access-backup.stg.platform.fahc.fiscal.treasury.gov\naccess-local-backup.stg.util.tsd.gw1.fahc.fiscal.treasury.gov\naccess-local.stg.util.tsd.gw1.fahc.fiscal.treasury.gov\naccess.stg.platform.fahc.fiscal.treasury.gov",
+    "id": 22473056464,
+    "entry_timestamp": "2025-11-14T21:45:19.546",
+    "not_before": "2025-11-14T00:00:00",
+    "not_after": "2026-09-06T23:59:59",
+    "serial_number": "7a3b7989a5ece7fc07d444f29d4f7978",
+    "result_count": 5
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "iap.ofr.treas.gov",
+    "name_value": "wireless-guest1.paws.ofr.treasury.gov\nwireless-guest2.paws.ofr.treasury.gov\nwireless-guest.paws.ofr.treasury.gov",
+    "id": 22468707969,
+    "entry_timestamp": "2025-11-14T17:30:34.735",
+    "not_before": "2025-11-14T00:00:00",
+    "not_after": "2026-11-13T23:59:59",
+    "serial_number": "0f84f4335e194f071e60f92b313e4f1a",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "*.prod.fs.fiscal.treasury.gov",
+    "name_value": "*.prod.fs.fiscal.treasury.gov",
+    "id": 22467170645,
+    "entry_timestamp": "2025-11-14T16:05:41.925",
+    "not_before": "2025-11-14T00:00:00",
+    "not_after": "2026-12-15T23:59:59",
+    "serial_number": "52340fe8d8f1002ccd6d84d65baceeae",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "*.prod.fs.fiscal.treasury.gov",
+    "name_value": "*.prod.fs.fiscal.treasury.gov",
+    "id": 22467158882,
+    "entry_timestamp": "2025-11-14T16:05:40.956",
+    "not_before": "2025-11-14T00:00:00",
+    "not_after": "2026-12-15T23:59:59",
+    "serial_number": "52340fe8d8f1002ccd6d84d65baceeae",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "iap.ofr.treas.gov",
+    "name_value": "wireless-guest1.paws.ofr.treasury.gov\nwireless-guest2.paws.ofr.treasury.gov",
+    "id": 22464629097,
+    "entry_timestamp": "2025-11-14T13:54:11.441",
+    "not_before": "2025-11-14T00:00:00",
+    "not_after": "2026-11-13T23:59:59",
+    "serial_number": "03cf43725047b6049994bf733f30ae07",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
     "common_name": "qa.reporting.fiscal.treasury.gov",
     "name_value": "qa.reporting.fiscal.treasury.gov\nwww.qa.reporting.fiscal.treasury.gov",
     "id": 22416940941,
@@ -12465,18 +12537,6 @@
     "not_before": "2024-10-16T11:06:34",
     "not_after": "2025-11-16T11:06:32",
     "serial_number": "5097e0ece50e2cd4d6335f0ef16ab45d",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "outbound.otcnet.for.fiscal.treasury.gov",
-    "name_value": "outbound.otcnet.for.fiscal.treasury.gov",
-    "id": 14956198807,
-    "entry_timestamp": "2024-10-16T09:27:49.458",
-    "not_before": "2024-10-16T09:27:49",
-    "not_after": "2025-11-15T09:27:48",
-    "serial_number": "00be398fd728a4af8619aab66b7469740d",
     "result_count": 2
   },
   {
