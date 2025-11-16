@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 365075,
+    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
+    "common_name": "stage-mcp.portal.nhtsa.gov",
+    "name_value": "origin-stage-mcp.portal.nhtsa.gov\nstage-mcp.portal.nhtsa.gov\nwww.stage-mcp.portal.nhtsa.gov",
+    "id": 22508769917,
+    "entry_timestamp": "2025-11-16T09:41:12.52",
+    "not_before": "2025-02-19T20:10:49",
+    "not_after": "2026-03-19T04:00:00",
+    "serial_number": "1ce5114b91c42501feecd20ac22f4c43",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 365075,
+    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
+    "common_name": "recalls.portal.nhtsa.gov",
+    "name_value": "recalls.portal.nhtsa.gov\nwww.recalls.portal.nhtsa.gov",
+    "id": 22504181145,
+    "entry_timestamp": "2025-11-16T05:12:51.527",
+    "not_before": "2025-01-21T15:10:58",
+    "not_after": "2026-01-21T15:19:39",
+    "serial_number": "1264a4dc5822f7b06064cfc7fd359bf4",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 385512,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
     "common_name": "portal.nhtsa.gov",
@@ -2014,29 +2038,5 @@
     "not_after": "2025-12-04T15:08:03",
     "serial_number": "65b0a06c378a4ca6d9bfaf8b28c0ce01",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "ws.nhtsa.dot.gov",
-    "name_value": "apps1.nhtsa.gov\ngts.nhtsa.gov\ngts-test.nhtsa.gov\nicsw.nhtsa.gov\nmcp.nhtsa.gov\nmcs.nhtsa.gov\none.nhtsa.gov\norigin-gts.nhtsa.gov\norigin-icsw.nhtsa.gov\norigin-stnw.nhtsa.gov\nstaging.nhtsa.gov\nstnw.nhtsa.gov\ntravelontrack.nhtsa.gov\nwebapi.nhtsa.gov\nwww.webapi.nhtsa.gov",
-    "id": 14959733880,
-    "entry_timestamp": "2024-10-16T15:09:34.799",
-    "not_before": "2024-10-16T15:09:34",
-    "not_after": "2025-11-15T15:09:33",
-    "serial_number": "00ada6381e1ba06dc42d161a779bfbd990",
-    "result_count": 15
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "ws.nhtsa.dot.gov",
-    "name_value": "apps1.nhtsa.gov\ngts.nhtsa.gov\ngts-test.nhtsa.gov\nicsw.nhtsa.gov\nmcp.nhtsa.gov\nmcs.nhtsa.gov\none.nhtsa.gov\norigin-gts.nhtsa.gov\norigin-icsw.nhtsa.gov\norigin-stnw.nhtsa.gov\nstaging.nhtsa.gov\nstnw.nhtsa.gov\ntravelontrack.nhtsa.gov\nwebapi.nhtsa.gov\nwww.webapi.nhtsa.gov",
-    "id": 14945366471,
-    "entry_timestamp": "2024-10-15T15:43:01.72",
-    "not_before": "2024-10-15T15:43:01",
-    "not_after": "2025-11-15T15:42:59",
-    "serial_number": "4d5338bdce24024d498f00ccb9a816c7",
-    "result_count": 15
   }
 ]

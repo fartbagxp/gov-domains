@@ -1,5 +1,53 @@
 [
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "itverp.ovc.ojp.gov",
+    "name_value": "itverp-dev.ovc.ojp.gov\nitverp.ovc.ojp.gov\nitverp-qa.ovc.ojp.gov\nitverp-test.ovc.ojp.gov",
+    "id": 22509575551,
+    "entry_timestamp": "2025-11-16T10:32:22.102",
+    "not_before": "2025-02-25T00:00:00",
+    "not_after": "2026-03-28T23:59:59",
+    "serial_number": "0c9f5603b819b7ea0eaa1e024d2bcfe8",
+    "result_count": 5
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "it.ojp.gov",
+    "name_value": "it.ojp.gov\nwww.it.ojp.gov",
+    "id": 22507071833,
+    "entry_timestamp": "2025-11-16T07:59:17.711",
+    "not_before": "2025-02-10T00:00:00",
+    "not_after": "2026-03-13T23:59:59",
+    "serial_number": "040fd476e77d333783259d1a46b74b6a",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "psob.bja.ojp.gov",
+    "name_value": "psob.bja.ojp.gov\nwww.psob.bja.ojp.gov",
+    "id": 22504764452,
+    "entry_timestamp": "2025-11-16T05:45:16.364",
+    "not_before": "2025-01-24T00:00:00",
+    "not_after": "2026-02-24T23:59:59",
+    "serial_number": "0b62b13cb7491a31c09d45c8365ed59d",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "eeop.ocr.ojp.gov",
+    "name_value": "eeop.ocr.ojp.gov",
+    "id": 22504737040,
+    "entry_timestamp": "2025-11-16T05:43:52.76",
+    "not_before": "2025-01-24T00:00:00",
+    "not_after": "2026-02-24T23:59:59",
+    "serial_number": "0c45a7850b037232378a06857b376527",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 204407,
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
     "common_name": "uat.facjj.ojp.gov",
@@ -3765,54 +3813,6 @@
     "not_before": "2025-08-19T00:56:07",
     "not_after": "2025-11-17T01:53:46",
     "serial_number": "008d67924162cf3e11da2e0331c638aa",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204407,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
-    "common_name": "uat.smart.ojp.gov",
-    "name_value": "*.uat.smart.ojp.gov\nuat.smart.ojp.gov",
-    "id": 20393334116,
-    "entry_timestamp": "2025-08-17T13:03:03.346",
-    "not_before": "2025-08-17T00:00:00",
-    "not_after": "2025-11-15T13:01:06",
-    "serial_number": "008d2310dae94a8c47ca8d9e0df6984bd0",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204407,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
-    "common_name": "uat.smart.ojp.gov",
-    "name_value": "*.uat.smart.ojp.gov\nuat.smart.ojp.gov",
-    "id": 20393333850,
-    "entry_timestamp": "2025-08-17T13:03:02",
-    "not_before": "2025-08-17T00:00:00",
-    "not_after": "2025-11-15T13:01:06",
-    "serial_number": "008d2310dae94a8c47ca8d9e0df6984bd0",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "uat.smart.ojp.gov",
-    "name_value": "*.uat.smart.ojp.gov\nuat.smart.ojp.gov",
-    "id": 20393300274,
-    "entry_timestamp": "2025-08-17T13:00:53.59",
-    "not_before": "2025-08-17T00:00:00",
-    "not_after": "2025-11-15T12:59:19",
-    "serial_number": "58a5f9f3a2964b4b35f93887d373a404",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "uat.smart.ojp.gov",
-    "name_value": "*.uat.smart.ojp.gov\nuat.smart.ojp.gov",
-    "id": 20393299400,
-    "entry_timestamp": "2025-08-17T13:00:52.993",
-    "not_before": "2025-08-17T00:00:00",
-    "not_after": "2025-11-15T12:59:19",
-    "serial_number": "58a5f9f3a2964b4b35f93887d373a404",
     "result_count": 3
   },
   {
