@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 365075,
+    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
+    "common_name": "fedtest.bls.gov",
+    "name_value": "bls.gov\nfedtest.bls.gov\nwww.fedtest.bls.gov",
+    "id": 22508029516,
+    "entry_timestamp": "2025-11-16T08:54:24.551",
+    "not_before": "2025-02-14T16:42:00",
+    "not_after": "2026-02-14T16:50:21",
+    "serial_number": "2ed6e45fafe26d7206ae747c1a480cdd",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 365075,
+    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
+    "common_name": "fedtest.bls.gov",
+    "name_value": "bls.gov\nfedtest.bls.gov\nwww.fedtest.bls.gov",
+    "id": 22506072722,
+    "entry_timestamp": "2025-11-16T06:59:47.325",
+    "not_before": "2025-02-03T21:00:10",
+    "not_after": "2026-03-03T05:00:00",
+    "serial_number": "13c38d90c47b94b459305d17dc4e9dd0",
+    "result_count": 4
+  },
+  {
     "issuer_ca_id": 385512,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
     "common_name": "dewscmsp.psb.bls.gov",
@@ -1497,30 +1521,6 @@
     "not_before": "2024-10-17T19:18:44",
     "not_after": "2025-11-17T19:18:43",
     "serial_number": "2a94dcb9c95d1884b01e9e663033fefe",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "cfsaces03.psb.bls.gov",
-    "name_value": "cfsaces03.psb.bls.gov\nwww.cfsaces03.psb.bls.gov",
-    "id": 14961720265,
-    "entry_timestamp": "2024-10-16T18:22:26.835",
-    "not_before": "2024-10-16T18:22:26",
-    "not_after": "2025-11-16T18:22:25",
-    "serial_number": "00e8202df5b0acf5870c2a321cbd6532f5",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "rasdmprd.psb.bls.gov",
-    "name_value": "rasdmprd.psb.bls.gov\nwww.rasdmprd.psb.bls.gov",
-    "id": 14948509601,
-    "entry_timestamp": "2024-10-15T20:58:15.19",
-    "not_before": "2024-10-15T20:58:15",
-    "not_after": "2025-11-15T20:58:13",
-    "serial_number": "4a118e82b47af7eb80cef3606c286497",
     "result_count": 3
   }
 ]

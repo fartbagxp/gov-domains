@@ -1,5 +1,53 @@
 [
   {
+    "issuer_ca_id": 365073,
+    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust EV TLS Issuing RSA CA 1",
+    "common_name": "eas.dot.gov",
+    "name_value": "eas.dot.gov\ngrants.ost.dot.gov\nwww.eas.dot.gov",
+    "id": 22523313713,
+    "entry_timestamp": "2025-11-16T23:48:30.834",
+    "not_before": "2025-04-14T14:02:53",
+    "not_after": "2026-04-28T10:50:43",
+    "serial_number": "7a542fc50642cce6012c39a497c9e010",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 365075,
+    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
+    "common_name": "faces.fta.dot.gov",
+    "name_value": "facesdev1.fta.dot.gov\nfacesdev2.fta.dot.gov\nfacesdev3.fta.dot.gov\nfacesdev4.fta.dot.gov\nfacesdev5.fta.dot.gov\nfaces.fta.dot.gov\nfacespreprod.fta.dot.gov\nfacestest1.fta.dot.gov\nfacestest2.fta.dot.gov\nfacestest3.fta.dot.gov\nfacestest4.fta.dot.gov\nfacestest5.fta.dot.gov\nfacestraining.fta.dot.gov\nfacesuat.fta.dot.gov\nwww.faces.fta.dot.gov",
+    "id": 22514905238,
+    "entry_timestamp": "2025-11-16T15:49:33.451",
+    "not_before": "2025-03-07T21:33:53",
+    "not_after": "2026-04-07T04:00:00",
+    "serial_number": "03ab56424df1ff1122eccfa1d03f1262",
+    "result_count": 16
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "www.psp.fmcsa.dot.gov",
+    "name_value": "www.psp.fmcsa.dot.gov",
+    "id": 22511100559,
+    "entry_timestamp": "2025-11-16T12:00:12.365",
+    "not_before": "2025-03-04T00:00:00",
+    "not_after": "2026-03-30T23:59:59",
+    "serial_number": "0787a616966adda3931dae464f26303b",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185606,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS Hybrid ECC SHA384 2020 CA1",
+    "common_name": "nhtsa.dot.gov",
+    "name_value": "egrants.nhtsa.dot.gov\negrants-preprod.nhtsa.dot.gov\negrants-staging.nhtsa.dot.gov\nncap-api.nhtsa.dot.gov\nncap.nhtsa.dot.gov\nnhtsa.dot.gov",
+    "id": 22510139456,
+    "entry_timestamp": "2025-11-16T11:06:25.477",
+    "not_before": "2025-02-28T00:00:00",
+    "not_after": "2026-01-30T23:59:59",
+    "serial_number": "0e277f883213661e35cba69b1dad5a8e",
+    "result_count": 7
+  },
+  {
     "issuer_ca_id": 365074,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing ECC CA 1",
     "common_name": "phmsaservices.phmsa.dot.gov",
@@ -10654,17 +10702,5 @@
     "not_after": "2025-11-18T15:24:47",
     "serial_number": "00c4a6066ecee88e8a4f5120cfd0e8c9da",
     "result_count": 6
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "phmhqnwas022vg.ad.dot.gov",
-    "name_value": "phmhqnwas022vg.ad.dot.gov\nwww.phmhqnwas022vg.ad.dot.gov",
-    "id": 14959105543,
-    "entry_timestamp": "2024-10-16T14:13:25.954",
-    "not_before": "2024-10-16T14:13:25",
-    "not_after": "2025-11-16T14:13:24",
-    "serial_number": "00f438684bb38340bd8412734dd7bc9c2d",
-    "result_count": 3
   }
 ]

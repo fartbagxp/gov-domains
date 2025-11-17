@@ -1,5 +1,41 @@
 [
   {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "dts.state.gov",
+    "name_value": "dts.state.gov",
+    "id": 22534678430,
+    "entry_timestamp": "2025-11-17T09:59:30.702",
+    "not_before": "2025-11-17T09:01:00",
+    "not_after": "2026-02-15T09:00:59",
+    "serial_number": "069b577a0711113039ba9de59ddb6eedaadf",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "dts.state.gov",
+    "name_value": "dts.state.gov",
+    "id": 22534654667,
+    "entry_timestamp": "2025-11-17T09:59:30.52",
+    "not_before": "2025-11-17T09:01:00",
+    "not_after": "2026-02-15T09:00:59",
+    "serial_number": "069b577a0711113039ba9de59ddb6eedaadf",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 176211,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2",
+    "common_name": "pkaps.pki.state.gov",
+    "name_value": "pkaps.pki.state.gov\nwww.pkaps.pki.state.gov",
+    "id": 22523482982,
+    "entry_timestamp": "2025-11-16T23:58:20.345",
+    "not_before": "2025-08-05T00:00:00",
+    "not_after": "2026-09-05T23:59:59",
+    "serial_number": "0592bfebf9290b9fdf053b612475a23f",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "nsdd38.state.gov",
@@ -13524,54 +13560,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 295810,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E5",
-    "common_name": "gbiext.cgfs.state.gov",
-    "name_value": "gbiext.cgfs.state.gov",
-    "id": 20431518846,
-    "entry_timestamp": "2025-08-19T10:43:30.188",
-    "not_before": "2025-08-19T09:45:00",
-    "not_after": "2025-11-17T09:44:59",
-    "serial_number": "05cc35e9deee815694c3b44c5e8510a607c9",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295810,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E5",
-    "common_name": "gbiext.cgfs.state.gov",
-    "name_value": "gbiext.cgfs.state.gov",
-    "id": 20430570498,
-    "entry_timestamp": "2025-08-19T10:43:30.072",
-    "not_before": "2025-08-19T09:45:00",
-    "not_after": "2025-11-17T09:44:59",
-    "serial_number": "05cc35e9deee815694c3b44c5e8510a607c9",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "gbiext.cgfs.state.gov",
-    "name_value": "gbiext.cgfs.state.gov",
-    "id": 20437163764,
-    "entry_timestamp": "2025-08-19T10:43:05.451",
-    "not_before": "2025-08-19T09:44:34",
-    "not_after": "2025-11-17T09:44:33",
-    "serial_number": "06d54c87dfe457e318b2cb98c7adc8f20e03",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295814,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R10",
-    "common_name": "gbiext.cgfs.state.gov",
-    "name_value": "gbiext.cgfs.state.gov",
-    "id": 20435532120,
-    "entry_timestamp": "2025-08-19T10:43:05.114",
-    "not_before": "2025-08-19T09:44:34",
-    "not_after": "2025-11-17T09:44:33",
-    "serial_number": "06d54c87dfe457e318b2cb98c7adc8f20e03",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 247115,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
     "common_name": "data.geodata.state.gov",
@@ -13982,18 +13970,6 @@
   {
     "issuer_ca_id": 239799,
     "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
-    "common_name": "bangkok.ilea.state.gov",
-    "name_value": "bangkok.ilea.state.gov",
-    "id": 20171236251,
-    "entry_timestamp": "2025-08-07T03:13:10.594",
-    "not_before": "2025-07-31T00:00:00",
-    "not_after": "2026-01-31T23:59:59",
-    "serial_number": "026ff0e3908fcf8a30f132c9452de078",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 239799,
-    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
     "common_name": "budapest.ilea.state.gov",
     "name_value": "budapest.ilea.state.gov",
     "id": 20171235900,
@@ -14001,6 +13977,18 @@
     "not_before": "2025-07-30T00:00:00",
     "not_after": "2026-01-30T23:59:59",
     "serial_number": "0b4fa613a3b724b17cfbb4b309739a8e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 239799,
+    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
+    "common_name": "bangkok.ilea.state.gov",
+    "name_value": "bangkok.ilea.state.gov",
+    "id": 20171236251,
+    "entry_timestamp": "2025-08-07T03:13:10.594",
+    "not_before": "2025-07-31T00:00:00",
+    "not_after": "2026-01-31T23:59:59",
+    "serial_number": "026ff0e3908fcf8a30f132c9452de078",
     "result_count": 2
   },
   {

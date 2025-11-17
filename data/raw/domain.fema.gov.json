@@ -1,5 +1,53 @@
 [
   {
+    "issuer_ca_id": 176209,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=GeoTrust EV RSA CA G2",
+    "common_name": "preptoolkit.fema.gov",
+    "name_value": "auth.preptoolkit.fema.gov\ngis.preptoolkit.fema.gov\nmstr.preptoolkit.fema.gov\noneresponder.preptoolkit.fema.gov\npreptoolkit.fema.gov\nris.preptoolkit.fema.gov\nrtlt.preptoolkit.fema.gov\nwww.preptoolkit.fema.gov",
+    "id": 22523900266,
+    "entry_timestamp": "2025-11-17T00:21:38.225",
+    "not_before": "2025-10-20T00:00:00",
+    "not_after": "2026-11-20T23:59:59",
+    "serial_number": "0e45a4860074352103fd8a6c75f366b2",
+    "result_count": 9
+  },
+  {
+    "issuer_ca_id": 176211,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2",
+    "common_name": "msc.fema.gov",
+    "name_value": "msc.fema.gov",
+    "id": 22523402997,
+    "entry_timestamp": "2025-11-16T23:54:38.507",
+    "not_before": "2025-06-20T00:00:00",
+    "not_after": "2026-07-14T23:59:59",
+    "serial_number": "02d588b7967c3586c0d92da1cfc0e049",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 176211,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2",
+    "common_name": "hazards.fema.gov",
+    "name_value": "hazards.fema.gov",
+    "id": 22523381255,
+    "entry_timestamp": "2025-11-16T23:52:49.549",
+    "not_before": "2025-06-20T00:00:00",
+    "not_after": "2026-07-14T23:59:59",
+    "serial_number": "097e4913c97eb04601818da9c64b67c7",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 176211,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2",
+    "common_name": "map1.msc.fema.gov",
+    "name_value": "cfas.msc.fema.gov\nep.msc.fema.gov\nfiletrail.msc.fema.gov\nfloodmaps.fema.gov\nhazus-support.msc.fema.gov\nmap1.msc.fema.gov\np4.msc.fema.gov\nrmd.msc.fema.gov\ntools.hazards.fema.gov\nwww.floodmaps.fema.gov",
+    "id": 22523360479,
+    "entry_timestamp": "2025-11-16T23:51:50.107",
+    "not_before": "2025-06-20T00:00:00",
+    "not_after": "2026-07-14T23:59:59",
+    "serial_number": "0e8d5e1ee070b8d7d9614ed263bf0d5f",
+    "result_count": 11
+  },
+  {
     "issuer_ca_id": 62148,
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust RSA CA 2018",
     "common_name": "preview.dhs.gov",
@@ -7114,17 +7162,5 @@
     "not_after": "2025-11-19T23:59:59",
     "serial_number": "0814951758743bdddd9405fcb89ca0fa",
     "result_count": 17
-  },
-  {
-    "issuer_ca_id": 1671,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2014 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1M",
-    "common_name": "tdl.gis.fema.gov",
-    "name_value": "tdl.gis.fema.gov",
-    "id": 15265245187,
-    "entry_timestamp": "2024-11-08T13:25:13.028",
-    "not_before": "2024-11-08T13:25:12",
-    "not_after": "2025-11-16T13:25:11",
-    "serial_number": "00d2214ac28c7ad958ea3ecbdef8116e6f",
-    "result_count": 2
   }
 ]

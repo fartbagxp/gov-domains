@@ -2,6 +2,42 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "*.rtpnc.epa.gov",
+    "name_value": "*.rtpnc.epa.gov\nrtpnc.epa.gov\nverifyprod9.rtpnc.epa.gov\nverifyprod.rtpnc.epa.gov",
+    "id": 22536084349,
+    "entry_timestamp": "2025-11-17T11:15:01.33",
+    "not_before": "2025-11-17T00:00:00",
+    "not_after": "2026-10-11T23:59:59",
+    "serial_number": "05b0e42feb9cbbb2ec9b2a43e4eed144",
+    "result_count": 5
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "cdxnode.epa.gov",
+    "name_value": "cdxnode.epa.gov",
+    "id": 22518963368,
+    "entry_timestamp": "2025-11-16T20:06:34.018",
+    "not_before": "2025-11-16T00:00:00",
+    "not_after": "2026-11-16T23:59:59",
+    "serial_number": "0c5d4b65e129dad2a91bd23f850d2b91",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "dwsfties-dev-api.epa.gov",
+    "name_value": "activities.dwsfties-dev-api.epa.gov\nauthwrapper.dwsfties-dev-api.epa.gov\ncompliance.dwsfties-dev-api.epa.gov\ndms.dwsfties-dev-api.epa.gov\n*.dwsfties-dev-api.epa.gov\ndwsfties-dev-api.epa.gov\n*.dwsfties-dev.epa.gov\ndwsfties-dev.epa.gov\ninventory.dwsfties-dev-api.epa.gov\nlegalentity.dwsfties-dev-api.epa.gov\nmonitoring.dwsfties-dev-api.epa.gov\nmonitoring-dwsfties-dev-rtp-vip.epa.gov\nmonitoring-dwsfties-dev-wjc-vip.epa.gov\nsampling.dwsfties-dev-api.epa.gov\nsysadmin.dwsfties-dev-api.epa.gov",
+    "id": 22513009592,
+    "entry_timestamp": "2025-11-16T13:55:18.489",
+    "not_before": "2025-03-06T00:00:00",
+    "not_after": "2026-03-05T23:59:59",
+    "serial_number": "05e8ec9ffd4e82ab095f16edfd31ee82",
+    "result_count": 16
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "www3.epa.gov",
     "name_value": "www3.epa.gov",
     "id": 22509778366,
@@ -1882,30 +1918,6 @@
     "not_after": "2026-04-24T23:59:59",
     "serial_number": "0fca3525c812afc2f64072da71949a4a",
     "result_count": 5
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "hfc-ods-reporting.epa.gov",
-    "name_value": "hfc-ods-reporting.epa.gov",
-    "id": 20420530256,
-    "entry_timestamp": "2025-08-18T17:19:33.765",
-    "not_before": "2025-08-18T16:21:03",
-    "not_after": "2025-11-16T16:21:02",
-    "serial_number": "06a7a115eca0b3a4e6e648ce23f802a7ef8f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295815,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R11",
-    "common_name": "hfc-ods-reporting.epa.gov",
-    "name_value": "hfc-ods-reporting.epa.gov",
-    "id": 20420225962,
-    "entry_timestamp": "2025-08-18T17:19:33.539",
-    "not_before": "2025-08-18T16:21:03",
-    "not_after": "2025-11-16T16:21:02",
-    "serial_number": "06a7a115eca0b3a4e6e648ce23f802a7ef8f",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 185752,
@@ -5194,17 +5206,5 @@
     "not_after": "2025-12-09T23:59:59",
     "serial_number": "0c514ee2566478e864fff27f736a3da3",
     "result_count": 14
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "cdxnode.epa.gov",
-    "name_value": "cdxnode.epa.gov",
-    "id": 15213492255,
-    "entry_timestamp": "2024-11-04T20:10:11.911",
-    "not_before": "2024-11-04T00:00:00",
-    "not_after": "2025-11-16T23:59:59",
-    "serial_number": "054bfcc7cfc402ec76cbc3f3553eddcf",
-    "result_count": 2
   }
 ]
