@@ -1,5 +1,77 @@
 [
   {
+    "issuer_ca_id": 422998,
+    "issuer_name": "C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2025 Q4",
+    "common_name": "imperva.com",
+    "name_value": "*.dol.gov",
+    "id": 22583084422,
+    "entry_timestamp": "2025-11-19T07:04:54.938",
+    "not_before": "2025-11-19T07:04:53",
+    "not_after": "2025-11-20T07:03:54",
+    "serial_number": "01fc9c6daf48f9e1e502039396b13b1c",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "syslog.dol.gov",
+    "name_value": "syslog.dol.gov",
+    "id": 22576598499,
+    "entry_timestamp": "2025-11-19T01:32:13.227",
+    "not_before": "2025-11-19T00:00:00",
+    "not_after": "2026-12-18T23:59:59",
+    "serial_number": "018b11ed3cef6faf69856604689b5e8b",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "labornetcontentqa.opadev.dol.gov",
+    "name_value": "labornetcontentqa.opadev.dol.gov\nsearchdev.labornet.opadev.dol.gov",
+    "id": 22566392396,
+    "entry_timestamp": "2025-11-18T15:29:58.079",
+    "not_before": "2025-11-18T00:00:00",
+    "not_after": "2026-12-17T23:59:59",
+    "serial_number": "03888372dc1bfd463ccfb84fa0236ee6",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "qalabornet.dol.gov",
+    "name_value": "qaadmintools.dol.gov\nqalabornet.dol.gov\nqasearch.labornet.dol.gov",
+    "id": 22566294137,
+    "entry_timestamp": "2025-11-18T15:26:05.807",
+    "not_before": "2025-11-18T00:00:00",
+    "not_after": "2026-12-17T23:59:59",
+    "serial_number": "054021410914a3985da6af4732af57df",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "qalabornet.dol.gov",
+    "name_value": "qaadmintools.dol.gov\nqaengineering.dol.gov\nqalabornet.dol.gov\nqasearch.labornet.dol.gov",
+    "id": 22566294015,
+    "entry_timestamp": "2025-11-18T15:26:04.445",
+    "not_before": "2025-11-18T00:00:00",
+    "not_after": "2026-12-17T23:59:59",
+    "serial_number": "0ba6cc1933a4c49a2a5704b141e362b7",
+    "result_count": 5
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "labornetcontentdev.opadev.dol.gov",
+    "name_value": "labornetcontentdev.opadev.dol.gov\nsearchdev.labornet.opadev.dol.gov",
+    "id": 22566147851,
+    "entry_timestamp": "2025-11-18T15:18:16.456",
+    "not_before": "2025-11-18T00:00:00",
+    "not_after": "2026-12-17T23:59:59",
+    "serial_number": "0b596887e3552b9ad516848fefeef7d3",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "enforcedata.dol.gov",
