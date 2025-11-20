@@ -1,5 +1,53 @@
 [
   {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "test1.hcas.hhs.gov",
+    "name_value": "test1.hcas.hhs.gov",
+    "id": 22598638345,
+    "entry_timestamp": "2025-11-19T19:52:53.746",
+    "not_before": "2025-11-19T19:52:53",
+    "not_after": "2026-12-19T19:51:53",
+    "serial_number": "40019a9dad54a7a70c19fc58c593f51e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "apgwdv3.hhs.gov",
+    "name_value": "apgwdv3.hhs.gov",
+    "id": 22594654371,
+    "entry_timestamp": "2025-11-19T16:35:52.306",
+    "not_before": "2025-11-19T16:35:52",
+    "not_after": "2026-12-19T16:34:52",
+    "serial_number": "40019a9cf8f3362468a1d8104fdd2182",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 385516,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust DV TLS Issuing RSA CA 2",
+    "common_name": "ociosgrc.acf.hhs.gov",
+    "name_value": "ociosgrc.acf.hhs.gov\nociosgrc-aw.acf.hhs.gov\nwww.ociosgrc.acf.hhs.gov",
+    "id": 22593691018,
+    "entry_timestamp": "2025-11-19T15:47:24.136",
+    "not_before": "2025-11-19T00:00:00",
+    "not_after": "2026-11-21T23:59:59",
+    "serial_number": "00f0a4e7d68ccbf4ce3d1767bb1f161492",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 385516,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust DV TLS Issuing RSA CA 2",
+    "common_name": "ociosgrc.acf.hhs.gov",
+    "name_value": "ociosgrc.acf.hhs.gov\nociosgrc-aw.acf.hhs.gov\nwww.ociosgrc.acf.hhs.gov",
+    "id": 22593648986,
+    "entry_timestamp": "2025-11-19T15:47:22.877",
+    "not_before": "2025-11-19T00:00:00",
+    "not_after": "2026-11-21T23:59:59",
+    "serial_number": "00f0a4e7d68ccbf4ce3d1767bb1f161492",
+    "result_count": 4
+  },
+  {
     "issuer_ca_id": 246719,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "prepeval.acf.hhs.gov",
@@ -12609,54 +12657,6 @@
     "not_before": "2024-10-21T21:06:02",
     "not_after": "2025-11-20T21:05:02",
     "serial_number": "400192b0e6b5ff187ef7847e51accba1",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "dropboxtest.hhs.gov",
-    "name_value": "dropboxtest.hhs.gov",
-    "id": 15028246687,
-    "entry_timestamp": "2024-10-21T13:07:15.215",
-    "not_before": "2024-10-21T00:00:00",
-    "not_after": "2025-11-19T23:59:59",
-    "serial_number": "0e83bad7edb438f79077ef2e2049be35",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "rpatest.hhs.gov",
-    "name_value": "rpatest.hhs.gov",
-    "id": 15028244589,
-    "entry_timestamp": "2024-10-21T13:05:28.391",
-    "not_before": "2024-10-21T00:00:00",
-    "not_after": "2025-11-19T23:59:59",
-    "serial_number": "03aac444486d9b676c8f579907f2071d",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "soauat.hhs.gov",
-    "name_value": "soauat.hhs.gov",
-    "id": 15028100115,
-    "entry_timestamp": "2024-10-21T12:52:03.211",
-    "not_before": "2024-10-21T00:00:00",
-    "not_after": "2025-11-19T23:59:59",
-    "serial_number": "0f418cc74703411018d52136673defe3",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "cfrsdev.hhs.gov",
-    "name_value": "cfrsdev.hhs.gov",
-    "id": 15028045866,
-    "entry_timestamp": "2024-10-21T12:47:29.481",
-    "not_before": "2024-10-21T00:00:00",
-    "not_after": "2025-11-19T23:59:59",
-    "serial_number": "0fc35e1ccab8bb8fd4f64a2997b8ad53",
     "result_count": 2
   },
   {
