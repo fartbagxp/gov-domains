@@ -1,15 +1,51 @@
 [
   {
-    "issuer_ca_id": 422998,
-    "issuer_name": "C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2025 Q4",
-    "common_name": "imperva.com",
-    "name_value": "*.uat.dol.gov",
-    "id": 22604147734,
-    "entry_timestamp": "2025-11-20T00:30:13.431",
-    "not_before": "2025-11-20T00:30:11",
-    "not_after": "2025-11-21T00:30:11",
-    "serial_number": "01d9b3bd6fed0d63b537f6b238cf8b5f",
-    "result_count": 1
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "dev.flag.dol.gov",
+    "name_value": "dev.api.datahub.dol.gov\ndev.flag.dol.gov",
+    "id": 22629282410,
+    "entry_timestamp": "2025-11-21T00:22:00.752",
+    "not_before": "2025-11-20T23:23:30",
+    "not_after": "2026-02-18T23:23:29",
+    "serial_number": "050d78299ff8234a87717f44ce36fe0ee005",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "dev.ofccptraining.dol.gov",
+    "name_value": "dev.ofccptraining.dol.gov\nofccptraining.dev.pace.dol.gov",
+    "id": 22622532197,
+    "entry_timestamp": "2025-11-20T17:23:48.779",
+    "not_before": "2025-11-20T00:00:00",
+    "not_after": "2026-12-19T23:59:59",
+    "serial_number": "02e9baeb0c884e4639e131c7e70481fb",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 239799,
+    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
+    "common_name": "dev.ofccptraining.dol.gov",
+    "name_value": "dev.ofccptraining.dol.gov",
+    "id": 22622229999,
+    "entry_timestamp": "2025-11-20T17:07:17.964",
+    "not_before": "2025-08-01T00:00:00",
+    "not_after": "2026-02-01T23:59:59",
+    "serial_number": "08655dd6ed5c39fb68215576cacea813",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "dev.ofccptraining.dol.gov",
+    "name_value": "dev.ofccptraining.dol.gov",
+    "id": 22622212099,
+    "entry_timestamp": "2025-11-20T17:07:07.15",
+    "not_before": "2025-11-20T00:00:00",
+    "not_after": "2026-12-19T23:59:59",
+    "serial_number": "0d1c8e088a12ea97c9fb291ebf9d1418",
+    "result_count": 2
   },
   {
     "issuer_ca_id": 239799,
@@ -52,36 +88,12 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "dev.flag.dol.gov",
     "name_value": "dev.flag.dol.gov",
-    "id": 22598148092,
-    "entry_timestamp": "2025-11-19T19:26:11.314",
-    "not_before": "2025-11-19T18:27:41",
-    "not_after": "2026-02-17T18:27:40",
-    "serial_number": "057ff24f4274b0fb576b2fa4e451c60fd046",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "dev.flag.dol.gov",
-    "name_value": "dev.flag.dol.gov",
     "id": 22598136888,
     "entry_timestamp": "2025-11-19T19:26:11.221",
     "not_before": "2025-11-19T18:27:41",
     "not_after": "2026-02-17T18:27:40",
     "serial_number": "057ff24f4274b0fb576b2fa4e451c60fd046",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 422998,
-    "issuer_name": "C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2025 Q4",
-    "common_name": "imperva.com",
-    "name_value": "*.uat.dol.gov",
-    "id": 22594564795,
-    "entry_timestamp": "2025-11-19T16:31:30.88",
-    "not_before": "2025-11-19T16:31:28",
-    "not_after": "2025-11-20T16:31:04",
-    "serial_number": "01424857a8cdd6b001d4cbbb93bc871d",
-    "result_count": 1
   },
   {
     "issuer_ca_id": 247119,
@@ -676,35 +688,11 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "edit.beta.dol.gov",
     "name_value": "edit.beta.dol.gov",
-    "id": 22238961860,
-    "entry_timestamp": "2025-11-05T22:29:56.35",
-    "not_before": "2025-11-05T21:31:23",
-    "not_after": "2026-02-03T21:31:22",
-    "serial_number": "066c14d002494f041e279cb0b5f531b451dc",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "edit.beta.dol.gov",
-    "name_value": "edit.beta.dol.gov",
     "id": 22238959511,
     "entry_timestamp": "2025-11-05T22:29:53.978",
     "not_before": "2025-11-05T21:31:23",
     "not_after": "2026-02-03T21:31:22",
     "serial_number": "066c14d002494f041e279cb0b5f531b451dc",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "beta.dol.gov",
-    "name_value": "beta.dol.gov",
-    "id": 22238958941,
-    "entry_timestamp": "2025-11-05T22:29:53.815",
-    "not_before": "2025-11-05T21:31:23",
-    "not_after": "2026-02-03T21:31:22",
-    "serial_number": "0580e52e4fc29ebdf75ea265a423a6dc10f3",
     "result_count": 2
   },
   {
@@ -924,54 +912,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "service.dol.gov",
-    "name_value": "service.dol.gov",
-    "id": 22140996009,
-    "entry_timestamp": "2025-11-01T15:59:25.721",
-    "not_before": "2025-11-01T15:00:55",
-    "not_after": "2026-01-30T15:00:54",
-    "serial_number": "059c1b5094e0a37dacaca61ea02700746a1d",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "service.dol.gov",
-    "name_value": "service.dol.gov",
-    "id": 22140976737,
-    "entry_timestamp": "2025-11-01T15:59:25.41",
-    "not_before": "2025-11-01T15:00:55",
-    "not_after": "2026-01-30T15:00:54",
-    "serial_number": "059c1b5094e0a37dacaca61ea02700746a1d",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "stage.beta.dol.gov",
-    "name_value": "stage.beta.dol.gov",
-    "id": 22138586711,
-    "entry_timestamp": "2025-11-01T13:19:19.656",
-    "not_before": "2025-11-01T12:20:49",
-    "not_after": "2026-01-30T12:20:48",
-    "serial_number": "0591de1a4f3462f8ffb19466bb12dc533393",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "edit.stage.beta.dol.gov",
-    "name_value": "edit.stage.beta.dol.gov",
-    "id": 22138585593,
-    "entry_timestamp": "2025-11-01T13:19:19.646",
-    "not_before": "2025-11-01T12:20:49",
-    "not_after": "2026-01-30T12:20:48",
-    "serial_number": "0585cd7861ee9a268663a6d861101627b736",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 295817,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "stage.beta.dol.gov",
@@ -1164,66 +1104,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "edit.int.beta.dol.gov",
-    "name_value": "edit.int.beta.dol.gov",
-    "id": 21996067424,
-    "entry_timestamp": "2025-10-25T14:19:36.346",
-    "not_before": "2025-10-25T13:21:04",
-    "not_after": "2026-01-23T13:21:03",
-    "serial_number": "062650645761624782444dd5210d562a68de",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "edit.dev.beta.dol.gov",
-    "name_value": "edit.dev.beta.dol.gov",
-    "id": 21996062899,
-    "entry_timestamp": "2025-10-25T14:19:36.32",
-    "not_before": "2025-10-25T13:21:04",
-    "not_after": "2026-01-23T13:21:03",
-    "serial_number": "06b06ec8bd43a075f31f470f71b393c4ae54",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "dev.beta.dol.gov",
-    "name_value": "dev.beta.dol.gov",
-    "id": 21996079193,
-    "entry_timestamp": "2025-10-25T14:19:34.677",
-    "not_before": "2025-10-25T13:21:04",
-    "not_after": "2026-01-23T13:21:03",
-    "serial_number": "05fd4fc3f33807aad6ae2dcedd4842f73a29",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "test.beta.dol.gov",
-    "name_value": "test.beta.dol.gov",
-    "id": 21996079069,
-    "entry_timestamp": "2025-10-25T14:19:34.565",
-    "not_before": "2025-10-25T13:21:04",
-    "not_after": "2026-01-23T13:21:03",
-    "serial_number": "052bcdf7530810a980e355ee914c026f3fe6",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "int.beta.dol.gov",
-    "name_value": "int.beta.dol.gov",
-    "id": 21996079134,
-    "entry_timestamp": "2025-10-25T14:19:34.504",
-    "not_before": "2025-10-25T13:21:04",
-    "not_after": "2026-01-23T13:21:03",
-    "serial_number": "059b53247ae876db4745bcfde0812121827c",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 295816,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "dev.beta.dol.gov",
@@ -1269,18 +1149,6 @@
     "not_before": "2025-10-25T13:21:04",
     "not_after": "2026-01-23T13:21:03",
     "serial_number": "06b06ec8bd43a075f31f470f71b393c4ae54",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "edit.test.beta.dol.gov",
-    "name_value": "edit.test.beta.dol.gov",
-    "id": 21996079299,
-    "entry_timestamp": "2025-10-25T14:19:34.236",
-    "not_before": "2025-10-25T13:21:03",
-    "not_after": "2026-01-23T13:21:02",
-    "serial_number": "06760b526b4f5ee6cbfe7c3543999818f641",
     "result_count": 2
   },
   {
@@ -1402,54 +1270,6 @@
     "not_after": "2026-11-23T23:59:59",
     "serial_number": "371a24af3aa233a2027125e3c1e278ba",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "dol.gov",
-    "name_value": "argo.ddp.dol.gov\nblog.dol.gov\nd8-edit.dol.gov\nd8-www.dol.gov\nddp-blog.dol.gov\nddp-edit.blog.dol.gov\ndol.gov\nedit.seasonaljobs.dol.gov\nefile.dol.gov\nflag.datahub.dol.gov\ngateway.ddp.dol.gov\nofccptraining.dol.gov\npreview.efile.dol.gov\nsearch.oalj.dol.gov",
-    "id": 21894287356,
-    "entry_timestamp": "2025-10-21T20:28:48.588",
-    "not_before": "2025-10-21T19:30:18",
-    "not_after": "2026-01-19T19:30:17",
-    "serial_number": "06128c00bd1c24af841d3c948fed611b2a63",
-    "result_count": 15
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "dol.gov",
-    "name_value": "argo.ddp.dol.gov\nblog.dol.gov\nd8-edit.dol.gov\nd8-www.dol.gov\nddp-blog.dol.gov\nddp-edit.blog.dol.gov\ndol.gov\nedit.seasonaljobs.dol.gov\nefile.dol.gov\nflag.datahub.dol.gov\ngateway.ddp.dol.gov\nofccptraining.dol.gov\npreview.efile.dol.gov\nsearch.oalj.dol.gov",
-    "id": 21894254874,
-    "entry_timestamp": "2025-10-21T20:28:48.352",
-    "not_before": "2025-10-21T19:30:18",
-    "not_after": "2026-01-19T19:30:17",
-    "serial_number": "06128c00bd1c24af841d3c948fed611b2a63",
-    "result_count": 15
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "d8-test.dol.gov",
-    "name_value": "charts.ddp.dol.gov\nd8-dev.dol.gov\nd8-edit.staging.dol.gov\nd8-staging.dol.gov\nd8-test.dol.gov\ndashboards.ddp.dol.gov\nddp-staging.blog.dol.gov\ndemo.ddp.dol.gov\ndev.blog.dol.gov\ndev.efile.dol.gov\ndeveloper.ddp.dol.gov\ndev-future-theme.dol.gov\ndev-ilab.dol.gov\ndev.oalj.dol.gov\ndev.ofccptraining.dol.gov\ndev-om.efile.dol.gov\neta-dev.dol.gov\neta-staging.dol.gov\neta-test.dol.gov\ngit.ddp.dol.gov\njenkins.ddp.dol.gov\npackages.ddp.dol.gov\npackages-oneweb.ddp.dol.gov\nsonar.ddp.dol.gov\nstaging-argo.ddp.dol.gov\nstaging.blog.dol.gov\nstaging.dol.gov\nstaging.efile.dol.gov\nstaging-future-theme.dol.gov\nstaging-gateway.ddp.dol.gov\nstaging-ilab.dol.gov\nstaging.oalj.dol.gov\nstaging.ofccptraining.dol.gov\nstaging-om.efile.dol.gov\ntest.blog.dol.gov\ntest.efile.dol.gov\ntest-future-theme.dol.gov\ntest-ilab.dol.gov\ntest.oalj.dol.gov\ntest.ofccptraining.dol.gov\ntest-om.efile.dol.gov",
-    "id": 21894026557,
-    "entry_timestamp": "2025-10-21T20:17:07.269",
-    "not_before": "2025-10-21T19:18:36",
-    "not_after": "2026-01-19T19:18:35",
-    "serial_number": "060b7afe0c80a58207ea701c47a3124dc4f8",
-    "result_count": 42
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "d8-test.dol.gov",
-    "name_value": "charts.ddp.dol.gov\nd8-dev.dol.gov\nd8-edit.staging.dol.gov\nd8-staging.dol.gov\nd8-test.dol.gov\ndashboards.ddp.dol.gov\nddp-staging.blog.dol.gov\ndemo.ddp.dol.gov\ndev.blog.dol.gov\ndev.efile.dol.gov\ndeveloper.ddp.dol.gov\ndev-future-theme.dol.gov\ndev-ilab.dol.gov\ndev.oalj.dol.gov\ndev.ofccptraining.dol.gov\ndev-om.efile.dol.gov\neta-dev.dol.gov\neta-staging.dol.gov\neta-test.dol.gov\ngit.ddp.dol.gov\njenkins.ddp.dol.gov\npackages.ddp.dol.gov\npackages-oneweb.ddp.dol.gov\nsonar.ddp.dol.gov\nstaging-argo.ddp.dol.gov\nstaging.blog.dol.gov\nstaging.dol.gov\nstaging.efile.dol.gov\nstaging-future-theme.dol.gov\nstaging-gateway.ddp.dol.gov\nstaging-ilab.dol.gov\nstaging.oalj.dol.gov\nstaging.ofccptraining.dol.gov\nstaging-om.efile.dol.gov\ntest.blog.dol.gov\ntest.efile.dol.gov\ntest-future-theme.dol.gov\ntest-ilab.dol.gov\ntest.oalj.dol.gov\ntest.ofccptraining.dol.gov\ntest-om.efile.dol.gov",
-    "id": 21894028074,
-    "entry_timestamp": "2025-10-21T20:17:07.053",
-    "not_before": "2025-10-21T19:18:36",
-    "not_after": "2026-01-19T19:18:35",
-    "serial_number": "060b7afe0c80a58207ea701c47a3124dc4f8",
-    "result_count": 42
   },
   {
     "issuer_ca_id": 246719,
@@ -2356,18 +2176,6 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "www.dol.gov",
     "name_value": "www.dol.gov",
-    "id": 20972340307,
-    "entry_timestamp": "2025-09-12T16:53:46.995",
-    "not_before": "2025-09-12T15:55:16",
-    "not_after": "2025-12-11T15:55:15",
-    "serial_number": "06083ddb0d3430c8bdd617c27379a89ffbc3",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "www.dol.gov",
-    "name_value": "www.dol.gov",
     "id": 20972340010,
     "entry_timestamp": "2025-09-12T16:53:46.882",
     "not_before": "2025-09-12T15:55:16",
@@ -2572,35 +2380,11 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "beta.dol.gov",
     "name_value": "beta.dol.gov",
-    "id": 20838597750,
-    "entry_timestamp": "2025-09-06T22:20:03.014",
-    "not_before": "2025-09-06T21:21:32",
-    "not_after": "2025-12-05T21:21:31",
-    "serial_number": "051d967278e1fad68bbee6997525243b89cc",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "beta.dol.gov",
-    "name_value": "beta.dol.gov",
     "id": 20841183312,
     "entry_timestamp": "2025-09-06T22:20:02.693",
     "not_before": "2025-09-06T21:21:32",
     "not_after": "2025-12-05T21:21:31",
     "serial_number": "051d967278e1fad68bbee6997525243b89cc",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "edit.beta.dol.gov",
-    "name_value": "edit.beta.dol.gov",
-    "id": 20837722884,
-    "entry_timestamp": "2025-09-06T22:20:02.431",
-    "not_before": "2025-09-06T21:21:32",
-    "not_after": "2025-12-05T21:21:31",
-    "serial_number": "069f7cacb478ea1e7d6c45506aee46cbe442",
     "result_count": 2
   },
   {
@@ -2774,54 +2558,6 @@
   {
     "issuer_ca_id": 295816,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "service.dol.gov",
-    "name_value": "service.dol.gov",
-    "id": 20745618047,
-    "entry_timestamp": "2025-09-02T13:59:37.646",
-    "not_before": "2025-09-02T13:01:07",
-    "not_after": "2025-12-01T13:01:06",
-    "serial_number": "053003ff238a40dec42b13bdde19c50fc3fb",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "service.dol.gov",
-    "name_value": "service.dol.gov",
-    "id": 20745618940,
-    "entry_timestamp": "2025-09-02T13:59:37.498",
-    "not_before": "2025-09-02T13:01:07",
-    "not_after": "2025-12-01T13:01:06",
-    "serial_number": "053003ff238a40dec42b13bdde19c50fc3fb",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "stage.beta.dol.gov",
-    "name_value": "stage.beta.dol.gov",
-    "id": 20745036093,
-    "entry_timestamp": "2025-09-02T13:20:03.816",
-    "not_before": "2025-09-02T12:21:31",
-    "not_after": "2025-12-01T12:21:30",
-    "serial_number": "061804fb6cd7d3d64f448a2266f0808cd82b",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "edit.stage.beta.dol.gov",
-    "name_value": "edit.stage.beta.dol.gov",
-    "id": 20745047787,
-    "entry_timestamp": "2025-09-02T13:20:03.382",
-    "not_before": "2025-09-02T12:21:31",
-    "not_after": "2025-12-01T12:21:30",
-    "serial_number": "05834abced8af5da9cbb18bfe0d5bb74959f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "stage.beta.dol.gov",
     "name_value": "stage.beta.dol.gov",
     "id": 20745031439,
@@ -2930,66 +2666,6 @@
   {
     "issuer_ca_id": 295817,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "dev.beta.dol.gov",
-    "name_value": "dev.beta.dol.gov",
-    "id": 20589014643,
-    "entry_timestamp": "2025-08-26T14:19:09.561",
-    "not_before": "2025-08-26T13:20:34",
-    "not_after": "2025-11-24T13:20:33",
-    "serial_number": "05d8f2530f8466c44affe5ce8356ae8a56bf",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "edit.int.beta.dol.gov",
-    "name_value": "edit.int.beta.dol.gov",
-    "id": 20589014813,
-    "entry_timestamp": "2025-08-26T14:19:09.312",
-    "not_before": "2025-08-26T13:20:34",
-    "not_after": "2025-11-24T13:20:33",
-    "serial_number": "060a929bfeed824528708f45f29baf762b59",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "edit.test.beta.dol.gov",
-    "name_value": "edit.test.beta.dol.gov",
-    "id": 20589013263,
-    "entry_timestamp": "2025-08-26T14:19:07.827",
-    "not_before": "2025-08-26T13:20:34",
-    "not_after": "2025-11-24T13:20:33",
-    "serial_number": "064052c99bb343e784b6da7497b654359e3e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "edit.dev.beta.dol.gov",
-    "name_value": "edit.dev.beta.dol.gov",
-    "id": 20589013302,
-    "entry_timestamp": "2025-08-26T14:19:07.097",
-    "not_before": "2025-08-26T13:20:34",
-    "not_after": "2025-11-24T13:20:33",
-    "serial_number": "05160d9533b26ef6f20fd9693aa81ec1cc0f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "int.beta.dol.gov",
-    "name_value": "int.beta.dol.gov",
-    "id": 20589012857,
-    "entry_timestamp": "2025-08-26T14:19:05.604",
-    "not_before": "2025-08-26T13:20:34",
-    "not_after": "2025-11-24T13:20:33",
-    "serial_number": "06496e4fedf49f3f991c69e66a5a2b5f7656",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "edit.test.beta.dol.gov",
     "name_value": "edit.test.beta.dol.gov",
     "id": 20589012986,
@@ -3045,18 +2721,6 @@
     "not_before": "2025-08-26T13:20:34",
     "not_after": "2025-11-24T13:20:33",
     "serial_number": "06496e4fedf49f3f991c69e66a5a2b5f7656",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "test.beta.dol.gov",
-    "name_value": "test.beta.dol.gov",
-    "id": 20589012765,
-    "entry_timestamp": "2025-08-26T14:19:04.939",
-    "not_before": "2025-08-26T13:20:34",
-    "not_after": "2025-11-24T13:20:33",
-    "serial_number": "05115be7c4e5fbed44c4cb7defc95de870be",
     "result_count": 2
   },
   {
@@ -4185,18 +3849,6 @@
     "not_before": "2025-08-01T00:00:00",
     "not_after": "2026-02-01T23:59:59",
     "serial_number": "0d7bb256b4cffc572c55174986f4b522",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 239799,
-    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
-    "common_name": "test.ofccptraining.dol.gov",
-    "name_value": "test.ofccptraining.dol.gov",
-    "id": 20042362999,
-    "entry_timestamp": "2025-08-01T03:04:16.682",
-    "not_before": "2025-05-20T00:00:00",
-    "not_after": "2025-11-20T23:59:59",
-    "serial_number": "05c1ecb85296ee6773fc26e55da1bb9d",
     "result_count": 2
   },
   {
@@ -5640,30 +5292,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 239799,
-    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
-    "common_name": "staging.ofccptraining.dol.gov",
-    "name_value": "staging.ofccptraining.dol.gov",
-    "id": 18639693833,
-    "entry_timestamp": "2025-05-26T18:11:05.778",
-    "not_before": "2025-05-20T00:00:00",
-    "not_after": "2025-11-20T23:59:59",
-    "serial_number": "08df299b5210a83a3c083fa95b09cf88",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 239799,
-    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
-    "common_name": "dev.ofccptraining.dol.gov",
-    "name_value": "dev.ofccptraining.dol.gov",
-    "id": 18632432242,
-    "entry_timestamp": "2025-05-26T10:17:42.32",
-    "not_before": "2025-05-20T00:00:00",
-    "not_after": "2025-11-20T23:59:59",
-    "serial_number": "03d5c59e86edd8ef5d77d38bd69d0067",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 247106,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
     "common_name": "arpaui-ipp-ok.dol.gov",
@@ -5745,42 +5373,6 @@
     "not_before": "2025-05-21T00:00:00",
     "not_after": "2026-06-19T23:59:59",
     "serial_number": "069bb4f136543843f76e262644b659f6",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 239799,
-    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
-    "common_name": "test.ofccptraining.dol.gov",
-    "name_value": "test.ofccptraining.dol.gov",
-    "id": 18523299526,
-    "entry_timestamp": "2025-05-20T18:46:09.637",
-    "not_before": "2025-05-20T00:00:00",
-    "not_after": "2025-11-20T23:59:59",
-    "serial_number": "05c1ecb85296ee6773fc26e55da1bb9d",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 239799,
-    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
-    "common_name": "staging.ofccptraining.dol.gov",
-    "name_value": "staging.ofccptraining.dol.gov",
-    "id": 18510989266,
-    "entry_timestamp": "2025-05-20T04:03:08.347",
-    "not_before": "2025-05-20T00:00:00",
-    "not_after": "2025-11-20T23:59:59",
-    "serial_number": "08df299b5210a83a3c083fa95b09cf88",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 239799,
-    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
-    "common_name": "dev.ofccptraining.dol.gov",
-    "name_value": "dev.ofccptraining.dol.gov",
-    "id": 18507716678,
-    "entry_timestamp": "2025-05-20T00:20:06.05",
-    "not_before": "2025-05-20T00:00:00",
-    "not_after": "2025-11-20T23:59:59",
-    "serial_number": "03d5c59e86edd8ef5d77d38bd69d0067",
     "result_count": 2
   },
   {
@@ -7786,18 +7378,6 @@
     "not_after": "2026-03-05T23:59:59",
     "serial_number": "0dad5f0b19dfe843d202d9165fa947fa",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 904,
-    "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
-    "common_name": "sem.dol.gov",
-    "name_value": "sem.dol.gov\nwww.sem.dol.gov",
-    "id": 16481915149,
-    "entry_timestamp": "2025-02-01T17:09:36.795",
-    "not_before": "2025-02-01T17:09:36",
-    "not_after": "2026-03-05T17:09:36",
-    "serial_number": "492a4b9e4031de6e",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 365075,

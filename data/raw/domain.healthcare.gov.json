@@ -1,5 +1,41 @@
 [
   {
+    "issuer_ca_id": 185748,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
+    "common_name": "www2.cms.gov",
+    "name_value": "vpn.aws.healthcare.gov",
+    "id": 22624823842,
+    "entry_timestamp": "2025-11-20T19:37:55.811",
+    "not_before": "2025-11-19T00:00:00",
+    "not_after": "2026-02-04T23:59:59",
+    "serial_number": "06b083e768b01af361bc8e9888816b3f",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 185748,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
+    "common_name": "www2.cms.gov",
+    "name_value": "vpn.aws.healthcare.gov",
+    "id": 22593187312,
+    "entry_timestamp": "2025-11-19T15:21:24.205",
+    "not_before": "2025-11-19T00:00:00",
+    "not_after": "2026-02-04T23:59:59",
+    "serial_number": "06b083e768b01af361bc8e9888816b3f",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "www2.cms.gov",
+    "name_value": "vpn.aws.healthcare.gov",
+    "id": 22593171570,
+    "entry_timestamp": "2025-11-19T15:20:46.491",
+    "not_before": "2025-11-19T00:00:00",
+    "not_after": "2026-02-04T23:59:59",
+    "serial_number": "0bc28a2c5b2135cd6c79df2133fae940",
+    "result_count": 1
+  },
+  {
     "issuer_ca_id": 246719,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "app2-elb.test3.healthcare.gov",
@@ -2181,18 +2217,6 @@
     "not_before": "2024-11-14T00:00:00",
     "not_after": "2025-12-14T23:59:59",
     "serial_number": "0df5d0c63b3b98790f8c97ca8f04b186",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "dev.pet-elb.healthcare.gov",
-    "name_value": "dev.pet-elb.healthcare.gov",
-    "id": 15026362730,
-    "entry_timestamp": "2024-10-21T10:00:28.074",
-    "not_before": "2024-10-21T00:00:00",
-    "not_after": "2025-11-19T23:59:59",
-    "serial_number": "0204612ce8645af4d87cb9f7b7642cd7",
     "result_count": 2
   }
 ]

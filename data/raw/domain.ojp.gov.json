@@ -1,5 +1,53 @@
 [
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "itverp.ovc.ojp.gov",
+    "name_value": "itverp-dev.ovc.ojp.gov\nitverp.ovc.ojp.gov\nitverp-qa.ovc.ojp.gov\nitverp-test.ovc.ojp.gov",
+    "id": 22509575551,
+    "entry_timestamp": "2025-11-16T10:32:22.102",
+    "not_before": "2025-02-25T00:00:00",
+    "not_after": "2026-03-28T23:59:59",
+    "serial_number": "0c9f5603b819b7ea0eaa1e024d2bcfe8",
+    "result_count": 5
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "it.ojp.gov",
+    "name_value": "it.ojp.gov\nwww.it.ojp.gov",
+    "id": 22507071833,
+    "entry_timestamp": "2025-11-16T07:59:17.711",
+    "not_before": "2025-02-10T00:00:00",
+    "not_after": "2026-03-13T23:59:59",
+    "serial_number": "040fd476e77d333783259d1a46b74b6a",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "psob.bja.ojp.gov",
+    "name_value": "psob.bja.ojp.gov\nwww.psob.bja.ojp.gov",
+    "id": 22504764452,
+    "entry_timestamp": "2025-11-16T05:45:16.364",
+    "not_before": "2025-01-24T00:00:00",
+    "not_after": "2026-02-24T23:59:59",
+    "serial_number": "0b62b13cb7491a31c09d45c8365ed59d",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "eeop.ocr.ojp.gov",
+    "name_value": "eeop.ocr.ojp.gov",
+    "id": 22504737040,
+    "entry_timestamp": "2025-11-16T05:43:52.76",
+    "not_before": "2025-01-24T00:00:00",
+    "not_after": "2026-02-24T23:59:59",
+    "serial_number": "0c45a7850b037232378a06857b376527",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 204407,
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
     "common_name": "uat.facjj.ojp.gov",
@@ -69,18 +117,6 @@
     "not_before": "2025-11-14T15:16:30",
     "not_after": "2026-02-12T15:16:29",
     "serial_number": "0532410ff1731c1a9dcb7c3c99893ba04470",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "uatnsopw-api.ojp.gov",
-    "name_value": "*.uatnsopw-api.ojp.gov\nuatnsopw-api.ojp.gov",
-    "id": 22466558642,
-    "entry_timestamp": "2025-11-14T15:31:21.967",
-    "not_before": "2025-11-14T14:32:51",
-    "not_after": "2026-02-12T14:32:50",
-    "serial_number": "06072aa0298190954f692b8d7a0c0b76c0df",
     "result_count": 3
   },
   {
@@ -430,6 +466,18 @@
     "not_after": "2026-02-02T10:56:59",
     "serial_number": "009ebeddcbead3053c232b41128c68aa74",
     "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "uat.smart.ojp.gov",
+    "name_value": "uat.smart.ojp.gov",
+    "id": 22189483650,
+    "entry_timestamp": "2025-11-04T00:18:33.692",
+    "not_before": "2025-09-09T00:00:00",
+    "not_after": "2026-10-10T23:59:59",
+    "serial_number": "0b88b9c84125022918d8a78fd21add7b",
+    "result_count": 2
   },
   {
     "issuer_ca_id": 185752,
@@ -976,18 +1024,6 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "vehiclehistory.bja.ojp.gov",
     "name_value": "*.vehiclehistory.bja.ojp.gov\nvehiclehistory.bja.ojp.gov",
-    "id": 21926524861,
-    "entry_timestamp": "2025-10-23T00:19:22.56",
-    "not_before": "2025-10-22T23:20:50",
-    "not_after": "2026-01-20T23:20:49",
-    "serial_number": "05a2ac877ee0d7f7fed99a54cc4b7e6897ae",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "vehiclehistory.bja.ojp.gov",
-    "name_value": "*.vehiclehistory.bja.ojp.gov\nvehiclehistory.bja.ojp.gov",
     "id": 21926494684,
     "entry_timestamp": "2025-10-23T00:19:20.257",
     "not_before": "2025-10-22T23:20:50",
@@ -1356,6 +1392,18 @@
     "result_count": 3
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "ovc.ojp.gov",
+    "name_value": "ovc.ojp.gov\nwww.ovc.ojp.gov",
+    "id": 21695687646,
+    "entry_timestamp": "2025-10-13T16:54:20.305",
+    "not_before": "2025-08-29T00:00:00",
+    "not_after": "2026-09-29T23:59:59",
+    "serial_number": "0b63ad7e282d58c8f26307001155e71f",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "ovc.ojp.gov",
@@ -1552,35 +1600,11 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "nationalgangcenter.ojp.gov",
     "name_value": "*.nationalgangcenter.ojp.gov\nnationalgangcenter.ojp.gov",
-    "id": 21416324005,
-    "entry_timestamp": "2025-10-02T05:37:42.733",
-    "not_before": "2025-10-02T04:39:12",
-    "not_after": "2025-12-31T04:39:11",
-    "serial_number": "055ac3073b5f0abf4addd66fbf206e4c1e9e",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "nationalgangcenter.ojp.gov",
-    "name_value": "*.nationalgangcenter.ojp.gov\nnationalgangcenter.ojp.gov",
     "id": 21414249641,
     "entry_timestamp": "2025-10-02T05:37:42.532",
     "not_before": "2025-10-02T04:39:12",
     "not_after": "2025-12-31T04:39:11",
     "serial_number": "055ac3073b5f0abf4addd66fbf206e4c1e9e",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "nsopw-api.ojp.gov",
-    "name_value": "*.nsopw-api.ojp.gov\nnsopw-api.ojp.gov",
-    "id": 21411619517,
-    "entry_timestamp": "2025-10-02T04:49:55.963",
-    "not_before": "2025-10-02T03:51:23",
-    "not_after": "2025-12-31T03:51:22",
-    "serial_number": "06a0d17f9cf6f5cf58034d42e05fe2aa87a6",
     "result_count": 3
   },
   {
@@ -1617,18 +1641,6 @@
     "not_before": "2025-10-01T00:00:00",
     "not_after": "2025-12-25T18:10:17",
     "serial_number": "5b7e11d8d835a7a8b0b1bdf3d21c5769",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "uat.nationalgangcenter.ojp.gov",
-    "name_value": "*.uat.nationalgangcenter.ojp.gov\nuat.nationalgangcenter.ojp.gov",
-    "id": 21583679967,
-    "entry_timestamp": "2025-10-01T18:40:58.05",
-    "not_before": "2025-10-01T17:42:27",
-    "not_after": "2025-12-30T17:42:26",
-    "serial_number": "057c049dbb22092938d72949a0eabe2728fc",
     "result_count": 3
   },
   {
@@ -1836,6 +1848,18 @@
     "result_count": 3
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "ncirc.bja.ojp.gov",
+    "name_value": "ncirc.bja.ojp.gov",
+    "id": 21340071325,
+    "entry_timestamp": "2025-09-28T14:58:57.914",
+    "not_before": "2025-09-15T00:00:00",
+    "not_after": "2026-10-16T23:59:59",
+    "serial_number": "0809869db17be316072e226457b69815",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 204406,
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
     "common_name": "ojjdp.ojp.gov",
@@ -1905,6 +1929,18 @@
     "not_before": "2025-09-26T00:00:00",
     "not_after": "2025-12-23T05:14:15",
     "serial_number": "00ee32b3608c284d6b43771839b08215ae",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "bjs.ojp.gov",
+    "name_value": "bjs.ojp.gov\nwww.bjs.ojp.gov",
+    "id": 21285828080,
+    "entry_timestamp": "2025-09-26T09:16:36.401",
+    "not_before": "2025-09-09T00:00:00",
+    "not_after": "2026-10-10T23:59:59",
+    "serial_number": "0c63cc2866391e205aa053160e72a732",
     "result_count": 3
   },
   {
@@ -2004,6 +2040,18 @@
     "result_count": 3
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "amberalert.ojp.gov",
+    "name_value": "amberalert.ojp.gov\nwww.amberalert.ojp.gov",
+    "id": 21281514488,
+    "entry_timestamp": "2025-09-26T05:13:13.756",
+    "not_before": "2025-08-29T00:00:00",
+    "not_after": "2026-09-25T23:59:59",
+    "serial_number": "0314fed6284fdc065c40456be9695107",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 204406,
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
     "common_name": "amberalert.ojp.gov",
@@ -2064,6 +2112,18 @@
     "result_count": 3
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "uat.ojp.gov",
+    "name_value": "uat.ojp.gov",
+    "id": 21278616673,
+    "entry_timestamp": "2025-09-26T02:38:49.477",
+    "not_before": "2025-09-04T00:00:00",
+    "not_after": "2026-10-01T23:59:59",
+    "serial_number": "03d1c2a5ddd5624282a1fcefc36fdc65",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 286242,
     "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
     "common_name": "uat.ojp.gov",
@@ -2100,6 +2160,18 @@
     "result_count": 3
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "smart.ojp.gov",
+    "name_value": "smart.ojp.gov\nwww.smart.ojp.gov",
+    "id": 21273189353,
+    "entry_timestamp": "2025-09-25T21:22:01.303",
+    "not_before": "2025-09-09T00:00:00",
+    "not_after": "2026-10-10T23:59:59",
+    "serial_number": "023739cec5a0d0f1739d5b24a92a4ff6",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "smart.ojp.gov",
@@ -2122,6 +2194,18 @@
     "not_after": "2025-12-24T20:06:27",
     "serial_number": "00c70e0a84573f97170e2e29a902c3a715",
     "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "nsopw-api.ojp.gov",
+    "name_value": "nsopw-api.ojp.gov",
+    "id": 21268337203,
+    "entry_timestamp": "2025-09-25T16:19:06.156",
+    "not_before": "2025-09-05T00:00:00",
+    "not_after": "2026-09-17T23:59:59",
+    "serial_number": "0fb63753767c26b71580751226848b71",
+    "result_count": 2
   },
   {
     "issuer_ca_id": 286236,
@@ -2272,18 +2356,6 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "uatnsopw-api.ojp.gov",
     "name_value": "*.uatnsopw-api.ojp.gov\nuatnsopw-api.ojp.gov",
-    "id": 21057963797,
-    "entry_timestamp": "2025-09-16T13:14:41.359",
-    "not_before": "2025-09-16T12:16:08",
-    "not_after": "2025-12-15T12:16:07",
-    "serial_number": "05bc3f28fde78ca2281fc0b709f2ba9c910e",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "uatnsopw-api.ojp.gov",
-    "name_value": "*.uatnsopw-api.ojp.gov\nuatnsopw-api.ojp.gov",
     "id": 21057962711,
     "entry_timestamp": "2025-09-16T13:14:39.052",
     "not_before": "2025-09-16T12:16:08",
@@ -2388,6 +2460,18 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "uat.amberalert.ojp.gov",
+    "name_value": "uat.amberalert.ojp.gov",
+    "id": 21028686789,
+    "entry_timestamp": "2025-09-15T06:35:34.531",
+    "not_before": "2025-08-29T00:00:00",
+    "not_after": "2026-09-10T23:59:59",
+    "serial_number": "0e1bb0bbc021d7ca616e968bbed364f9",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "uat.amberalert.ojp.gov",
@@ -2458,6 +2542,18 @@
     "not_after": "2025-12-13T21:14:06",
     "serial_number": "00ee9525ef2b2f58f01304e4af81f5789e",
     "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "uatnsopw-api.ojp.gov",
+    "name_value": "uatnsopw-api.ojp.gov",
+    "id": 20995065248,
+    "entry_timestamp": "2025-09-13T17:23:39.157",
+    "not_before": "2025-09-05T00:00:00",
+    "not_after": "2026-09-17T23:59:59",
+    "serial_number": "096c9f0e88a9128a69ed086057e50c8c",
+    "result_count": 2
   },
   {
     "issuer_ca_id": 286236,
@@ -2580,6 +2676,18 @@
     "result_count": 5
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "stopelderfraud.ovc.ojp.gov",
+    "name_value": "stopelderfraud.ovc.ojp.gov\nwww.stopelderfraud.ovc.ojp.gov",
+    "id": 20888292070,
+    "entry_timestamp": "2025-09-09T03:08:20.947",
+    "not_before": "2024-12-10T00:00:00",
+    "not_after": "2026-01-10T23:59:59",
+    "serial_number": "0c13dc72274ab2a694e90b7b1c3ad54a",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "ashanti.bja.ojp.gov",
@@ -2618,6 +2726,18 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "UAT.BJATTA.BJA.OJP.GOV",
+    "name_value": "ocp-stage.bjatta.bja.ojp.gov\nrp-stage.bjatta.bja.ojp.gov\nstage.bjatta.bja.ojp.gov\nUAT.BJATTA.BJA.OJP.GOV\nvarnish-stage.bjatta.bja.ojp.gov",
+    "id": 20877821536,
+    "entry_timestamp": "2025-09-08T16:20:52.418",
+    "not_before": "2025-09-08T00:00:00",
+    "not_after": "2026-10-09T23:59:59",
+    "serial_number": "08b5d86ec216e8ec73c0ba94d7394669",
+    "result_count": 6
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "BJATTA.BJA.OJP.GOV",
     "name_value": "BJATTA.BJA.OJP.GOV\nocp.bjatta.bja.ojp.gov\nrp.bjatta.bja.ojp.gov\nvarnish.bjatta.bja.ojp.gov\nwww.bjatta.bja.ojp.gov",
     "id": 20877782115,
@@ -2626,6 +2746,42 @@
     "not_after": "2026-10-09T23:59:59",
     "serial_number": "08012033205e233dc87e8b39349706e6",
     "result_count": 6
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "learn.bjs.ojp.gov",
+    "name_value": "learn.bjs.ojp.gov",
+    "id": 20865353096,
+    "entry_timestamp": "2025-09-08T05:09:13.329",
+    "not_before": "2024-11-22T00:00:00",
+    "not_after": "2025-12-11T23:59:59",
+    "serial_number": "0d3207e6a5b701ec101596b10d14fab7",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "uat.namus.nij.ojp.gov",
+    "name_value": "uat.namus.nij.ojp.gov",
+    "id": 20865036524,
+    "entry_timestamp": "2025-09-08T04:49:31.579",
+    "not_before": "2024-11-25T00:00:00",
+    "not_after": "2025-12-26T23:59:59",
+    "serial_number": "0bf15ba5c9a4bb990754f9e221767005",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "uat.crimesolutions.ojp.gov",
+    "name_value": "uat.crimesolutions.ojp.gov",
+    "id": 20864806941,
+    "entry_timestamp": "2025-09-08T04:35:57.654",
+    "not_before": "2024-11-22T00:00:00",
+    "not_after": "2025-12-23T23:59:59",
+    "serial_number": "01e7d01934a2f8ee6335935910386b18",
+    "result_count": 2
   },
   {
     "issuer_ca_id": 286236,
@@ -2650,6 +2806,18 @@
     "not_after": "2025-12-07T02:06:10",
     "serial_number": "008f396e75522909e013a9db93d388cab7",
     "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "uat.ovc.ojp.gov",
+    "name_value": "uat.ovc.ojp.gov",
+    "id": 20861831182,
+    "entry_timestamp": "2025-09-08T01:34:35.785",
+    "not_before": "2025-08-29T00:00:00",
+    "not_after": "2026-09-10T23:59:59",
+    "serial_number": "0f6ed04e0c3037d786561090e73e5041",
+    "result_count": 2
   },
   {
     "issuer_ca_id": 286236,
@@ -3206,6 +3374,54 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "uat.bja.ojp.gov",
+    "name_value": "uat.bja.ojp.gov",
+    "id": 19977299610,
+    "entry_timestamp": "2025-07-29T03:40:13.783",
+    "not_before": "2025-06-24T00:00:00",
+    "not_after": "2026-07-25T23:59:59",
+    "serial_number": "0256a407cbe6e3f6959589a5d190934e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "nsopw.ojp.gov",
+    "name_value": "nsopw.ojp.gov\nwww.nsopw.ojp.gov",
+    "id": 19973414526,
+    "entry_timestamp": "2025-07-28T23:29:25.81",
+    "not_before": "2025-06-24T00:00:00",
+    "not_after": "2026-07-25T23:59:59",
+    "serial_number": "08530a3ae6c738c41a4afd06c5770ed9",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "bja.ojp.gov",
+    "name_value": "bja.ojp.gov\nwww.bja.ojp.gov",
+    "id": 19939239176,
+    "entry_timestamp": "2025-07-27T10:53:11.522",
+    "not_before": "2025-06-24T00:00:00",
+    "not_after": "2026-07-25T23:59:59",
+    "serial_number": "03649d262299a47e376a801bbc5170a0",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "www.ojp.gov",
+    "name_value": "ojp.gov\nwww.ojp.gov",
+    "id": 19867748812,
+    "entry_timestamp": "2025-07-24T02:39:30.817",
+    "not_before": "2025-07-14T00:00:00",
+    "not_after": "2026-08-14T23:59:59",
+    "serial_number": "080cd582168808a991bdee4ac67001f0",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "www.ojp.gov",
     "name_value": "ojp.gov\nwww.ojp.gov",
     "id": 19664672404,
@@ -3302,6 +3518,30 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "uat.ojjdp.ojp.gov",
+    "name_value": "uat.ojjdp.ojp.gov",
+    "id": 19273047948,
+    "entry_timestamp": "2025-06-26T19:43:45.075",
+    "not_before": "2025-05-29T00:00:00",
+    "not_after": "2026-06-29T23:59:59",
+    "serial_number": "065c50e07b7d65635efec891ca5e27e8",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "devint-altapi.ojp.gov",
+    "name_value": "devint-altapianalytics.ojp.gov\ndevint-altapiei.ojp.gov\ndevint-altapik.ojp.gov\ndevint-altapi.ojp.gov\ndevint-altapitraffic.ojp.gov",
+    "id": 19230730903,
+    "entry_timestamp": "2025-06-24T19:16:01.631",
+    "not_before": "2025-06-24T00:00:00",
+    "not_after": "2026-07-25T23:59:59",
+    "serial_number": "037391e4e0c272ed7bbc91c88c74c17f",
+    "result_count": 6
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "dev.nsopw.ojp.gov",
     "name_value": "dev.nsopw.ojp.gov",
     "id": 19226068475,
@@ -3350,6 +3590,18 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "PMT-dev.ojp.gov",
+    "name_value": "dev-bjapmt2.ojp.gov\ndev-bjapmt.ojp.gov\ndev-ojjdpcompliance.ojp.gov\ndev-ojjdppmt.ojp.gov\ndev-ojpsso.ojp.gov\ndev-ovcpmt.ojp.gov\nPMT-dev.ojp.gov",
+    "id": 19225850535,
+    "entry_timestamp": "2025-06-24T13:47:07.29",
+    "not_before": "2025-06-24T00:00:00",
+    "not_after": "2026-07-25T23:59:59",
+    "serial_number": "0f4b260ab56d42f58910a65838906d75",
+    "result_count": 8
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "uat.bja.ojp.gov",
     "name_value": "uat.bja.ojp.gov",
     "id": 19225295781,
@@ -3374,6 +3626,18 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "ojjdp.ojp.gov",
+    "name_value": "ojjdp.ojp.gov\nwww.ojjdp.ojp.gov",
+    "id": 19077660227,
+    "entry_timestamp": "2025-06-17T16:58:23.689",
+    "not_before": "2025-05-29T00:00:00",
+    "not_after": "2026-06-29T23:59:59",
+    "serial_number": "0d8658d5896705934f4e53e381b08383",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "uat.ojjdp.ojp.gov",
     "name_value": "uat.ojjdp.ojp.gov",
     "id": 18691766411,
@@ -3386,6 +3650,18 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "dev.ojjdp.ojp.gov",
+    "name_value": "admin.ojjdp.ojp.gov\ndev-admin.ojjdp.ojp.gov\ndev.ojjdp.ojp.gov\ntest-admin.ojjdp.ojp.gov\ntest.ojjdp.ojp.gov\nuat-admin.ojjdp.ojp.gov",
+    "id": 18691629369,
+    "entry_timestamp": "2025-05-29T13:15:20.899",
+    "not_before": "2025-05-29T00:00:00",
+    "not_after": "2026-06-29T23:59:59",
+    "serial_number": "0a841e259dcbf886aba982375db0fb20",
+    "result_count": 7
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "ojjdp.ojp.gov",
     "name_value": "ojjdp.ojp.gov\nwww.ojjdp.ojp.gov",
     "id": 18691600539,
@@ -3394,6 +3670,42 @@
     "not_after": "2026-06-29T23:59:59",
     "serial_number": "0d8658d5896705934f4e53e381b08383",
     "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "DEV.OJP.GOV",
+    "name_value": "dev-amd.ojp.gov\ndev-apianalytics.ojp.gov\ndev-apik.ojp.gov\ndev-api.ojp.gov\ndev-data.ojp.gov\ndev-facjj.ojp.gov\ndev-nij.ojp.gov\ndev-ojjdp.ojp.gov\nDEV.OJP.GOV\ndev-prms.ojp.gov\ndev-www.ojp.gov",
+    "id": 18541300701,
+    "entry_timestamp": "2025-05-21T17:11:30.397",
+    "not_before": "2025-05-21T00:00:00",
+    "not_after": "2026-06-21T23:59:59",
+    "serial_number": "0132de5c97818d2e0bca71b9904ff7bc",
+    "result_count": 12
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "UAT.OJP.GOV",
+    "name_value": "uat-apianalytics.ojp.gov\nuat-apik.ojp.gov\nuat-api.ojp.gov\nuat-bjapmt2.ojp.gov\nuat-bjapmt.ojp.gov\nuat-data.ojp.gov\nuat-facjj.ojp.gov\nuat-ojjdpcompliance.ojp.gov\nuat-ojjdppmt.ojp.gov\nUAT.OJP.GOV\nuat-ojpsso.ojp.gov\nuat-ovcpmt.ojp.gov\nuat-prms.ojp.gov\nuat-www.ojp.gov",
+    "id": 18541268850,
+    "entry_timestamp": "2025-05-21T17:09:12.955",
+    "not_before": "2025-05-21T00:00:00",
+    "not_after": "2026-06-21T23:59:59",
+    "serial_number": "0f5d41a2fe755d797915ea66304f659d",
+    "result_count": 15
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "ashanti.bja.ojp.gov",
+    "name_value": "ashanti.bja.ojp.gov",
+    "id": 18390472341,
+    "entry_timestamp": "2025-05-13T23:44:49.082",
+    "not_before": "2025-03-10T00:00:00",
+    "not_after": "2026-04-10T23:59:59",
+    "serial_number": "0eb2a74922aeb648e6c8831cdc36c44d",
+    "result_count": 2
   },
   {
     "issuer_ca_id": 185752,
@@ -3470,6 +3782,54 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "DEV.OJP.GOV",
+    "name_value": "dev-amd.ojp.gov\ndev-apianalytics.ojp.gov\ndev-api.ojp.gov\ndev-data.ojp.gov\ndev-facjj.ojp.gov\ndev-nij.ojp.gov\ndev-ojjdp.ojp.gov\nDEV.OJP.GOV\ndev-prms.ojp.gov\ndev-www.ojp.gov",
+    "id": 18235696197,
+    "entry_timestamp": "2025-05-05T14:20:39.583",
+    "not_before": "2025-05-05T00:00:00",
+    "not_after": "2026-06-05T23:59:59",
+    "serial_number": "0c7675a804e76957c52e4642ce0c7baf",
+    "result_count": 11
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "UAT.OJP.GOV",
+    "name_value": "uat-apianalytics.ojp.gov\nuat-api.ojp.gov\nuat-bjapmt2.ojp.gov\nuat-bjapmt.ojp.gov\nuat-data.ojp.gov\nuat-facjj.ojp.gov\nuat-ojjdpcompliance.ojp.gov\nuat-ojjdppmt.ojp.gov\nUAT.OJP.GOV\nuat-ojpsso.ojp.gov\nuat-ovcpmt.ojp.gov\nuat-prms.ojp.gov\nuat-www.ojp.gov",
+    "id": 18235600828,
+    "entry_timestamp": "2025-05-05T14:12:58.746",
+    "not_before": "2025-05-05T00:00:00",
+    "not_after": "2026-06-05T23:59:59",
+    "serial_number": "0e903f272318f93c86ddb21b36037842",
+    "result_count": 14
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "HOTFIX.OJP.GOV",
+    "name_value": "hot-bjapmt2.ojp.gov\nhot-bjapmt.ojp.gov\nHOTFIX.OJP.GOV\nhot-ojjdpcompliance.ojp.gov\nhot-ojjdppmt.ojp.gov\nhot-ojpsso.ojp.gov\nhot-ovcpmt.ojp.gov",
+    "id": 18235472601,
+    "entry_timestamp": "2025-05-05T14:02:29.107",
+    "not_before": "2025-05-05T00:00:00",
+    "not_after": "2026-06-05T23:59:59",
+    "serial_number": "066817cd8eac62e7a572b0c3fe25aeef",
+    "result_count": 8
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "ojp.gov",
+    "name_value": "amd.ojp.gov\napianalytics.ojp.gov\napik.ojp.gov\napi.ojp.gov\nbjapmt2.ojp.gov\nbjapmt.ojp.gov\ndata.ojp.gov\nojjdpcompliance.ojp.gov\nojjdppmt.ojp.gov\nojp.gov\nojpsso.ojp.gov\novcpmt.ojp.gov\nprms.ojp.gov",
+    "id": 18235399863,
+    "entry_timestamp": "2025-05-05T13:57:04.875",
+    "not_before": "2025-05-05T00:00:00",
+    "not_after": "2026-06-05T23:59:59",
+    "serial_number": "0839da8d79c484e6d8e0560ec8150b98",
+    "result_count": 14
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "dev.htcbc.ovc.ojp.gov",
     "name_value": "dev.htcbc.ovc.ojp.gov\ntest.htcbc.ovc.ojp.gov",
     "id": 18113414948,
@@ -3513,6 +3873,66 @@
     "not_before": "2025-04-28T00:00:00",
     "not_after": "2026-05-29T23:59:59",
     "serial_number": "0be6bb45da37fc4b22e6d7a81d611988",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "uat.juvenilecouncil.ojp.gov",
+    "name_value": "uat.juvenilecouncil.ojp.gov",
+    "id": 17976954093,
+    "entry_timestamp": "2025-04-21T12:01:23.873",
+    "not_before": "2025-03-31T00:00:00",
+    "not_after": "2026-05-01T23:59:59",
+    "serial_number": "0c4d76ab77a0317a82d6def8c4021882",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "juvenilecouncil.ojp.gov",
+    "name_value": "juvenilecouncil.ojp.gov\nwww.juvenilecouncil.ojp.gov",
+    "id": 17947301575,
+    "entry_timestamp": "2025-04-19T23:03:00.373",
+    "not_before": "2025-03-31T00:00:00",
+    "not_after": "2026-05-01T23:59:59",
+    "serial_number": "0b2a3ec5de0e1ce28bc0c6f512f3cefd",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "nij.ojp.gov",
+    "name_value": "nij.ojp.gov\nwww.nij.ojp.gov",
+    "id": 17941274960,
+    "entry_timestamp": "2025-04-19T14:28:27.405",
+    "not_before": "2025-02-25T00:00:00",
+    "not_after": "2026-03-28T23:59:59",
+    "serial_number": "05d445dc04c4423d2147267847d1ebbb",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "facjj.ojp.gov",
+    "name_value": "facjj.ojp.gov\nwww.facjj.ojp.gov",
+    "id": 17937034331,
+    "entry_timestamp": "2025-04-19T08:16:54.499",
+    "not_before": "2025-02-06T00:00:00",
+    "not_after": "2026-03-09T23:59:59",
+    "serial_number": "07d74ec5a3b7df072661d31dbf46d0b6",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "uat.facjj.ojp.gov",
+    "name_value": "uat.facjj.ojp.gov\nwww.uat.facjj.ojp.gov",
+    "id": 17748765694,
+    "entry_timestamp": "2025-04-09T22:23:39.481",
+    "not_before": "2025-02-06T00:00:00",
+    "not_after": "2026-03-09T23:59:59",
+    "serial_number": "021f8fa4be050ed0ca5540be0d7d1af4",
     "result_count": 3
   },
   {
@@ -3650,6 +4070,18 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "crimesolutions.ojp.gov",
+    "name_value": "crimesolutions.ojp.gov\nwww.crimesolutions.ojp.gov",
+    "id": 16774498475,
+    "entry_timestamp": "2025-02-19T20:16:50.048",
+    "not_before": "2024-11-22T00:00:00",
+    "not_after": "2025-12-23T23:59:59",
+    "serial_number": "06ab640530b86dec2a0c2ed641785eb0",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "it.ojp.gov",
     "name_value": "it.ojp.gov\nwww.it.ojp.gov",
     "id": 16658056709,
@@ -3778,6 +4210,66 @@
     "not_after": "2026-02-24T23:59:59",
     "serial_number": "0b62b13cb7491a31c09d45c8365ed59d",
     "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "namus.nij.ojp.gov",
+    "name_value": "namus.nij.ojp.gov\nwww.namus.nij.ojp.gov",
+    "id": 15983004199,
+    "entry_timestamp": "2025-01-03T00:52:39.679",
+    "not_before": "2024-11-25T00:00:00",
+    "not_after": "2025-12-26T23:59:59",
+    "serial_number": "050e092b7a57783d14607b69e06be239",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "DEV.BJATTA.BJA.OJP.GOV",
+    "name_value": "DEV.BJATTA.BJA.OJP.GOV\ngit.bjatta.bja.ojp.gov\nissues.bjatta.bja.ojp.gov\nocp-dev.bjatta.bja.ojp.gov\nocp-test.bjatta.bja.ojp.gov\nrp-dev.bjatta.bja.ojp.gov\nrp-test.bjatta.bja.ojp.gov\ntest.bjatta.bja.ojp.gov\nvarnish-dev.bjatta.bja.ojp.gov\nvarnish-test.bjatta.bja.ojp.gov",
+    "id": 15980007027,
+    "entry_timestamp": "2025-01-02T21:55:23.179",
+    "not_before": "2025-01-02T00:00:00",
+    "not_after": "2026-02-02T23:59:59",
+    "serial_number": "0c1c834d10de5cb680e6ea7643632391",
+    "result_count": 11
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "vehiclehistory.bja.ojp.gov",
+    "name_value": "vehiclehistory.bja.ojp.gov",
+    "id": 15824012065,
+    "entry_timestamp": "2024-12-19T23:03:43.646",
+    "not_before": "2024-12-10T00:00:00",
+    "not_after": "2026-01-10T23:59:59",
+    "serial_number": "0e081c02e40af3943f20693d7049b972",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "uat.vehiclehistory.bja.ojp.gov",
+    "name_value": "uat.vehiclehistory.bja.ojp.gov",
+    "id": 15823988670,
+    "entry_timestamp": "2024-12-19T23:01:46.177",
+    "not_before": "2024-12-10T00:00:00",
+    "not_after": "2026-01-10T23:59:59",
+    "serial_number": "0cf21c1fbc7a2511b86ca9dea919808c",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "admin.vehiclehistory.bja.ojp.gov",
+    "name_value": "admin.vehiclehistory.bja.ojp.gov\ndev-admin.vehiclehistory.bja.ojp.gov\ndev.vehiclehistory.bja.ojp.gov\nuat-admin.vehiclehistory.bja.ojp.gov",
+    "id": 15700966183,
+    "entry_timestamp": "2024-12-10T19:10:59.972",
+    "not_before": "2024-12-10T00:00:00",
+    "not_after": "2026-01-10T23:59:59",
+    "serial_number": "0dcd50765a382f94e77a695b4884a565",
+    "result_count": 5
   },
   {
     "issuer_ca_id": 185752,
@@ -4150,6 +4642,18 @@
     "not_after": "2025-12-23T23:59:59",
     "serial_number": "01e7d01934a2f8ee6335935910386b18",
     "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "admin.crimesolutions.ojp.gov",
+    "name_value": "admin.crimesolutions.ojp.gov\ndev-admin.crimesolutions.ojp.gov\ndev.crimesolutions.ojp.gov\nuat-admin.crimesolutions.ojp.gov",
+    "id": 15457879517,
+    "entry_timestamp": "2024-11-22T18:54:04.42",
+    "not_before": "2024-11-22T00:00:00",
+    "not_after": "2025-12-23T23:59:59",
+    "serial_number": "0f550c700ff2003593c2e2ab1f936e13",
+    "result_count": 5
   },
   {
     "issuer_ca_id": 185752,
