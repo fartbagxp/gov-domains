@@ -1,5 +1,89 @@
 [
   {
+    "issuer_ca_id": 185748,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
+    "common_name": "nhtsa.dot.gov",
+    "name_value": "egrants.nhtsa.dot.gov\negrants-preprod.nhtsa.dot.gov\negrants-staging.nhtsa.dot.gov\nncap-api.nhtsa.dot.gov\nncap.nhtsa.dot.gov\nnhtsa.dot.gov",
+    "id": 22653073359,
+    "entry_timestamp": "2025-11-22T01:17:57.587",
+    "not_before": "2025-05-07T00:00:00",
+    "not_after": "2026-01-30T23:59:59",
+    "serial_number": "0f7eccc6610607cea1b4d6387a486224",
+    "result_count": 7
+  },
+  {
+    "issuer_ca_id": 185748,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
+    "common_name": "nhtsa.dot.gov",
+    "name_value": "egrants.nhtsa.dot.gov\negrants-preprod.nhtsa.dot.gov\negrants-staging.nhtsa.dot.gov\nncap-api.nhtsa.dot.gov\nncap.nhtsa.dot.gov\nnhtsa.dot.gov\nwebsat.nhtsa.dot.gov\nwebsat-stage.nhtsa.dot.gov",
+    "id": 22646374703,
+    "entry_timestamp": "2025-11-21T18:25:20.555",
+    "not_before": "2025-11-21T00:00:00",
+    "not_after": "2026-01-30T23:59:59",
+    "serial_number": "037b9de42c5e387c759d81cb31e0a68b",
+    "result_count": 9
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "nhtsa.dot.gov",
+    "name_value": "egrants.nhtsa.dot.gov\negrants-preprod.nhtsa.dot.gov\negrants-staging.nhtsa.dot.gov\nncap-api.nhtsa.dot.gov\nncap.nhtsa.dot.gov\nnhtsa.dot.gov\nwebsat.nhtsa.dot.gov\nwebsat-stage.nhtsa.dot.gov",
+    "id": 22646206923,
+    "entry_timestamp": "2025-11-21T18:14:06.623",
+    "not_before": "2025-11-21T00:00:00",
+    "not_after": "2026-01-30T23:59:59",
+    "serial_number": "08274d96e977e4be8ee4b749bdd862ee",
+    "result_count": 9
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "phmsatv.ad.dot.gov",
+    "name_value": "phmsatv.ad.dot.gov\nwww.phmsatv.ad.dot.gov",
+    "id": 22643701940,
+    "entry_timestamp": "2025-11-21T15:30:51.726",
+    "not_before": "2025-11-21T00:00:00",
+    "not_after": "2026-11-21T23:59:59",
+    "serial_number": "0b1abad6a65f8af89355274d4508c51c",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "phmsatv.ad.dot.gov",
+    "name_value": "phmsatv.ad.dot.gov\nwww.phmsatv.ad.dot.gov",
+    "id": 22643689760,
+    "entry_timestamp": "2025-11-21T15:30:50.974",
+    "not_before": "2025-11-21T00:00:00",
+    "not_after": "2026-11-21T23:59:59",
+    "serial_number": "0b1abad6a65f8af89355274d4508c51c",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "ftafmsdev.ad.dot.gov",
+    "name_value": "ftafmsdev.ad.dot.gov\nwww.ftahqelas013vg-fms.ad.dot.gov",
+    "id": 22641932363,
+    "entry_timestamp": "2025-11-21T13:31:49.531",
+    "not_before": "2025-11-21T00:00:00",
+    "not_after": "2026-11-21T23:59:59",
+    "serial_number": "697ffbc78f34d8c6aad3d4dec8b83180",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "ftafmsdev.ad.dot.gov",
+    "name_value": "ftafmsdev.ad.dot.gov\nwww.ftahqelas013vg-fms.ad.dot.gov",
+    "id": 22641915749,
+    "entry_timestamp": "2025-11-21T13:31:48.45",
+    "not_before": "2025-11-21T00:00:00",
+    "not_after": "2026-11-21T23:59:59",
+    "serial_number": "697ffbc78f34d8c6aad3d4dec8b83180",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "ask.fmcsa.dot.gov",
@@ -3334,30 +3418,6 @@
     "not_after": "2026-09-04T23:59:59",
     "serial_number": "00a302a2310b85736952d314ff38310bb5",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "cms7.dot.gov",
-    "name_value": "acquia-origin.fmcsa.dot.gov\nacquia-origin.volpe.dot.gov\ncms7.bts.dot.gov\ncms7.dot.gov\ncms7.fhwa.dot.gov\ncms7.fmcsa.dot.gov\ncms7.fra.dot.gov\ncms7.fta.dot.gov\ncms7.marad.dot.gov\ncms7.phmsa.dot.gov\ncms7.seaway.dot.gov\ncms.secure.dot.gov\nfmcsa.lms.dot.gov\nfmcsa.portal.dot.gov\nhighways.fhwa.dot.gov\nlb-dotgov.dot.gov\nlb-dotsecure.dot.gov\norigin-www2.fta.dot.gov\norigin-www.fmcsa.dot.gov\nscore.fmcsa.dot.gov\nsecure.dot.gov\nsfm.fmcsa.dot.gov\nwww7.bts.dot.gov\nwww7.fmcsa.dot.gov\nwww7.fta.dot.gov\nwww7.highways.dot.gov\nwww7.phmsa.dot.gov\nwww.cms7.dot.gov",
-    "id": 20791321663,
-    "entry_timestamp": "2025-09-04T20:02:17.946",
-    "not_before": "2024-10-21T19:53:48",
-    "not_after": "2025-11-21T19:53:46",
-    "serial_number": "44f8d6b46f26f8a0f8ba38ea765d4333",
-    "result_count": 29
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "www.dot.gov",
-    "name_value": "buildamerica.dot.gov\ncms.aviation.dot.gov\ncms.bts.dot.gov\ncms.buildamerica.dot.gov\ncms.dot.gov\ncms.dotnet.dot.gov\ncms.fhwa.dot.gov\ncms.fmcsa.dot.gov\ncms.fta.dot.gov\ncms.marad.dot.gov\ncms.nhtsa.dot.gov\ncms.phmsa.dot.gov\ncms.seaway.dot.gov\ncms.tsm.nhtsa.dot.gov\ncms.volpe.dot.gov\ndotcms.fra.dot.gov\ndot.gov\ndotnet.dot.gov\nfaaavs.portal.dot.gov\nfmcsa.elms.dot.gov\nfra.portal.dot.gov\nhazmat.dot.gov\nhazmatsafety.dot.gov\nhighways.dot.gov\nlb-dotcms.dot.gov\nlb-dotfaaportal.dot.gov\nlb-dotlms.dot.gov\nlb-dotnhtsa.dot.gov\nlb-dotportal.dot.gov\nmaradtraining.dot.gov\nmaritime.dot.gov\nmy-faa.dot.gov\norigin-www.portal.dot.gov\nphmsa.dot.gov\npipelinesafety.dot.gov\nportal.dot.gov\nrailroads.dot.gov\nrailroads.fra.dot.gov\ntransit.dot.gov\nwww8.highways.dot.gov\nwww.bts.dot.gov\nwww.dot.gov\nwww.fmcsa.dot.gov\nwww.fta.dot.gov\nwww.maritime.dot.gov\nwww.phmsa.dot.gov\nwww.seaway.dot.gov\nwww.transit.dot.gov\nwww.volpe.dot.gov",
-    "id": 20790098226,
-    "entry_timestamp": "2025-09-04T18:33:10.565",
-    "not_before": "2024-10-21T19:55:41",
-    "not_after": "2025-11-21T19:55:40",
-    "serial_number": "48874f6436544f36308991c44eb0d70a",
-    "result_count": 50
   },
   {
     "issuer_ca_id": 385512,
@@ -10726,41 +10786,5 @@
     "not_after": "2025-11-23T19:20:28",
     "serial_number": "67895d11423a0d2bd57999325267bbd4",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "www.dot.gov",
-    "name_value": "buildamerica.dot.gov\ncms.aviation.dot.gov\ncms.bts.dot.gov\ncms.buildamerica.dot.gov\ncms.dot.gov\ncms.dotnet.dot.gov\ncms.fhwa.dot.gov\ncms.fmcsa.dot.gov\ncms.fta.dot.gov\ncms.marad.dot.gov\ncms.nhtsa.dot.gov\ncms.phmsa.dot.gov\ncms.seaway.dot.gov\ncms.tsm.nhtsa.dot.gov\ncms.volpe.dot.gov\ndotcms.fra.dot.gov\ndot.gov\ndotnet.dot.gov\nfaaavs.portal.dot.gov\nfmcsa.elms.dot.gov\nfra.portal.dot.gov\nhazmat.dot.gov\nhazmatsafety.dot.gov\nhighways.dot.gov\nlb-dotcms.dot.gov\nlb-dotfaaportal.dot.gov\nlb-dotlms.dot.gov\nlb-dotnhtsa.dot.gov\nlb-dotportal.dot.gov\nmaradtraining.dot.gov\nmaritime.dot.gov\nmy-faa.dot.gov\norigin-www.portal.dot.gov\nphmsa.dot.gov\npipelinesafety.dot.gov\nportal.dot.gov\nrailroads.dot.gov\nrailroads.fra.dot.gov\ntransit.dot.gov\nwww8.highways.dot.gov\nwww.bts.dot.gov\nwww.dot.gov\nwww.fmcsa.dot.gov\nwww.fta.dot.gov\nwww.maritime.dot.gov\nwww.phmsa.dot.gov\nwww.seaway.dot.gov\nwww.transit.dot.gov\nwww.volpe.dot.gov",
-    "id": 15032391762,
-    "entry_timestamp": "2024-10-21T19:55:41.577",
-    "not_before": "2024-10-21T19:55:41",
-    "not_after": "2025-11-21T19:55:40",
-    "serial_number": "48874f6436544f36308991c44eb0d70a",
-    "result_count": 50
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "cms7.dot.gov",
-    "name_value": "acquia-origin.fmcsa.dot.gov\nacquia-origin.volpe.dot.gov\ncms7.bts.dot.gov\ncms7.dot.gov\ncms7.fhwa.dot.gov\ncms7.fmcsa.dot.gov\ncms7.fra.dot.gov\ncms7.fta.dot.gov\ncms7.marad.dot.gov\ncms7.phmsa.dot.gov\ncms7.seaway.dot.gov\ncms.secure.dot.gov\nfmcsa.lms.dot.gov\nfmcsa.portal.dot.gov\nhighways.fhwa.dot.gov\nlb-dotgov.dot.gov\nlb-dotsecure.dot.gov\norigin-www2.fta.dot.gov\norigin-www.fmcsa.dot.gov\nscore.fmcsa.dot.gov\nsecure.dot.gov\nsfm.fmcsa.dot.gov\nwww7.bts.dot.gov\nwww7.fmcsa.dot.gov\nwww7.fta.dot.gov\nwww7.highways.dot.gov\nwww7.phmsa.dot.gov\nwww.cms7.dot.gov",
-    "id": 15032371816,
-    "entry_timestamp": "2024-10-21T19:53:48.633",
-    "not_before": "2024-10-21T19:53:48",
-    "not_after": "2025-11-21T19:53:46",
-    "serial_number": "44f8d6b46f26f8a0f8ba38ea765d4333",
-    "result_count": 29
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "stage-nrd.api.nhtsa.dot.gov",
-    "name_value": "stage-nrd.api.nhtsa.dot.gov\nstage-nrd-static.nhtsa.dot.gov\nstage-origin-nrd.nhtsa.dot.gov\nstage-origin-nrd-static.nhtsa.dot.gov\nwww.stage-nrd.api.nhtsa.dot.gov",
-    "id": 15027963001,
-    "entry_timestamp": "2024-10-21T12:41:02.088",
-    "not_before": "2024-10-21T12:41:01",
-    "not_after": "2025-11-21T12:41:00",
-    "serial_number": "008363064e6534c4ac160dcc2d994aa27e",
-    "result_count": 6
   }
 ]
