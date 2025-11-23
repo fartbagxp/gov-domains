@@ -1,5 +1,65 @@
 [
   {
+    "issuer_ca_id": 247115,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
+    "common_name": "bidenwhitehouse.archives.gov",
+    "name_value": "bidenwhitehouse.archives.gov",
+    "id": 22607497703,
+    "entry_timestamp": "2025-11-20T03:20:23.519",
+    "not_before": "2025-01-13T00:00:00",
+    "not_after": "2026-02-11T23:59:59",
+    "serial_number": "0be558bfcd8f16e4455a3c0dcb75c62f",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "*.bidenwhitehouse.archives.gov",
+    "name_value": "*.bidenwhitehouse.archives.gov",
+    "id": 22607465312,
+    "entry_timestamp": "2025-11-20T03:20:13.666",
+    "not_before": "2025-11-20T00:00:00",
+    "not_after": "2026-12-19T23:59:59",
+    "serial_number": "029866ef79f096f4c4cae35e9761dddc",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "alb.dev-om.nac-mvp.archives.gov",
+    "name_value": "alb.dev-om.nac-mvp.archives.gov",
+    "id": 22579867986,
+    "entry_timestamp": "2025-11-19T04:23:19.049",
+    "not_before": "2025-11-19T00:00:00",
+    "not_after": "2026-12-18T23:59:59",
+    "serial_number": "09cfea9d17c596a95da526c254156a3c",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247106,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
+    "common_name": "alb.dev-om.nac-mvp.archives.gov",
+    "name_value": "alb.dev-om.nac-mvp.archives.gov",
+    "id": 22578075344,
+    "entry_timestamp": "2025-11-19T02:47:52.638",
+    "not_before": "2024-12-19T00:00:00",
+    "not_after": "2026-01-17T23:59:59",
+    "serial_number": "01d2beb9ced56eec82a7e67e4c0beddf",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "alb.dev-om.nac-mvp.archives.gov",
+    "name_value": "alb.dev-om.nac-mvp.archives.gov",
+    "id": 22578063329,
+    "entry_timestamp": "2025-11-19T02:47:41.23",
+    "not_before": "2025-11-19T00:00:00",
+    "not_after": "2026-12-18T23:59:59",
+    "serial_number": "09cfea9d17c596a95da526c254156a3c",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "test-dme.nac-mvp.archives.gov",
@@ -322,30 +382,6 @@
     "not_after": "2026-06-21T16:12:50",
     "serial_number": "33dc22c587c7862ebf5776eced22b17a",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "search.usa.gov",
-    "name_value": "search.archives.gov",
-    "id": 21950416097,
-    "entry_timestamp": "2025-10-23T20:22:13.5",
-    "not_before": "2025-10-23T19:23:43",
-    "not_after": "2026-01-21T19:23:42",
-    "serial_number": "0670d5ec8dbb931b0bf92ebaffdfbdcb5c74",
-    "result_count": 1
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "search.usa.gov",
-    "name_value": "search.archives.gov",
-    "id": 21950417921,
-    "entry_timestamp": "2025-10-23T20:22:13.29",
-    "not_before": "2025-10-23T19:23:43",
-    "not_after": "2026-01-21T19:23:42",
-    "serial_number": "0670d5ec8dbb931b0bf92ebaffdfbdcb5c74",
-    "result_count": 1
   },
   {
     "issuer_ca_id": 295817,
@@ -854,18 +890,6 @@
   {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "arcis.archives.gov",
-    "name_value": "arcis.archives.gov\neservices.archives.gov",
-    "id": 20862565869,
-    "entry_timestamp": "2025-09-08T02:17:37.567",
-    "not_before": "2024-11-20T16:41:31",
-    "not_after": "2025-11-20T16:47:34",
-    "serial_number": "74e077fd3060b383b271ca0eb392eeb4",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "vetrecs.archives.gov",
     "name_value": "cmrsanalytics.archives.gov\nmilrecs.archives.gov\nvetrecs.archives.gov",
     "id": 20860645795,
@@ -969,30 +993,6 @@
     "not_before": "2025-08-28T15:24:55",
     "not_after": "2025-11-26T15:24:54",
     "serial_number": "05006c3beb8a059b1738690c347a0f087431",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "ija.archives.gov",
-    "name_value": "ija.archives.gov\nwww.ija.archives.gov",
-    "id": 20533191490,
-    "entry_timestamp": "2025-08-24T03:46:43.763",
-    "not_before": "2025-08-24T02:48:13",
-    "not_after": "2025-11-22T02:48:12",
-    "serial_number": "0636a09d1058a0a773f819d00f024e59c837",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "ija.archives.gov",
-    "name_value": "ija.archives.gov\nwww.ija.archives.gov",
-    "id": 20533190169,
-    "entry_timestamp": "2025-08-24T03:46:43.546",
-    "not_before": "2025-08-24T02:48:13",
-    "not_after": "2025-11-22T02:48:12",
-    "serial_number": "0636a09d1058a0a773f819d00f024e59c837",
     "result_count": 3
   },
   {
@@ -2217,18 +2217,6 @@
     "not_before": "2024-10-25T20:58:30",
     "not_after": "2025-11-23T20:58:29",
     "serial_number": "00ce54c93840ec74682b67640225b44345",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "arcis.archives.gov",
-    "name_value": "arcis.archives.gov\neservices.archives.gov",
-    "id": 15435178170,
-    "entry_timestamp": "2024-11-20T16:51:32.632",
-    "not_before": "2024-11-20T16:41:31",
-    "not_after": "2025-11-20T16:47:34",
-    "serial_number": "74e077fd3060b383b271ca0eb392eeb4",
     "result_count": 3
   },
   {

@@ -1,5 +1,17 @@
 [
   {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "*.vehiclesales.fleet-test.fcs.gsa.gov",
+    "name_value": "*.vehiclesales.fleet-test.fcs.gsa.gov\nvehiclesales.fleet-test.fcs.gsa.gov",
+    "id": 22674525789,
+    "entry_timestamp": "2025-11-23T03:41:01.945",
+    "not_before": "2025-11-23T00:00:00",
+    "not_after": "2026-12-22T23:59:59",
+    "serial_number": "09516ed7131432cc5fc05d69f357f618",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 295816,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "tts.gsa.gov",
@@ -9453,126 +9465,6 @@
     "not_before": "2025-08-25T00:00:00",
     "not_after": "2026-09-23T23:59:59",
     "serial_number": "06cef7a5503abd787f332026c1ac090c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "vendors.test-eos.gsa.gov",
-    "name_value": "vendors.test-eos.gsa.gov",
-    "id": 20554405914,
-    "entry_timestamp": "2025-08-25T01:07:12.61",
-    "not_before": "2025-08-25T00:08:42",
-    "not_after": "2025-11-23T00:08:41",
-    "serial_number": "06928912ad4b844e6ab4b080d09d269df7dd",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "vendors.test-eos.gsa.gov",
-    "name_value": "vendors.test-eos.gsa.gov",
-    "id": 20554379032,
-    "entry_timestamp": "2025-08-25T01:07:12.263",
-    "not_before": "2025-08-25T00:08:42",
-    "not_after": "2025-11-23T00:08:41",
-    "serial_number": "06928912ad4b844e6ab4b080d09d269df7dd",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "wits3-public-pricer.test-eos.gsa.gov",
-    "name_value": "wits3-public-pricer.test-eos.gsa.gov",
-    "id": 20554993892,
-    "entry_timestamp": "2025-08-25T01:06:22.095",
-    "not_before": "2025-08-25T00:07:51",
-    "not_after": "2025-11-23T00:07:50",
-    "serial_number": "0518c71e44d2e36d66d5a6b5bc0c840c2e0c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "wits3-public-pricer.test-eos.gsa.gov",
-    "name_value": "wits3-public-pricer.test-eos.gsa.gov",
-    "id": 20555640167,
-    "entry_timestamp": "2025-08-25T01:06:21.875",
-    "not_before": "2025-08-25T00:07:51",
-    "not_after": "2025-11-23T00:07:50",
-    "serial_number": "0518c71e44d2e36d66d5a6b5bc0c840c2e0c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "networx-public-pricer.test-eos.gsa.gov",
-    "name_value": "networx-public-pricer.test-eos.gsa.gov",
-    "id": 20554375157,
-    "entry_timestamp": "2025-08-25T01:06:12.194",
-    "not_before": "2025-08-25T00:07:41",
-    "not_after": "2025-11-23T00:07:40",
-    "serial_number": "05f2a25c6934d9dc13b313097792dc0e5095",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "networx-public-pricer.test-eos.gsa.gov",
-    "name_value": "networx-public-pricer.test-eos.gsa.gov",
-    "id": 20554382793,
-    "entry_timestamp": "2025-08-25T01:06:11.939",
-    "not_before": "2025-08-25T00:07:41",
-    "not_after": "2025-11-23T00:07:40",
-    "serial_number": "05f2a25c6934d9dc13b313097792dc0e5095",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "eis-public-pricer.test-eos.gsa.gov",
-    "name_value": "eis-public-pricer.test-eos.gsa.gov",
-    "id": 20554991591,
-    "entry_timestamp": "2025-08-25T01:06:02.225",
-    "not_before": "2025-08-25T00:07:31",
-    "not_after": "2025-11-23T00:07:30",
-    "serial_number": "050f4ad485dc0b879aed02627bb9659bf095",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "eis-public-pricer.test-eos.gsa.gov",
-    "name_value": "eis-public-pricer.test-eos.gsa.gov",
-    "id": 20555637406,
-    "entry_timestamp": "2025-08-25T01:06:01.859",
-    "not_before": "2025-08-25T00:07:31",
-    "not_after": "2025-11-23T00:07:30",
-    "serial_number": "050f4ad485dc0b879aed02627bb9659bf095",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "eis-pricer.test-eos.gsa.gov",
-    "name_value": "eis-pricer.test-eos.gsa.gov",
-    "id": 20554380571,
-    "entry_timestamp": "2025-08-25T01:05:52.224",
-    "not_before": "2025-08-25T00:07:21",
-    "not_after": "2025-11-23T00:07:20",
-    "serial_number": "061dfd823118759c966045c10c0644796759",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "eis-pricer.test-eos.gsa.gov",
-    "name_value": "eis-pricer.test-eos.gsa.gov",
-    "id": 20554360863,
-    "entry_timestamp": "2025-08-25T01:05:51.668",
-    "not_before": "2025-08-25T00:07:21",
-    "not_after": "2025-11-23T00:07:20",
-    "serial_number": "061dfd823118759c966045c10c0644796759",
     "result_count": 2
   },
   {
@@ -19210,17 +19102,5 @@
     "not_after": "2025-11-24T16:07:22",
     "serial_number": "008ca53965ea858483ee1b85258b4f66b6",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "fpstg.usaccess.gsa.gov",
-    "name_value": "certauth.fpstg.usaccess.gsa.gov\nfpstg.usaccess.gsa.gov",
-    "id": 15042082728,
-    "entry_timestamp": "2024-10-22T14:55:29.66",
-    "not_before": "2024-10-22T14:55:29",
-    "not_after": "2025-11-22T14:55:28",
-    "serial_number": "11c17059f4aeed4cd944c2092ebf1c52",
-    "result_count": 3
   }
 ]

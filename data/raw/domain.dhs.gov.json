@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "giitest-api.dhs.gov",
+    "name_value": "giitest-api.dhs.gov",
+    "id": 22674052150,
+    "entry_timestamp": "2025-11-23T02:25:05.36",
+    "not_before": "2025-11-20T19:01:09",
+    "not_after": "2026-02-18T20:01:07",
+    "serial_number": "00c45bf681ea10dc700de365ae7344f4f0",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "tsaec.tsa.dhs.gov",
+    "name_value": "tsaec.tsa.dhs.gov",
+    "id": 22667941025,
+    "entry_timestamp": "2025-11-22T08:59:28.272",
+    "not_before": "2025-11-22T08:00:50",
+    "not_after": "2026-02-20T08:00:49",
+    "serial_number": "060e1dbc6e74d17222fe3ff9708006c929e5",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 295817,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "tsaec.tsa.dhs.gov",
@@ -101,7 +125,7 @@
     "common_name": "serviceportal-dev.cbp.dhs.gov",
     "name_value": "serviceportal-dev.cbp.dhs.gov",
     "id": 22640515308,
-    "entry_timestamp": "2025-11-21T11:59:46.14",
+    "entry_timestamp": "2025-11-21T11:59:39.303",
     "not_before": "2025-11-21T11:01:08",
     "not_after": "2026-02-19T11:01:07",
     "serial_number": "0688243ef7f71720d790b51ddd423f1cdb87",
@@ -125,7 +149,7 @@
     "common_name": "pts3-pso.fps.dhs.gov",
     "name_value": "*.pts3-pso.fps.dhs.gov\npts3-pso.fps.dhs.gov",
     "id": 22654878112,
-    "entry_timestamp": "2025-11-20T22:51:43.598",
+    "entry_timestamp": "2025-11-20T22:51:43.525",
     "not_before": "2025-11-20T21:53:13",
     "not_after": "2026-02-18T21:53:12",
     "serial_number": "05d6e8654d5c04f726578854618faaae08cf",
@@ -137,7 +161,7 @@
     "common_name": "pts3-pso.fps.dhs.gov",
     "name_value": "*.pts3-pso.fps.dhs.gov\npts3-pso.fps.dhs.gov",
     "id": 22627916033,
-    "entry_timestamp": "2025-11-20T22:51:43.302",
+    "entry_timestamp": "2025-11-20T22:51:43.292",
     "not_before": "2025-11-20T21:53:13",
     "not_after": "2026-02-18T21:53:12",
     "serial_number": "05d6e8654d5c04f726578854618faaae08cf",
@@ -149,7 +173,7 @@
     "common_name": "pts3-pso.fps.dhs.gov",
     "name_value": "*.pts3-pso.fps.dhs.gov\npts3-pso.fps.dhs.gov",
     "id": 22630934492,
-    "entry_timestamp": "2025-11-20T22:51:37.594",
+    "entry_timestamp": "2025-11-20T22:51:37.508",
     "not_before": "2025-11-20T21:53:07",
     "not_after": "2026-02-18T21:53:06",
     "serial_number": "057a12cc76727dee9f6fab3dff91744a9006",
@@ -6600,30 +6624,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "expedge02.ice.dhs.gov",
-    "name_value": "expedge01.ice.dhs.gov\nexpedge02.ice.dhs.gov",
-    "id": 21627241829,
-    "entry_timestamp": "2025-10-10T16:23:24.113",
-    "not_before": "2025-10-10T00:00:00",
-    "not_after": "2025-11-22T23:59:59",
-    "serial_number": "09fd796fb49c5dacec6b708e6c5389e1",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "expedge01.ice.dhs.gov",
-    "name_value": "expedge01.ice.dhs.gov\nexpedge02.ice.dhs.gov",
-    "id": 21627221315,
-    "entry_timestamp": "2025-10-10T16:22:07.151",
-    "not_before": "2025-10-10T00:00:00",
-    "not_after": "2025-11-22T23:59:59",
-    "serial_number": "02d912d1d676374d72b76523b478c354",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 295817,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "dhsauthportal.dhs.gov",
@@ -6718,30 +6718,6 @@
     "not_after": "2026-11-09T23:59:59",
     "serial_number": "5bf8f498b002f0c4a7ba3fb8110ad72d",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "expedge02.ice.dhs.gov",
-    "name_value": "expedge01.ice.dhs.gov\nexpedge02.ice.dhs.gov",
-    "id": 21599945571,
-    "entry_timestamp": "2025-10-09T13:24:07.004",
-    "not_before": "2025-10-09T00:00:00",
-    "not_after": "2025-11-22T23:59:59",
-    "serial_number": "097da65e7826d9952aedd11d1e2fd941",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "expedge01.ice.dhs.gov",
-    "name_value": "expedge01.ice.dhs.gov\nexpedge02.ice.dhs.gov",
-    "id": 21599923045,
-    "entry_timestamp": "2025-10-09T13:22:40.419",
-    "not_before": "2025-10-09T00:00:00",
-    "not_after": "2025-11-22T23:59:59",
-    "serial_number": "0441801b66fd94b4f3b3d814c53259e1",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 295809,
@@ -12657,102 +12633,6 @@
     "not_before": "2025-08-25T00:00:00",
     "not_after": "2026-08-25T23:59:59",
     "serial_number": "68d72a1f4846d6922874bce2af3bbea2",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "serviceportal-test.fema.dhs.gov",
-    "name_value": "serviceportal-test.fema.dhs.gov",
-    "id": 20559248554,
-    "entry_timestamp": "2025-08-25T06:29:23.927",
-    "not_before": "2025-08-25T05:30:51",
-    "not_after": "2025-11-23T05:30:50",
-    "serial_number": "06f5cc2a662215758edc20bd14237f5d7c4d",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "serviceportal-test.fema.dhs.gov",
-    "name_value": "serviceportal-test.fema.dhs.gov",
-    "id": 20567113620,
-    "entry_timestamp": "2025-08-25T06:29:21.496",
-    "not_before": "2025-08-25T05:30:51",
-    "not_after": "2025-11-23T05:30:50",
-    "serial_number": "06f5cc2a662215758edc20bd14237f5d7c4d",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "serviceportal.cbp.dhs.gov",
-    "name_value": "serviceportal.cbp.dhs.gov",
-    "id": 20564191601,
-    "entry_timestamp": "2025-08-25T06:29:10.975",
-    "not_before": "2025-08-25T05:30:40",
-    "not_after": "2025-11-23T05:30:39",
-    "serial_number": "06b3cb825bdbbe4ea748b3ba44c7d8591978",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "serviceportal.cbp.dhs.gov",
-    "name_value": "serviceportal.cbp.dhs.gov",
-    "id": 20559227114,
-    "entry_timestamp": "2025-08-25T06:29:10.433",
-    "not_before": "2025-08-25T05:30:40",
-    "not_after": "2025-11-23T05:30:39",
-    "serial_number": "06b3cb825bdbbe4ea748b3ba44c7d8591978",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "ice-gp.dhs.gov",
-    "name_value": "*.ice-gp.dhs.gov\nice-gp.dhs.gov",
-    "id": 20556754360,
-    "entry_timestamp": "2025-08-25T03:17:29.811",
-    "not_before": "2025-08-25T02:17:29",
-    "not_after": "2025-11-23T03:17:00",
-    "serial_number": "00fa42b448fc6d2ec413abde34721a6f00",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "ice-gp.dhs.gov",
-    "name_value": "*.ice-gp.dhs.gov\nice-gp.dhs.gov",
-    "id": 20557748376,
-    "entry_timestamp": "2025-08-25T03:16:54.688",
-    "not_before": "2025-08-25T02:16:54",
-    "not_after": "2025-11-23T03:15:33",
-    "serial_number": "00bfa943f0f436b9b30e17cfe0cff79fa5",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "aternity-docker-nonprod.uscis.dhs.gov",
-    "name_value": "*.aternity-docker-nonprod.uscis.dhs.gov\naternity-docker-nonprod.uscis.dhs.gov",
-    "id": 20554013134,
-    "entry_timestamp": "2025-08-24T23:20:54.991",
-    "not_before": "2025-08-24T22:20:54",
-    "not_after": "2025-11-22T23:20:35",
-    "serial_number": "00883b9fb089bddb2d13a18eae3bc4223c",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "aternity-docker-nonprod.uscis.dhs.gov",
-    "name_value": "*.aternity-docker-nonprod.uscis.dhs.gov\naternity-docker-nonprod.uscis.dhs.gov",
-    "id": 20554006097,
-    "entry_timestamp": "2025-08-24T23:20:30.024",
-    "not_before": "2025-08-24T22:20:29",
-    "not_after": "2025-11-22T23:18:54",
-    "serial_number": "008bc9871aa43466f8113778d36d64a423",
     "result_count": 3
   },
   {
@@ -18993,18 +18873,6 @@
     "not_before": "2024-10-24T15:58:02",
     "not_after": "2025-11-24T15:58:01",
     "serial_number": "00d6fa24ad75d24b32fb2e48d86494a115",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "webamoss.cbp.dhs.gov",
-    "name_value": "webamoss.cbp.dhs.gov",
-    "id": 15044782014,
-    "entry_timestamp": "2024-10-22T18:57:00.499",
-    "not_before": "2024-10-22T18:57:00",
-    "not_after": "2025-11-22T18:56:59",
-    "serial_number": "008f0c97e593e4a6962445085cab801c47",
     "result_count": 2
   }
 ]
