@@ -29,7 +29,7 @@
     "common_name": "nhtsa.dot.gov",
     "name_value": "egrants.nhtsa.dot.gov\negrants-preprod.nhtsa.dot.gov\negrants-staging.nhtsa.dot.gov\nncap-api.nhtsa.dot.gov\nncap.nhtsa.dot.gov\nnhtsa.dot.gov",
     "id": 22653073359,
-    "entry_timestamp": "2025-11-22T01:17:57.587",
+    "entry_timestamp": "2025-11-22T01:17:57.577",
     "not_before": "2025-05-07T00:00:00",
     "not_after": "2026-01-30T23:59:59",
     "serial_number": "0f7eccc6610607cea1b4d6387a486224",
@@ -41,7 +41,7 @@
     "common_name": "nhtsa.dot.gov",
     "name_value": "egrants.nhtsa.dot.gov\negrants-preprod.nhtsa.dot.gov\negrants-staging.nhtsa.dot.gov\nncap-api.nhtsa.dot.gov\nncap.nhtsa.dot.gov\nnhtsa.dot.gov\nwebsat.nhtsa.dot.gov\nwebsat-stage.nhtsa.dot.gov",
     "id": 22646374703,
-    "entry_timestamp": "2025-11-21T18:25:20.555",
+    "entry_timestamp": "2025-11-21T18:25:20.535",
     "not_before": "2025-11-21T00:00:00",
     "not_after": "2026-01-30T23:59:59",
     "serial_number": "037b9de42c5e387c759d81cb31e0a68b",
@@ -53,7 +53,7 @@
     "common_name": "nhtsa.dot.gov",
     "name_value": "egrants.nhtsa.dot.gov\negrants-preprod.nhtsa.dot.gov\negrants-staging.nhtsa.dot.gov\nncap-api.nhtsa.dot.gov\nncap.nhtsa.dot.gov\nnhtsa.dot.gov\nwebsat.nhtsa.dot.gov\nwebsat-stage.nhtsa.dot.gov",
     "id": 22646206923,
-    "entry_timestamp": "2025-11-21T18:14:06.623",
+    "entry_timestamp": "2025-11-21T18:14:06.602",
     "not_before": "2025-11-21T00:00:00",
     "not_after": "2026-01-30T23:59:59",
     "serial_number": "08274d96e977e4be8ee4b749bdd862ee",
@@ -1125,6 +1125,18 @@
     "not_before": "2025-11-04T00:00:00",
     "not_after": "2026-11-04T23:59:59",
     "serial_number": "58e1c387f5f36ccbe17948dc7084aebd",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "ocioclientcenter-dev.dot.gov",
+    "name_value": "ocioclientcenter-dev.dot.gov",
+    "id": 22198516537,
+    "entry_timestamp": "2025-11-04T10:32:04.093",
+    "not_before": "2025-11-04T09:33:33",
+    "not_after": "2026-02-02T09:33:32",
+    "serial_number": "05dcbefa72333d622cfdba288b9b41b94413",
     "result_count": 2
   },
   {
@@ -3220,11 +3232,35 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "ocioclientcenter-test.dot.gov",
     "name_value": "ocioclientcenter-test.dot.gov",
+    "id": 20802230972,
+    "entry_timestamp": "2025-09-05T08:33:13.178",
+    "not_before": "2025-09-05T07:34:43",
+    "not_after": "2025-12-04T07:34:42",
+    "serial_number": "062e4828f43449da62ff3796ef6ace346d33",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "ocioclientcenter-test.dot.gov",
+    "name_value": "ocioclientcenter-test.dot.gov",
     "id": 20802226120,
     "entry_timestamp": "2025-09-05T08:33:13.063",
     "not_before": "2025-09-05T07:34:43",
     "not_after": "2025-12-04T07:34:42",
     "serial_number": "062e4828f43449da62ff3796ef6ace346d33",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "ocioclientcenter.dot.gov",
+    "name_value": "ocioclientcenter.dot.gov",
+    "id": 20802226584,
+    "entry_timestamp": "2025-09-05T08:32:53.068",
+    "not_before": "2025-09-05T07:34:22",
+    "not_after": "2025-12-04T07:34:21",
+    "serial_number": "069f75396b489cbd26d6f29f5b6bdc55fc60",
     "result_count": 2
   },
   {
@@ -10761,18 +10797,6 @@
     "not_before": "2024-10-29T14:31:23",
     "not_after": "2025-11-28T14:31:22",
     "serial_number": "00cacd50867b3d717cbfe85425ea3aeaa2",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "sasviyaintprod.nhtsa.dot.gov",
-    "name_value": "sasviyaintprod.nhtsa.dot.gov\nwww.sasviyaintprod.nhtsa.dot.gov",
-    "id": 15058139370,
-    "entry_timestamp": "2024-10-23T19:20:30.315",
-    "not_before": "2024-10-23T19:20:30",
-    "not_after": "2025-11-23T19:20:28",
-    "serial_number": "67895d11423a0d2bd57999325267bbd4",
     "result_count": 3
   }
 ]
