@@ -1,11 +1,47 @@
 [
   {
+    "issuer_ca_id": 204411,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
+    "common_name": "seqdata.uspto.gov",
+    "name_value": "ext-prod-seqdata.uspto.gov\nseqdata.uspto.gov",
+    "id": 22708602487,
+    "entry_timestamp": "2025-11-24T18:41:17.762",
+    "not_before": "2025-11-24T00:00:00",
+    "not_after": "2026-12-14T23:59:59",
+    "serial_number": "1a0595fb3dad75469530bbf2e149c41e",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204411,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
+    "common_name": "seqdata.uspto.gov",
+    "name_value": "ext-prod-seqdata.uspto.gov\nseqdata.uspto.gov",
+    "id": 22708586672,
+    "entry_timestamp": "2025-11-24T18:41:17.015",
+    "not_before": "2025-11-24T00:00:00",
+    "not_after": "2026-12-14T23:59:59",
+    "serial_number": "1a0595fb3dad75469530bbf2e149c41e",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "smp.uspto.gov",
+    "name_value": "smp.uspto.gov",
+    "id": 22667084184,
+    "entry_timestamp": "2025-11-22T01:59:18.776",
+    "not_before": "2025-11-22T01:00:48",
+    "not_after": "2026-02-20T01:00:47",
+    "serial_number": "0671fd1b78dde276477fe90ad0f81806fc22",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 295816,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "smp.uspto.gov",
     "name_value": "smp.uspto.gov",
     "id": 22695652624,
-    "entry_timestamp": "2025-11-22T01:59:18.386",
+    "entry_timestamp": "2025-11-22T01:59:18.327",
     "not_before": "2025-11-22T01:00:48",
     "not_after": "2026-02-20T01:00:47",
     "serial_number": "0671fd1b78dde276477fe90ad0f81806fc22",
@@ -910,6 +946,30 @@
     "not_after": "2026-10-24T23:59:59",
     "serial_number": "00fd90f89076cbfdd7cccab70d5939a60b",
     "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "search.usa.gov",
+    "name_value": "search.uspto.gov",
+    "id": 21950416097,
+    "entry_timestamp": "2025-10-23T20:22:13.5",
+    "not_before": "2025-10-23T19:23:43",
+    "not_after": "2026-01-21T19:23:42",
+    "serial_number": "0670d5ec8dbb931b0bf92ebaffdfbdcb5c74",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "search.usa.gov",
+    "name_value": "search.uspto.gov",
+    "id": 21950417921,
+    "entry_timestamp": "2025-10-23T20:22:13.29",
+    "not_before": "2025-10-23T19:23:43",
+    "not_after": "2026-01-21T19:23:42",
+    "serial_number": "0670d5ec8dbb931b0bf92ebaffdfbdcb5c74",
+    "result_count": 1
   },
   {
     "issuer_ca_id": 204411,
@@ -1870,6 +1930,18 @@
     "not_after": "2026-09-23T23:59:59",
     "serial_number": "00c9b5dcb87599c75d002026b57b5a7c5b",
     "result_count": 6
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "smp.uspto.gov",
+    "name_value": "smp.uspto.gov",
+    "id": 21223448995,
+    "entry_timestamp": "2025-09-22T23:59:30.339",
+    "not_before": "2025-09-22T23:01:00",
+    "not_after": "2025-12-21T23:00:59",
+    "serial_number": "06a2c5061985a5b4cb1463c6f5085e4f16e2",
+    "result_count": 2
   },
   {
     "issuer_ca_id": 295816,
@@ -3062,18 +3134,6 @@
   {
     "issuer_ca_id": 1586,
     "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "vpnportal2-dev-alx.etc.uspto.gov",
-    "name_value": "CF-ITW-VPN-01.etc.uspto.gov\nCF-ITW-VPN-01-int.etc.uspto.gov\ncf-itw-vpn-01.uspto.gov\nCF-ITW-VPN-02.etc.uspto.gov\ncf-itw-vpn-02.uspto.gov\nCF-ITW-VPN.etc.uspto.gov\npwdservice-dev.etc.uspto.gov\npwdservice-dev.uspto.gov\nteamportal-dev.etc.uspto.gov\nvpnportal2-dev-alx.etc.uspto.gov\nvpnportal-dev-alx.etc.uspto.gov\nvpnportal-dev-alx.uspto.gov\nvpnportal-dev.etc.uspto.gov\nvpnportal-dev.uspto.gov\nvpnportal-maint.etc.uspto.gov",
-    "id": 20807661019,
-    "entry_timestamp": "2025-09-05T14:47:22.545",
-    "not_before": "2024-10-25T02:56:36",
-    "not_after": "2025-11-25T02:56:35",
-    "serial_number": "00db51bda2214671958f1cfae8806c88e6",
-    "result_count": 16
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
     "common_name": "api.uspto.gov",
     "name_value": "api.uspto.gov",
     "id": 20806901089,
@@ -3093,18 +3153,6 @@
     "not_before": "2024-10-25T16:24:28",
     "not_after": "2025-11-25T16:24:27",
     "serial_number": "00d4b5179cb62b28625bc3ca9c31482fae",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "ped.uspto.gov",
-    "name_value": "ped.uspto.gov",
-    "id": 20806277143,
-    "entry_timestamp": "2025-09-05T13:11:31.98",
-    "not_before": "2024-10-25T02:40:19",
-    "not_after": "2025-11-25T02:40:18",
-    "serial_number": "00f722a6126c906eb305b635529d0c8417",
     "result_count": 2
   },
   {
@@ -6790,53 +6838,5 @@
     "not_after": "2025-11-25T15:40:21",
     "serial_number": "4e3802340779d4ff30434f82de1c2f39",
     "result_count": 16
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "vpnportal2-dev-alx.etc.uspto.gov",
-    "name_value": "CF-ITW-VPN-01.etc.uspto.gov\nCF-ITW-VPN-01-int.etc.uspto.gov\ncf-itw-vpn-01.uspto.gov\nCF-ITW-VPN-02.etc.uspto.gov\ncf-itw-vpn-02.uspto.gov\nCF-ITW-VPN.etc.uspto.gov\npwdservice-dev.etc.uspto.gov\npwdservice-dev.uspto.gov\nteamportal-dev.etc.uspto.gov\nvpnportal2-dev-alx.etc.uspto.gov\nvpnportal-dev-alx.etc.uspto.gov\nvpnportal-dev-alx.uspto.gov\nvpnportal-dev.etc.uspto.gov\nvpnportal-dev.uspto.gov\nvpnportal-maint.etc.uspto.gov",
-    "id": 15072280684,
-    "entry_timestamp": "2024-10-25T02:56:36.36",
-    "not_before": "2024-10-25T02:56:36",
-    "not_after": "2025-11-25T02:56:35",
-    "serial_number": "00db51bda2214671958f1cfae8806c88e6",
-    "result_count": 16
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "instana-prod.uspto.gov",
-    "name_value": "instana-prod.uspto.gov",
-    "id": 15072224750,
-    "entry_timestamp": "2024-10-25T02:48:47.003",
-    "not_before": "2024-10-25T02:48:46",
-    "not_after": "2025-11-25T02:48:45",
-    "serial_number": "3615012c23a05eef113e29a2131ec45f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "instana-agents-prod.uspto.gov",
-    "name_value": "instana-agents-prod.uspto.gov",
-    "id": 15072211784,
-    "entry_timestamp": "2024-10-25T02:47:08.918",
-    "not_before": "2024-10-25T02:47:08",
-    "not_after": "2025-11-25T02:47:07",
-    "serial_number": "48119ef59583485199d146b5e9ebe4b5",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "ped.uspto.gov",
-    "name_value": "ped.uspto.gov",
-    "id": 15072164155,
-    "entry_timestamp": "2024-10-25T02:40:20.166",
-    "not_before": "2024-10-25T02:40:19",
-    "not_after": "2025-11-25T02:40:18",
-    "serial_number": "00f722a6126c906eb305b635529d0c8417",
-    "result_count": 2
   }
 ]
