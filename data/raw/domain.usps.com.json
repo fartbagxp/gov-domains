@@ -1,5 +1,17 @@
 [
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "usps.com",
+    "name_value": "akastage-ivs-sign.cat.usps.com\nakastage-trkcnfrm1.smi.usps.com\nakastage-www.m.usps.com\nakastage-www.uspsmailanalytics-cat.usps.com\nivs-sign.cat.usps.com\nqlik.aws.usps.com\ntrkcnfrm1.smi.usps.com\nusps.com\nwww.m.usps.com\nwww.store.usps.com\nwww.uspsmailanalytics-cat.usps.com",
+    "id": 22724424584,
+    "entry_timestamp": "2025-11-25T13:41:39.42",
+    "not_before": "2025-11-17T00:00:00",
+    "not_after": "2026-11-16T23:59:59",
+    "serial_number": "0b6789667d251b971c1747d6fd06a942",
+    "result_count": 12
+  },
+  {
     "issuer_ca_id": 185748,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
     "common_name": "*.usps.com",
@@ -17650,101 +17662,5 @@
     "not_after": "2025-11-26T23:59:59",
     "serial_number": "59408863ce709200b205c0a6ea38f2e1",
     "result_count": 15
-  },
-  {
-    "issuer_ca_id": 105487,
-    "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA",
-    "common_name": "imbg-sit.usps.com",
-    "name_value": "imbg-sit.usps.com\ntemp-imbg.usps.com",
-    "id": 15496908057,
-    "entry_timestamp": "2024-11-25T20:37:15.791",
-    "not_before": "2024-11-25T00:00:00",
-    "not_after": "2025-11-25T23:59:59",
-    "serial_number": "447314f866b923d4f9411b07f754a1ac",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 105487,
-    "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA",
-    "common_name": "imbg-sit.usps.com",
-    "name_value": "imbg-sit.usps.com\ntemp-imbg.usps.com",
-    "id": 15496908002,
-    "entry_timestamp": "2024-11-25T20:37:15.243",
-    "not_before": "2024-11-25T00:00:00",
-    "not_after": "2025-11-25T23:59:59",
-    "serial_number": "447314f866b923d4f9411b07f754a1ac",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 105487,
-    "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA",
-    "common_name": "dev.api.private.usps.com",
-    "name_value": "apis-dev2-id.usps.com\napis-dev2-informeddelivery.usps.com\napis-dev3-id.usps.com\napis-dev3-informeddelivery.usps.com\napis-dev-id.usps.com\napis-dev-informeddelivery.usps.com\napis-sit2-id.usps.com\napis-sit2-informeddelivery.usps.com\napis-sit3-id.usps.com\napis-sit3-informeddelivery.usps.com\napis-sit-id.usps.com\napis-sit-informeddelivery.usps.com\ndev.api.private.usps.com\nnonprod.api.private.usps.com\nsit.api.private.usps.com",
-    "id": 15495294281,
-    "entry_timestamp": "2024-11-25T17:53:27.396",
-    "not_before": "2024-11-25T00:00:00",
-    "not_after": "2025-11-25T23:59:59",
-    "serial_number": "00a2b5ff1edb8a4219aa13a5749660a182",
-    "result_count": 16
-  },
-  {
-    "issuer_ca_id": 105487,
-    "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA",
-    "common_name": "dev.api.private.usps.com",
-    "name_value": "apis-dev2-id.usps.com\napis-dev2-informeddelivery.usps.com\napis-dev3-id.usps.com\napis-dev3-informeddelivery.usps.com\napis-dev-id.usps.com\napis-dev-informeddelivery.usps.com\napis-sit2-id.usps.com\napis-sit2-informeddelivery.usps.com\napis-sit3-id.usps.com\napis-sit3-informeddelivery.usps.com\napis-sit-id.usps.com\napis-sit-informeddelivery.usps.com\ndev.api.private.usps.com\nnonprod.api.private.usps.com\nsit.api.private.usps.com",
-    "id": 15495294020,
-    "entry_timestamp": "2024-11-25T17:53:26.576",
-    "not_before": "2024-11-25T00:00:00",
-    "not_after": "2025-11-25T23:59:59",
-    "serial_number": "00a2b5ff1edb8a4219aa13a5749660a182",
-    "result_count": 16
-  },
-  {
-    "issuer_ca_id": 105487,
-    "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA",
-    "common_name": "internationalclaims-cat.usps.com",
-    "name_value": "internationalclaims-cat.usps.com\norigin-internationalclaims-cat.usps.com",
-    "id": 15495081294,
-    "entry_timestamp": "2024-11-25T17:32:01.023",
-    "not_before": "2024-11-25T00:00:00",
-    "not_after": "2025-11-25T23:59:59",
-    "serial_number": "4b4e1566a89f254e996354ca5854317e",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 105487,
-    "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA",
-    "common_name": "internationalclaims-cat.usps.com",
-    "name_value": "internationalclaims-cat.usps.com\norigin-internationalclaims-cat.usps.com",
-    "id": 15495082165,
-    "entry_timestamp": "2024-11-25T17:32:00.566",
-    "not_before": "2024-11-25T00:00:00",
-    "not_after": "2025-11-25T23:59:59",
-    "serial_number": "4b4e1566a89f254e996354ca5854317e",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 105487,
-    "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA",
-    "common_name": "beta-cnsb.usps.com",
-    "name_value": "beta-cnsb.usps.com",
-    "id": 15493650875,
-    "entry_timestamp": "2024-11-25T14:54:41.246",
-    "not_before": "2024-11-25T00:00:00",
-    "not_after": "2025-11-25T23:59:59",
-    "serial_number": "6b68b4759f3e54174c81146ccbdcdebe",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 105487,
-    "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA",
-    "common_name": "beta-cnsb.usps.com",
-    "name_value": "beta-cnsb.usps.com",
-    "id": 15493650418,
-    "entry_timestamp": "2024-11-25T14:54:40.918",
-    "not_before": "2024-11-25T00:00:00",
-    "not_after": "2025-11-25T23:59:59",
-    "serial_number": "6b68b4759f3e54174c81146ccbdcdebe",
-    "result_count": 2
   }
 ]

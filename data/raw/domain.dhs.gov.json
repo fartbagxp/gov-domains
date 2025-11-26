@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "response.tsa.dhs.gov",
+    "name_value": "response.tsa.dhs.gov",
+    "id": 22727169932,
+    "entry_timestamp": "2025-11-25T16:45:24.313",
+    "not_before": "2025-11-25T00:00:00",
+    "not_after": "2026-12-26T23:59:59",
+    "serial_number": "199054de0f12327934b96152cd18c4ba",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "response.tsa.dhs.gov",
+    "name_value": "response.tsa.dhs.gov",
+    "id": 22727150734,
+    "entry_timestamp": "2025-11-25T16:45:23.442",
+    "not_before": "2025-11-25T00:00:00",
+    "not_after": "2026-12-26T23:59:59",
+    "serial_number": "199054de0f12327934b96152cd18c4ba",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "origin-cbplink.cbp.dhs.gov",
@@ -29,22 +53,10 @@
     "common_name": "data.dev1dcats.dhs.gov",
     "name_value": "*.data.dev1dcats.dhs.gov\ndata.dev1dcats.dhs.gov",
     "id": 22715488844,
-    "entry_timestamp": "2025-11-25T02:43:25.252",
+    "entry_timestamp": "2025-11-25T02:43:25.235",
     "not_before": "2025-11-24T17:22:28",
     "not_after": "2026-02-22T18:20:03",
     "serial_number": "7914ad9658161a710ef2c79bca0d9cee",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "origin-cbplink-cert.cbp.dhs.gov",
-    "name_value": "*.origin-cbplink-cert.cbp.dhs.gov\norigin-cbplink-cert.cbp.dhs.gov",
-    "id": 22713315350,
-    "entry_timestamp": "2025-11-25T00:13:41.585",
-    "not_before": "2025-11-24T23:11:33",
-    "not_after": "2026-02-23T00:10:06",
-    "serial_number": "0095313a797c9f15021161ed68e319757d",
     "result_count": 3
   },
   {
@@ -57,6 +69,18 @@
     "not_before": "2025-11-24T23:12:08",
     "not_after": "2026-02-23T00:11:40",
     "serial_number": "00c7c7a94ccd5898250e99c64f208a313e",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "origin-cbplink-cert.cbp.dhs.gov",
+    "name_value": "*.origin-cbplink-cert.cbp.dhs.gov\norigin-cbplink-cert.cbp.dhs.gov",
+    "id": 22713315350,
+    "entry_timestamp": "2025-11-25T00:11:34.465",
+    "not_before": "2025-11-24T23:11:33",
+    "not_after": "2026-02-23T00:10:06",
+    "serial_number": "0095313a797c9f15021161ed68e319757d",
     "result_count": 3
   },
   {
@@ -137,10 +161,22 @@
     "common_name": "hq-icap.dhs.gov",
     "name_value": "*.hq-icap.dhs.gov\nhq-icap.dhs.gov",
     "id": 22693821969,
-    "entry_timestamp": "2025-11-23T14:04:06.655",
+    "entry_timestamp": "2025-11-23T12:30:55.529",
     "not_before": "2025-11-23T11:32:25",
     "not_after": "2026-02-21T11:32:24",
     "serial_number": "057fcc4e9e873fc03d0384bbd03432fc5c0e",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "hq-icap.dhs.gov",
+    "name_value": "*.hq-icap.dhs.gov\nhq-icap.dhs.gov",
+    "id": 22738544473,
+    "entry_timestamp": "2025-11-23T12:30:46.919",
+    "not_before": "2025-11-23T11:32:16",
+    "not_after": "2026-02-21T11:32:15",
+    "serial_number": "05d5933d97b9c2a41bbb86c0d966e4b1db22",
     "result_count": 3
   },
   {
@@ -161,7 +197,7 @@
     "common_name": "giitest-api.dhs.gov",
     "name_value": "giitest-api.dhs.gov",
     "id": 22674052150,
-    "entry_timestamp": "2025-11-23T02:25:04.36",
+    "entry_timestamp": "2025-11-23T02:25:04.325",
     "not_before": "2025-11-20T19:01:09",
     "not_after": "2026-02-18T20:01:07",
     "serial_number": "00c45bf681ea10dc700de365ae7344f4f0",
@@ -12526,78 +12562,6 @@
     "not_after": "2026-09-27T23:59:59",
     "serial_number": "093bb61e9d70b0705f4f5e92093facdb",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295809,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
-    "common_name": "frtf.dhs.gov",
-    "name_value": "frtf.dhs.gov",
-    "id": 20607485275,
-    "entry_timestamp": "2025-08-27T12:24:23.718",
-    "not_before": "2025-08-27T11:25:53",
-    "not_after": "2025-11-25T11:25:52",
-    "serial_number": "0661f116d127819d426c2c2ac93d7dd49c5f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295809,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
-    "common_name": "frtf.dhs.gov",
-    "name_value": "frtf.dhs.gov",
-    "id": 20607478313,
-    "entry_timestamp": "2025-08-27T12:24:23.494",
-    "not_before": "2025-08-27T11:25:53",
-    "not_after": "2025-11-25T11:25:52",
-    "serial_number": "0661f116d127819d426c2c2ac93d7dd49c5f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295813,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
-    "common_name": "frtf.dhs.gov",
-    "name_value": "frtf.dhs.gov",
-    "id": 20607482800,
-    "entry_timestamp": "2025-08-27T12:23:40.907",
-    "not_before": "2025-08-27T11:25:10",
-    "not_after": "2025-11-25T11:25:09",
-    "serial_number": "06f9c00a6ad4db5a21598493d3da611612cf",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295813,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
-    "common_name": "frtf.dhs.gov",
-    "name_value": "frtf.dhs.gov",
-    "id": 20607483059,
-    "entry_timestamp": "2025-08-27T12:23:40.614",
-    "not_before": "2025-08-27T11:25:10",
-    "not_after": "2025-11-25T11:25:09",
-    "serial_number": "06f9c00a6ad4db5a21598493d3da611612cf",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295809,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
-    "common_name": "tiedata.dhs.gov",
-    "name_value": "*.tiedata.dhs.gov\ntiedata.dhs.gov",
-    "id": 20607249567,
-    "entry_timestamp": "2025-08-27T12:10:56.568",
-    "not_before": "2025-08-27T11:12:24",
-    "not_after": "2025-11-25T11:12:23",
-    "serial_number": "05f4494a4fe40d7839e50f9c121fdb278b9f",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295809,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
-    "common_name": "tiedata.dhs.gov",
-    "name_value": "*.tiedata.dhs.gov\ntiedata.dhs.gov",
-    "id": 20607252184,
-    "entry_timestamp": "2025-08-27T12:10:54.451",
-    "not_before": "2025-08-27T11:12:24",
-    "not_after": "2025-11-25T11:12:23",
-    "serial_number": "05f4494a4fe40d7839e50f9c121fdb278b9f",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 204411,
