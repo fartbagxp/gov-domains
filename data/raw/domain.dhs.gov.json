@@ -137,7 +137,7 @@
     "common_name": "serviceportal-sat.cbp.dhs.gov",
     "name_value": "serviceportal-sat.cbp.dhs.gov",
     "id": 22698062306,
-    "entry_timestamp": "2025-11-23T19:59:17.171",
+    "entry_timestamp": "2025-11-23T19:59:13.583",
     "not_before": "2025-11-23T19:00:43",
     "not_after": "2026-02-21T19:00:42",
     "serial_number": "0695a82eae2ec310a303157f2a368d32a03e",
@@ -161,7 +161,19 @@
     "common_name": "hq-icap.dhs.gov",
     "name_value": "*.hq-icap.dhs.gov\nhq-icap.dhs.gov",
     "id": 22693821969,
-    "entry_timestamp": "2025-11-23T12:30:55.529",
+    "entry_timestamp": "2025-11-23T12:30:55.455",
+    "not_before": "2025-11-23T11:32:25",
+    "not_after": "2026-02-21T11:32:24",
+    "serial_number": "057fcc4e9e873fc03d0384bbd03432fc5c0e",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295809,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
+    "common_name": "hq-icap.dhs.gov",
+    "name_value": "*.hq-icap.dhs.gov\nhq-icap.dhs.gov",
+    "id": 22750420547,
+    "entry_timestamp": "2025-11-23T12:30:55.232",
     "not_before": "2025-11-23T11:32:25",
     "not_after": "2026-02-21T11:32:24",
     "serial_number": "057fcc4e9e873fc03d0384bbd03432fc5c0e",
@@ -173,7 +185,7 @@
     "common_name": "hq-icap.dhs.gov",
     "name_value": "*.hq-icap.dhs.gov\nhq-icap.dhs.gov",
     "id": 22738544473,
-    "entry_timestamp": "2025-11-23T12:30:46.919",
+    "entry_timestamp": "2025-11-23T12:30:46.834",
     "not_before": "2025-11-23T11:32:16",
     "not_after": "2026-02-21T11:32:15",
     "serial_number": "05d5933d97b9c2a41bbb86c0d966e4b1db22",
@@ -12108,18 +12120,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 282054,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
-    "common_name": "origin-mrctpat.cbp.dhs.gov",
-    "name_value": "*.origin-mrctpat.cbp.dhs.gov\norigin-mrctpat.cbp.dhs.gov",
-    "id": 20661819450,
-    "entry_timestamp": "2025-08-29T19:42:03.158",
-    "not_before": "2025-08-29T19:32:01",
-    "not_after": "2025-11-27T10:39:05",
-    "serial_number": "585f0e8242e555c1a57a4662485a276b",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "css.st.dhs.gov",
@@ -12240,18 +12240,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 282053,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
-    "common_name": "origin-mrctpat.cbp.dhs.gov",
-    "name_value": "*.origin-mrctpat.cbp.dhs.gov\norigin-mrctpat.cbp.dhs.gov",
-    "id": 20654551911,
-    "entry_timestamp": "2025-08-29T12:25:07.991",
-    "not_before": "2025-08-29T12:15:06",
-    "not_after": "2025-11-27T10:38:58",
-    "serial_number": "2a889915914f549927f33ee50806daf7",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "*.hsin-staging.dhs.gov",
@@ -12298,30 +12286,6 @@
     "not_after": "2026-08-27T23:59:59",
     "serial_number": "04aed24e27bc399efba263de45654fb5",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "connect.cisa.dhs.gov",
-    "name_value": "*.connect.cisa.dhs.gov\nconnect.cisa.dhs.gov",
-    "id": 20637791935,
-    "entry_timestamp": "2025-08-28T19:59:21.028",
-    "not_before": "2025-08-28T18:59:20",
-    "not_after": "2025-11-26T19:59:17",
-    "serial_number": "00e2af3ce68a9cc1ab13edae4d5aae5a34",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "connect.cisa.dhs.gov",
-    "name_value": "*.connect.cisa.dhs.gov\nconnect.cisa.dhs.gov",
-    "id": 20637791308,
-    "entry_timestamp": "2025-08-28T19:59:08.53",
-    "not_before": "2025-08-28T18:59:08",
-    "not_after": "2025-11-26T19:57:46",
-    "serial_number": "42db8b376b81427613312135679fb62f",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 365075,
@@ -12418,54 +12382,6 @@
     "not_after": "2026-09-28T04:00:00",
     "serial_number": "50911385b579efbaf4bc1cc38e794ba2",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204407,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
-    "common_name": "connect.cisa.dhs.gov",
-    "name_value": "*.connect.cisa.dhs.gov\nconnect.cisa.dhs.gov",
-    "id": 20636778321,
-    "entry_timestamp": "2025-08-28T18:59:13.502",
-    "not_before": "2025-08-28T00:00:00",
-    "not_after": "2025-11-26T18:47:18",
-    "serial_number": "00e62baaea056190c022644ca65178b82c",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204407,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
-    "common_name": "connect.cisa.dhs.gov",
-    "name_value": "*.connect.cisa.dhs.gov\nconnect.cisa.dhs.gov",
-    "id": 20636778317,
-    "entry_timestamp": "2025-08-28T18:59:12.284",
-    "not_before": "2025-08-28T00:00:00",
-    "not_after": "2025-11-26T18:47:18",
-    "serial_number": "00e62baaea056190c022644ca65178b82c",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "connect.cisa.dhs.gov",
-    "name_value": "*.connect.cisa.dhs.gov\nconnect.cisa.dhs.gov",
-    "id": 20636603525,
-    "entry_timestamp": "2025-08-28T18:47:02.06",
-    "not_before": "2025-08-28T00:00:00",
-    "not_after": "2025-11-26T18:35:58",
-    "serial_number": "00b80883d1e99d747e8a3b392bcace1ab4",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "connect.cisa.dhs.gov",
-    "name_value": "*.connect.cisa.dhs.gov\nconnect.cisa.dhs.gov",
-    "id": 20636603169,
-    "entry_timestamp": "2025-08-28T18:47:01.58",
-    "not_before": "2025-08-28T00:00:00",
-    "not_after": "2025-11-26T18:35:58",
-    "serial_number": "00b80883d1e99d747e8a3b392bcace1ab4",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 204411,
