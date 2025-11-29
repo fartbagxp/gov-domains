@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "securesrtr.transplant.hrsa.gov",
+    "name_value": "securesrtr.transplant.hrsa.gov",
+    "id": 22785433722,
+    "entry_timestamp": "2025-11-28T15:01:58.268",
+    "not_before": "2025-11-28T15:01:58",
+    "not_after": "2026-12-28T15:00:58",
+    "serial_number": "40019acafc36dcdefe3c3f7943e7a134",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "srtr.transplant.hrsa.gov",
+    "name_value": "srtr.transplant.hrsa.gov",
+    "id": 22785415263,
+    "entry_timestamp": "2025-11-28T15:00:05.731",
+    "not_before": "2025-11-28T15:00:05",
+    "not_after": "2026-12-28T14:59:05",
+    "serial_number": "40019acafa7fa82509f6902611755ae9",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 204407,
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
     "common_name": "hrsa.gov",
@@ -48,18 +72,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "secureapp1.hrsa.gov",
-    "name_value": "ehbuat05t01.hrsa.gov\nehbuat05t02.hrsa.gov\nehbuat05t03.hrsa.gov\nmchbtvisdatauat05.hrsa.gov\nmchbtvisuat05.hrsa.gov\nsecureapp1.hrsa.gov",
-    "id": 22741621939,
-    "entry_timestamp": "2025-11-26T09:29:47.795",
-    "not_before": "2025-11-25T18:57:09",
-    "not_after": "2026-02-23T18:57:08",
-    "serial_number": "06da1c89e1bb085dd6d78453f8440349d4eb",
-    "result_count": 7
-  },
-  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "soc-palostlg-p2.hrsa.gov",
@@ -106,6 +118,18 @@
     "not_after": "2026-12-25T21:14:36",
     "serial_number": "40019abcdf384214eaa49412d6b3b63a",
     "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "secureapp1.hrsa.gov",
+    "name_value": "ehbuat05t01.hrsa.gov\nehbuat05t02.hrsa.gov\nehbuat05t03.hrsa.gov\nmchbtvisdatauat05.hrsa.gov\nmchbtvisuat05.hrsa.gov\nsecureapp1.hrsa.gov",
+    "id": 22795266792,
+    "entry_timestamp": "2025-11-25T19:55:39.642",
+    "not_before": "2025-11-25T18:57:09",
+    "not_after": "2026-02-23T18:57:08",
+    "serial_number": "06da1c89e1bb085dd6d78453f8440349d4eb",
+    "result_count": 7
   },
   {
     "issuer_ca_id": 153248,
@@ -544,18 +568,6 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "servicecenterdev.hrsa.gov",
     "name_value": "servicecenterdev.hrsa.gov",
-    "id": 22447792667,
-    "entry_timestamp": "2025-11-13T21:59:13.342",
-    "not_before": "2025-11-13T21:00:42",
-    "not_after": "2026-02-11T21:00:41",
-    "serial_number": "067bf23aeda609735c8bbd5741e04a35ebf1",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "servicecenterdev.hrsa.gov",
-    "name_value": "servicecenterdev.hrsa.gov",
     "id": 22447779494,
     "entry_timestamp": "2025-11-13T21:59:13.109",
     "not_before": "2025-11-13T21:00:42",
@@ -604,18 +616,6 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "servicecentertest.hrsa.gov",
     "name_value": "servicecentertest.hrsa.gov",
-    "id": 22393825388,
-    "entry_timestamp": "2025-11-11T17:29:11.954",
-    "not_before": "2025-11-11T16:30:41",
-    "not_after": "2026-02-09T16:30:40",
-    "serial_number": "05e0ada73de8a0d9e8bbb59840c15fb06095",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "servicecentertest.hrsa.gov",
-    "name_value": "servicecentertest.hrsa.gov",
     "id": 22393830855,
     "entry_timestamp": "2025-11-11T17:29:11.713",
     "not_before": "2025-11-11T16:30:41",
@@ -652,48 +652,12 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "servicecenter.hrsa.gov",
     "name_value": "servicecenter.hrsa.gov",
-    "id": 22258535579,
-    "entry_timestamp": "2025-11-06T14:59:13.232",
-    "not_before": "2025-11-06T14:00:42",
-    "not_after": "2026-02-04T14:00:41",
-    "serial_number": "05fc7b9ddaf8e292d29c9659cf843559d2d3",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "servicecenter.hrsa.gov",
-    "name_value": "servicecenter.hrsa.gov",
     "id": 22258497474,
     "entry_timestamp": "2025-11-06T14:59:12.945",
     "not_before": "2025-11-06T14:00:42",
     "not_after": "2026-02-04T14:00:41",
     "serial_number": "05fc7b9ddaf8e292d29c9659cf843559d2d3",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "aka-www.hhs.gov",
-    "name_value": "aka-mchbgrandchallenges.hrsa.gov\naka-poisonhelp.hrsa.gov\nakaprod-bhw.hrsa.gov\nakaprod-bloodstemcell.hrsa.gov\nakaprod-bphc.hrsa.gov\nakaprod-mchbgrandchallenges.hrsa.gov\nakaprod-mchb.hrsa.gov\nakaprod-newbornscreening.hrsa.gov\nakaprod-nhsc.hrsa.gov\nakaprod-poisonhelp.hrsa.gov\nakaprod-ryanwhite.hrsa.gov\nakaprod-www.hrsa.gov\nakastage-bhw.hrsa.gov\nakastage-bloodstemcell.hrsa.gov\nakastage-bphc.hrsa.gov\nakastage-mchbgrandchallenges.hrsa.gov\nakastage-mchb.hrsa.gov\nakastage-newbornscreening.hrsa.gov\nakastage-nhsc.hrsa.gov\nakastage-poisonhelp.hrsa.gov\nakastage-ryanwhite.hrsa.gov\nakastage-www.hrsa.gov",
-    "id": 22185348541,
-    "entry_timestamp": "2025-11-03T19:04:34.413",
-    "not_before": "2025-11-03T18:06:04",
-    "not_after": "2026-02-01T18:06:03",
-    "serial_number": "062cde6b745d4b01d62c8ee397cb8736e7b0",
-    "result_count": 22
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "aka-www.hhs.gov",
-    "name_value": "aka-mchbgrandchallenges.hrsa.gov\naka-poisonhelp.hrsa.gov\nakaprod-bhw.hrsa.gov\nakaprod-bloodstemcell.hrsa.gov\nakaprod-bphc.hrsa.gov\nakaprod-mchbgrandchallenges.hrsa.gov\nakaprod-mchb.hrsa.gov\nakaprod-newbornscreening.hrsa.gov\nakaprod-nhsc.hrsa.gov\nakaprod-poisonhelp.hrsa.gov\nakaprod-ryanwhite.hrsa.gov\nakaprod-www.hrsa.gov\nakastage-bhw.hrsa.gov\nakastage-bloodstemcell.hrsa.gov\nakastage-bphc.hrsa.gov\nakastage-mchbgrandchallenges.hrsa.gov\nakastage-mchb.hrsa.gov\nakastage-newbornscreening.hrsa.gov\nakastage-nhsc.hrsa.gov\nakastage-poisonhelp.hrsa.gov\nakastage-ryanwhite.hrsa.gov\nakastage-www.hrsa.gov",
-    "id": 22185516239,
-    "entry_timestamp": "2025-11-03T19:04:34.155",
-    "not_before": "2025-11-03T18:06:04",
-    "not_after": "2026-02-01T18:06:03",
-    "serial_number": "062cde6b745d4b01d62c8ee397cb8736e7b0",
-    "result_count": 22
   },
   {
     "issuer_ca_id": 153248,
@@ -718,30 +682,6 @@
     "not_after": "2026-11-23T14:16:42",
     "serial_number": "40019a16951d4321c2e6e672522acdc8",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "search.usa.gov",
-    "name_value": "search.npdb.hrsa.gov",
-    "id": 21950416097,
-    "entry_timestamp": "2025-10-23T20:22:13.5",
-    "not_before": "2025-10-23T19:23:43",
-    "not_after": "2026-01-21T19:23:42",
-    "serial_number": "0670d5ec8dbb931b0bf92ebaffdfbdcb5c74",
-    "result_count": 1
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "search.usa.gov",
-    "name_value": "search.npdb.hrsa.gov",
-    "id": 21950417921,
-    "entry_timestamp": "2025-10-23T20:22:13.29",
-    "not_before": "2025-10-23T19:23:43",
-    "not_after": "2026-01-21T19:23:42",
-    "serial_number": "0670d5ec8dbb931b0bf92ebaffdfbdcb5c74",
-    "result_count": 1
   },
   {
     "issuer_ca_id": 295817,
@@ -972,30 +912,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "www.hhs.gov",
-    "name_value": "bhw.hrsa.gov\nbloodcell.transplant.hrsa.gov\nbloodstemcell.hrsa.gov\nbphc.hrsa.gov\ncoviduninsuredclaim.hrsa.gov\nhab.hrsa.gov\njobfair.hrsa.gov\nmchbgrandchallenges.hrsa.gov\nmchb.hrsa.gov\nnewbornscreening.hrsa.gov\nnhsc.hrsa.gov\npoisonhelp.hrsa.gov\nproviderrelief.hrsa.gov\nryanwhite.hrsa.gov\nwww.bhw.hrsa.gov\nwww.bloodstemcell.hrsa.gov\nwww.bphc.hrsa.gov\nwww.coviduninsuredclaim.hrsa.gov\nwww.hab.hrsa.gov\nwww.hrsa.gov\nwww.mchb.hrsa.gov\nwww.newbornscreening.hrsa.gov\nwww.nhsc.hrsa.gov\nwww.poisonhelp.hrsa.gov\nwww.providerrelief.hrsa.gov\nwww.ryanwhite.hrsa.gov",
-    "id": 21258223161,
-    "entry_timestamp": "2025-09-23T14:17:07.808",
-    "not_before": "2025-09-23T13:18:35",
-    "not_after": "2025-12-22T13:18:34",
-    "serial_number": "05c998b30c1e475e1358c53a79f740c88b33",
-    "result_count": 26
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "www.hhs.gov",
-    "name_value": "bhw.hrsa.gov\nbloodcell.transplant.hrsa.gov\nbloodstemcell.hrsa.gov\nbphc.hrsa.gov\ncoviduninsuredclaim.hrsa.gov\nhab.hrsa.gov\njobfair.hrsa.gov\nmchbgrandchallenges.hrsa.gov\nmchb.hrsa.gov\nnewbornscreening.hrsa.gov\nnhsc.hrsa.gov\npoisonhelp.hrsa.gov\nproviderrelief.hrsa.gov\nryanwhite.hrsa.gov\nwww.bhw.hrsa.gov\nwww.bloodstemcell.hrsa.gov\nwww.bphc.hrsa.gov\nwww.coviduninsuredclaim.hrsa.gov\nwww.hab.hrsa.gov\nwww.hrsa.gov\nwww.mchb.hrsa.gov\nwww.newbornscreening.hrsa.gov\nwww.nhsc.hrsa.gov\nwww.poisonhelp.hrsa.gov\nwww.providerrelief.hrsa.gov\nwww.ryanwhite.hrsa.gov",
-    "id": 21251735642,
-    "entry_timestamp": "2025-09-23T14:17:05.48",
-    "not_before": "2025-09-23T13:18:35",
-    "not_after": "2025-12-22T13:18:34",
-    "serial_number": "05c998b30c1e475e1358c53a79f740c88b33",
-    "result_count": 26
-  },
-  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "*.hrsa.gov",
@@ -1132,18 +1048,6 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "servicecenterdev.hrsa.gov",
     "name_value": "servicecenterdev.hrsa.gov",
-    "id": 21018775855,
-    "entry_timestamp": "2025-09-14T19:59:16.467",
-    "not_before": "2025-09-14T19:00:45",
-    "not_after": "2025-12-13T19:00:44",
-    "serial_number": "05d271734286e8bf8bf8830ab40b91cf1bf4",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "servicecenterdev.hrsa.gov",
-    "name_value": "servicecenterdev.hrsa.gov",
     "id": 21018774357,
     "entry_timestamp": "2025-09-14T19:59:16.172",
     "not_before": "2025-09-14T19:00:45",
@@ -1209,18 +1113,6 @@
     "not_before": "2025-09-12T00:00:00",
     "not_after": "2026-10-11T23:59:59",
     "serial_number": "0bec090291d767434ebde8c571d8b98f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "servicecentertest.hrsa.gov",
-    "name_value": "servicecentertest.hrsa.gov",
-    "id": 20970815249,
-    "entry_timestamp": "2025-09-12T15:29:13.793",
-    "not_before": "2025-09-12T14:30:43",
-    "not_after": "2025-12-11T14:30:42",
-    "serial_number": "05659abeb6169ad92238fd846b84bb08f74a",
     "result_count": 2
   },
   {
@@ -1384,18 +1276,6 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "servicecenter.hrsa.gov",
     "name_value": "servicecenter.hrsa.gov",
-    "id": 20849551835,
-    "entry_timestamp": "2025-09-07T12:59:11.684",
-    "not_before": "2025-09-07T12:00:41",
-    "not_after": "2025-12-06T12:00:40",
-    "serial_number": "064c78356f82db69eac9b3bbf110c727ded9",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "servicecenter.hrsa.gov",
-    "name_value": "servicecenter.hrsa.gov",
     "id": 20849506289,
     "entry_timestamp": "2025-09-07T12:59:11.557",
     "not_before": "2025-09-07T12:00:41",
@@ -1426,30 +1306,6 @@
     "not_after": "2025-11-30T19:14:41",
     "serial_number": "6b3426d8503920c627f5cd996c3d4a12",
     "result_count": 1
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "srtr.transplant.hrsa.gov",
-    "name_value": "srtr.transplant.hrsa.gov",
-    "id": 20824820764,
-    "entry_timestamp": "2025-09-06T09:07:13.008",
-    "not_before": "2024-10-29T20:03:33",
-    "not_after": "2025-11-28T20:02:33",
-    "serial_number": "400192d9e06037c4f571e349c6cf04d2",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "securesrtr.transplant.hrsa.gov",
-    "name_value": "securesrtr.transplant.hrsa.gov",
-    "id": 20823691398,
-    "entry_timestamp": "2025-09-06T07:55:49.335",
-    "not_before": "2024-10-29T20:02:37",
-    "not_after": "2025-11-28T20:01:37",
-    "serial_number": "400192d9df846942a8770392e26ec759",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 153248,
@@ -4293,30 +4149,6 @@
     "not_before": "2024-10-31T17:55:30",
     "not_after": "2025-11-30T17:54:30",
     "serial_number": "400192e3b7db51e2bb8aa66e193807a2",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "srtr.transplant.hrsa.gov",
-    "name_value": "srtr.transplant.hrsa.gov",
-    "id": 15131965437,
-    "entry_timestamp": "2024-10-29T20:03:33.675",
-    "not_before": "2024-10-29T20:03:33",
-    "not_after": "2025-11-28T20:02:33",
-    "serial_number": "400192d9e06037c4f571e349c6cf04d2",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "securesrtr.transplant.hrsa.gov",
-    "name_value": "securesrtr.transplant.hrsa.gov",
-    "id": 15131959565,
-    "entry_timestamp": "2024-10-29T20:02:37.333",
-    "not_before": "2024-10-29T20:02:37",
-    "not_after": "2025-11-28T20:01:37",
-    "serial_number": "400192d9df846942a8770392e26ec759",
     "result_count": 2
   }
 ]

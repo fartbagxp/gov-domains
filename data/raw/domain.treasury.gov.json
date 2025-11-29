@@ -5,7 +5,7 @@
     "common_name": "qa.navycash.fiscal.treasury.gov",
     "name_value": "qa.navycash.fiscal.treasury.gov",
     "id": 22777701238,
-    "entry_timestamp": "2025-11-28T05:41:48.121",
+    "entry_timestamp": "2025-11-28T05:41:47.904",
     "not_before": "2025-11-28T04:43:13",
     "not_after": "2026-02-26T04:43:12",
     "serial_number": "06b3b53c52e44b3472e83f4d30ab5f79e028",
@@ -41,7 +41,7 @@
     "common_name": "www.ustreas.gov",
     "name_value": "data.treasury.gov\nforms.treasury.gov\nticdata.treasury.gov",
     "id": 22733149005,
-    "entry_timestamp": "2025-11-25T18:24:59.079",
+    "entry_timestamp": "2025-11-25T18:24:54.56",
     "not_before": "2025-11-25T17:26:24",
     "not_after": "2026-02-23T17:26:23",
     "serial_number": "05651dd58729469722647cd984cd7118127d",
@@ -58,6 +58,18 @@
     "not_after": "2026-02-23T17:26:23",
     "serial_number": "05651dd58729469722647cd984cd7118127d",
     "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "home.treasury.gov",
+    "name_value": "dev.treasury.gov\nedit.stg.treasury.gov\nedit.treasury.gov\nhome.treasury.gov\nstg.treasury.gov\nuat.treasury.gov",
+    "id": 22792949903,
+    "entry_timestamp": "2025-11-25T17:35:59.727",
+    "not_before": "2025-11-25T16:37:29",
+    "not_after": "2026-02-23T16:37:28",
+    "serial_number": "05aac3f7e61ccc5e2873e0ec66593104aead",
+    "result_count": 7
   },
   {
     "issuer_ca_id": 295817,
@@ -149,7 +161,7 @@
     "common_name": "www.treasury.gov",
     "name_value": "m.treasury.gov\nwww.treasury.gov",
     "id": 22774006876,
-    "entry_timestamp": "2025-11-24T20:24:23.03",
+    "entry_timestamp": "2025-11-24T20:24:22.942",
     "not_before": "2025-11-24T19:25:51",
     "not_after": "2026-02-22T19:25:50",
     "serial_number": "06d2f0b174d2f04c1112bde67337c4dafe3e",
@@ -173,7 +185,7 @@
     "common_name": "irs.treasury.gov",
     "name_value": "irsoversightboard.treasury.gov\nirs.treasury.gov\nwww.irsoversightboard.treasury.gov",
     "id": 22716177528,
-    "entry_timestamp": "2025-11-24T20:19:28.708",
+    "entry_timestamp": "2025-11-24T20:19:28.618",
     "not_before": "2025-11-24T19:20:58",
     "not_after": "2026-02-22T19:20:57",
     "serial_number": "06b3c6c007772104d271b02620e0058c305f",
@@ -12638,18 +12650,6 @@
   {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "fahc-prod.ppmi.for.fiscal.treasury.gov",
-    "name_value": "checkclaims.for.fiscal.treasury.gov\nfahc-prod.ppmi.for.fiscal.treasury.gov\nidentity.pivot.for.fiscal.treasury.gov\nidentity.ppmi.for.fiscal.treasury.gov\npivot.for.fiscal.treasury.gov\nppmi.for.fiscal.treasury.gov\nwww.fahc-prod.ppmi.for.fiscal.treasury.gov",
-    "id": 15822424401,
-    "entry_timestamp": "2024-12-19T19:03:57.924",
-    "not_before": "2024-12-19T18:53:56",
-    "not_after": "2025-11-28T14:18:24",
-    "serial_number": "58ba17b56ada6bfd0b6f5710d72ad256",
-    "result_count": 8
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "top-wc2sim.fiscal.treasury.gov",
     "name_value": "top-wc2sim.fiscal.treasury.gov",
     "id": 15820784061,
@@ -13269,42 +13269,6 @@
     "not_before": "2024-11-05T18:18:43",
     "not_after": "2025-11-30T05:00:00",
     "serial_number": "125d2cb1b83e6e755fb3bd1135ec412c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "fahc-prod.tsel.for.fiscal.treasury.gov",
-    "name_value": "fahc-prod.tsel.for.fiscal.treasury.gov\ntsel.for.fiscal.treasury.gov\nwww.fahc-prod.tsel.for.fiscal.treasury.gov",
-    "id": 15112871691,
-    "entry_timestamp": "2024-10-28T16:41:03.806",
-    "not_before": "2024-10-28T16:41:03",
-    "not_after": "2025-11-28T16:41:02",
-    "serial_number": "00aaef915b774a4681e8dbc9e541c62f12",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "fahc-prod.ppmi.for.fiscal.treasury.gov",
-    "name_value": "fahc-prod.ppmi.for.fiscal.treasury.gov\nidentity.pivot.for.fiscal.treasury.gov\nidentity.ppmi.for.fiscal.treasury.gov\npivot.for.fiscal.treasury.gov\nppmi.for.fiscal.treasury.gov\nwww.fahc-prod.ppmi.for.fiscal.treasury.gov",
-    "id": 15111164635,
-    "entry_timestamp": "2024-10-28T14:18:26.148",
-    "not_before": "2024-10-28T14:18:25",
-    "not_after": "2025-11-28T14:18:24",
-    "serial_number": "6bc82680b310d930155190663c0ebf61",
-    "result_count": 7
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "qa01.mq.qa.ipac.fiscal.treasury.gov",
-    "name_value": "qa01.mq.qa.ipac.fiscal.treasury.gov",
-    "id": 15110247981,
-    "entry_timestamp": "2024-10-28T13:03:01.854",
-    "not_before": "2024-10-28T13:03:01",
-    "not_after": "2025-11-28T13:03:00",
-    "serial_number": "06d560c5bb2a534c5e44db40483b05ad",
     "result_count": 2
   }
 ]
