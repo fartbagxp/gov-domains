@@ -1,11 +1,35 @@
 [
   {
+    "issuer_ca_id": 247106,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
+    "common_name": "gitlab.production.gitlab.login.gov",
+    "name_value": "gitlab.login.gov\ngitlab.production.gitlab.login.gov",
+    "id": 22852598435,
+    "entry_timestamp": "2025-12-02T00:32:17.488",
+    "not_before": "2024-12-31T00:00:00",
+    "not_after": "2026-01-30T23:59:59",
+    "serial_number": "0b4d4dd085fe5c1234eb54fb54075f49",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "gitlab.production.gitlab.login.gov",
+    "name_value": "gitlab.login.gov\ngitlab.production.gitlab.login.gov",
+    "id": 22852586656,
+    "entry_timestamp": "2025-12-02T00:32:11.37",
+    "not_before": "2025-12-02T00:00:00",
+    "not_after": "2026-12-31T23:59:59",
+    "serial_number": "0522000b6ab47383cd132d3edb736037",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 295816,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "partners.login.gov",
     "name_value": "partners.login.gov",
     "id": 22809832761,
-    "entry_timestamp": "2025-11-29T20:20:01.558",
+    "entry_timestamp": "2025-11-29T20:19:58.463",
     "not_before": "2025-11-29T19:21:27",
     "not_after": "2026-02-27T19:21:26",
     "serial_number": "0656864f3d4b7b48fc7653fab5d285db2dca",
@@ -22,6 +46,30 @@
     "not_after": "2026-02-27T19:21:26",
     "serial_number": "0656864f3d4b7b48fc7653fab5d285db2dca",
     "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "login.gov",
+    "name_value": "login.gov\nwww.login.gov",
+    "id": 22844551381,
+    "entry_timestamp": "2025-11-29T12:00:23.416",
+    "not_before": "2025-11-29T11:01:52",
+    "not_after": "2026-02-27T11:01:51",
+    "serial_number": "061f7cf7b0f1ce62b825bae10f3aa0c4de72",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "login.gov",
+    "name_value": "login.gov\nwww.login.gov",
+    "id": 22850484554,
+    "entry_timestamp": "2025-11-29T12:00:23.09",
+    "not_before": "2025-11-29T11:01:52",
+    "not_after": "2026-02-27T11:01:51",
+    "serial_number": "061f7cf7b0f1ce62b825bae10f3aa0c4de72",
+    "result_count": 3
   },
   {
     "issuer_ca_id": 295816,
