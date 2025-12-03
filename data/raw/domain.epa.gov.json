@@ -1,5 +1,17 @@
 [
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "*.response.epa.gov",
+    "name_value": "ags.aws.response.epa.gov\nags.response.epa.gov\napi.response.epa.gov\ncluin.response.epa.gov\nertims-qa.response.epa.gov\nertims.response.epa.gov\nertsupport-qa.response.epa.gov\nertsupport.response.epa.gov\nertvideo-qa.response.epa.gov\nertvideo.response.epa.gov\nfs.response.epa.gov\nmaps.aws.response.epa.gov\nmaps.response.epa.gov\nnaum.aws.response.epa.gov\nnaum.response.epa.gov\nnrt-qa.response.epa.gov\nnrt.response.epa.gov\noemdata.response.epa.gov\noem-datastore.response.epa.gov\nr10data.aws.response.epa.gov\nr10data.response.epa.gov\nr1data.aws.response.epa.gov\nr1data.response.epa.gov\nr2data.aws.response.epa.gov\nr2data.response.epa.gov\nr3data.aws.response.epa.gov\nr3data.response.epa.gov\nr4data.aws.response.epa.gov\nr4data.response.epa.gov\nr5data.aws.response.epa.gov\nr5data.response.epa.gov\nr6data.aws.response.epa.gov\nr6data.response.epa.gov\nr7data.aws.response.epa.gov\nr7data.response.epa.gov\nr8data.aws.response.epa.gov\nr8data.response.epa.gov\nr9data.aws.response.epa.gov\nr9data.response.epa.gov\nreacdata.response.epa.gov\n*.response.epa.gov\nresponse.epa.gov\nresponse-qa.response.epa.gov\nscribenet.response.epa.gov\ntlc-qa.response.epa.gov\ntlc.response.epa.gov\nviper-qa.response.epa.gov\nviper.response.epa.gov\nwebeoc-qa.response.epa.gov",
+    "id": 22862856850,
+    "entry_timestamp": "2025-12-02T12:47:04.336",
+    "not_before": "2025-12-02T00:00:00",
+    "not_after": "2026-12-01T23:59:59",
+    "serial_number": "0bf2234fcb6b341e6b86f578fe60bbf3",
+    "result_count": 50
+  },
+  {
     "issuer_ca_id": 295809,
     "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
     "common_name": "bap.epa.gov",
@@ -29,7 +41,7 @@
     "common_name": "campd.epa.gov",
     "name_value": "campd.epa.gov",
     "id": 22832808264,
-    "entry_timestamp": "2025-12-01T01:20:06.088",
+    "entry_timestamp": "2025-12-01T01:20:00.993",
     "not_before": "2025-12-01T00:21:30",
     "not_after": "2026-03-01T00:21:29",
     "serial_number": "06fbab990f8a9e950163611dcdf7b1aeab0d",
@@ -53,7 +65,7 @@
     "common_name": "cobra.epa.gov",
     "name_value": "cobra.epa.gov",
     "id": 22830851356,
-    "entry_timestamp": "2025-11-30T22:20:05.066",
+    "entry_timestamp": "2025-11-30T22:20:02.274",
     "not_before": "2025-11-30T21:21:30",
     "not_after": "2026-02-28T21:21:29",
     "serial_number": "053ac1aa0ffcb8c03f77d2107b4b0645bd60",
@@ -65,22 +77,10 @@
     "common_name": "lookforwatersense.epa.gov",
     "name_value": "lookforwatersense.epa.gov",
     "id": 22830748729,
-    "entry_timestamp": "2025-11-30T22:20:04.782",
+    "entry_timestamp": "2025-11-30T22:20:01.601",
     "not_before": "2025-11-30T21:21:31",
     "not_after": "2026-02-28T21:21:30",
     "serial_number": "0631dcf655bd0dd6f46279bb1a36c49832cf",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "cobra.epa.gov",
-    "name_value": "cobra.epa.gov",
-    "id": 22830763588,
-    "entry_timestamp": "2025-11-30T22:20:02.13",
-    "not_before": "2025-11-30T21:21:30",
-    "not_after": "2026-02-28T21:21:29",
-    "serial_number": "053ac1aa0ffcb8c03f77d2107b4b0645bd60",
     "result_count": 2
   },
   {
@@ -93,6 +93,42 @@
     "not_before": "2025-11-30T21:21:31",
     "not_after": "2026-02-28T21:21:30",
     "serial_number": "0631dcf655bd0dd6f46279bb1a36c49832cf",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "cobra.epa.gov",
+    "name_value": "cobra.epa.gov",
+    "id": 22830763588,
+    "entry_timestamp": "2025-11-30T22:20:00.206",
+    "not_before": "2025-11-30T21:21:30",
+    "not_after": "2026-02-28T21:21:29",
+    "serial_number": "053ac1aa0ffcb8c03f77d2107b4b0645bd60",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "mywaterway.epa.gov",
+    "name_value": "mywaterway.epa.gov",
+    "id": 22870917308,
+    "entry_timestamp": "2025-11-30T21:20:01.208",
+    "not_before": "2025-11-30T20:21:30",
+    "not_after": "2026-02-28T20:21:29",
+    "serial_number": "0641437fb6f2101d7b16f91419c382a47522",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "mywaterway.epa.gov",
+    "name_value": "mywaterway.epa.gov",
+    "id": 22870911722,
+    "entry_timestamp": "2025-11-30T21:20:00.766",
+    "not_before": "2025-11-30T20:21:30",
+    "not_after": "2026-02-28T20:21:29",
+    "serial_number": "0641437fb6f2101d7b16f91419c382a47522",
     "result_count": 2
   },
   {

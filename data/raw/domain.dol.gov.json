@@ -1,5 +1,65 @@
 [
   {
+    "issuer_ca_id": 422998,
+    "issuer_name": "C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2025 Q4",
+    "common_name": "imperva.com",
+    "name_value": "*.dol.gov",
+    "id": 22880009481,
+    "entry_timestamp": "2025-12-03T07:05:01.605",
+    "not_before": "2025-12-03T07:04:59",
+    "not_after": "2025-12-04T07:04:01",
+    "serial_number": "01dca7e24852b70f7d45fc09c39fec47",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "test.hirevets.gov",
+    "name_value": "*.test.pace.dol.gov",
+    "id": 22871353494,
+    "entry_timestamp": "2025-12-02T21:33:58.12",
+    "not_before": "2025-12-02T00:00:00",
+    "not_after": "2026-12-31T23:59:59",
+    "serial_number": "05d3a1fb52d258bc7dbcad2e72109455",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "dev.hirevets.gov",
+    "name_value": "*.dev.pace.dol.gov",
+    "id": 22871320537,
+    "entry_timestamp": "2025-12-02T21:32:02.197",
+    "not_before": "2025-12-02T00:00:00",
+    "not_after": "2026-12-31T23:59:59",
+    "serial_number": "0d43062a7e247c8cc1491abdcbd532fc",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 365075,
+    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
+    "common_name": "labornet.dol.gov",
+    "name_value": "labornet.dol.gov\nwww.labornet.dol.gov",
+    "id": 22865577471,
+    "entry_timestamp": "2025-12-02T15:43:44.78",
+    "not_before": "2025-03-24T16:34:30",
+    "not_after": "2026-04-24T04:00:00",
+    "serial_number": "5822e1ba88efd48d1f5ad36e261d9f4d",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "labornet.dol.gov",
+    "name_value": "admintools.dol.gov\nengineering.dol.gov\nlabornet.dol.gov\nsearch.labornet.dol.gov",
+    "id": 22865554292,
+    "entry_timestamp": "2025-12-02T15:43:01.998",
+    "not_before": "2025-12-02T00:00:00",
+    "not_after": "2026-12-31T23:59:59",
+    "serial_number": "086ec4e04e6a407fda8c49d956822273",
+    "result_count": 5
+  },
+  {
     "issuer_ca_id": 246719,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "api.arpaui-id.dol.gov",
