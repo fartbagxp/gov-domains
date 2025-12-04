@@ -1,14 +1,98 @@
 [
   {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "ccaaswsdev.dol.gov",
+    "name_value": "ccaaswsdev.dol.gov",
+    "id": 22891993238,
+    "entry_timestamp": "2025-12-04T04:00:01.358",
+    "not_before": "2025-12-04T00:00:00",
+    "not_after": "2027-01-02T23:59:59",
+    "serial_number": "0f594aa57db3a710f856ce2890011e4c",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "ccaaswsdev.dol.gov",
+    "name_value": "ccaaswsdev.dol.gov",
+    "id": 22891802334,
+    "entry_timestamp": "2025-12-04T02:27:19.368",
+    "not_before": "2025-12-04T00:00:00",
+    "not_after": "2027-01-02T23:59:59",
+    "serial_number": "0f594aa57db3a710f856ce2890011e4c",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 422998,
     "issuer_name": "C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2025 Q4",
     "common_name": "imperva.com",
-    "name_value": "*.dol.gov",
-    "id": 22880009481,
-    "entry_timestamp": "2025-12-03T07:05:01.605",
-    "not_before": "2025-12-03T07:04:59",
-    "not_after": "2025-12-04T07:04:01",
-    "serial_number": "01dca7e24852b70f7d45fc09c39fec47",
+    "name_value": "*.uat.dol.gov",
+    "id": 22891526873,
+    "entry_timestamp": "2025-12-04T00:30:21.03",
+    "not_before": "2025-12-04T00:30:18",
+    "not_after": "2025-12-05T00:30:18",
+    "serial_number": "0135dbef9a236006dae3a45d7f3fbdf8",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "staging.ofccptraining.dol.gov",
+    "name_value": "ofccptraining.staging.pace.dol.gov\nstaging.ofccptraining.dol.gov",
+    "id": 22893298067,
+    "entry_timestamp": "2025-12-03T20:33:40.068",
+    "not_before": "2025-12-03T19:32:46",
+    "not_after": "2026-03-03T19:32:45",
+    "serial_number": "05f584f28eda140c7e69d21a308a6f5e013c",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "testvpn.dol.gov",
+    "name_value": "testvpn.dol.gov",
+    "id": 22890292421,
+    "entry_timestamp": "2025-12-03T18:42:08.586",
+    "not_before": "2025-12-03T00:00:00",
+    "not_after": "2027-01-03T23:59:59",
+    "serial_number": "00ade604bdddfee17d0963745f36d5ce19",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "testvpn.dol.gov",
+    "name_value": "testvpn.dol.gov",
+    "id": 22890291473,
+    "entry_timestamp": "2025-12-03T18:42:07.186",
+    "not_before": "2025-12-03T00:00:00",
+    "not_after": "2027-01-03T23:59:59",
+    "serial_number": "00ade604bdddfee17d0963745f36d5ce19",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 422998,
+    "issuer_name": "C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2025 Q4",
+    "common_name": "imperva.com",
+    "name_value": "*.uat.dol.gov",
+    "id": 22888906109,
+    "entry_timestamp": "2025-12-03T16:31:57.686",
+    "not_before": "2025-12-03T16:31:55",
+    "not_after": "2025-12-04T16:31:25",
+    "serial_number": "01475c8b42ae7c979862eef11a273e18",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "staging.hirevets.gov",
+    "name_value": "*.staging.pace.dol.gov",
+    "id": 22888491238,
+    "entry_timestamp": "2025-12-03T16:07:49.405",
+    "not_before": "2025-12-03T00:00:00",
+    "not_after": "2027-01-01T23:59:59",
+    "serial_number": "09fed78af924e634ff45e65525e2cfad",
     "result_count": 1
   },
   {
@@ -5580,18 +5664,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 239799,
-    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
-    "common_name": "ofccptraining.dol.gov",
-    "name_value": "ofccptraining.dol.gov",
-    "id": 18806208435,
-    "entry_timestamp": "2025-06-04T13:26:49.915",
-    "not_before": "2025-06-03T00:00:00",
-    "not_after": "2025-12-03T23:59:59",
-    "serial_number": "0cd735e4064f84e5d17c789306a18e3c",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "dac.dol.gov",
@@ -5602,18 +5674,6 @@
     "not_after": "2026-07-03T04:00:00",
     "serial_number": "31429d422bde1bb1c6ceb3d25c42746e",
     "result_count": 6
-  },
-  {
-    "issuer_ca_id": 239799,
-    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
-    "common_name": "ofccptraining.dol.gov",
-    "name_value": "ofccptraining.dol.gov",
-    "id": 18788660730,
-    "entry_timestamp": "2025-06-03T13:32:07.939",
-    "not_before": "2025-06-03T00:00:00",
-    "not_after": "2025-12-03T23:59:59",
-    "serial_number": "0cd735e4064f84e5d17c789306a18e3c",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 365075,
