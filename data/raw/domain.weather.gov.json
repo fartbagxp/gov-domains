@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "ocean.weather.gov",
+    "name_value": "ftp.ocean.weather.gov\nocean.weather.gov",
+    "id": 22906883799,
+    "entry_timestamp": "2025-12-05T16:39:49.508",
+    "not_before": "2025-12-05T15:41:19",
+    "not_after": "2026-03-05T15:41:18",
+    "serial_number": "0617264523ba350a30ad25d3af5499b0e4d8",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "secure.training.weather.gov",
+    "name_value": "secure.training.weather.gov",
+    "id": 22905900733,
+    "entry_timestamp": "2025-12-04T12:01:47.054",
+    "not_before": "2025-12-04T11:03:17",
+    "not_after": "2026-03-04T11:03:16",
+    "serial_number": "0572e08e3cd96d6db247ff990a3f78dbee64",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 904,
     "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
     "common_name": "*.weather.gov",
@@ -226,30 +250,6 @@
     "not_after": "2025-12-07T04:02:50",
     "serial_number": "057d01b00a640278464719d2320b252fe057",
     "result_count": 1
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "beta.weather.gov",
-    "name_value": "beta.weather.gov",
-    "id": 20838359687,
-    "entry_timestamp": "2025-09-06T22:20:02.368",
-    "not_before": "2025-09-06T21:21:32",
-    "not_after": "2025-12-05T21:21:31",
-    "serial_number": "0613f6dad6576ae520adb15c4d8ab17c6670",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "beta.weather.gov",
-    "name_value": "beta.weather.gov",
-    "id": 20837707077,
-    "entry_timestamp": "2025-09-06T22:20:02.27",
-    "not_before": "2025-09-06T21:21:32",
-    "not_after": "2025-12-05T21:21:31",
-    "serial_number": "0613f6dad6576ae520adb15c4d8ab17c6670",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 247106,

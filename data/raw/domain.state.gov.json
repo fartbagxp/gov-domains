@@ -1,14 +1,62 @@
 [
   {
+    "issuer_ca_id": 365075,
+    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
+    "common_name": "oasis.state.gov",
+    "name_value": "oasis.state.gov\nwww.oasis.state.gov",
+    "id": 22915521710,
+    "entry_timestamp": "2025-12-05T14:55:16.206",
+    "not_before": "2025-03-27T16:10:04",
+    "not_after": "2026-04-27T04:00:00",
+    "serial_number": "38b11e9dcd6bb25912ef46e7c34e88a6",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "ds-mobilebiometrics-preprod.state.gov",
+    "name_value": "ds-mobilebiometrics-preprod.state.gov",
+    "id": 22911015934,
+    "entry_timestamp": "2025-12-04T19:42:30.598",
+    "not_before": "2025-12-04T18:42:53",
+    "not_after": "2026-03-04T18:42:52",
+    "serial_number": "05dcb4d1a19ff737e1920d30a862f70ce6fc",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 295809,
     "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
     "common_name": "ds-mobilebiometrics-preprod.state.gov",
     "name_value": "ds-mobilebiometrics-preprod.state.gov",
     "id": 22897170290,
-    "entry_timestamp": "2025-12-04T19:41:26.307",
+    "entry_timestamp": "2025-12-04T19:41:26.187",
     "not_before": "2025-12-04T18:42:56",
     "not_after": "2026-03-04T18:42:55",
     "serial_number": "05e3e6585fcde9f9c7c4c9a2d2781707a7c0",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "hx-bimc-vcenter.ucn.state.gov",
+    "name_value": "hx-bimc-vcenter.ucn.state.gov",
+    "id": 22907176941,
+    "entry_timestamp": "2025-12-04T18:41:24.221",
+    "not_before": "2025-12-04T17:42:42",
+    "not_after": "2026-03-04T17:42:41",
+    "serial_number": "061b49a9ef6b83c9af1ced358276cb0f13a9",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "hx-bimc-vcenter.ucn.state.gov",
+    "name_value": "hx-bimc-vcenter.ucn.state.gov",
+    "id": 22909553725,
+    "entry_timestamp": "2025-12-04T18:41:13.153",
+    "not_before": "2025-12-04T17:42:42",
+    "not_after": "2026-03-04T17:42:41",
+    "serial_number": "061b49a9ef6b83c9af1ced358276cb0f13a9",
     "result_count": 2
   },
   {
@@ -14294,18 +14342,6 @@
   {
     "issuer_ca_id": 239799,
     "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
-    "common_name": "budapest.ilea.state.gov",
-    "name_value": "budapest.ilea.state.gov",
-    "id": 20171235900,
-    "entry_timestamp": "2025-08-07T03:13:10.594",
-    "not_before": "2025-07-30T00:00:00",
-    "not_after": "2026-01-30T23:59:59",
-    "serial_number": "0b4fa613a3b724b17cfbb4b309739a8e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 239799,
-    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
     "common_name": "bangkok.ilea.state.gov",
     "name_value": "bangkok.ilea.state.gov",
     "id": 20171236251,
@@ -14313,6 +14349,18 @@
     "not_before": "2025-07-31T00:00:00",
     "not_after": "2026-01-31T23:59:59",
     "serial_number": "026ff0e3908fcf8a30f132c9452de078",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 239799,
+    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
+    "common_name": "budapest.ilea.state.gov",
+    "name_value": "budapest.ilea.state.gov",
+    "id": 20171235900,
+    "entry_timestamp": "2025-08-07T03:13:10.594",
+    "not_before": "2025-07-30T00:00:00",
+    "not_after": "2026-01-30T23:59:59",
+    "serial_number": "0b4fa613a3b724b17cfbb4b309739a8e",
     "result_count": 2
   },
   {
@@ -19248,18 +19296,6 @@
     "result_count": 4
   },
   {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "*.rpc.state.gov",
-    "name_value": "*.rpc.state.gov\nrpc.state.gov",
-    "id": 15641078288,
-    "entry_timestamp": "2024-12-06T18:53:02.515",
-    "not_before": "2024-12-06T00:00:00",
-    "not_after": "2025-12-05T23:59:59",
-    "serial_number": "0c095eb2fdfbec8cea5200fef1797ba7",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "ecaapi-nonprod.state.gov",
@@ -19366,30 +19402,6 @@
     "not_after": "2025-12-17T23:59:59",
     "serial_number": "0326f31b3d20164ee0941bb740301ad9",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "fam.state.gov",
-    "name_value": "fam.state.gov\nwww.fam.state.gov",
-    "id": 15331357637,
-    "entry_timestamp": "2024-11-13T04:47:26.96",
-    "not_before": "2024-11-12T15:58:09",
-    "not_after": "2025-12-06T10:08:25",
-    "serial_number": "41de12ef32830ff687c8f2842ef806ee",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "fam.state.gov",
-    "name_value": "fam.state.gov\nwww.fam.state.gov",
-    "id": 15323913195,
-    "entry_timestamp": "2024-11-12T16:08:10.277",
-    "not_before": "2024-11-12T15:58:09",
-    "not_after": "2025-12-06T10:08:25",
-    "serial_number": "41de12ef32830ff687c8f2842ef806ee",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 185752,

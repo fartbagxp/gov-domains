@@ -1,15 +1,63 @@
 [
   {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "cisa.dhs.gov",
+    "name_value": "*.cisa.dhs.gov\ncisa.dhs.gov\n*.lb.cisa.dhs.gov",
+    "id": 22914790113,
+    "entry_timestamp": "2025-12-05T13:37:03.065",
+    "not_before": "2025-12-02T14:58:27",
+    "not_after": "2026-03-02T15:55:02",
+    "serial_number": "19e59e0c0e82789d0d9490693132bf5d",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 185748,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
+    "common_name": "www4.dhs.gov",
+    "name_value": "ace.cbp.dhs.gov\nacm.dhs.gov\nakamai-ds.dhs.gov\nbigpipe.cbp.dhs.gov\ncapsis.dhs.gov\ncbpbusinessconnection.cbp.dhs.gov\ncbpbusinessconnection-sat1.cbp.dhs.gov\ndebunked.dhs.gov\ndhscube.dhs.gov\ndtops.cbp.dhs.gov\neapis.cbp.dhs.gov\neapisws.cbp.dhs.gov\nengage.dhs.gov\nesfsdevelopment.dhs.gov\nesfs.dhs.gov\nesfstest.dhs.gov\nesta.cbp.dhs.gov\nfincen105.cbp.dhs.gov\ngo.dhs.gov\nmobile.cbp.dhs.gov\nmobile-cert.cbp.dhs.gov\nmrctpat.cbp.dhs.gov\nmyoido.dhs.gov\npreview-go.dhs.gov\nstaging-engage.dhs.gov\nuvi.dhs.gov\nwow.dhs.gov\nwww4.dhs.gov",
+    "id": 22910154324,
+    "entry_timestamp": "2025-12-04T19:39:07.59",
+    "not_before": "2025-12-04T00:00:00",
+    "not_after": "2026-06-16T23:59:59",
+    "serial_number": "0997f26ac9c1a614107a5fdf4a0eb8cc",
+    "result_count": 29
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "www4.dhs.gov",
+    "name_value": "ace.cbp.dhs.gov\nacm.dhs.gov\nakamai-ds.dhs.gov\nbigpipe.cbp.dhs.gov\ncapsis.dhs.gov\ncbpbusinessconnection.cbp.dhs.gov\ncbpbusinessconnection-sat1.cbp.dhs.gov\ndebunked.dhs.gov\ndhscube.dhs.gov\ndtops.cbp.dhs.gov\neapis.cbp.dhs.gov\neapisws.cbp.dhs.gov\nengage.dhs.gov\nesfsdevelopment.dhs.gov\nesfs.dhs.gov\nesfstest.dhs.gov\nesta.cbp.dhs.gov\nfincen105.cbp.dhs.gov\ngo.dhs.gov\nmobile.cbp.dhs.gov\nmobile-cert.cbp.dhs.gov\nmrctpat.cbp.dhs.gov\nmyoido.dhs.gov\npreview-go.dhs.gov\nstaging-engage.dhs.gov\nuvi.dhs.gov\nwow.dhs.gov\nwww4.dhs.gov",
+    "id": 22909780749,
+    "entry_timestamp": "2025-12-04T19:04:01.037",
+    "not_before": "2025-12-04T00:00:00",
+    "not_after": "2026-06-16T23:59:59",
+    "serial_number": "0cd4474d068454225404414530168c6d",
+    "result_count": 29
+  },
+  {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "splunkhfhec-dev.cbp.dhs.gov",
-    "name_value": "*.splunkhfhec-dev.cbp.dhs.gov\nsplunkhfhec-dev.cbp.dhs.gov",
-    "id": 22893298712,
-    "entry_timestamp": "2025-12-03T21:45:30.144",
-    "not_before": "2025-11-30T23:16:59",
-    "not_after": "2026-03-01T00:14:35",
-    "serial_number": "772db1599c5eac321107735a44021b7c",
-    "result_count": 3
+    "common_name": "uatextsoa.fsms.dhs.gov",
+    "name_value": "uatextsoa.fsms.dhs.gov",
+    "id": 22894115305,
+    "entry_timestamp": "2025-12-03T21:12:28.287",
+    "not_before": "2025-12-03T20:12:27",
+    "not_after": "2026-03-03T21:12:26",
+    "serial_number": "0099fa4e7b60afcbde0e8d2e8b262b0fde",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "uatextsoa.fsms.dhs.gov",
+    "name_value": "uatextsoa.fsms.dhs.gov",
+    "id": 22893880481,
+    "entry_timestamp": "2025-12-03T21:12:21.056",
+    "not_before": "2025-12-03T20:12:20",
+    "not_after": "2026-03-03T21:10:07",
+    "serial_number": "4f68c4fa214b48de0e236b28501062b2",
+    "result_count": 2
   },
   {
     "issuer_ca_id": 185752,
@@ -557,7 +605,7 @@
     "common_name": "sandbox-g110f.dhs.gov",
     "name_value": "app.sandbox-g110f.dhs.gov\nsandbox-g110f.dhs.gov",
     "id": 22849538802,
-    "entry_timestamp": "2025-12-01T20:44:33.018",
+    "entry_timestamp": "2025-12-01T20:44:32.997",
     "not_before": "2025-12-01T19:44:32",
     "not_after": "2026-03-01T20:44:28",
     "serial_number": "00db01d44001ec679911d812780d425e8f",
@@ -581,7 +629,7 @@
     "common_name": "data.dev1dcats.dhs.gov",
     "name_value": "*.data.dev1dcats.dhs.gov\ndata.dev1dcats.dhs.gov",
     "id": 22849478819,
-    "entry_timestamp": "2025-12-01T20:40:43.303",
+    "entry_timestamp": "2025-12-01T20:40:40.55",
     "not_before": "2025-12-01T19:42:10",
     "not_after": "2026-03-01T19:42:09",
     "serial_number": "054ac81ed6ad3de313d53fcc213a60046dec",
@@ -600,28 +648,16 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "sts.hssedi.dhs.gov",
-    "name_value": "certauth.sts.hssedi.dhs.gov\nenterpriseregistration.hssedi.dhs.gov\nsts.hssedi.dhs.gov",
-    "id": 22848296347,
-    "entry_timestamp": "2025-12-01T19:17:28.721",
-    "not_before": "2025-12-01T00:00:00",
-    "not_after": "2026-12-01T23:59:59",
-    "serial_number": "00928eb23fd4a322ed2be278920cc81285",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "sts.hssedi.dhs.gov",
-    "name_value": "certauth.sts.hssedi.dhs.gov\nenterpriseregistration.hssedi.dhs.gov\nsts.hssedi.dhs.gov",
-    "id": 22848281064,
-    "entry_timestamp": "2025-12-01T19:17:27.169",
-    "not_before": "2025-12-01T00:00:00",
-    "not_after": "2026-12-01T23:59:59",
-    "serial_number": "00928eb23fd4a322ed2be278920cc81285",
-    "result_count": 4
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "data.dev1dcats.dhs.gov",
+    "name_value": "*.data.dev1dcats.dhs.gov\ndata.dev1dcats.dhs.gov",
+    "id": 22895191977,
+    "entry_timestamp": "2025-12-01T20:40:35.627",
+    "not_before": "2025-12-01T19:42:05",
+    "not_after": "2026-03-01T19:42:04",
+    "serial_number": "05e4b50a33bddd76b39fdaf36cb7612a4448",
+    "result_count": 3
   },
   {
     "issuer_ca_id": 286236,
@@ -686,10 +722,22 @@
   {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "splunkhfhec-dev.cbp.dhs.gov",
+    "name_value": "*.splunkhfhec-dev.cbp.dhs.gov\nsplunkhfhec-dev.cbp.dhs.gov",
+    "id": 22893298712,
+    "entry_timestamp": "2025-12-01T00:16:59.741",
+    "not_before": "2025-11-30T23:16:59",
+    "not_after": "2026-03-01T00:14:35",
+    "serial_number": "772db1599c5eac321107735a44021b7c",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "origin-cdm.cisa.dhs.gov",
     "name_value": "*.origin-cdm.cisa.dhs.gov\norigin-cdm.cisa.dhs.gov",
     "id": 22828338045,
-    "entry_timestamp": "2025-11-30T19:09:16.93",
+    "entry_timestamp": "2025-11-30T19:09:16.864",
     "not_before": "2025-11-30T18:09:16",
     "not_after": "2026-02-28T19:09:11",
     "serial_number": "00b78e2fdf727e2dd10db8838a4b5c110f",
@@ -701,7 +749,7 @@
     "common_name": "origin-cdm.cisa.dhs.gov",
     "name_value": "*.origin-cdm.cisa.dhs.gov\norigin-cdm.cisa.dhs.gov",
     "id": 22828321469,
-    "entry_timestamp": "2025-11-30T19:09:06.664",
+    "entry_timestamp": "2025-11-30T19:09:06.432",
     "not_before": "2025-11-30T18:09:06",
     "not_after": "2026-02-28T19:07:46",
     "serial_number": "009d08fe218d11074d134c738feb2fdc78",
@@ -713,7 +761,7 @@
     "common_name": "origin-cbplink.cbp.dhs.gov",
     "name_value": "*.origin-cbplink.cbp.dhs.gov\norigin-cbplink.cbp.dhs.gov",
     "id": 22865446399,
-    "entry_timestamp": "2025-11-30T14:21:54.099",
+    "entry_timestamp": "2025-11-30T14:21:54.023",
     "not_before": "2025-11-30T13:23:23",
     "not_after": "2026-02-28T13:23:22",
     "serial_number": "052b7a25bada984868ed905c3c5e95833293",
@@ -737,7 +785,7 @@
     "common_name": "origin-cbplink.cbp.dhs.gov",
     "name_value": "*.origin-cbplink.cbp.dhs.gov\norigin-cbplink.cbp.dhs.gov",
     "id": 22824321649,
-    "entry_timestamp": "2025-11-30T14:21:35.316",
+    "entry_timestamp": "2025-11-30T14:21:35.232",
     "not_before": "2025-11-30T13:23:04",
     "not_after": "2026-02-28T13:23:03",
     "serial_number": "05459fb052574a466e54a5866fd82b7f5fd3",
@@ -761,7 +809,7 @@
     "common_name": "origin-cbplink-cert.cbp.dhs.gov",
     "name_value": "*.origin-cbplink-cert.cbp.dhs.gov\norigin-cbplink-cert.cbp.dhs.gov",
     "id": 22824227512,
-    "entry_timestamp": "2025-11-30T14:15:02.66",
+    "entry_timestamp": "2025-11-30T14:15:02.586",
     "not_before": "2025-11-30T13:16:32",
     "not_after": "2026-02-28T13:16:31",
     "serial_number": "05d9d77f18372066dc6b67e5617b01f8c716",
@@ -785,7 +833,7 @@
     "common_name": "origin-cbplink-cert.cbp.dhs.gov",
     "name_value": "*.origin-cbplink-cert.cbp.dhs.gov\norigin-cbplink-cert.cbp.dhs.gov",
     "id": 22865370662,
-    "entry_timestamp": "2025-11-30T14:14:53.424",
+    "entry_timestamp": "2025-11-30T14:14:53.349",
     "not_before": "2025-11-30T13:16:22",
     "not_after": "2026-02-28T13:16:21",
     "serial_number": "06d56ec99e3542ebac1d30bb49840755232d",
@@ -3028,18 +3076,6 @@
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
     "common_name": "hq-gp.dhs.gov",
     "name_value": "*.hq-gp.dhs.gov\nhq-gp.dhs.gov",
-    "id": 22189006552,
-    "entry_timestamp": "2025-11-03T23:45:31.134",
-    "not_before": "2025-11-03T00:00:00",
-    "not_after": "2026-02-01T22:53:03",
-    "serial_number": "0088e0bc9eebe6f3b4c2d396c43795c9d7",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "hq-gp.dhs.gov",
-    "name_value": "*.hq-gp.dhs.gov\nhq-gp.dhs.gov",
     "id": 22189005908,
     "entry_timestamp": "2025-11-03T23:45:29.911",
     "not_before": "2025-11-03T00:00:00",
@@ -3070,54 +3106,6 @@
     "not_after": "2026-02-01T19:30:49",
     "serial_number": "05af052150f06e9b0d1d2b8ebefe7a2030c4",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "lbi-lsc.cbp.dhs.gov",
-    "name_value": "lbi-lsc.cbp.dhs.gov\nwww.lbi-lsc.cbp.dhs.gov",
-    "id": 22183499208,
-    "entry_timestamp": "2025-11-03T17:40:12.565",
-    "not_before": "2025-11-03T00:00:00",
-    "not_after": "2026-11-03T23:59:59",
-    "serial_number": "00cd9ea496094e304d3f80e218d174f5c2",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "lbi-lsc.cbp.dhs.gov",
-    "name_value": "lbi-lsc.cbp.dhs.gov\nwww.lbi-lsc.cbp.dhs.gov",
-    "id": 22183484462,
-    "entry_timestamp": "2025-11-03T17:40:11.421",
-    "not_before": "2025-11-03T00:00:00",
-    "not_after": "2026-11-03T23:59:59",
-    "serial_number": "00cd9ea496094e304d3f80e218d174f5c2",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "mclpr.cbp.dhs.gov",
-    "name_value": "mclpr.cbp.dhs.gov\nwww.mclpr.cbp.dhs.gov",
-    "id": 22183499400,
-    "entry_timestamp": "2025-11-03T17:40:05.483",
-    "not_before": "2025-11-03T00:00:00",
-    "not_after": "2026-11-03T23:59:59",
-    "serial_number": "00e25d6dea870f4ecdb18488a70d675c8b",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "mclpr.cbp.dhs.gov",
-    "name_value": "mclpr.cbp.dhs.gov\nwww.mclpr.cbp.dhs.gov",
-    "id": 22183483973,
-    "entry_timestamp": "2025-11-03T17:40:02.368",
-    "not_before": "2025-11-03T00:00:00",
-    "not_after": "2026-11-03T23:59:59",
-    "serial_number": "00e25d6dea870f4ecdb18488a70d675c8b",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 286236,
@@ -3292,18 +3280,6 @@
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
     "common_name": "incontrol.denver.tsa.dhs.gov",
     "name_value": "*.incontrol.denver.tsa.dhs.gov\nincontrol.denver.tsa.dhs.gov",
-    "id": 22162215797,
-    "entry_timestamp": "2025-11-02T16:16:52.007",
-    "not_before": "2025-11-02T00:00:00",
-    "not_after": "2026-01-30T06:59:12",
-    "serial_number": "68d66f2a3830f26428773689bd37141b",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "incontrol.denver.tsa.dhs.gov",
-    "name_value": "*.incontrol.denver.tsa.dhs.gov\nincontrol.denver.tsa.dhs.gov",
     "id": 22162216451,
     "entry_timestamp": "2025-11-02T16:16:46.551",
     "not_before": "2025-11-02T00:00:00",
@@ -3364,35 +3340,11 @@
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
     "common_name": "fw1b.denver.tsa.dhs.gov",
     "name_value": "*.fw1b.denver.tsa.dhs.gov\nfw1b.denver.tsa.dhs.gov",
-    "id": 22155683186,
-    "entry_timestamp": "2025-11-02T08:40:07.268",
-    "not_before": "2025-11-02T00:00:00",
-    "not_after": "2026-01-30T07:00:22",
-    "serial_number": "00bd5caac36135b774fe36fc9c3b5a555a",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "fw1b.denver.tsa.dhs.gov",
-    "name_value": "*.fw1b.denver.tsa.dhs.gov\nfw1b.denver.tsa.dhs.gov",
     "id": 22155682720,
     "entry_timestamp": "2025-11-02T08:40:05.558",
     "not_before": "2025-11-02T00:00:00",
     "not_after": "2026-01-30T07:00:22",
     "serial_number": "00bd5caac36135b774fe36fc9c3b5a555a",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "fw1a.denver.tsa.dhs.gov",
-    "name_value": "*.fw1a.denver.tsa.dhs.gov\nfw1a.denver.tsa.dhs.gov",
-    "id": 22155655990,
-    "entry_timestamp": "2025-11-02T08:37:58.228",
-    "not_before": "2025-11-02T00:00:00",
-    "not_after": "2026-01-30T06:58:27",
-    "serial_number": "00c4ce2ee004c9de8be63be52e663c8c3d",
     "result_count": 3
   },
   {
@@ -3994,30 +3946,6 @@
     "not_after": "2026-11-30T23:59:59",
     "serial_number": "42e946a49163aa8f8212ab822c2e43b2",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "eapisws.cbp.dhs.gov",
-    "name_value": "eapisws.cbp.dhs.gov\nwww.eapisws.cbp.dhs.gov",
-    "id": 22089852128,
-    "entry_timestamp": "2025-10-29T19:22:10.675",
-    "not_before": "2025-10-29T00:00:00",
-    "not_after": "2026-10-29T23:59:59",
-    "serial_number": "095c60e3a9b92349f5e34a9e1f4081c2",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "eapisws.cbp.dhs.gov",
-    "name_value": "eapisws.cbp.dhs.gov\nwww.eapisws.cbp.dhs.gov",
-    "id": 22089840196,
-    "entry_timestamp": "2025-10-29T19:22:09.025",
-    "not_before": "2025-10-29T00:00:00",
-    "not_after": "2026-10-29T23:59:59",
-    "serial_number": "095c60e3a9b92349f5e34a9e1f4081c2",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 295817,
@@ -6048,30 +5976,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "qa-api.cbp.dhs.gov",
-    "name_value": "qa-api.cbp.dhs.gov\nwww.qa-api.cbp.dhs.gov",
-    "id": 22062750459,
-    "entry_timestamp": "2025-10-28T13:40:59.83",
-    "not_before": "2025-10-28T00:00:00",
-    "not_after": "2026-10-28T23:59:59",
-    "serial_number": "00e861f7933c38745963fe63fe95c4a71e",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "qa-api.cbp.dhs.gov",
-    "name_value": "qa-api.cbp.dhs.gov\nwww.qa-api.cbp.dhs.gov",
-    "id": 22062738839,
-    "entry_timestamp": "2025-10-28T13:40:58.567",
-    "not_before": "2025-10-28T00:00:00",
-    "not_after": "2026-10-28T23:59:59",
-    "serial_number": "00e861f7933c38745963fe63fe95c4a71e",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "cdm.cisa.dhs.gov",
@@ -6201,66 +6105,6 @@
     "not_before": "2025-10-27T00:00:00",
     "not_after": "2026-01-25T09:05:21",
     "serial_number": "00e5e20b5bec62e136924b5d7b2bfc5d91",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "cbph-sat.cbp.dhs.gov",
-    "name_value": "cbph-sat.cbp.dhs.gov\nwww.cbph-sat.cbp.dhs.gov",
-    "id": 22040863912,
-    "entry_timestamp": "2025-10-27T13:50:14.988",
-    "not_before": "2025-10-27T00:00:00",
-    "not_after": "2026-10-27T23:59:59",
-    "serial_number": "4d787b5665fdf6b4388eb8ddd2bf3685",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "cbph-sat.cbp.dhs.gov",
-    "name_value": "cbph-sat.cbp.dhs.gov\nwww.cbph-sat.cbp.dhs.gov",
-    "id": 22040848578,
-    "entry_timestamp": "2025-10-27T13:50:13.15",
-    "not_before": "2025-10-27T00:00:00",
-    "not_after": "2026-10-27T23:59:59",
-    "serial_number": "4d787b5665fdf6b4388eb8ddd2bf3685",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "cbph.cbp.dhs.gov",
-    "name_value": "cbph.cbp.dhs.gov\nwww.cbph.cbp.dhs.gov",
-    "id": 22040863995,
-    "entry_timestamp": "2025-10-27T13:50:05.461",
-    "not_before": "2025-10-27T00:00:00",
-    "not_after": "2026-10-27T23:59:59",
-    "serial_number": "00c819f12eb061cf89074f80126869390c",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "cbph.cbp.dhs.gov",
-    "name_value": "cbph.cbp.dhs.gov\nwww.cbph.cbp.dhs.gov",
-    "id": 22040848495,
-    "entry_timestamp": "2025-10-27T13:50:04.515",
-    "not_before": "2025-10-27T00:00:00",
-    "not_after": "2026-10-27T23:59:59",
-    "serial_number": "00c819f12eb061cf89074f80126869390c",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "connect.cisa.dhs.gov",
-    "name_value": "*.connect.cisa.dhs.gov\nconnect.cisa.dhs.gov",
-    "id": 22035813594,
-    "entry_timestamp": "2025-10-27T09:05:08.201",
-    "not_before": "2025-10-27T00:00:00",
-    "not_after": "2026-01-24T20:31:54",
-    "serial_number": "008fcc7ad5a94748ff9ff08d28e2898578",
     "result_count": 3
   },
   {
@@ -6660,30 +6504,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "webamoss.cbp.dhs.gov",
-    "name_value": "webamoss.cbp.dhs.gov\nwww.webamoss.cbp.dhs.gov",
-    "id": 21946252362,
-    "entry_timestamp": "2025-10-23T16:32:21.334",
-    "not_before": "2025-10-23T00:00:00",
-    "not_after": "2026-10-23T23:59:59",
-    "serial_number": "511eeb1c89a4358caa61b6984107f363",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "webamoss.cbp.dhs.gov",
-    "name_value": "webamoss.cbp.dhs.gov\nwww.webamoss.cbp.dhs.gov",
-    "id": 21946218883,
-    "entry_timestamp": "2025-10-23T16:32:20.74",
-    "not_before": "2025-10-23T00:00:00",
-    "not_after": "2026-10-23T23:59:59",
-    "serial_number": "511eeb1c89a4358caa61b6984107f363",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "zt.cbp.dhs.gov",
@@ -6718,30 +6538,6 @@
     "not_after": "2026-01-21T14:08:34",
     "serial_number": "06729556f2cbdd2bd16053ef26dd32bb561e",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "publicstats.cbp.gov",
-    "name_value": "publicstats.cbp.dhs.gov",
-    "id": 21943785773,
-    "entry_timestamp": "2025-10-23T14:33:00.032",
-    "not_before": "2025-10-23T00:00:00",
-    "not_after": "2026-10-23T23:59:59",
-    "serial_number": "03f1a686845e962bd5e425a982838f85",
-    "result_count": 1
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "publicstats.cbp.gov",
-    "name_value": "publicstats.cbp.dhs.gov",
-    "id": 21943760406,
-    "entry_timestamp": "2025-10-23T14:32:58.978",
-    "not_before": "2025-10-23T00:00:00",
-    "not_after": "2026-10-23T23:59:59",
-    "serial_number": "03f1a686845e962bd5e425a982838f85",
-    "result_count": 1
   },
   {
     "issuer_ca_id": 247119,
@@ -6837,30 +6633,6 @@
     "not_before": "2025-10-23T03:22:35",
     "not_after": "2026-01-21T04:21:01",
     "serial_number": "57a2093cb609c6b513652e07f864b318",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "taws01a-v0095.ad.cbp.dhs.gov",
-    "name_value": "taws01a-v0095.ad.cbp.dhs.gov\nwww.taws01a-v0095.ad.cbp.dhs.gov",
-    "id": 21927822020,
-    "entry_timestamp": "2025-10-23T01:10:10.025",
-    "not_before": "2025-10-23T00:00:00",
-    "not_after": "2026-10-23T23:59:59",
-    "serial_number": "422a87978e8e0f7b328ad2c2c486b884",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "taws01a-v0095.ad.cbp.dhs.gov",
-    "name_value": "taws01a-v0095.ad.cbp.dhs.gov\nwww.taws01a-v0095.ad.cbp.dhs.gov",
-    "id": 21927798424,
-    "entry_timestamp": "2025-10-23T01:10:09.023",
-    "not_before": "2025-10-23T00:00:00",
-    "not_after": "2026-10-23T23:59:59",
-    "serial_number": "422a87978e8e0f7b328ad2c2c486b884",
     "result_count": 3
   },
   {
@@ -7044,30 +6816,6 @@
     "result_count": 18
   },
   {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "mclprtest.cbp.dhs.gov",
-    "name_value": "mclprtest.cbp.dhs.gov\nwww.mclprtest.cbp.dhs.gov",
-    "id": 21883144359,
-    "entry_timestamp": "2025-10-21T11:53:55.99",
-    "not_before": "2025-10-21T00:00:00",
-    "not_after": "2026-10-21T23:59:59",
-    "serial_number": "00d7bc9707330438ab200a26e441e20c56",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "mclprtest.cbp.dhs.gov",
-    "name_value": "mclprtest.cbp.dhs.gov\nwww.mclprtest.cbp.dhs.gov",
-    "id": 21883081557,
-    "entry_timestamp": "2025-10-21T11:52:56.839",
-    "not_before": "2025-10-21T00:00:00",
-    "not_after": "2026-10-21T23:59:59",
-    "serial_number": "00d7bc9707330438ab200a26e441e20c56",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 282053,
     "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
     "common_name": "fw1b.denver.tsa.dhs.gov",
@@ -7132,35 +6880,11 @@
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
     "common_name": "hsinuat.dhs.gov",
     "name_value": "*.hsinuat.dhs.gov\nhsinuat.dhs.gov",
-    "id": 21826805542,
-    "entry_timestamp": "2025-10-19T11:51:51.703",
-    "not_before": "2025-10-19T00:00:00",
-    "not_after": "2026-01-10T08:17:18",
-    "serial_number": "44f0dafe5fa4a790e44b448b64beaa64",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "hsinuat.dhs.gov",
-    "name_value": "*.hsinuat.dhs.gov\nhsinuat.dhs.gov",
     "id": 21826802901,
     "entry_timestamp": "2025-10-19T11:51:50.056",
     "not_before": "2025-10-19T00:00:00",
     "not_after": "2026-01-10T08:17:18",
     "serial_number": "44f0dafe5fa4a790e44b448b64beaa64",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "govtauat.dhs.gov",
-    "name_value": "*.govtauat.dhs.gov\ngovtauat.dhs.gov",
-    "id": 21800013397,
-    "entry_timestamp": "2025-10-18T09:54:34.95",
-    "not_before": "2025-10-18T00:00:00",
-    "not_after": "2026-01-12T08:31:54",
-    "serial_number": "50d97b55e5ffbe308356f171b80e8344",
     "result_count": 3
   },
   {
@@ -7198,18 +6922,6 @@
     "not_after": "2026-10-15T23:59:59",
     "serial_number": "0632142d3541b397fe966ee6215ecae9",
     "result_count": 5
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "exisadfs.tsa.dhs.gov",
-    "name_value": "*.exisadfs.tsa.dhs.gov\nexisadfs.tsa.dhs.gov",
-    "id": 21752377568,
-    "entry_timestamp": "2025-10-16T04:50:35.54",
-    "not_before": "2025-10-16T00:00:00",
-    "not_after": "2026-01-07T02:43:49",
-    "serial_number": "00ae10878799d1d7b7d05e1547925c3ee2",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 204406,
@@ -7305,30 +7017,6 @@
     "not_before": "2025-10-15T14:28:03",
     "not_after": "2026-01-13T14:28:02",
     "serial_number": "0660dd72384fa8aaa864c76135f3e81f5cdd",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "test-clientauth.cbp.dhs.gov",
-    "name_value": "test-clientauth.cbp.dhs.gov\nwww.test-clientauth.cbp.dhs.gov",
-    "id": 21737995365,
-    "entry_timestamp": "2025-10-15T13:41:21.784",
-    "not_before": "2025-10-15T00:00:00",
-    "not_after": "2026-10-15T23:59:59",
-    "serial_number": "64bd7486d7750efb1bbea496dd2fa1c0",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "test-clientauth.cbp.dhs.gov",
-    "name_value": "test-clientauth.cbp.dhs.gov\nwww.test-clientauth.cbp.dhs.gov",
-    "id": 21737979271,
-    "entry_timestamp": "2025-10-15T13:41:20.835",
-    "not_before": "2025-10-15T00:00:00",
-    "not_after": "2026-10-15T23:59:59",
-    "serial_number": "64bd7486d7750efb1bbea496dd2fa1c0",
     "result_count": 3
   },
   {
@@ -8016,54 +7704,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "cbp-guest.cbp.dhs.gov",
-    "name_value": "cbp-guest.cbp.dhs.gov\nwww.cbp-guest.cbp.dhs.gov",
-    "id": 21571321936,
-    "entry_timestamp": "2025-10-08T11:37:00.068",
-    "not_before": "2025-10-08T00:00:00",
-    "not_after": "2026-10-08T23:59:59",
-    "serial_number": "00d447b80bdbb2e8c9cb813239e3c55866",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "cbp-guest.cbp.dhs.gov",
-    "name_value": "cbp-guest.cbp.dhs.gov\nwww.cbp-guest.cbp.dhs.gov",
-    "id": 21571298852,
-    "entry_timestamp": "2025-10-08T11:36:59.4",
-    "not_before": "2025-10-08T00:00:00",
-    "not_after": "2026-10-08T23:59:59",
-    "serial_number": "00d447b80bdbb2e8c9cb813239e3c55866",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "api.cbp.dhs.gov",
-    "name_value": "agent.cbp.dhs.gov\nai.bp.dhs.gov\napi.cbp.dhs.gov\nb2b.cbp.dhs.gov\ndevice.cbp.dhs.gov\ngpt.cbp.dhs.gov\nmcp.cbp.dhs.gov\nmobile-api.cbp.dhs.gov\nopenweb.cbp.dhs.gov",
-    "id": 21550377170,
-    "entry_timestamp": "2025-10-07T15:37:51.081",
-    "not_before": "2025-10-07T00:00:00",
-    "not_after": "2026-10-07T23:59:59",
-    "serial_number": "6eb2ced41566008cc77b8a0f8e6d70b1",
-    "result_count": 10
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "api.cbp.dhs.gov",
-    "name_value": "agent.cbp.dhs.gov\nai.bp.dhs.gov\napi.cbp.dhs.gov\nb2b.cbp.dhs.gov\ndevice.cbp.dhs.gov\ngpt.cbp.dhs.gov\nmcp.cbp.dhs.gov\nmobile-api.cbp.dhs.gov\nopenweb.cbp.dhs.gov",
-    "id": 21550352980,
-    "entry_timestamp": "2025-10-07T15:37:48.874",
-    "not_before": "2025-10-07T00:00:00",
-    "not_after": "2026-10-07T23:59:59",
-    "serial_number": "6eb2ced41566008cc77b8a0f8e6d70b1",
-    "result_count": 10
-  },
-  {
     "issuer_ca_id": 62123,
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
     "common_name": "edit.staging1.dhs.gov",
@@ -8110,78 +7750,6 @@
     "not_after": "2026-01-03T21:00:25",
     "serial_number": "706a6b01a073a6950ed70d891cfc71d1",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "fnwg-dp-internet06.cbp.dhs.gov",
-    "name_value": "fnwg-dp-internet06.cbp.dhs.gov\nwww.fnwg-dp-internet06.cbp.dhs.gov",
-    "id": 21526976354,
-    "entry_timestamp": "2025-10-06T18:18:29.874",
-    "not_before": "2025-10-06T00:00:00",
-    "not_after": "2026-10-06T23:59:59",
-    "serial_number": "00ad9e6ecee30cb4a8a08af2ef669f19c5",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "fnwg-dp-internet05.cbp.dhs.gov",
-    "name_value": "fnwg-dp-internet05.cbp.dhs.gov\nwww.fnwg-dp-internet05.cbp.dhs.gov",
-    "id": 21526976178,
-    "entry_timestamp": "2025-10-06T18:18:29.468",
-    "not_before": "2025-10-06T00:00:00",
-    "not_after": "2026-10-06T23:59:59",
-    "serial_number": "00d9cab1dcbff50b59dea401900582e98f",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "fnwg-dp-internet06.cbp.dhs.gov",
-    "name_value": "fnwg-dp-internet06.cbp.dhs.gov\nwww.fnwg-dp-internet06.cbp.dhs.gov",
-    "id": 21526959000,
-    "entry_timestamp": "2025-10-06T18:18:28.267",
-    "not_before": "2025-10-06T00:00:00",
-    "not_after": "2026-10-06T23:59:59",
-    "serial_number": "00ad9e6ecee30cb4a8a08af2ef669f19c5",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "fnwg-dp-internet05.cbp.dhs.gov",
-    "name_value": "fnwg-dp-internet05.cbp.dhs.gov\nwww.fnwg-dp-internet05.cbp.dhs.gov",
-    "id": 21526958951,
-    "entry_timestamp": "2025-10-06T18:18:27.867",
-    "not_before": "2025-10-06T00:00:00",
-    "not_after": "2026-10-06T23:59:59",
-    "serial_number": "00d9cab1dcbff50b59dea401900582e98f",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "dp-int-exvip1.cbp.dhs.gov",
-    "name_value": "dp-int-exvip1.cbp.dhs.gov\nwww.dp-int-exvip1.cbp.dhs.gov",
-    "id": 21526976253,
-    "entry_timestamp": "2025-10-06T18:18:25.479",
-    "not_before": "2025-10-06T00:00:00",
-    "not_after": "2026-10-06T23:59:59",
-    "serial_number": "09f24fd97902fda6fe36b7fe8b0835e4",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "dp-int-exvip1.cbp.dhs.gov",
-    "name_value": "dp-int-exvip1.cbp.dhs.gov\nwww.dp-int-exvip1.cbp.dhs.gov",
-    "id": 21526957985,
-    "entry_timestamp": "2025-10-06T18:18:22.039",
-    "not_before": "2025-10-06T00:00:00",
-    "not_after": "2026-10-06T23:59:59",
-    "serial_number": "09f24fd97902fda6fe36b7fe8b0835e4",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 295809,
@@ -8736,30 +8304,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "tecs-cas.cbp.dhs.gov",
-    "name_value": "tecs-cas-aws1.cbp.dhs.gov\ntecs-cas.cbp.dhs.gov\ntecs-cas-edu.cbp.dhs.gov\ntecs.cbp.dhs.gov\ntecsedu.cbp.dhs.gov\nwww.tecs-cas.cbp.dhs.gov",
-    "id": 21380891508,
-    "entry_timestamp": "2025-09-30T19:38:09.525",
-    "not_before": "2025-09-30T00:00:00",
-    "not_after": "2026-09-30T23:59:59",
-    "serial_number": "00a8da105ba5d5bcf4963b3f40a2dca7",
-    "result_count": 7
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "tecs-cas.cbp.dhs.gov",
-    "name_value": "tecs-cas-aws1.cbp.dhs.gov\ntecs-cas.cbp.dhs.gov\ntecs-cas-edu.cbp.dhs.gov\ntecs.cbp.dhs.gov\ntecsedu.cbp.dhs.gov\nwww.tecs-cas.cbp.dhs.gov",
-    "id": 21380875814,
-    "entry_timestamp": "2025-09-30T19:38:09.037",
-    "not_before": "2025-09-30T00:00:00",
-    "not_after": "2026-09-30T23:59:59",
-    "serial_number": "00a8da105ba5d5bcf4963b3f40a2dca7",
-    "result_count": 7
-  },
-  {
     "issuer_ca_id": 385512,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
     "common_name": "api-staging.acdms2.tsa.dhs.gov",
@@ -8854,54 +8398,6 @@
     "not_after": "2025-12-29T11:02:08",
     "serial_number": "06ca9c7c2dbce719939b4df5e86ed18377fe",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "ace.crt.tnc.ace.cbp.dhs.gov",
-    "name_value": "ace.crt.tnc.ace.cbp.dhs.gov\nwww.ace.crt.tnc.ace.cbp.dhs.gov",
-    "id": 21352473290,
-    "entry_timestamp": "2025-09-29T18:19:39.863",
-    "not_before": "2025-09-29T00:00:00",
-    "not_after": "2026-09-29T23:59:59",
-    "serial_number": "00c22343dfac2a1a68da224cb8043f5e2e",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "ace.crt.tnc.ace.cbp.dhs.gov",
-    "name_value": "ace.crt.tnc.ace.cbp.dhs.gov\nwww.ace.crt.tnc.ace.cbp.dhs.gov",
-    "id": 21352444826,
-    "entry_timestamp": "2025-09-29T18:19:38.059",
-    "not_before": "2025-09-29T00:00:00",
-    "not_after": "2026-09-29T23:59:59",
-    "serial_number": "00c22343dfac2a1a68da224cb8043f5e2e",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "encounters.cbp.dhs.gov",
-    "name_value": "encounters.cbp.dhs.gov\nwww.encounters.cbp.dhs.gov",
-    "id": 21348442934,
-    "entry_timestamp": "2025-09-29T14:04:04.94",
-    "not_before": "2025-09-29T00:00:00",
-    "not_after": "2026-09-29T23:59:59",
-    "serial_number": "3deb73fec4f33e30a643b57033e1a2dc",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "encounters.cbp.dhs.gov",
-    "name_value": "encounters.cbp.dhs.gov\nwww.encounters.cbp.dhs.gov",
-    "id": 21348426158,
-    "entry_timestamp": "2025-09-29T14:04:04.187",
-    "not_before": "2025-09-29T00:00:00",
-    "not_after": "2026-09-29T23:59:59",
-    "serial_number": "3deb73fec4f33e30a643b57033e1a2dc",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 286236,
@@ -9286,78 +8782,6 @@
     "not_after": "2025-12-25T16:11:15",
     "serial_number": "058a0f079f69700a8fedf368235531d636b6",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "api-ng.cbp.dhs.gov",
-    "name_value": "api-ng.cbp.dhs.gov\nwww.api-ng.cbp.dhs.gov",
-    "id": 21280229445,
-    "entry_timestamp": "2025-09-26T04:05:20.493",
-    "not_before": "2025-09-26T00:00:00",
-    "not_after": "2026-09-26T23:59:59",
-    "serial_number": "7006df82e19ecc058ea16391adf58e0b",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "api-sat.cbp.dhs.gov",
-    "name_value": "api-sat.cbp.dhs.gov\nwww.api-sat.cbp.dhs.gov",
-    "id": 21280228837,
-    "entry_timestamp": "2025-09-26T04:05:15.848",
-    "not_before": "2025-09-26T00:00:00",
-    "not_after": "2026-09-26T23:59:59",
-    "serial_number": "0771ecdff1ec043473e8f1d586d69150",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "api-ng.cbp.dhs.gov",
-    "name_value": "api-ng.cbp.dhs.gov\nwww.api-ng.cbp.dhs.gov",
-    "id": 21280207935,
-    "entry_timestamp": "2025-09-26T04:05:15.748",
-    "not_before": "2025-09-26T00:00:00",
-    "not_after": "2026-09-26T23:59:59",
-    "serial_number": "7006df82e19ecc058ea16391adf58e0b",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "api-sat.cbp.dhs.gov",
-    "name_value": "api-sat.cbp.dhs.gov\nwww.api-sat.cbp.dhs.gov",
-    "id": 21280208010,
-    "entry_timestamp": "2025-09-26T04:05:12.71",
-    "not_before": "2025-09-26T00:00:00",
-    "not_after": "2026-09-26T23:59:59",
-    "serial_number": "0771ecdff1ec043473e8f1d586d69150",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "api-devl.cbp.dhs.gov",
-    "name_value": "api-devl.cbp.dhs.gov\nwww.api-devl.cbp.dhs.gov",
-    "id": 21280227948,
-    "entry_timestamp": "2025-09-26T04:04:56.822",
-    "not_before": "2025-09-26T00:00:00",
-    "not_after": "2026-09-26T23:59:59",
-    "serial_number": "41b14ba735d0c63d3f1d2d144cd7c134",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "api-devl.cbp.dhs.gov",
-    "name_value": "api-devl.cbp.dhs.gov\nwww.api-devl.cbp.dhs.gov",
-    "id": 21280207440,
-    "entry_timestamp": "2025-09-26T04:04:51.208",
-    "not_before": "2025-09-26T00:00:00",
-    "not_after": "2026-09-26T23:59:59",
-    "serial_number": "41b14ba735d0c63d3f1d2d144cd7c134",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 286236,
@@ -10272,30 +9696,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "encounters-sat.cbp.dhs.gov",
-    "name_value": "encounters-sat.cbp.dhs.gov\nwww.encounters-sat.cbp.dhs.gov",
-    "id": 21222980650,
-    "entry_timestamp": "2025-09-23T13:57:40.995",
-    "not_before": "2025-09-23T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "00ceb8935a46a6cd481f0ee91e46b81a50",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "encounters-sat.cbp.dhs.gov",
-    "name_value": "encounters-sat.cbp.dhs.gov\nwww.encounters-sat.cbp.dhs.gov",
-    "id": 21222979663,
-    "entry_timestamp": "2025-09-23T13:57:40.241",
-    "not_before": "2025-09-23T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "00ceb8935a46a6cd481f0ee91e46b81a50",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "hq-gp.dhs.gov",
@@ -10749,102 +10149,6 @@
     "not_before": "2025-09-19T17:27:06",
     "not_after": "2025-12-18T17:27:05",
     "serial_number": "05e9836d7bc70516aae263171bbaa5fb12cc",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "ttpglobal-sat.cbp.dhs.gov",
-    "name_value": "ttpglobal-sat.cbp.dhs.gov\nwww.ttpglobal-sat.cbp.dhs.gov",
-    "id": 21137228237,
-    "entry_timestamp": "2025-09-19T17:52:50.581",
-    "not_before": "2025-09-19T00:00:00",
-    "not_after": "2026-09-19T23:59:59",
-    "serial_number": "00d00e77ad8f3fb8b0e2cdda8b142607ab",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "ttpglobal-sat.cbp.dhs.gov",
-    "name_value": "ttpglobal-sat.cbp.dhs.gov\nwww.ttpglobal-sat.cbp.dhs.gov",
-    "id": 21137228541,
-    "entry_timestamp": "2025-09-19T17:52:49.962",
-    "not_before": "2025-09-19T00:00:00",
-    "not_after": "2026-09-19T23:59:59",
-    "serial_number": "00d00e77ad8f3fb8b0e2cdda8b142607ab",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "ttpglobal.cbp.dhs.gov",
-    "name_value": "ttpglobal.cbp.dhs.gov\nwww.ttpglobal.cbp.dhs.gov",
-    "id": 21137227989,
-    "entry_timestamp": "2025-09-19T17:52:39.239",
-    "not_before": "2025-09-19T00:00:00",
-    "not_after": "2026-09-19T23:59:59",
-    "serial_number": "1fa3ec2a38cb08ad76eddf75e3e808c6",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "ttpglobal.cbp.dhs.gov",
-    "name_value": "ttpglobal.cbp.dhs.gov\nwww.ttpglobal.cbp.dhs.gov",
-    "id": 21137228119,
-    "entry_timestamp": "2025-09-19T17:52:38.237",
-    "not_before": "2025-09-19T00:00:00",
-    "not_after": "2026-09-19T23:59:59",
-    "serial_number": "1fa3ec2a38cb08ad76eddf75e3e808c6",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "tfmglobal-sat.cbp.dhs.gov",
-    "name_value": "tfmglobal-sat.cbp.dhs.gov\nwww.tfmglobal-sat.cbp.dhs.gov",
-    "id": 21137227391,
-    "entry_timestamp": "2025-09-19T17:52:22.83",
-    "not_before": "2025-09-19T00:00:00",
-    "not_after": "2026-09-19T23:59:59",
-    "serial_number": "00c09d4b37cb5bb9523bbf6f529b439d35",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "tfmglobal-sat.cbp.dhs.gov",
-    "name_value": "tfmglobal-sat.cbp.dhs.gov\nwww.tfmglobal-sat.cbp.dhs.gov",
-    "id": 21137228607,
-    "entry_timestamp": "2025-09-19T17:52:21.729",
-    "not_before": "2025-09-19T00:00:00",
-    "not_after": "2026-09-19T23:59:59",
-    "serial_number": "00c09d4b37cb5bb9523bbf6f529b439d35",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "tfmglobal.cbp.dhs.gov",
-    "name_value": "tfmglobal.cbp.dhs.gov\nwww.tfmglobal.cbp.dhs.gov",
-    "id": 21137195858,
-    "entry_timestamp": "2025-09-19T17:50:25.835",
-    "not_before": "2025-09-19T00:00:00",
-    "not_after": "2026-09-19T23:59:59",
-    "serial_number": "541763e6f771a5557f28e6b86093f5b3",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "tfmglobal.cbp.dhs.gov",
-    "name_value": "tfmglobal.cbp.dhs.gov\nwww.tfmglobal.cbp.dhs.gov",
-    "id": 21137195790,
-    "entry_timestamp": "2025-09-19T17:50:24.701",
-    "not_before": "2025-09-19T00:00:00",
-    "not_after": "2026-09-19T23:59:59",
-    "serial_number": "541763e6f771a5557f28e6b86093f5b3",
     "result_count": 3
   },
   {
@@ -11640,30 +10944,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "analytics-uip.cbp.dhs.gov",
-    "name_value": "analytics-uip.cbp.dhs.gov\nwww.analytics-uip.cbp.dhs.gov",
-    "id": 20968497254,
-    "entry_timestamp": "2025-09-12T13:14:16.542",
-    "not_before": "2025-09-12T00:00:00",
-    "not_after": "2026-09-12T23:59:59",
-    "serial_number": "441bd7ccc7359f2bb8ef3a37f734c741",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "analytics-uip.cbp.dhs.gov",
-    "name_value": "analytics-uip.cbp.dhs.gov\nwww.analytics-uip.cbp.dhs.gov",
-    "id": 20968483383,
-    "entry_timestamp": "2025-09-12T13:12:03.642",
-    "not_before": "2025-09-12T00:00:00",
-    "not_after": "2026-09-12T23:59:59",
-    "serial_number": "441bd7ccc7359f2bb8ef3a37f734c741",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "ifft.fema.dhs.gov",
@@ -12132,18 +11412,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "response.tsa.dhs.gov",
-    "name_value": "response.tsa.dhs.gov",
-    "id": 20843123548,
-    "entry_timestamp": "2025-09-07T05:04:46.226",
-    "not_before": "2024-11-05T15:46:19",
-    "not_after": "2025-12-05T15:46:17",
-    "serial_number": "00ffc8593edb77a64a36f4d75a610ce331",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 185748,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
     "common_name": "www3.dhs.gov",
@@ -12156,42 +11424,6 @@
     "result_count": 12
   },
   {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "azprerasftp01.dhs.gov",
-    "name_value": "*.azprerasftp01.dhs.gov\nazprerasftp01.dhs.gov",
-    "id": 20837239914,
-    "entry_timestamp": "2025-09-06T20:55:20.876",
-    "not_before": "2025-09-06T19:55:20",
-    "not_after": "2025-12-05T20:55:17",
-    "serial_number": "008205c12aed582928131fe3aa6546cbb4",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "azprerasftp01.dhs.gov",
-    "name_value": "*.azprerasftp01.dhs.gov\nazprerasftp01.dhs.gov",
-    "id": 20837239312,
-    "entry_timestamp": "2025-09-06T20:55:11.876",
-    "not_before": "2025-09-06T19:55:11",
-    "not_after": "2025-12-05T20:52:53",
-    "serial_number": "65c583e3b627ab8411457a19aa6baac2",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "srp.dhs.gov",
-    "name_value": "srp.dhs.gov",
-    "id": 20810221838,
-    "entry_timestamp": "2025-09-05T17:35:48.945",
-    "not_before": "2025-09-05T16:13:48",
-    "not_after": "2025-12-04T17:13:45",
-    "serial_number": "00b6c6f8bca4e46413133e3d99c5963faf",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "visitstelizabeths.dhs.gov",
@@ -12202,30 +11434,6 @@
     "not_after": "2026-09-04T23:59:59",
     "serial_number": "0ced5dfbbf8f69e16d449d26515445c7",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "srp.dhs.gov",
-    "name_value": "srp.dhs.gov",
-    "id": 20818622368,
-    "entry_timestamp": "2025-09-05T17:13:48.704",
-    "not_before": "2025-09-05T16:13:48",
-    "not_after": "2025-12-04T17:13:45",
-    "serial_number": "00b6c6f8bca4e46413133e3d99c5963faf",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "srp.dhs.gov",
-    "name_value": "srp.dhs.gov",
-    "id": 20818620218,
-    "entry_timestamp": "2025-09-05T17:13:40.219",
-    "not_before": "2025-09-05T16:13:39",
-    "not_after": "2025-12-04T17:12:19",
-    "serial_number": "2cd52e0fd1c0b3970ef9c7aaf4001472",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 385512,
@@ -12252,30 +11460,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "ace.cbp.dhs.gov",
-    "name_value": "ace.cbp.dhs.gov\nwww.ace.cbp.dhs.gov",
-    "id": 20790134661,
-    "entry_timestamp": "2025-09-04T18:40:43.016",
-    "not_before": "2025-09-04T00:00:00",
-    "not_after": "2026-09-04T23:59:59",
-    "serial_number": "00c76984ca5a7e17c232bcb92482a473e4",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "ace.cbp.dhs.gov",
-    "name_value": "ace.cbp.dhs.gov\nwww.ace.cbp.dhs.gov",
-    "id": 20790135032,
-    "entry_timestamp": "2025-09-04T18:40:41.673",
-    "not_before": "2025-09-04T00:00:00",
-    "not_after": "2026-09-04T23:59:59",
-    "serial_number": "00c76984ca5a7e17c232bcb92482a473e4",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "FXRedactdev.oig.dhs.gov",
@@ -12298,30 +11482,6 @@
     "not_after": "2026-09-01T23:59:59",
     "serial_number": "0c4a2d64e67927b7dda10f375a5aa0e1",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "eapis.cbp.dhs.gov",
-    "name_value": "eapis.cbp.dhs.gov\nwww.eapis.cbp.dhs.gov",
-    "id": 20745099782,
-    "entry_timestamp": "2025-09-02T13:24:25.875",
-    "not_before": "2025-09-02T00:00:00",
-    "not_after": "2026-09-02T23:59:59",
-    "serial_number": "62935abb46e4a32c25dbb20fe8d3b4a2",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "eapis.cbp.dhs.gov",
-    "name_value": "eapis.cbp.dhs.gov\nwww.eapis.cbp.dhs.gov",
-    "id": 20745099780,
-    "entry_timestamp": "2025-09-02T13:24:25.284",
-    "not_before": "2025-09-02T00:00:00",
-    "not_after": "2026-09-02T23:59:59",
-    "serial_number": "62935abb46e4a32c25dbb20fe8d3b4a2",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 365075,
@@ -12528,54 +11688,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "ictp-sat.cbp.dhs.gov",
-    "name_value": "ictp-sat.cbp.dhs.gov\nwww.ictp-sat.cbp.dhs.gov",
-    "id": 20632448187,
-    "entry_timestamp": "2025-08-28T14:48:29.551",
-    "not_before": "2025-08-28T00:00:00",
-    "not_after": "2026-08-28T23:59:59",
-    "serial_number": "00a32607486d745b2b5fb9625cdc7ee9fb",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "ictp-sat.cbp.dhs.gov",
-    "name_value": "ictp-sat.cbp.dhs.gov\nwww.ictp-sat.cbp.dhs.gov",
-    "id": 20632447150,
-    "entry_timestamp": "2025-08-28T14:48:29.029",
-    "not_before": "2025-08-28T00:00:00",
-    "not_after": "2026-08-28T23:59:59",
-    "serial_number": "00a32607486d745b2b5fb9625cdc7ee9fb",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "ictp.cbp.dhs.gov",
-    "name_value": "ictp.cbp.dhs.gov\nwww.ictp.cbp.dhs.gov",
-    "id": 20632447437,
-    "entry_timestamp": "2025-08-28T14:48:28.251",
-    "not_before": "2025-08-28T00:00:00",
-    "not_after": "2026-08-28T23:59:59",
-    "serial_number": "00d9fc65afaff234f6a50dab2801e0196f",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "ictp.cbp.dhs.gov",
-    "name_value": "ictp.cbp.dhs.gov\nwww.ictp.cbp.dhs.gov",
-    "id": 20632447435,
-    "entry_timestamp": "2025-08-28T14:48:27.358",
-    "not_before": "2025-08-28T00:00:00",
-    "not_after": "2026-08-28T23:59:59",
-    "serial_number": "00d9fc65afaff234f6a50dab2801e0196f",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "giitest.dhs.gov",
@@ -12622,54 +11734,6 @@
     "not_after": "2026-09-27T23:59:59",
     "serial_number": "093bb61e9d70b0705f4f5e92093facdb",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "enclave.hssedi.dhs.gov",
-    "name_value": "enclave.hssedi.dhs.gov\nenclaveldap.hssedi.dhs.gov\nenclavepiv.hssedi.dhs.gov",
-    "id": 20568208084,
-    "entry_timestamp": "2025-08-25T15:17:10.578",
-    "not_before": "2025-08-25T00:00:00",
-    "not_after": "2026-08-25T23:59:59",
-    "serial_number": "00ee5853c660556120c75138dd00a82962",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "enclave.hssedi.dhs.gov",
-    "name_value": "enclave.hssedi.dhs.gov\nenclaveldap.hssedi.dhs.gov\nenclavepiv.hssedi.dhs.gov",
-    "id": 20568208248,
-    "entry_timestamp": "2025-08-25T15:17:10.1",
-    "not_before": "2025-08-25T00:00:00",
-    "not_after": "2026-08-25T23:59:59",
-    "serial_number": "00ee5853c660556120c75138dd00a82962",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "g-cnmi-eta.cbp.dhs.gov",
-    "name_value": "g-cnmi-eta.cbp.dhs.gov\nwww.g-cnmi-eta.cbp.dhs.gov",
-    "id": 20567771879,
-    "entry_timestamp": "2025-08-25T14:50:11.544",
-    "not_before": "2025-08-25T00:00:00",
-    "not_after": "2026-08-25T23:59:59",
-    "serial_number": "68d72a1f4846d6922874bce2af3bbea2",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "g-cnmi-eta.cbp.dhs.gov",
-    "name_value": "g-cnmi-eta.cbp.dhs.gov\nwww.g-cnmi-eta.cbp.dhs.gov",
-    "id": 20567771607,
-    "entry_timestamp": "2025-08-25T14:50:10.644",
-    "not_before": "2025-08-25T00:00:00",
-    "not_after": "2026-08-25T23:59:59",
-    "serial_number": "68d72a1f4846d6922874bce2af3bbea2",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 385512,
@@ -12756,54 +11820,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "sat.biometrics.cbp.dhs.gov",
-    "name_value": "sat.biometrics.cbp.dhs.gov\nwww.sat.biometrics.cbp.dhs.gov",
-    "id": 20432167308,
-    "entry_timestamp": "2025-08-19T12:15:56.654",
-    "not_before": "2025-08-19T00:00:00",
-    "not_after": "2026-08-19T23:59:59",
-    "serial_number": "00d0c7d1d9ab60b3bc0504b90802f88b7f",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "biometrics.cbp.dhs.gov",
-    "name_value": "biometrics.cbp.dhs.gov\nwww.biometrics.cbp.dhs.gov",
-    "id": 20432167395,
-    "entry_timestamp": "2025-08-19T12:15:55.859",
-    "not_before": "2025-08-19T00:00:00",
-    "not_after": "2026-08-19T23:59:59",
-    "serial_number": "00fbe1e1b060c5115056daaa5413efee6c",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "sat.biometrics.cbp.dhs.gov",
-    "name_value": "sat.biometrics.cbp.dhs.gov\nwww.sat.biometrics.cbp.dhs.gov",
-    "id": 20432166922,
-    "entry_timestamp": "2025-08-19T12:15:55.613",
-    "not_before": "2025-08-19T00:00:00",
-    "not_after": "2026-08-19T23:59:59",
-    "serial_number": "00d0c7d1d9ab60b3bc0504b90802f88b7f",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "biometrics.cbp.dhs.gov",
-    "name_value": "biometrics.cbp.dhs.gov\nwww.biometrics.cbp.dhs.gov",
-    "id": 20432167305,
-    "entry_timestamp": "2025-08-19T12:15:55.021",
-    "not_before": "2025-08-19T00:00:00",
-    "not_after": "2026-08-19T23:59:59",
-    "serial_number": "00fbe1e1b060c5115056daaa5413efee6c",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 385517,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust EV TLS Issuing RSA CA 2",
     "common_name": "hub.fema.dhs.gov",
@@ -12826,30 +11842,6 @@
     "not_after": "2026-09-19T23:59:59",
     "serial_number": "00ade0608a858f08d4f1dbbb1fafa56173",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "dev.biometrics.cbp.dhs.gov",
-    "name_value": "dev.biometrics.cbp.dhs.gov\nwww.dev.biometrics.cbp.dhs.gov",
-    "id": 20410129799,
-    "entry_timestamp": "2025-08-18T18:05:05.732",
-    "not_before": "2025-08-18T00:00:00",
-    "not_after": "2026-08-18T23:59:59",
-    "serial_number": "00a3e6ec65cf510c06b22e767b67489492",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "dev.biometrics.cbp.dhs.gov",
-    "name_value": "dev.biometrics.cbp.dhs.gov\nwww.dev.biometrics.cbp.dhs.gov",
-    "id": 20410129707,
-    "entry_timestamp": "2025-08-18T18:05:05.046",
-    "not_before": "2025-08-18T00:00:00",
-    "not_after": "2026-08-18T23:59:59",
-    "serial_number": "00a3e6ec65cf510c06b22e767b67489492",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 204403,
@@ -12876,30 +11868,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "permission-test.cbp.dhs.gov",
-    "name_value": "permission-test.cbp.dhs.gov",
-    "id": 20405952508,
-    "entry_timestamp": "2025-08-18T15:17:09.085",
-    "not_before": "2025-08-18T00:00:00",
-    "not_after": "2026-08-18T23:59:59",
-    "serial_number": "6bd046aab387d3444423839bc2ba5fc9",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "permission-test.cbp.dhs.gov",
-    "name_value": "permission-test.cbp.dhs.gov",
-    "id": 20405951855,
-    "entry_timestamp": "2025-08-18T15:17:07.721",
-    "not_before": "2025-08-18T00:00:00",
-    "not_after": "2026-08-18T23:59:59",
-    "serial_number": "6bd046aab387d3444423839bc2ba5fc9",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 204403,
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA EV R36",
     "common_name": "permission-test.cbp.dhs.gov",
@@ -12922,30 +11890,6 @@
     "not_after": "2026-08-18T23:59:59",
     "serial_number": "2d0dd630cf7938a5718435fe0f124552",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "zack-sectigo.cbp.dhs.gov",
-    "name_value": "www.zack-sectigo.cbp.dhs.gov\nzack-sectigo.cbp.dhs.gov",
-    "id": 20405646854,
-    "entry_timestamp": "2025-08-18T15:04:38.006",
-    "not_before": "2025-08-18T00:00:00",
-    "not_after": "2026-08-18T23:59:59",
-    "serial_number": "00f0886df6d6af80aaa3aabbde972e5f32",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "zack-sectigo.cbp.dhs.gov",
-    "name_value": "www.zack-sectigo.cbp.dhs.gov\nzack-sectigo.cbp.dhs.gov",
-    "id": 20405646747,
-    "entry_timestamp": "2025-08-18T15:04:35.072",
-    "not_before": "2025-08-18T00:00:00",
-    "not_after": "2026-08-18T23:59:59",
-    "serial_number": "00f0886df6d6af80aaa3aabbde972e5f32",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 185748,
@@ -12982,30 +11926,6 @@
     "not_after": "2026-08-18T23:59:59",
     "serial_number": "0bd0fc4d7741574a820fcebb2fb6639b",
     "result_count": 6
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "*.ext.cbp.dhs.gov",
-    "name_value": "*.ext.cbp.dhs.gov",
-    "id": 20331029877,
-    "entry_timestamp": "2025-08-14T15:38:45.925",
-    "not_before": "2025-08-14T00:00:00",
-    "not_after": "2026-08-14T23:59:59",
-    "serial_number": "00ecd64e192cb7de9a307dda23f162fed6",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "*.ext.cbp.dhs.gov",
-    "name_value": "*.ext.cbp.dhs.gov",
-    "id": 20331029509,
-    "entry_timestamp": "2025-08-14T15:38:45.416",
-    "not_before": "2025-08-14T00:00:00",
-    "not_after": "2026-08-14T23:59:59",
-    "serial_number": "00ecd64e192cb7de9a307dda23f162fed6",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 185748,
@@ -13308,30 +12228,6 @@
     "result_count": 26
   },
   {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "xswift.cbp.dhs.gov",
-    "name_value": "www.xswift.cbp.dhs.gov\nxswift.cbp.dhs.gov",
-    "id": 20163509073,
-    "entry_timestamp": "2025-08-06T17:51:04.374",
-    "not_before": "2025-08-06T00:00:00",
-    "not_after": "2026-08-06T23:59:59",
-    "serial_number": "009bd221305338b92ac0abb3804c927d89",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "xswift.cbp.dhs.gov",
-    "name_value": "www.xswift.cbp.dhs.gov\nxswift.cbp.dhs.gov",
-    "id": 20163508883,
-    "entry_timestamp": "2025-08-06T17:51:03.127",
-    "not_before": "2025-08-06T00:00:00",
-    "not_after": "2026-08-06T23:59:59",
-    "serial_number": "009bd221305338b92ac0abb3804c927d89",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "*.dhs.gov",
@@ -13572,54 +12468,6 @@
     "result_count": 5
   },
   {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "e.cbp.dhs.gov",
-    "name_value": "e.cbp.dhs.gov\nwww.e.cbp.dhs.gov",
-    "id": 20116735830,
-    "entry_timestamp": "2025-08-04T18:22:49.949",
-    "not_before": "2025-08-04T00:00:00",
-    "not_after": "2026-08-04T23:59:59",
-    "serial_number": "4ee2b7840ae367cac75b0421f36ef506",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "e.cbp.dhs.gov",
-    "name_value": "e.cbp.dhs.gov\nwww.e.cbp.dhs.gov",
-    "id": 20116735423,
-    "entry_timestamp": "2025-08-04T18:22:48.658",
-    "not_before": "2025-08-04T00:00:00",
-    "not_after": "2026-08-04T23:59:59",
-    "serial_number": "4ee2b7840ae367cac75b0421f36ef506",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "dev-c-e.cbp.dhs.gov",
-    "name_value": "dev-c-e.cbp.dhs.gov",
-    "id": 20116719156,
-    "entry_timestamp": "2025-08-04T18:22:37.539",
-    "not_before": "2025-08-04T00:00:00",
-    "not_after": "2026-08-04T23:59:59",
-    "serial_number": "00a7b3eaaff6288ebbe3b5f765cae4ab5b",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "dev-c-e.cbp.dhs.gov",
-    "name_value": "dev-c-e.cbp.dhs.gov",
-    "id": 20116718494,
-    "entry_timestamp": "2025-08-04T18:22:36.727",
-    "not_before": "2025-08-04T00:00:00",
-    "not_after": "2026-08-04T23:59:59",
-    "serial_number": "00a7b3eaaff6288ebbe3b5f765cae4ab5b",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "identity-portal-stg.dhs.gov",
@@ -13654,30 +12502,6 @@
     "not_after": "2026-08-30T23:59:59",
     "serial_number": "0d6e53017981e0bb2fb933d98e953c02",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "dtops.cbp.dhs.gov",
-    "name_value": "dtops.cbp.dhs.gov\ndtops-internal.cbp.dhs.gov\nwww.dtops.cbp.dhs.gov",
-    "id": 20055247214,
-    "entry_timestamp": "2025-08-01T17:30:08.455",
-    "not_before": "2025-08-01T00:00:00",
-    "not_after": "2026-08-01T23:59:59",
-    "serial_number": "5501cb0bb3a378860f49e63e61103d33",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "dtops.cbp.dhs.gov",
-    "name_value": "dtops.cbp.dhs.gov\ndtops-internal.cbp.dhs.gov\nwww.dtops.cbp.dhs.gov",
-    "id": 20055246605,
-    "entry_timestamp": "2025-08-01T17:30:07.106",
-    "not_before": "2025-08-01T00:00:00",
-    "not_after": "2026-08-01T23:59:59",
-    "serial_number": "5501cb0bb3a378860f49e63e61103d33",
-    "result_count": 4
   },
   {
     "issuer_ca_id": 365075,
@@ -14292,78 +13116,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "ldap-s.hssedi.dhs.gov",
-    "name_value": "hssedi-adds-vm1.hssedi.dhs.gov\nhssedi-adds-vm2.hssedi.dhs.gov\nldap-s.hssedi.dhs.gov",
-    "id": 19819422815,
-    "entry_timestamp": "2025-07-21T18:44:35.732",
-    "not_before": "2025-07-21T00:00:00",
-    "not_after": "2026-07-21T23:59:59",
-    "serial_number": "00ce6e0874a891d0173ba22e60ba0a82f9",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "ldap-s.hssedi.dhs.gov",
-    "name_value": "hssedi-adds-vm1.hssedi.dhs.gov\nhssedi-adds-vm2.hssedi.dhs.gov\nldap-s.hssedi.dhs.gov",
-    "id": 19819421914,
-    "entry_timestamp": "2025-07-21T18:44:35.157",
-    "not_before": "2025-07-21T00:00:00",
-    "not_after": "2026-07-21T23:59:59",
-    "serial_number": "00ce6e0874a891d0173ba22e60ba0a82f9",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "broker.cbp.dhs.gov",
-    "name_value": "broker2.cbp.dhs.gov\nbroker.cbp.dhs.gov",
-    "id": 19815833187,
-    "entry_timestamp": "2025-07-21T14:18:01.837",
-    "not_before": "2025-07-21T00:00:00",
-    "not_after": "2026-07-21T23:59:59",
-    "serial_number": "258d47d186a0a8b1f4f853b931dcd381",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "broker-preview.cbp.dhs.gov",
-    "name_value": "broker2-preview.cbp.dhs.gov\nbroker-preview.cbp.dhs.gov",
-    "id": 19815832679,
-    "entry_timestamp": "2025-07-21T14:18:00.885",
-    "not_before": "2025-07-21T00:00:00",
-    "not_after": "2026-07-21T23:59:59",
-    "serial_number": "008728834ff1c5918f1dc224c724e05354",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "broker.cbp.dhs.gov",
-    "name_value": "broker2.cbp.dhs.gov\nbroker.cbp.dhs.gov",
-    "id": 19815833323,
-    "entry_timestamp": "2025-07-21T14:18:00.8",
-    "not_before": "2025-07-21T00:00:00",
-    "not_after": "2026-07-21T23:59:59",
-    "serial_number": "258d47d186a0a8b1f4f853b931dcd381",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "broker-preview.cbp.dhs.gov",
-    "name_value": "broker2-preview.cbp.dhs.gov\nbroker-preview.cbp.dhs.gov",
-    "id": 19815832678,
-    "entry_timestamp": "2025-07-21T14:18:00.048",
-    "not_before": "2025-07-21T00:00:00",
-    "not_after": "2026-07-21T23:59:59",
-    "serial_number": "008728834ff1c5918f1dc224c724e05354",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 385517,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust EV TLS Issuing RSA CA 2",
     "common_name": "dev.dtect.dhs.gov",
@@ -14386,54 +13138,6 @@
     "not_after": "2026-08-21T23:59:59",
     "serial_number": "401d3f78959f6162988b1332f04ee11e",
     "result_count": 6
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": null,
-    "name_value": "account.biowatchportal.dhs.gov\napi-dev.dtect.dhs.gov\napi.dtect.dhs.gov\napi-sandbox.dtect.dhs.gov\napi-test.dtect.dhs.gov\nbiosigma.cwmd.dhs.gov\nbiowatchportal.dhs.gov\nbw1.biowatchportal.dhs.gov\nbw2.biowatchportal.dhs.gov\nbw3.biowatchportal.dhs.gov\nbw4.biowatchportal.dhs.gov\nbw5.biowatchportal.dhs.gov\nbw6.biowatch-int.dhs.gov\ncdr.biowatchportal.dhs.gov\ndata.dcats.dhs.gov\ndata.dev1dcats.dhs.gov\ndata.dev2dcats.dhs.gov\ndata.devdcats.dhs.gov\ndcats.dhs.gov\ndemo-dev.dtect.dhs.gov\ndemo.dtect.dhs.gov\ndemo-sandbox.dtect.dhs.gov\ndemo-test.dtect.dhs.gov\ndev1dcats.dhs.gov\ndev2dcats.dhs.gov\ndevdcats.dhs.gov\ndev.dtect.dhs.gov\ndtect.dhs.gov\ngateu1.cwmd.dhs.gov\ngeo-dev.dtect.dhs.gov\ngeo.dtect.dhs.gov\ngeo-sandbox.dtect.dhs.gov\ngeo-test.dtect.dhs.gov\nmycdr.biowatchportal.dhs.gov\nqa1.biowatch.dhs.gov\nqa.biowatch.dhs.gov\nqa.biowatch-int.dhs.gov\nreact.cwmd.dhs.gov\nsandbox.dtect.dhs.gov\nscore.dcats.dhs.gov\nscore.dev1dcats.dhs.gov\nscore.dev2dcats.dhs.gov\nscore.devdcats.dhs.gov\nsite1.dcats.dhs.gov\nsite1.devdcats.dhs.gov\nsite2.dcats.dhs.gov\nsite2.devdcats.dhs.gov\nstt.biowatchportal.dhs.gov\ntest.dtect.dhs.gov\ntracer-cop-dev.cwmd.dhs.gov\ntracer-dev.cwmd.dhs.gov",
-    "id": 19801596325,
-    "entry_timestamp": "2025-07-20T21:11:15.333",
-    "not_before": "2025-07-20T00:00:00",
-    "not_after": "2026-07-20T23:59:59",
-    "serial_number": "067dda9f91fe7338be4a247a49a3ea38",
-    "result_count": 51
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": null,
-    "name_value": "account.biowatchportal.dhs.gov\napi-dev.dtect.dhs.gov\napi.dtect.dhs.gov\napi-sandbox.dtect.dhs.gov\napi-test.dtect.dhs.gov\nbiosigma.cwmd.dhs.gov\nbiowatchportal.dhs.gov\nbw1.biowatchportal.dhs.gov\nbw2.biowatchportal.dhs.gov\nbw3.biowatchportal.dhs.gov\nbw4.biowatchportal.dhs.gov\nbw5.biowatchportal.dhs.gov\nbw6.biowatch-int.dhs.gov\ncdr.biowatchportal.dhs.gov\ndata.dcats.dhs.gov\ndata.dev1dcats.dhs.gov\ndata.dev2dcats.dhs.gov\ndata.devdcats.dhs.gov\ndcats.dhs.gov\ndemo-dev.dtect.dhs.gov\ndemo.dtect.dhs.gov\ndemo-sandbox.dtect.dhs.gov\ndemo-test.dtect.dhs.gov\ndev1dcats.dhs.gov\ndev2dcats.dhs.gov\ndevdcats.dhs.gov\ndev.dtect.dhs.gov\ndtect.dhs.gov\ngateu1.cwmd.dhs.gov\ngeo-dev.dtect.dhs.gov\ngeo.dtect.dhs.gov\ngeo-sandbox.dtect.dhs.gov\ngeo-test.dtect.dhs.gov\nmycdr.biowatchportal.dhs.gov\nqa1.biowatch.dhs.gov\nqa.biowatch.dhs.gov\nqa.biowatch-int.dhs.gov\nreact.cwmd.dhs.gov\nsandbox.dtect.dhs.gov\nscore.dcats.dhs.gov\nscore.dev1dcats.dhs.gov\nscore.dev2dcats.dhs.gov\nscore.devdcats.dhs.gov\nsite1.dcats.dhs.gov\nsite1.devdcats.dhs.gov\nsite2.dcats.dhs.gov\nsite2.devdcats.dhs.gov\nstt.biowatchportal.dhs.gov\ntest.dtect.dhs.gov\ntracer-cop-dev.cwmd.dhs.gov\ntracer-dev.cwmd.dhs.gov",
-    "id": 19801596418,
-    "entry_timestamp": "2025-07-20T21:11:14.322",
-    "not_before": "2025-07-20T00:00:00",
-    "not_after": "2026-07-20T23:59:59",
-    "serial_number": "067dda9f91fe7338be4a247a49a3ea38",
-    "result_count": 51
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": null,
-    "name_value": "account.biowatchportal.dhs.gov\napi-dev.dtect.dhs.gov\napi.dtect.dhs.gov\napi-sandbox.dtect.dhs.gov\napi-test.dtect.dhs.gov\nbiosigma.cwmd.dhs.gov\nbiowatchportal.dhs.gov\nbw1.biowatchportal.dhs.gov\nbw2.biowatchportal.dhs.gov\nbw3.biowatchportal.dhs.gov\nbw4.biowatchportal.dhs.gov\nbw5.biowatchportal.dhs.gov\nbw6.biowatch-int.dhs.gov\ncdr.biowatchportal.dhs.gov\ndata.dcats.dhs.gov\ndata.dev1dcats.dhs.gov\ndata.dev2dcats.dhs.gov\ndata.devdcats.dhs.gov\ndcats.dhs.gov\ndemo-dev.dtect.dhs.gov\ndemo.dtect.dhs.gov\ndemo-sandbox.dtect.dhs.gov\ndemo-test.dtect.dhs.gov\ndev1dcats.dhs.gov\ndev2dcats.dhs.gov\ndevdcats.dhs.gov\ndev.dtect.dhs.gov\ndtect.dhs.gov\ngateu1.cwmd.dhs.gov\ngeo-dev.dtect.dhs.gov\ngeo.dtect.dhs.gov\ngeo-sandbox.dtect.dhs.gov\ngeo-test.dtect.dhs.gov\nmycdr.biowatchportal.dhs.gov\nqa1.biowatch.dhs.gov\nqa.biowatch.dhs.gov\nqa.biowatch-int.dhs.gov\nreact.cwmd.dhs.gov\nsandbox.dtect.dhs.gov\nscore.dcats.dhs.gov\nscore.dev1dcats.dhs.gov\nscore.dev2dcats.dhs.gov\nscore.devdcats.dhs.gov\nsite1.dcats.dhs.gov\nsite1.devdcats.dhs.gov\nsite2.dcats.dhs.gov\nsite2.devdcats.dhs.gov\nstt.biowatchportal.dhs.gov\ntest.dtect.dhs.gov\ntracer-cop-dev.cwmd.dhs.gov\ntracer-dev.cwmd.dhs.gov",
-    "id": 19801594234,
-    "entry_timestamp": "2025-07-20T21:10:37.261",
-    "not_before": "2025-07-20T00:00:00",
-    "not_after": "2026-07-20T23:59:59",
-    "serial_number": "4195c7e7d06a9a600ce0fae72878a15f",
-    "result_count": 51
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": null,
-    "name_value": "account.biowatchportal.dhs.gov\napi-dev.dtect.dhs.gov\napi.dtect.dhs.gov\napi-sandbox.dtect.dhs.gov\napi-test.dtect.dhs.gov\nbiosigma.cwmd.dhs.gov\nbiowatchportal.dhs.gov\nbw1.biowatchportal.dhs.gov\nbw2.biowatchportal.dhs.gov\nbw3.biowatchportal.dhs.gov\nbw4.biowatchportal.dhs.gov\nbw5.biowatchportal.dhs.gov\nbw6.biowatch-int.dhs.gov\ncdr.biowatchportal.dhs.gov\ndata.dcats.dhs.gov\ndata.dev1dcats.dhs.gov\ndata.dev2dcats.dhs.gov\ndata.devdcats.dhs.gov\ndcats.dhs.gov\ndemo-dev.dtect.dhs.gov\ndemo.dtect.dhs.gov\ndemo-sandbox.dtect.dhs.gov\ndemo-test.dtect.dhs.gov\ndev1dcats.dhs.gov\ndev2dcats.dhs.gov\ndevdcats.dhs.gov\ndev.dtect.dhs.gov\ndtect.dhs.gov\ngateu1.cwmd.dhs.gov\ngeo-dev.dtect.dhs.gov\ngeo.dtect.dhs.gov\ngeo-sandbox.dtect.dhs.gov\ngeo-test.dtect.dhs.gov\nmycdr.biowatchportal.dhs.gov\nqa1.biowatch.dhs.gov\nqa.biowatch.dhs.gov\nqa.biowatch-int.dhs.gov\nreact.cwmd.dhs.gov\nsandbox.dtect.dhs.gov\nscore.dcats.dhs.gov\nscore.dev1dcats.dhs.gov\nscore.dev2dcats.dhs.gov\nscore.devdcats.dhs.gov\nsite1.dcats.dhs.gov\nsite1.devdcats.dhs.gov\nsite2.dcats.dhs.gov\nsite2.devdcats.dhs.gov\nstt.biowatchportal.dhs.gov\ntest.dtect.dhs.gov\ntracer-cop-dev.cwmd.dhs.gov\ntracer-dev.cwmd.dhs.gov",
-    "id": 19801594429,
-    "entry_timestamp": "2025-07-20T21:10:36.467",
-    "not_before": "2025-07-20T00:00:00",
-    "not_after": "2026-07-20T23:59:59",
-    "serial_number": "4195c7e7d06a9a600ce0fae72878a15f",
-    "result_count": 51
   },
   {
     "issuer_ca_id": 365075,
@@ -14482,54 +13186,6 @@
     "not_after": "2026-08-15T04:00:00",
     "serial_number": "3cfb540ea5cdba5a2c1d1b90a1f5ad20",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "esta.cbp.dhs.gov",
-    "name_value": "esta.cbp.dhs.gov\nesta-internal.cbp.dhs.gov\nwww.esta.cbp.dhs.gov",
-    "id": 19660222201,
-    "entry_timestamp": "2025-07-14T15:49:01.684",
-    "not_before": "2025-07-14T00:00:00",
-    "not_after": "2026-07-14T23:59:59",
-    "serial_number": "00809ae0a3ebe9f18baa8f134fc85b9996",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "esta.cbp.dhs.gov",
-    "name_value": "esta.cbp.dhs.gov\nesta-internal.cbp.dhs.gov\nwww.esta.cbp.dhs.gov",
-    "id": 19660222526,
-    "entry_timestamp": "2025-07-14T15:49:00.631",
-    "not_before": "2025-07-14T00:00:00",
-    "not_after": "2026-07-14T23:59:59",
-    "serial_number": "00809ae0a3ebe9f18baa8f134fc85b9996",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "ugv.cbp.dhs.gov",
-    "name_value": "ugv.cbp.dhs.gov\nwww.ugv.cbp.dhs.gov",
-    "id": 19657772397,
-    "entry_timestamp": "2025-07-14T13:02:58.422",
-    "not_before": "2025-07-14T00:00:00",
-    "not_after": "2026-07-14T23:59:59",
-    "serial_number": "00e704855e566182f4863fd85bba3c1223",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "ugv.cbp.dhs.gov",
-    "name_value": "ugv.cbp.dhs.gov\nwww.ugv.cbp.dhs.gov",
-    "id": 19657772790,
-    "entry_timestamp": "2025-07-14T13:02:56.851",
-    "not_before": "2025-07-14T00:00:00",
-    "not_after": "2026-07-14T23:59:59",
-    "serial_number": "00e704855e566182f4863fd85bba3c1223",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 185748,
@@ -14724,30 +13380,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "ttp.cbp.dhs.gov",
-    "name_value": "ttp.cbp.dhs.gov\nttp.dhs.gov",
-    "id": 19355479575,
-    "entry_timestamp": "2025-06-30T18:19:18.557",
-    "not_before": "2025-06-30T00:00:00",
-    "not_after": "2026-06-30T23:59:59",
-    "serial_number": "28ffe4281a16e6b3cdf5ba243e8eda8d",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "ttp.cbp.dhs.gov",
-    "name_value": "ttp.cbp.dhs.gov\nttp.dhs.gov",
-    "id": 19355479373,
-    "entry_timestamp": "2025-06-30T18:19:16.917",
-    "not_before": "2025-06-30T00:00:00",
-    "not_after": "2026-06-30T23:59:59",
-    "serial_number": "28ffe4281a16e6b3cdf5ba243e8eda8d",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 365073,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust EV TLS Issuing RSA CA 1",
     "common_name": "okta.cbp.dhs.gov",
@@ -14890,30 +13522,6 @@
     "not_after": "2026-07-27T04:00:00",
     "serial_number": "2a2aa942e81080652fdc9b04697d8b37",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "qa-web.cbp.dhs.gov",
-    "name_value": "qa-web.cbp.dhs.gov\nwww.qa-web.cbp.dhs.gov",
-    "id": 19270081828,
-    "entry_timestamp": "2025-06-26T16:07:02.134",
-    "not_before": "2025-06-26T00:00:00",
-    "not_after": "2026-06-26T23:59:59",
-    "serial_number": "00b520ad54684a0dbacb956e4eaf4a7e9f",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "qa-web.cbp.dhs.gov",
-    "name_value": "qa-web.cbp.dhs.gov\nwww.qa-web.cbp.dhs.gov",
-    "id": 19270081659,
-    "entry_timestamp": "2025-06-26T16:07:00.102",
-    "not_before": "2025-06-26T00:00:00",
-    "not_after": "2026-06-26T23:59:59",
-    "serial_number": "00b520ad54684a0dbacb956e4eaf4a7e9f",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 365075,
@@ -15106,30 +13714,6 @@
     "not_after": "2026-07-23T04:00:00",
     "serial_number": "5d79f1db0909003647ece68c796512c7",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "sectigo2.cbp.dhs.gov",
-    "name_value": "sectigo2.cbp.dhs.gov\nwww.sectigo2.cbp.dhs.gov",
-    "id": 19205631148,
-    "entry_timestamp": "2025-06-23T15:31:25.328",
-    "not_before": "2025-06-23T00:00:00",
-    "not_after": "2026-06-23T23:59:59",
-    "serial_number": "0085b7b0667878db9ee6342f4ccfdc3ce2",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "sectigo2.cbp.dhs.gov",
-    "name_value": "sectigo2.cbp.dhs.gov\nwww.sectigo2.cbp.dhs.gov",
-    "id": 19205631147,
-    "entry_timestamp": "2025-06-23T15:31:19.168",
-    "not_before": "2025-06-23T00:00:00",
-    "not_after": "2026-06-23T23:59:59",
-    "serial_number": "0085b7b0667878db9ee6342f4ccfdc3ce2",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 365075,
@@ -15489,150 +14073,6 @@
     "not_before": "2025-06-11T20:18:32",
     "not_after": "2026-07-11T04:00:00",
     "serial_number": "6fd5676e63ea0cb72036e466d0bea182",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "sectigo-scm.cbp.dhs.gov",
-    "name_value": "sectigo-scm.cbp.dhs.gov\nwww.sectigo-scm.cbp.dhs.gov",
-    "id": 18957982548,
-    "entry_timestamp": "2025-06-11T14:09:17.694",
-    "not_before": "2025-06-11T00:00:00",
-    "not_after": "2026-06-11T23:59:59",
-    "serial_number": "572b0d77c0b0aef867a9c5e99b1031fb",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "sectigo-scm.cbp.dhs.gov",
-    "name_value": "sectigo-scm.cbp.dhs.gov\nwww.sectigo-scm.cbp.dhs.gov",
-    "id": 18957982975,
-    "entry_timestamp": "2025-06-11T14:09:17.281",
-    "not_before": "2025-06-11T00:00:00",
-    "not_after": "2026-06-11T23:59:59",
-    "serial_number": "572b0d77c0b0aef867a9c5e99b1031fb",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "sectigo2.cbp.dhs.gov",
-    "name_value": "sectigo2.cbp.dhs.gov\nwww.sectigo2.cbp.dhs.gov",
-    "id": 18941094380,
-    "entry_timestamp": "2025-06-10T19:10:13.894",
-    "not_before": "2025-06-10T00:00:00",
-    "not_after": "2026-06-10T23:59:59",
-    "serial_number": "00daf460ce494bbc57896c7f93d8ce600d",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "sectigo2.cbp.dhs.gov",
-    "name_value": "sectigo2.cbp.dhs.gov\nwww.sectigo2.cbp.dhs.gov",
-    "id": 18941094545,
-    "entry_timestamp": "2025-06-10T19:10:13.148",
-    "not_before": "2025-06-10T00:00:00",
-    "not_after": "2026-06-10T23:59:59",
-    "serial_number": "00daf460ce494bbc57896c7f93d8ce600d",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "*.sectigo.cbp.dhs.gov",
-    "name_value": "*.sectigo.cbp.dhs.gov",
-    "id": 18941037486,
-    "entry_timestamp": "2025-06-10T19:06:27.036",
-    "not_before": "2025-06-10T00:00:00",
-    "not_after": "2026-06-10T23:59:59",
-    "serial_number": "50b9935ecf9b9b00c4481c157426422c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "*.sectigo.cbp.dhs.gov",
-    "name_value": "*.sectigo.cbp.dhs.gov",
-    "id": 18941038000,
-    "entry_timestamp": "2025-06-10T19:06:26.551",
-    "not_before": "2025-06-10T00:00:00",
-    "not_after": "2026-06-10T23:59:59",
-    "serial_number": "50b9935ecf9b9b00c4481c157426422c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "sectigo.dhs.gov",
-    "name_value": "sectigo.dhs.gov\nwww.sectigo.dhs.gov",
-    "id": 18941008102,
-    "entry_timestamp": "2025-06-10T19:04:13.525",
-    "not_before": "2025-06-10T00:00:00",
-    "not_after": "2026-06-10T23:59:59",
-    "serial_number": "00bbdfe62b98b856bfc853f9a3f389c8e7",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "sectigo.dhs.gov",
-    "name_value": "sectigo.dhs.gov\nwww.sectigo.dhs.gov",
-    "id": 18941008156,
-    "entry_timestamp": "2025-06-10T19:04:13.006",
-    "not_before": "2025-06-10T00:00:00",
-    "not_after": "2026-06-10T23:59:59",
-    "serial_number": "00bbdfe62b98b856bfc853f9a3f389c8e7",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "sectigo-multi.cbp.dhs.gov",
-    "name_value": "san2.cbp.dhs.gov\nsectigo-multi.cbp.dhs.gov",
-    "id": 18940887425,
-    "entry_timestamp": "2025-06-10T18:56:25.628",
-    "not_before": "2025-06-10T00:00:00",
-    "not_after": "2026-06-10T23:59:59",
-    "serial_number": "47fe1c729f542078106ed109bcd607ec",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "sectigo-multi.cbp.dhs.gov",
-    "name_value": "san2.cbp.dhs.gov\nsectigo-multi.cbp.dhs.gov",
-    "id": 18940887405,
-    "entry_timestamp": "2025-06-10T18:56:24.43",
-    "not_before": "2025-06-10T00:00:00",
-    "not_after": "2026-06-10T23:59:59",
-    "serial_number": "47fe1c729f542078106ed109bcd607ec",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "sectigo.dhs.gov",
-    "name_value": "sectigo.dhs.gov\nwww.sectigo.dhs.gov",
-    "id": 18940764782,
-    "entry_timestamp": "2025-06-10T18:48:33.349",
-    "not_before": "2025-06-10T00:00:00",
-    "not_after": "2026-06-10T23:59:59",
-    "serial_number": "0f32e8b7e353b059d9fe97da1d71833b",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "sectigo.dhs.gov",
-    "name_value": "sectigo.dhs.gov\nwww.sectigo.dhs.gov",
-    "id": 18940764887,
-    "entry_timestamp": "2025-06-10T18:48:32.397",
-    "not_before": "2025-06-10T00:00:00",
-    "not_after": "2026-06-10T23:59:59",
-    "serial_number": "0f32e8b7e353b059d9fe97da1d71833b",
     "result_count": 3
   },
   {
@@ -16126,30 +14566,6 @@
     "not_after": "2026-06-19T04:00:00",
     "serial_number": "3969864d51c67671550cd684a38adf05",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "dhspens.hq.dhs.gov",
-    "name_value": "dhspens.hq.dhs.gov\nwww.dhspens.hq.dhs.gov",
-    "id": 18502056361,
-    "entry_timestamp": "2025-05-19T16:42:00.284",
-    "not_before": "2025-05-19T00:00:00",
-    "not_after": "2026-05-19T23:59:59",
-    "serial_number": "17a5c2a2b75f837df65da0ef7b30c752",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "dhspens.hq.dhs.gov",
-    "name_value": "dhspens.hq.dhs.gov\nwww.dhspens.hq.dhs.gov",
-    "id": 18502056300,
-    "entry_timestamp": "2025-05-19T16:41:57.508",
-    "not_before": "2025-05-19T00:00:00",
-    "not_after": "2026-05-19T23:59:59",
-    "serial_number": "17a5c2a2b75f837df65da0ef7b30c752",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 185748,
@@ -18432,30 +16848,6 @@
     "result_count": 6
   },
   {
-    "issuer_ca_id": 105487,
-    "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA",
-    "common_name": "sts.hssedi.dhs.gov",
-    "name_value": "certauth.sts.hssedi.dhs.gov\nenterpriseregistration.hssedi.dhs.gov\nsts.hssedi.dhs.gov",
-    "id": 15727632449,
-    "entry_timestamp": "2024-12-12T15:41:39.378",
-    "not_before": "2024-12-12T00:00:00",
-    "not_after": "2025-12-05T23:59:59",
-    "serial_number": "3ae8e8aa11fc4325f8117e3b71dba293",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 105487,
-    "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA",
-    "common_name": "sts.hssedi.dhs.gov",
-    "name_value": "certauth.sts.hssedi.dhs.gov\nenterpriseregistration.hssedi.dhs.gov\nsts.hssedi.dhs.gov",
-    "id": 15727632420,
-    "entry_timestamp": "2024-12-12T15:41:38.165",
-    "not_before": "2024-12-12T00:00:00",
-    "not_after": "2025-12-05T23:59:59",
-    "serial_number": "3ae8e8aa11fc4325f8117e3b71dba293",
-    "result_count": 4
-  },
-  {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "bp.cbp.dhs.gov",
@@ -18612,30 +17004,6 @@
     "result_count": 22
   },
   {
-    "issuer_ca_id": 105487,
-    "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA",
-    "common_name": "sts.hssedi.dhs.gov",
-    "name_value": "certauth.sts.hssedi.dhs.gov\nenterpriseregistration.hssedi.dhs.gov\nsts.hssedi.dhs.gov",
-    "id": 15627562677,
-    "entry_timestamp": "2024-12-05T19:29:36.738",
-    "not_before": "2024-12-05T00:00:00",
-    "not_after": "2025-12-05T23:59:59",
-    "serial_number": "00e297e3f424dc0e61c077d15262e6c4c3",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 105487,
-    "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA",
-    "common_name": "sts.hssedi.dhs.gov",
-    "name_value": "certauth.sts.hssedi.dhs.gov\nenterpriseregistration.hssedi.dhs.gov\nsts.hssedi.dhs.gov",
-    "id": 15627557319,
-    "entry_timestamp": "2024-12-05T19:29:36.151",
-    "not_before": "2024-12-05T00:00:00",
-    "not_after": "2025-12-05T23:59:59",
-    "serial_number": "00e297e3f424dc0e61c077d15262e6c4c3",
-    "result_count": 4
-  },
-  {
     "issuer_ca_id": 282053,
     "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
     "common_name": "data.dev2dcats.dhs.gov",
@@ -18742,53 +17110,5 @@
     "not_after": "2025-12-16T01:57:00",
     "serial_number": "00f681db4a0a625572",
     "result_count": 7
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "fnwg-dp-internet06.cbp.dhs.gov",
-    "name_value": "fnwg-dp-internet06.cbp.dhs.gov\nwww.fnwg-dp-internet06.cbp.dhs.gov",
-    "id": 15227203641,
-    "entry_timestamp": "2024-11-05T20:37:21.894",
-    "not_before": "2024-11-05T20:37:21",
-    "not_after": "2025-12-05T20:37:20",
-    "serial_number": "0099bec65a1fdc03250360a7c10ceb799a",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "fnwg-dp-internet05.cbp.dhs.gov",
-    "name_value": "fnwg-dp-internet05.cbp.dhs.gov\nwww.fnwg-dp-internet05.cbp.dhs.gov",
-    "id": 15227195156,
-    "entry_timestamp": "2024-11-05T20:36:30.126",
-    "not_before": "2024-11-05T20:36:29",
-    "not_after": "2025-12-05T20:36:28",
-    "serial_number": "00d86f36daec848aa100e53d511599eeff",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "dp-int-exvip1.cbp.dhs.gov",
-    "name_value": "dp-int-exvip1.cbp.dhs.gov\nwww.dp-int-exvip1.cbp.dhs.gov",
-    "id": 15227195040,
-    "entry_timestamp": "2024-11-05T20:36:13.309",
-    "not_before": "2024-11-05T20:36:13",
-    "not_after": "2025-12-05T20:36:12",
-    "serial_number": "7b8e53bc284fb827f1ff89fc5dbea604",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "response.tsa.dhs.gov",
-    "name_value": "response.tsa.dhs.gov",
-    "id": 15224322279,
-    "entry_timestamp": "2024-11-05T15:46:19.201",
-    "not_before": "2024-11-05T15:46:19",
-    "not_after": "2025-12-05T15:46:17",
-    "serial_number": "00ffc8593edb77a64a36f4d75a610ce331",
-    "result_count": 2
   }
 ]
