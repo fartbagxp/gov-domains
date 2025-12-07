@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "test.hirevets.gov",
+    "name_value": "hirevets.test.pace.dol.gov",
+    "id": 22926733413,
+    "entry_timestamp": "2025-12-05T23:36:40.471",
+    "not_before": "2025-12-05T22:38:10",
+    "not_after": "2026-03-05T22:38:09",
+    "serial_number": "0614e997f90339b0059e1ac265563a77ab3d",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "dev.hirevets.gov",
+    "name_value": "hirevets.dev.pace.dol.gov",
+    "id": 22941340786,
+    "entry_timestamp": "2025-12-05T22:51:25.893",
+    "not_before": "2025-12-05T21:51:26",
+    "not_after": "2026-03-05T21:51:25",
+    "serial_number": "05ebaa21d34423d6bb01f90b25461604c2d6",
+    "result_count": 1
+  },
+  {
     "issuer_ca_id": 385512,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
     "common_name": "testvpn.dol.gov",
@@ -120,6 +144,30 @@
     "result_count": 1
   },
   {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "test.ofccptraining.dol.gov",
+    "name_value": "ofccptraining.test.pace.dol.gov\ntest.ofccptraining.dol.gov",
+    "id": 22934043782,
+    "entry_timestamp": "2025-12-02T22:59:14.285",
+    "not_before": "2025-12-02T22:00:43",
+    "not_after": "2026-03-02T22:00:42",
+    "serial_number": "0635f6a46737309f75bdb84cb917d45e8241",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "test.ofccptraining.dol.gov",
+    "name_value": "ofccptraining.test.pace.dol.gov\ntest.ofccptraining.dol.gov",
+    "id": 22934042660,
+    "entry_timestamp": "2025-12-02T22:59:13.808",
+    "not_before": "2025-12-02T22:00:43",
+    "not_after": "2026-03-02T22:00:42",
+    "serial_number": "0635f6a46737309f75bdb84cb917d45e8241",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 246719,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "test.hirevets.gov",
@@ -149,7 +197,7 @@
     "common_name": "labornet.dol.gov",
     "name_value": "labornet.dol.gov\nwww.labornet.dol.gov",
     "id": 22865577471,
-    "entry_timestamp": "2025-12-02T15:43:44.78",
+    "entry_timestamp": "2025-12-02T15:43:44.732",
     "not_before": "2025-03-24T16:34:30",
     "not_after": "2026-04-24T04:00:00",
     "serial_number": "5822e1ba88efd48d1f5ad36e261d9f4d",
@@ -3057,18 +3105,6 @@
     "not_before": "2024-11-19T14:06:57",
     "not_after": "2025-12-14T05:00:00",
     "serial_number": "4ac703b6aa0bab47655c5e2b38b49327",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "webapps.dol.gov",
-    "name_value": "webapps.dol.gov\nwww.webapps.dol.gov",
-    "id": 20845906612,
-    "entry_timestamp": "2025-09-07T08:32:58.62",
-    "not_before": "2024-11-06T20:21:44",
-    "not_after": "2025-12-06T20:21:43",
-    "serial_number": "5175a2357c965abecf4807b1e7e9bf81",
     "result_count": 3
   },
   {
@@ -9093,18 +9129,6 @@
     "not_before": "2024-11-07T16:45:00",
     "not_after": "2025-12-07T16:44:59",
     "serial_number": "0cca78ed954244de88a3de3b114d9e22",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "webapps.dol.gov",
-    "name_value": "webapps.dol.gov\nwww.webapps.dol.gov",
-    "id": 15241398674,
-    "entry_timestamp": "2024-11-06T20:21:45.157",
-    "not_before": "2024-11-06T20:21:44",
-    "not_after": "2025-12-06T20:21:43",
-    "serial_number": "5175a2357c965abecf4807b1e7e9bf81",
     "result_count": 3
   }
 ]

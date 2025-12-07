@@ -1,17 +1,5 @@
 [
   {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "www.hhs.gov",
-    "name_value": "bhw.hrsa.gov\nbloodcell.transplant.hrsa.gov\nbloodstemcell.hrsa.gov\nbphc.hrsa.gov\ncoviduninsuredclaim.hrsa.gov\nhab.hrsa.gov\njobfair.hrsa.gov\nmchbgrandchallenges.hrsa.gov\nmchb.hrsa.gov\nnewbornscreening.hrsa.gov\nnhsc.hrsa.gov\npoisonhelp.hrsa.gov\nproviderrelief.hrsa.gov\nryanwhite.hrsa.gov\nwww.bhw.hrsa.gov\nwww.bloodstemcell.hrsa.gov\nwww.bphc.hrsa.gov\nwww.coviduninsuredclaim.hrsa.gov\nwww.hab.hrsa.gov\nwww.hrsa.gov\nwww.mchb.hrsa.gov\nwww.newbornscreening.hrsa.gov\nwww.nhsc.hrsa.gov\nwww.poisonhelp.hrsa.gov\nwww.providerrelief.hrsa.gov\nwww.ryanwhite.hrsa.gov",
-    "id": 22919821338,
-    "entry_timestamp": "2025-12-05T11:30:48.981",
-    "not_before": "2025-12-02T12:24:24",
-    "not_after": "2026-03-02T12:24:23",
-    "serial_number": "05cdd5fe4de445381e4e369ca0704ee1aa7c",
-    "result_count": 26
-  },
-  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "brsos.hrsa.gov",
@@ -58,6 +46,18 @@
     "not_after": "2026-12-01T23:59:59",
     "serial_number": "021dbf3d18b15a4c25b3ee138c4a882d",
     "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "www.hhs.gov",
+    "name_value": "bhw.hrsa.gov\nbloodcell.transplant.hrsa.gov\nbloodstemcell.hrsa.gov\nbphc.hrsa.gov\ncoviduninsuredclaim.hrsa.gov\nhab.hrsa.gov\njobfair.hrsa.gov\nmchbgrandchallenges.hrsa.gov\nmchb.hrsa.gov\nnewbornscreening.hrsa.gov\nnhsc.hrsa.gov\npoisonhelp.hrsa.gov\nproviderrelief.hrsa.gov\nryanwhite.hrsa.gov\nwww.bhw.hrsa.gov\nwww.bloodstemcell.hrsa.gov\nwww.bphc.hrsa.gov\nwww.coviduninsuredclaim.hrsa.gov\nwww.hab.hrsa.gov\nwww.hrsa.gov\nwww.mchb.hrsa.gov\nwww.newbornscreening.hrsa.gov\nwww.nhsc.hrsa.gov\nwww.poisonhelp.hrsa.gov\nwww.providerrelief.hrsa.gov\nwww.ryanwhite.hrsa.gov",
+    "id": 22919821338,
+    "entry_timestamp": "2025-12-02T13:22:54.935",
+    "not_before": "2025-12-02T12:24:24",
+    "not_after": "2026-03-02T12:24:23",
+    "serial_number": "05cdd5fe4de445381e4e369ca0704ee1aa7c",
+    "result_count": 26
   },
   {
     "issuer_ca_id": 153248,
@@ -1473,30 +1473,6 @@
     "not_before": "2024-11-26T16:53:22",
     "not_after": "2025-12-26T16:52:22",
     "serial_number": "40019369645360ee0e5468c97573bf5b",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "servicecenter.hrsa.gov",
-    "name_value": "servicecenter.hrsa.gov",
-    "id": 20849551835,
-    "entry_timestamp": "2025-09-07T12:59:11.684",
-    "not_before": "2025-09-07T12:00:41",
-    "not_after": "2025-12-06T12:00:40",
-    "serial_number": "064c78356f82db69eac9b3bbf110c727ded9",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "servicecenter.hrsa.gov",
-    "name_value": "servicecenter.hrsa.gov",
-    "id": 20849506289,
-    "entry_timestamp": "2025-09-07T12:59:11.557",
-    "not_before": "2025-09-07T12:00:41",
-    "not_after": "2025-12-06T12:00:40",
-    "serial_number": "064c78356f82db69eac9b3bbf110c727ded9",
     "result_count": 2
   },
   {
@@ -4209,18 +4185,6 @@
     "not_before": "2024-11-07T15:56:35",
     "not_after": "2025-12-07T15:55:35",
     "serial_number": "4001930757802131625f4c19eb7521e1",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "hrsa.gov",
-    "name_value": "hrsa.gov\nwww.hrsa.gov",
-    "id": 15237983093,
-    "entry_timestamp": "2024-11-06T14:35:02.238",
-    "not_before": "2024-11-06T14:35:02",
-    "not_after": "2025-12-06T14:34:02",
-    "serial_number": "40019301e67a7c4fab7f1624d54b48df",
     "result_count": 3
   }
 ]
