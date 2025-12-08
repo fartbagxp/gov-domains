@@ -1,5 +1,17 @@
 [
   {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "api-proxy-dev.usa.gov",
+    "name_value": "api-proxy-dev.usa.gov",
+    "id": 22959644993,
+    "entry_timestamp": "2025-12-07T17:19:53.108",
+    "not_before": "2025-12-07T16:21:22",
+    "not_after": "2026-03-07T16:21:21",
+    "serial_number": "056327054d8b7464fb788f731b69e499567c",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 246719,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "elasticsearch-dev.search.usa.gov",
@@ -96,18 +108,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "beta-stage.usa.gov",
-    "name_value": "beta-stage.usa.gov",
-    "id": 22857678442,
-    "entry_timestamp": "2025-11-30T00:20:01.167",
-    "not_before": "2025-11-29T23:21:29",
-    "not_after": "2026-02-27T23:21:28",
-    "serial_number": "05e24ffc8febb39d9b9fbafcb32d7869366f",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 295816,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "cms-stage.usa.gov",
@@ -189,18 +189,6 @@
     "not_before": "2025-11-27T00:00:00",
     "not_after": "2026-12-26T23:59:59",
     "serial_number": "0e4b0572b746e3b201cdd5af83738035",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "beta-dr.usa.gov",
-    "name_value": "beta-dr.usa.gov",
-    "id": 22796035611,
-    "entry_timestamp": "2025-11-25T20:58:37.269",
-    "not_before": "2025-11-25T20:00:06",
-    "not_after": "2026-02-23T20:00:05",
-    "serial_number": "0613d73c7cb7b7c01073386293974304f62b",
     "result_count": 2
   },
   {
@@ -292,18 +280,6 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "beta.usa.gov",
     "name_value": "beta.usa.gov",
-    "id": 22602856772,
-    "entry_timestamp": "2025-11-19T23:19:13.425",
-    "not_before": "2025-11-19T22:20:43",
-    "not_after": "2026-02-17T22:20:42",
-    "serial_number": "06c7b2ee9636c953be1b40467f9825bcdf6d",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "beta.usa.gov",
-    "name_value": "beta.usa.gov",
     "id": 22602779740,
     "entry_timestamp": "2025-11-19T23:19:13.237",
     "not_before": "2025-11-19T22:20:43",
@@ -333,42 +309,6 @@
     "not_before": "2025-11-19T18:20:43",
     "not_after": "2026-02-17T18:20:42",
     "serial_number": "06a7c9e9bc6bb73b7e4c5eaf143cc742f1c8",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "fedidcard.gov",
-    "name_value": "gobiernousa.gov\nusa.gov",
-    "id": 22494890783,
-    "entry_timestamp": "2025-11-15T19:16:01.225",
-    "not_before": "2025-11-15T18:17:30",
-    "not_after": "2026-02-13T18:17:29",
-    "serial_number": "0586577fd8e89499ba8d1ae024aadfa04391",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "fedidcard.gov",
-    "name_value": "gobiernousa.gov\nusa.gov",
-    "id": 22494891698,
-    "entry_timestamp": "2025-11-15T19:16:00.944",
-    "not_before": "2025-11-15T18:17:30",
-    "not_after": "2026-02-13T18:17:29",
-    "serial_number": "0586577fd8e89499ba8d1ae024aadfa04391",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "benefits-tool.usa.gov",
-    "name_value": "benefits-tool.usa.gov",
-    "id": 22494048532,
-    "entry_timestamp": "2025-11-15T18:19:11.217",
-    "not_before": "2025-11-15T17:20:41",
-    "not_after": "2026-02-13T17:20:40",
-    "serial_number": "05396ccc571ecd3325ee622b2da7f9d828ec",
     "result_count": 2
   },
   {
@@ -412,18 +352,6 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "beta-dr.usa.gov",
     "name_value": "beta-dr.usa.gov",
-    "id": 22318618261,
-    "entry_timestamp": "2025-11-08T19:29:54.774",
-    "not_before": "2025-11-08T18:31:23",
-    "not_after": "2026-02-06T18:31:22",
-    "serial_number": "06d27db547fe63465bb732f8613ed33b3950",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "beta-dr.usa.gov",
-    "name_value": "beta-dr.usa.gov",
     "id": 22318615182,
     "entry_timestamp": "2025-11-08T19:29:54.395",
     "not_before": "2025-11-08T18:31:23",
@@ -454,18 +382,6 @@
     "not_after": "2026-02-06T18:31:22",
     "serial_number": "05ff5229f71a6342295f34a77b38643d0e6d",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "cms-dev.usa.gov",
-    "name_value": "beta-dev.usa.gov\ncms-dev.usa.gov",
-    "id": 22108472584,
-    "entry_timestamp": "2025-10-30T20:19:20.469",
-    "not_before": "2025-10-30T19:20:50",
-    "not_after": "2026-01-28T19:20:49",
-    "serial_number": "068fb207f5508a055db97b5fd48837b03c89",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 295816,
@@ -556,59 +472,11 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "open.usa.gov",
     "name_value": "open.usa.gov",
-    "id": 21952501812,
-    "entry_timestamp": "2025-10-23T22:19:34.515",
-    "not_before": "2025-10-23T21:21:04",
-    "not_after": "2026-01-21T21:21:03",
-    "serial_number": "0610af251ad3aebd7da764c32dfc063f8577",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "open.usa.gov",
-    "name_value": "open.usa.gov",
     "id": 21952498253,
     "entry_timestamp": "2025-10-23T22:19:34.286",
     "not_before": "2025-10-23T21:21:04",
     "not_after": "2026-01-21T21:21:03",
     "serial_number": "0610af251ad3aebd7da764c32dfc063f8577",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "search.usa.gov",
-    "name_value": "search.usa.gov\nwww.search.usa.gov",
-    "id": 21950416097,
-    "entry_timestamp": "2025-10-23T20:22:13.5",
-    "not_before": "2025-10-23T19:23:43",
-    "not_after": "2026-01-21T19:23:42",
-    "serial_number": "0670d5ec8dbb931b0bf92ebaffdfbdcb5c74",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "search.usa.gov",
-    "name_value": "search.usa.gov\nwww.search.usa.gov",
-    "id": 21950417921,
-    "entry_timestamp": "2025-10-23T20:22:13.29",
-    "not_before": "2025-10-23T19:23:43",
-    "not_after": "2026-01-21T19:23:42",
-    "serial_number": "0670d5ec8dbb931b0bf92ebaffdfbdcb5c74",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "search.usa.gov",
-    "name_value": "search.usa.gov",
-    "id": 21948919151,
-    "entry_timestamp": "2025-10-23T18:58:42.431",
-    "not_before": "2025-10-23T18:00:12",
-    "not_after": "2026-01-21T18:00:11",
-    "serial_number": "06c8da1570b1ae16a1ff1f2a6d74838a792b",
     "result_count": 2
   },
   {
@@ -622,18 +490,6 @@
     "not_after": "2026-01-21T18:00:11",
     "serial_number": "06c8da1570b1ae16a1ff1f2a6d74838a792b",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "search.usa.gov",
-    "name_value": "*.search.usa.gov\nsearch.usa.gov",
-    "id": 21944995510,
-    "entry_timestamp": "2025-10-23T15:31:01.837",
-    "not_before": "2025-10-23T14:32:31",
-    "not_after": "2026-01-21T14:32:30",
-    "serial_number": "065a7f7eb9c0eb78ae5e02434e615beaefde",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 295816,
@@ -669,18 +525,6 @@
     "not_before": "2025-10-16T15:21:27",
     "not_after": "2026-01-14T15:21:26",
     "serial_number": "06a98b2847ad94339857673f24c8dee41c8f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "open-staging.usa.gov",
-    "name_value": "open-staging.usa.gov",
-    "id": 21736245939,
-    "entry_timestamp": "2025-10-15T12:00:41.511",
-    "not_before": "2025-10-15T11:02:11",
-    "not_after": "2026-01-13T11:02:10",
-    "serial_number": "05930091dac46fd611820f2175ad0fdc72ba",
     "result_count": 2
   },
   {
@@ -748,47 +592,11 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "gobierno.usa.gov",
     "name_value": "gobierno.usa.gov",
-    "id": 21681482395,
-    "entry_timestamp": "2025-10-13T03:19:47.807",
-    "not_before": "2025-10-13T02:21:17",
-    "not_after": "2026-01-11T02:21:16",
-    "serial_number": "0647bcc7fa46786e705ea9ff5a7d54f17ca1",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "gobierno.usa.gov",
-    "name_value": "gobierno.usa.gov",
     "id": 21681481759,
     "entry_timestamp": "2025-10-13T03:19:47.589",
     "not_before": "2025-10-13T02:21:17",
     "not_after": "2026-01-11T02:21:16",
     "serial_number": "0647bcc7fa46786e705ea9ff5a7d54f17ca1",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "www.feedback.usa.gov",
-    "name_value": "www.feedback.usa.gov",
-    "id": 21678352820,
-    "entry_timestamp": "2025-10-13T00:19:47.503",
-    "not_before": "2025-10-12T23:21:16",
-    "not_after": "2026-01-10T23:21:15",
-    "serial_number": "05639822b466adce27c4e8b0ef0a9ed1c68f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "notifications.usa.gov",
-    "name_value": "notifications.usa.gov",
-    "id": 21678355811,
-    "entry_timestamp": "2025-10-13T00:19:47.253",
-    "not_before": "2025-10-12T23:21:17",
-    "not_after": "2026-01-10T23:21:16",
-    "serial_number": "0644dd18a5074b3ba554fe4914be32e6d870",
     "result_count": 2
   },
   {
@@ -832,18 +640,6 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "www.my.usa.gov",
     "name_value": "www.my.usa.gov",
-    "id": 21678355908,
-    "entry_timestamp": "2025-10-13T00:19:47.109",
-    "not_before": "2025-10-12T23:21:16",
-    "not_after": "2026-01-10T23:21:15",
-    "serial_number": "064154f2541a67dbb86b8e13c5fbcd1e7144",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "www.my.usa.gov",
-    "name_value": "www.my.usa.gov",
     "id": 21678352713,
     "entry_timestamp": "2025-10-13T00:19:47.019",
     "not_before": "2025-10-12T23:21:16",
@@ -861,18 +657,6 @@
     "not_before": "2025-10-12T23:21:16",
     "not_after": "2026-01-10T23:21:15",
     "serial_number": "05a189b032f912ffb0e773ce29585ab3aaff",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "publications.usa.gov",
-    "name_value": "publications.usa.gov",
-    "id": 21678371909,
-    "entry_timestamp": "2025-10-13T00:19:46.448",
-    "not_before": "2025-10-12T23:21:16",
-    "not_after": "2026-01-10T23:21:15",
-    "serial_number": "060e46796645149edce528707fc6292660ab",
     "result_count": 2
   },
   {
@@ -940,30 +724,6 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "answers.usa.gov",
     "name_value": "answers.usa.gov",
-    "id": 21675857773,
-    "entry_timestamp": "2025-10-12T21:19:47.315",
-    "not_before": "2025-10-12T20:21:16",
-    "not_after": "2026-01-10T20:21:15",
-    "serial_number": "05530196ef4cea79660841c4204b7381a82e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "apps.usa.gov",
-    "name_value": "apps.usa.gov",
-    "id": 21675856917,
-    "entry_timestamp": "2025-10-12T21:19:47.234",
-    "not_before": "2025-10-12T20:21:16",
-    "not_after": "2026-01-10T20:21:15",
-    "serial_number": "05ce09c864e53ae3e1617a499984534237b9",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "answers.usa.gov",
-    "name_value": "answers.usa.gov",
     "id": 21675861884,
     "entry_timestamp": "2025-10-12T21:19:46.98",
     "not_before": "2025-10-12T20:21:16",
@@ -981,18 +741,6 @@
     "not_before": "2025-10-12T20:21:16",
     "not_after": "2026-01-10T20:21:15",
     "serial_number": "05ce09c864e53ae3e1617a499984534237b9",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "business.usa.gov",
-    "name_value": "business.usa.gov",
-    "id": 21674951785,
-    "entry_timestamp": "2025-10-12T20:19:46.798",
-    "not_before": "2025-10-12T19:21:16",
-    "not_after": "2026-01-10T19:21:15",
-    "serial_number": "06eb32cf3dc94175e672f7ecfa964f0bb1c4",
     "result_count": 2
   },
   {
@@ -1022,13 +770,13 @@
   {
     "issuer_ca_id": 295816,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "www.promotions.usa.gov",
-    "name_value": "www.promotions.usa.gov",
-    "id": 21636347960,
-    "entry_timestamp": "2025-10-11T03:19:47.405",
+    "common_name": "vote.usa.gov",
+    "name_value": "vote.usa.gov",
+    "id": 21636347313,
+    "entry_timestamp": "2025-10-11T03:19:47.166",
     "not_before": "2025-10-11T02:21:16",
     "not_after": "2026-01-09T02:21:15",
-    "serial_number": "050cd54c403e64f27f64429bfa9afc14d1d4",
+    "serial_number": "05f7db93e681ab54c65dd6fdb0180b87e623",
     "result_count": 2
   },
   {
@@ -1044,30 +792,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "vote.usa.gov",
-    "name_value": "vote.usa.gov",
-    "id": 21636347313,
-    "entry_timestamp": "2025-10-11T03:19:47.166",
-    "not_before": "2025-10-11T02:21:16",
-    "not_after": "2026-01-09T02:21:15",
-    "serial_number": "05f7db93e681ab54c65dd6fdb0180b87e623",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "www.gobierno.usa.gov",
-    "name_value": "www.gobierno.usa.gov",
-    "id": 21636350717,
-    "entry_timestamp": "2025-10-11T03:19:46.981",
-    "not_before": "2025-10-11T02:21:16",
-    "not_after": "2026-01-09T02:21:15",
-    "serial_number": "0608dc93f5bfa78cc503853c4b3b82449fff",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 295817,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "www.gobierno.usa.gov",
@@ -1077,30 +801,6 @@
     "not_before": "2025-10-11T02:21:16",
     "not_after": "2026-01-09T02:21:15",
     "serial_number": "0608dc93f5bfa78cc503853c4b3b82449fff",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "promotions.usa.gov",
-    "name_value": "promotions.usa.gov",
-    "id": 21633773497,
-    "entry_timestamp": "2025-10-11T00:19:47.966",
-    "not_before": "2025-10-10T23:21:17",
-    "not_after": "2026-01-08T23:21:16",
-    "serial_number": "05855850a088e652684d37ba3eb14780ae1b",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "kids.usa.gov",
-    "name_value": "kids.usa.gov",
-    "id": 21633773972,
-    "entry_timestamp": "2025-10-11T00:19:47.381",
-    "not_before": "2025-10-10T23:21:16",
-    "not_after": "2026-01-08T23:21:15",
-    "serial_number": "05c18376aa002fbe5d0b018448618723486e",
     "result_count": 2
   },
   {
@@ -1137,18 +837,6 @@
     "not_before": "2025-10-10T23:21:16",
     "not_after": "2026-01-08T23:21:15",
     "serial_number": "06563de966ea80445a7e72c9d24dc7a1b5bc",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "tellus.usa.gov",
-    "name_value": "tellus.usa.gov",
-    "id": 21633773454,
-    "entry_timestamp": "2025-10-11T00:19:46.62",
-    "not_before": "2025-10-10T23:21:16",
-    "not_after": "2026-01-08T23:21:15",
-    "serial_number": "06aeb3d82555d93622866e6a10290f02bbc1",
     "result_count": 2
   },
   {
@@ -1204,35 +892,11 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "api-proxy-stage.usa.gov",
     "name_value": "api-proxy-stage.usa.gov",
-    "id": 21580030902,
-    "entry_timestamp": "2025-10-08T19:19:47.503",
-    "not_before": "2025-10-08T18:21:17",
-    "not_after": "2026-01-06T18:21:16",
-    "serial_number": "059e53fd30d90566cd236390890eebf1a343",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "api-proxy-stage.usa.gov",
-    "name_value": "api-proxy-stage.usa.gov",
     "id": 21579888856,
     "entry_timestamp": "2025-10-08T19:19:47.245",
     "not_before": "2025-10-08T18:21:17",
     "not_after": "2026-01-06T18:21:16",
     "serial_number": "059e53fd30d90566cd236390890eebf1a343",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "api-proxy-dev.usa.gov",
-    "name_value": "api-proxy-dev.usa.gov",
-    "id": 21579429874,
-    "entry_timestamp": "2025-10-08T17:19:48.442",
-    "not_before": "2025-10-08T16:21:18",
-    "not_after": "2026-01-06T16:21:17",
-    "serial_number": "06c40904801923766453840a555c0cda8d6a",
     "result_count": 2
   },
   {
@@ -1269,18 +933,6 @@
     "not_before": "2025-10-05T20:21:02",
     "not_after": "2026-01-03T20:21:01",
     "serial_number": "05cb732118de9e407ae8da00fcc4f3540d68",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "cms-stage.usa.gov",
-    "name_value": "cms-stage.usa.gov",
-    "id": 21386180662,
-    "entry_timestamp": "2025-10-01T00:29:34.026",
-    "not_before": "2025-09-30T23:31:03",
-    "not_after": "2025-12-29T23:31:02",
-    "serial_number": "053e0a6b889cfea2df3e6cc846e4360b042c",
     "result_count": 2
   },
   {
@@ -1384,36 +1036,12 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "analytics.usa.gov",
     "name_value": "analytics.usa.gov",
-    "id": 21420685216,
-    "entry_timestamp": "2025-09-26T12:10:44.944",
-    "not_before": "2025-09-26T11:12:14",
-    "not_after": "2025-12-25T11:12:13",
-    "serial_number": "06da5d9cfc9cde8a94fbeec8f43561b98818",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "analytics.usa.gov",
-    "name_value": "analytics.usa.gov",
     "id": 21316066982,
     "entry_timestamp": "2025-09-26T12:10:44.844",
     "not_before": "2025-09-26T11:12:14",
     "not_after": "2025-12-25T11:12:13",
     "serial_number": "06da5d9cfc9cde8a94fbeec8f43561b98818",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "i14y.usa.gov",
-    "name_value": "i14y.search.usa.gov\ni14y.usa.gov",
-    "id": 21254324382,
-    "entry_timestamp": "2025-09-24T20:50:00.134",
-    "not_before": "2025-09-24T19:51:29",
-    "not_after": "2025-12-23T19:51:28",
-    "serial_number": "0617089bf1f203f123e130a853db54e55ae6",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 295817,
@@ -1449,18 +1077,6 @@
     "not_before": "2025-09-22T23:21:11",
     "not_after": "2025-12-21T23:21:10",
     "serial_number": "055e5484dbe795e65991c3a80980371515e0",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "beta.usa.gov",
-    "name_value": "beta.usa.gov",
-    "id": 21165878844,
-    "entry_timestamp": "2025-09-20T23:19:42.882",
-    "not_before": "2025-09-20T22:21:12",
-    "not_after": "2025-12-19T22:21:11",
-    "serial_number": "05567fd55d19d563c5d9db668a0b3e3b2aff",
     "result_count": 2
   },
   {
@@ -1540,59 +1156,11 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "benefits-tool.usa.gov",
     "name_value": "benefits-tool.usa.gov",
-    "id": 21063245083,
-    "entry_timestamp": "2025-09-16T18:20:02.535",
-    "not_before": "2025-09-16T17:21:32",
-    "not_after": "2025-12-15T17:21:31",
-    "serial_number": "06ec3010a6b1d8f8e687bd17f4428b72c76f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "benefits-tool.usa.gov",
-    "name_value": "benefits-tool.usa.gov",
     "id": 21063243476,
     "entry_timestamp": "2025-09-16T18:20:02.32",
     "not_before": "2025-09-16T17:21:32",
     "not_after": "2025-12-15T17:21:31",
     "serial_number": "06ec3010a6b1d8f8e687bd17f4428b72c76f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "fedidcard.gov",
-    "name_value": "gobiernousa.gov\nusa.gov",
-    "id": 21057695882,
-    "entry_timestamp": "2025-09-16T12:58:18.375",
-    "not_before": "2025-09-16T11:59:48",
-    "not_after": "2025-12-15T11:59:47",
-    "serial_number": "061ca4c0cc864ea7689c9b75fa06f795db05",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "fedidcard.gov",
-    "name_value": "gobiernousa.gov\nusa.gov",
-    "id": 21057770222,
-    "entry_timestamp": "2025-09-16T12:58:18.214",
-    "not_before": "2025-09-16T11:59:48",
-    "not_after": "2025-12-15T11:59:47",
-    "serial_number": "061ca4c0cc864ea7689c9b75fa06f795db05",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "beta-dr.usa.gov",
-    "name_value": "beta-dr.usa.gov",
-    "id": 20904773971,
-    "entry_timestamp": "2025-09-09T19:27:11.913",
-    "not_before": "2025-09-09T18:28:39",
-    "not_after": "2025-12-08T18:28:38",
-    "serial_number": "0503bbe461847a98b4e0badad5657e7f47d9",
     "result_count": 2
   },
   {

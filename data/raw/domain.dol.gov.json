@@ -24,6 +24,18 @@
     "result_count": 1
   },
   {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "dev.hirevets.gov",
+    "name_value": "hirevets.dev.pace.dol.gov",
+    "id": 22944531689,
+    "entry_timestamp": "2025-12-05T22:49:56.674",
+    "not_before": "2025-12-05T21:51:26",
+    "not_after": "2026-03-05T21:51:25",
+    "serial_number": "05ebaa21d34423d6bb01f90b25461604c2d6",
+    "result_count": 1
+  },
+  {
     "issuer_ca_id": 385512,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
     "common_name": "testvpn.dol.gov",
@@ -76,6 +88,18 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "flag.dol.gov",
     "name_value": "api.seasonaljobs.dol.gov\nedit.flag.dol.gov\nflag.dol.gov\nprod.api.datahub.dol.gov\nseasonaljobs.dol.gov",
+    "id": 22959009026,
+    "entry_timestamp": "2025-12-04T00:20:32.506",
+    "not_before": "2025-12-03T23:22:00",
+    "not_after": "2026-03-03T23:21:59",
+    "serial_number": "0639794bc55588e79df5f61863d3e0222328",
+    "result_count": 6
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "flag.dol.gov",
+    "name_value": "api.seasonaljobs.dol.gov\nedit.flag.dol.gov\nflag.dol.gov\nprod.api.datahub.dol.gov\nseasonaljobs.dol.gov",
     "id": 22901212635,
     "entry_timestamp": "2025-12-04T00:20:31.97",
     "not_before": "2025-12-03T23:22:00",
@@ -89,7 +113,7 @@
     "common_name": "staging.ofccptraining.dol.gov",
     "name_value": "ofccptraining.staging.pace.dol.gov\nstaging.ofccptraining.dol.gov",
     "id": 22893298067,
-    "entry_timestamp": "2025-12-03T20:33:39.071",
+    "entry_timestamp": "2025-12-03T20:31:17.306",
     "not_before": "2025-12-03T19:32:46",
     "not_after": "2026-03-03T19:32:45",
     "serial_number": "05f584f28eda140c7e69d21a308a6f5e013c",
@@ -5580,18 +5604,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 239799,
-    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
-    "common_name": "dev-ilab.dol.gov",
-    "name_value": "dev-ilab.dol.gov",
-    "id": 18870074264,
-    "entry_timestamp": "2025-06-07T11:44:16.372",
-    "not_before": "2025-06-07T00:00:00",
-    "not_after": "2025-12-07T23:59:59",
-    "serial_number": "0497eb157d1d23a6331bb0e2e0272d17",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "ams.dol.gov",
@@ -9118,17 +9130,5 @@
     "not_after": "2025-12-10T23:59:59",
     "serial_number": "0247b0ea5e68fafa1c37a2effb92a2d0",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1586,
-    "issuer_name": "C=US, O=\"Entrust, Inc.\", OU=See www.entrust.net/legal-terms, OU=\"(c) 2012 Entrust, Inc. - for authorized use only\", CN=Entrust Certification Authority - L1K",
-    "common_name": "DEVELOPER.DOL.GOV",
-    "name_value": "DEVELOPER.DOL.GOV\nwww.DEVELOPER.DOL.GOV",
-    "id": 15253344655,
-    "entry_timestamp": "2024-11-07T16:45:00.837",
-    "not_before": "2024-11-07T16:45:00",
-    "not_after": "2025-12-07T16:44:59",
-    "serial_number": "0cca78ed954244de88a3de3b114d9e22",
-    "result_count": 3
   }
 ]
