@@ -2,10 +2,34 @@
   {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "cidr.test.census.gov",
+    "name_value": "cidr.test.census.gov",
+    "id": 23012543616,
+    "entry_timestamp": "2025-12-09T22:08:36.694",
+    "not_before": "2025-12-04T17:29:32",
+    "not_after": "2026-03-04T18:29:27",
+    "serial_number": "00c6076ace3f02c2520da205ad0da74b39",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "test.usatrade.census.gov",
+    "name_value": "test.usatrade.census.gov",
+    "id": 23010517102,
+    "entry_timestamp": "2025-12-09T20:13:53.655",
+    "not_before": "2025-12-09T19:13:53",
+    "not_after": "2026-03-09T20:11:43",
+    "serial_number": "0094952d16936734410d7133a0a1fabe82",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "access.census.gov",
     "name_value": "access.census.gov",
     "id": 22951274997,
-    "entry_timestamp": "2025-12-07T08:51:34.293",
+    "entry_timestamp": "2025-12-07T08:51:34.29",
     "not_before": "2025-12-04T18:42:14",
     "not_after": "2026-03-04T19:42:09",
     "serial_number": "00a1fcafeb24bc300111041ddf64598e32",
@@ -60,6 +84,18 @@
     "result_count": 3
   },
   {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "access.census.gov",
+    "name_value": "access.census.gov",
+    "id": 23010858399,
+    "entry_timestamp": "2025-12-04T19:42:14.926",
+    "not_before": "2025-12-04T18:42:14",
+    "not_after": "2026-03-04T19:42:09",
+    "serial_number": "00a1fcafeb24bc300111041ddf64598e32",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 286242,
     "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
     "common_name": "access.census.gov",
@@ -77,7 +113,7 @@
     "common_name": "cidr.test.census.gov",
     "name_value": "cidr.test.census.gov",
     "id": 22909432623,
-    "entry_timestamp": "2025-12-04T18:29:33.41",
+    "entry_timestamp": "2025-12-04T18:29:33.399",
     "not_before": "2025-12-04T17:29:32",
     "not_after": "2026-03-04T18:29:27",
     "serial_number": "00c6076ace3f02c2520da205ad0da74b39",

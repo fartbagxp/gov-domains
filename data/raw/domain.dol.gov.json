@@ -2,6 +2,42 @@
   {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "otss.dol.gov",
+    "name_value": "otss.dol.gov",
+    "id": 23012004808,
+    "entry_timestamp": "2025-12-09T21:36:29.592",
+    "not_before": "2025-12-09T00:00:00",
+    "not_after": "2027-01-07T23:59:59",
+    "serial_number": "09aedc41d1b3656a8e1c2eec2dd5602d",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "claude.dol.gov",
+    "name_value": "claude.dol.gov",
+    "id": 23007362629,
+    "entry_timestamp": "2025-12-09T17:11:12.775",
+    "not_before": "2025-12-09T00:00:00",
+    "not_after": "2027-01-09T23:59:59",
+    "serial_number": "00a6d8016bc9eba77ae3ab9bf2f7e6edc7",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "claude.dol.gov",
+    "name_value": "claude.dol.gov",
+    "id": 23007362190,
+    "entry_timestamp": "2025-12-09T17:11:12.186",
+    "not_before": "2025-12-09T00:00:00",
+    "not_after": "2027-01-09T23:59:59",
+    "serial_number": "00a6d8016bc9eba77ae3ab9bf2f7e6edc7",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "dev.ofccptraining.dol.gov",
     "name_value": "dev.ofccptraining.dol.gov\nofccptraining.dev.pace.dol.gov",
     "id": 22991073322,
@@ -9178,41 +9214,5 @@
     "not_after": "2025-12-14T05:00:00",
     "serial_number": "4f9cd994c2b55253ddfd27b374b7785f",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "dev.uirs.oui.eta.dol.gov",
-    "name_value": "dev.uirs.oui.eta.dol.gov",
-    "id": 15296457117,
-    "entry_timestamp": "2024-11-10T18:20:19.649",
-    "not_before": "2024-11-10T00:00:00",
-    "not_after": "2025-12-10T23:59:59",
-    "serial_number": "08a932a7c2cbb27c46f0c146c02bc1fc",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "dev.uirs.oui.eta.dol.gov",
-    "name_value": "dev.uirs.oui.eta.dol.gov",
-    "id": 15288971997,
-    "entry_timestamp": "2024-11-10T05:44:14.808",
-    "not_before": "2024-11-10T00:00:00",
-    "not_after": "2025-12-10T23:59:59",
-    "serial_number": "08a932a7c2cbb27c46f0c146c02bc1fc",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "dev-arpa-ndw.dol.gov",
-    "name_value": "dev-arpa-ndw.dol.gov",
-    "id": 15288196091,
-    "entry_timestamp": "2024-11-10T04:26:44.438",
-    "not_before": "2024-11-10T00:00:00",
-    "not_after": "2025-12-10T23:59:59",
-    "serial_number": "0247b0ea5e68fafa1c37a2effb92a2d0",
-    "result_count": 2
   }
 ]

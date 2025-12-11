@@ -1,5 +1,53 @@
 [
   {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "test2.medicare.gov",
+    "name_value": "tealium-tags.cms.gov\ntest.static.bluebutton.cms.gov",
+    "id": 23012308793,
+    "entry_timestamp": "2025-12-09T21:54:23.316",
+    "not_before": "2025-12-09T20:55:53",
+    "not_after": "2026-03-09T20:55:52",
+    "serial_number": "05d40704a24cf8dfd2c8c5f834aeea0c7a30",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "test.emeasuretool.internal.cms.gov",
+    "name_value": "test.emeasuretool.internal.cms.gov",
+    "id": 23009680812,
+    "entry_timestamp": "2025-12-09T19:23:38.515",
+    "not_before": "2025-12-09T00:00:00",
+    "not_after": "2027-01-07T23:59:59",
+    "serial_number": "04db730808ae7e89152fa4c23517fcd8",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "dev.emeasuretool.internal.cms.gov",
+    "name_value": "dev.emeasuretool.internal.cms.gov",
+    "id": 23009583872,
+    "entry_timestamp": "2025-12-09T19:17:52.919",
+    "not_before": "2025-12-09T00:00:00",
+    "not_after": "2027-01-07T23:59:59",
+    "serial_number": "047710c048289fd2c84f236c9f01a079",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "*.dev.caes.internal.cms.gov",
+    "name_value": "*.dev.caes.internal.cms.gov\ndev.caes.internal.cms.gov",
+    "id": 23005905639,
+    "entry_timestamp": "2025-12-09T15:48:48.539",
+    "not_before": "2025-12-09T00:00:00",
+    "not_after": "2027-01-07T23:59:59",
+    "serial_number": "0c7ba07740a3faee087a3cf2e287c72f",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 295816,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "dew23ru98r2949283r9d.profitbricks.de",
@@ -89,7 +137,7 @@
     "common_name": "prod.data-faker.qpp.backends.cms.gov",
     "name_value": "prod.data-faker.qpp.backends.cms.gov",
     "id": 22959516805,
-    "entry_timestamp": "2025-12-07T05:00:30.091",
+    "entry_timestamp": "2025-12-07T05:00:29.9",
     "not_before": "2025-01-06T00:00:00",
     "not_after": "2026-02-04T23:59:59",
     "serial_number": "07aa5300f527688f8684ffe74f6f483f",
@@ -137,7 +185,7 @@
     "common_name": "rip.qpp.backends.cms.gov",
     "name_value": "rip.qpp.backends.cms.gov",
     "id": 22944707598,
-    "entry_timestamp": "2025-12-07T02:34:02.523",
+    "entry_timestamp": "2025-12-07T02:34:02.334",
     "not_before": "2025-01-06T00:00:00",
     "not_after": "2026-02-04T23:59:59",
     "serial_number": "01d0959a8743869a10cb4e603d17d0f6",
@@ -165,6 +213,18 @@
     "not_before": "2025-12-07T00:00:00",
     "not_after": "2026-12-08T23:59:59",
     "serial_number": "07b5b2a0e4095b5b906f560745fb20af",
+    "result_count": 27
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "www2.cms.gov",
+    "name_value": "api.developer.cms.gov\naps.portal-beta.cms.gov\nbi.cms.gov\nconfluence.cms.gov\nedit.openpaymentsdata.cms.gov\nedit.pfs.data.cms.gov\nelmo.portal-beta.cms.gov\nfm-prod.insuranceoversight.cms.gov\ngithub.cms.gov\ngithub.test.cms.gov\nhipchat.cms.gov\njira.cms.gov\njira.prodnr.cms.gov\nload.openpaymentsdata.cms.gov\npecosai.portal-beta.cms.gov\npfs.data.cms.gov\npm-analytics.insuranceoversight.cms.gov\npm.insuranceoversight.cms.gov\nprod2-edit.openpaymentsdata.cms.gov\nprod2.openpaymentsdata.cms.gov\nqic.cms.gov\nqic-edit.cms.gov\nscclia.cms.gov\nsei.cms.gov\ntableau.bi.cms.gov\nwww2.cms.gov",
+    "id": 22942170264,
+    "entry_timestamp": "2025-12-07T00:14:43.163",
+    "not_before": "2025-12-07T00:00:00",
+    "not_after": "2026-12-08T23:59:59",
+    "serial_number": "090988f5ec78e14f692f25fbf11d7d62",
     "result_count": 27
   },
   {
@@ -225,6 +285,30 @@
     "not_before": "2025-12-05T00:00:00",
     "not_after": "2027-01-03T23:59:59",
     "serial_number": "01eb15fe7f14a2a428053f3cd7bd5a8e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "dev.ztmf.cms.gov",
+    "name_value": "dev.ztmf.cms.gov\nztmf.cms.gov",
+    "id": 22907440352,
+    "entry_timestamp": "2025-12-05T17:08:56.487",
+    "not_before": "2025-12-05T00:00:00",
+    "not_after": "2027-01-05T23:59:59",
+    "serial_number": "0672a643c23ce5355cf8e70347904f53",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "prodi.mlms.cms.gov",
+    "name_value": "prodi.mlms.cms.gov",
+    "id": 22907422205,
+    "entry_timestamp": "2025-12-05T17:08:11.056",
+    "not_before": "2025-12-05T00:00:00",
+    "not_after": "2027-01-04T23:59:59",
+    "serial_number": "0a82b9e95bf77d0da9e42c8dec6f4469",
     "result_count": 2
   },
   {
@@ -372,6 +456,30 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "devi.mlms.cms.gov",
+    "name_value": "devi.mlms.cms.gov",
+    "id": 22865616493,
+    "entry_timestamp": "2025-12-02T15:47:13.787",
+    "not_before": "2025-12-02T00:00:00",
+    "not_after": "2026-12-02T23:59:59",
+    "serial_number": "067d6ee6d00309b9cbf77cdb58aec4f6",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "hics.cms.gov",
+    "name_value": "hics.cms.gov\nwww.hics.cms.gov",
+    "id": 22865615761,
+    "entry_timestamp": "2025-12-02T15:46:28.704",
+    "not_before": "2025-12-02T00:00:00",
+    "not_after": "2026-12-16T23:59:59",
+    "serial_number": "091b8b4107da916e646b43fe497a14e9",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 246719,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "impl.demos.internal.cms.gov",
@@ -502,6 +610,18 @@
     "not_after": "2026-12-31T15:37:12",
     "serial_number": "40019ada9079c3a9a19729d61a842559",
     "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "cerrsd365.cerrs.cms.gov",
+    "name_value": "auth365.cerrs.cms.gov\ncerrs365dws.cerrs.cms.gov\ncerrsd365.cerrs.cms.gov\ncerrsd365-sts.cerrs.cms.gov\ncerrsd365training.cerrs.cms.gov\ncerrs-sp.cms.gov\ncerrs-sts.cms.gov\ninternald365.cerrs.cms.gov",
+    "id": 22844667695,
+    "entry_timestamp": "2025-12-01T15:08:17.04",
+    "not_before": "2025-12-01T00:00:00",
+    "not_after": "2026-12-03T23:59:59",
+    "serial_number": "0ababda81012e039384b4e301ec2dfbc",
+    "result_count": 9
   },
   {
     "issuer_ca_id": 153248,
@@ -754,6 +874,18 @@
     "not_after": "2026-12-24T23:59:59",
     "serial_number": "07369a8af3d61a9e236b3a1115544124",
     "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "cerrsd365.cerrs.cms.gov",
+    "name_value": "auth365.cerrs.cms.gov\ncerrs365dws.cerrs.cms.gov\ncerrsd365.cerrs.cms.gov\ncerrsd365-sts.cerrs.cms.gov\ncerrsd365training.cerrs.cms.gov\ncerrs-sp.cms.gov\ncerrs-sts.cms.gov\ninternald365.cerrs.cms.gov",
+    "id": 22721573267,
+    "entry_timestamp": "2025-11-25T10:23:05.386",
+    "not_before": "2025-11-25T00:00:00",
+    "not_after": "2026-12-03T23:59:59",
+    "serial_number": "0424fdf6ebd4d4e19ed8c4e59966d4cc",
+    "result_count": 9
   },
   {
     "issuer_ca_id": 247106,
@@ -1188,6 +1320,30 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "impl-hcms-apigateway.cms.gov",
+    "name_value": "impl-hcms-apigateway.cms.gov",
+    "id": 22598041762,
+    "entry_timestamp": "2025-11-19T19:21:37.679",
+    "not_before": "2025-10-07T00:00:00",
+    "not_after": "2026-10-06T23:59:59",
+    "serial_number": "088285a5b4581c0117a7f8cb43884fd1",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "impl-qualitynet.cms.gov",
+    "name_value": "impl-qualitynet.cms.gov",
+    "id": 22598041708,
+    "entry_timestamp": "2025-11-19T19:21:37.401",
+    "not_before": "2025-10-07T00:00:00",
+    "not_after": "2026-10-06T23:59:59",
+    "serial_number": "013427c8d36370611b198c9435ab4ab7",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "impl-hcms-apigateway.cms.gov",
@@ -1293,6 +1449,18 @@
     "not_before": "2025-11-19T00:00:00",
     "not_after": "2026-02-04T23:59:59",
     "serial_number": "06b083e768b01af361bc8e9888816b3f",
+    "result_count": 27
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "www2.cms.gov",
+    "name_value": "api.developer.cms.gov\naps.portal-beta.cms.gov\nbi.cms.gov\nconfluence.cms.gov\nedit.openpaymentsdata.cms.gov\nedit.pfs.data.cms.gov\nelmo.portal-beta.cms.gov\nfm-prod.insuranceoversight.cms.gov\ngithub.cms.gov\ngithub.test.cms.gov\nhipchat.cms.gov\njira.cms.gov\njira.prodnr.cms.gov\nload.openpaymentsdata.cms.gov\npecosai.portal-beta.cms.gov\npfs.data.cms.gov\npm-analytics.insuranceoversight.cms.gov\npm.insuranceoversight.cms.gov\nprod2-edit.openpaymentsdata.cms.gov\nprod2.openpaymentsdata.cms.gov\nqic.cms.gov\nqic-edit.cms.gov\nscclia.cms.gov\nsei.cms.gov\ntableau.bi.cms.gov\nwww2.cms.gov",
+    "id": 22593171570,
+    "entry_timestamp": "2025-11-19T15:20:46.491",
+    "not_before": "2025-11-19T00:00:00",
+    "not_after": "2026-02-04T23:59:59",
+    "serial_number": "0bc28a2c5b2135cd6c79df2133fae940",
     "result_count": 27
   },
   {
@@ -1428,6 +1596,18 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "certsubmit.cms.gov",
+    "name_value": "certsubmit.cms.gov",
+    "id": 22568899744,
+    "entry_timestamp": "2025-11-18T17:44:22.838",
+    "not_before": "2025-11-18T00:00:00",
+    "not_after": "2026-11-24T23:59:59",
+    "serial_number": "068d6ee1c2d7ba6a3a1d912be9a2cea3",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "dev.ngd.cms.gov",
@@ -1500,6 +1680,18 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "sbx-qualitynet.cms.gov",
+    "name_value": "sbx-qualitynet.cms.gov",
+    "id": 22542124741,
+    "entry_timestamp": "2025-11-17T16:07:23.636",
+    "not_before": "2025-10-14T00:00:00",
+    "not_after": "2026-10-13T23:59:59",
+    "serial_number": "07dcfde52df8075a4c61e0a55f7a4f87",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "sbx-qualitynet.cms.gov",
@@ -1509,6 +1701,18 @@
     "not_before": "2025-11-17T00:00:00",
     "not_after": "2026-12-16T23:59:59",
     "serial_number": "0ac5b4bd9cc8268a3139ca6e024023e7",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "sbx-hcms-apigateway.cms.gov",
+    "name_value": "sbx-hcms-apigateway.cms.gov",
+    "id": 22541994153,
+    "entry_timestamp": "2025-11-17T16:00:46.27",
+    "not_before": "2025-10-07T00:00:00",
+    "not_after": "2026-10-06T23:59:59",
+    "serial_number": "063bc548a90b1b57aff66606ba7959d2",
     "result_count": 2
   },
   {
@@ -1593,6 +1797,54 @@
     "not_before": "2025-02-24T16:20:19",
     "not_after": "2026-03-26T16:19:19",
     "serial_number": "40019538c267e7f6be667b0ee31b715d",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "sts2.cms.gov",
+    "name_value": "sts2.cms.gov",
+    "id": 22509286363,
+    "entry_timestamp": "2025-11-16T10:14:24.009",
+    "not_before": "2025-02-24T00:00:00",
+    "not_after": "2026-03-27T23:59:59",
+    "serial_number": "035cff5372539fd59de99faa94fa1387",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "sandbox.ab2d.cms.gov",
+    "name_value": "sandbox.ab2d.cms.gov",
+    "id": 22509090693,
+    "entry_timestamp": "2025-11-16T10:02:39.185",
+    "not_before": "2025-02-21T00:00:00",
+    "not_after": "2026-03-05T23:59:59",
+    "serial_number": "05f0276d8abbc7942aeba91e2f203927",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "seed.cms.gov",
+    "name_value": "seed2.cms.gov\nseed.cms.gov",
+    "id": 22508996058,
+    "entry_timestamp": "2025-11-16T09:57:02.415",
+    "not_before": "2025-02-21T00:00:00",
+    "not_after": "2026-02-27T23:59:59",
+    "serial_number": "020e99f415d901088c4c35fa68d758f9",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "qies-west.cms.gov",
+    "name_value": "qies-west.cms.gov",
+    "id": 22508914029,
+    "entry_timestamp": "2025-11-16T09:51:11.768",
+    "not_before": "2025-02-21T00:00:00",
+    "not_after": "2026-02-20T23:59:59",
+    "serial_number": "0212f4bd2459b17197b90dadf01a269d",
     "result_count": 2
   },
   {
@@ -1704,15 +1956,15 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "hub.cms.gov",
-    "name_value": "hub.cms.gov",
-    "id": 22507208139,
-    "entry_timestamp": "2025-11-16T08:06:53.071",
-    "not_before": "2025-02-11T00:00:00",
-    "not_after": "2026-02-10T23:59:59",
-    "serial_number": "0322a1df5c1313d055fa5f10daab474b",
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "sf.cms.gov",
+    "name_value": "sf.cms.gov",
+    "id": 22506745775,
+    "entry_timestamp": "2025-11-16T07:37:45.101",
+    "not_before": "2025-02-07T00:00:00",
+    "not_after": "2026-03-10T23:59:59",
+    "serial_number": "09518db08703540ddf9ce9d2ea4998ad",
     "result_count": 2
   },
   {
@@ -1726,18 +1978,6 @@
     "not_after": "2026-03-08T16:12:40",
     "serial_number": "400194dc09d80cb975d5f333ae5b2eb2",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "www2.cms.gov",
-    "name_value": "api.developer.cms.gov\naps.portal-beta.cms.gov\nar.ocean.cms.gov\nbi.cms.gov\ncloud.cms.gov\nconfluence.cms.gov\ncrowd.cms.gov\ndatahub.cms.gov\nedit.openpaymentsdata.cms.gov\nedit.pfs.data.cms.gov\nelmo.portal-beta.cms.gov\nfruita.momot.cms.gov\nfruitb.momot.cms.gov\ngithub.cms.gov\ngithub.test.cms.gov\nhipchat.cms.gov\niserv.nginx.backends.cms.gov\njira.cms.gov\njira.prodnr.cms.gov\nload.openpaymentsdata.cms.gov\nngd-bb.cms.gov\nocean.cms.gov\npecosai.portal-beta.cms.gov\npfs.data.cms.gov\npm-analytics.insuranceoversight.cms.gov\npm.insuranceoversight.cms.gov\nprod2-edit.openpaymentsdata.cms.gov\nprod2.openpaymentsdata.cms.gov\nqic.cms.gov\nqic-edit.cms.gov\nsavi.ocean.cms.gov\nscclia.cms.gov\nsei.cms.gov\ntableau.bi.cms.gov\nwww2.cms.gov",
-    "id": 22506184804,
-    "entry_timestamp": "2025-11-16T07:05:03.185",
-    "not_before": "2025-02-04T00:00:00",
-    "not_after": "2026-02-04T23:59:59",
-    "serial_number": "0f237c8ecded664914361688878d940c",
-    "result_count": 36
   },
   {
     "issuer_ca_id": 153248,
@@ -1860,6 +2100,18 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "localcoverage.cms.gov",
+    "name_value": "localcoverage.cms.gov",
+    "id": 22505482736,
+    "entry_timestamp": "2025-11-16T06:26:50.089",
+    "not_before": "2025-01-29T00:00:00",
+    "not_after": "2026-02-10T23:59:59",
+    "serial_number": "0d8711e051ff86ca9a4c3c7ea51e8449",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "impl.qnettestrail.cms.gov",
@@ -1966,6 +2218,18 @@
     "not_after": "2026-02-26T16:42:40",
     "serial_number": "400194a8a5b764f2ba578e1497f8df34",
     "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "calm.cms.gov",
+    "name_value": "calm.cms.gov\ncalm-dev.cms.gov\ncalm-test.cms.gov\ncalm-training.cms.gov\ncalm-uat.cms.gov",
+    "id": 22505093933,
+    "entry_timestamp": "2025-11-16T06:03:38.164",
+    "not_before": "2025-01-27T00:00:00",
+    "not_after": "2026-02-27T23:59:59",
+    "serial_number": "0ebcc93797272e68ae3ad0e07fe4f747",
+    "result_count": 6
   },
   {
     "issuer_ca_id": 247119,
@@ -2088,6 +2352,18 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "wms-mmdl-dev.cms.gov",
+    "name_value": "wms-mmdl-dev.cms.gov",
+    "id": 22503650166,
+    "entry_timestamp": "2025-11-16T04:45:10.641",
+    "not_before": "2025-01-17T00:00:00",
+    "not_after": "2026-01-16T23:59:59",
+    "serial_number": "0bd4de8c16ef179d9a5d06d15d4bf393",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "tester.bic.cms.gov",
@@ -2124,6 +2400,18 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "sftp.permerc.cms.gov",
+    "name_value": "sftp.permerc.cms.gov",
+    "id": 22502915384,
+    "entry_timestamp": "2025-11-16T04:03:18.852",
+    "not_before": "2025-01-10T00:00:00",
+    "not_after": "2026-02-05T23:59:59",
+    "serial_number": "05c12f22f7419b3a54fbed96d2e03b0d",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "tester.bic.cms.gov",
@@ -2157,6 +2445,18 @@
     "not_before": "2025-11-16T00:00:00",
     "not_after": "2026-12-15T23:59:59",
     "serial_number": "0da438454520570d8e88ad3b6607d64c",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "ops-impl.cms.gov",
+    "name_value": "ops-impl.cms.gov",
+    "id": 22502772446,
+    "entry_timestamp": "2025-11-16T03:55:30.456",
+    "not_before": "2025-01-08T00:00:00",
+    "not_after": "2026-02-07T23:59:59",
+    "serial_number": "0383e8a7bdbc6e37ad830a00585d8ac0",
     "result_count": 2
   },
   {
@@ -2289,6 +2589,18 @@
     "not_before": "2025-11-14T00:00:00",
     "not_after": "2026-12-13T23:59:59",
     "serial_number": "05e3387f49d18d0e1beeef411ca4d8d6",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "test-qualitynet.cms.gov",
+    "name_value": "test-qualitynet.cms.gov",
+    "id": 22472800954,
+    "entry_timestamp": "2025-11-14T21:30:50.991",
+    "not_before": "2025-10-07T00:00:00",
+    "not_after": "2026-10-06T23:59:59",
+    "serial_number": "0fcb3f600cb9eb1b1812483b71f35c27",
     "result_count": 2
   },
   {
@@ -2566,6 +2878,18 @@
     "not_after": "2026-12-12T18:28:30",
     "serial_number": "40019a79547a6b7d6565b24d93b7128c",
     "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "hicsimpl1.cms.gov",
+    "name_value": "hicsimpl1.cms.gov\nhicsimpl2.cms.gov",
+    "id": 22417923813,
+    "entry_timestamp": "2025-11-12T18:02:08.254",
+    "not_before": "2025-11-12T00:00:00",
+    "not_after": "2026-11-24T23:59:59",
+    "serial_number": "0e177a8609ff0087484305b6b77fa732",
+    "result_count": 3
   },
   {
     "issuer_ca_id": 246719,
@@ -2988,6 +3312,18 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "swift.cms.gov",
+    "name_value": "auth.swift.cms.gov\nfoia.cms.gov\nreports.swift.cms.gov\nswift.cms.gov",
+    "id": 22187309796,
+    "entry_timestamp": "2025-11-03T22:00:35.899",
+    "not_before": "2025-11-03T00:00:00",
+    "not_after": "2026-11-24T23:59:59",
+    "serial_number": "07efba3db22b64f402551f401054f217",
+    "result_count": 5
+  },
+  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "sbx.web.gagateway.qnetmft.cms.gov",
@@ -3021,6 +3357,18 @@
     "not_before": "2025-11-03T17:02:08",
     "not_after": "2026-12-03T17:01:08",
     "serial_number": "40019a4aab4264461c5c59c0ed19d436",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "zone.cms.gov",
+    "name_value": "zone.cms.gov",
+    "id": 22177687186,
+    "entry_timestamp": "2025-11-03T10:39:57.848",
+    "not_before": "2025-11-03T00:00:00",
+    "not_after": "2026-11-02T23:59:59",
+    "serial_number": "039617b29c90220a2c1200eebf15f29f",
     "result_count": 2
   },
   {
@@ -3384,6 +3732,54 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "app-dev.mpsm.cms.gov",
+    "name_value": "app-dev.mpsm.cms.gov",
+    "id": 22063113851,
+    "entry_timestamp": "2025-10-28T14:05:35.165",
+    "not_before": "2025-10-28T00:00:00",
+    "not_after": "2026-11-23T23:59:59",
+    "serial_number": "0b6c66ccdddafe41a4abe6e12aa003d1",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "app-impl.mpsm.cms.gov",
+    "name_value": "app-impl.mpsm.cms.gov",
+    "id": 22063113541,
+    "entry_timestamp": "2025-10-28T14:05:13.961",
+    "not_before": "2025-10-28T00:00:00",
+    "not_after": "2026-11-23T23:59:59",
+    "serial_number": "063e1d14397509104d08b0168b7562c9",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "app-prod.mpsm.cms.gov",
+    "name_value": "app-prod.mpsm.cms.gov",
+    "id": 22063097753,
+    "entry_timestamp": "2025-10-28T14:04:54.811",
+    "not_before": "2025-10-28T00:00:00",
+    "not_after": "2026-11-23T23:59:59",
+    "serial_number": "0f97617df2b01a6dd71f88380ce49043",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "mac-api-prod.mpsm.cms.gov",
+    "name_value": "mac-api-prod.mpsm.cms.gov",
+    "id": 22063097894,
+    "entry_timestamp": "2025-10-28T14:04:17.558",
+    "not_before": "2025-10-28T00:00:00",
+    "not_after": "2026-11-20T23:59:59",
+    "serial_number": "0132856d4cb4899c6c1b25d0e7807a61",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "seaval.cms.gov",
@@ -3429,6 +3825,30 @@
     "not_before": "2025-10-28T00:00:00",
     "not_after": "2026-11-26T23:59:59",
     "serial_number": "024fb045e76e21b5c33aaaba8f94a87b",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "www.agentbrokerfaq.cms.gov",
+    "name_value": "www.agentbrokerfaq.cms.gov",
+    "id": 22043712262,
+    "entry_timestamp": "2025-10-27T16:34:43.645",
+    "not_before": "2025-10-27T00:00:00",
+    "not_after": "2026-11-27T23:59:59",
+    "serial_number": "05cf46b60787492ae2b3b56d270f3b42",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "ldap.prod.eua.internal.cms.gov",
+    "name_value": "ldap.prod.eua.internal.cms.gov",
+    "id": 22043462770,
+    "entry_timestamp": "2025-10-27T16:19:56.469",
+    "not_before": "2025-10-27T00:00:00",
+    "not_after": "2026-11-06T23:59:59",
+    "serial_number": "0d931728834332510c2c19e8c6ce6aa7",
     "result_count": 2
   },
   {
@@ -3576,6 +3996,42 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "terminology.esmd.cms.gov",
+    "name_value": "terminology.esmd.cms.gov",
+    "id": 21975693672,
+    "entry_timestamp": "2025-10-24T19:02:01.159",
+    "not_before": "2025-10-24T00:00:00",
+    "not_after": "2026-11-13T23:59:59",
+    "serial_number": "0ea3d9321729e45372f455a6d5c6289a",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "api.impl.ffm.internal.cms.gov",
+    "name_value": "api.impl.ffm.internal.cms.gov",
+    "id": 21975662584,
+    "entry_timestamp": "2025-10-24T18:42:14.071",
+    "not_before": "2025-10-24T00:00:00",
+    "not_after": "2026-10-23T23:59:59",
+    "serial_number": "092356fb1e420b92953a29610ba3b8e9",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "openshift.impl.ffm.internal.cms.gov",
+    "name_value": "openshift.impl.ffm.internal.cms.gov",
+    "id": 21975662729,
+    "entry_timestamp": "2025-10-24T18:41:52.504",
+    "not_before": "2025-10-24T00:00:00",
+    "not_after": "2026-10-23T23:59:59",
+    "serial_number": "06e79c611ce071acbc2ed1b37ccd128e",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "soar.splunk.cloud.internal.cms.gov",
@@ -3585,6 +4041,42 @@
     "not_before": "2025-10-24T00:00:00",
     "not_after": "2026-11-22T23:59:59",
     "serial_number": "075d65b480132767b484cf8002ed0e9f",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "vdi.cms.gov",
+    "name_value": "vdi.cms.gov",
+    "id": 21974562868,
+    "entry_timestamp": "2025-10-24T17:03:24.972",
+    "not_before": "2025-10-24T00:00:00",
+    "not_after": "2026-11-06T23:59:59",
+    "serial_number": "0e234d8801fa931a5c9ce2ed2f2697ff",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "vdildap.cms.gov",
+    "name_value": "vdildap.cms.gov",
+    "id": 21974545054,
+    "entry_timestamp": "2025-10-24T17:03:02.91",
+    "not_before": "2025-10-24T00:00:00",
+    "not_after": "2026-11-06T23:59:59",
+    "serial_number": "09ceaa1f47c9ae3aa6fa37e2d50d5d13",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "xenapp.cms.gov",
+    "name_value": "xenapp.cms.gov",
+    "id": 21974544411,
+    "entry_timestamp": "2025-10-24T17:02:35.959",
+    "not_before": "2025-10-24T00:00:00",
+    "not_after": "2026-11-06T23:59:59",
+    "serial_number": "052d559f910f100d37e3618d2d52787d",
     "result_count": 2
   },
   {
@@ -3621,6 +4113,30 @@
     "not_before": "2025-10-24T00:00:00",
     "not_after": "2026-11-22T23:59:59",
     "serial_number": "0308ec9533681aab333fab4c8a08962e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "www.cert.cms.gov",
+    "name_value": "www.cert.cms.gov",
+    "id": 21971425480,
+    "entry_timestamp": "2025-10-24T14:15:16.545",
+    "not_before": "2025-10-24T00:00:00",
+    "not_after": "2026-10-28T23:59:59",
+    "serial_number": "03b88b5f9a73cc1c0f52b1f641c0d331",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "stg.cert.cms.gov",
+    "name_value": "stg.cert.cms.gov",
+    "id": 21971407780,
+    "entry_timestamp": "2025-10-24T14:14:16.2",
+    "not_before": "2025-10-24T00:00:00",
+    "not_after": "2026-10-28T23:59:59",
+    "serial_number": "08751d0c0e8a545ec167807a8a347d9c",
     "result_count": 2
   },
   {
@@ -3705,6 +4221,18 @@
     "not_before": "2025-10-22T00:00:00",
     "not_after": "2026-10-21T23:59:59",
     "serial_number": "042977612ef9fe76860c82027aae2af9",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "gcdev2.ngd.cms.gov",
+    "name_value": "gcdev2.ngd.cms.gov",
+    "id": 21914934342,
+    "entry_timestamp": "2025-10-22T13:00:55.451",
+    "not_before": "2025-10-22T00:00:00",
+    "not_after": "2026-10-21T23:59:59",
+    "serial_number": "05c453949ba8f702aa2360271f5004c7",
     "result_count": 2
   },
   {
@@ -3885,6 +4413,42 @@
     "not_before": "2025-10-21T00:00:00",
     "not_after": "2026-11-19T23:59:59",
     "serial_number": "0636dffc4268abc902c2f3c3cfe398d1",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "vdi.cms.gov",
+    "name_value": "vdi.cms.gov",
+    "id": 21888471578,
+    "entry_timestamp": "2025-10-21T15:44:00.127",
+    "not_before": "2025-10-21T00:00:00",
+    "not_after": "2026-11-06T23:59:59",
+    "serial_number": "083f8147354602025e64eef96b395497",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "vdildap.cms.gov",
+    "name_value": "vdildap.cms.gov",
+    "id": 21888470379,
+    "entry_timestamp": "2025-10-21T15:43:41.227",
+    "not_before": "2025-10-21T00:00:00",
+    "not_after": "2026-11-06T23:59:59",
+    "serial_number": "0be96d6ae2a49319fa3a7dc5138fa9dd",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "xenapp.cms.gov",
+    "name_value": "xenapp.cms.gov",
+    "id": 21888470756,
+    "entry_timestamp": "2025-10-21T15:43:23.351",
+    "not_before": "2025-10-21T00:00:00",
+    "not_after": "2026-11-06T23:59:59",
+    "serial_number": "02a8e19ba4365164ec393f2368464ad1",
     "result_count": 2
   },
   {
@@ -4800,6 +5364,18 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "sbx-qualitynet.cms.gov",
+    "name_value": "sbx-qualitynet.cms.gov",
+    "id": 21714495738,
+    "entry_timestamp": "2025-10-14T12:53:21.063",
+    "not_before": "2025-10-14T00:00:00",
+    "not_after": "2026-10-13T23:59:59",
+    "serial_number": "07dcfde52df8075a4c61e0a55f7a4f87",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 295817,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "healthffrdc.cms.gov",
@@ -5016,6 +5592,270 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "preprod.ccsqdatacatalog.cms.gov",
+    "name_value": "preprod.ccsqdatacatalog.cms.gov",
+    "id": 21599749468,
+    "entry_timestamp": "2025-10-09T13:13:36.707",
+    "not_before": "2025-10-09T00:00:00",
+    "not_after": "2026-10-08T23:59:59",
+    "serial_number": "08c03fba8efc07454ec36f88baf5bac4",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "ccsqdatacatalog.cms.gov",
+    "name_value": "ccsqdatacatalog.cms.gov",
+    "id": 21599732678,
+    "entry_timestamp": "2025-10-09T13:12:41.022",
+    "not_before": "2025-10-09T00:00:00",
+    "not_after": "2026-10-08T23:59:59",
+    "serial_number": "02aa5b5c8c65998c804678289fbe9bda",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "nonfedgovplan.vams-impl.cms.gov",
+    "name_value": "nonfedgovplan.vams-impl.cms.gov",
+    "id": 21577854664,
+    "entry_timestamp": "2025-10-08T17:09:43.909",
+    "not_before": "2025-10-08T00:00:00",
+    "not_after": "2026-10-07T23:59:59",
+    "serial_number": "0734410f7db8072a98bab046eff90e28",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "mlrmedicare.vams-impl.cms.gov",
+    "name_value": "mlrmedicare.vams-impl.cms.gov",
+    "id": 21577853939,
+    "entry_timestamp": "2025-10-08T17:09:32.26",
+    "not_before": "2025-10-08T00:00:00",
+    "not_after": "2026-10-07T23:59:59",
+    "serial_number": "0331f3b7ffc3fb3b1d645824184979ae",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "mlrcommercial.vams-impl.cms.gov",
+    "name_value": "mlrcommercial.vams-impl.cms.gov",
+    "id": 21577842304,
+    "entry_timestamp": "2025-10-08T17:09:12.686",
+    "not_before": "2025-10-08T00:00:00",
+    "not_after": "2026-10-07T23:59:59",
+    "serial_number": "01b7ad499d515aa5526a750e9ad3bb88",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "mhpaea.vams-impl.cms.gov",
+    "name_value": "mhpaea.vams-impl.cms.gov",
+    "id": 21577841597,
+    "entry_timestamp": "2025-10-08T17:08:48.011",
+    "not_before": "2025-10-08T00:00:00",
+    "not_after": "2026-10-07T23:59:59",
+    "serial_number": "0dc0092257755ca6b249ce21d4af73b7",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "mec.vams-impl.cms.gov",
+    "name_value": "mec.vams-impl.cms.gov",
+    "id": 21577840731,
+    "entry_timestamp": "2025-10-08T17:08:35.021",
+    "not_before": "2025-10-08T00:00:00",
+    "not_after": "2026-10-07T23:59:59",
+    "serial_number": "0ab9e50304c3f2c55ee1684e280da46a",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "marketconduct.vams-impl.cms.gov",
+    "name_value": "marketconduct.vams-impl.cms.gov",
+    "id": 21577828252,
+    "entry_timestamp": "2025-10-08T17:08:19.515",
+    "not_before": "2025-10-08T00:00:00",
+    "not_after": "2026-10-07T23:59:59",
+    "serial_number": "0716d00f03ed5b7d3b03f2c4a194edc1",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "iob.vams-impl.cms.gov",
+    "name_value": "iob.vams-impl.cms.gov",
+    "id": 21577826314,
+    "entry_timestamp": "2025-10-08T17:07:54.649",
+    "not_before": "2025-10-08T00:00:00",
+    "not_after": "2026-10-07T23:59:59",
+    "serial_number": "04c1649688f59b19d5f05ed095ffe5cc",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "formsregulation.vams-impl.cms.gov",
+    "name_value": "formsregulation.vams-impl.cms.gov",
+    "id": 21577809478,
+    "entry_timestamp": "2025-10-08T17:07:17.934",
+    "not_before": "2025-10-08T00:00:00",
+    "not_after": "2026-10-07T23:59:59",
+    "serial_number": "086458ba50df6eea365747e2021e89c6",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "pm-testpe1m.insuranceoversight.cms.gov",
+    "name_value": "pm-testpe1m.insuranceoversight.cms.gov",
+    "id": 21574963161,
+    "entry_timestamp": "2025-10-08T14:41:26.681",
+    "not_before": "2025-10-08T00:00:00",
+    "not_after": "2026-10-07T23:59:59",
+    "serial_number": "08fdf1e00a1dd72d8ae3ea95a897cae8",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "gcfct.ngd.cms.gov",
+    "name_value": "gcfct.ngd.cms.gov",
+    "id": 21555288378,
+    "entry_timestamp": "2025-10-07T20:28:22.754",
+    "not_before": "2025-10-07T00:00:00",
+    "not_after": "2026-10-06T23:59:59",
+    "serial_number": "0ce729f4f69da44c0822654ffbd096d6",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "gcuat.ngd.cms.gov",
+    "name_value": "gcuat.ngd.cms.gov",
+    "id": 21555286881,
+    "entry_timestamp": "2025-10-07T20:28:06.104",
+    "not_before": "2025-10-07T00:00:00",
+    "not_after": "2026-10-06T23:59:59",
+    "serial_number": "047ff2a9d42db32167efaf57be4f2cad",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "gctst.ngd.cms.gov",
+    "name_value": "gctst.ngd.cms.gov",
+    "id": 21555285830,
+    "entry_timestamp": "2025-10-07T20:27:46.75",
+    "not_before": "2025-10-07T00:00:00",
+    "not_after": "2026-10-06T23:59:59",
+    "serial_number": "050afbde647a83f1c25bb97b330b3b05",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "gcfxt.ngd.cms.gov",
+    "name_value": "gcfxt.ngd.cms.gov",
+    "id": 21555284827,
+    "entry_timestamp": "2025-10-07T20:27:31.503",
+    "not_before": "2025-10-07T00:00:00",
+    "not_after": "2026-10-06T23:59:59",
+    "serial_number": "0f1b334694daa31c1e06f0948ea037dd",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "gcprd.ngd.cms.gov",
+    "name_value": "gcprd.ngd.cms.gov",
+    "id": 21555270285,
+    "entry_timestamp": "2025-10-07T20:27:11.569",
+    "not_before": "2025-10-07T00:00:00",
+    "not_after": "2026-10-06T23:59:59",
+    "serial_number": "055148621e9b497845d6f1ca29ad3daf",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "test.qnod.cms.gov",
+    "name_value": "test.qnod.cms.gov",
+    "id": 21553854166,
+    "entry_timestamp": "2025-10-07T19:01:42.123",
+    "not_before": "2025-10-07T00:00:00",
+    "not_after": "2026-10-06T23:59:59",
+    "serial_number": "0c244301dcec0a5817379ff3f3007812",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "impl-hcms-apigateway.cms.gov",
+    "name_value": "impl-hcms-apigateway.cms.gov",
+    "id": 21553837090,
+    "entry_timestamp": "2025-10-07T19:01:00.323",
+    "not_before": "2025-10-07T00:00:00",
+    "not_after": "2026-10-06T23:59:59",
+    "serial_number": "088285a5b4581c0117a7f8cb43884fd1",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "test-hcms-apigateway.cms.gov",
+    "name_value": "test-hcms-apigateway.cms.gov",
+    "id": 21553816055,
+    "entry_timestamp": "2025-10-07T18:59:52.208",
+    "not_before": "2025-10-07T00:00:00",
+    "not_after": "2026-10-06T23:59:59",
+    "serial_number": "08745bd48ac16efbff89e2ad342ef563",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "impl-qualitynet.cms.gov",
+    "name_value": "impl-qualitynet.cms.gov",
+    "id": 21553800014,
+    "entry_timestamp": "2025-10-07T18:59:05.748",
+    "not_before": "2025-10-07T00:00:00",
+    "not_after": "2026-10-06T23:59:59",
+    "serial_number": "013427c8d36370611b198c9435ab4ab7",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "test-qualitynet.cms.gov",
+    "name_value": "test-qualitynet.cms.gov",
+    "id": 21553758492,
+    "entry_timestamp": "2025-10-07T18:56:56.926",
+    "not_before": "2025-10-07T00:00:00",
+    "not_after": "2026-10-06T23:59:59",
+    "serial_number": "0fcb3f600cb9eb1b1812483b71f35c27",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "sbx-hcms-apigateway.cms.gov",
+    "name_value": "sbx-hcms-apigateway.cms.gov",
+    "id": 21553755928,
+    "entry_timestamp": "2025-10-07T18:56:07.577",
+    "not_before": "2025-10-07T00:00:00",
+    "not_after": "2026-10-06T23:59:59",
+    "serial_number": "063bc548a90b1b57aff66606ba7959d2",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "spellchecker.test.echimp.internal.cms.gov",
@@ -5124,30 +5964,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "soap.hetsv-haa.cms.gov",
-    "name_value": "soap.hetsv-haa.cms.gov",
-    "id": 21423891969,
-    "entry_timestamp": "2025-10-02T17:31:38.388",
-    "not_before": "2025-10-02T00:00:00",
-    "not_after": "2026-04-14T23:59:59",
-    "serial_number": "022fd3cce4766cf5988fc5254550c1ef",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "soap.hetsp-haa.cms.gov",
-    "name_value": "soap.hetsp-haa.cms.gov",
-    "id": 21423875554,
-    "entry_timestamp": "2025-10-02T17:31:10.725",
-    "not_before": "2025-10-02T00:00:00",
-    "not_after": "2026-04-14T23:59:59",
-    "serial_number": "030707b3d57f43e658372b7620646297",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 185606,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS Hybrid ECC SHA384 2020 CA1",
     "common_name": "mime.hetsv-haa.cms.gov",
@@ -5160,18 +5976,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "mime.hetsv-haa.cms.gov",
-    "name_value": "mime.hetsv-haa.cms.gov",
-    "id": 21423875162,
-    "entry_timestamp": "2025-10-02T17:30:42.229",
-    "not_before": "2025-10-02T00:00:00",
-    "not_after": "2026-04-14T23:59:59",
-    "serial_number": "04b387c5706ecc424b5a43e97e077105",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 185606,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS Hybrid ECC SHA384 2020 CA1",
     "common_name": "mime.hetsp-haa.cms.gov",
@@ -5181,42 +5985,6 @@
     "not_before": "2025-10-02T00:00:00",
     "not_after": "2026-04-14T23:59:59",
     "serial_number": "0cde58b5f68dd42e4d10a2608ac720f5",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "mime.hetsp-haa.cms.gov",
-    "name_value": "mime.hetsp-haa.cms.gov",
-    "id": 21423862175,
-    "entry_timestamp": "2025-10-02T17:30:04.977",
-    "not_before": "2025-10-02T00:00:00",
-    "not_after": "2026-04-14T23:59:59",
-    "serial_number": "083386a88605944407a2b895677e38ff",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "hdt.hetsv-haa.cms.gov",
-    "name_value": "hdt.hetsv-haa.cms.gov",
-    "id": 21423861769,
-    "entry_timestamp": "2025-10-02T17:29:33.678",
-    "not_before": "2025-10-02T00:00:00",
-    "not_after": "2026-04-14T23:59:59",
-    "serial_number": "07be82216e2095571063b8985b334f10",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "hdt.hetsp-haa.cms.gov",
-    "name_value": "hdt.hetsp-haa.cms.gov",
-    "id": 21423847966,
-    "entry_timestamp": "2025-10-02T17:29:09.056",
-    "not_before": "2025-10-02T00:00:00",
-    "not_after": "2026-04-14T23:59:59",
-    "serial_number": "0858c69a3dc72bf3967142aad1e3f71b",
     "result_count": 2
   },
   {
@@ -5796,6 +6564,18 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "tabdev.cms.gov",
+    "name_value": "tabdev.cms.gov",
+    "id": 21352591336,
+    "entry_timestamp": "2025-09-29T18:28:39.962",
+    "not_before": "2025-09-29T00:00:00",
+    "not_after": "2026-10-29T23:59:59",
+    "serial_number": "07685cec21d6b6b452dc4e9ec0822454",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "soap.hetsp-haa.cms.gov",
@@ -5901,18 +6681,6 @@
     "not_before": "2025-09-27T00:00:00",
     "not_after": "2026-10-25T23:59:59",
     "serial_number": "0a97ac79bdb74dda131433e0edef7e6d",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "cms.gov",
-    "name_value": "cms.gov",
-    "id": 21365780062,
-    "entry_timestamp": "2025-09-27T00:04:51.595",
-    "not_before": "2025-09-27T00:00:00",
-    "not_after": "2025-12-26T23:59:59",
-    "serial_number": "00fa1d3cce0b486b35702ceacd91ea8ce2",
     "result_count": 2
   },
   {
@@ -6276,6 +7044,78 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "mime.hetsp-haa.cms.gov",
+    "name_value": "mime.hetsp-haa.cms.gov",
+    "id": 21228623450,
+    "entry_timestamp": "2025-09-23T19:13:57.552",
+    "not_before": "2025-09-23T00:00:00",
+    "not_after": "2026-09-22T23:59:59",
+    "serial_number": "0c89423608b299590881385c98fe9e78",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "soap.hetsv-haa.cms.gov",
+    "name_value": "soap.hetsv-haa.cms.gov",
+    "id": 21228623855,
+    "entry_timestamp": "2025-09-23T19:13:57.345",
+    "not_before": "2025-09-23T00:00:00",
+    "not_after": "2026-09-22T23:59:59",
+    "serial_number": "0c8afeaa559288af74bf65c3f369ca1f",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "soap.hetsp-haa.cms.gov",
+    "name_value": "soap.hetsp-haa.cms.gov",
+    "id": 21228623943,
+    "entry_timestamp": "2025-09-23T19:13:55.861",
+    "not_before": "2025-09-23T00:00:00",
+    "not_after": "2026-09-22T23:59:59",
+    "serial_number": "063eec5c78a8059e01daf01bfe4f248d",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "mime.hetsv-haa.cms.gov",
+    "name_value": "mime.hetsv-haa.cms.gov",
+    "id": 21228623369,
+    "entry_timestamp": "2025-09-23T19:13:55.839",
+    "not_before": "2025-09-23T00:00:00",
+    "not_after": "2026-09-22T23:59:59",
+    "serial_number": "0c0622f4a9ebde427227f5370b8a97ed",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "hdt.hetsv-haa.cms.gov",
+    "name_value": "hdt.hetsv-haa.cms.gov",
+    "id": 21228550880,
+    "entry_timestamp": "2025-09-23T19:09:53.432",
+    "not_before": "2025-09-23T00:00:00",
+    "not_after": "2026-09-22T23:59:59",
+    "serial_number": "0fd1e97952f82ac7fc525821e8f30969",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "hdt.hetsp-haa.cms.gov",
+    "name_value": "hdt.hetsp-haa.cms.gov",
+    "id": 21228514389,
+    "entry_timestamp": "2025-09-23T19:07:37.761",
+    "not_before": "2025-09-23T00:00:00",
+    "not_after": "2026-09-22T23:59:59",
+    "serial_number": "0ca721b80915f83244f3284c0a9a40c1",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "hec-nonprod.backends.splunk.cms.gov",
@@ -6286,6 +7126,18 @@
     "not_after": "2026-10-22T23:59:59",
     "serial_number": "045535b7948212e693a6a33f1c278912",
     "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "sonarqube-dev.cloud.cms.gov",
+    "name_value": "sonarqube-dev.cloud.cms.gov\nsonarqube-dev-ext.cloud.cms.gov\nsonarqube-ext.cloud.cms.gov",
+    "id": 21226690437,
+    "entry_timestamp": "2025-09-23T17:25:53.369",
+    "not_before": "2025-09-23T00:00:00",
+    "not_after": "2026-09-22T23:59:59",
+    "serial_number": "0f323308f460c87c3b72958d7231d03b",
+    "result_count": 4
   },
   {
     "issuer_ca_id": 153248,
@@ -6372,6 +7224,18 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "artifactory.cloud.cms.gov",
+    "name_value": "artifactory.cloud.cms.gov\nartifactory-dev.cloud.cms.gov\nartifactory-dev-west.cloud.cms.gov",
+    "id": 21224462889,
+    "entry_timestamp": "2025-09-23T15:25:23.903",
+    "not_before": "2025-09-23T00:00:00",
+    "not_after": "2026-09-22T23:59:59",
+    "serial_number": "079026cbdec3de15c38357a8b26052a9",
+    "result_count": 4
+  },
+  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "sbx.qnod.cms.gov",
@@ -6396,6 +7260,30 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "mcref.cms.gov",
+    "name_value": "mcref.cms.gov",
+    "id": 21206826192,
+    "entry_timestamp": "2025-09-22T20:06:37.24",
+    "not_before": "2025-09-22T00:00:00",
+    "not_after": "2026-10-14T23:59:59",
+    "serial_number": "06941f1a273fc9f0afbe1c620d26b2f4",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "sandbox.bluebutton.cms.gov",
+    "name_value": "sandbox.bluebutton.cms.gov",
+    "id": 21206812597,
+    "entry_timestamp": "2025-09-22T20:06:24.368",
+    "not_before": "2025-09-22T00:00:00",
+    "not_after": "2026-10-23T23:59:59",
+    "serial_number": "017ad8a73ebfe390c06cb9f79cbd357c",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 62123,
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
     "common_name": "www2.healthcare.gov",
@@ -6406,6 +7294,66 @@
     "not_after": "2026-07-28T23:59:59",
     "serial_number": "04422a2756298b3bfd9327a44a9d2c4f",
     "result_count": 4
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "api.bluebutton.cms.gov",
+    "name_value": "api.bluebutton.cms.gov",
+    "id": 21206812336,
+    "entry_timestamp": "2025-09-22T20:06:08.174",
+    "not_before": "2025-09-22T00:00:00",
+    "not_after": "2026-10-23T23:59:59",
+    "serial_number": "0892b92f41a6d40113cfaec49b11d89a",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "ceeams.cms.gov",
+    "name_value": "ceeams.cms.gov",
+    "id": 21206810808,
+    "entry_timestamp": "2025-09-22T20:05:48.784",
+    "not_before": "2025-09-22T00:00:00",
+    "not_after": "2026-10-09T23:59:59",
+    "serial_number": "0fb637026b4bf20e7f6a9fd5a9a9e1cc",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "sonarqube.cloud.cms.gov",
+    "name_value": "sonarqube.cloud.cms.gov\nwww.sonarqube.cloud.cms.gov",
+    "id": 21206798033,
+    "entry_timestamp": "2025-09-22T20:04:56.557",
+    "not_before": "2025-09-22T00:00:00",
+    "not_after": "2026-09-21T23:59:59",
+    "serial_number": "02092cb49e9ce4b9e21000d575c87136",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "jenkins-east.cloud.cms.gov",
+    "name_value": "*.jenkins-dev-east.cloud.cms.gov\njenkins-dev-east.cloud.cms.gov\n*.jenkins-dev-static.cloud.cms.gov\njenkins-dev-static.cloud.cms.gov\n*.jenkins-east.cloud.cms.gov\njenkins-east.cloud.cms.gov\n*.jenkins-static.cloud.cms.gov\njenkins-static.cloud.cms.gov",
+    "id": 21206783507,
+    "entry_timestamp": "2025-09-22T20:04:06.105",
+    "not_before": "2025-09-22T00:00:00",
+    "not_after": "2026-09-21T23:59:59",
+    "serial_number": "027572f229eaea19320dd49b4ac6511f",
+    "result_count": 9
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "jenkins-gc-west.cloud.cms.gov",
+    "name_value": "*.jenkins-gc-dev-west.cloud.cms.gov\njenkins-gc-dev-west.cloud.cms.gov\n*.jenkins-gc-west.cloud.cms.gov\njenkins-gc-west.cloud.cms.gov",
+    "id": 21206783035,
+    "entry_timestamp": "2025-09-22T20:03:38.909",
+    "not_before": "2025-09-22T00:00:00",
+    "not_after": "2026-09-21T23:59:59",
+    "serial_number": "0681199039365455b1a16a42fa5e4c3d",
+    "result_count": 5
   },
   {
     "issuer_ca_id": 247115,
@@ -7224,6 +8172,30 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "test.bluebutton.cms.gov",
+    "name_value": "test.bluebutton.cms.gov",
+    "id": 20927678866,
+    "entry_timestamp": "2025-09-10T18:50:28.379",
+    "not_before": "2025-09-10T00:00:00",
+    "not_after": "2026-10-11T23:59:59",
+    "serial_number": "02adcb7992cbda6e3c05101b9451c5b0",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "mcrefval.cms.gov",
+    "name_value": "mcrefval.cms.gov",
+    "id": 20927639306,
+    "entry_timestamp": "2025-09-10T18:48:07.646",
+    "not_before": "2025-09-10T00:00:00",
+    "not_after": "2026-10-06T23:59:59",
+    "serial_number": "0c0ce483931c96e82aff85df2745bf8b",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "eapi-next-ci.ap-test.eacms.aws.cms.gov",
@@ -7332,6 +8304,18 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "adobe-ep.cms.gov",
+    "name_value": "adobe-ep.cms.gov",
+    "id": 20907841465,
+    "entry_timestamp": "2025-09-09T22:27:10.196",
+    "not_before": "2024-12-28T00:00:00",
+    "not_after": "2026-01-28T23:59:59",
+    "serial_number": "06307efeafa32654a919879cc3d38537",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "test2.home.idm.cms.gov",
@@ -7380,6 +8364,18 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "dev.ztmf.cms.gov",
+    "name_value": "dev.ztmf.cms.gov\nztmf.cms.gov",
+    "id": 20897836149,
+    "entry_timestamp": "2025-09-09T13:20:37.553",
+    "not_before": "2024-12-19T00:00:00",
+    "not_after": "2026-01-19T23:59:59",
+    "serial_number": "04eabe4197a5dad46b1d89c7e8443996",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "impl-internal.artifactory.backends.cms.gov",
@@ -7389,6 +8385,18 @@
     "not_before": "2025-09-09T00:00:00",
     "not_after": "2026-10-08T23:59:59",
     "serial_number": "02cd1c0db426e8eb2705aaae80f5bcba",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "remotehelp.cms.gov",
+    "name_value": "remotehelp.cms.gov",
+    "id": 20890684563,
+    "entry_timestamp": "2025-09-09T05:56:42.129",
+    "not_before": "2024-12-12T00:00:00",
+    "not_after": "2026-01-12T23:59:59",
+    "serial_number": "0a0d1aac855ce9833507cd07d5342285",
     "result_count": 2
   },
   {
@@ -7414,6 +8422,18 @@
     "not_after": "2026-10-08T23:59:59",
     "serial_number": "085f4ef878f2e71313b06c30010d2d47",
     "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "hics.cms.gov",
+    "name_value": "hics.cms.gov\nwww.hics.cms.gov",
+    "id": 20886793675,
+    "entry_timestamp": "2025-09-09T01:33:58.547",
+    "not_before": "2024-12-10T00:00:00",
+    "not_after": "2025-12-16T23:59:59",
+    "serial_number": "028b155546ff414ca6597f9f3091c312",
+    "result_count": 3
   },
   {
     "issuer_ca_id": 153248,
@@ -7752,6 +8772,18 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "impl.hub.cms.gov",
+    "name_value": "impl.hub.cms.gov",
+    "id": 20810315647,
+    "entry_timestamp": "2025-09-05T17:42:51.21",
+    "not_before": "2025-09-05T00:00:00",
+    "not_after": "2026-10-06T23:59:59",
+    "serial_number": "0b571659bf33c09a6b58045b3faf95e9",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247106,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
     "common_name": "dev.simpleblueprintapp.infraops.backends.cms.gov",
@@ -7774,6 +8806,18 @@
     "not_after": "2026-10-05T13:34:10",
     "serial_number": "4001991a168f9093be96e757aff83695",
     "result_count": 9
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "impl.hub.cms.gov",
+    "name_value": "impl2b.hub.cms.gov\nimpl.hub.cms.gov\nimpls.hub.cms.gov",
+    "id": 20806440189,
+    "entry_timestamp": "2025-09-05T13:25:35.99",
+    "not_before": "2025-09-05T00:00:00",
+    "not_after": "2026-09-04T23:59:59",
+    "serial_number": "0b8f301447b081184e85538c2408372d",
+    "result_count": 4
   },
   {
     "issuer_ca_id": 247119,
@@ -7833,6 +8877,18 @@
     "not_before": "2025-09-04T13:56:13",
     "not_after": "2026-10-04T13:55:13",
     "serial_number": "40019915037b4853d22cb73b2796457d",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "qhpsurvey.cms.gov",
+    "name_value": "qhpsurvey.cms.gov",
+    "id": 20785736964,
+    "entry_timestamp": "2025-09-04T13:23:52.084",
+    "not_before": "2025-09-04T00:00:00",
+    "not_after": "2026-10-05T23:59:59",
+    "serial_number": "0572d3dac1bad035ea477d9dead72c88",
     "result_count": 2
   },
   {
@@ -8398,6 +9454,18 @@
     "not_after": "2026-09-25T23:59:59",
     "serial_number": "075bdd3ab6b2cbaef2101b6d63cf853c",
     "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "mcrefdev.cms.gov",
+    "name_value": "mcrefdev.cms.gov",
+    "id": 20566616479,
+    "entry_timestamp": "2025-08-25T13:57:26.422",
+    "not_before": "2025-08-25T00:00:00",
+    "not_after": "2026-09-23T23:59:59",
+    "serial_number": "07464e51255e8433647653f5e75f3edd",
+    "result_count": 2
   },
   {
     "issuer_ca_id": 247115,
@@ -9309,6 +10377,18 @@
     "not_before": "2025-08-13T14:15:34",
     "not_after": "2026-09-12T14:14:34",
     "serial_number": "400198a3c947dadb40dcc5077fdd31ac",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "euacloud.cms.gov",
+    "name_value": "euacloud.cms.gov",
+    "id": 20307800543,
+    "entry_timestamp": "2025-08-13T12:39:31.023",
+    "not_before": "2025-08-13T00:00:00",
+    "not_after": "2026-09-13T23:59:59",
+    "serial_number": "0d1f3ecd20e8ada35ac6e2dd301b0c23",
     "result_count": 2
   },
   {
@@ -10272,6 +11352,18 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "user.wddse.cms.gov",
+    "name_value": "dev.user.wddse.cms.gov\nimp.user.wddse.cms.gov\nstage.user.wddse.cms.gov\nuser.wddse.cms.gov",
+    "id": 20032371706,
+    "entry_timestamp": "2025-07-31T15:07:16.718",
+    "not_before": "2025-07-31T00:00:00",
+    "not_after": "2026-08-12T23:59:59",
+    "serial_number": "02f2c20d137a791ba5e58fc8d901c088",
+    "result_count": 5
+  },
+  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "dev.ci.backends.cms.gov",
@@ -10584,6 +11676,18 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "dev.hub.cms.gov",
+    "name_value": "dev.hub.cms.gov\ntest.hub.cms.gov",
+    "id": 19909067731,
+    "entry_timestamp": "2025-07-26T00:10:53.467",
+    "not_before": "2025-07-26T00:00:00",
+    "not_after": "2026-07-28T23:59:59",
+    "serial_number": "09d4e7f07f643e72e53b5ca44cf81497",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "datadog.ami.ocpoc.backends.cms.gov",
@@ -10594,6 +11698,18 @@
     "not_after": "2026-08-23T23:59:59",
     "serial_number": "0587ceaf46fbf96d19e4344bf024b1b5",
     "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "impl.hub.cms.gov",
+    "name_value": "impl.hub.cms.gov\nimpls.hub.cms.gov",
+    "id": 19886544047,
+    "entry_timestamp": "2025-07-25T00:04:17.771",
+    "not_before": "2025-07-25T00:00:00",
+    "not_after": "2026-07-24T23:59:59",
+    "serial_number": "08e60e12bdd312e7db43c2ca6de1cba7",
+    "result_count": 3
   },
   {
     "issuer_ca_id": 153248,
@@ -11376,6 +12492,18 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "pm-impl3m.insuranceoversight.cms.gov",
+    "name_value": "pm-impl3m.insuranceoversight.cms.gov",
+    "id": 19660696659,
+    "entry_timestamp": "2025-07-14T16:21:33.726",
+    "not_before": "2025-07-14T00:00:00",
+    "not_after": "2026-08-14T23:59:59",
+    "serial_number": "0c5ebab8af88554e4a3e51854c0fa046",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 62123,
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
     "common_name": "*.apps.impl.ffm.internal.cms.gov",
@@ -11400,6 +12528,30 @@
     "result_count": 3
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "pm-uatm.insuranceoversight.cms.gov",
+    "name_value": "pm-uatm.insuranceoversight.cms.gov",
+    "id": 19660656149,
+    "entry_timestamp": "2025-07-14T16:18:45.281",
+    "not_before": "2025-07-14T00:00:00",
+    "not_after": "2026-08-14T23:59:59",
+    "serial_number": "0dc2d0d2133c41921a2a35465b6fd07c",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "pm-impl1bm.insuranceoversight.cms.gov",
+    "name_value": "pm-impl1bm.insuranceoversight.cms.gov",
+    "id": 19660655725,
+    "entry_timestamp": "2025-07-14T16:18:09.698",
+    "not_before": "2025-07-14T00:00:00",
+    "not_after": "2026-08-14T23:59:59",
+    "serial_number": "0e731c4ed00e1fd0ee0cb706066f0afa",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "uat.qsep.cms.gov",
@@ -11421,6 +12573,42 @@
     "not_before": "2025-07-14T00:00:00",
     "not_after": "2026-08-12T23:59:59",
     "serial_number": "09dfce2de714eddfd9173cff3ddda698",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "guestwifieast.cms.gov",
+    "name_value": "guestwifieast.cms.gov",
+    "id": 19656491504,
+    "entry_timestamp": "2025-07-14T11:35:43.148",
+    "not_before": "2025-07-14T00:00:00",
+    "not_after": "2026-08-14T23:59:59",
+    "serial_number": "05f6be27700cc301c947a38865e72626",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "hdxext.cms.gov",
+    "name_value": "hdxext.cms.gov",
+    "id": 19656454358,
+    "entry_timestamp": "2025-07-14T11:33:50.652",
+    "not_before": "2025-07-14T00:00:00",
+    "not_after": "2026-07-23T23:59:59",
+    "serial_number": "0b60d30065027d3a0beb62cd21f33fce",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "guestwifiwest.cms.gov",
+    "name_value": "guestwifiwest.cms.gov",
+    "id": 19656436055,
+    "entry_timestamp": "2025-07-14T11:32:22.75",
+    "not_before": "2025-07-14T00:00:00",
+    "not_after": "2026-08-14T23:59:59",
+    "serial_number": "04eeac340f14caa7f036b084fcb655df",
     "result_count": 2
   },
   {
@@ -11544,6 +12732,18 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "eepexipedge.video.cms.gov",
+    "name_value": "eepexipedge.video.cms.gov",
+    "id": 19574065623,
+    "entry_timestamp": "2025-07-10T15:13:49.679",
+    "not_before": "2025-07-10T00:00:00",
+    "not_after": "2026-07-10T23:59:59",
+    "serial_number": "09f478c7432c79abd2b7d5e578b7064e",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247115,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
     "common_name": "dev.rip.qpp.backends.cms.gov",
@@ -11628,6 +12828,42 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "app.innovation.cms.gov",
+    "name_value": "app.innovation.cms.gov",
+    "id": 19534502355,
+    "entry_timestamp": "2025-07-08T18:33:52.287",
+    "not_before": "2025-07-08T00:00:00",
+    "not_after": "2026-08-03T23:59:59",
+    "serial_number": "09a7b1db13124b76bc494d55df5f0090",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "app1.innovation.cms.gov",
+    "name_value": "app1.innovation.cms.gov",
+    "id": 19534484715,
+    "entry_timestamp": "2025-07-08T18:32:54.912",
+    "not_before": "2025-07-08T00:00:00",
+    "not_after": "2026-08-03T23:59:59",
+    "serial_number": "0800ee0a8a144525c3b9bbedabbc17e5",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "app2.innovation.cms.gov",
+    "name_value": "app2.innovation.cms.gov",
+    "id": 19534484953,
+    "entry_timestamp": "2025-07-08T18:32:12.121",
+    "not_before": "2025-07-08T00:00:00",
+    "not_after": "2026-08-03T23:59:59",
+    "serial_number": "06ed92eaa67da8711201594401cfe348",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "zone-impl.cms.gov",
@@ -11661,6 +12897,18 @@
     "not_before": "2025-07-07T00:00:00",
     "not_after": "2026-08-05T23:59:59",
     "serial_number": "0995590a1d5b1e79258b915d01200193",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "fm-test1.insuranceoversight.cms.gov",
+    "name_value": "fm-test1.insuranceoversight.cms.gov",
+    "id": 19511437764,
+    "entry_timestamp": "2025-07-07T16:19:12.258",
+    "not_before": "2025-07-07T00:00:00",
+    "not_after": "2026-08-04T23:59:59",
+    "serial_number": "05a17893e448a5a5d8fcafbe277446a1",
     "result_count": 2
   },
   {
@@ -11832,6 +13080,18 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "www.nsa-idr.cms.gov",
+    "name_value": "nsa-idr.cms.gov\nwww.nsa-idr.cms.gov",
+    "id": 19415423353,
+    "entry_timestamp": "2025-07-03T09:35:55.045",
+    "not_before": "2025-07-03T00:00:00",
+    "not_after": "2026-07-22T23:59:59",
+    "serial_number": "02b07a81da0deeff6bc8a7456e391dd6",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "qcor.cms.gov",
@@ -11890,18 +13150,6 @@
     "not_after": "2026-07-30T23:59:59",
     "serial_number": "088d74b6751b2aed8b4695875136d39d",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "hpms.cms.gov",
-    "name_value": "api.hpms.cms.gov\nawshpms.cms.gov\nawshpmsdashboard.cms.gov\nawshpmsencoder.cms.gov\nhpms.cms.gov\nhpmsdashboard.cms.gov\nhpmsencoder.cms.gov",
-    "id": 19384681311,
-    "entry_timestamp": "2025-07-02T00:58:18.912",
-    "not_before": "2025-02-11T00:00:00",
-    "not_after": "2026-02-11T23:59:59",
-    "serial_number": "0ef1a5d26e62960ed29a7d4710e2b499",
-    "result_count": 8
   },
   {
     "issuer_ca_id": 247106,
@@ -12240,6 +13488,18 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "foia-request.cms.gov",
+    "name_value": "foia-request.cms.gov\nmailcenter.cms.gov",
+    "id": 19287451561,
+    "entry_timestamp": "2025-06-27T12:33:40.109",
+    "not_before": "2025-06-27T00:00:00",
+    "not_after": "2026-07-01T23:59:59",
+    "serial_number": "0fd19d49285920ff1724a7aefa9d2fb5",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 247106,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
     "common_name": "eacms.dev.v4.eacms.aws.cms.gov",
@@ -12336,16 +13596,64 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "www2.cms.gov",
-    "name_value": "api.developer.cms.gov\naps.portal-beta.cms.gov\nar.ocean.cms.gov\nbi.cms.gov\nconfluence.cms.gov\nedit.openpaymentsdata.cms.gov\nedit.pfs.data.cms.gov\nelmo.portal-beta.cms.gov\nfruita.momot.cms.gov\nfruitb.momot.cms.gov\ngithub.cms.gov\ngithub.test.cms.gov\nhipchat.cms.gov\njira.cms.gov\njira.prodnr.cms.gov\nload.openpaymentsdata.cms.gov\nocean.cms.gov\npecosai.portal-beta.cms.gov\npfs.data.cms.gov\npm-analytics.insuranceoversight.cms.gov\npm.insuranceoversight.cms.gov\nprod2-edit.openpaymentsdata.cms.gov\nprod2.openpaymentsdata.cms.gov\nqic.cms.gov\nqic-edit.cms.gov\nsavi.ocean.cms.gov\nscclia.cms.gov\nsei.cms.gov\ntableau.bi.cms.gov\nwww2.cms.gov",
-    "id": 19222625566,
-    "entry_timestamp": "2025-06-24T10:01:34.264",
-    "not_before": "2025-02-05T00:00:00",
-    "not_after": "2026-02-04T23:59:59",
-    "serial_number": "0821bec2f628e4617737e33ba00669e4",
-    "result_count": 31
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "pm-test3.insuranceoversight.cms.gov",
+    "name_value": "pm-test3.insuranceoversight.cms.gov",
+    "id": 19222661088,
+    "entry_timestamp": "2025-06-24T10:03:24.73",
+    "not_before": "2025-06-24T00:00:00",
+    "not_after": "2026-07-25T23:59:59",
+    "serial_number": "0e430286e084ffd73e82ab94ccabe0dc",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "pm-impl1am.insuranceoversight.cms.gov",
+    "name_value": "pm-impl1am.insuranceoversight.cms.gov",
+    "id": 19222644819,
+    "entry_timestamp": "2025-06-24T10:02:56.974",
+    "not_before": "2025-06-24T00:00:00",
+    "not_after": "2026-07-25T23:59:59",
+    "serial_number": "06aee29629ab29ff52d41a8c4bc47d15",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "pm-impl0m.insuranceoversight.cms.gov",
+    "name_value": "pm-impl0m.insuranceoversight.cms.gov",
+    "id": 19222638166,
+    "entry_timestamp": "2025-06-24T10:02:10.171",
+    "not_before": "2025-06-24T00:00:00",
+    "not_after": "2026-07-25T23:59:59",
+    "serial_number": "08e8133040d50d699ee3ebecc01a8e80",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "pm.insuranceoversight.cms.gov",
+    "name_value": "pm.insuranceoversight.cms.gov",
+    "id": 19222637975,
+    "entry_timestamp": "2025-06-24T10:01:27.993",
+    "not_before": "2025-06-24T00:00:00",
+    "not_after": "2026-07-25T23:59:59",
+    "serial_number": "068cb2f9ec5c1f8ae8d159a07fc278dc",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "pm-impl2.insuranceoversight.cms.gov",
+    "name_value": "pm-impl2.insuranceoversight.cms.gov",
+    "id": 19222609820,
+    "entry_timestamp": "2025-06-24T10:00:52.791",
+    "not_before": "2025-06-24T00:00:00",
+    "not_after": "2026-07-25T23:59:59",
+    "serial_number": "0c80dbeb2d59bfbe82a366cb279fbd6f",
+    "result_count": 2
   },
   {
     "issuer_ca_id": 247119,
@@ -12418,6 +13726,18 @@
     "not_after": "2026-07-23T18:52:47",
     "serial_number": "4001979e23ad43e1f7f7df540d399579",
     "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "vpnwest.cms.gov",
+    "name_value": "ewvpn01.cms.gov\newvpn02.cms.gov\nvpnwest.cms.gov",
+    "id": 19201924404,
+    "entry_timestamp": "2025-06-23T11:54:21.546",
+    "not_before": "2025-06-23T00:00:00",
+    "not_after": "2026-07-09T23:59:59",
+    "serial_number": "045ee3ceb3a6fb3615e35d325bd64fb8",
+    "result_count": 4
   },
   {
     "issuer_ca_id": 247115,
@@ -12718,6 +14038,18 @@
     "not_after": "2026-07-17T18:20:04",
     "serial_number": "4001977f1f91f60e94b21fbc8ba3cf87",
     "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "seedimpl.cms.gov",
+    "name_value": "seedimpl2.cms.gov\nseedimpl.cms.gov",
+    "id": 19077146927,
+    "entry_timestamp": "2025-06-17T16:25:35.169",
+    "not_before": "2025-06-17T00:00:00",
+    "not_after": "2026-06-24T23:59:59",
+    "serial_number": "05eb23a9aa1984fcb8e9b7770bc97951",
+    "result_count": 3
   },
   {
     "issuer_ca_id": 247119,
@@ -13404,6 +14736,30 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "*.se4.cms.gov",
+    "name_value": "*.se4.cms.gov",
+    "id": 18914408698,
+    "entry_timestamp": "2025-06-09T14:32:56.848",
+    "not_before": "2025-06-09T00:00:00",
+    "not_after": "2026-07-01T23:59:59",
+    "serial_number": "0f1e0b96fafd98644c88c69f7209e024",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "*.se4.cms.gov",
+    "name_value": "*.se4.cms.gov",
+    "id": 18914386881,
+    "entry_timestamp": "2025-06-09T14:32:28.309",
+    "not_before": "2025-06-09T00:00:00",
+    "not_after": "2026-07-09T23:59:59",
+    "serial_number": "0d53264bce92044b68cb9781eedca9f8",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "dev.ab2d.cms.gov",
@@ -13857,6 +15213,42 @@
     "not_before": "2025-06-05T00:00:00",
     "not_after": "2026-07-04T23:59:59",
     "serial_number": "037e7cf100f96e497c91e58df58b0d67",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "akamaisecure7.qualtrics.com",
+    "name_value": "qualtrics.cms.gov\nsurveys.CMS.gov",
+    "id": 18808659243,
+    "entry_timestamp": "2025-06-04T16:21:50.065",
+    "not_before": "2025-06-04T00:00:00",
+    "not_after": "2026-07-05T23:59:59",
+    "serial_number": "0f307f7f2c7f52b70c48d4cc8ce0bc05",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "akamaisecure7.qualtrics.com",
+    "name_value": "qualtrics.cms.gov\nsurveys.CMS.gov",
+    "id": 18807967304,
+    "entry_timestamp": "2025-06-04T15:35:22.961",
+    "not_before": "2025-06-04T00:00:00",
+    "not_after": "2026-07-05T23:59:59",
+    "serial_number": "0f307f7f2c7f52b70c48d4cc8ce0bc05",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "impi.mlms.cms.gov",
+    "name_value": "impi.mlms.cms.gov",
+    "id": 18807362420,
+    "entry_timestamp": "2025-06-04T14:53:42.313",
+    "not_before": "2025-06-04T00:00:00",
+    "not_after": "2026-07-05T23:59:59",
+    "serial_number": "086f4a4aca110f8e3a71b22810f388c7",
     "result_count": 2
   },
   {
@@ -14532,6 +15924,42 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "mac-api-impl-west.mpsm.cms.gov",
+    "name_value": "mac-api-impl-west.mpsm.cms.gov",
+    "id": 18541210762,
+    "entry_timestamp": "2025-05-21T17:05:11.415",
+    "not_before": "2025-05-21T00:00:00",
+    "not_after": "2026-06-20T23:59:59",
+    "serial_number": "0605324cf737658d0997067eb7e6469c",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "mac-api-impl.mpsm.cms.gov",
+    "name_value": "mac-api-impl.mpsm.cms.gov",
+    "id": 18541209580,
+    "entry_timestamp": "2025-05-21T17:04:19.341",
+    "not_before": "2025-05-21T00:00:00",
+    "not_after": "2026-06-20T23:59:59",
+    "serial_number": "0cb92e05bc5c93bf9db61fa95d2b1d02",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "app-impl-west.mpsm.cms.gov",
+    "name_value": "app-impl-west.mpsm.cms.gov",
+    "id": 18541197824,
+    "entry_timestamp": "2025-05-21T17:03:29.861",
+    "not_before": "2025-05-21T00:00:00",
+    "not_after": "2026-06-20T23:59:59",
+    "serial_number": "015e019ac2a9d20f3121fc594b894aee",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "ipcportal.ipcdev.internal.cms.gov",
@@ -14565,6 +15993,90 @@
     "not_before": "2025-05-20T00:00:00",
     "not_after": "2026-06-18T23:59:59",
     "serial_number": "093661537633f1c7ba2286ea204cca47",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "app-util.mpsm.cms.gov",
+    "name_value": "app-util.mpsm.cms.gov",
+    "id": 18522001888,
+    "entry_timestamp": "2025-05-20T17:11:31.205",
+    "not_before": "2025-05-20T00:00:00",
+    "not_after": "2026-06-20T23:59:59",
+    "serial_number": "0ac4008adc680537ed83d8546229cd9f",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "mac-api-prod-west.mpsm.cms.gov",
+    "name_value": "mac-api-prod-west.mpsm.cms.gov",
+    "id": 18521983782,
+    "entry_timestamp": "2025-05-20T17:10:30.216",
+    "not_before": "2025-05-20T00:00:00",
+    "not_after": "2026-06-20T23:59:59",
+    "serial_number": "07459298698b40552e9bd2702f123b49",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "app-impl-west.mpsm.cms.gov",
+    "name_value": "app-impl-west.mpsm.cms.gov",
+    "id": 18521954607,
+    "entry_timestamp": "2025-05-20T17:08:45.459",
+    "not_before": "2025-05-20T00:00:00",
+    "not_after": "2026-06-20T23:59:59",
+    "serial_number": "0d226288f6d097de83d0330d7cfa486c",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "mac-api-impl.mpsm.cms.gov",
+    "name_value": "mac-api-impl.mpsm.cms.gov",
+    "id": 18521932380,
+    "entry_timestamp": "2025-05-20T17:07:30.457",
+    "not_before": "2025-05-20T00:00:00",
+    "not_after": "2026-06-20T23:59:59",
+    "serial_number": "0166a818703a1e8ef450107e740f6e69",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "mac-api-impl-west.mpsm.cms.gov",
+    "name_value": "mac-api-impl-west.mpsm.cms.gov",
+    "id": 18521901102,
+    "entry_timestamp": "2025-05-20T17:06:25.323",
+    "not_before": "2025-05-20T00:00:00",
+    "not_after": "2026-06-20T23:59:59",
+    "serial_number": "0370b8b71b5187e40c408df2ef4b2043",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "mac-api-dev.mpsm.cms.gov",
+    "name_value": "mac-api-dev.mpsm.cms.gov",
+    "id": 18521891639,
+    "entry_timestamp": "2025-05-20T17:05:28.915",
+    "not_before": "2025-05-20T00:00:00",
+    "not_after": "2026-06-20T23:59:59",
+    "serial_number": "088c0deef3f8fa816c23c52de35a0d05",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "app-prod-west.mpsm.cms.gov",
+    "name_value": "app-prod-west.mpsm.cms.gov",
+    "id": 18521879599,
+    "entry_timestamp": "2025-05-20T17:04:34.145",
+    "not_before": "2025-05-20T00:00:00",
+    "not_after": "2026-06-20T23:59:59",
+    "serial_number": "0a64d19c423a24e959276805447bebed",
     "result_count": 2
   },
   {
@@ -14856,6 +16368,18 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "pm-prod.insuranceoversight.cms.gov",
+    "name_value": "pm-prod.insuranceoversight.cms.gov",
+    "id": 18404083728,
+    "entry_timestamp": "2025-05-14T16:16:52.167",
+    "not_before": "2025-05-14T00:00:00",
+    "not_after": "2026-06-14T23:59:59",
+    "serial_number": "0c3f594563823e5f128cecff2da78e29",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "stage.bcda.cms.gov",
@@ -15009,6 +16533,18 @@
     "not_before": "2025-05-13T00:00:00",
     "not_after": "2026-06-11T23:59:59",
     "serial_number": "0245d3c9ea4687c79058f235cbf2f01a",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "cerrs-mcr.cms.gov",
+    "name_value": "cerrs-mcr.cms.gov",
+    "id": 18386284116,
+    "entry_timestamp": "2025-05-13T17:59:56.73",
+    "not_before": "2025-05-13T00:00:00",
+    "not_after": "2026-05-28T23:59:59",
+    "serial_number": "0f449800ba0e6bd8a865c556383536e7",
     "result_count": 2
   },
   {
@@ -15192,6 +16728,18 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "dev.mdx.internal.cms.gov",
+    "name_value": "dev.mdx.internal.cms.gov",
+    "id": 18361543046,
+    "entry_timestamp": "2025-05-12T12:46:42.183",
+    "not_before": "2025-05-12T00:00:00",
+    "not_after": "2026-05-11T23:59:59",
+    "serial_number": "0ff877d1e70735546b82b7828ac547ab",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247115,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
     "common_name": "esign-dev.cms.gov",
@@ -15312,6 +16860,18 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "jamf.cms.gov",
+    "name_value": "jamf.cms.gov",
+    "id": 18296682801,
+    "entry_timestamp": "2025-05-08T21:24:10.568",
+    "not_before": "2025-05-08T00:00:00",
+    "not_after": "2026-06-08T23:59:59",
+    "serial_number": "02bea4dabb45c69e5317811c3e6885db",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "eac-dev.cloud.cms.gov",
@@ -15372,6 +16932,30 @@
     "result_count": 3
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "hdt.hetst-haa.cms.gov",
+    "name_value": "hdt.hetst-haa.cms.gov\nhdt.hetst-haa.internal.cms.gov",
+    "id": 18295432254,
+    "entry_timestamp": "2025-05-08T19:34:35.455",
+    "not_before": "2025-05-08T00:00:00",
+    "not_after": "2026-04-04T23:59:59",
+    "serial_number": "0e35e7d56db0a554a285c2243b761caa",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "mime.hetst-haa.cms.gov",
+    "name_value": "mime.hetst-haa.cms.gov\nmime.hetst-haa.internal.cms.gov\nsoap.hetst-haa.cms.gov\nsoap.hetst-haa.internal.cms.gov",
+    "id": 18295381892,
+    "entry_timestamp": "2025-05-08T19:29:36.95",
+    "not_before": "2025-05-08T00:00:00",
+    "not_after": "2026-04-04T23:59:59",
+    "serial_number": "070ff518dd15dc6d54c08ad29cb6302d",
+    "result_count": 5
+  },
+  {
     "issuer_ca_id": 185748,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
     "common_name": "mime.hetsd-haa.cms.gov",
@@ -15381,6 +16965,18 @@
     "not_before": "2025-05-08T00:00:00",
     "not_after": "2026-04-04T23:59:59",
     "serial_number": "04ec24f3dae9ee364175946640ea55d2",
+    "result_count": 5
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "mime.hetsd-haa.cms.gov",
+    "name_value": "mime.hetsd-haa.cms.gov\nmime.hetsd-haa.internal.cms.gov\nsoap.hetsd-haa.cms.gov\nsoap.hetsd-haa.internal.cms.gov",
+    "id": 18295202203,
+    "entry_timestamp": "2025-05-08T19:15:37.301",
+    "not_before": "2025-05-08T00:00:00",
+    "not_after": "2026-04-04T23:59:59",
+    "serial_number": "0ed051803df0bcab3dddf412b2b7aefa",
     "result_count": 5
   },
   {
@@ -15432,6 +17028,18 @@
     "result_count": 3
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "hdt.hetsd-haa.cms.gov",
+    "name_value": "hdt.hetsd-haa.cms.gov\nhdt.hetsd-haa.internal.cms.gov",
+    "id": 18255036748,
+    "entry_timestamp": "2025-05-06T16:49:59.404",
+    "not_before": "2025-05-06T00:00:00",
+    "not_after": "2026-03-28T23:59:59",
+    "serial_number": "028ad1f5886b9c004a51047913218e05",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 62123,
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
     "common_name": "ecisexecdashboards.cms.gov",
@@ -15441,6 +17049,66 @@
     "not_before": "2025-05-06T00:00:00",
     "not_after": "2026-05-15T23:59:59",
     "serial_number": "0c722d98893c6c0a4d954c503461bf71",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "fm-impl0.insuranceoversight.cms.gov",
+    "name_value": "fm-impl0.insuranceoversight.cms.gov",
+    "id": 18249870492,
+    "entry_timestamp": "2025-05-06T10:25:25.732",
+    "not_before": "2025-05-06T00:00:00",
+    "not_after": "2026-06-06T23:59:59",
+    "serial_number": "0f7cc34fc00b6ca3ba1d65cc67f111b8",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "fm-impl1a.insuranceoversight.cms.gov",
+    "name_value": "fm-impl1a.insuranceoversight.cms.gov",
+    "id": 18249851339,
+    "entry_timestamp": "2025-05-06T10:24:13.728",
+    "not_before": "2025-05-06T00:00:00",
+    "not_after": "2026-06-06T23:59:59",
+    "serial_number": "0ef687463d8762b6f38346669ad01358",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "fm-impl1b.insuranceoversight.cms.gov",
+    "name_value": "fm-impl1b.insuranceoversight.cms.gov",
+    "id": 18249731793,
+    "entry_timestamp": "2025-05-06T10:14:48.731",
+    "not_before": "2025-05-06T00:00:00",
+    "not_after": "2026-06-06T23:59:59",
+    "serial_number": "0c29741d9d27772bcd83dad6de8a1ec8",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "fm-prod.insuranceoversight.cms.gov",
+    "name_value": "fm-prod.insuranceoversight.cms.gov",
+    "id": 18249728582,
+    "entry_timestamp": "2025-05-06T10:13:58.484",
+    "not_before": "2025-05-06T00:00:00",
+    "not_after": "2026-06-06T23:59:59",
+    "serial_number": "0e7b473765df609ac8e9bfc18c47dd6f",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "fm-impl2.insuranceoversight.cms.gov",
+    "name_value": "fm-impl2.insuranceoversight.cms.gov",
+    "id": 18249716743,
+    "entry_timestamp": "2025-05-06T10:13:06.419",
+    "not_before": "2025-05-06T00:00:00",
+    "not_after": "2026-06-06T23:59:59",
+    "serial_number": "09152037918fe375a51f77d05f6d87b4",
     "result_count": 2
   },
   {
@@ -15489,6 +17157,18 @@
     "not_before": "2025-05-05T18:47:37",
     "not_after": "2026-06-04T18:46:37",
     "serial_number": "400196a1c66c6cd8d5028f9e4da77b6c",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "*.dc13.cms.gov",
+    "name_value": "*.dc13.cms.gov",
+    "id": 18237581962,
+    "entry_timestamp": "2025-05-05T16:51:25.593",
+    "not_before": "2025-05-05T00:00:00",
+    "not_after": "2026-06-05T23:59:59",
+    "serial_number": "055c0a2611724871d3c1cb85eb11dac3",
     "result_count": 2
   },
   {
@@ -15837,6 +17517,18 @@
     "not_before": "2025-04-28T15:36:12",
     "not_after": "2026-05-28T15:35:12",
     "serial_number": "4001967d0aa8e19a48e78dbfa03fba1b",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "vpnsetup.cms.gov",
+    "name_value": "vpnsetup.cms.gov",
+    "id": 18109637823,
+    "entry_timestamp": "2025-04-28T14:35:54.429",
+    "not_before": "2025-04-28T00:00:00",
+    "not_after": "2026-05-21T23:59:59",
+    "serial_number": "0572d9b7b3fb121ff5f96229c43c11e4",
     "result_count": 2
   },
   {
@@ -16728,6 +18420,78 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "portaldev.cms.gov",
+    "name_value": "portaldev.cms.gov",
+    "id": 17910172385,
+    "entry_timestamp": "2025-04-17T20:15:51.81",
+    "not_before": "2025-04-17T00:00:00",
+    "not_after": "2026-04-16T23:59:59",
+    "serial_number": "054fcf59717c502b89e24b2105730299",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "portaldev.cms.gov",
+    "name_value": "portaldev.cms.gov",
+    "id": 17910170270,
+    "entry_timestamp": "2025-04-17T20:15:26.462",
+    "not_before": "2025-04-17T00:00:00",
+    "not_after": "2026-04-16T23:59:59",
+    "serial_number": "03a8aba4fc85ef468b934d1fd25ce2cc",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "portalval.cms.gov",
+    "name_value": "portalval.cms.gov",
+    "id": 17910162077,
+    "entry_timestamp": "2025-04-17T20:15:00.712",
+    "not_before": "2025-04-17T00:00:00",
+    "not_after": "2026-04-16T23:59:59",
+    "serial_number": "08f4fc1e38fac65d769a2ebeb33a2d32",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "portalval.cms.gov",
+    "name_value": "portalval.cms.gov",
+    "id": 17910157685,
+    "entry_timestamp": "2025-04-17T20:14:30.34",
+    "not_before": "2025-04-17T00:00:00",
+    "not_after": "2026-04-16T23:59:59",
+    "serial_number": "07321d6b5010a4094ea8b76bccd13e86",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "portal.cms.gov",
+    "name_value": "portal.cms.gov",
+    "id": 17910154107,
+    "entry_timestamp": "2025-04-17T20:13:56.721",
+    "not_before": "2025-04-17T00:00:00",
+    "not_after": "2026-04-16T23:59:59",
+    "serial_number": "080ff026d63a535c201301d130b9fce0",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "portal.cms.gov",
+    "name_value": "portal.cms.gov",
+    "id": 17910147635,
+    "entry_timestamp": "2025-04-17T20:13:26.587",
+    "not_before": "2025-04-17T00:00:00",
+    "not_after": "2026-04-16T23:59:59",
+    "serial_number": "04abecfe3a7208194bf057db8c17c121",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247115,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
     "common_name": "mearis-impl.cms.gov",
@@ -16800,6 +18564,18 @@
     "result_count": 3
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "euaval.cms.gov",
+    "name_value": "euaval.cms.gov",
+    "id": 17886427092,
+    "entry_timestamp": "2025-04-16T16:59:17.655",
+    "not_before": "2025-04-16T00:00:00",
+    "not_after": "2026-05-06T23:59:59",
+    "serial_number": "05624d9f2266f0d7f456e7ef14c00446",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247106,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
     "common_name": "*.prod.4innovation.internal.cms.gov",
@@ -16845,6 +18621,30 @@
     "not_before": "2025-04-16T00:00:00",
     "not_after": "2026-05-15T23:59:59",
     "serial_number": "02e88e54fa65885f90cc8b29a2e92792",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "euadev.cms.gov",
+    "name_value": "euadev.cms.gov",
+    "id": 17884432525,
+    "entry_timestamp": "2025-04-16T14:38:34.532",
+    "not_before": "2025-04-16T00:00:00",
+    "not_after": "2026-05-06T23:59:59",
+    "serial_number": "0be093ed14bf37b60e047671e6ca489e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "snow-ptc.cms.gov",
+    "name_value": "snow-ptc.cms.gov",
+    "id": 17884374936,
+    "entry_timestamp": "2025-04-16T14:34:28.443",
+    "not_before": "2025-04-16T00:00:00",
+    "not_after": "2026-04-30T23:59:59",
+    "serial_number": "06bba768637f12a748f8130adb5e19b3",
     "result_count": 2
   },
   {
@@ -17088,6 +18888,18 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "asett.cms.gov",
+    "name_value": "asett.cms.gov",
+    "id": 17789901254,
+    "entry_timestamp": "2025-04-11T19:30:12.931",
+    "not_before": "2025-04-11T00:00:00",
+    "not_after": "2026-05-12T23:59:59",
+    "serial_number": "08e7cd3150a84edc9815a7276e8e4d6e",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "eqrs.internal.cms.gov",
@@ -17136,6 +18948,42 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "portaldev.cms.gov",
+    "name_value": "portaldev.cms.gov",
+    "id": 17781697188,
+    "entry_timestamp": "2025-04-11T10:56:37.63",
+    "not_before": "2025-04-11T00:00:00",
+    "not_after": "2026-04-10T23:59:59",
+    "serial_number": "05dbb9961146c41edd3ea41ce29d4851",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "portal.cms.gov",
+    "name_value": "portal.cms.gov",
+    "id": 17781682996,
+    "entry_timestamp": "2025-04-11T10:55:40.284",
+    "not_before": "2025-04-11T00:00:00",
+    "not_after": "2026-04-10T23:59:59",
+    "serial_number": "0d38e4df6050ab59522d83259552bdec",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "portalval.cms.gov",
+    "name_value": "portalval.cms.gov",
+    "id": 17781666061,
+    "entry_timestamp": "2025-04-11T10:54:34.658",
+    "not_before": "2025-04-11T00:00:00",
+    "not_after": "2026-04-10T23:59:59",
+    "serial_number": "05a651c61b0e27fc5ed173b6640e495f",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "demo.ecs-deploy.infraops.backends.cms.gov",
@@ -17145,6 +18993,30 @@
     "not_before": "2025-04-10T00:00:00",
     "not_after": "2026-05-09T23:59:59",
     "serial_number": "09bf2c904ad22e7d3f754031af47647b",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "marketplacetpai.cms.gov",
+    "name_value": "marketplacetpai.cms.gov",
+    "id": 17764917035,
+    "entry_timestamp": "2025-04-10T17:27:47.62",
+    "not_before": "2025-04-10T00:00:00",
+    "not_after": "2026-04-09T23:59:59",
+    "serial_number": "0af14c3a63998847638e5c93f6db765e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "marketplacetpa.cms.gov",
+    "name_value": "marketplacetpa.cms.gov",
+    "id": 17764917270,
+    "entry_timestamp": "2025-04-10T17:27:26.936",
+    "not_before": "2025-04-10T00:00:00",
+    "not_after": "2026-04-09T23:59:59",
+    "serial_number": "091288d77f89b561a047e43bc2316fe7",
     "result_count": 2
   },
   {
@@ -17158,6 +19030,18 @@
     "not_after": "2026-05-09T23:59:59",
     "serial_number": "0ce0275d48615238661c6957f15f652d",
     "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "vpneasttest.cms.gov",
+    "name_value": "eevpnt01.cms.gov\neevpnt02.cms.gov\nvpneasttest.cms.gov",
+    "id": 17763925695,
+    "entry_timestamp": "2025-04-10T16:25:10.984",
+    "not_before": "2025-04-10T00:00:00",
+    "not_after": "2026-04-09T23:59:59",
+    "serial_number": "04ed6856a8e6f21b704a2457094e3892",
+    "result_count": 4
   },
   {
     "issuer_ca_id": 247119,
@@ -17244,6 +19128,42 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "hiostestgateway.cms.gov",
+    "name_value": "hiostestgateway.cms.gov",
+    "id": 17717682671,
+    "entry_timestamp": "2025-04-08T11:53:16.15",
+    "not_before": "2025-04-08T00:00:00",
+    "not_after": "2026-05-06T23:59:59",
+    "serial_number": "0a44eeb02260cd1c2c06d94763207eaa",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "hiostest.cms.gov",
+    "name_value": "hiostest.cms.gov",
+    "id": 17717663324,
+    "entry_timestamp": "2025-04-08T11:52:34.574",
+    "not_before": "2025-04-08T00:00:00",
+    "not_after": "2026-05-06T23:59:59",
+    "serial_number": "0c0ae6c01e3fb907ad12bc5678afefa1",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "fm-test0.insuranceoversight.cms.gov",
+    "name_value": "fm-test0.insuranceoversight.cms.gov",
+    "id": 17717643642,
+    "entry_timestamp": "2025-04-08T11:51:39.81",
+    "not_before": "2025-04-08T00:00:00",
+    "not_after": "2026-05-09T23:59:59",
+    "serial_number": "0899cce9c088dcd9cfe05ab583fa4aef",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 62123,
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
     "common_name": "*.ops.internal.cms.gov",
@@ -17254,6 +19174,30 @@
     "not_after": "2026-05-09T23:59:59",
     "serial_number": "05921fb7a094e33abd68b68771053970",
     "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "openpayments.system.cms.gov",
+    "name_value": "openpayments.system.cms.gov",
+    "id": 17717621489,
+    "entry_timestamp": "2025-04-08T11:50:05.58",
+    "not_before": "2025-04-08T00:00:00",
+    "not_after": "2026-05-09T23:59:59",
+    "serial_number": "0fa3f37b580b90a854a9774d45133928",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "www.assisters.cms.gov",
+    "name_value": "assisters.cms.gov\nwww.assisters.cms.gov",
+    "id": 17695424683,
+    "entry_timestamp": "2025-04-07T12:29:57.546",
+    "not_before": "2025-04-07T00:00:00",
+    "not_after": "2026-05-06T23:59:59",
+    "serial_number": "0293f776907bbac5262490556392bf44",
+    "result_count": 3
   },
   {
     "issuer_ca_id": 247106,
@@ -17277,6 +19221,18 @@
     "not_before": "2025-04-04T00:00:00",
     "not_after": "2026-04-04T23:59:59",
     "serial_number": "065052d145487e30fd0fead61ad9c1e9",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "mime.hetst-haa.cms.gov",
+    "name_value": "mime.hetst-haa.cms.gov\nsoap.hetst-haa.cms.gov",
+    "id": 17631406488,
+    "entry_timestamp": "2025-04-04T21:11:08.169",
+    "not_before": "2025-04-04T00:00:00",
+    "not_after": "2026-04-03T23:59:59",
+    "serial_number": "0fea9b8f9491d0b324e2d6cfff7bf041",
     "result_count": 3
   },
   {
@@ -17316,6 +19272,30 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "mime.hetsd-haa.cms.gov",
+    "name_value": "mime.hetsd-haa.cms.gov\nsoap.hetsd-haa.cms.gov",
+    "id": 17629748911,
+    "entry_timestamp": "2025-04-04T19:19:36.028",
+    "not_before": "2025-04-04T00:00:00",
+    "not_after": "2026-04-03T23:59:59",
+    "serial_number": "0e2a56f9b956ddd66864b4661ad7624a",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "hdt.hetst-haa.cms.gov",
+    "name_value": "hdt.hetst-haa.cms.gov",
+    "id": 17629737718,
+    "entry_timestamp": "2025-04-04T19:18:37.512",
+    "not_before": "2025-04-04T00:00:00",
+    "not_after": "2026-04-03T23:59:59",
+    "serial_number": "0807dfc97974c92f47c5ab01a44ef339",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "*.cribl.internal.cms.gov",
@@ -17325,6 +19305,18 @@
     "not_before": "2025-04-04T00:00:00",
     "not_after": "2026-05-03T23:59:59",
     "serial_number": "0ddf000c78d6b3ca95a068c72eca55d6",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "marketplacetpai.cms.gov",
+    "name_value": "marketplacetpai.cms.gov",
+    "id": 17609423717,
+    "entry_timestamp": "2025-04-03T18:20:14.008",
+    "not_before": "2025-04-03T00:00:00",
+    "not_after": "2026-04-12T23:59:59",
+    "serial_number": "0375bbe9a8f4a237a36b678ffed9dc7f",
     "result_count": 2
   },
   {
@@ -17361,6 +19353,42 @@
     "not_before": "2025-04-03T14:54:54",
     "not_after": "2026-05-03T14:53:54",
     "serial_number": "400195fc25db8e53da795600667a9014",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "api.idm.cms.gov",
+    "name_value": "api.idm.cms.gov",
+    "id": 17587651859,
+    "entry_timestamp": "2025-04-02T19:26:50.107",
+    "not_before": "2025-04-02T00:00:00",
+    "not_after": "2026-04-17T23:59:59",
+    "serial_number": "04d0fffc42887ee46ede81d9421147fc",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "impl.api.idm.cms.gov",
+    "name_value": "impl.api.idm.cms.gov",
+    "id": 17587616650,
+    "entry_timestamp": "2025-04-02T19:24:50.028",
+    "not_before": "2025-04-02T00:00:00",
+    "not_after": "2026-04-17T23:59:59",
+    "serial_number": "0ef23b0c00cce5ea821db067e7a969dd",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "test.api.idm.cms.gov",
+    "name_value": "test.api.idm.cms.gov",
+    "id": 17587599659,
+    "entry_timestamp": "2025-04-02T19:23:41.209",
+    "not_before": "2025-04-02T00:00:00",
+    "not_after": "2026-04-17T23:59:59",
+    "serial_number": "04e7314246acacdc478cfe7fa7fb3252",
     "result_count": 2
   },
   {
@@ -17472,6 +19500,18 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "eua.cms.gov",
+    "name_value": "eua.cms.gov",
+    "id": 17561722673,
+    "entry_timestamp": "2025-04-01T17:05:24.814",
+    "not_before": "2025-04-01T00:00:00",
+    "not_after": "2026-04-24T23:59:59",
+    "serial_number": "0510584cf4225481e5c3591cc8af1ccd",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 62123,
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
     "common_name": "mtst.hub.cms.gov",
@@ -17494,6 +19534,30 @@
     "not_after": "2026-04-17T23:59:59",
     "serial_number": "04a2754440698539239ea9ff12ee9df0",
     "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "cerrsd365impl.cerrs.cms.gov",
+    "name_value": "authimp2.cerrs.cms.gov\nauthimp.cerrs.cms.gov\ncerrsd365impl2.cerrs.cms.gov\ncerrsd365impl2-edt.cms.gov\ncerrsd365impl.cerrs.cms.gov\ncerrsd365impl-edt.cms.gov\ncerrsd365impl-sts.cerrs.cms.gov\ncerrsngtrainingimpl.cerrs.cms.gov\nimp2.cerrsint365.cms.gov\nimp.cerrsint365.cms.gov\nimpl.cerrsconnect.cms.gov",
+    "id": 17556529256,
+    "entry_timestamp": "2025-04-01T12:11:10.311",
+    "not_before": "2025-04-01T00:00:00",
+    "not_after": "2026-04-09T23:59:59",
+    "serial_number": "0842b311dc4998cb149243dc6e44cdbe",
+    "result_count": 12
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "vpneast.cms.gov",
+    "name_value": "eevpn01.cms.gov\neevpn02.cms.gov\nvpneast.cms.gov",
+    "id": 17556518360,
+    "entry_timestamp": "2025-04-01T12:10:14.497",
+    "not_before": "2025-04-01T00:00:00",
+    "not_after": "2026-04-01T23:59:59",
+    "serial_number": "0c92c9fef22c54dc254807d7ee22e9d6",
+    "result_count": 4
   },
   {
     "issuer_ca_id": 247106,
@@ -17661,6 +19725,18 @@
     "not_before": "2025-03-28T00:00:00",
     "not_after": "2026-03-28T23:59:59",
     "serial_number": "0b3d2f7a13dc21a8f60d8e0005fc44f0",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "hdt.hetsd-haa.cms.gov",
+    "name_value": "hdt.hetsd-haa.cms.gov",
+    "id": 17473008707,
+    "entry_timestamp": "2025-03-28T19:56:24.633",
+    "not_before": "2025-03-28T00:00:00",
+    "not_after": "2026-03-27T23:59:59",
+    "serial_number": "01b501f9787d6b7297ec934f934cf61f",
     "result_count": 2
   },
   {
@@ -18216,6 +20292,66 @@
     "result_count": 3
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "fm-testpe.insuranceoversight.cms.gov",
+    "name_value": "fm-testpe.insuranceoversight.cms.gov",
+    "id": 17217773802,
+    "entry_timestamp": "2025-03-18T19:37:42.364",
+    "not_before": "2025-03-18T00:00:00",
+    "not_after": "2026-04-18T23:59:59",
+    "serial_number": "0e9c30416aaec1e7f929997b0b6951bc",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "fm-test2.insuranceoversight.cms.gov",
+    "name_value": "fm-test2.insuranceoversight.cms.gov",
+    "id": 17217772387,
+    "entry_timestamp": "2025-03-18T19:36:49.38",
+    "not_before": "2025-03-18T00:00:00",
+    "not_after": "2026-04-18T23:59:59",
+    "serial_number": "091d1be4b8c3908ee3b5ff2638dcdf41",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "terminology.esmddev.cms.gov",
+    "name_value": "terminology.esmddev.cms.gov",
+    "id": 17216268361,
+    "entry_timestamp": "2025-03-18T17:49:13.239",
+    "not_before": "2025-03-18T00:00:00",
+    "not_after": "2026-03-18T23:59:59",
+    "serial_number": "02e030dc7a068fd9cc4bd93805300d63",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "terminology.esmdval.cms.gov",
+    "name_value": "terminology.esmdval.cms.gov",
+    "id": 17216268603,
+    "entry_timestamp": "2025-03-18T17:48:51.036",
+    "not_before": "2025-03-18T00:00:00",
+    "not_after": "2026-03-18T23:59:59",
+    "serial_number": "0ee90223d8b9627b9da769e5ab231f6e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "terminology.esmduat.cms.gov",
+    "name_value": "terminology.esmduat.cms.gov",
+    "id": 17216248793,
+    "entry_timestamp": "2025-03-18T17:48:27.951",
+    "not_before": "2025-03-18T00:00:00",
+    "not_after": "2026-03-18T23:59:59",
+    "serial_number": "0f8cf22e100c895880764ec47cfce395",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247115,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
     "common_name": "devportal.backends.cms.gov",
@@ -18408,6 +20544,18 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "*.cms.gov",
+    "name_value": "*.cms.gov",
+    "id": 17107027799,
+    "entry_timestamp": "2025-03-14T11:22:36.729",
+    "not_before": "2025-03-14T00:00:00",
+    "not_after": "2026-04-14T23:59:59",
+    "serial_number": "0ff83a378a4afde621927f8e024dcd53",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247115,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
     "common_name": "eapi.ap-prod.eacms.aws.cms.gov",
@@ -18525,6 +20673,30 @@
     "not_before": "2025-03-12T00:00:00",
     "not_after": "2026-04-10T23:59:59",
     "serial_number": "039a3daf0953ebf1de5e0c9d0ac7b5c2",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "marketplacetpai.cms.gov",
+    "name_value": "marketplacetpai.cms.gov",
+    "id": 17067585966,
+    "entry_timestamp": "2025-03-12T19:35:30.231",
+    "not_before": "2025-03-12T00:00:00",
+    "not_after": "2026-04-12T23:59:59",
+    "serial_number": "01b59b70d1c8231d2365a848547fb32f",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "marketplacetpa.cms.gov",
+    "name_value": "marketplacetpa.cms.gov",
+    "id": 17067586084,
+    "entry_timestamp": "2025-03-12T19:34:37.332",
+    "not_before": "2025-03-12T00:00:00",
+    "not_after": "2026-04-12T23:59:59",
+    "serial_number": "0412f26373a15994a36787ade47ab186",
     "result_count": 2
   },
   {
@@ -18717,6 +20889,30 @@
     "not_before": "2025-03-10T21:21:28",
     "not_after": "2026-04-09T21:20:28",
     "serial_number": "40019581ef269dfbd442a749b85b7f11",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "hiosgateway.cms.gov",
+    "name_value": "hiosgateway.cms.gov",
+    "id": 16976081449,
+    "entry_timestamp": "2025-03-10T19:53:25.366",
+    "not_before": "2025-03-10T00:00:00",
+    "not_after": "2026-04-07T23:59:59",
+    "serial_number": "0c1c7115537b6e31392f9b861d3028cd",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "hios.cms.gov",
+    "name_value": "hios.cms.gov",
+    "id": 16977792787,
+    "entry_timestamp": "2025-03-10T19:53:08.583",
+    "not_before": "2025-03-10T00:00:00",
+    "not_after": "2026-04-07T23:59:59",
+    "serial_number": "03cd2f86f705b873b50fde057dee9465",
     "result_count": 2
   },
   {
@@ -19308,6 +21504,90 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "SMTPESAASH.CMS.GOV",
+    "name_value": "ASHAP05-ESA.cms.gov\nASHAP06-ESA.cms.gov\nASHAP07-ESA.cms.gov\nKENAP05-ESA.cms.gov\nKENAP06-ESA.cms.gov\nKENAP07-ESA.cms.gov\nSMTPESAASH.CMS.GOV\nSMTPESAKNT.CMS.GOV",
+    "id": 16855411227,
+    "entry_timestamp": "2025-02-25T12:28:13.2",
+    "not_before": "2025-02-25T00:00:00",
+    "not_after": "2026-03-28T23:59:59",
+    "serial_number": "0748d0d68e023eb8f0cf009743a509ba",
+    "result_count": 9
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "cmsmail.cms.gov",
+    "name_value": "cmsmail.cms.gov",
+    "id": 16853365036,
+    "entry_timestamp": "2025-02-24T20:23:03.883",
+    "not_before": "2025-02-24T00:00:00",
+    "not_after": "2026-03-27T23:59:59",
+    "serial_number": "0b377ed5c054f30a653bc2aaa0e45199",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "ldap.dev.eua.internal.cms.gov",
+    "name_value": "ldap.dev.eua.internal.cms.gov",
+    "id": 16853364281,
+    "entry_timestamp": "2025-02-24T20:18:42.623",
+    "not_before": "2025-02-24T00:00:00",
+    "not_after": "2026-02-23T23:59:59",
+    "serial_number": "04478f9e33236661e4ba2efd5e8ad8ce",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "ldap.test.eua.internal.cms.gov",
+    "name_value": "ldap.test.eua.internal.cms.gov",
+    "id": 16853363095,
+    "entry_timestamp": "2025-02-24T20:18:30.197",
+    "not_before": "2025-02-24T00:00:00",
+    "not_after": "2026-02-23T23:59:59",
+    "serial_number": "01fd72035205a2168a100f112ae5cb5a",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "ldap.impl.eua.internal.cms.gov",
+    "name_value": "ldap.impl.eua.internal.cms.gov",
+    "id": 16853361582,
+    "entry_timestamp": "2025-02-24T20:18:15.435",
+    "not_before": "2025-02-24T00:00:00",
+    "not_after": "2026-02-23T23:59:59",
+    "serial_number": "0edcbda54ad66c0b3d8475fa8b61d8e0",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "pm-test4m.insuranceoversight.cms.gov",
+    "name_value": "pm-test4m.insuranceoversight.cms.gov",
+    "id": 16853358808,
+    "entry_timestamp": "2025-02-24T20:16:56.243",
+    "not_before": "2025-02-24T00:00:00",
+    "not_after": "2026-03-27T23:59:59",
+    "serial_number": "08cc0c021cf13817fbcf502a371a72a0",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "sts2.cms.gov",
+    "name_value": "sts2.cms.gov",
+    "id": 16853357111,
+    "entry_timestamp": "2025-02-24T20:16:35.696",
+    "not_before": "2025-02-24T00:00:00",
+    "not_after": "2026-03-27T23:59:59",
+    "serial_number": "035cff5372539fd59de99faa94fa1387",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 62123,
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
     "common_name": "catsval.cms.gov",
@@ -19440,6 +21720,126 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "qies-west.cms.gov",
+    "name_value": "qies-west.cms.gov",
+    "id": 16787816734,
+    "entry_timestamp": "2025-02-21T21:36:38.025",
+    "not_before": "2025-02-21T00:00:00",
+    "not_after": "2026-02-20T23:59:59",
+    "serial_number": "0212f4bd2459b17197b90dadf01a269d",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "qies-east.cms.gov",
+    "name_value": "qies-east.cms.gov",
+    "id": 16787747467,
+    "entry_timestamp": "2025-02-21T21:33:45.138",
+    "not_before": "2025-02-21T00:00:00",
+    "not_after": "2026-02-20T23:59:59",
+    "serial_number": "0d1d7fb2584d834658deeb3d62483d8f",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "sandbox.ab2d.cms.gov",
+    "name_value": "sandbox.ab2d.cms.gov",
+    "id": 16787666008,
+    "entry_timestamp": "2025-02-21T21:30:41.603",
+    "not_before": "2025-02-21T00:00:00",
+    "not_after": "2026-03-05T23:59:59",
+    "serial_number": "05f0276d8abbc7942aeba91e2f203927",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "rad.cms.gov",
+    "name_value": "rad.cms.gov",
+    "id": 16787667072,
+    "entry_timestamp": "2025-02-21T21:30:23.44",
+    "not_before": "2025-02-21T00:00:00",
+    "not_after": "2026-03-24T23:59:59",
+    "serial_number": "07771c3c6b058d09d46f77d599728083",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "radimp.cms.gov",
+    "name_value": "radimp.cms.gov",
+    "id": 16787666127,
+    "entry_timestamp": "2025-02-21T21:30:07.002",
+    "not_before": "2025-02-21T00:00:00",
+    "not_after": "2026-03-24T23:59:59",
+    "serial_number": "02adda5c89d2459477d3aa4018985e85",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "seed.cms.gov",
+    "name_value": "seed2.cms.gov\nseed.cms.gov",
+    "id": 16787641390,
+    "entry_timestamp": "2025-02-21T21:29:46.152",
+    "not_before": "2025-02-21T00:00:00",
+    "not_after": "2026-02-27T23:59:59",
+    "serial_number": "020e99f415d901088c4c35fa68d758f9",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "pm-impl2m.insuranceoversight.cms.gov",
+    "name_value": "pm-impl2m.insuranceoversight.cms.gov",
+    "id": 16787610887,
+    "entry_timestamp": "2025-02-21T21:28:02.373",
+    "not_before": "2025-02-21T00:00:00",
+    "not_after": "2026-03-23T23:59:59",
+    "serial_number": "08dc0802ef3ec0f43087e9cff920bcee",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "pm-test3m.insuranceoversight.cms.gov",
+    "name_value": "pm-test3m.insuranceoversight.cms.gov",
+    "id": 16787580400,
+    "entry_timestamp": "2025-02-21T21:27:43.249",
+    "not_before": "2025-02-21T00:00:00",
+    "not_after": "2026-03-23T23:59:59",
+    "serial_number": "0a197ec40783ffcce5641bf4874cc7d6",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "pm-testpe0m.insuranceoversight.cms.gov",
+    "name_value": "pm-testpe0m.insuranceoversight.cms.gov",
+    "id": 16787579510,
+    "entry_timestamp": "2025-02-21T21:27:23.123",
+    "not_before": "2025-02-21T00:00:00",
+    "not_after": "2026-03-23T23:59:59",
+    "serial_number": "058e41c171578c46b4854d532d612df5",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "pm-test0m.insuranceoversight.cms.gov",
+    "name_value": "pm-test0m.insuranceoversight.cms.gov",
+    "id": 16787579478,
+    "entry_timestamp": "2025-02-21T21:27:05.116",
+    "not_before": "2025-02-21T00:00:00",
+    "not_after": "2026-03-23T23:59:59",
+    "serial_number": "02629248333ee9384ff8a22aa6084a06",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247106,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
     "common_name": "mc-review-val.onemac.cms.gov",
@@ -19533,6 +21933,18 @@
     "not_before": "2025-02-18T00:00:00",
     "not_after": "2026-03-19T23:59:59",
     "serial_number": "0dc9a6ec859996e032697756f5c3ecd7",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "mas-l3-wsval.cms.gov",
+    "name_value": "mas-l3-wsval.cms.gov",
+    "id": 16767734440,
+    "entry_timestamp": "2025-02-18T18:05:14.669",
+    "not_before": "2025-02-18T00:00:00",
+    "not_after": "2026-02-27T23:59:59",
+    "serial_number": "065e8d64d0292797b9eb14dbb53dca77",
     "result_count": 2
   },
   {
@@ -19725,18 +22137,6 @@
     "not_before": "2025-01-27T00:00:00",
     "not_after": "2026-02-25T23:59:59",
     "serial_number": "033d1de190897f499fe110c0a290c4ea",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "mime.hetsp-haa.cms.gov",
-    "name_value": "mime.hetsp-haa.cms.gov",
-    "id": 16754051280,
-    "entry_timestamp": "2025-02-16T23:41:28.505",
-    "not_before": "2024-12-11T00:00:00",
-    "not_after": "2025-12-11T23:59:59",
-    "serial_number": "09ebaf7fd398b94fca190683577251b1",
     "result_count": 2
   },
   {
@@ -20256,18 +22656,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "hub.cms.gov",
-    "name_value": "hub.cms.gov",
-    "id": 16679808056,
-    "entry_timestamp": "2025-02-11T19:14:01.86",
-    "not_before": "2025-02-11T00:00:00",
-    "not_after": "2026-02-10T23:59:59",
-    "serial_number": "0322a1df5c1313d055fa5f10daab474b",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 247115,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
     "common_name": "*.dev.4innovation.cms.gov",
@@ -20316,30 +22704,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "hpms.cms.gov",
-    "name_value": "api.hpms.cms.gov\nawshpms.cms.gov\nawshpmsdashboard.cms.gov\nawshpmsencoder.cms.gov\nhpms.cms.gov\nhpmsdashboard.cms.gov\nhpmsencoder.cms.gov",
-    "id": 16662695638,
-    "entry_timestamp": "2025-02-11T00:09:32.545",
-    "not_before": "2025-02-11T00:00:00",
-    "not_after": "2026-02-11T23:59:59",
-    "serial_number": "0ef1a5d26e62960ed29a7d4710e2b499",
-    "result_count": 8
-  },
-  {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "hpms.cms.gov",
-    "name_value": "api.hpms.cms.gov\nawshpms.cms.gov\nawshpmsdashboard.cms.gov\nawshpmsencoder.cms.gov\nhpms.cms.gov\nhpmsdashboard.cms.gov\nhpmsencoder.cms.gov",
-    "id": 16662627043,
-    "entry_timestamp": "2025-02-11T00:03:38.085",
-    "not_before": "2025-02-11T00:00:00",
-    "not_after": "2026-02-11T23:59:59",
-    "serial_number": "0e4ad0c0a9d71488d2f4dfb1f961c044",
-    "result_count": 8
-  },
-  {
     "issuer_ca_id": 247106,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
     "common_name": "*.ihp-test.internal.cms.gov",
@@ -20364,18 +22728,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "hub.cms.gov",
-    "name_value": "hub.cms.gov",
-    "id": 16657278155,
-    "entry_timestamp": "2025-02-10T17:12:21.416",
-    "not_before": "2025-02-10T00:00:00",
-    "not_after": "2026-02-09T23:59:59",
-    "serial_number": "0c00b8077d62eae0b867840c423d4b99",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "dev.cpiapigateway.cms.gov",
@@ -20385,6 +22737,18 @@
     "not_before": "2025-02-10T16:50:56",
     "not_after": "2026-03-12T16:49:56",
     "serial_number": "400194f0c5682318305c6e218c44bcc7",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "hub.cms.gov",
+    "name_value": "hub.cms.gov",
+    "id": 16656675574,
+    "entry_timestamp": "2025-02-10T16:25:41.951",
+    "not_before": "2025-02-10T00:00:00",
+    "not_after": "2026-03-13T23:59:59",
+    "serial_number": "08278c1d1093d3a9cac22053a34f755e",
     "result_count": 2
   },
   {
@@ -20496,40 +22860,40 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "hpmsimpl.cms.gov",
-    "name_value": "api.hpmsimpl.cms.gov\napi.hpmssandbox.cms.gov\napi.hpmstest.cms.gov\nawshpmstest.cms.gov\nawshpmstestdashboard.cms.gov\nawshpmstestencoder.cms.gov\nhpmsimpl.cms.gov\nhpmsimpldashboard.cms.gov\nhpmsimplencoder.cms.gov\nhpmssandbox.cms.gov\nhpmstest.cms.gov\nhpmstestdashboard.cms.gov\nhpmstestencoder.cms.gov",
-    "id": 16622942419,
-    "entry_timestamp": "2025-02-09T01:34:14.924",
-    "not_before": "2025-02-09T00:00:00",
-    "not_after": "2026-02-11T23:59:59",
-    "serial_number": "05e0e37c7658665823d215eed6963c15",
-    "result_count": 14
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "hiosval.cms.gov",
+    "name_value": "hiosval.cms.gov",
+    "id": 16588514830,
+    "entry_timestamp": "2025-02-07T13:56:02.384",
+    "not_before": "2025-02-07T00:00:00",
+    "not_after": "2026-02-25T23:59:59",
+    "serial_number": "076553e5feb7572a34d8ff9646920b91",
+    "result_count": 2
   },
   {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "hpmsimpl.cms.gov",
-    "name_value": "api.hpmsimpl.cms.gov\napi.hpmssandbox.cms.gov\napi.hpmstest.cms.gov\nawshpmstest.cms.gov\nawshpmstestdashboard.cms.gov\nawshpmstestencoder.cms.gov\nhpmsimpl.cms.gov\nhpmsimpldashboard.cms.gov\nhpmsimplencoder.cms.gov\nhpmssandbox.cms.gov\nhpmstest.cms.gov\nhpmstestdashboard.cms.gov\nhpmstestencoder.cms.gov",
-    "id": 16621905119,
-    "entry_timestamp": "2025-02-09T00:27:29.457",
-    "not_before": "2025-02-09T00:00:00",
-    "not_after": "2026-02-11T23:59:59",
-    "serial_number": "05e0e37c7658665823d215eed6963c15",
-    "result_count": 14
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "hiosvalgateway.cms.gov",
+    "name_value": "hiosvalgateway.cms.gov",
+    "id": 16588514928,
+    "entry_timestamp": "2025-02-07T13:55:41.443",
+    "not_before": "2025-02-07T00:00:00",
+    "not_after": "2026-03-10T23:59:59",
+    "serial_number": "0d2295135dcdd6928f2d0bc1fdf9b046",
+    "result_count": 2
   },
   {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "hpmsimpl.cms.gov",
-    "name_value": "api.hpmsimpl.cms.gov\napi.hpmssandbox.cms.gov\napi.hpmstest.cms.gov\nawshpmstest.cms.gov\nawshpmstestdashboard.cms.gov\nawshpmstestencoder.cms.gov\nhpmsimpl.cms.gov\nhpmsimpldashboard.cms.gov\nhpmsimplencoder.cms.gov\nhpmssandbox.cms.gov\nhpmstest.cms.gov\nhpmstestdashboard.cms.gov\nhpmstestencoder.cms.gov",
-    "id": 16621618909,
-    "entry_timestamp": "2025-02-09T00:11:45.682",
-    "not_before": "2025-02-09T00:00:00",
-    "not_after": "2026-02-11T23:59:59",
-    "serial_number": "02b827a7d40c9cf0c24ce8c3159d836e",
-    "result_count": 14
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "sf.cms.gov",
+    "name_value": "sf.cms.gov",
+    "id": 16588514807,
+    "entry_timestamp": "2025-02-07T13:55:21.003",
+    "not_before": "2025-02-07T00:00:00",
+    "not_after": "2026-03-10T23:59:59",
+    "serial_number": "09518db08703540ddf9ce9d2ea4998ad",
+    "result_count": 2
   },
   {
     "issuer_ca_id": 62123,
@@ -20614,30 +22978,6 @@
     "not_after": "2026-03-08T23:59:59",
     "serial_number": "0eeeb0f39706ca1c93c993f6bd5fa718",
     "result_count": 4
-  },
-  {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "www2.cms.gov",
-    "name_value": "api.developer.cms.gov\naps.portal-beta.cms.gov\nar.ocean.cms.gov\nbi.cms.gov\nconfluence.cms.gov\nedit.openpaymentsdata.cms.gov\nedit.pfs.data.cms.gov\nelmo.portal-beta.cms.gov\nfruita.momot.cms.gov\nfruitb.momot.cms.gov\ngithub.cms.gov\ngithub.test.cms.gov\nhipchat.cms.gov\njira.cms.gov\njira.prodnr.cms.gov\nload.openpaymentsdata.cms.gov\nocean.cms.gov\npecosai.portal-beta.cms.gov\npfs.data.cms.gov\npm-analytics.insuranceoversight.cms.gov\npm.insuranceoversight.cms.gov\nprod2-edit.openpaymentsdata.cms.gov\nprod2.openpaymentsdata.cms.gov\nqic.cms.gov\nqic-edit.cms.gov\nsavi.ocean.cms.gov\nscclia.cms.gov\nsei.cms.gov\ntableau.bi.cms.gov\nwww2.cms.gov",
-    "id": 16555335498,
-    "entry_timestamp": "2025-02-05T21:57:16.796",
-    "not_before": "2025-02-05T00:00:00",
-    "not_after": "2026-02-04T23:59:59",
-    "serial_number": "0821bec2f628e4617737e33ba00669e4",
-    "result_count": 31
-  },
-  {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "www2.cms.gov",
-    "name_value": "api.developer.cms.gov\naps.portal-beta.cms.gov\nar.ocean.cms.gov\nbi.cms.gov\nconfluence.cms.gov\nedit.openpaymentsdata.cms.gov\nedit.pfs.data.cms.gov\nelmo.portal-beta.cms.gov\nfruita.momot.cms.gov\nfruitb.momot.cms.gov\ngithub.cms.gov\ngithub.test.cms.gov\nhipchat.cms.gov\njira.cms.gov\njira.prodnr.cms.gov\nload.openpaymentsdata.cms.gov\nocean.cms.gov\npecosai.portal-beta.cms.gov\npfs.data.cms.gov\npm-analytics.insuranceoversight.cms.gov\npm.insuranceoversight.cms.gov\nprod2-edit.openpaymentsdata.cms.gov\nprod2.openpaymentsdata.cms.gov\nqic.cms.gov\nqic-edit.cms.gov\nsavi.ocean.cms.gov\nscclia.cms.gov\nsei.cms.gov\ntableau.bi.cms.gov\nwww2.cms.gov",
-    "id": 16555316403,
-    "entry_timestamp": "2025-02-05T21:56:34.776",
-    "not_before": "2025-02-05T00:00:00",
-    "not_after": "2026-02-04T23:59:59",
-    "serial_number": "0c130e176c4fcd76ae753e009a77946f",
-    "result_count": 31
   },
   {
     "issuer_ca_id": 153248,
@@ -20760,30 +23100,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "www2.cms.gov",
-    "name_value": "api.developer.cms.gov\naps.portal-beta.cms.gov\nar.ocean.cms.gov\nbi.cms.gov\ncloud.cms.gov\nconfluence.cms.gov\ncrowd.cms.gov\ndatahub.cms.gov\nedit.openpaymentsdata.cms.gov\nedit.pfs.data.cms.gov\nelmo.portal-beta.cms.gov\nfruita.momot.cms.gov\nfruitb.momot.cms.gov\ngithub.cms.gov\ngithub.test.cms.gov\nhipchat.cms.gov\niserv.nginx.backends.cms.gov\njira.cms.gov\njira.prodnr.cms.gov\nload.openpaymentsdata.cms.gov\nngd-bb.cms.gov\nocean.cms.gov\npecosai.portal-beta.cms.gov\npfs.data.cms.gov\npm-analytics.insuranceoversight.cms.gov\npm.insuranceoversight.cms.gov\nprod2-edit.openpaymentsdata.cms.gov\nprod2.openpaymentsdata.cms.gov\nqic.cms.gov\nqic-edit.cms.gov\nsavi.ocean.cms.gov\nscclia.cms.gov\nsei.cms.gov\ntableau.bi.cms.gov\nwww2.cms.gov",
-    "id": 16494851461,
-    "entry_timestamp": "2025-02-04T00:09:11.033",
-    "not_before": "2025-02-04T00:00:00",
-    "not_after": "2026-02-04T23:59:59",
-    "serial_number": "0f237c8ecded664914361688878d940c",
-    "result_count": 36
-  },
-  {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "www2.cms.gov",
-    "name_value": "api.developer.cms.gov\naps.portal-beta.cms.gov\nar.ocean.cms.gov\nbi.cms.gov\ncloud.cms.gov\nconfluence.cms.gov\ncrowd.cms.gov\ndatahub.cms.gov\nedit.openpaymentsdata.cms.gov\nedit.pfs.data.cms.gov\nelmo.portal-beta.cms.gov\nfruita.momot.cms.gov\nfruitb.momot.cms.gov\ngithub.cms.gov\ngithub.test.cms.gov\nhipchat.cms.gov\niserv.nginx.backends.cms.gov\njira.cms.gov\njira.prodnr.cms.gov\nload.openpaymentsdata.cms.gov\nngd-bb.cms.gov\nocean.cms.gov\npecosai.portal-beta.cms.gov\npfs.data.cms.gov\npm-analytics.insuranceoversight.cms.gov\npm.insuranceoversight.cms.gov\nprod2-edit.openpaymentsdata.cms.gov\nprod2.openpaymentsdata.cms.gov\nqic.cms.gov\nqic-edit.cms.gov\nsavi.ocean.cms.gov\nscclia.cms.gov\nsei.cms.gov\ntableau.bi.cms.gov\nwww2.cms.gov",
-    "id": 16494764940,
-    "entry_timestamp": "2025-02-04T00:05:40.7",
-    "not_before": "2025-02-04T00:00:00",
-    "not_after": "2026-02-04T23:59:59",
-    "serial_number": "081ff6cbc62ee045c981819fa07083ea",
-    "result_count": 36
-  },
-  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "emeasuretool.cms.gov",
@@ -20853,6 +23169,18 @@
     "not_before": "2025-02-03T00:00:00",
     "not_after": "2026-02-12T23:59:59",
     "serial_number": "06fa518c1242f6b35e6fedae3f913a38",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "radtest.cms.gov",
+    "name_value": "radtest.cms.gov",
+    "id": 16486264224,
+    "entry_timestamp": "2025-02-03T13:12:32.009",
+    "not_before": "2025-02-03T00:00:00",
+    "not_after": "2026-02-19T23:59:59",
+    "serial_number": "052bff14f8bf66efa9d3a8653526e163",
     "result_count": 2
   },
   {
@@ -21060,6 +23388,30 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "visorval.cms.gov",
+    "name_value": "visorval.cms.gov",
+    "id": 16447751262,
+    "entry_timestamp": "2025-01-29T17:18:34.575",
+    "not_before": "2025-01-29T00:00:00",
+    "not_after": "2026-02-26T23:59:59",
+    "serial_number": "09687f8cc742dc6c0654d15c1b8ad1ed",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "localcoverage.cms.gov",
+    "name_value": "localcoverage.cms.gov",
+    "id": 16447737756,
+    "entry_timestamp": "2025-01-29T17:18:09.781",
+    "not_before": "2025-01-29T00:00:00",
+    "not_after": "2026-02-10T23:59:59",
+    "serial_number": "0d8711e051ff86ca9a4c3c7ea51e8449",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "qnettestrail.cms.gov",
@@ -21142,6 +23494,18 @@
     "not_after": "2026-02-27T23:59:59",
     "serial_number": "05cf905c19bafcaf3c2b51c51e3a23ed",
     "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "calm.cms.gov",
+    "name_value": "calm.cms.gov\ncalm-dev.cms.gov\ncalm-test.cms.gov\ncalm-training.cms.gov\ncalm-uat.cms.gov",
+    "id": 16419034043,
+    "entry_timestamp": "2025-01-27T20:34:47.275",
+    "not_before": "2025-01-27T00:00:00",
+    "not_after": "2026-02-27T23:59:59",
+    "serial_number": "0ebcc93797272e68ae3ad0e07fe4f747",
+    "result_count": 6
   },
   {
     "issuer_ca_id": 247115,
@@ -22224,6 +24588,18 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "wms-mmdl-dev.cms.gov",
+    "name_value": "wms-mmdl-dev.cms.gov",
+    "id": 16289291018,
+    "entry_timestamp": "2025-01-17T19:34:49.412",
+    "not_before": "2025-01-17T00:00:00",
+    "not_after": "2026-01-16T23:59:59",
+    "serial_number": "0bd4de8c16ef179d9a5d06d15d4bf393",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247115,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
     "common_name": "test.apim2proxy-ami.backends.cms.gov",
@@ -22294,6 +24670,18 @@
     "not_after": "2026-02-15T23:59:59",
     "serial_number": "055bc010e3a1cf1342506ef34ee8cfc4",
     "result_count": 4
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "itsi.cloud.cms.gov",
+    "name_value": "draas-itsi.cloud.cms.gov\nitsi.cloud.cms.gov",
+    "id": 16284637207,
+    "entry_timestamp": "2025-01-17T13:04:09.606",
+    "not_before": "2025-01-17T00:00:00",
+    "not_after": "2026-02-17T23:59:59",
+    "serial_number": "037311767767e58785397e66ff134e4b",
+    "result_count": 3
   },
   {
     "issuer_ca_id": 247115,
@@ -22428,6 +24816,18 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "appspace.cms.gov",
+    "name_value": "appspace.cms.gov",
+    "id": 16225967665,
+    "entry_timestamp": "2025-01-14T18:46:25.104",
+    "not_before": "2025-01-14T00:00:00",
+    "not_after": "2026-01-13T23:59:59",
+    "serial_number": "02e5c75783d7d2910ce574d9c307b36e",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247106,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
     "common_name": "argocd.impl.echimp.internal.cms.gov",
@@ -22509,18 +24909,6 @@
     "not_before": "2025-01-13T00:00:00",
     "not_after": "2026-01-19T23:59:59",
     "serial_number": "054b1329b38d7b8df626acb0d496a89a",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "hub.cms.gov",
-    "name_value": "hub.cms.gov",
-    "id": 16207267657,
-    "entry_timestamp": "2025-01-13T22:37:59.995",
-    "not_before": "2025-01-13T00:00:00",
-    "not_after": "2026-01-19T23:59:59",
-    "serial_number": "0c328dce40f7697286f2833a41fdd3ba",
     "result_count": 2
   },
   {
@@ -22608,6 +24996,18 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "sftp.permerc.cms.gov",
+    "name_value": "sftp.permerc.cms.gov",
+    "id": 16136145999,
+    "entry_timestamp": "2025-01-10T14:37:53.005",
+    "not_before": "2025-01-10T00:00:00",
+    "not_after": "2026-02-05T23:59:59",
+    "serial_number": "05c12f22f7419b3a54fbed96d2e03b0d",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247106,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
     "common_name": "adp.backends.cms.gov",
@@ -22680,6 +25080,30 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "*.idm.cms.gov",
+    "name_value": "dev-api.idm.cms.gov\n*.idm.cms.gov\nimpl-api.idm.cms.gov\nprod-api.idm.cms.gov\ntest2-api.idm.cms.gov\ntest-api.idm.cms.gov",
+    "id": 16105625192,
+    "entry_timestamp": "2025-01-09T03:22:10.722",
+    "not_before": "2025-01-09T00:00:00",
+    "not_after": "2026-01-09T23:59:59",
+    "serial_number": "0659da4f8240353882bd493c520816d6",
+    "result_count": 7
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "ops-impl.cms.gov",
+    "name_value": "ops-impl.cms.gov",
+    "id": 16096687675,
+    "entry_timestamp": "2025-01-08T17:34:16.227",
+    "not_before": "2025-01-08T00:00:00",
+    "not_after": "2026-02-07T23:59:59",
+    "serial_number": "0383e8a7bdbc6e37ad830a00585d8ac0",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 62123,
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
     "common_name": "catsdev.cms.gov",
@@ -22689,6 +25113,42 @@
     "not_before": "2025-01-08T00:00:00",
     "not_after": "2026-02-04T23:59:59",
     "serial_number": "06769e6cdbed7e4101d656fa5b52fdba",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "api.swift.cms.gov",
+    "name_value": "api.swift.cms.gov",
+    "id": 16071460074,
+    "entry_timestamp": "2025-01-07T14:50:43.728",
+    "not_before": "2025-01-07T00:00:00",
+    "not_after": "2026-01-13T23:59:59",
+    "serial_number": "0530a6f63afd263dce9ecba74b294f8c",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "splunk.cloud.cms.gov",
+    "name_value": "splunk.cloud.cms.gov",
+    "id": 16071293229,
+    "entry_timestamp": "2025-01-07T14:41:34.8",
+    "not_before": "2025-01-07T00:00:00",
+    "not_after": "2026-02-07T23:59:59",
+    "serial_number": "0370019a3151f9cefba05ab6f588c936",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "ops-impl.cms.gov",
+    "name_value": "ops-impl.cms.gov",
+    "id": 16071293220,
+    "entry_timestamp": "2025-01-07T14:41:15.152",
+    "not_before": "2025-01-07T00:00:00",
+    "not_after": "2026-02-07T23:59:59",
+    "serial_number": "09e08d652d5132913148a0f0e40ca4e1",
     "result_count": 2
   },
   {
@@ -23037,6 +25497,18 @@
     "not_before": "2024-12-28T00:00:00",
     "not_after": "2026-01-28T23:59:59",
     "serial_number": "06307efeafa32654a919879cc3d38537",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "adobe-ep.cms.gov",
+    "name_value": "adobe-ep.cms.gov",
+    "id": 15918345244,
+    "entry_timestamp": "2024-12-28T16:38:20.012",
+    "not_before": "2024-12-28T00:00:00",
+    "not_after": "2026-01-28T23:59:59",
+    "serial_number": "0513ca19cf4c0e56bef3978ab45152c4",
     "result_count": 2
   },
   {
@@ -23400,6 +25872,30 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "eoc-ecbt.cms.gov",
+    "name_value": "eoc-ecbt.cms.gov",
+    "id": 15831119108,
+    "entry_timestamp": "2024-12-20T15:08:15.335",
+    "not_before": "2024-12-20T00:00:00",
+    "not_after": "2025-12-19T23:59:59",
+    "serial_number": "0fec512221178073ae86656d38e32253",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "dev.ztmf.cms.gov",
+    "name_value": "dev.ztmf.cms.gov\nztmf.cms.gov",
+    "id": 15822111791,
+    "entry_timestamp": "2024-12-19T18:14:14.46",
+    "not_before": "2024-12-19T00:00:00",
+    "not_after": "2026-01-19T23:59:59",
+    "serial_number": "04eabe4197a5dad46b1d89c7e8443996",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 247106,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
     "common_name": "videos.regtap.cms.gov",
@@ -23436,6 +25932,18 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "agx.cms.gov",
+    "name_value": "agx.cms.gov",
+    "id": 15820538375,
+    "entry_timestamp": "2024-12-19T14:37:11.608",
+    "not_before": "2024-12-19T00:00:00",
+    "not_after": "2026-01-19T23:59:59",
+    "serial_number": "0f11dfcb7f8ca8ee095bba65595dcf18",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247115,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
     "common_name": "prod-api.mct.backends.cms.gov",
@@ -23458,6 +25966,42 @@
     "not_after": "2026-01-17T23:59:59",
     "serial_number": "0aeede52c4a47b21bef851e20c5f0611",
     "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "*.portaldev.cms.gov",
+    "name_value": "*.portaldev.cms.gov\nportaldev.cms.gov",
+    "id": 15814333560,
+    "entry_timestamp": "2024-12-18T23:29:24.652",
+    "not_before": "2024-12-18T00:00:00",
+    "not_after": "2026-01-18T23:59:59",
+    "serial_number": "06c23e17f8d72337187f2e03c7db6764",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "*.portalval.cms.gov",
+    "name_value": "*.portalval.cms.gov\nportalval.cms.gov",
+    "id": 15814333536,
+    "entry_timestamp": "2024-12-18T23:29:03.679",
+    "not_before": "2024-12-18T00:00:00",
+    "not_after": "2026-01-18T23:59:59",
+    "serial_number": "0725254444db12abd2056657aba46c49",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "*.portal.cms.gov",
+    "name_value": "*.portal.cms.gov\nportal.cms.gov",
+    "id": 15814329272,
+    "entry_timestamp": "2024-12-18T23:28:27.582",
+    "not_before": "2024-12-18T00:00:00",
+    "not_after": "2026-01-18T23:59:59",
+    "serial_number": "0a557886a28955a34825106aab584467",
+    "result_count": 3
   },
   {
     "issuer_ca_id": 247106,
@@ -23628,6 +26172,30 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "ar.ocean.cms.gov",
+    "name_value": "ar.ocean.cms.gov",
+    "id": 15727441239,
+    "entry_timestamp": "2024-12-12T15:23:18.627",
+    "not_before": "2024-12-12T00:00:00",
+    "not_after": "2026-01-12T23:59:59",
+    "serial_number": "0adff4f6621384f5bb8c309d103b5d36",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "remotehelp.cms.gov",
+    "name_value": "remotehelp.cms.gov",
+    "id": 15727441229,
+    "entry_timestamp": "2024-12-12T15:22:44.885",
+    "not_before": "2024-12-12T00:00:00",
+    "not_after": "2026-01-12T23:59:59",
+    "serial_number": "0a0d1aac855ce9833507cd07d5342285",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247115,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
     "common_name": "security.cms.gov",
@@ -23664,18 +26232,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "mime.hetsp-haa.cms.gov",
-    "name_value": "mime.hetsp-haa.cms.gov",
-    "id": 15717569522,
-    "entry_timestamp": "2024-12-11T21:42:50.695",
-    "not_before": "2024-12-11T00:00:00",
-    "not_after": "2025-12-10T23:59:59",
-    "serial_number": "055d3d15589caf45e24121b288c7af03",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 247106,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
     "common_name": "*.nonprod-idrta.internal.cms.gov",
@@ -23686,6 +26242,18 @@
     "not_after": "2026-01-10T23:59:59",
     "serial_number": "02e3bd7f12c6efd0058868fe9bfc11f5",
     "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "hics.cms.gov",
+    "name_value": "hics.cms.gov\nwww.hics.cms.gov",
+    "id": 15698572181,
+    "entry_timestamp": "2024-12-10T15:53:31.159",
+    "not_before": "2024-12-10T00:00:00",
+    "not_after": "2025-12-16T23:59:59",
+    "serial_number": "028b155546ff414ca6597f9f3091c312",
+    "result_count": 3
   },
   {
     "issuer_ca_id": 247106,
@@ -23709,6 +26277,18 @@
     "not_before": "2024-12-07T00:00:00",
     "not_after": "2026-01-04T23:59:59",
     "serial_number": "02d5d22a07e7e892212fda741974b23c",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "qppar.cms.gov",
+    "name_value": "qppar.cms.gov",
+    "id": 15639322365,
+    "entry_timestamp": "2024-12-06T15:58:33.314",
+    "not_before": "2024-12-06T00:00:00",
+    "not_after": "2025-12-19T23:59:59",
+    "serial_number": "04995f6eb50290b5cb00cf7e3c9cf339",
     "result_count": 2
   },
   {
@@ -23781,6 +26361,18 @@
     "not_before": "2024-12-04T15:48:04",
     "not_after": "2026-01-03T15:47:04",
     "serial_number": "400193925b69c7419b11f98c214a2214",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "prodi.mlms.cms.gov",
+    "name_value": "prodi.mlms.cms.gov",
+    "id": 15611157354,
+    "entry_timestamp": "2024-12-04T14:25:59.447",
+    "not_before": "2024-12-04T00:00:00",
+    "not_after": "2026-01-04T23:59:59",
+    "serial_number": "0d409a5c178c3429e296ab631cb6af39",
     "result_count": 2
   },
   {
@@ -24574,41 +27166,5 @@
     "not_after": "2025-12-12T18:45:46",
     "serial_number": "40019321b319f4061c5d7567fb26d640",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "test.pdf-generator.backends.cms.gov",
-    "name_value": "test.pdf-generator.backends.cms.gov",
-    "id": 15304714841,
-    "entry_timestamp": "2024-11-11T07:43:31.025",
-    "not_before": "2024-11-11T00:00:00",
-    "not_after": "2025-12-10T23:59:59",
-    "serial_number": "03f7232b33e30a7fca0d191c287308b3",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "dev.grafana-gf.ci.backends.cms.gov",
-    "name_value": "dev.grafana-gf.ci.backends.cms.gov",
-    "id": 15288576861,
-    "entry_timestamp": "2024-11-10T05:04:28.875",
-    "not_before": "2024-11-10T00:00:00",
-    "not_after": "2025-12-10T23:59:59",
-    "serial_number": "08bfbd5fba68faab2ceb7c9c681bef95",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "batcave-ispg-nonprod.internal.cms.gov",
-    "name_value": "*.batcave-ispg-nonprod.internal.cms.gov\nbatcave-ispg-nonprod.internal.cms.gov",
-    "id": 15287592662,
-    "entry_timestamp": "2024-11-10T03:22:26.511",
-    "not_before": "2024-11-10T00:00:00",
-    "not_after": "2025-12-10T23:59:59",
-    "serial_number": "0cff9e7a62f945ea273d4f3c81a10392",
-    "result_count": 3
   }
 ]
