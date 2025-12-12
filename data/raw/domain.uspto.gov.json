@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "logs.cf-test.etc.uspto.gov",
+    "name_value": "*.logs.cf-test.etc.uspto.gov\nlogs.cf-test.etc.uspto.gov",
+    "id": 23041407434,
+    "entry_timestamp": "2025-12-10T21:52:58.717",
+    "not_before": "2025-12-10T20:52:58",
+    "not_after": "2026-03-10T21:52:53",
+    "serial_number": "6b3b6fd79a973bb4139e867033fc9147",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "logs.cf-test.etc.uspto.gov",
+    "name_value": "*.logs.cf-test.etc.uspto.gov\nlogs.cf-test.etc.uspto.gov",
+    "id": 23041406067,
+    "entry_timestamp": "2025-12-10T21:52:48.217",
+    "not_before": "2025-12-10T20:52:47",
+    "not_after": "2026-03-10T21:49:01",
+    "serial_number": "3f1f1c446b48470e0e96a7ffc048b954",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 204411,
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
     "common_name": "adp-dev-shared-lb.uspto.gov",
@@ -2424,18 +2448,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "etc.uspto.gov",
-    "name_value": "etc.uspto.gov",
-    "id": 21060684214,
-    "entry_timestamp": "2025-09-16T16:00:56.371",
-    "not_before": "2025-09-16T15:00:56",
-    "not_after": "2025-12-11T22:22:10",
-    "serial_number": "15998532e1cb92ec131b91c3902130da",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 204411,
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
     "common_name": "vpnportal2-dev-alx.etc.uspto.gov",
@@ -2986,18 +2998,6 @@
     "not_after": "2026-01-18T05:00:00",
     "serial_number": "6a083e6361a359501da509f861ee0660",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "dev-tda.etc.uspto.gov",
-    "name_value": "dev1-tda-api.etc.uspto.gov\ndev1-tda.etc.uspto.gov\ndev-tda-api.etc.uspto.gov\ndev-tda.etc.uspto.gov",
-    "id": 20890496502,
-    "entry_timestamp": "2025-09-09T05:40:53.966",
-    "not_before": "2024-12-12T16:29:24",
-    "not_after": "2025-12-12T05:00:00",
-    "serial_number": "685771ad669c24bbbf22e6bd85c109e6",
-    "result_count": 5
   },
   {
     "issuer_ca_id": 204411,
@@ -5602,42 +5602,6 @@
     "not_after": "2026-01-17T05:00:00",
     "serial_number": "3104e79454fb165eefe75e32de40daf0",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "dev-ext-tda.etc.uspto.gov",
-    "name_value": "dev-ext-tda.etc.uspto.gov",
-    "id": 15728221489,
-    "entry_timestamp": "2024-12-12T16:45:02.942",
-    "not_before": "2024-12-12T16:35:01",
-    "not_after": "2025-12-12T05:00:00",
-    "serial_number": "58decceee778683338cf3631b464d1d3",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "dev-ext-tda.etc.uspto.gov",
-    "name_value": "dev1-ext-app.tda.etc.uspto.gov\ndev1-ext-tda.etc.uspto.gov\ndev-ext-app.tda.etc.uspto.gov\ndev-ext-tda.etc.uspto.gov",
-    "id": 15728202926,
-    "entry_timestamp": "2024-12-12T16:43:11.254",
-    "not_before": "2024-12-12T16:33:09",
-    "not_after": "2025-12-12T05:00:00",
-    "serial_number": "3a9e6922ec2d602164443be287a0f5de",
-    "result_count": 5
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "dev-tda.etc.uspto.gov",
-    "name_value": "dev1-tda-api.etc.uspto.gov\ndev1-tda.etc.uspto.gov\ndev-tda-api.etc.uspto.gov\ndev-tda.etc.uspto.gov",
-    "id": 15728165570,
-    "entry_timestamp": "2024-12-12T16:39:25.53",
-    "not_before": "2024-12-12T16:29:24",
-    "not_after": "2025-12-12T05:00:00",
-    "serial_number": "685771ad669c24bbbf22e6bd85c109e6",
-    "result_count": 5
   },
   {
     "issuer_ca_id": 365075,
