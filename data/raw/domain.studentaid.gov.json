@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 217001,
+    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=DigiCert Verified Mark RSA4096 SHA256 2021 CA1",
+    "common_name": "Department of Education",
+    "name_value": "studentaid.gov\ntest.studentaid.gov",
+    "id": 23096924075,
+    "entry_timestamp": "2025-12-13T04:04:24.004",
+    "not_before": "2025-12-08T00:00:00",
+    "not_after": "2027-01-05T23:59:59",
+    "serial_number": "0c34c8ff23710f03ba9d88baecceb204",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286244,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR3",
+    "common_name": "data.nelnet.studentaid.gov",
+    "name_value": "data.nelnet.studentaid.gov",
+    "id": 23083013752,
+    "entry_timestamp": "2025-12-12T23:18:32.322",
+    "not_before": "2025-12-03T07:11:31",
+    "not_after": "2026-03-03T08:07:26",
+    "serial_number": "0780e69c6c39b4ec0a978b3781066abf",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 295817,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "*.nsldsops.ed.gov",
@@ -1000,18 +1024,6 @@
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
     "common_name": "fafsa.gov",
     "name_value": "apig-pft-api-dcc.studentaid.gov\napig-pft-system-dcc.studentaid.gov\napig-test-api-dcc.studentaid.gov\napig-test-system-dcc.studentaid.gov\ndocs.ops.studentaid.gov\ndocs.test.studentaid.gov\nexternal-api.studentaid.gov\nlogs.studentaid.gov\nmirror.mail.studentaid.gov\nmirror-mail-tce101.studentaid.gov\nmirror-mail-tce102.studentaid.gov\nmirror-mc-tce101.studentaid.gov\nmirror-mc-tce102.studentaid.gov\nnotify.mail.studentaid.gov\nnotify-mail-tce101.studentaid.gov\nnotify-mail-tce102.studentaid.gov\nnotify-mc-tce101.studentaid.gov\nnotify-mc-tce102.studentaid.gov\nportal.ops.studentaid.gov\nportal.test.studentaid.gov\nres.mail.studentaid.gov\nres-mail-tce101.studentaid.gov\nres-mail-tce102.studentaid.gov\nres-mc-tce101.studentaid.gov\nres-mc-tce102.studentaid.gov\nrtmirror.mail.studentaid.gov\nrtnotify.mail.studentaid.gov\nrtres.mail.studentaid.gov\nrttrack.mail.studentaid.gov\nservice-api.studentaid.gov\nstudentaid.gov\ntrack.mail.studentaid.gov\ntrack-mail-tce101.studentaid.gov\ntrack-mail-tce102.studentaid.gov\ntrack-mc-tce101.studentaid.gov\ntrack-mc-tce102.studentaid.gov\ntrack.ops.studentaid.gov\ntrack.test.studentaid.gov\ntraining.ops.studentaid.gov\ntraining-test.ops.studentaid.gov\nuser-api.studentaid.gov\nwww.studentaid.gov",
-    "id": 21740628138,
-    "entry_timestamp": "2025-10-15T16:10:37.809",
-    "not_before": "2025-08-26T00:00:00",
-    "not_after": "2025-12-13T23:59:59",
-    "serial_number": "0c6d2fbd9aea7f99a1c3ab92903521a6",
-    "result_count": 42
-  },
-  {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "fafsa.gov",
-    "name_value": "apig-pft-api-dcc.studentaid.gov\napig-pft-system-dcc.studentaid.gov\napig-test-api-dcc.studentaid.gov\napig-test-system-dcc.studentaid.gov\ndocs.ops.studentaid.gov\ndocs.test.studentaid.gov\nexternal-api.studentaid.gov\nlogs.studentaid.gov\nmirror.mail.studentaid.gov\nmirror-mail-tce101.studentaid.gov\nmirror-mail-tce102.studentaid.gov\nmirror-mc-tce101.studentaid.gov\nmirror-mc-tce102.studentaid.gov\nnotify.mail.studentaid.gov\nnotify-mail-tce101.studentaid.gov\nnotify-mail-tce102.studentaid.gov\nnotify-mc-tce101.studentaid.gov\nnotify-mc-tce102.studentaid.gov\nportal.ops.studentaid.gov\nportal.test.studentaid.gov\nres.mail.studentaid.gov\nres-mail-tce101.studentaid.gov\nres-mail-tce102.studentaid.gov\nres-mc-tce101.studentaid.gov\nres-mc-tce102.studentaid.gov\nrtmirror.mail.studentaid.gov\nrtnotify.mail.studentaid.gov\nrtres.mail.studentaid.gov\nrttrack.mail.studentaid.gov\nservice-api.studentaid.gov\nstudentaid.gov\ntrack.mail.studentaid.gov\ntrack-mail-tce101.studentaid.gov\ntrack-mail-tce102.studentaid.gov\ntrack-mc-tce101.studentaid.gov\ntrack-mc-tce102.studentaid.gov\ntrack.ops.studentaid.gov\ntrack.test.studentaid.gov\ntraining.ops.studentaid.gov\ntraining-test.ops.studentaid.gov\nuser-api.studentaid.gov\nwww.studentaid.gov",
     "id": 21740606668,
     "entry_timestamp": "2025-10-15T16:10:25.707",
     "not_before": "2025-10-15T00:00:00",
@@ -1390,18 +1402,6 @@
     "not_after": "2026-09-15T23:59:59",
     "serial_number": "07d881fb3c4ad9caffec75595223beba",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "fafsa.gov",
-    "name_value": "apig-pft-api-dcc.studentaid.gov\napig-pft-system-dcc.studentaid.gov\napig-test-api-dcc.studentaid.gov\napig-test-system-dcc.studentaid.gov\ndocs.ops.studentaid.gov\ndocs.test.studentaid.gov\nexternal-api.studentaid.gov\nlogs.studentaid.gov\nmirror.mail.studentaid.gov\nmirror-mail-tce101.studentaid.gov\nmirror-mail-tce102.studentaid.gov\nmirror-mc-tce101.studentaid.gov\nmirror-mc-tce102.studentaid.gov\nnotify.mail.studentaid.gov\nnotify-mail-tce101.studentaid.gov\nnotify-mail-tce102.studentaid.gov\nnotify-mc-tce101.studentaid.gov\nnotify-mc-tce102.studentaid.gov\nportal.ops.studentaid.gov\nportal.test.studentaid.gov\nres.mail.studentaid.gov\nres-mail-tce101.studentaid.gov\nres-mail-tce102.studentaid.gov\nres-mc-tce101.studentaid.gov\nres-mc-tce102.studentaid.gov\nrtmirror.mail.studentaid.gov\nrtnotify.mail.studentaid.gov\nrtres.mail.studentaid.gov\nrttrack.mail.studentaid.gov\nservice-api.studentaid.gov\nstudentaid.gov\ntrack.mail.studentaid.gov\ntrack-mail-tce101.studentaid.gov\ntrack-mail-tce102.studentaid.gov\ntrack-mc-tce101.studentaid.gov\ntrack-mc-tce102.studentaid.gov\ntrack.ops.studentaid.gov\ntrack.test.studentaid.gov\ntraining.ops.studentaid.gov\ntraining-test.ops.studentaid.gov\nuser-api.studentaid.gov\nwww.studentaid.gov",
-    "id": 20593627714,
-    "entry_timestamp": "2025-08-26T19:46:06.186",
-    "not_before": "2025-08-26T00:00:00",
-    "not_after": "2025-12-13T23:59:59",
-    "serial_number": "0c6d2fbd9aea7f99a1c3ab92903521a6",
-    "result_count": 42
   },
   {
     "issuer_ca_id": 185752,

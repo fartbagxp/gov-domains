@@ -1,5 +1,77 @@
 [
   {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "help.acf.gov",
+    "name_value": "help.acf.gov",
+    "id": 23102878581,
+    "entry_timestamp": "2025-12-14T00:47:28.271",
+    "not_before": "2025-12-13T23:48:55",
+    "not_after": "2026-03-13T23:48:54",
+    "serial_number": "06828379753b22538c07595b7605ec374e3d",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "help.acf.gov",
+    "name_value": "help.acf.gov",
+    "id": 23102863308,
+    "entry_timestamp": "2025-12-14T00:47:25.604",
+    "not_before": "2025-12-13T23:48:55",
+    "not_after": "2026-03-13T23:48:54",
+    "serial_number": "06828379753b22538c07595b7605ec374e3d",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "go.acf.gov",
+    "name_value": "go.acf.gov",
+    "id": 23100657125,
+    "entry_timestamp": "2025-12-13T21:50:24.066",
+    "not_before": "2025-12-13T20:51:51",
+    "not_after": "2026-03-13T20:51:50",
+    "serial_number": "0541dce2f0f8bbb3e0b74955ba95234ab7e1",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "go.acf.gov",
+    "name_value": "go.acf.gov",
+    "id": 23100643099,
+    "entry_timestamp": "2025-12-13T21:50:21.971",
+    "not_before": "2025-12-13T20:51:51",
+    "not_after": "2026-03-13T20:51:50",
+    "serial_number": "0541dce2f0f8bbb3e0b74955ba95234ab7e1",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 385516,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust DV TLS Issuing RSA CA 2",
+    "common_name": "upstream.acf.gov",
+    "name_value": "upstream.acf.gov",
+    "id": 23080801040,
+    "entry_timestamp": "2025-12-12T20:24:07.46",
+    "not_before": "2025-12-12T00:00:00",
+    "not_after": "2026-12-13T23:59:59",
+    "serial_number": "3d068a0044639f640f2c3fcb32f73ffa",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 385516,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust DV TLS Issuing RSA CA 2",
+    "common_name": "upstream.acf.gov",
+    "name_value": "upstream.acf.gov",
+    "id": 23080787056,
+    "entry_timestamp": "2025-12-12T20:24:06.304",
+    "not_before": "2025-12-12T00:00:00",
+    "not_after": "2026-12-13T23:59:59",
+    "serial_number": "3d068a0044639f640f2c3fcb32f73ffa",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 385516,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust DV TLS Issuing RSA CA 2",
     "common_name": "upstream.acf.gov",
@@ -1536,18 +1608,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 247119,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
-    "common_name": "www.nct.acf.gov",
-    "name_value": "www.nct.acf.gov",
-    "id": 19291871501,
-    "entry_timestamp": "2025-06-27T17:51:04.965",
-    "not_before": "2025-06-27T00:00:00",
-    "not_after": "2026-07-26T23:59:59",
-    "serial_number": "057aebe42a0a0ba98e124c29f1f74344",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 247106,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
     "common_name": "nct.acf.gov",
@@ -1557,6 +1617,18 @@
     "not_before": "2025-06-27T00:00:00",
     "not_after": "2026-07-26T23:59:59",
     "serial_number": "0a0c817bd159167eeff64ff1ebebb6cb",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "www.nct.acf.gov",
+    "name_value": "www.nct.acf.gov",
+    "id": 19291871501,
+    "entry_timestamp": "2025-06-27T17:51:04.965",
+    "not_before": "2025-06-27T00:00:00",
+    "not_after": "2026-07-26T23:59:59",
+    "serial_number": "057aebe42a0a0ba98e124c29f1f74344",
     "result_count": 2
   },
   {
@@ -4869,54 +4941,6 @@
     "not_before": "2024-11-18T00:00:00",
     "not_after": "2025-12-17T23:59:59",
     "serial_number": "025686819a9d25975c9f63a28fba44ae",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "acf-main-dev.acf.gov",
-    "name_value": "acf-main-dev.acf.gov",
-    "id": 15353631185,
-    "entry_timestamp": "2024-11-14T18:05:09.537",
-    "not_before": "2024-11-14T00:00:00",
-    "not_after": "2025-12-13T23:59:59",
-    "serial_number": "0249b94132eec31181f9743a295e2321",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "acf-main-dev.acf.gov",
-    "name_value": "acf-main-dev.acf.gov",
-    "id": 15353519003,
-    "entry_timestamp": "2024-11-14T17:51:09.625",
-    "not_before": "2024-11-14T00:00:00",
-    "not_after": "2025-12-13T23:59:59",
-    "serial_number": "0ae6b87f1333333f8b66f15916df76a0",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "acf-main-dev.acf.gov",
-    "name_value": "acf-main-dev.acf.gov",
-    "id": 15352576799,
-    "entry_timestamp": "2024-11-14T16:19:16.492",
-    "not_before": "2024-11-14T00:00:00",
-    "not_after": "2025-12-13T23:59:59",
-    "serial_number": "0b7d589ac70be3a2afb2109c121a8b15",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "acf-main-dev.acf.gov",
-    "name_value": "acf-main-dev.acf.gov",
-    "id": 15352422486,
-    "entry_timestamp": "2024-11-14T16:05:41.399",
-    "not_before": "2024-11-14T00:00:00",
-    "not_after": "2025-12-13T23:59:59",
-    "serial_number": "02b582332069380f607579c9a802f1a7",
     "result_count": 2
   }
 ]
