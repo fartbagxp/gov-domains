@@ -1,5 +1,65 @@
 [
   {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "hrsa.gov",
+    "name_value": "*.hrsa.gov\nhrsa.gov",
+    "id": 23142578763,
+    "entry_timestamp": "2025-12-15T22:49:51.949",
+    "not_before": "2025-12-15T21:49:51",
+    "not_after": "2026-03-15T22:49:39",
+    "serial_number": "06eacd77c592c7a011d5bf024d1ac510",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "hrsa.gov",
+    "name_value": "*.hrsa.gov\nhrsa.gov",
+    "id": 23142560244,
+    "entry_timestamp": "2025-12-15T22:49:33.96",
+    "not_before": "2025-12-15T21:49:33",
+    "not_after": "2026-03-15T22:48:08",
+    "serial_number": "00fabe5b9ab820414e0d86245e1b1baccf",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "secureapp1.hrsa.gov",
+    "name_value": "akamaipocagw.hrsa.gov\nakamaipocpip.hrsa.gov\nehbuat05t01.hrsa.gov\nehbuat05t02.hrsa.gov\nehbuat05t03.hrsa.gov\nmchbtvisdatauat05.hrsa.gov\nmchbtvisuat05.hrsa.gov\nsecureapp1.hrsa.gov",
+    "id": 23139820555,
+    "entry_timestamp": "2025-12-15T19:21:21.871",
+    "not_before": "2025-12-15T18:22:50",
+    "not_after": "2026-03-15T18:22:49",
+    "serial_number": "0630e21693bbf7a2b465d9690c9c130155e3",
+    "result_count": 9
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "secureapp1.hrsa.gov",
+    "name_value": "akamaipocagw.hrsa.gov\nakamaipocpip.hrsa.gov\nehbuat05t01.hrsa.gov\nehbuat05t02.hrsa.gov\nehbuat05t03.hrsa.gov\nmchbtvisdatauat05.hrsa.gov\nmchbtvisuat05.hrsa.gov\nsecureapp1.hrsa.gov",
+    "id": 23139803694,
+    "entry_timestamp": "2025-12-15T19:21:20.7",
+    "not_before": "2025-12-15T18:22:50",
+    "not_after": "2026-03-15T18:22:49",
+    "serial_number": "0630e21693bbf7a2b465d9690c9c130155e3",
+    "result_count": 9
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "brsos.hrsa.gov",
+    "name_value": "brsos.hrsa.gov",
+    "id": 23081541521,
+    "entry_timestamp": "2025-12-12T21:22:25.634",
+    "not_before": "2025-12-12T21:22:25",
+    "not_after": "2027-01-11T21:21:25",
+    "serial_number": "40019b14719063fbe55c7e2b4e0ba6d7",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 185748,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
     "common_name": "web-int.npdb.hrsa.gov",
@@ -1366,54 +1426,6 @@
     "not_after": "2026-09-14T23:59:59",
     "serial_number": "0f09d8aa56e92d1dad237ee3932b89c4",
     "result_count": 4
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "servicecenterdev.hrsa.gov",
-    "name_value": "servicecenterdev.hrsa.gov",
-    "id": 21018775855,
-    "entry_timestamp": "2025-09-14T19:59:16.467",
-    "not_before": "2025-09-14T19:00:45",
-    "not_after": "2025-12-13T19:00:44",
-    "serial_number": "05d271734286e8bf8bf8830ab40b91cf1bf4",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "servicecenterdev.hrsa.gov",
-    "name_value": "servicecenterdev.hrsa.gov",
-    "id": 21018774357,
-    "entry_timestamp": "2025-09-14T19:59:16.172",
-    "not_before": "2025-09-14T19:00:45",
-    "not_after": "2025-12-13T19:00:44",
-    "serial_number": "05d271734286e8bf8bf8830ab40b91cf1bf4",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "ryanwhiteconference.hrsa.gov",
-    "name_value": "ryanwhiteconference.hrsa.gov",
-    "id": 21012274517,
-    "entry_timestamp": "2025-09-14T12:57:25.6",
-    "not_before": "2025-09-14T11:58:55",
-    "not_after": "2025-12-13T11:58:54",
-    "serial_number": "056eed87a3f433a01874570ce2dc9f932d9a",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "ryanwhiteconference.hrsa.gov",
-    "name_value": "ryanwhiteconference.hrsa.gov",
-    "id": 21012275125,
-    "entry_timestamp": "2025-09-14T12:57:25.343",
-    "not_before": "2025-09-14T11:58:55",
-    "not_after": "2025-12-13T11:58:54",
-    "serial_number": "056eed87a3f433a01874570ce2dc9f932d9a",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 247119,

@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 62123,
+    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
+    "common_name": "edit.staging1.dhs.gov",
+    "name_value": "edit.fema.gov\nedit.staging.fema.gov\nedit.testint.fema.gov\nstaging.fema.gov\ntestint.fema.gov",
+    "id": 23136892758,
+    "entry_timestamp": "2025-12-15T16:07:49.328",
+    "not_before": "2025-12-15T00:00:00",
+    "not_after": "2026-12-16T23:59:59",
+    "serial_number": "0276c7dc1b728fbdcf7a5c92f4d616b0",
+    "result_count": 5
+  },
+  {
+    "issuer_ca_id": 62123,
+    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
+    "common_name": "edit.staging1.dhs.gov",
+    "name_value": "edit.fema.gov\nedit.staging.fema.gov\nedit.testint.fema.gov\nstaging.fema.gov\ntestint.fema.gov",
+    "id": 23135749947,
+    "entry_timestamp": "2025-12-15T14:51:36.633",
+    "not_before": "2025-12-15T00:00:00",
+    "not_after": "2026-12-16T23:59:59",
+    "serial_number": "0276c7dc1b728fbdcf7a5c92f4d616b0",
+    "result_count": 5
+  },
+  {
     "issuer_ca_id": 295809,
     "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
     "common_name": "api.stage.nfipdirect.fema.gov",
@@ -3504,18 +3528,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "*.vid.fema.gov",
-    "name_value": "*.vid.fema.gov",
-    "id": 20876161868,
-    "entry_timestamp": "2025-09-08T14:46:38.998",
-    "not_before": "2024-11-29T16:05:31",
-    "not_after": "2025-12-15T14:23:48",
-    "serial_number": "216ed8d3a08ebb3a6e8055992c57fc06",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 185748,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
     "common_name": "www3.dhs.gov",
@@ -5698,17 +5710,5 @@
     "not_after": "2025-12-16T23:59:59",
     "serial_number": "0c48bdca9d351993d5769721f299f33c",
     "result_count": 12
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "*.vid.fema.gov",
-    "name_value": "*.vid.fema.gov",
-    "id": 15549672859,
-    "entry_timestamp": "2024-11-29T16:15:32.322",
-    "not_before": "2024-11-29T16:05:31",
-    "not_after": "2025-12-15T14:23:48",
-    "serial_number": "216ed8d3a08ebb3a6e8055992c57fc06",
-    "result_count": 2
   }
 ]

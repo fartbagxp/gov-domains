@@ -1,5 +1,53 @@
 [
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "access.ice.gov",
+    "name_value": "access.ice.gov",
+    "id": 23137820229,
+    "entry_timestamp": "2025-12-15T17:02:56.229",
+    "not_before": "2025-12-15T00:00:00",
+    "not_after": "2026-12-14T23:59:59",
+    "serial_number": "0e7e6aeeabb409fe94554dd3d9272c4b",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "medpar.ice.gov",
+    "name_value": "medpar.ice.gov",
+    "id": 23137445671,
+    "entry_timestamp": "2025-12-15T16:41:27.169",
+    "not_before": "2025-12-15T00:00:00",
+    "not_after": "2026-12-15T23:59:59",
+    "serial_number": "047fc7e16335c64563feb29b6b73e0f4",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 62123,
+    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
+    "common_name": "edit.staging1.dhs.gov",
+    "name_value": "edit.ice.gov\nedit-preview.ice.gov\nedit.secretservice.gov\nedit.staging.ice.gov\nedit-staging.secretservice.gov\nedit.testint.ice.gov\nedit-testint.secretservice.gov\nstaging.ice.gov\nstaging.secretservice.gov\ntestint.ice.gov\ntestint.secretservice.gov",
+    "id": 23136892758,
+    "entry_timestamp": "2025-12-15T16:07:49.328",
+    "not_before": "2025-12-15T00:00:00",
+    "not_after": "2026-12-16T23:59:59",
+    "serial_number": "0276c7dc1b728fbdcf7a5c92f4d616b0",
+    "result_count": 11
+  },
+  {
+    "issuer_ca_id": 62123,
+    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
+    "common_name": "edit.staging1.dhs.gov",
+    "name_value": "edit.ice.gov\nedit-preview.ice.gov\nedit.secretservice.gov\nedit.staging.ice.gov\nedit-staging.secretservice.gov\nedit.testint.ice.gov\nedit-testint.secretservice.gov\nstaging.ice.gov\nstaging.secretservice.gov\ntestint.ice.gov\ntestint.secretservice.gov",
+    "id": 23135749947,
+    "entry_timestamp": "2025-12-15T14:51:36.633",
+    "not_before": "2025-12-15T00:00:00",
+    "not_after": "2026-12-16T23:59:59",
+    "serial_number": "0276c7dc1b728fbdcf7a5c92f4d616b0",
+    "result_count": 11
+  },
+  {
     "issuer_ca_id": 185748,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
     "common_name": "www.homelandsecurity.gov",
@@ -658,18 +706,6 @@
     "not_after": "2026-10-19T23:59:59",
     "serial_number": "086519918d7961a73985eec7c543e35b",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "sevis.ice.gov",
-    "name_value": "egov.ice.gov\nsevis.ice.gov\nwww.sevis.ice.gov",
-    "id": 20853106927,
-    "entry_timestamp": "2025-09-07T17:03:29.386",
-    "not_before": "2024-11-14T00:00:00",
-    "not_after": "2025-12-15T23:59:59",
-    "serial_number": "05e7c271f95928011af8e5c0f6afcf6f",
-    "result_count": 4
   },
   {
     "issuer_ca_id": 185748,
@@ -1462,17 +1498,5 @@
     "not_after": "2025-12-16T23:59:59",
     "serial_number": "0c48bdca9d351993d5769721f299f33c",
     "result_count": 5
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "sevis.ice.gov",
-    "name_value": "egov.ice.gov\nsevis.ice.gov\nwww.sevis.ice.gov",
-    "id": 15354946847,
-    "entry_timestamp": "2024-11-14T20:15:51.108",
-    "not_before": "2024-11-14T00:00:00",
-    "not_after": "2025-12-15T23:59:59",
-    "serial_number": "05e7c271f95928011af8e5c0f6afcf6f",
-    "result_count": 4
   }
 ]

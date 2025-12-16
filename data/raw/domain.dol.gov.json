@@ -2,6 +2,30 @@
   {
     "issuer_ca_id": 385512,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "support.dol.gov",
+    "name_value": "support.dol.gov",
+    "id": 23139270637,
+    "entry_timestamp": "2025-12-15T18:43:24.456",
+    "not_before": "2025-12-15T00:00:00",
+    "not_after": "2027-01-15T23:59:59",
+    "serial_number": "00a2bc25fdefd2033155a3034af294e557",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "support.dol.gov",
+    "name_value": "support.dol.gov",
+    "id": 23139271262,
+    "entry_timestamp": "2025-12-15T18:43:23.186",
+    "not_before": "2025-12-15T00:00:00",
+    "not_after": "2027-01-15T23:59:59",
+    "serial_number": "00a2bc25fdefd2033155a3034af294e557",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
     "common_name": "edp.edw.dol.gov",
     "name_value": "edp-dev.edw.dol.gov\nedp.edw.dol.gov\nedp-stage.edw.dol.gov\nedp-test.edw.dol.gov\nwww.edp.edw.dol.gov",
     "id": 23060867699,
@@ -3276,18 +3300,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "savingmatters.dol.gov",
-    "name_value": "savingmatters.dol.gov\nwww.savingmatters.dol.gov",
-    "id": 20859777701,
-    "entry_timestamp": "2025-09-07T23:41:42.402",
-    "not_before": "2024-11-19T14:06:57",
-    "not_after": "2025-12-14T05:00:00",
-    "serial_number": "4ac703b6aa0bab47655c5e2b38b49327",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 247115,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
     "common_name": "dev.api.datahub.dol.gov",
@@ -5532,78 +5544,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 239799,
-    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
-    "common_name": "staging.efile.dol.gov",
-    "name_value": "staging.efile.dol.gov",
-    "id": 19036616720,
-    "entry_timestamp": "2025-06-15T13:28:23.17",
-    "not_before": "2025-06-14T00:00:00",
-    "not_after": "2025-12-14T23:59:59",
-    "serial_number": "0ae13dd9139a78863d1ba2d54d903a41",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 239799,
-    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
-    "common_name": "dev.efile.dol.gov",
-    "name_value": "dev.efile.dol.gov",
-    "id": 19034979012,
-    "entry_timestamp": "2025-06-15T11:18:13.481",
-    "not_before": "2025-06-14T00:00:00",
-    "not_after": "2025-12-14T23:59:59",
-    "serial_number": "0ba656aaba2177aa65e3294890ee84a5",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 239799,
-    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
-    "common_name": "dev-om.efile.dol.gov",
-    "name_value": "dev-om.efile.dol.gov",
-    "id": 19034413408,
-    "entry_timestamp": "2025-06-15T10:34:38.924",
-    "not_before": "2025-06-14T00:00:00",
-    "not_after": "2025-12-14T23:59:59",
-    "serial_number": "0513e0d8e30dce1f277426f8b6a3bdcf",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 239799,
-    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
-    "common_name": "test.efile.dol.gov",
-    "name_value": "test.efile.dol.gov",
-    "id": 19034083429,
-    "entry_timestamp": "2025-06-15T10:06:20.985",
-    "not_before": "2025-06-14T00:00:00",
-    "not_after": "2025-12-14T23:59:59",
-    "serial_number": "076e2ddd4cf42443690a111e4ad09222",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 239799,
-    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
-    "common_name": "staging-om.efile.dol.gov",
-    "name_value": "staging-om.efile.dol.gov",
-    "id": 19033929775,
-    "entry_timestamp": "2025-06-15T09:52:42.321",
-    "not_before": "2025-06-14T00:00:00",
-    "not_after": "2025-12-14T23:59:59",
-    "serial_number": "0781b2e503ba2015c55cac6b1a803072",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 239799,
-    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
-    "common_name": "test-om.efile.dol.gov",
-    "name_value": "test-om.efile.dol.gov",
-    "id": 19032365816,
-    "entry_timestamp": "2025-06-15T08:01:23.768",
-    "not_before": "2025-06-14T00:00:00",
-    "not_after": "2025-12-14T23:59:59",
-    "serial_number": "0982931c3e8312ec04f6cee2be2c02c7",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 247106,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
     "common_name": "lostandfound.dol.gov",
@@ -5626,78 +5566,6 @@
     "not_after": "2026-07-14T23:59:59",
     "serial_number": "01cde14a0288cb09eb03e5d941cb3c7b",
     "result_count": 4
-  },
-  {
-    "issuer_ca_id": 239799,
-    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
-    "common_name": "staging.efile.dol.gov",
-    "name_value": "staging.efile.dol.gov",
-    "id": 19019735382,
-    "entry_timestamp": "2025-06-14T16:13:08.585",
-    "not_before": "2025-06-14T00:00:00",
-    "not_after": "2025-12-14T23:59:59",
-    "serial_number": "0ae13dd9139a78863d1ba2d54d903a41",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 239799,
-    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
-    "common_name": "dev.efile.dol.gov",
-    "name_value": "dev.efile.dol.gov",
-    "id": 19015585118,
-    "entry_timestamp": "2025-06-14T10:48:04.87",
-    "not_before": "2025-06-14T00:00:00",
-    "not_after": "2025-12-14T23:59:59",
-    "serial_number": "0ba656aaba2177aa65e3294890ee84a5",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 239799,
-    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
-    "common_name": "dev-om.efile.dol.gov",
-    "name_value": "dev-om.efile.dol.gov",
-    "id": 19014001596,
-    "entry_timestamp": "2025-06-14T09:04:02.772",
-    "not_before": "2025-06-14T00:00:00",
-    "not_after": "2025-12-14T23:59:59",
-    "serial_number": "0513e0d8e30dce1f277426f8b6a3bdcf",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 239799,
-    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
-    "common_name": "test.efile.dol.gov",
-    "name_value": "test.efile.dol.gov",
-    "id": 19012995730,
-    "entry_timestamp": "2025-06-14T07:50:06.811",
-    "not_before": "2025-06-14T00:00:00",
-    "not_after": "2025-12-14T23:59:59",
-    "serial_number": "076e2ddd4cf42443690a111e4ad09222",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 239799,
-    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
-    "common_name": "staging-om.efile.dol.gov",
-    "name_value": "staging-om.efile.dol.gov",
-    "id": 19012525203,
-    "entry_timestamp": "2025-06-14T07:11:09.976",
-    "not_before": "2025-06-14T00:00:00",
-    "not_after": "2025-12-14T23:59:59",
-    "serial_number": "0781b2e503ba2015c55cac6b1a803072",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 239799,
-    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
-    "common_name": "test-om.efile.dol.gov",
-    "name_value": "test-om.efile.dol.gov",
-    "id": 19008292537,
-    "entry_timestamp": "2025-06-14T01:06:06.655",
-    "not_before": "2025-06-14T00:00:00",
-    "not_after": "2025-12-14T23:59:59",
-    "serial_number": "0982931c3e8312ec04f6cee2be2c02c7",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 247115,
@@ -9180,18 +9048,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "savingmatters.dol.gov",
-    "name_value": "savingmatters.dol.gov\nwww.savingmatters.dol.gov",
-    "id": 15422519145,
-    "entry_timestamp": "2024-11-19T14:16:58.481",
-    "not_before": "2024-11-19T14:06:57",
-    "not_after": "2025-12-14T05:00:00",
-    "serial_number": "4ac703b6aa0bab47655c5e2b38b49327",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 247106,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
     "common_name": "test.uirs.oui.eta.dol.gov",
@@ -9238,17 +9094,5 @@
     "not_after": "2025-12-17T23:59:59",
     "serial_number": "059320ddfc638e1e60d19dbd9e3eed22",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "savingmatters.dol.gov",
-    "name_value": "savingmatters.dol.gov\nwww.savingmatters.dol.gov",
-    "id": 15351796744,
-    "entry_timestamp": "2024-11-14T15:03:30.747",
-    "not_before": "2024-11-14T14:53:29",
-    "not_after": "2025-12-14T05:00:00",
-    "serial_number": "4f9cd994c2b55253ddfd27b374b7785f",
-    "result_count": 3
   }
 ]
