@@ -1,5 +1,53 @@
 [
   {
+    "issuer_ca_id": 239799,
+    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
+    "common_name": "sit-keyc-test-harness.usps.com",
+    "name_value": "sit-keyc-test-harness.usps.com",
+    "id": 23155460676,
+    "entry_timestamp": "2025-12-16T13:01:11.894",
+    "not_before": "2025-07-25T00:00:00",
+    "not_after": "2026-01-25T23:59:59",
+    "serial_number": "063bb6307546fb89d9fc3608b92523c9",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 239799,
+    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
+    "common_name": "sit-keyc-test-harness.usps.com",
+    "name_value": "sit-keyc-test-harness.usps.com",
+    "id": 23155429253,
+    "entry_timestamp": "2025-12-16T12:59:27.436",
+    "not_before": "2025-12-16T00:00:00",
+    "not_after": "2026-04-14T23:59:59",
+    "serial_number": "0d23551cc5c3011ab205fa0f365618bc",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 204411,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
+    "common_name": "gss-cat.usps.com",
+    "name_value": "gss-cat.usps.com\norigin-stage-gss-cat.usps.com",
+    "id": 23140978712,
+    "entry_timestamp": "2025-12-15T20:43:28.325",
+    "not_before": "2025-12-15T00:00:00",
+    "not_after": "2026-12-15T23:59:59",
+    "serial_number": "2282f50c8ae3b7e3773d9634ca3468d0",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204411,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
+    "common_name": "gss-cat.usps.com",
+    "name_value": "gss-cat.usps.com\norigin-stage-gss-cat.usps.com",
+    "id": 23140957725,
+    "entry_timestamp": "2025-12-15T20:43:26.49",
+    "not_before": "2025-12-15T00:00:00",
+    "not_after": "2026-12-15T23:59:59",
+    "serial_number": "2282f50c8ae3b7e3773d9634ca3468d0",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 204411,
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
     "common_name": "lpobol-cat.usps.com",
@@ -13646,18 +13694,6 @@
   {
     "issuer_ca_id": 1478,
     "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Organization Validation Secure Server CA",
-    "common_name": "cat.emailserviceapi.usps.com",
-    "name_value": "cat.emailserviceapi.usps.com\nwww.cat.emailserviceapi.usps.com",
-    "id": 16874353794,
-    "entry_timestamp": "2025-02-28T18:29:48.447",
-    "not_before": "2025-02-28T00:00:00",
-    "not_after": "2026-02-28T23:59:59",
-    "serial_number": "0c564acf2adbd9726e5a3c93029aeed1",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 1478,
-    "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Organization Validation Secure Server CA",
     "common_name": "prod.emailserviceapi.usps.com",
     "name_value": "prod.emailserviceapi.usps.com\nwww.prod.emailserviceapi.usps.com",
     "id": 16874352887,
@@ -13665,6 +13701,18 @@
     "not_before": "2025-02-28T00:00:00",
     "not_after": "2026-02-28T23:59:59",
     "serial_number": "311394cb7148bbcd42ac36728b274060",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 1478,
+    "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Organization Validation Secure Server CA",
+    "common_name": "cat.emailserviceapi.usps.com",
+    "name_value": "cat.emailserviceapi.usps.com\nwww.cat.emailserviceapi.usps.com",
+    "id": 16874353794,
+    "entry_timestamp": "2025-02-28T18:29:48.447",
+    "not_before": "2025-02-28T00:00:00",
+    "not_after": "2026-02-28T23:59:59",
+    "serial_number": "0c564acf2adbd9726e5a3c93029aeed1",
     "result_count": 3
   },
   {
@@ -17570,18 +17618,6 @@
   {
     "issuer_ca_id": 185756,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "usps.com",
-    "name_value": "qlik.aws.usps.com\ntrkcnfrm1.smi.usps.com\nusps.com\nwww.m.usps.com\nwww.store.usps.com",
-    "id": 15799243520,
-    "entry_timestamp": "2024-12-17T14:26:23.901",
-    "not_before": "2024-12-17T00:00:00",
-    "not_after": "2025-12-16T23:59:59",
-    "serial_number": "0cf41c1fefbe5286211be7f2ff366c13",
-    "result_count": 6
-  },
-  {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
     "common_name": "pay.usps.com",
     "name_value": "pay.usps.com",
     "id": 15798891355,
@@ -17602,18 +17638,6 @@
     "not_after": "2025-12-18T23:59:59",
     "serial_number": "0bcf080a56e17c816eb6604fc1b7490d",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "pay.usps.com",
-    "name_value": "pay.usps.com",
-    "id": 15798780701,
-    "entry_timestamp": "2024-12-17T13:35:28.278",
-    "not_before": "2024-12-17T00:00:00",
-    "not_after": "2025-12-16T23:59:59",
-    "serial_number": "0ac4b4e2ae9b4fa7d91ea6ad81083ace",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 185756,
