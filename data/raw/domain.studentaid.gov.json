@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 185748,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
+    "common_name": "aidvantage.studentaid.gov",
+    "name_value": "aidvantage.studentaid.gov\nauthenticate1.aidvantage.studentaid.gov\nauthenticate1-test.aidvantage.studentaid.gov\nauthenticate2.aidvantage.studentaid.gov\nauthenticate2-test.aidvantage.studentaid.gov\nefms.aidvantage.studentaid.gov\nefms-test-cat.aidvantage.studentaid.gov\nefms-test-env7.aidvantage.studentaid.gov\ngogreen.aidvantage.studentaid.gov\nimages.aidvantage.studentaid.gov\nmyaccount.aidvantage.studentaid.gov\nmyaccount-cat.aidvantage.studentaid.gov\nmyaccount-env1.aidvantage.studentaid.gov\nmyaccount-prodfix.aidvantage.studentaid.gov\npfm.aidvantage.studentaid.gov\nsftweb.aidvantage.studentaid.gov\nsit.aidvantage.studentaid.gov\nsit.sftweb.aidvantage.studentaid.gov\nssp.aidvantage.studentaid.gov\nssp-test-cat.aidvantage.studentaid.gov\nssp-test-env1.aidvantage.studentaid.gov\nssp-test-env7.aidvantage.studentaid.gov",
+    "id": 23139965234,
+    "entry_timestamp": "2025-12-15T19:32:47.275",
+    "not_before": "2025-12-15T00:00:00",
+    "not_after": "2026-12-16T23:59:59",
+    "serial_number": "073af6f4b6a93a7dd3aa9f209b815f27",
+    "result_count": 23
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "aidvantage.studentaid.gov",
+    "name_value": "aidvantage.studentaid.gov\nauthenticate1.aidvantage.studentaid.gov\nauthenticate1-test.aidvantage.studentaid.gov\nauthenticate2.aidvantage.studentaid.gov\nauthenticate2-test.aidvantage.studentaid.gov\nefms.aidvantage.studentaid.gov\nefms-test-cat.aidvantage.studentaid.gov\nefms-test-env7.aidvantage.studentaid.gov\ngogreen.aidvantage.studentaid.gov\nimages.aidvantage.studentaid.gov\nmyaccount.aidvantage.studentaid.gov\nmyaccount-cat.aidvantage.studentaid.gov\nmyaccount-env1.aidvantage.studentaid.gov\nmyaccount-prodfix.aidvantage.studentaid.gov\npfm.aidvantage.studentaid.gov\nsftweb.aidvantage.studentaid.gov\nsit.aidvantage.studentaid.gov\nsit.sftweb.aidvantage.studentaid.gov\nssp.aidvantage.studentaid.gov\nssp-test-cat.aidvantage.studentaid.gov\nssp-test-env1.aidvantage.studentaid.gov\nssp-test-env7.aidvantage.studentaid.gov",
+    "id": 23139812361,
+    "entry_timestamp": "2025-12-15T19:21:53.758",
+    "not_before": "2025-12-15T00:00:00",
+    "not_after": "2026-12-16T23:59:59",
+    "serial_number": "03d8ad037be8b1126570337a6a14ebc0",
+    "result_count": 23
+  },
+  {
     "issuer_ca_id": 217001,
     "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=DigiCert Verified Mark RSA4096 SHA256 2021 CA1",
     "common_name": "Department of Education",
@@ -1272,30 +1296,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 286244,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR3",
-    "common_name": "content.nelnet.studentaid.gov",
-    "name_value": "content.nelnet.studentaid.gov",
-    "id": 21129402303,
-    "entry_timestamp": "2025-09-19T09:56:04.169",
-    "not_before": "2025-09-19T08:22:24",
-    "not_after": "2025-12-18T09:18:19",
-    "serial_number": "009a473323654a6c71094e0b5e9831cfbc",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286244,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR3",
-    "common_name": "content.nelnet.studentaid.gov",
-    "name_value": "content.nelnet.studentaid.gov",
-    "id": 21128869196,
-    "entry_timestamp": "2025-09-19T09:22:25.165",
-    "not_before": "2025-09-19T08:22:24",
-    "not_after": "2025-12-18T09:18:19",
-    "serial_number": "009a473323654a6c71094e0b5e9831cfbc",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 185748,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
     "common_name": "nelnet.studentaid.gov",
@@ -2302,17 +2302,5 @@
     "not_after": "2026-01-05T23:59:59",
     "serial_number": "0d014df837cfa74f1a1ae3ec28038a40",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "uat.aidvantage.studentaid.gov",
-    "name_value": "dev.aidvantage.studentaid.gov\npfm.aidvantage.studentaid.gov\nsit.aidvantage.studentaid.gov\nsit.sftxfer.aidvantage.studentaid.gov\nuat.aidvantage.studentaid.gov",
-    "id": 15785927827,
-    "entry_timestamp": "2024-12-16T13:50:30.48",
-    "not_before": "2024-12-16T00:00:00",
-    "not_after": "2025-12-15T23:59:59",
-    "serial_number": "04b8b1035322057227503499f9f7834e",
-    "result_count": 6
   }
 ]
