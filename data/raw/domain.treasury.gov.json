@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "fahc-stage.pgca.for.fiscal.treasury.gov",
+    "name_value": "cbaf-sqa.pgov.for.fiscal.treasury.gov\ncbaf-stg.pgov.for.fiscal.treasury.gov\nfahc-stage.pgca.for.fiscal.treasury.gov\nsqa.pgov.for.fiscal.treasury.gov\nworkflow-sqa.pgov.for.fiscal.treasury.gov\nworkflow-stg.pgov.for.fiscal.treasury.gov",
+    "id": 23202659267,
+    "entry_timestamp": "2025-12-18T15:41:28.442",
+    "not_before": "2025-12-18T00:00:00",
+    "not_after": "2026-10-10T23:59:59",
+    "serial_number": "00b35bb446083a0e022ba0a2d12ff092c7",
+    "result_count": 7
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "fahc-stage.pgca.for.fiscal.treasury.gov",
+    "name_value": "cbaf-sqa.pgov.for.fiscal.treasury.gov\ncbaf-stg.pgov.for.fiscal.treasury.gov\nfahc-stage.pgca.for.fiscal.treasury.gov\nsqa.pgov.for.fiscal.treasury.gov\nworkflow-sqa.pgov.for.fiscal.treasury.gov\nworkflow-stg.pgov.for.fiscal.treasury.gov",
+    "id": 23202640782,
+    "entry_timestamp": "2025-12-18T15:41:26.661",
+    "not_before": "2025-12-18T00:00:00",
+    "not_after": "2026-10-10T23:59:59",
+    "serial_number": "00b35bb446083a0e022ba0a2d12ff092c7",
+    "result_count": 7
+  },
+  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "mail.ofr.treasury.gov",
@@ -588,18 +612,6 @@
     "result_count": 9
   },
   {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "toro.ofr.treasury.gov",
-    "name_value": "toro2.paws.ofr.treasury.gov\ntoroaws.paws.ofr.treasury.gov\ntorodc.paws.ofr.treasury.gov\ntorony.paws.ofr.treasury.gov\ntoro.ofr.treasury.gov\ntoro.paws.ofr.treasury.gov",
-    "id": 22894189837,
-    "entry_timestamp": "2025-12-04T17:47:53.345",
-    "not_before": "2025-12-04T00:00:00",
-    "not_after": "2026-12-03T23:59:59",
-    "serial_number": "09463bb4a802ebf890eba478a5cd1ec8",
-    "result_count": 7
-  },
-  {
     "issuer_ca_id": 385512,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
     "common_name": "*.etl-api-tlh.cir.fiscal.treasury.gov",
@@ -622,18 +634,6 @@
     "not_after": "2027-01-04T23:59:59",
     "serial_number": "00ea87f0f6e260fefc65c00c68ccc97ab2",
     "result_count": 9
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "toro.ofr.treasury.gov",
-    "name_value": "toro2.paws.ofr.treasury.gov\ntoroaws.paws.ofr.treasury.gov\ntorodc.paws.ofr.treasury.gov\ntorony.paws.ofr.treasury.gov\ntoro.ofr.treasury.gov\ntoro.paws.ofr.treasury.gov",
-    "id": 22893826584,
-    "entry_timestamp": "2025-12-04T16:15:32.763",
-    "not_before": "2025-12-04T00:00:00",
-    "not_after": "2026-12-03T23:59:59",
-    "serial_number": "0f5a67520a41f4fe111a90f16447d49a",
-    "result_count": 7
   },
   {
     "issuer_ca_id": 385512,
@@ -850,18 +850,6 @@
     "not_after": "2027-01-03T23:59:59",
     "serial_number": "01b42aa8634683faae2d97becc164b58",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "toro.ofr.treasury.gov",
-    "name_value": "toro2.paws.ofr.treasury.gov\ntoroaws.paws.ofr.treasury.gov\ntorodc.paws.ofr.treasury.gov\ntorony.paws.ofr.treasury.gov\ntoro.ofr.treasury.gov\ntoro.paws.ofr.treasury.gov",
-    "id": 22865585705,
-    "entry_timestamp": "2025-12-02T15:44:19.753",
-    "not_before": "2025-12-02T00:00:00",
-    "not_after": "2026-12-01T23:59:59",
-    "serial_number": "06d54441874cb26502a3421d1f712aa7",
-    "result_count": 7
   },
   {
     "issuer_ca_id": 385512,
@@ -2692,18 +2680,6 @@
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
     "common_name": "treasury.gov",
     "name_value": "*.treasury.gov\ntreasury.gov",
-    "id": 22168512248,
-    "entry_timestamp": "2025-11-02T23:48:07.074",
-    "not_before": "2025-11-02T00:00:00",
-    "not_after": "2026-01-31T05:03:29",
-    "serial_number": "263c4de3deef29f9d622b8565788ba47",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "treasury.gov",
-    "name_value": "*.treasury.gov\ntreasury.gov",
     "id": 22168513056,
     "entry_timestamp": "2025-11-02T23:48:05.783",
     "not_before": "2025-11-02T00:00:00",
@@ -3381,18 +3357,6 @@
     "not_before": "2025-10-25T00:00:00",
     "not_after": "2026-01-22T19:35:10",
     "serial_number": "31db2f88912e2912580f9c3a0c42b8bd",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "acme-challenge.fiscal.treasury.gov",
-    "name_value": "*.acme-challenge.fiscal.treasury.gov\nacme-challenge.fiscal.treasury.gov",
-    "id": 21978274922,
-    "entry_timestamp": "2025-10-24T19:34:59.798",
-    "not_before": "2025-10-24T00:00:00",
-    "not_after": "2026-01-20T20:44:57",
-    "serial_number": "00f792e72bab67779241c859741d66be1c",
     "result_count": 3
   },
   {

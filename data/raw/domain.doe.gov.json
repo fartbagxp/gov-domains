@@ -2,6 +2,30 @@
   {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "phytozome-staging.jgi.doe.gov",
+    "name_value": "phytozome-staging.jgi.doe.gov",
+    "id": 23211080795,
+    "entry_timestamp": "2025-12-19T02:23:14.994",
+    "not_before": "2025-12-19T01:20:23",
+    "not_after": "2026-03-19T02:20:19",
+    "serial_number": "45ac3f3d26f70e670da61a5b83143a68",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "*.aws.kcnsc.doe.gov",
+    "name_value": "*.aws.kcnsc.doe.gov",
+    "id": 23202675510,
+    "entry_timestamp": "2025-12-18T15:47:01.644",
+    "not_before": "2025-12-18T00:00:00",
+    "not_after": "2027-01-16T23:59:59",
+    "serial_number": "01b890683df308a0c3c45ddf865ea131",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "boost-dev.jgi.doe.gov",
     "name_value": "boost-dev.jgi.doe.gov",
     "id": 23201626048,
@@ -1764,54 +1788,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "lmdocsonline.lm.doe.gov",
-    "name_value": "lmdocsonline.lm.doe.gov\nwww.lmdocsonline.lm.doe.gov",
-    "id": 22846047601,
-    "entry_timestamp": "2025-12-01T16:43:10.495",
-    "not_before": "2025-12-01T00:00:00",
-    "not_after": "2026-12-03T23:59:59",
-    "serial_number": "0090f666c061fdc1c12d21c6d8b7518d71",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "lmdocsonline.lm.doe.gov",
-    "name_value": "lmdocsonline.lm.doe.gov\nwww.lmdocsonline.lm.doe.gov",
-    "id": 22846027999,
-    "entry_timestamp": "2025-12-01T16:43:08.28",
-    "not_before": "2025-12-01T00:00:00",
-    "not_after": "2026-12-03T23:59:59",
-    "serial_number": "0090f666c061fdc1c12d21c6d8b7518d71",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "lmpublicsearch.lm.doe.gov",
-    "name_value": "lmpublicsearch.lm.doe.gov\nwww.lmpublicsearch.lm.doe.gov",
-    "id": 22846047587,
-    "entry_timestamp": "2025-12-01T16:42:53.887",
-    "not_before": "2025-12-01T00:00:00",
-    "not_after": "2026-12-03T23:59:59",
-    "serial_number": "2e313b52d1ed0bee161b26df32a74505",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "lmpublicsearch.lm.doe.gov",
-    "name_value": "lmpublicsearch.lm.doe.gov\nwww.lmpublicsearch.lm.doe.gov",
-    "id": 22846028903,
-    "entry_timestamp": "2025-12-01T16:42:52.716",
-    "not_before": "2025-12-01T00:00:00",
-    "not_after": "2026-12-03T23:59:59",
-    "serial_number": "2e313b52d1ed0bee161b26df32a74505",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "identity.jgi.doe.gov",
@@ -1834,30 +1810,6 @@
     "not_after": "2026-03-01T16:08:48",
     "serial_number": "00be74aa31b88f90b90e2f803ffb68d4c7",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "bm.lm.doe.gov",
-    "name_value": "bm.lm.doe.gov\nwww.bm.lm.doe.gov",
-    "id": 22841681553,
-    "entry_timestamp": "2025-12-01T11:39:36.338",
-    "not_before": "2025-12-01T00:00:00",
-    "not_after": "2026-12-16T23:59:59",
-    "serial_number": "00b79725ea474f6003beb7ebe548ae6543",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "bm.lm.doe.gov",
-    "name_value": "bm.lm.doe.gov\nwww.bm.lm.doe.gov",
-    "id": 22841666801,
-    "entry_timestamp": "2025-12-01T11:39:35.642",
-    "not_before": "2025-12-01T00:00:00",
-    "not_after": "2026-12-16T23:59:59",
-    "serial_number": "00b79725ea474f6003beb7ebe548ae6543",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 286236,
@@ -3852,18 +3804,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "cstart.nnsa.doe.gov",
-    "name_value": "cstart.nnsa.doe.gov",
-    "id": 22509303947,
-    "entry_timestamp": "2025-11-16T10:15:16.143",
-    "not_before": "2025-02-24T00:00:00",
-    "not_after": "2026-02-26T23:59:59",
-    "serial_number": "010b73d94102a6c298657f75fabd590d",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "olympus.doe.gov",
@@ -3945,18 +3885,6 @@
     "not_before": "2025-11-16T05:28:47",
     "not_after": "2026-02-14T06:28:43",
     "serial_number": "6cc8a46fc8b9db130e8a2a16cd06580e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "esp-tool.nsdd.doe.gov",
-    "name_value": "esp-tool.nsdd.doe.gov",
-    "id": 22505548188,
-    "entry_timestamp": "2025-11-16T06:29:58.584",
-    "not_before": "2025-01-30T00:00:00",
-    "not_after": "2026-01-29T23:59:59",
-    "serial_number": "03f998192e4a8ea6b7d467f7c5805236",
     "result_count": 2
   },
   {
@@ -4296,30 +4224,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "sepa.doe.gov",
-    "name_value": "sepa.doe.gov",
-    "id": 22463829873,
-    "entry_timestamp": "2025-11-14T13:13:59.734",
-    "not_before": "2025-11-14T00:00:00",
-    "not_after": "2026-02-12T23:59:59",
-    "serial_number": "00973f971fe24cb7b320a7a90809f5b0b0",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "sepa.doe.gov",
-    "name_value": "sepa.doe.gov",
-    "id": 22463830085,
-    "entry_timestamp": "2025-11-14T13:13:58.874",
-    "not_before": "2025-11-14T00:00:00",
-    "not_after": "2026-02-12T23:59:59",
-    "serial_number": "00973f971fe24cb7b320a7a90809f5b0b0",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 385512,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
     "common_name": "zgvoemdbecs01.doe.gov",
@@ -4570,30 +4474,6 @@
     "not_after": "2026-12-14T23:59:59",
     "serial_number": "00991d10b5fab18c9a4d47c4ccd4bafca3",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "fs.lm.doe.gov",
-    "name_value": "certauth.lm.doe.gov\nenterpriseregistration.lm.doe.gov\nfs.lm.doe.gov",
-    "id": 22439433105,
-    "entry_timestamp": "2025-11-13T12:49:11.693",
-    "not_before": "2025-11-13T00:00:00",
-    "not_after": "2026-11-19T23:59:59",
-    "serial_number": "239aa4c3d37e89a883efc09189149bb8",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "fs.lm.doe.gov",
-    "name_value": "certauth.lm.doe.gov\nenterpriseregistration.lm.doe.gov\nfs.lm.doe.gov",
-    "id": 22439413007,
-    "entry_timestamp": "2025-11-13T12:49:10.956",
-    "not_before": "2025-11-13T00:00:00",
-    "not_after": "2026-11-19T23:59:59",
-    "serial_number": "239aa4c3d37e89a883efc09189149bb8",
-    "result_count": 4
   },
   {
     "issuer_ca_id": 286236,
@@ -5412,30 +5292,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "jgi.doe.gov",
-    "name_value": "jgi.doe.gov",
-    "id": 22291209560,
-    "entry_timestamp": "2025-11-07T19:24:59.946",
-    "not_before": "2025-11-07T00:00:00",
-    "not_after": "2026-02-05T23:59:59",
-    "serial_number": "7142ba96a1027d67cd116ca324237409",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "jgi.doe.gov",
-    "name_value": "jgi.doe.gov",
-    "id": 22291207185,
-    "entry_timestamp": "2025-11-07T19:24:59.033",
-    "not_before": "2025-11-07T00:00:00",
-    "not_after": "2026-02-05T23:59:59",
-    "serial_number": "7142ba96a1027d67cd116ca324237409",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 385512,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
     "common_name": "smtp.nv.doe.gov",
@@ -5554,18 +5410,6 @@
     "not_after": "2026-02-04T14:47:32",
     "serial_number": "05510645c0a71d286a7437eab6eba547d3d5",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "autodiscover.kcp.com",
-    "name_value": "autodiscover.kcnsc.doe.gov",
-    "id": 22257558045,
-    "entry_timestamp": "2025-11-06T14:16:20.93",
-    "not_before": "2025-11-06T00:00:00",
-    "not_after": "2026-12-04T23:59:59",
-    "serial_number": "0cfa9259f39d6c2a7deccb9f8f90f12f",
-    "result_count": 1
   },
   {
     "issuer_ca_id": 286236,
@@ -5688,18 +5532,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "mobile.pxy12.doe.gov",
-    "name_value": "mobile.pxy12.doe.gov",
-    "id": 22235164310,
-    "entry_timestamp": "2025-11-05T19:00:17.037",
-    "not_before": "2025-11-05T00:00:00",
-    "not_after": "2026-11-04T23:59:59",
-    "serial_number": "012e098ffde06f6a76c6a83d9f89cdfb",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "mobile.pxy12.doe.gov",
@@ -5782,30 +5614,6 @@
     "not_after": "2026-11-03T23:59:59",
     "serial_number": "00efc7b6538488f942636fd09357b90104",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "cbfo.doe.gov",
-    "name_value": "cbfo.doe.gov",
-    "id": 22207344827,
-    "entry_timestamp": "2025-11-04T19:14:13.495",
-    "not_before": "2025-11-04T00:00:00",
-    "not_after": "2026-02-02T23:59:59",
-    "serial_number": "70ee4eb2e70a5ac62753c24697abe653",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "cbfo.doe.gov",
-    "name_value": "cbfo.doe.gov",
-    "id": 22207342395,
-    "entry_timestamp": "2025-11-04T19:14:11.851",
-    "not_before": "2025-11-04T00:00:00",
-    "not_after": "2026-02-02T23:59:59",
-    "serial_number": "70ee4eb2e70a5ac62753c24697abe653",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 385512,
@@ -6816,30 +6624,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "vsp.lm.doe.gov",
-    "name_value": "vsp.lm.doe.gov\nwww.vsp.lm.doe.gov",
-    "id": 22100930647,
-    "entry_timestamp": "2025-10-30T10:19:29.031",
-    "not_before": "2025-10-30T00:00:00",
-    "not_after": "2026-10-30T23:59:59",
-    "serial_number": "009b079504896e3096d0e89cf3a5d08cb9",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "vsp.lm.doe.gov",
-    "name_value": "vsp.lm.doe.gov\nwww.vsp.lm.doe.gov",
-    "id": 22100916108,
-    "entry_timestamp": "2025-10-30T10:19:27.829",
-    "not_before": "2025-10-30T00:00:00",
-    "not_after": "2026-10-30T23:59:59",
-    "serial_number": "009b079504896e3096d0e89cf3a5d08cb9",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "contacts-chariel.jgi.doe.gov",
@@ -7174,30 +6958,6 @@
     "not_after": "2026-01-19T23:25:24",
     "serial_number": "2eab91292acfa1320e7575ede873c6d4",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "sentry2.lm.doe.gov",
-    "name_value": "sentry2.lm.doe.gov\nwww.sentry2.lm.doe.gov",
-    "id": 22085354255,
-    "entry_timestamp": "2025-10-29T13:44:00.084",
-    "not_before": "2025-10-29T00:00:00",
-    "not_after": "2026-10-29T23:59:59",
-    "serial_number": "00c14b79b426f33a4bc410f9463eb3b8bd",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "sentry2.lm.doe.gov",
-    "name_value": "sentry2.lm.doe.gov\nwww.sentry2.lm.doe.gov",
-    "id": 22085338170,
-    "entry_timestamp": "2025-10-29T13:43:58.424",
-    "not_before": "2025-10-29T00:00:00",
-    "not_after": "2026-10-29T23:59:59",
-    "serial_number": "00c14b79b426f33a4bc410f9463eb3b8bd",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 385512,
@@ -9240,30 +9000,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "hellolm.lm.doe.gov",
-    "name_value": "hellolm.lm.doe.gov\nwww.hellolm.lm.doe.gov",
-    "id": 21716612085,
-    "entry_timestamp": "2025-10-14T14:53:43.582",
-    "not_before": "2025-10-14T00:00:00",
-    "not_after": "2026-10-22T23:59:59",
-    "serial_number": "00e02e595890ac8906d8eb7c1eb6390200",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "hellolm.lm.doe.gov",
-    "name_value": "hellolm.lm.doe.gov\nwww.hellolm.lm.doe.gov",
-    "id": 21716594555,
-    "entry_timestamp": "2025-10-14T14:53:41.815",
-    "not_before": "2025-10-14T00:00:00",
-    "not_after": "2026-10-22T23:59:59",
-    "serial_number": "00e02e595890ac8906d8eb7c1eb6390200",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "sso.cns.doe.gov",
@@ -9900,102 +9636,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "pinellas.lm.doe.gov",
-    "name_value": "pinellas.lm.doe.gov\nwww.pinellas.lm.doe.gov",
-    "id": 21552287559,
-    "entry_timestamp": "2025-10-07T17:29:17.006",
-    "not_before": "2025-10-07T00:00:00",
-    "not_after": "2026-10-07T23:59:59",
-    "serial_number": "715228526555990d1916bb658e45a571",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "pinellas.lm.doe.gov",
-    "name_value": "pinellas.lm.doe.gov\nwww.pinellas.lm.doe.gov",
-    "id": 21552252044,
-    "entry_timestamp": "2025-10-07T17:29:15.736",
-    "not_before": "2025-10-07T00:00:00",
-    "not_after": "2026-10-07T23:59:59",
-    "serial_number": "715228526555990d1916bb658e45a571",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "secure-east.lm.doe.gov",
-    "name_value": "secure-east.lm.doe.gov\nwww.secure-east.lm.doe.gov",
-    "id": 21551532885,
-    "entry_timestamp": "2025-10-07T16:43:56.65",
-    "not_before": "2025-10-07T00:00:00",
-    "not_after": "2026-10-07T23:59:59",
-    "serial_number": "430f400a315460db5096e34d6ab800c3",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "secure-east.lm.doe.gov",
-    "name_value": "secure-east.lm.doe.gov\nwww.secure-east.lm.doe.gov",
-    "id": 21551514812,
-    "entry_timestamp": "2025-10-07T16:43:55.717",
-    "not_before": "2025-10-07T00:00:00",
-    "not_after": "2026-10-07T23:59:59",
-    "serial_number": "430f400a315460db5096e34d6ab800c3",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "secure-gj.lm.doe.gov",
-    "name_value": "secure-gj.lm.doe.gov\nwww.secure-gj.lm.doe.gov",
-    "id": 21551515199,
-    "entry_timestamp": "2025-10-07T16:42:34.079",
-    "not_before": "2025-10-07T00:00:00",
-    "not_after": "2026-10-07T23:59:59",
-    "serial_number": "0297821fecf7877ae66f4ab47d6a16c6",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "secure-gj.lm.doe.gov",
-    "name_value": "secure-gj.lm.doe.gov\nwww.secure-gj.lm.doe.gov",
-    "id": 21551495158,
-    "entry_timestamp": "2025-10-07T16:42:33.179",
-    "not_before": "2025-10-07T00:00:00",
-    "not_after": "2026-10-07T23:59:59",
-    "serial_number": "0297821fecf7877ae66f4ab47d6a16c6",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "secure-west.lm.doe.gov",
-    "name_value": "secure-west.lm.doe.gov\nwww.secure-west.lm.doe.gov",
-    "id": 21551495143,
-    "entry_timestamp": "2025-10-07T16:41:24.456",
-    "not_before": "2025-10-07T00:00:00",
-    "not_after": "2026-10-07T23:59:59",
-    "serial_number": "5e12c5e05e905e24e13a3161c9ed794f",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "secure-west.lm.doe.gov",
-    "name_value": "secure-west.lm.doe.gov\nwww.secure-west.lm.doe.gov",
-    "id": 21551477543,
-    "entry_timestamp": "2025-10-07T16:41:23.539",
-    "not_before": "2025-10-07T00:00:00",
-    "not_after": "2026-10-07T23:59:59",
-    "serial_number": "5e12c5e05e905e24e13a3161c9ed794f",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 246719,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "*.aws.kcnsc.doe.gov",
@@ -10006,30 +9646,6 @@
     "not_after": "2026-11-05T23:59:59",
     "serial_number": "09082a2e7a597fb5d9c560a9972a13ee",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "log2.lm.doe.gov",
-    "name_value": "log2.lm.doe.gov\nwww.log2.lm.doe.gov",
-    "id": 21549954461,
-    "entry_timestamp": "2025-10-07T15:17:06.869",
-    "not_before": "2025-10-07T00:00:00",
-    "not_after": "2026-10-23T23:59:59",
-    "serial_number": "197e5eb84c0b0b6d69ea45362824c943",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "log2.lm.doe.gov",
-    "name_value": "log2.lm.doe.gov\nwww.log2.lm.doe.gov",
-    "id": 21549933850,
-    "entry_timestamp": "2025-10-07T15:17:05.389",
-    "not_before": "2025-10-07T00:00:00",
-    "not_after": "2026-10-23T23:59:59",
-    "serial_number": "197e5eb84c0b0b6d69ea45362824c943",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 385512,
@@ -10054,30 +9670,6 @@
     "not_after": "2026-10-07T23:59:59",
     "serial_number": "3378a7dae6342b51a76b5f24b162e207",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "secure-bc.lm.doe.gov",
-    "name_value": "secure-bc.lm.doe.gov\nwww.secure-bc.lm.doe.gov",
-    "id": 21547349918,
-    "entry_timestamp": "2025-10-07T13:02:59.031",
-    "not_before": "2025-10-07T00:00:00",
-    "not_after": "2026-10-07T23:59:59",
-    "serial_number": "467e7a4ba8c78e67a580d2ccb9119805",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "secure-bc.lm.doe.gov",
-    "name_value": "secure-bc.lm.doe.gov\nwww.secure-bc.lm.doe.gov",
-    "id": 21547332174,
-    "entry_timestamp": "2025-10-07T13:02:57.528",
-    "not_before": "2025-10-07T00:00:00",
-    "not_after": "2026-10-07T23:59:59",
-    "serial_number": "467e7a4ba8c78e67a580d2ccb9119805",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 286236,
@@ -10114,18 +9706,6 @@
     "not_after": "2026-01-03T06:13:46",
     "serial_number": "00f66308fb2f8d68a91362a4f87e11f8b2",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 246719,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
-    "common_name": "directives.nnsa.doe.gov",
-    "name_value": "directives.nnsa-dev.doe.gov\ndirectives.nnsa.doe.gov\ndirectives.nnsa-hotfix.doe.gov\ndirectives.nnsa-preprod.doe.gov\ndirectives.nnsa-test.doe.gov",
-    "id": 21528222060,
-    "entry_timestamp": "2025-10-06T19:29:15.222",
-    "not_before": "2025-09-30T00:00:00",
-    "not_after": "2026-10-29T23:59:59",
-    "serial_number": "0c48df016599f560f773b6bdd8b97908",
-    "result_count": 6
   },
   {
     "issuer_ca_id": 385512,
@@ -10776,18 +10356,6 @@
     "result_count": 1
   },
   {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "outlook.cns.doe.gov",
-    "name_value": "AutoDiscover.cns.doe.gov\nAutoDiscover.gtm.cns.doe.gov\nAutoDiscover.gtm.onenet.cns.doe.gov\nAutoDiscover.onenet.cns.doe.gov\nAutoDiscover.upo.doe.gov\nAutoDiscover.y12.doe.gov\nAutoDiscover.y12nsc.doe.gov\nAutoDiscover.yfo.doe.gov\ncns.doe.gov\nhybrid.cns.doe.gov\nhybrid.y12nsc.doe.gov\nmrs1.y12nsc.doe.gov\nmrs2.y12nsc.doe.gov\nmrs3.y12nsc.doe.gov\nmrs4.y12nsc.doe.gov\nmrs.cns.doe.gov\nmrs.y12nsc.doe.gov\nonenet.cns.doe.gov\noutlook.cns.doe.gov\noutlook.gtm.cns.doe.gov\noutlook.onenet.cns.doe.gov\nrelay.cns.doe.gov\nrelay.onenet.cns.doe.gov\nupo.doe.gov\ny12.doe.gov\ny12nsc.doe.gov\ny12relay.cns.doe.gov\ny12relay.onenet.cns.doe.gov\nyfo.doe.gov",
-    "id": 21421169961,
-    "entry_timestamp": "2025-10-02T14:43:19.903",
-    "not_before": "2025-10-02T00:00:00",
-    "not_after": "2026-10-01T23:59:59",
-    "serial_number": "02230f5783d2d9fa92be15928c29a39e",
-    "result_count": 30
-  },
-  {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "synbioqc-util-dev.jgi.doe.gov",
@@ -11176,18 +10744,6 @@
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "vpn-y12gfe.cns.doe.gov",
     "name_value": "Dy12pnbdr-vpn01aASA.onenet.cns.doe.gov\nvpn-y12gfe.cns.doe.gov",
-    "id": 21354285295,
-    "entry_timestamp": "2025-09-29T20:19:54.142",
-    "not_before": "2025-09-29T00:00:00",
-    "not_after": "2026-09-28T23:59:59",
-    "serial_number": "0ab64202649d1aa401360d21ff0d2488",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "vpn-y12gfe.cns.doe.gov",
-    "name_value": "Dy12pnbdr-vpn01aASA.onenet.cns.doe.gov\nvpn-y12gfe.cns.doe.gov",
     "id": 21353156992,
     "entry_timestamp": "2025-09-29T19:03:18.182",
     "not_before": "2025-09-29T00:00:00",
@@ -11278,30 +10834,6 @@
     "not_after": "2026-10-03T23:59:59",
     "serial_number": "00d7d6037b8fd61cacade3eefc25e8262e",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "test-pooling.lm.doe.gov",
-    "name_value": "test-pooling.lm.doe.gov\nwww.test-pooling.lm.doe.gov",
-    "id": 21349709044,
-    "entry_timestamp": "2025-09-29T15:26:42.824",
-    "not_before": "2025-09-29T00:00:00",
-    "not_after": "2026-09-29T23:59:59",
-    "serial_number": "00b04061114a39824da8dd0ded7e4cd7c3",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "test-pooling.lm.doe.gov",
-    "name_value": "test-pooling.lm.doe.gov\nwww.test-pooling.lm.doe.gov",
-    "id": 21349693110,
-    "entry_timestamp": "2025-09-29T15:25:14.827",
-    "not_before": "2025-09-29T00:00:00",
-    "not_after": "2026-09-29T23:59:59",
-    "serial_number": "00b04061114a39824da8dd0ded7e4cd7c3",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 185752,
@@ -12180,30 +11712,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "gjlv-rhu01.lm.doe.gov",
-    "name_value": "gjlv-rhu01.lm.doe.gov\nlm.doe.gov\nsmtp.lm.doe.gov\ntest.lm.doe.gov",
-    "id": 21267823728,
-    "entry_timestamp": "2025-09-25T15:47:30.119",
-    "not_before": "2025-09-25T00:00:00",
-    "not_after": "2026-09-25T23:59:59",
-    "serial_number": "00fe1d290f0f96b24119e2199c663de5d2",
-    "result_count": 5
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "gjlv-rhu01.lm.doe.gov",
-    "name_value": "gjlv-rhu01.lm.doe.gov\nlm.doe.gov\nsmtp.lm.doe.gov\ntest.lm.doe.gov",
-    "id": 21267808067,
-    "entry_timestamp": "2025-09-25T15:47:28.533",
-    "not_before": "2025-09-25T00:00:00",
-    "not_after": "2026-09-25T23:59:59",
-    "serial_number": "00fe1d290f0f96b24119e2199c663de5d2",
-    "result_count": 5
-  },
-  {
     "issuer_ca_id": 295817,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "jgi.doe.gov",
@@ -12406,30 +11914,6 @@
     "not_after": "2026-09-23T23:59:59",
     "serial_number": "09efa1528c8b130ce4390c033bfc8b46",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars.lm.doe.gov",
-    "name_value": "soars.lm.doe.gov\nwww.soars.lm.doe.gov",
-    "id": 21248703726,
-    "entry_timestamp": "2025-09-24T15:09:28.318",
-    "not_before": "2025-09-24T00:00:00",
-    "not_after": "2026-10-10T23:59:59",
-    "serial_number": "00b8d181e5733e2ba36289c824804dcacf",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars.lm.doe.gov",
-    "name_value": "soars.lm.doe.gov\nwww.soars.lm.doe.gov",
-    "id": 21248687165,
-    "entry_timestamp": "2025-09-24T15:09:26.835",
-    "not_before": "2025-09-24T00:00:00",
-    "not_after": "2026-10-10T23:59:59",
-    "serial_number": "00b8d181e5733e2ba36289c824804dcacf",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 365075,
@@ -12708,78 +12192,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "gems.lm.doe.gov",
-    "name_value": "gems.lm.doe.gov\nwww.gems.lm.doe.gov",
-    "id": 21199154778,
-    "entry_timestamp": "2025-09-22T10:56:26.157",
-    "not_before": "2025-09-22T00:00:00",
-    "not_after": "2026-10-11T23:59:59",
-    "serial_number": "531aac938a74484a327fd8db4c722104",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "gems.lm.doe.gov",
-    "name_value": "gems.lm.doe.gov\nwww.gems.lm.doe.gov",
-    "id": 21199154294,
-    "entry_timestamp": "2025-09-22T10:56:18.209",
-    "not_before": "2025-09-22T00:00:00",
-    "not_after": "2026-10-11T23:59:59",
-    "serial_number": "531aac938a74484a327fd8db4c722104",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "cdn.lm.doe.gov",
-    "name_value": "cdn.lm.doe.gov\nwww.cdn.lm.doe.gov",
-    "id": 21199129390,
-    "entry_timestamp": "2025-09-22T10:55:13.593",
-    "not_before": "2025-09-22T00:00:00",
-    "not_after": "2026-10-10T23:59:59",
-    "serial_number": "17bd595162e29f11541d96cb036080bd",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "cdn.lm.doe.gov",
-    "name_value": "cdn.lm.doe.gov\nwww.cdn.lm.doe.gov",
-    "id": 21199129648,
-    "entry_timestamp": "2025-09-22T10:55:11.607",
-    "not_before": "2025-09-22T00:00:00",
-    "not_after": "2026-10-10T23:59:59",
-    "serial_number": "17bd595162e29f11541d96cb036080bd",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars.lm.doe.gov",
-    "name_value": "soars.lm.doe.gov\nwww.soars.lm.doe.gov",
-    "id": 21199032214,
-    "entry_timestamp": "2025-09-22T10:50:14.092",
-    "not_before": "2025-09-22T00:00:00",
-    "not_after": "2026-10-10T23:59:59",
-    "serial_number": "00acfabee847095ad0e0911d4a5a58c184",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars.lm.doe.gov",
-    "name_value": "soars.lm.doe.gov\nwww.soars.lm.doe.gov",
-    "id": 21199031805,
-    "entry_timestamp": "2025-09-22T10:50:12.606",
-    "not_before": "2025-09-22T00:00:00",
-    "not_after": "2026-10-10T23:59:59",
-    "serial_number": "00acfabee847095ad0e0911d4a5a58c184",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "archive.jgi.doe.gov",
@@ -12840,186 +12252,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "smc.jgi.doe.gov",
-    "name_value": "smc.jgi.doe.gov",
-    "id": 21165408387,
-    "entry_timestamp": "2025-09-20T22:49:40.362",
-    "not_before": "2025-09-20T07:52:26",
-    "not_after": "2025-12-19T08:52:21",
-    "serial_number": "0dfd2500638830750ed892e00b90ca57",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "smc.jgi.doe.gov",
-    "name_value": "smc.jgi.doe.gov",
-    "id": 21151739379,
-    "entry_timestamp": "2025-09-20T08:52:26.338",
-    "not_before": "2025-09-20T07:52:26",
-    "not_after": "2025-12-19T08:52:21",
-    "serial_number": "0dfd2500638830750ed892e00b90ca57",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "smc.jgi.doe.gov",
-    "name_value": "smc.jgi.doe.gov",
-    "id": 21151736328,
-    "entry_timestamp": "2025-09-20T08:52:15.762",
-    "not_before": "2025-09-20T07:52:15",
-    "not_after": "2025-12-19T08:51:00",
-    "serial_number": "6647b4e01fbc1ca10eb4e4c30915fa1c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "pages.jgi.doe.gov",
-    "name_value": "pages.jgi.doe.gov",
-    "id": 21151488904,
-    "entry_timestamp": "2025-09-20T08:37:36.908",
-    "not_before": "2025-09-20T06:41:14",
-    "not_after": "2025-12-19T07:41:11",
-    "serial_number": "74c1366720986cf413f6cca35fbdb846",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "pages.jgi.doe.gov",
-    "name_value": "pages.jgi.doe.gov",
-    "id": 21150553797,
-    "entry_timestamp": "2025-09-20T07:41:15.208",
-    "not_before": "2025-09-20T06:41:14",
-    "not_after": "2025-12-19T07:41:11",
-    "serial_number": "74c1366720986cf413f6cca35fbdb846",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "pages.jgi.doe.gov",
-    "name_value": "pages.jgi.doe.gov",
-    "id": 21150548092,
-    "entry_timestamp": "2025-09-20T07:41:05.688",
-    "not_before": "2025-09-20T06:41:05",
-    "not_after": "2025-12-19T07:39:49",
-    "serial_number": "0089569fa0df65c3e11323440793992eec",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "infra-osearch.jgi.doe.gov",
-    "name_value": "infra-osearch.jgi.doe.gov",
-    "id": 21150287743,
-    "entry_timestamp": "2025-09-20T07:24:23.875",
-    "not_before": "2025-09-20T05:20:12",
-    "not_after": "2025-12-19T06:20:08",
-    "serial_number": "07d9c5d5ab2a7c240dbd71475d03585f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "synbiotools-next.jgi.doe.gov",
-    "name_value": "synbiotools-next.jgi.doe.gov",
-    "id": 21149494433,
-    "entry_timestamp": "2025-09-20T06:38:41.59",
-    "not_before": "2025-09-20T01:22:12",
-    "not_after": "2025-12-19T02:22:08",
-    "serial_number": "4f534185e9b5c33e0eab89ac0e451219",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "infra-osearch.jgi.doe.gov",
-    "name_value": "infra-osearch.jgi.doe.gov",
-    "id": 21149222561,
-    "entry_timestamp": "2025-09-20T06:20:12.929",
-    "not_before": "2025-09-20T05:20:12",
-    "not_after": "2025-12-19T06:20:08",
-    "serial_number": "07d9c5d5ab2a7c240dbd71475d03585f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "infra-osearch.jgi.doe.gov",
-    "name_value": "infra-osearch.jgi.doe.gov",
-    "id": 21149222657,
-    "entry_timestamp": "2025-09-20T06:20:03.313",
-    "not_before": "2025-09-20T05:20:02",
-    "not_after": "2025-12-19T06:18:49",
-    "serial_number": "00befa78117a80d7cf0dd47e16530e6bdb",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "jaws.jgi.doe.gov",
-    "name_value": "jaws.jgi.doe.gov",
-    "id": 21146160888,
-    "entry_timestamp": "2025-09-20T03:12:21.12",
-    "not_before": "2025-09-20T01:02:36",
-    "not_after": "2025-12-19T02:02:34",
-    "serial_number": "008dac990dd86cd9421135941a37128936",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "synbiotools-next.jgi.doe.gov",
-    "name_value": "synbiotools-next.jgi.doe.gov",
-    "id": 21145389025,
-    "entry_timestamp": "2025-09-20T02:22:12.899",
-    "not_before": "2025-09-20T01:22:12",
-    "not_after": "2025-12-19T02:22:08",
-    "serial_number": "4f534185e9b5c33e0eab89ac0e451219",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "synbiotools-next.jgi.doe.gov",
-    "name_value": "synbiotools-next.jgi.doe.gov",
-    "id": 21145382249,
-    "entry_timestamp": "2025-09-20T02:22:03.592",
-    "not_before": "2025-09-20T01:22:03",
-    "not_after": "2025-12-19T02:20:56",
-    "serial_number": "00ce9e9091bd79ef040d2e7bff859484b5",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "jaws.jgi.doe.gov",
-    "name_value": "jaws.jgi.doe.gov",
-    "id": 21145082689,
-    "entry_timestamp": "2025-09-20T02:02:37.151",
-    "not_before": "2025-09-20T01:02:36",
-    "not_after": "2025-12-19T02:02:34",
-    "serial_number": "008dac990dd86cd9421135941a37128936",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "jaws.jgi.doe.gov",
-    "name_value": "jaws.jgi.doe.gov",
-    "id": 21145085678,
-    "entry_timestamp": "2025-09-20T02:02:29.183",
-    "not_before": "2025-09-20T01:02:28",
-    "not_after": "2025-12-19T02:01:16",
-    "serial_number": "0d8215fb86af20440deeb31b583ddd33",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 385512,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
     "common_name": "vpn-ptx-cac-gfe.pantex.doe.gov",
@@ -13056,150 +12288,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "sts.lm.doe.gov",
-    "name_value": "sts.lm.doe.gov\nwww.sts.lm.doe.gov",
-    "id": 21113159253,
-    "entry_timestamp": "2025-09-18T17:43:29.639",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-10-01T23:59:59",
-    "serial_number": "3d01c1fc6b08ba87fbb74a9996c5965e",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "sts.lm.doe.gov",
-    "name_value": "sts.lm.doe.gov\nwww.sts.lm.doe.gov",
-    "id": 21113156923,
-    "entry_timestamp": "2025-09-18T17:43:28.144",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-10-01T23:59:59",
-    "serial_number": "3d01c1fc6b08ba87fbb74a9996c5965e",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "bclv-spf02.lm.doe.gov",
-    "name_value": "bclv-spf02.lm.doe.gov\nwww.bclv-spf02.lm.doe.gov",
-    "id": 21113156249,
-    "entry_timestamp": "2025-09-18T17:43:02.652",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-10-01T23:59:59",
-    "serial_number": "0bcc59ce2017dc423fed36aea1ab5cb5",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "bclv-spf02.lm.doe.gov",
-    "name_value": "bclv-spf02.lm.doe.gov\nwww.bclv-spf02.lm.doe.gov",
-    "id": 21113143055,
-    "entry_timestamp": "2025-09-18T17:43:01.268",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-10-01T23:59:59",
-    "serial_number": "0bcc59ce2017dc423fed36aea1ab5cb5",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "*.share.lm.doe.gov",
-    "name_value": "*.share.lm.doe.gov\nshare.lm.doe.gov",
-    "id": 21113140403,
-    "entry_timestamp": "2025-09-18T17:42:31.272",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-10-01T23:59:59",
-    "serial_number": "4a2a9813f07245eb06309b19562cd667",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "*.share.lm.doe.gov",
-    "name_value": "*.share.lm.doe.gov\nshare.lm.doe.gov",
-    "id": 21113140043,
-    "entry_timestamp": "2025-09-18T17:42:30.285",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-10-01T23:59:59",
-    "serial_number": "4a2a9813f07245eb06309b19562cd667",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "mysites.lm.doe.gov",
-    "name_value": "mysites.lm.doe.gov\nwww.mysites.lm.doe.gov",
-    "id": 21113126558,
-    "entry_timestamp": "2025-09-18T17:41:55.968",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-10-01T23:59:59",
-    "serial_number": "2373a46888a4d3bb53e4d32dfc6ad943",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "mysites.lm.doe.gov",
-    "name_value": "mysites.lm.doe.gov\nwww.mysites.lm.doe.gov",
-    "id": 21113126774,
-    "entry_timestamp": "2025-09-18T17:41:55.078",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-10-01T23:59:59",
-    "serial_number": "2373a46888a4d3bb53e4d32dfc6ad943",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "gjlv-rhu01.lm.doe.gov",
-    "name_value": "gjlv-rhu01.lm.doe.gov\nlm.doe.gov\nsmtp.lm.doe.gov\ntest.lm.doe.gov",
-    "id": 21113047102,
-    "entry_timestamp": "2025-09-18T17:36:26.457",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-26T23:59:59",
-    "serial_number": "083058653d520e166f2d1ac6cbb6e135",
-    "result_count": 5
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "gjlv-rhu01.lm.doe.gov",
-    "name_value": "gjlv-rhu01.lm.doe.gov\nlm.doe.gov\nsmtp.lm.doe.gov\ntest.lm.doe.gov",
-    "id": 21113048564,
-    "entry_timestamp": "2025-09-18T17:36:24.985",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-26T23:59:59",
-    "serial_number": "083058653d520e166f2d1ac6cbb6e135",
-    "result_count": 5
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "federation.lm.doe.gov",
-    "name_value": "federation.lm.doe.gov\nwww.federation.lm.doe.gov",
-    "id": 21112687176,
-    "entry_timestamp": "2025-09-18T17:13:48.558",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-26T23:59:59",
-    "serial_number": "00fb0f4d855fa7e7e539857340e6ed853d",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "federation.lm.doe.gov",
-    "name_value": "federation.lm.doe.gov\nwww.federation.lm.doe.gov",
-    "id": 21112687533,
-    "entry_timestamp": "2025-09-18T17:13:47.79",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-26T23:59:59",
-    "serial_number": "00fb0f4d855fa7e7e539857340e6ed853d",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 385512,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
     "common_name": "*.artifactory.doe.gov",
@@ -13221,750 +12309,6 @@
     "not_before": "2025-09-18T00:00:00",
     "not_after": "2026-09-18T23:59:59",
     "serial_number": "3e01414bdeeb2d400a95acd7f72da77e",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "ecomm.lm.doe.gov",
-    "name_value": "ecomm.lm.doe.gov\nwww.ecomm.lm.doe.gov",
-    "id": 21112524577,
-    "entry_timestamp": "2025-09-18T17:04:53.029",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-10-10T23:59:59",
-    "serial_number": "0082ce52e2b4331e0fb4b017fd716d1152",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "ecomm.lm.doe.gov",
-    "name_value": "ecomm.lm.doe.gov\nwww.ecomm.lm.doe.gov",
-    "id": 21112523732,
-    "entry_timestamp": "2025-09-18T17:04:51.292",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-10-10T23:59:59",
-    "serial_number": "0082ce52e2b4331e0fb4b017fd716d1152",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-lkv-1.lm.doe.gov",
-    "name_value": "soars-lkv-1.lm.doe.gov\nwww.soars-lkv-1.lm.doe.gov",
-    "id": 21111711671,
-    "entry_timestamp": "2025-09-18T16:18:29.895",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "51ac443075017356908cab15ba798f82",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-lkv-1.lm.doe.gov",
-    "name_value": "soars-lkv-1.lm.doe.gov\nwww.soars-lkv-1.lm.doe.gov",
-    "id": 21111711204,
-    "entry_timestamp": "2025-09-18T16:18:28.546",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "51ac443075017356908cab15ba798f82",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-hat-1.lm.doe.gov",
-    "name_value": "soars-hat-1.lm.doe.gov\nwww.soars-hat-1.lm.doe.gov",
-    "id": 21111708374,
-    "entry_timestamp": "2025-09-18T16:18:13.664",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "74bd47c0de8b081e18b6bc2b50cc7b3c",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-hat-1.lm.doe.gov",
-    "name_value": "soars-hat-1.lm.doe.gov\nwww.soars-hat-1.lm.doe.gov",
-    "id": 21111708696,
-    "entry_timestamp": "2025-09-18T16:18:12.751",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "74bd47c0de8b081e18b6bc2b50cc7b3c",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-edg-1.lm.doe.gov",
-    "name_value": "soars-edg-1.lm.doe.gov\nwww.soars-edg-1.lm.doe.gov",
-    "id": 21111707910,
-    "entry_timestamp": "2025-09-18T16:18:00.334",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "00920607cab75336028142449893b39695",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-edg-1.lm.doe.gov",
-    "name_value": "soars-edg-1.lm.doe.gov\nwww.soars-edg-1.lm.doe.gov",
-    "id": 21111691193,
-    "entry_timestamp": "2025-09-18T16:17:59.437",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "00920607cab75336028142449893b39695",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-grj-1.lm.doe.gov",
-    "name_value": "soars-grj-1.lm.doe.gov\nwww.soars-grj-1.lm.doe.gov",
-    "id": 21111691096,
-    "entry_timestamp": "2025-09-18T16:17:49.085",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "34865d254395ae5b0cc3fca0262ac31d",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-grj-1.lm.doe.gov",
-    "name_value": "soars-grj-1.lm.doe.gov\nwww.soars-grj-1.lm.doe.gov",
-    "id": 21111691643,
-    "entry_timestamp": "2025-09-18T16:17:48.519",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "34865d254395ae5b0cc3fca0262ac31d",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-hat-2.lm.doe.gov",
-    "name_value": "soars-hat-2.lm.doe.gov\nwww.soars-hat-2.lm.doe.gov",
-    "id": 21111690498,
-    "entry_timestamp": "2025-09-18T16:17:34.475",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "11de0c12900e5f7c705938155af9bf98",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-hat-2.lm.doe.gov",
-    "name_value": "soars-hat-2.lm.doe.gov\nwww.soars-hat-2.lm.doe.gov",
-    "id": 21111690029,
-    "entry_timestamp": "2025-09-18T16:17:33.353",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "11de0c12900e5f7c705938155af9bf98",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-mnd-1.lm.doe.gov",
-    "name_value": "soars-mnd-1.lm.doe.gov\nwww.soars-mnd-1.lm.doe.gov",
-    "id": 21111688890,
-    "entry_timestamp": "2025-09-18T16:17:21.219",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "0099e37e2a89b11de2d3cb4a7028021e1c",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-mnd-1.lm.doe.gov",
-    "name_value": "soars-mnd-1.lm.doe.gov\nwww.soars-mnd-1.lm.doe.gov",
-    "id": 21111689452,
-    "entry_timestamp": "2025-09-18T16:17:20.082",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "0099e37e2a89b11de2d3cb4a7028021e1c",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-rfl-1.lm.doe.gov",
-    "name_value": "soars-rfl-1.lm.doe.gov\nwww.soars-rfl-1.lm.doe.gov",
-    "id": 21111688813,
-    "entry_timestamp": "2025-09-18T16:17:10.534",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "009104e128e83eb4cde093e41df79e6459",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-rfl-1.lm.doe.gov",
-    "name_value": "soars-rfl-1.lm.doe.gov\nwww.soars-rfl-1.lm.doe.gov",
-    "id": 21111690028,
-    "entry_timestamp": "2025-09-18T16:17:09.305",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "009104e128e83eb4cde093e41df79e6459",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-rfs-1.lm.doe.gov",
-    "name_value": "soars-rfs-1.lm.doe.gov\nwww.soars-rfs-1.lm.doe.gov",
-    "id": 21111688697,
-    "entry_timestamp": "2025-09-18T16:17:01.21",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "00ef1cb19429e6dcdfcdbf9791a4553cee",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-rfs-1.lm.doe.gov",
-    "name_value": "soars-rfs-1.lm.doe.gov\nwww.soars-rfs-1.lm.doe.gov",
-    "id": 21111688809,
-    "entry_timestamp": "2025-09-18T16:16:59.707",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "00ef1cb19429e6dcdfcdbf9791a4553cee",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-shb-1.lm.doe.gov",
-    "name_value": "soars-shb-1.lm.doe.gov\nwww.soars-shb-1.lm.doe.gov",
-    "id": 21111688696,
-    "entry_timestamp": "2025-09-18T16:16:47.319",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "732ae4efc225f64115a914b86d8a1f19",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-shb-1.lm.doe.gov",
-    "name_value": "soars-shb-1.lm.doe.gov\nwww.soars-shb-1.lm.doe.gov",
-    "id": 21111673089,
-    "entry_timestamp": "2025-09-18T16:16:46.508",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "732ae4efc225f64115a914b86d8a1f19",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-tub-1.lm.doe.gov",
-    "name_value": "soars-tub-1.lm.doe.gov\nwww.soars-tub-1.lm.doe.gov",
-    "id": 21111671721,
-    "entry_timestamp": "2025-09-18T16:16:33.004",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "41cbd2b4d18b935ec284eedb99b2d623",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-tub-1.lm.doe.gov",
-    "name_value": "soars-tub-1.lm.doe.gov\nwww.soars-tub-1.lm.doe.gov",
-    "id": 21111672569,
-    "entry_timestamp": "2025-09-18T16:16:32.496",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "41cbd2b4d18b935ec284eedb99b2d623",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-tub-2.lm.doe.gov",
-    "name_value": "soars-tub-2.lm.doe.gov\nwww.soars-tub-2.lm.doe.gov",
-    "id": 21111670563,
-    "entry_timestamp": "2025-09-18T16:16:06.998",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "2db7f3f64f4457fba1ade1f4db93415c",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-tub-2.lm.doe.gov",
-    "name_value": "soars-tub-2.lm.doe.gov\nwww.soars-tub-2.lm.doe.gov",
-    "id": 21111670521,
-    "entry_timestamp": "2025-09-18T16:16:06.472",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "2db7f3f64f4457fba1ade1f4db93415c",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-wel-2.lm.doe.gov",
-    "name_value": "soars-wel-2.lm.doe.gov\nwww.soars-wel-2.lm.doe.gov",
-    "id": 21111670499,
-    "entry_timestamp": "2025-09-18T16:15:56.227",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "66fa9c75c9c842d92e379858d75d08ec",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-wel-2.lm.doe.gov",
-    "name_value": "soars-wel-2.lm.doe.gov\nwww.soars-wel-2.lm.doe.gov",
-    "id": 21111670396,
-    "entry_timestamp": "2025-09-18T16:15:54.878",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "66fa9c75c9c842d92e379858d75d08ec",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-mnt-3.lm.doe.gov",
-    "name_value": "soars-mnt-3.lm.doe.gov\nwww.soars-mnt-3.lm.doe.gov",
-    "id": 21111659399,
-    "entry_timestamp": "2025-09-18T16:15:44.565",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "2445a918f37473615bc2a28ce22a489e",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-mnt-3.lm.doe.gov",
-    "name_value": "soars-mnt-3.lm.doe.gov\nwww.soars-mnt-3.lm.doe.gov",
-    "id": 21111659091,
-    "entry_timestamp": "2025-09-18T16:15:42.252",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "2445a918f37473615bc2a28ce22a489e",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-wel-1.lm.doe.gov",
-    "name_value": "soars-wel-1.lm.doe.gov\nwww.soars-wel-1.lm.doe.gov",
-    "id": 21111656846,
-    "entry_timestamp": "2025-09-18T16:15:33.688",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "008db7f9ed0c368aebef32e49fe288a8b9",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-wel-1.lm.doe.gov",
-    "name_value": "soars-wel-1.lm.doe.gov\nwww.soars-wel-1.lm.doe.gov",
-    "id": 21111656738,
-    "entry_timestamp": "2025-09-18T16:15:30.825",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "008db7f9ed0c368aebef32e49fe288a8b9",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-shp-2.lm.doe.gov",
-    "name_value": "soars-shp-2.lm.doe.gov\nwww.soars-shp-2.lm.doe.gov",
-    "id": 21111653966,
-    "entry_timestamp": "2025-09-18T16:15:20.432",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "00ca23e6e892cbd250a15db9d7f711f27d",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-shp-2.lm.doe.gov",
-    "name_value": "soars-shp-2.lm.doe.gov\nwww.soars-shp-2.lm.doe.gov",
-    "id": 21111655223,
-    "entry_timestamp": "2025-09-18T16:15:18.413",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "00ca23e6e892cbd250a15db9d7f711f27d",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-shp-1.lm.doe.gov",
-    "name_value": "soars-shp-1.lm.doe.gov\nwww.soars-shp-1.lm.doe.gov",
-    "id": 21111653238,
-    "entry_timestamp": "2025-09-18T16:15:01.013",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "00a54d5b7cfa6813141aea6f96c7e5cd46",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-shp-1.lm.doe.gov",
-    "name_value": "soars-shp-1.lm.doe.gov\nwww.soars-shp-1.lm.doe.gov",
-    "id": 21111653408,
-    "entry_timestamp": "2025-09-18T16:15:00.019",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "00a54d5b7cfa6813141aea6f96c7e5cd46",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-rfs-3.lm.doe.gov",
-    "name_value": "soars-rfs-3.lm.doe.gov\nwww.soars-rfs-3.lm.doe.gov",
-    "id": 21111653077,
-    "entry_timestamp": "2025-09-18T16:14:51.919",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "00d4c99b401ad02c05978e7ca90a00bbbc",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-rfs-3.lm.doe.gov",
-    "name_value": "soars-rfs-3.lm.doe.gov\nwww.soars-rfs-3.lm.doe.gov",
-    "id": 21111638743,
-    "entry_timestamp": "2025-09-18T16:14:50.768",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "00d4c99b401ad02c05978e7ca90a00bbbc",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-rfs-2.lm.doe.gov",
-    "name_value": "soars-rfs-2.lm.doe.gov\nwww.soars-rfs-2.lm.doe.gov",
-    "id": 21111637369,
-    "entry_timestamp": "2025-09-18T16:14:37.387",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "00a5ccf8d2c85baa5ddd2f2dc8c82a363f",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-rfs-2.lm.doe.gov",
-    "name_value": "soars-rfs-2.lm.doe.gov\nwww.soars-rfs-2.lm.doe.gov",
-    "id": 21111635533,
-    "entry_timestamp": "2025-09-18T16:14:36.324",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "00a5ccf8d2c85baa5ddd2f2dc8c82a363f",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-rfo-2.lm.doe.gov",
-    "name_value": "soars-rfo-2.lm.doe.gov\nwww.soars-rfo-2.lm.doe.gov",
-    "id": 21111635755,
-    "entry_timestamp": "2025-09-18T16:14:26.914",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "0b5307ffeb0cf363b17f7f55ff878edd",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-rfo-2.lm.doe.gov",
-    "name_value": "soars-rfo-2.lm.doe.gov\nwww.soars-rfo-2.lm.doe.gov",
-    "id": 21111633914,
-    "entry_timestamp": "2025-09-18T16:14:26.309",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "0b5307ffeb0cf363b17f7f55ff878edd",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-rfn-1.lm.doe.gov",
-    "name_value": "soars-rfn-1.lm.doe.gov\nwww.soars-rfn-1.lm.doe.gov",
-    "id": 21111630210,
-    "entry_timestamp": "2025-09-18T16:14:17.298",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "00e90c6f6f5662809da926618a22752bad",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-rfn-1.lm.doe.gov",
-    "name_value": "soars-rfn-1.lm.doe.gov\nwww.soars-rfn-1.lm.doe.gov",
-    "id": 21111629860,
-    "entry_timestamp": "2025-09-18T16:14:16.056",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "00e90c6f6f5662809da926618a22752bad",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-rfl-2.lm.doe.gov",
-    "name_value": "soars-rfl-2.lm.doe.gov\nwww.soars-rfl-2.lm.doe.gov",
-    "id": 21111629859,
-    "entry_timestamp": "2025-09-18T16:14:04.37",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "009abebe633a6ef24dd6316eb748c841b4",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-rfl-2.lm.doe.gov",
-    "name_value": "soars-rfl-2.lm.doe.gov\nwww.soars-rfl-2.lm.doe.gov",
-    "id": 21111629378,
-    "entry_timestamp": "2025-09-18T16:14:02.828",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "009abebe633a6ef24dd6316eb748c841b4",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-rfo-1.lm.doe.gov",
-    "name_value": "soars-rfo-1.lm.doe.gov\nwww.soars-rfo-1.lm.doe.gov",
-    "id": 21111629856,
-    "entry_timestamp": "2025-09-18T16:13:55.535",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "00944d88dd3ebdde82b6c35b5ea0b62533",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-rfo-1.lm.doe.gov",
-    "name_value": "soars-rfo-1.lm.doe.gov\nwww.soars-rfo-1.lm.doe.gov",
-    "id": 21111629210,
-    "entry_timestamp": "2025-09-18T16:13:53.858",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "00944d88dd3ebdde82b6c35b5ea0b62533",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-mon-1.lm.doe.gov",
-    "name_value": "soars-mon-1.lm.doe.gov\nwww.soars-mon-1.lm.doe.gov",
-    "id": 21111628363,
-    "entry_timestamp": "2025-09-18T16:13:37.206",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "09cce1d8702be0cedd2c6ed0aa347e37",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-mon-1.lm.doe.gov",
-    "name_value": "soars-mon-1.lm.doe.gov\nwww.soars-mon-1.lm.doe.gov",
-    "id": 21111628441,
-    "entry_timestamp": "2025-09-18T16:13:35.799",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "09cce1d8702be0cedd2c6ed0aa347e37",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-mnt-2.lm.doe.gov",
-    "name_value": "soars-mnt-2.lm.doe.gov\nwww.soars-mnt-2.lm.doe.gov",
-    "id": 21111612271,
-    "entry_timestamp": "2025-09-18T16:13:25.145",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "00c8486db65e78bf990e01abad535e0b56",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-mnt-2.lm.doe.gov",
-    "name_value": "soars-mnt-2.lm.doe.gov\nwww.soars-mnt-2.lm.doe.gov",
-    "id": 21111612646,
-    "entry_timestamp": "2025-09-18T16:13:24.277",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "00c8486db65e78bf990e01abad535e0b56",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-mnt-1.lm.doe.gov",
-    "name_value": "soars-mnt-1.lm.doe.gov\nwww.soars-mnt-1.lm.doe.gov",
-    "id": 21111609741,
-    "entry_timestamp": "2025-09-18T16:13:11.959",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "008d121172c50ee40c324da9be106f77b7",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-mnt-1.lm.doe.gov",
-    "name_value": "soars-mnt-1.lm.doe.gov\nwww.soars-mnt-1.lm.doe.gov",
-    "id": 21111610391,
-    "entry_timestamp": "2025-09-18T16:13:11.016",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "008d121172c50ee40c324da9be106f77b7",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-hat-3.lm.doe.gov",
-    "name_value": "soars-hat-3.lm.doe.gov\nwww.soars-hat-3.lm.doe.gov",
-    "id": 21111610389,
-    "entry_timestamp": "2025-09-18T16:13:03.264",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "0080261bed1eff2d88d7d37393e33bf60b",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-hat-3.lm.doe.gov",
-    "name_value": "soars-hat-3.lm.doe.gov\nwww.soars-hat-3.lm.doe.gov",
-    "id": 21111610388,
-    "entry_timestamp": "2025-09-18T16:13:02.346",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "0080261bed1eff2d88d7d37393e33bf60b",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-grj-2.lm.doe.gov",
-    "name_value": "soars-grj-2.lm.doe.gov\nwww.soars-grj-2.lm.doe.gov",
-    "id": 21111608845,
-    "entry_timestamp": "2025-09-18T16:12:49.758",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "7194f2bdd4c2a8ee81c252ab65e1e2d6",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-grj-2.lm.doe.gov",
-    "name_value": "soars-grj-2.lm.doe.gov\nwww.soars-grj-2.lm.doe.gov",
-    "id": 21111609385,
-    "entry_timestamp": "2025-09-18T16:12:48.83",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "7194f2bdd4c2a8ee81c252ab65e1e2d6",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-dur-1.lm.doe.gov",
-    "name_value": "soars-dur-1.lm.doe.gov\nwww.soars-dur-1.lm.doe.gov",
-    "id": 21111588546,
-    "entry_timestamp": "2025-09-18T16:11:35.5",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "0a205a5c752ebba5717048220b4eb5d1",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-dur-1.lm.doe.gov",
-    "name_value": "soars-dur-1.lm.doe.gov\nwww.soars-dur-1.lm.doe.gov",
-    "id": 21111588705,
-    "entry_timestamp": "2025-09-18T16:11:34.862",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "0a205a5c752ebba5717048220b4eb5d1",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-bar-1.lm.doe.gov",
-    "name_value": "soars-bar-1.lm.doe.gov\nwww.soars-bar-1.lm.doe.gov",
-    "id": 21111570625,
-    "entry_timestamp": "2025-09-18T16:11:21.495",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "00d94be8a3573e5b6b32323ba0ef0342e7",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-bar-1.lm.doe.gov",
-    "name_value": "soars-bar-1.lm.doe.gov\nwww.soars-bar-1.lm.doe.gov",
-    "id": 21111570249,
-    "entry_timestamp": "2025-09-18T16:11:20.06",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "00d94be8a3573e5b6b32323ba0ef0342e7",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-blu-1.lm.doe.gov",
-    "name_value": "soars-blu-1.lm.doe.gov\nwww.soars-blu-1.lm.doe.gov",
-    "id": 21111568911,
-    "entry_timestamp": "2025-09-18T16:11:00.868",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "7a6036b8e159e1afe67bf26c5ec7bd45",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-blu-1.lm.doe.gov",
-    "name_value": "soars-blu-1.lm.doe.gov\nwww.soars-blu-1.lm.doe.gov",
-    "id": 21111568794,
-    "entry_timestamp": "2025-09-18T16:11:00.335",
-    "not_before": "2025-09-18T00:00:00",
-    "not_after": "2026-09-23T23:59:59",
-    "serial_number": "7a6036b8e159e1afe67bf26c5ec7bd45",
     "result_count": 3
   },
   {
@@ -14014,30 +12358,6 @@
     "not_after": "2026-09-17T23:59:59",
     "serial_number": "2527a5b6c49b3ea6033bf4db0c562c42",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-gjo-1.lm.doe.gov",
-    "name_value": "soars-gjo-1.lm.doe.gov\nwww.soars-gjo-1.lm.doe.gov",
-    "id": 21055468364,
-    "entry_timestamp": "2025-09-16T10:39:50.155",
-    "not_before": "2025-09-16T00:00:00",
-    "not_after": "2026-09-19T23:59:59",
-    "serial_number": "00a8f4ca3ffe112f516f109c4b5931eed3",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "soars-gjo-1.lm.doe.gov",
-    "name_value": "soars-gjo-1.lm.doe.gov\nwww.soars-gjo-1.lm.doe.gov",
-    "id": 21055468614,
-    "entry_timestamp": "2025-09-16T10:39:49.436",
-    "not_before": "2025-09-16T00:00:00",
-    "not_after": "2026-09-19T23:59:59",
-    "serial_number": "00a8f4ca3ffe112f516f109c4b5931eed3",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 385516,
@@ -14181,30 +12501,6 @@
     "not_before": "2025-09-10T00:00:00",
     "not_after": "2026-09-10T23:59:59",
     "serial_number": "00b5fcf79f732c331e990e77c6390c5a45",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "medsafe.doe.gov",
-    "name_value": "medsafe.doe.gov",
-    "id": 20908556871,
-    "entry_timestamp": "2025-09-09T23:15:00.595",
-    "not_before": "2024-12-31T00:00:00",
-    "not_after": "2026-01-02T23:59:59",
-    "serial_number": "0ae26e61c107275407e3a5e3dca7ec5f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "hrp.doe.gov",
-    "name_value": "hrp.doe.gov",
-    "id": 20907732278,
-    "entry_timestamp": "2025-09-09T22:21:20.11",
-    "not_before": "2024-12-31T00:00:00",
-    "not_after": "2026-01-07T23:59:59",
-    "serial_number": "0687b964d1c7b6aeaf88caba93669063",
     "result_count": 2
   },
   {
@@ -14434,18 +12730,6 @@
     "not_after": "2026-10-08T14:45:00",
     "serial_number": "40019929ca7d200134fd1bd612b85ccb",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "yoda.doe.gov",
-    "name_value": "yoda.doe.gov\nyoda.in.doe.gov",
-    "id": 20859432763,
-    "entry_timestamp": "2025-09-07T23:22:19.147",
-    "not_before": "2024-11-19T19:17:59",
-    "not_after": "2025-12-19T05:00:00",
-    "serial_number": "3c5aa192a5d99409f74c5f33207cbc02",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 385516,
@@ -14841,18 +13125,6 @@
     "not_before": "2025-09-02T00:00:00",
     "not_after": "2026-09-11T23:59:59",
     "serial_number": "58b2a0c1c1ac628c5ecd0de1761c3aae",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "vdi.kcnsc.doe.gov",
-    "name_value": "vdi.kcnsc.doe.gov",
-    "id": 20747905664,
-    "entry_timestamp": "2025-09-02T16:31:47.741",
-    "not_before": "2025-09-02T00:00:00",
-    "not_after": "2026-08-26T23:59:59",
-    "serial_number": "0b277d57b0c900789d014c90021da9f5",
     "result_count": 2
   },
   {
@@ -15468,30 +13740,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "cawwt01.lm.doe.gov",
-    "name_value": "cawwt01.lm.doe.gov\nwww.cawwt01.lm.doe.gov",
-    "id": 20408376075,
-    "entry_timestamp": "2025-08-18T16:57:18.073",
-    "not_before": "2025-08-18T00:00:00",
-    "not_after": "2026-08-18T23:59:59",
-    "serial_number": "39e64a3c9c097fb88de022199e06447c",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "cawwt01.lm.doe.gov",
-    "name_value": "cawwt01.lm.doe.gov\nwww.cawwt01.lm.doe.gov",
-    "id": 20408376316,
-    "entry_timestamp": "2025-08-18T16:57:17.167",
-    "not_before": "2025-08-18T00:00:00",
-    "not_after": "2026-08-18T23:59:59",
-    "serial_number": "39e64a3c9c097fb88de022199e06447c",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "*.aws.juce.nnsa.doe.gov",
@@ -15550,30 +13798,6 @@
     "not_after": "2026-08-16T23:59:59",
     "serial_number": "00eea9be18ba07371f75e1125309764343",
     "result_count": 4
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "tnl.lm.doe.gov",
-    "name_value": "tnl.lm.doe.gov\nwww.tnl.lm.doe.gov",
-    "id": 20333773617,
-    "entry_timestamp": "2025-08-14T18:50:06.693",
-    "not_before": "2025-08-14T00:00:00",
-    "not_after": "2026-08-14T23:59:59",
-    "serial_number": "00d245234847738f584a5f0163c20abd6e",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "tnl.lm.doe.gov",
-    "name_value": "tnl.lm.doe.gov\nwww.tnl.lm.doe.gov",
-    "id": 20333773246,
-    "entry_timestamp": "2025-08-14T18:50:05.425",
-    "not_before": "2025-08-14T00:00:00",
-    "not_after": "2026-08-14T23:59:59",
-    "serial_number": "00d245234847738f584a5f0163c20abd6e",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 385512,
@@ -15873,30 +14097,6 @@
     "not_before": "2025-08-11T00:00:00",
     "not_after": "2026-02-11T23:59:59",
     "serial_number": "058c46cf619b8b1388f1489fead13146",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "json.pars.doe.gov",
-    "name_value": "json.pars.doe.gov",
-    "id": 20188892362,
-    "entry_timestamp": "2025-08-07T23:41:16.351",
-    "not_before": "2025-04-04T00:00:00",
-    "not_after": "2026-04-04T23:59:59",
-    "serial_number": "0c202c7d1b5dcfcf8f7050efb2811f93",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "json.pars.doe.gov",
-    "name_value": "json.pars.doe.gov",
-    "id": 20188880249,
-    "entry_timestamp": "2025-08-07T23:40:29.615",
-    "not_before": "2025-08-07T00:00:00",
-    "not_after": "2026-04-14T23:59:59",
-    "serial_number": "01a9055c97f244a2d123f0ad807eab65",
     "result_count": 2
   },
   {
@@ -16428,30 +14628,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "tdms.nwm.doe.gov",
-    "name_value": "tdms.nwm.doe.gov",
-    "id": 19859680893,
-    "entry_timestamp": "2025-07-23T17:58:35.902",
-    "not_before": "2025-04-29T00:00:00",
-    "not_after": "2026-04-14T23:59:59",
-    "serial_number": "011d853e81b64d13b68271e7005f337a",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "tdms.nwm.doe.gov",
-    "name_value": "tdms.nwm.doe.gov",
-    "id": 19859681837,
-    "entry_timestamp": "2025-07-23T17:58:07.284",
-    "not_before": "2025-07-23T00:00:00",
-    "not_after": "2026-04-14T23:59:59",
-    "serial_number": "04f70e8989087b949d26c8d97997a902",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 385512,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
     "common_name": "mail.in.doe.gov",
@@ -16474,78 +14650,6 @@
     "not_after": "2026-07-23T23:59:59",
     "serial_number": "70f55f71870225020d16c5e8d86b7103",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "dirs-development.nwm.doe.gov",
-    "name_value": "dirs-development.nwm.doe.gov",
-    "id": 19851479281,
-    "entry_timestamp": "2025-07-23T08:31:05.551",
-    "not_before": "2025-06-02T00:00:00",
-    "not_after": "2026-04-14T23:59:59",
-    "serial_number": "06779e623088631cbb71ef94bf357943",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "dirs-development.nwm.doe.gov",
-    "name_value": "dirs-development.nwm.doe.gov",
-    "id": 19851463016,
-    "entry_timestamp": "2025-07-23T08:29:28.565",
-    "not_before": "2025-07-23T00:00:00",
-    "not_after": "2026-04-14T23:59:59",
-    "serial_number": "024a6a7c3ea64e1a808f1f01e4fdad84",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "tdms-development.nwm.doe.gov",
-    "name_value": "tdms-development.nwm.doe.gov",
-    "id": 19841474425,
-    "entry_timestamp": "2025-07-22T21:52:12.851",
-    "not_before": "2025-06-02T00:00:00",
-    "not_after": "2026-04-14T23:59:59",
-    "serial_number": "08a06204b12d52dbe8ee039ecaf05c98",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "tdms-development.nwm.doe.gov",
-    "name_value": "tdms-development.nwm.doe.gov",
-    "id": 19841458258,
-    "entry_timestamp": "2025-07-22T21:51:33.319",
-    "not_before": "2025-07-22T00:00:00",
-    "not_after": "2026-04-14T23:59:59",
-    "serial_number": "08383d135563821d923e9b5511bfe728",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "csits.nwm.doe.gov",
-    "name_value": "csits.nwm.doe.gov",
-    "id": 19841066624,
-    "entry_timestamp": "2025-07-22T21:25:08.616",
-    "not_before": "2025-06-01T00:00:00",
-    "not_after": "2026-04-14T23:59:59",
-    "serial_number": "0a5f2bbf46069186dd6d2068036827cf",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "csits.nwm.doe.gov",
-    "name_value": "csits.nwm.doe.gov",
-    "id": 19841067802,
-    "entry_timestamp": "2025-07-22T21:24:45.01",
-    "not_before": "2025-07-22T00:00:00",
-    "not_after": "2026-04-14T23:59:59",
-    "serial_number": "0af08daae5a5feb28afcc5f83075bcd6",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 385512,
@@ -16641,30 +14745,6 @@
     "not_before": "2025-07-17T17:55:26",
     "not_after": "2026-08-16T10:17:06",
     "serial_number": "7db6ddfc4f79f34044f9977561d4b6f6",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "tnl.lm.doe.gov",
-    "name_value": "tnl.lm.doe.gov\nwww.tnl.lm.doe.gov",
-    "id": 19738220955,
-    "entry_timestamp": "2025-07-17T17:52:26.556",
-    "not_before": "2025-07-17T00:00:00",
-    "not_after": "2026-07-17T23:59:59",
-    "serial_number": "00a832b6ba35d4c94c939d73764a5dad22",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "tnl.lm.doe.gov",
-    "name_value": "tnl.lm.doe.gov\nwww.tnl.lm.doe.gov",
-    "id": 19738220499,
-    "entry_timestamp": "2025-07-17T17:52:25.647",
-    "not_before": "2025-07-17T00:00:00",
-    "not_after": "2026-07-17T23:59:59",
-    "serial_number": "00a832b6ba35d4c94c939d73764a5dad22",
     "result_count": 3
   },
   {
@@ -16764,30 +14844,6 @@
     "result_count": 18
   },
   {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "bclv-tnl01.lm.doe.gov",
-    "name_value": "bclv-tnl01.lm.doe.gov\nwww.bclv-tnl01.lm.doe.gov",
-    "id": 19683734046,
-    "entry_timestamp": "2025-07-15T13:28:36.652",
-    "not_before": "2025-07-15T00:00:00",
-    "not_after": "2026-07-15T23:59:59",
-    "serial_number": "00cd448ee74e3352cfc5eb34a8176d6427",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "bclv-tnl01.lm.doe.gov",
-    "name_value": "bclv-tnl01.lm.doe.gov\nwww.bclv-tnl01.lm.doe.gov",
-    "id": 19683734248,
-    "entry_timestamp": "2025-07-15T13:28:34.563",
-    "not_before": "2025-07-15T00:00:00",
-    "not_after": "2026-07-15T23:59:59",
-    "serial_number": "00cd448ee74e3352cfc5eb34a8176d6427",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "scorecard.spr.doe.gov",
@@ -16869,18 +14925,6 @@
     "not_before": "2025-07-09T23:08:56",
     "not_after": "2026-08-09T04:00:00",
     "serial_number": "0a42a6ae39aceb14e36590fed7addbb8",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "nncamsauthenticator.doe.gov",
-    "name_value": "nncamsauthenticator.doe.gov",
-    "id": 19557071464,
-    "entry_timestamp": "2025-07-09T20:56:59.978",
-    "not_before": "2025-07-09T00:00:00",
-    "not_after": "2026-07-08T23:59:59",
-    "serial_number": "063ff0f22dc84298eee80cc8e0f51656",
     "result_count": 2
   },
   {
@@ -17280,30 +15324,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "science.doe.gov",
-    "name_value": "autodiscover.osc.doe.gov\nautodiscover.science.doe.gov\nmail.osc.doe.gov\nmail.science.doe.gov\nscience.doe.gov\nwebmail.osc.doe.gov\nwww.science.doe.gov",
-    "id": 19273652060,
-    "entry_timestamp": "2025-06-26T20:28:53.331",
-    "not_before": "2025-06-26T00:00:00",
-    "not_after": "2026-06-26T23:59:59",
-    "serial_number": "176bcfe62ac6e8c14cdb3ccc32700ddb",
-    "result_count": 8
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "science.doe.gov",
-    "name_value": "autodiscover.osc.doe.gov\nautodiscover.science.doe.gov\nmail.osc.doe.gov\nmail.science.doe.gov\nscience.doe.gov\nwebmail.osc.doe.gov\nwww.science.doe.gov",
-    "id": 19273652058,
-    "entry_timestamp": "2025-06-26T20:28:52.28",
-    "not_before": "2025-06-26T00:00:00",
-    "not_after": "2026-06-26T23:59:59",
-    "serial_number": "176bcfe62ac6e8c14cdb3ccc32700ddb",
-    "result_count": 8
-  },
-  {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "ise-admin1.net.doe.gov",
@@ -17613,18 +15633,6 @@
     "not_before": "2025-06-23T14:10:09",
     "not_after": "2026-07-23T05:00:00",
     "serial_number": "694f460034d4b2546758b2d38401a60b",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "icpt.doe.gov",
-    "name_value": "icpt.doe.gov\nwww.icpt.doe.gov",
-    "id": 19102766784,
-    "entry_timestamp": "2025-06-18T19:30:30.452",
-    "not_before": "2025-06-18T00:00:00",
-    "not_after": "2026-05-15T23:59:59",
-    "serial_number": "0d692060e872832946b00b646a5e31dc",
     "result_count": 3
   },
   {
@@ -18156,18 +16164,6 @@
     "result_count": 4
   },
   {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "tdms-development.nwm.doe.gov",
-    "name_value": "tdms-development.nwm.doe.gov",
-    "id": 18773589263,
-    "entry_timestamp": "2025-06-02T18:11:32.542",
-    "not_before": "2025-06-02T00:00:00",
-    "not_after": "2026-04-14T23:59:59",
-    "serial_number": "08a06204b12d52dbe8ee039ecaf05c98",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "dev.arcgis.netl.doe.gov",
@@ -18177,18 +16173,6 @@
     "not_before": "2025-06-02T14:54:38",
     "not_after": "2026-07-02T04:00:00",
     "serial_number": "4b4d54014a37ffdb5e48fdb772a3f269",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "dirs-development.nwm.doe.gov",
-    "name_value": "dirs-development.nwm.doe.gov",
-    "id": 18770035665,
-    "entry_timestamp": "2025-06-02T13:15:34.537",
-    "not_before": "2025-06-02T00:00:00",
-    "not_after": "2026-04-14T23:59:59",
-    "serial_number": "06779e623088631cbb71ef94bf357943",
     "result_count": 2
   },
   {
@@ -18202,18 +16186,6 @@
     "not_after": "2026-05-31T02:45:51",
     "serial_number": "5cb821dbbe38107fc6e988d2f43b6f81",
     "result_count": 4
-  },
-  {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "csits.nwm.doe.gov",
-    "name_value": "csits.nwm.doe.gov",
-    "id": 18750796156,
-    "entry_timestamp": "2025-06-01T13:17:06.421",
-    "not_before": "2025-06-01T00:00:00",
-    "not_after": "2026-04-14T23:59:59",
-    "serial_number": "0a5f2bbf46069186dd6d2068036827cf",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 365075,
@@ -18844,18 +16816,6 @@
     "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA",
     "common_name": "rstlm.lm.doe.gov",
     "name_value": "rstlm.lm.doe.gov\nwww.rstlm.lm.doe.gov",
-    "id": 18361814430,
-    "entry_timestamp": "2025-05-12T13:05:25.045",
-    "not_before": "2025-05-12T00:00:00",
-    "not_after": "2026-05-12T23:59:59",
-    "serial_number": "2c900bc6cb85f23812f7482dc3c70c1d",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 105487,
-    "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA",
-    "common_name": "rstlm.lm.doe.gov",
-    "name_value": "rstlm.lm.doe.gov\nwww.rstlm.lm.doe.gov",
     "id": 18361814463,
     "entry_timestamp": "2025-05-12T13:05:23.496",
     "not_before": "2025-05-12T00:00:00",
@@ -19020,18 +16980,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "tdms-staging.nwm.doe.gov",
-    "name_value": "tdms-staging.nwm.doe.gov",
-    "id": 18249365334,
-    "entry_timestamp": "2025-05-06T09:39:07.334",
-    "not_before": "2025-05-06T00:00:00",
-    "not_after": "2026-04-14T23:59:59",
-    "serial_number": "0d453e5a51ac0920dde0edcd5baa46cd",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "listserv.netl.doe.gov",
@@ -19114,18 +17062,6 @@
     "not_after": "2026-06-03T04:00:00",
     "serial_number": "48365e8388be3c6a5d9ea30c49670b76",
     "result_count": 7
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "nncamslrn.doe.gov",
-    "name_value": "nncamslrn.doe.gov",
-    "id": 18200396144,
-    "entry_timestamp": "2025-05-03T13:45:20.131",
-    "not_before": "2025-05-03T00:00:00",
-    "not_after": "2026-05-06T23:59:59",
-    "serial_number": "0770505c60cfd4d56b2f135fa9fb90d8",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 185752,
@@ -19233,18 +17169,6 @@
     "not_before": "2025-04-30T00:00:00",
     "not_after": "2026-05-30T23:59:59",
     "serial_number": "00e7f2d3f122cf75b603d47f278d85f280",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "tdms.nwm.doe.gov",
-    "name_value": "tdms.nwm.doe.gov",
-    "id": 18120848954,
-    "entry_timestamp": "2025-04-29T06:46:18.318",
-    "not_before": "2025-04-29T00:00:00",
-    "not_after": "2026-04-14T23:59:59",
-    "serial_number": "011d853e81b64d13b68271e7005f337a",
     "result_count": 2
   },
   {
@@ -19365,18 +17289,6 @@
     "not_before": "2025-04-21T18:29:13",
     "not_after": "2026-04-21T18:33:36",
     "serial_number": "683cca99d7de47b92e502755f4b2e585",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "ost-liaison.doe.gov",
-    "name_value": "ost-liaison.doe.gov",
-    "id": 17980653414,
-    "entry_timestamp": "2025-04-21T16:32:10.943",
-    "not_before": "2025-04-21T00:00:00",
-    "not_after": "2026-05-22T23:59:59",
-    "serial_number": "0d90bd63202e8dbc4f005cbbeb5c7cd0",
     "result_count": 2
   },
   {
@@ -19572,18 +17484,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "aruba-guest.kcp.com",
-    "name_value": "aruba-guest1.kcnsc.doe.gov\naruba-guest1-mgt.kcnsc.doe.gov\naruba-guest2.kcnsc.doe.gov\naruba-guest2-mgt.kcnsc.doe.gov\naruba-guest.kcnsc.doe.gov\naruba-guest-mgt.kcnsc.doe.gov\nguest.kcnsc.doe.gov",
-    "id": 17867674644,
-    "entry_timestamp": "2025-04-15T18:48:20.344",
-    "not_before": "2025-04-15T00:00:00",
-    "not_after": "2026-05-16T23:59:59",
-    "serial_number": "029f0dace8fd092020878a4a6b6a43fe",
-    "result_count": 7
-  },
-  {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "wdacs.doe.gov",
@@ -19728,30 +17628,6 @@
     "result_count": 7
   },
   {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "*.kcnsc.doe.gov",
-    "name_value": "*.kcnsc.doe.gov\nkcnsc.doe.gov\n*.nsc.doe.gov\nnsc.doe.gov",
-    "id": 17763126344,
-    "entry_timestamp": "2025-04-10T15:24:52.858",
-    "not_before": "2025-04-10T00:00:00",
-    "not_after": "2026-04-14T23:59:59",
-    "serial_number": "0aeed4c79e1c9c2a87b258fdbbc2ad66",
-    "result_count": 5
-  },
-  {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "www.kcnsc.doe.gov",
-    "name_value": "kcnsc.doe.gov\nwww.kcnsc.doe.gov",
-    "id": 17761655873,
-    "entry_timestamp": "2025-04-10T13:18:30.038",
-    "not_before": "2025-04-10T00:00:00",
-    "not_after": "2026-04-14T23:59:59",
-    "serial_number": "0aead0da2632b42a04ff3f54c51da64d",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "gtaescgp02.ahe.doe.gov",
@@ -19800,18 +17676,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "*.jgi.doe.gov",
-    "name_value": "*.jgi.doe.gov\njgi.doe.gov",
-    "id": 17705703902,
-    "entry_timestamp": "2025-04-08T02:04:23.142",
-    "not_before": "2025-01-07T00:00:00",
-    "not_after": "2026-02-07T23:59:59",
-    "serial_number": "0b242ad14959acc129c86e0f05d72b3d",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "epicdoetraining.ee.doe.gov",
@@ -19848,18 +17712,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "json.pars.doe.gov",
-    "name_value": "json.pars.doe.gov",
-    "id": 17620496787,
-    "entry_timestamp": "2025-04-04T07:46:10.049",
-    "not_before": "2025-04-04T00:00:00",
-    "not_after": "2026-04-04T23:59:59",
-    "serial_number": "0c202c7d1b5dcfcf8f7050efb2811f93",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "*.arpa-e-impacts.doe.gov",
@@ -19870,30 +17722,6 @@
     "not_after": "2026-04-03T20:41:49",
     "serial_number": "7cc6ef9b233129b32be9091067d2436b",
     "result_count": 5
-  },
-  {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "json.pars.doe.gov",
-    "name_value": "json.pars.doe.gov",
-    "id": 17601136536,
-    "entry_timestamp": "2025-04-03T09:39:16.838",
-    "not_before": "2025-04-03T00:00:00",
-    "not_after": "2026-04-03T23:59:59",
-    "serial_number": "0a8fd0e8d5da778cc70ee05b45100e81",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "nnaccess.doe.gov",
-    "name_value": "nnaccess.doe.gov",
-    "id": 17586735282,
-    "entry_timestamp": "2025-04-02T18:28:31.425",
-    "not_before": "2025-04-02T00:00:00",
-    "not_after": "2026-04-14T23:59:59",
-    "serial_number": "0653b264917aac5702e39504e8310cb2",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 185752,
@@ -19960,18 +17788,6 @@
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "www.aphelper.doe.gov",
     "name_value": "www.aphelper.doe.gov",
-    "id": 17564869957,
-    "entry_timestamp": "2025-04-01T20:25:48.128",
-    "not_before": "2025-04-01T00:00:00",
-    "not_after": "2026-04-09T23:59:59",
-    "serial_number": "098645d6a801a2aaeb3e19c45436fdac",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "www.aphelper.doe.gov",
-    "name_value": "www.aphelper.doe.gov",
     "id": 17563621644,
     "entry_timestamp": "2025-04-01T19:05:47.801",
     "not_before": "2025-04-01T00:00:00",
@@ -20001,18 +17817,6 @@
     "not_before": "2025-04-01T18:43:47",
     "not_after": "2026-04-12T16:55:59",
     "serial_number": "4e92d07c026d2fd3fbe434547517abb0",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "tdms-staging.nwm.doe.gov",
-    "name_value": "tdms-staging.nwm.doe.gov",
-    "id": 17562324967,
-    "entry_timestamp": "2025-04-01T17:41:07.857",
-    "not_before": "2025-04-01T00:00:00",
-    "not_after": "2026-04-01T23:59:59",
-    "serial_number": "0d13aebea46a5aa976104f2834f4bde4",
     "result_count": 2
   },
   {
@@ -20133,18 +17937,6 @@
     "not_before": "2025-03-26T12:33:38",
     "not_after": "2026-04-05T10:48:36",
     "serial_number": "2f45be970e2467a8da2fe22d2445cf9a",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "nncams.doe.gov",
-    "name_value": "nncams.doe.gov",
-    "id": 17400281491,
-    "entry_timestamp": "2025-03-25T18:58:40.781",
-    "not_before": "2025-03-25T00:00:00",
-    "not_after": "2026-03-24T23:59:59",
-    "serial_number": "01d5ae7e9dbd441f27a865267fc06277",
     "result_count": 2
   },
   {
@@ -20356,18 +18148,6 @@
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "pivreg.nn.doe.gov",
     "name_value": "pivreg.nn.doe.gov",
-    "id": 17190273752,
-    "entry_timestamp": "2025-03-17T19:53:50.38",
-    "not_before": "2025-03-17T00:00:00",
-    "not_after": "2026-03-16T23:59:59",
-    "serial_number": "0c1557f437e8616fb7623078064eaf5f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "pivreg.nn.doe.gov",
-    "name_value": "pivreg.nn.doe.gov",
     "id": 17188506459,
     "entry_timestamp": "2025-03-17T18:26:42.697",
     "not_before": "2025-03-17T00:00:00",
@@ -20410,30 +18190,6 @@
     "not_after": "2026-03-18T23:59:59",
     "serial_number": "0df21c52b2a8a4e9fba7857041d501f0",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 105487,
-    "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA",
-    "common_name": "NAP9-EXPRESSE.oem.doe.gov",
-    "name_value": "edgecluster.oem.doe.gov\nhq-expresse.oem.doe.gov\nmeetingeast.oem.doe.gov\nmeeting.oem.doe.gov\nmeetingwest.oem.doe.gov\nNAP9-EXPRESSE.oem.doe.gov",
-    "id": 17090927624,
-    "entry_timestamp": "2025-03-13T18:30:15.901",
-    "not_before": "2025-03-13T00:00:00",
-    "not_after": "2026-03-13T23:59:59",
-    "serial_number": "2b766ac087206c826911a887dd10caaf",
-    "result_count": 7
-  },
-  {
-    "issuer_ca_id": 105487,
-    "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA",
-    "common_name": "NAP9-EXPRESSE.oem.doe.gov",
-    "name_value": "edgecluster.oem.doe.gov\nhq-expresse.oem.doe.gov\nmeetingeast.oem.doe.gov\nmeeting.oem.doe.gov\nmeetingwest.oem.doe.gov\nNAP9-EXPRESSE.oem.doe.gov",
-    "id": 17090927278,
-    "entry_timestamp": "2025-03-13T18:30:15.166",
-    "not_before": "2025-03-13T00:00:00",
-    "not_after": "2026-03-13T23:59:59",
-    "serial_number": "2b766ac087206c826911a887dd10caaf",
-    "result_count": 7
   },
   {
     "issuer_ca_id": 365075,
@@ -21552,18 +19308,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "guest.kcnsc.doe.gov",
-    "name_value": "guest.kcnsc.doe.gov\nguest-pri.kcnsc.doe.gov\nguest-sec.kcnsc.doe.gov",
-    "id": 16428038928,
-    "entry_timestamp": "2025-01-28T20:36:29.509",
-    "not_before": "2025-01-28T00:00:00",
-    "not_after": "2026-02-12T23:59:59",
-    "serial_number": "0ee96dcdf2cf4712cde073509d8a613d",
-    "result_count": 4
-  },
-  {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "gtcfstwq01.doe.gov",
@@ -21573,18 +19317,6 @@
     "not_before": "2025-01-28T20:19:21",
     "not_after": "2026-01-30T12:10:26",
     "serial_number": "5e7fa509ab38ac83d7d6dfd87f7145cd",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "tdms-staging.nwm.doe.gov",
-    "name_value": "tdms-staging.nwm.doe.gov",
-    "id": 16417596640,
-    "entry_timestamp": "2025-01-27T11:25:34.136",
-    "not_before": "2025-01-27T00:00:00",
-    "not_after": "2026-01-27T23:59:59",
-    "serial_number": "068a789bbb4d7c2f88443fd803c4e95f",
     "result_count": 2
   },
   {
@@ -21610,18 +19342,6 @@
     "not_after": "2026-02-02T15:08:46",
     "serial_number": "17b400a49fd03c26c93094ed2470b072",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "guest.kcnsc.doe.gov",
-    "name_value": "guest.kcnsc.doe.gov\nguest-pri.kcnsc.doe.gov\nguest-sec.kcnsc.doe.gov",
-    "id": 16379108284,
-    "entry_timestamp": "2025-01-25T01:06:27.807",
-    "not_before": "2025-01-25T00:00:00",
-    "not_after": "2026-02-12T23:59:59",
-    "serial_number": "0cc974f2ea605883bc226edadfcdddc2",
-    "result_count": 4
   },
   {
     "issuer_ca_id": 365075,
@@ -22150,18 +19870,6 @@
     "not_after": "2026-01-08T23:59:59",
     "serial_number": "00b7a8e40cbf108277ea4dc144b53d4cd6",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "*.jgi.doe.gov",
-    "name_value": "*.jgi.doe.gov\njgi.doe.gov",
-    "id": 16076162056,
-    "entry_timestamp": "2025-01-07T19:50:42.304",
-    "not_before": "2025-01-07T00:00:00",
-    "not_after": "2026-02-07T23:59:59",
-    "serial_number": "0b242ad14959acc129c86e0f05d72b3d",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 365075,
@@ -22713,18 +20421,6 @@
     "not_before": "2024-11-19T00:00:00",
     "not_after": "2025-12-20T23:59:59",
     "serial_number": "03337a5c19c3e71fdf68d47aa2a93d17",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "yoda.doe.gov",
-    "name_value": "yoda.doe.gov\nyoda.in.doe.gov",
-    "id": 15425079282,
-    "entry_timestamp": "2024-11-19T19:28:00.755",
-    "not_before": "2024-11-19T19:17:59",
-    "not_after": "2025-12-19T05:00:00",
-    "serial_number": "3c5aa192a5d99409f74c5f33207cbc02",
     "result_count": 3
   }
 ]
