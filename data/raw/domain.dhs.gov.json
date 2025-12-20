@@ -1,5 +1,77 @@
 [
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "login-test.uscis.dhs.gov",
+    "name_value": "login-test.uscis.dhs.gov",
+    "id": 23215851990,
+    "entry_timestamp": "2025-12-19T15:11:01.788",
+    "not_before": "2025-12-19T00:00:00",
+    "not_after": "2027-01-19T23:59:59",
+    "serial_number": "0968003207cda338cb22d3370476f112",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "login-preprod.uscis.dhs.gov",
+    "name_value": "login-preprod.uscis.dhs.gov",
+    "id": 23215822746,
+    "entry_timestamp": "2025-12-19T15:09:26.04",
+    "not_before": "2025-12-19T00:00:00",
+    "not_after": "2027-01-19T23:59:59",
+    "serial_number": "04ee343dfd4605e885aea15c397b6a69",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "login-dev.uscis.dhs.gov",
+    "name_value": "login-dev.uscis.dhs.gov",
+    "id": 23215774934,
+    "entry_timestamp": "2025-12-19T15:08:08.436",
+    "not_before": "2025-12-19T00:00:00",
+    "not_after": "2027-01-19T23:59:59",
+    "serial_number": "0292bb7600308f0edb95b411a714ea29",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "login.uscis.dhs.gov",
+    "name_value": "login.uscis.dhs.gov",
+    "id": 23215751725,
+    "entry_timestamp": "2025-12-19T15:06:44.093",
+    "not_before": "2025-12-19T00:00:00",
+    "not_after": "2027-01-19T23:59:59",
+    "serial_number": "039a535ddc8fca0327d5e0de25512989",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "nonprod-my.uscis.dhs.gov",
+    "name_value": "cap-my.uscis.dhs.gov\ndev-my.uscis.dhs.gov\nlab-my.uscis.dhs.gov\nnonprod-my.uscis.dhs.gov\nqa-my.uscis.dhs.gov\nuat-my.uscis.dhs.gov",
+    "id": 23206526442,
+    "entry_timestamp": "2025-12-18T20:33:59.286",
+    "not_before": "2025-03-19T00:00:00",
+    "not_after": "2026-03-18T23:59:59",
+    "serial_number": "0ff02e05966f6964ab7a71d50bde3fb4",
+    "result_count": 7
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "nonprod-my.uscis.dhs.gov",
+    "name_value": "cap-my.uscis.dhs.gov\ndev-my.uscis.dhs.gov\nlab-my.uscis.dhs.gov\nnonprod-my.uscis.dhs.gov\nqa-my.uscis.dhs.gov\nuat-my.uscis.dhs.gov",
+    "id": 23203289024,
+    "entry_timestamp": "2025-12-18T20:32:00.554",
+    "not_before": "2025-12-18T00:00:00",
+    "not_after": "2027-01-18T23:59:59",
+    "serial_number": "0ec931410e9d5eaa5375c07af7a59052",
+    "result_count": 7
+  },
+  {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "tstextsoa.fsms.dhs.gov",
@@ -12432,30 +12504,6 @@
     "result_count": 28
   },
   {
-    "issuer_ca_id": 295813,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
-    "common_name": "hqtestmto.dhs.gov",
-    "name_value": "*.hqtestmto.dhs.gov\nhqtestmto.dhs.gov",
-    "id": 21158402722,
-    "entry_timestamp": "2025-09-20T15:24:44.507",
-    "not_before": "2025-09-20T14:26:14",
-    "not_after": "2025-12-19T14:26:13",
-    "serial_number": "0691d516fb93a5ca2272fe104a3a844baf86",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295813,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
-    "common_name": "hqtestmto.dhs.gov",
-    "name_value": "*.hqtestmto.dhs.gov\nhqtestmto.dhs.gov",
-    "id": 21158407437,
-    "entry_timestamp": "2025-09-20T15:24:44.332",
-    "not_before": "2025-09-20T14:26:14",
-    "not_after": "2025-12-19T14:26:13",
-    "serial_number": "0691d516fb93a5ca2272fe104a3a844baf86",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 904,
     "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
     "common_name": "oip.dhs.gov",
@@ -12466,30 +12514,6 @@
     "not_after": "2026-10-21T21:07:41",
     "serial_number": "2e069f9e2fded349",
     "result_count": 6
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "hqtestmto.dhs.gov",
-    "name_value": "*.hqtestmto.dhs.gov\nhqtestmto.dhs.gov",
-    "id": 21140425073,
-    "entry_timestamp": "2025-09-19T21:01:55.357",
-    "not_before": "2025-09-19T20:03:24",
-    "not_after": "2025-12-18T20:03:23",
-    "serial_number": "061a0ad5e4ddc3df92905256917efaf486aa",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "hqtestmto.dhs.gov",
-    "name_value": "*.hqtestmto.dhs.gov\nhqtestmto.dhs.gov",
-    "id": 21141167101,
-    "entry_timestamp": "2025-09-19T21:01:54.867",
-    "not_before": "2025-09-19T20:03:24",
-    "not_after": "2025-12-18T20:03:23",
-    "serial_number": "061a0ad5e4ddc3df92905256917efaf486aa",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 204411,
@@ -12886,18 +12910,6 @@
     "not_after": "2026-01-20T23:59:59",
     "serial_number": "06f292f8b56abefb049a6184a2d5dfd8",
     "result_count": 6
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "dev.vincent.cyber.dhs.gov",
-    "name_value": "dev.vincent.cyber.dhs.gov",
-    "id": 20898115690,
-    "entry_timestamp": "2025-09-09T13:36:19.846",
-    "not_before": "2024-12-19T00:00:00",
-    "not_after": "2025-12-18T23:59:59",
-    "serial_number": "0142bd2e981e47ab2143ad94d425b834",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 185748,
@@ -18936,18 +18948,6 @@
     "result_count": 6
   },
   {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "dev.vincent.cyber.dhs.gov",
-    "name_value": "dev.vincent.cyber.dhs.gov",
-    "id": 15823096047,
-    "entry_timestamp": "2024-12-19T20:46:07.195",
-    "not_before": "2024-12-19T00:00:00",
-    "not_after": "2025-12-18T23:59:59",
-    "serial_number": "0142bd2e981e47ab2143ad94d425b834",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 247106,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
     "common_name": "jamfuat.dhs.gov",
@@ -19162,17 +19162,5 @@
     "not_after": "2025-12-20T23:59:59",
     "serial_number": "0702db4e166642ab83bc9bd80b7de5d2",
     "result_count": 6
-  },
-  {
-    "issuer_ca_id": 904,
-    "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
-    "common_name": "hybrid.ice.dhs.gov",
-    "name_value": "a1iprexi003.irmnet.ds2.dhs.gov\na1iprexi004.irmnet.ds2.dhs.gov\na1iprexi005.irmnet.ds2.dhs.gov\na1iprexi006.irmnet.ds2.dhs.gov\na1iprexi007.irmnet.ds2.dhs.gov\na1iprexi008.irmnet.ds2.dhs.gov\nautodiscover.associates.fps.dhs.gov\nautodiscover.associates.ice.dhs.gov\nautodiscover.fps.dhs.gov\nautodiscover.ice.dhs.gov\nautodiscover.irmnet.ds2.dhs.gov\ndc1-smtp.irmnet.ds2.dhs.gov\ndc2-smtp.irmnet.ds2.dhs.gov\nfailbackcasdc1.irmnet.ds2.dhs.gov\nfailbackcasdc2.irmnet.ds2.dhs.gov\nhybrid.ice.dhs.gov\nicecasdc1.irmnet.ds2.dhs.gov\nicecasdc2.irmnet.ds2.dhs.gov\nicemail.ice.dhs.gov\nicemail.irmnet.ds2.dhs.gov\nw1iprexi004.irmnet.ds2.dhs.gov\nwww.hybrid.ice.dhs.gov",
-    "id": 15395923395,
-    "entry_timestamp": "2024-11-17T15:42:34.504",
-    "not_before": "2024-11-17T15:42:33",
-    "not_after": "2025-12-19T15:42:33",
-    "serial_number": "00a5e3ed85a79f1b51",
-    "result_count": 23
   }
 ]
