@@ -1,5 +1,53 @@
 [
   {
+    "issuer_ca_id": 204407,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
+    "common_name": "atp.aws.fema.gov",
+    "name_value": "*.atp.aws.fema.gov\natp.aws.fema.gov",
+    "id": 23239325257,
+    "entry_timestamp": "2025-12-20T02:05:09.562",
+    "not_before": "2025-12-20T00:00:00",
+    "not_after": "2026-03-20T01:59:19",
+    "serial_number": "00e29397f6a4d16be45383bb3d0f13d3cf",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204407,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
+    "common_name": "atp.aws.fema.gov",
+    "name_value": "*.atp.aws.fema.gov\natp.aws.fema.gov",
+    "id": 23239325615,
+    "entry_timestamp": "2025-12-20T02:05:09.118",
+    "not_before": "2025-12-20T00:00:00",
+    "not_after": "2026-03-20T01:59:19",
+    "serial_number": "00e29397f6a4d16be45383bb3d0f13d3cf",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "atp.aws.fema.gov",
+    "name_value": "*.atp.aws.fema.gov\natp.aws.fema.gov",
+    "id": 23239242490,
+    "entry_timestamp": "2025-12-20T01:59:06.475",
+    "not_before": "2025-12-20T00:00:00",
+    "not_after": "2026-03-20T01:57:24",
+    "serial_number": "45b7520b4318ea713e389822bee6998a",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "atp.aws.fema.gov",
+    "name_value": "*.atp.aws.fema.gov\natp.aws.fema.gov",
+    "id": 23239242906,
+    "entry_timestamp": "2025-12-20T01:59:04.924",
+    "not_before": "2025-12-20T00:00:00",
+    "not_after": "2026-03-20T01:57:24",
+    "serial_number": "45b7520b4318ea713e389822bee6998a",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 62123,
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
     "common_name": "edit.staging1.dhs.gov",
@@ -2964,18 +3012,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 282053,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
-    "common_name": "atp.aws.fema.gov",
-    "name_value": "*.atp.aws.fema.gov\natp.aws.fema.gov",
-    "id": 21351721858,
-    "entry_timestamp": "2025-09-29T06:38:32.634",
-    "not_before": "2025-09-29T06:28:31",
-    "not_after": "2025-12-20T06:32:20",
-    "serial_number": "5aa1adec489b51822ccc6fa3cce9784a",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 185748,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
     "common_name": "www.homelandsecurity.gov",
@@ -3166,78 +3202,6 @@
     "not_after": "2026-09-22T23:59:59",
     "serial_number": "02786b6c15040fe80f6e086bff2e9f99",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "core.nfipdirect.fema.gov",
-    "name_value": "*.core.nfipdirect.fema.gov\ncore.nfipdirect.fema.gov",
-    "id": 21146945414,
-    "entry_timestamp": "2025-09-20T03:58:04.21",
-    "not_before": "2025-09-20T02:58:03",
-    "not_after": "2025-12-19T03:57:58",
-    "serial_number": "00ba9843d372e746f70ebf2e2aff6adc06",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "core.nfipdirect.fema.gov",
-    "name_value": "*.core.nfipdirect.fema.gov\ncore.nfipdirect.fema.gov",
-    "id": 21146950934,
-    "entry_timestamp": "2025-09-20T03:57:52.753",
-    "not_before": "2025-09-20T02:57:52",
-    "not_after": "2025-12-19T03:56:21",
-    "serial_number": "0088db0618e64f77ab114e4cbe894c7b8a",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "atp.aws.fema.gov",
-    "name_value": "*.atp.aws.fema.gov\natp.aws.fema.gov",
-    "id": 21146256508,
-    "entry_timestamp": "2025-09-20T03:17:52.549",
-    "not_before": "2025-09-20T02:17:51",
-    "not_after": "2025-12-19T03:17:49",
-    "serial_number": "4337e63acf28acdf0d7747b2c8e5f66d",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "atp.aws.fema.gov",
-    "name_value": "*.atp.aws.fema.gov\natp.aws.fema.gov",
-    "id": 21146252937,
-    "entry_timestamp": "2025-09-20T03:17:44.306",
-    "not_before": "2025-09-20T02:17:43",
-    "not_after": "2025-12-19T03:15:18",
-    "serial_number": "009d04cd953caae0d311d92208721903c9",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "services.nfipdirect.fema.gov",
-    "name_value": "*.services.nfipdirect.fema.gov\nservices.nfipdirect.fema.gov",
-    "id": 21143947157,
-    "entry_timestamp": "2025-09-20T00:50:08.636",
-    "not_before": "2025-09-19T23:50:07",
-    "not_after": "2025-12-19T00:49:45",
-    "serial_number": "00dc1cd57c46c9c86c0ebcd8e908954bd6",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "services.nfipdirect.fema.gov",
-    "name_value": "*.services.nfipdirect.fema.gov\nservices.nfipdirect.fema.gov",
-    "id": 21143937267,
-    "entry_timestamp": "2025-09-20T00:49:38.68",
-    "not_before": "2025-09-19T23:49:38",
-    "not_after": "2025-12-19T00:46:56",
-    "serial_number": "449b675174b86b270d428c22e328130b",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 385517,

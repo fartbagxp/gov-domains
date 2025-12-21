@@ -1,5 +1,17 @@
 [
   {
+    "issuer_ca_id": 62123,
+    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
+    "common_name": "www2.healthcare.gov",
+    "name_value": "address.api.healthcare.gov\ndashboard.healthcare.gov\ndr.ses.api.healthcare.gov\ndsrs.api.healthcare.gov\nedit.healthcare.gov\nfdai.healthcare.gov\nmcr.api.healthcare.gov\nses.api.healthcare.gov\nwww2.healthcare.gov",
+    "id": 23216504368,
+    "entry_timestamp": "2025-12-19T15:38:16.501",
+    "not_before": "2025-12-19T00:00:00",
+    "not_after": "2026-07-28T23:59:59",
+    "serial_number": "0877b2f12437fe076f3f5e4ea3b6b692",
+    "result_count": 10
+  },
+  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "test4.ses.api.healthcare.gov",
@@ -2241,18 +2253,6 @@
     "not_before": "2024-11-26T00:00:00",
     "not_after": "2025-12-26T23:59:59",
     "serial_number": "0c8e657f1d46e4e42af0fe958bf60010",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "test.pc2-elb.healthcare.gov",
-    "name_value": "test.pc2-elb.healthcare.gov",
-    "id": 15429102704,
-    "entry_timestamp": "2024-11-20T03:45:41.303",
-    "not_before": "2024-11-20T00:00:00",
-    "not_after": "2025-12-20T23:59:59",
-    "serial_number": "091752cc2b878037e1409bbec6765b27",
     "result_count": 2
   }
 ]
