@@ -1,5 +1,101 @@
 [
   {
+    "issuer_ca_id": 239799,
+    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
+    "common_name": "icamauth.epa.gov",
+    "name_value": "icamauth.epa.gov",
+    "id": 23245976432,
+    "entry_timestamp": "2025-12-20T16:24:13.722",
+    "not_before": "2025-07-30T00:00:00",
+    "not_after": "2026-01-30T23:59:59",
+    "serial_number": "01993e65c5e5df04545e15de2fb7e2e7",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 62123,
+    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
+    "common_name": "icamauth.epa.gov",
+    "name_value": "icamauth.epa.gov",
+    "id": 23245541479,
+    "entry_timestamp": "2025-12-20T16:21:36.858",
+    "not_before": "2025-12-20T00:00:00",
+    "not_after": "2026-06-20T23:59:59",
+    "serial_number": "0dc8955c08db965effd8dd1cca3c46c9",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "lew.epa.gov",
+    "name_value": "lew.epa.gov",
+    "id": 23253531858,
+    "entry_timestamp": "2025-12-20T13:19:49.932",
+    "not_before": "2025-12-20T12:21:16",
+    "not_after": "2026-03-20T12:21:15",
+    "serial_number": "0677031516b6afad686ad089585dc670049f",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "lew.epa.gov",
+    "name_value": "lew.epa.gov",
+    "id": 23241813308,
+    "entry_timestamp": "2025-12-20T13:19:47.83",
+    "not_before": "2025-12-20T12:21:16",
+    "not_after": "2026-03-20T12:21:15",
+    "serial_number": "0677031516b6afad686ad089585dc670049f",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "nsteps.epa.gov",
+    "name_value": "nsteps.epa.gov",
+    "id": 23223187645,
+    "entry_timestamp": "2025-12-19T20:41:47.574",
+    "not_before": "2025-12-19T19:43:17",
+    "not_after": "2026-03-19T19:43:16",
+    "serial_number": "051384eef882a65dd02b24b4012fc280148e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "nsteps.epa.gov",
+    "name_value": "nsteps.epa.gov",
+    "id": 23223167365,
+    "entry_timestamp": "2025-12-19T20:41:47.458",
+    "not_before": "2025-12-19T19:43:17",
+    "not_after": "2026-03-19T19:43:16",
+    "serial_number": "051384eef882a65dd02b24b4012fc280148e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "*.epa.gov",
+    "name_value": "emts.epa.gov\n*.epa.gov\nepa.gov",
+    "id": 23215670827,
+    "entry_timestamp": "2025-12-19T11:01:47.46",
+    "not_before": "2025-12-19T00:00:00",
+    "not_after": "2026-04-24T23:59:59",
+    "serial_number": "014a8bdfa20ef97cdbe532a5f957fb9e",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "*.rtpnc.epa.gov",
+    "name_value": "dctrackprod.rtpnc.epa.gov\ndctrackstg.rtpnc.epa.gov\npoweriqprod.rtpnc.epa.gov\npoweriqstg.rtpnc.epa.gov\n*.rtpnc.epa.gov\nrtpnc.epa.gov",
+    "id": 23202785117,
+    "entry_timestamp": "2025-12-18T20:09:20.242",
+    "not_before": "2025-12-18T00:00:00",
+    "not_after": "2026-10-11T23:59:59",
+    "serial_number": "090a4d8f7c145630a75dbd79900a384f",
+    "result_count": 7
+  },
+  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "dwsfties-dev-reports.epa.gov",
@@ -2004,54 +2100,6 @@
     "result_count": 15
   },
   {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "wasteplan.epa.gov",
-    "name_value": "wasteplan.epa.gov",
-    "id": 21209645597,
-    "entry_timestamp": "2025-09-22T20:19:43.203",
-    "not_before": "2025-09-22T19:21:12",
-    "not_after": "2025-12-21T19:21:11",
-    "serial_number": "05e3f95c4e3e95eb82709f9eb39c9054cd8e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "wasteplan.epa.gov",
-    "name_value": "wasteplan.epa.gov",
-    "id": 21208677605,
-    "entry_timestamp": "2025-09-22T20:19:42.854",
-    "not_before": "2025-09-22T19:21:12",
-    "not_after": "2025-12-21T19:21:11",
-    "serial_number": "05e3f95c4e3e95eb82709f9eb39c9054cd8e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "servicenow-test.epa.gov",
-    "name_value": "servicenow-test.epa.gov",
-    "id": 21155412903,
-    "entry_timestamp": "2025-09-20T12:29:19.735",
-    "not_before": "2025-09-20T11:30:47",
-    "not_after": "2025-12-19T11:30:46",
-    "serial_number": "064b2756f9c73f34ff4e53f81e2162cd6338",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "servicenow-test.epa.gov",
-    "name_value": "servicenow-test.epa.gov",
-    "id": 21155411935,
-    "entry_timestamp": "2025-09-20T12:29:17.531",
-    "not_before": "2025-09-20T11:30:47",
-    "not_after": "2025-12-19T11:30:46",
-    "serial_number": "064b2756f9c73f34ff4e53f81e2162cd6338",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "eas.epa.gov",
@@ -2098,18 +2146,6 @@
     "not_after": "2026-04-24T23:59:59",
     "serial_number": "012f6200e0ea5d5d8f9ee203e5f44963",
     "result_count": 4
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "*.response.epa.gov",
-    "name_value": "ags.aws.response.epa.gov\nags.response.epa.gov\napi.response.epa.gov\ncluin.response.epa.gov\nertims-qa.response.epa.gov\nertims.response.epa.gov\nertsupport-qa.response.epa.gov\nertsupport.response.epa.gov\nertvideo-qa.response.epa.gov\nertvideo.response.epa.gov\nfs.response.epa.gov\nmaps.aws.response.epa.gov\nmaps.response.epa.gov\nnaum.aws.response.epa.gov\nnaum.response.epa.gov\nnrt-qa.response.epa.gov\nnrt.response.epa.gov\noemdata.response.epa.gov\noem-datastore.response.epa.gov\nr10data.aws.response.epa.gov\nr10data.response.epa.gov\nr1data.aws.response.epa.gov\nr1data.response.epa.gov\nr2data.aws.response.epa.gov\nr2data.response.epa.gov\nr3data.aws.response.epa.gov\nr3data.response.epa.gov\nr4data.aws.response.epa.gov\nr4data.response.epa.gov\nr5data.aws.response.epa.gov\nr5data.response.epa.gov\nr6data.aws.response.epa.gov\nr6data.response.epa.gov\nr7data.aws.response.epa.gov\nr7data.response.epa.gov\nr8data.aws.response.epa.gov\nr8data.response.epa.gov\nr9data.aws.response.epa.gov\nr9data.response.epa.gov\nreacdata.response.epa.gov\n*.response.epa.gov\nresponse.epa.gov\nresponse-qa.response.epa.gov\nscribenet.response.epa.gov\ntlc-qa.response.epa.gov\ntlc.response.epa.gov\nviper-qa.response.epa.gov\nviper.response.epa.gov\nwebeoc-qa.response.epa.gov",
-    "id": 20896683190,
-    "entry_timestamp": "2025-09-09T12:11:49.034",
-    "not_before": "2024-12-19T00:00:00",
-    "not_after": "2025-12-18T23:59:59",
-    "serial_number": "0d70a3a7ac9a95b11e74a70eaf02ed3f",
-    "result_count": 50
   },
   {
     "issuer_ca_id": 185752,
@@ -5386,17 +5422,5 @@
     "not_after": "2026-01-06T23:59:59",
     "serial_number": "036513820e53c589ac2ac3a64c64e8fa",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "*.response.epa.gov",
-    "name_value": "ags.aws.response.epa.gov\nags.response.epa.gov\napi.response.epa.gov\ncluin.response.epa.gov\nertims-qa.response.epa.gov\nertims.response.epa.gov\nertsupport-qa.response.epa.gov\nertsupport.response.epa.gov\nertvideo-qa.response.epa.gov\nertvideo.response.epa.gov\nfs.response.epa.gov\nmaps.aws.response.epa.gov\nmaps.response.epa.gov\nnaum.aws.response.epa.gov\nnaum.response.epa.gov\nnrt-qa.response.epa.gov\nnrt.response.epa.gov\noemdata.response.epa.gov\noem-datastore.response.epa.gov\nr10data.aws.response.epa.gov\nr10data.response.epa.gov\nr1data.aws.response.epa.gov\nr1data.response.epa.gov\nr2data.aws.response.epa.gov\nr2data.response.epa.gov\nr3data.aws.response.epa.gov\nr3data.response.epa.gov\nr4data.aws.response.epa.gov\nr4data.response.epa.gov\nr5data.aws.response.epa.gov\nr5data.response.epa.gov\nr6data.aws.response.epa.gov\nr6data.response.epa.gov\nr7data.aws.response.epa.gov\nr7data.response.epa.gov\nr8data.aws.response.epa.gov\nr8data.response.epa.gov\nr9data.aws.response.epa.gov\nr9data.response.epa.gov\nreacdata.response.epa.gov\n*.response.epa.gov\nresponse.epa.gov\nresponse-qa.response.epa.gov\nscribenet.response.epa.gov\ntlc-qa.response.epa.gov\ntlc.response.epa.gov\nviper-qa.response.epa.gov\nviper.response.epa.gov\nwebeoc-qa.response.epa.gov",
-    "id": 15819691889,
-    "entry_timestamp": "2024-12-19T12:48:16.733",
-    "not_before": "2024-12-19T00:00:00",
-    "not_after": "2025-12-18T23:59:59",
-    "serial_number": "0d70a3a7ac9a95b11e74a70eaf02ed3f",
-    "result_count": 50
   }
 ]
