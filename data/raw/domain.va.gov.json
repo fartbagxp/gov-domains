@@ -1,5 +1,77 @@
 [
   {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "www.va.gov",
+    "name_value": "va.gov\nwww.va.gov",
+    "id": 23227191079,
+    "entry_timestamp": "2025-12-20T00:23:20.907",
+    "not_before": "2025-12-20T00:00:00",
+    "not_after": "2027-01-18T23:59:59",
+    "serial_number": "0a1f4db22dda19f972a0da5f8bdf8ec6",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "www.va.gov",
+    "name_value": "va.gov\nwww.va.gov",
+    "id": 23227189588,
+    "entry_timestamp": "2025-12-20T00:23:18.791",
+    "not_before": "2025-12-20T00:00:00",
+    "not_after": "2027-01-18T23:59:59",
+    "serial_number": "0a1f4db22dda19f972a0da5f8bdf8ec6",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "virtualcheckin.va.gov",
+    "name_value": "virtualcheckin.va.gov",
+    "id": 23216022630,
+    "entry_timestamp": "2025-12-19T15:18:17.652",
+    "not_before": "2025-12-19T00:00:00",
+    "not_after": "2027-01-19T23:59:59",
+    "serial_number": "0eb627fc17afdbd33a4bb5a38bb2224c",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "prod.dip.va.gov",
+    "name_value": "awsgc.dip.va.gov\ndip.va.gov\nprod.dip.va.gov\nsalesforce.dip.va.gov\nsalesforce.lighthouse.va.gov\nwww.dip.va.gov",
+    "id": 23214868804,
+    "entry_timestamp": "2025-12-19T14:28:31.891",
+    "not_before": "2025-12-19T00:00:00",
+    "not_after": "2027-01-17T23:59:59",
+    "serial_number": "00d5d73c020af8a26b7a15232919ef6f27",
+    "result_count": 7
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "prod.dip.va.gov",
+    "name_value": "awsgc.dip.va.gov\ndip.va.gov\nprod.dip.va.gov\nsalesforce.dip.va.gov\nsalesforce.lighthouse.va.gov\nwww.dip.va.gov",
+    "id": 23214866410,
+    "entry_timestamp": "2025-12-19T14:28:29.609",
+    "not_before": "2025-12-19T00:00:00",
+    "not_after": "2027-01-17T23:59:59",
+    "serial_number": "00d5d73c020af8a26b7a15232919ef6f27",
+    "result_count": 7
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "www.listserv.va.gov",
+    "name_value": "listserv.va.gov\nwww.listserv.va.gov",
+    "id": 23203308005,
+    "entry_timestamp": "2025-12-18T20:42:38.186",
+    "not_before": "2025-12-18T00:00:00",
+    "not_after": "2027-01-05T23:59:59",
+    "serial_number": "033f70778499223028add128bcb7b5fb",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "pub.drkumo.va.gov",
@@ -1848,30 +1920,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "yourit.va.gov",
-    "name_value": "yourit.va.gov",
-    "id": 21204207738,
-    "entry_timestamp": "2025-09-22T13:29:40.675",
-    "not_before": "2025-09-22T12:31:10",
-    "not_after": "2025-12-21T12:31:09",
-    "serial_number": "0618e4db1c726aebe0c80577e392bd197193",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "yourit.va.gov",
-    "name_value": "yourit.va.gov",
-    "id": 21202676588,
-    "entry_timestamp": "2025-09-22T13:29:40.431",
-    "not_before": "2025-09-22T12:31:10",
-    "not_after": "2025-12-21T12:31:09",
-    "serial_number": "0618e4db1c726aebe0c80577e392bd197193",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 185748,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
     "common_name": "evn.va.gov",
@@ -2157,18 +2205,6 @@
     "not_before": "2024-12-26T00:00:00",
     "not_after": "2026-01-14T23:59:59",
     "serial_number": "06421c773d9baf6a79805b77dd4034a3",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "ELK.MDM.VA.GOV",
-    "name_value": "ELK.MDM.VA.GOV",
-    "id": 20903160565,
-    "entry_timestamp": "2025-09-09T18:01:11.749",
-    "not_before": "2024-12-23T00:00:00",
-    "not_after": "2025-12-22T23:59:59",
-    "serial_number": "04246e1a2eaee4b0eab80d343153a540",
     "result_count": 2
   },
   {
@@ -6624,30 +6660,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "ELK.MDM.VA.GOV",
-    "name_value": "ELK.MDM.VA.GOV",
-    "id": 15867091994,
-    "entry_timestamp": "2024-12-23T20:46:29.785",
-    "not_before": "2024-12-23T00:00:00",
-    "not_after": "2025-12-22T23:59:59",
-    "serial_number": "04246e1a2eaee4b0eab80d343153a540",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "ELK.MDM.VA.GOV",
-    "name_value": "ELK.MDM.VA.GOV",
-    "id": 15866426650,
-    "entry_timestamp": "2024-12-23T19:05:15.418",
-    "not_before": "2024-12-23T00:00:00",
-    "not_after": "2025-12-22T23:59:59",
-    "serial_number": "03919e7b3fc57c07b120b73f13d3fdb1",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 105493,
     "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
     "common_name": "www.va.gov",
@@ -6742,18 +6754,6 @@
     "not_after": "2026-01-16T23:59:59",
     "serial_number": "00cf1a362929361afcbdbb81f05bf6ab43",
     "result_count": 7
-  },
-  {
-    "issuer_ca_id": 176211,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2",
-    "common_name": "patientportal.myhealth.va.gov",
-    "name_value": "patientportal.myhealth.va.gov",
-    "id": 15741143059,
-    "entry_timestamp": "2024-12-13T14:44:11.771",
-    "not_before": "2024-12-13T00:00:00",
-    "not_after": "2025-12-19T23:59:59",
-    "serial_number": "044de604eac30a4be88fd585b4676453",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 1399,
