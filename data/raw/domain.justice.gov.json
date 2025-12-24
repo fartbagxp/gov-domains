@@ -2,6 +2,42 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "sts.eoir.justice.gov",
+    "name_value": "certauth.STS.EOIR.JUSTICE.GOV\nenterpriseregistration.eoir.justice.gov\nsts.eoir.justice.gov\nwww.STS.EOIR.JUSTICE.GOV",
+    "id": 23317519554,
+    "entry_timestamp": "2025-12-23T15:05:41.908",
+    "not_before": "2025-12-23T00:00:00",
+    "not_after": "2027-01-22T23:59:59",
+    "serial_number": "0df096b08ac401bcd549f1cd9dd755b6",
+    "result_count": 5
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "STS-DEV.eoir.justice.gov",
+    "name_value": "certauth.sts-dev.EOIR.JUSTICE.GOV\nenterpriseregistration.eoir.justice.gov\nSTS-DEV.eoir.justice.gov\nwww.STS-DEV.EOIR.JUSTICE.GOV",
+    "id": 23317518367,
+    "entry_timestamp": "2025-12-23T15:04:58.959",
+    "not_before": "2025-12-23T00:00:00",
+    "not_after": "2027-01-22T23:59:59",
+    "serial_number": "04878a46b0c7492fd8bbd7f30699bfad",
+    "result_count": 5
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "*.eoir.justice.gov",
+    "name_value": "case-access.eoir.justice.gov\ndhs-portal.eoir.justice.gov\n*.eoir.justice.gov\neoir.justice.gov\nereg.eoir.justice.gov\nportal.eoir.justice.gov\nrespondentaccess-portal.eoir.justice.gov\nuser-profile.eoir.justice.gov",
+    "id": 23317517328,
+    "entry_timestamp": "2025-12-23T15:04:39.478",
+    "not_before": "2025-12-23T00:00:00",
+    "not_after": "2027-01-22T23:59:59",
+    "serial_number": "073cf5569c7cf3c42daad7ce53314de6",
+    "result_count": 9
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "preprod.justice.gov",
     "name_value": "preprod.justice.gov",
     "id": 23216338545,
@@ -706,30 +742,6 @@
     "not_after": "2026-09-24T23:59:59",
     "serial_number": "0a40ccd1d8189e2e2bfe4f9cb28156be",
     "result_count": 4
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "eoir.justice.gov",
-    "name_value": "*.eoir.justice.gov\neoir.justice.gov",
-    "id": 21257859018,
-    "entry_timestamp": "2025-09-25T00:30:50.546",
-    "not_before": "2025-09-24T23:30:49",
-    "not_after": "2025-12-24T00:30:45",
-    "serial_number": "00968d5ec12b5943a80dabac0dfa9d685f",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "eoir.justice.gov",
-    "name_value": "*.eoir.justice.gov\neoir.justice.gov",
-    "id": 21255947048,
-    "entry_timestamp": "2025-09-25T00:30:39.623",
-    "not_before": "2025-09-24T23:30:38",
-    "not_after": "2025-12-24T00:29:03",
-    "serial_number": "00e1ca88fe55958c000d54aa16f7e1dfbb",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 185752,
