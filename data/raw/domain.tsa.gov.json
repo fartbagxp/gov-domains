@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 185748,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
+    "common_name": "www3.dhs.gov",
+    "name_value": "tsa.gov",
+    "id": 23318589256,
+    "entry_timestamp": "2025-12-23T16:23:48.184",
+    "not_before": "2025-12-23T00:00:00",
+    "not_after": "2026-04-09T23:59:59",
+    "serial_number": "0c38edf67b30ba7628c51fbae0869870",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "www3.dhs.gov",
+    "name_value": "tsa.gov",
+    "id": 23318499297,
+    "entry_timestamp": "2025-12-23T16:21:32.732",
+    "not_before": "2025-12-23T00:00:00",
+    "not_after": "2026-04-09T23:59:59",
+    "serial_number": "09714b3526d35c0ab8bc991ab3371966",
+    "result_count": 1
+  },
+  {
     "issuer_ca_id": 62123,
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
     "common_name": "edit.staging1.dhs.gov",
@@ -744,18 +768,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 62148,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust RSA CA 2018",
-    "common_name": "edit-wcms-testint.dhs.gov",
-    "name_value": "beta-staging.tsa.gov\nbeta-testint.tsa.gov\nedit-beta-staging.tsa.gov\nedit-beta-testint.tsa.gov\nedit-beta.tsa.gov\nedit-mobile.tsa.gov\nedit-preview.tsa.gov\nedit-staging-mobile.tsa.gov\nedit-staging-preview.mobile.tsa.gov\nedit-testint-mobile.tsa.gov\nedit-testint-preview.mobile.tsa.gov\nstaging-mobile.tsa.gov\nstaging-preview.mobile.tsa.gov\nstaging.tsa.gov\ntesting.tsa.gov\ntestint-mobile.tsa.gov\ntestint-preview.mobile.tsa.gov",
-    "id": 17561200268,
-    "entry_timestamp": "2025-04-01T16:35:30.72",
-    "not_before": "2024-12-23T00:00:00",
-    "not_after": "2025-12-24T23:59:59",
-    "serial_number": "0d53b46de7744342be879a0a5dcb091c",
-    "result_count": 17
-  },
-  {
     "issuer_ca_id": 62123,
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
     "common_name": "preview.dhs.gov",
@@ -790,17 +802,5 @@
     "not_after": "2026-02-11T23:59:59",
     "serial_number": "07a06331f146ebe64db12d3b76bdacb8",
     "result_count": 4
-  },
-  {
-    "issuer_ca_id": 62148,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust RSA CA 2018",
-    "common_name": "edit-wcms-testint.dhs.gov",
-    "name_value": "beta-staging.tsa.gov\nbeta-testint.tsa.gov\nedit-beta-staging.tsa.gov\nedit-beta-testint.tsa.gov\nedit-beta.tsa.gov\nedit-mobile.tsa.gov\nedit-preview.tsa.gov\nedit-staging-mobile.tsa.gov\nedit-staging-preview.mobile.tsa.gov\nedit-testint-mobile.tsa.gov\nedit-testint-preview.mobile.tsa.gov\nstaging-mobile.tsa.gov\nstaging-preview.mobile.tsa.gov\nstaging.tsa.gov\ntesting.tsa.gov\ntestint-mobile.tsa.gov\ntestint-preview.mobile.tsa.gov",
-    "id": 15867620495,
-    "entry_timestamp": "2024-12-23T22:17:00.936",
-    "not_before": "2024-12-23T00:00:00",
-    "not_after": "2025-12-24T23:59:59",
-    "serial_number": "0d53b46de7744342be879a0a5dcb091c",
-    "result_count": 17
   }
 ]
