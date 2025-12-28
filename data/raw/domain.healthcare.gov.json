@@ -2,6 +2,42 @@
   {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "app3-elb.imp.healthcare.gov",
+    "name_value": "app3-elb.imp.healthcare.gov",
+    "id": 23411692770,
+    "entry_timestamp": "2025-12-28T05:35:44.457",
+    "not_before": "2025-12-28T00:00:00",
+    "not_after": "2027-01-26T23:59:59",
+    "serial_number": "045c4fb2056c16f7b07ca8de1527317c",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "test-elb.flh.healthcare.gov",
+    "name_value": "test-elb.flh.healthcare.gov",
+    "id": 23411664553,
+    "entry_timestamp": "2025-12-28T05:33:46.673",
+    "not_before": "2025-12-28T00:00:00",
+    "not_after": "2027-01-26T23:59:59",
+    "serial_number": "083e9f0274f21ce33b1c921b388ec0bd",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "app3-elb.imp1b.healthcare.gov",
+    "name_value": "app3-elb.imp1b.healthcare.gov",
+    "id": 23409785442,
+    "entry_timestamp": "2025-12-28T03:11:32.935",
+    "not_before": "2025-12-28T00:00:00",
+    "not_after": "2027-01-26T23:59:59",
+    "serial_number": "0d6f125f1df37039d267d9805b9d67d0",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "imp1b.pc2-elb.healthcare.gov",
     "name_value": "imp1b.pc2-elb.healthcare.gov",
     "id": 23308515527,
@@ -2253,30 +2289,6 @@
     "not_before": "2024-11-29T00:00:00",
     "not_after": "2025-12-29T23:59:59",
     "serial_number": "034859f00070921316bf2b0884075a2d",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "slsgw-elb.dev.healthcare.gov",
-    "name_value": "slsgw-elb.dev.healthcare.gov",
-    "id": 15531296708,
-    "entry_timestamp": "2024-11-28T09:23:57.685",
-    "not_before": "2024-11-28T00:00:00",
-    "not_after": "2025-12-27T23:59:59",
-    "serial_number": "081bd65b5fc74cf851f9b03b58a276a4",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "test.pet-elb.healthcare.gov",
-    "name_value": "test.pet-elb.healthcare.gov",
-    "id": 15501912343,
-    "entry_timestamp": "2024-11-26T05:25:38.904",
-    "not_before": "2024-11-26T00:00:00",
-    "not_after": "2025-12-26T23:59:59",
-    "serial_number": "0c8e657f1d46e4e42af0fe958bf60010",
     "result_count": 2
   }
 ]
