@@ -28,6 +28,18 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "origin-go.fema.gov",
     "name_value": "*.origin-go.fema.gov\norigin-go.fema.gov",
+    "id": 23473196608,
+    "entry_timestamp": "2025-12-31T09:09:34.388",
+    "not_before": "2025-12-31T08:11:01",
+    "not_after": "2026-03-31T08:11:00",
+    "serial_number": "062eaafe17e69ef99997a5c7d1cfc2cd661f",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "origin-go.fema.gov",
+    "name_value": "*.origin-go.fema.gov\norigin-go.fema.gov",
     "id": 23473187966,
     "entry_timestamp": "2025-12-31T09:09:32.194",
     "not_before": "2025-12-31T08:11:01",
@@ -1173,6 +1185,18 @@
     "not_before": "2025-12-07T15:09:54",
     "not_after": "2026-03-07T15:09:53",
     "serial_number": "05ff6dcd9766d6a95fffef947ed4dc3f7432",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "core.nfipdirect.fema.gov",
+    "name_value": "*.core.nfipdirect.fema.gov\ncore.nfipdirect.fema.gov",
+    "id": 22965561273,
+    "entry_timestamp": "2025-12-07T16:08:01.184",
+    "not_before": "2025-12-07T15:09:30",
+    "not_after": "2026-03-07T15:09:29",
+    "serial_number": "05aef8325c93d3ec532f78d9c15df788fe0f",
     "result_count": 3
   },
   {
@@ -3621,6 +3645,18 @@
     "not_before": "2025-10-17T00:00:00",
     "not_after": "2026-01-08T20:45:49",
     "serial_number": "5f346f84bce418fc9978e2580385f784",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "api.stage.nfipdirect.fema.gov",
+    "name_value": "*.api.stage.nfipdirect.fema.gov\napi.stage.nfipdirect.fema.gov",
+    "id": 21773052072,
+    "entry_timestamp": "2025-10-17T01:58:17.512",
+    "not_before": "2025-10-17T00:59:47",
+    "not_after": "2026-01-15T00:59:46",
+    "serial_number": "05624e55c2d3632eb68d3c3c21163324a45d",
     "result_count": 3
   },
   {
@@ -6096,54 +6132,6 @@
     "result_count": 4
   },
   {
-    "issuer_ca_id": 365073,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust EV TLS Issuing RSA CA 1",
-    "common_name": "tdl.isource.fema.gov",
-    "name_value": "tdl.isource.fema.gov",
-    "id": 16782335937,
-    "entry_timestamp": "2025-02-21T05:53:59.738",
-    "not_before": "2024-12-27T19:47:36",
-    "not_after": "2026-01-02T10:56:28",
-    "serial_number": "06927973ea939f025e5d30bd15b1a2b2",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 365073,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust EV TLS Issuing RSA CA 1",
-    "common_name": "isource.fema.gov",
-    "name_value": "isource.fema.gov",
-    "id": 16782249797,
-    "entry_timestamp": "2025-02-21T05:13:44.955",
-    "not_before": "2024-12-27T19:49:45",
-    "not_after": "2026-01-02T10:59:24",
-    "serial_number": "7f5490f72a8ac0682aacaad48dac07f5",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 365073,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust EV TLS Issuing RSA CA 1",
-    "common_name": "portal.fema.gov",
-    "name_value": "portal.fema.gov",
-    "id": 16781957588,
-    "entry_timestamp": "2025-02-21T02:56:32.086",
-    "not_before": "2024-12-27T19:52:09",
-    "not_after": "2026-01-02T11:02:43",
-    "serial_number": "0bacf64394d4b808e2361e5f945e5e79",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 365073,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust EV TLS Issuing RSA CA 1",
-    "common_name": "tdl.eservices.fema.gov",
-    "name_value": "tdl.eservices.fema.gov\ntdl.isource.fema.gov",
-    "id": 16781949277,
-    "entry_timestamp": "2025-02-21T02:53:13.175",
-    "not_before": "2024-12-27T19:43:57",
-    "not_after": "2026-01-02T11:01:12",
-    "serial_number": "0db00ce18a609c39f9d8759314a7bc78",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "*.nfipdirect.fema.gov",
@@ -6262,53 +6250,5 @@
     "not_after": "2026-01-16T14:06:59",
     "serial_number": "2ae53fe75ab98fa26079b7c3cea56a54",
     "result_count": 4
-  },
-  {
-    "issuer_ca_id": 365073,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust EV TLS Issuing RSA CA 1",
-    "common_name": "portal.fema.gov",
-    "name_value": "portal.fema.gov",
-    "id": 15908953352,
-    "entry_timestamp": "2024-12-27T20:02:10.247",
-    "not_before": "2024-12-27T19:52:09",
-    "not_after": "2026-01-02T11:02:43",
-    "serial_number": "0bacf64394d4b808e2361e5f945e5e79",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 365073,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust EV TLS Issuing RSA CA 1",
-    "common_name": "isource.fema.gov",
-    "name_value": "isource.fema.gov",
-    "id": 15908936730,
-    "entry_timestamp": "2024-12-27T19:59:46.818",
-    "not_before": "2024-12-27T19:49:45",
-    "not_after": "2026-01-02T10:59:24",
-    "serial_number": "7f5490f72a8ac0682aacaad48dac07f5",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 365073,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust EV TLS Issuing RSA CA 1",
-    "common_name": "tdl.isource.fema.gov",
-    "name_value": "tdl.isource.fema.gov",
-    "id": 15908916180,
-    "entry_timestamp": "2024-12-27T19:57:37.505",
-    "not_before": "2024-12-27T19:47:36",
-    "not_after": "2026-01-02T10:56:28",
-    "serial_number": "06927973ea939f025e5d30bd15b1a2b2",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 365073,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust EV TLS Issuing RSA CA 1",
-    "common_name": "tdl.eservices.fema.gov",
-    "name_value": "tdl.eservices.fema.gov\ntdl.isource.fema.gov",
-    "id": 15908878845,
-    "entry_timestamp": "2024-12-27T19:53:58.493",
-    "not_before": "2024-12-27T19:43:57",
-    "not_after": "2026-01-02T11:01:12",
-    "serial_number": "0db00ce18a609c39f9d8759314a7bc78",
-    "result_count": 3
   }
 ]
