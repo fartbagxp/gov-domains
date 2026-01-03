@@ -132,30 +132,6 @@
     "result_count": 4
   },
   {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "cram.aps.smce.nasa.gov",
-    "name_value": "cram.aps.smce.nasa.gov",
-    "id": 21496068955,
-    "entry_timestamp": "2025-10-05T12:31:08.467",
-    "not_before": "2025-10-05T11:32:38",
-    "not_after": "2026-01-03T11:32:37",
-    "serial_number": "06cdc9ea5a9620244a8b4d188bfb83194399",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295809,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
-    "common_name": "icesat-2-scfdev.gsfc.nasa.gov",
-    "name_value": "icesat-2-scfdev.gsfc.nasa.gov",
-    "id": 21494355173,
-    "entry_timestamp": "2025-10-05T10:47:26.774",
-    "not_before": "2025-10-05T09:48:56",
-    "not_after": "2026-01-03T09:48:55",
-    "serial_number": "0535026bcde61f59570af56b220129d73013",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 246719,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "extapi.staging.prosams.nasa.gov",
@@ -180,16 +156,52 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "jiradev.ivv.nasa.gov",
+    "name_value": "adverse.ivv.nasa.gov\nadversepre.ivv.nasa.gov\nai.ivv.nasa.gov\napollo.ivv.nasa.gov\nartemislibrary.ivv.nasa.gov\nartemislibrarypre.ivv.nasa.gov\nascan.ivv.nasa.gov\nascanpre.ivv.nasa.gov\nats.ivv.nasa.gov\natspre.ivv.nasa.gov\nawards.ivv.nasa.gov\nawardspre.ivv.nasa.gov\nbam.ivv.nasa.gov\nbrizo.ivv.nasa.gov\ncapdev.ivv.nasa.gov\ncap.ivv.nasa.gov\ncappre.ivv.nasa.gov\ncompass.ivv.nasa.gov\ncompasspre.ivv.nasa.gov\nconfdev.ivv.nasa.gov\nconf.ivv.nasa.gov\nconfluence.ivv.nasa.gov\ncronus.ivv.nasa.gov\necmadmin.ivv.nasa.gov",
+    "id": 21038891137,
+    "entry_timestamp": "2025-09-15T17:11:17.35",
+    "not_before": "2025-09-15T00:00:00",
+    "not_after": "2026-07-28T23:59:59",
+    "serial_number": "0e8ea274f27d354891b7fc411018112e",
+    "result_count": 24
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "launchpad-test.nasa.gov",
+    "name_value": "certauth.authfs.launchpad-test.nasa.gov\n*.launchpad-test.nasa.gov\nlaunchpad-test.nasa.gov",
+    "id": 21036233249,
+    "entry_timestamp": "2025-09-15T14:28:43.374",
+    "not_before": "2025-09-15T00:00:00",
+    "not_after": "2026-10-16T23:59:59",
+    "serial_number": "00b2fee12d4979161c6fc3352d589f1833",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "launchpad-test.nasa.gov",
+    "name_value": "certauth.authfs.launchpad-test.nasa.gov\n*.launchpad-test.nasa.gov\nlaunchpad-test.nasa.gov",
+    "id": 21036232593,
+    "entry_timestamp": "2025-09-15T14:28:42.691",
+    "not_before": "2025-09-15T00:00:00",
+    "not_after": "2026-10-16T23:59:59",
+    "serial_number": "00b2fee12d4979161c6fc3352d589f1833",
+    "result_count": 4
+  },
+  {
     "issuer_ca_id": 246719,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "spinoff.nasa.gov",
-    "name_value": "icb.nasa.gov\ninvention.nasa.gov\nsoftware.nasa.gov\nspinoff.nasa.gov",
+    "name_value": "icb.nasa.gov\ninvention.nasa.gov\nsoftware.nasa.gov\nspinoff.nasa.gov\ntechnology-afrc.ndc.nasa.gov\ntechnology-api.ndc.nasa.gov\ntechnology-arc.ndc.nasa.gov\ntechnologygateway.nasa.gov\ntechnology.grc.nasa.gov\ntechnology-grc.ndc.nasa.gov\ntechnology-gsfc.ndc.nasa.gov\ntechnology.jsc.nasa.gov\ntechnology-jsc.ndc.nasa.gov\ntechnology-ksc.ndc.nasa.gov\ntechnology-msfc.ndc.nasa.gov\ntechnology.nasa.gov\ntechnology-ssc.ndc.nasa.gov\ntechtran.msfc.nasa.gov",
     "id": 21035847984,
     "entry_timestamp": "2025-09-15T14:06:07.172",
     "not_before": "2025-09-15T00:00:00",
     "not_after": "2026-10-13T23:59:59",
     "serial_number": "031d11746f6a41342da2a97dd639c213",
-    "result_count": 4
+    "result_count": 19
   },
   {
     "issuer_ca_id": 246719,
@@ -442,6 +454,54 @@
     "not_after": "2026-09-12T23:59:59",
     "serial_number": "00a50ad0b75ae14a4af5a4a4b5ef14da6b",
     "result_count": 2
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "stemgateway.nasa.gov",
+    "name_value": "stemgateway.nasa.gov\nwww.stemgateway.nasa.gov",
+    "id": 20978169942,
+    "entry_timestamp": "2025-09-12T23:05:47.709",
+    "not_before": "2025-09-12T00:00:00",
+    "not_after": "2026-10-13T23:59:59",
+    "serial_number": "660a7f4d58b887524dc3631e51aefa06",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "my.nasa.gov",
+    "name_value": "my.nasa.gov\nwww.my.nasa.gov",
+    "id": 20978171381,
+    "entry_timestamp": "2025-09-12T23:05:41.543",
+    "not_before": "2025-09-12T00:00:00",
+    "not_after": "2026-10-13T23:59:59",
+    "serial_number": "77b3048e0f5e1925e2882ff55a2267dc",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "my.nasa.gov",
+    "name_value": "my.nasa.gov\nwww.my.nasa.gov",
+    "id": 20978145267,
+    "entry_timestamp": "2025-09-12T23:04:45.18",
+    "not_before": "2025-09-12T00:00:00",
+    "not_after": "2026-10-13T23:59:59",
+    "serial_number": "77b3048e0f5e1925e2882ff55a2267dc",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "stemgateway.nasa.gov",
+    "name_value": "stemgateway.nasa.gov\nwww.stemgateway.nasa.gov",
+    "id": 20978145151,
+    "entry_timestamp": "2025-09-12T23:04:42.226",
+    "not_before": "2025-09-12T00:00:00",
+    "not_after": "2026-10-13T23:59:59",
+    "serial_number": "660a7f4d58b887524dc3631e51aefa06",
+    "result_count": 3
   },
   {
     "issuer_ca_id": 247119,
@@ -1584,6 +1644,30 @@
     "result_count": 3
   },
   {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "appg.sma.nasa.gov",
+    "name_value": "appg.sma.nasa.gov\nwww.appg.sma.nasa.gov",
+    "id": 20786291976,
+    "entry_timestamp": "2025-09-04T14:04:26.582",
+    "not_before": "2025-09-04T00:00:00",
+    "not_after": "2026-09-04T23:59:59",
+    "serial_number": "00f516b462f1e05c9e43957ac544e75191",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "appg.sma.nasa.gov",
+    "name_value": "appg.sma.nasa.gov\nwww.appg.sma.nasa.gov",
+    "id": 20786291735,
+    "entry_timestamp": "2025-09-04T14:04:26.033",
+    "not_before": "2025-09-04T00:00:00",
+    "not_after": "2026-09-04T23:59:59",
+    "serial_number": "00f516b462f1e05c9e43957ac544e75191",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 247115,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
     "common_name": "css-demo.sit.earthdatacloud.nasa.gov",
@@ -1720,6 +1804,18 @@
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
     "common_name": "ftkwiki.grc.nasa.gov",
     "name_value": "ftkwiki.grc.nasa.gov\nwww.ftkwiki.grc.nasa.gov",
+    "id": 20771454888,
+    "entry_timestamp": "2025-09-03T20:33:54.437",
+    "not_before": "2025-09-03T00:00:00",
+    "not_after": "2026-09-03T23:59:59",
+    "serial_number": "009e82e87f0a1562276cc97afd52c7a7a5",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "ftkwiki.grc.nasa.gov",
+    "name_value": "ftkwiki.grc.nasa.gov\nwww.ftkwiki.grc.nasa.gov",
     "id": 20771455117,
     "entry_timestamp": "2025-09-03T20:33:53.759",
     "not_before": "2025-09-03T00:00:00",
@@ -1780,6 +1876,18 @@
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
     "common_name": "gipoc.grc.nasa.gov",
     "name_value": "gipoc.grc.nasa.gov\nwww.gipoc.grc.nasa.gov",
+    "id": 20753209595,
+    "entry_timestamp": "2025-09-02T22:52:20.085",
+    "not_before": "2025-09-02T00:00:00",
+    "not_after": "2026-09-02T23:59:59",
+    "serial_number": "6db8d29c328df1be2b140a79d24b883a",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "gipoc.grc.nasa.gov",
+    "name_value": "gipoc.grc.nasa.gov\nwww.gipoc.grc.nasa.gov",
     "id": 20753209992,
     "entry_timestamp": "2025-09-02T22:52:18.956",
     "not_before": "2025-09-02T00:00:00",
@@ -1792,11 +1900,35 @@
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
     "common_name": "fcfops.grc.nasa.gov",
     "name_value": "fcfops.grc.nasa.gov\nwww.fcfops.grc.nasa.gov",
+    "id": 20753209852,
+    "entry_timestamp": "2025-09-02T22:52:00.35",
+    "not_before": "2025-09-02T00:00:00",
+    "not_after": "2026-09-02T23:59:59",
+    "serial_number": "00b467f1b81f9d98660490d89ee98e737d",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "fcfops.grc.nasa.gov",
+    "name_value": "fcfops.grc.nasa.gov\nwww.fcfops.grc.nasa.gov",
     "id": 20753209758,
     "entry_timestamp": "2025-09-02T22:51:58.895",
     "not_before": "2025-09-02T00:00:00",
     "not_after": "2026-09-02T23:59:59",
     "serial_number": "00b467f1b81f9d98660490d89ee98e737d",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "sams.grc.nasa.gov",
+    "name_value": "sams.grc.nasa.gov\nwww.sams.grc.nasa.gov",
+    "id": 20753193044,
+    "entry_timestamp": "2025-09-02T22:51:27.761",
+    "not_before": "2025-09-02T00:00:00",
+    "not_after": "2026-09-02T23:59:59",
+    "serial_number": "5354c2b331f3a0a8524b297637e12e24",
     "result_count": 3
   },
   {
@@ -2184,6 +2316,54 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "stemgateway.nasa.gov",
+    "name_value": "stemgateway.nasa.gov\nwww.stemgateway.nasa.gov",
+    "id": 20656334896,
+    "entry_timestamp": "2025-08-29T14:11:02.774",
+    "not_before": "2025-08-29T00:00:00",
+    "not_after": "2026-09-29T23:59:59",
+    "serial_number": "00963074a6b367feffdc29471a04aa05f5",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "stemgateway.nasa.gov",
+    "name_value": "stemgateway.nasa.gov\nwww.stemgateway.nasa.gov",
+    "id": 20656335619,
+    "entry_timestamp": "2025-08-29T14:11:01.506",
+    "not_before": "2025-08-29T00:00:00",
+    "not_after": "2026-09-29T23:59:59",
+    "serial_number": "00963074a6b367feffdc29471a04aa05f5",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "my.nasa.gov",
+    "name_value": "my.nasa.gov\nwww.my.nasa.gov",
+    "id": 20656319390,
+    "entry_timestamp": "2025-08-29T14:10:19.309",
+    "not_before": "2025-08-29T00:00:00",
+    "not_after": "2026-09-29T23:59:59",
+    "serial_number": "00e8173547ec8e74dc1d395b1551b4a20e",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "my.nasa.gov",
+    "name_value": "my.nasa.gov\nwww.my.nasa.gov",
+    "id": 20656319194,
+    "entry_timestamp": "2025-08-29T14:10:18.075",
+    "not_before": "2025-08-29T00:00:00",
+    "not_after": "2026-09-29T23:59:59",
+    "serial_number": "00e8173547ec8e74dc1d395b1551b4a20e",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 385512,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
     "common_name": "launchpad-dev.nasa.gov",
@@ -2422,6 +2602,30 @@
     "not_after": "2026-09-25T23:59:59",
     "serial_number": "0feee659a192254d7853db92379fde2f",
     "result_count": 2
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "misbapp2-vm.grc.nasa.gov",
+    "name_value": "misbapp2-vm.grc.nasa.gov\nwww.misbapp2-vm.grc.nasa.gov",
+    "id": 20595638517,
+    "entry_timestamp": "2025-08-26T22:23:14.283",
+    "not_before": "2025-08-26T00:00:00",
+    "not_after": "2026-08-26T23:59:59",
+    "serial_number": "00c5368d6ed3641c987d325cdd98b0fe85",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "misbapp2-vm.grc.nasa.gov",
+    "name_value": "misbapp2-vm.grc.nasa.gov\nwww.misbapp2-vm.grc.nasa.gov",
+    "id": 20595638018,
+    "entry_timestamp": "2025-08-26T22:23:13.545",
+    "not_before": "2025-08-26T00:00:00",
+    "not_after": "2026-08-26T23:59:59",
+    "serial_number": "00c5368d6ed3641c987d325cdd98b0fe85",
+    "result_count": 3
   },
   {
     "issuer_ca_id": 247106,
@@ -3288,6 +3492,126 @@
     "result_count": 6
   },
   {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "export.grc.nasa.gov",
+    "name_value": "export.grc.nasa.gov\nwww.export.grc.nasa.gov",
+    "id": 20440674220,
+    "entry_timestamp": "2025-08-19T20:32:13.018",
+    "not_before": "2025-08-19T00:00:00",
+    "not_after": "2026-08-19T23:59:59",
+    "serial_number": "00d9d33530f74137417a696204f82d40c8",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "export.grc.nasa.gov",
+    "name_value": "export.grc.nasa.gov\nwww.export.grc.nasa.gov",
+    "id": 20440674637,
+    "entry_timestamp": "2025-08-19T20:32:12.239",
+    "not_before": "2025-08-19T00:00:00",
+    "not_after": "2026-08-19T23:59:59",
+    "serial_number": "00d9d33530f74137417a696204f82d40c8",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "safetravel.grc.nasa.gov",
+    "name_value": "safetravel.grc.nasa.gov\nwww.safetravel.grc.nasa.gov",
+    "id": 20440674910,
+    "entry_timestamp": "2025-08-19T20:32:09.739",
+    "not_before": "2025-08-19T00:00:00",
+    "not_after": "2026-08-19T23:59:59",
+    "serial_number": "00c80f6dd93711c617416e86088a840780",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "safetravel.grc.nasa.gov",
+    "name_value": "safetravel.grc.nasa.gov\nwww.safetravel.grc.nasa.gov",
+    "id": 20440674635,
+    "entry_timestamp": "2025-08-19T20:32:09.149",
+    "not_before": "2025-08-19T00:00:00",
+    "not_after": "2026-08-19T23:59:59",
+    "serial_number": "00c80f6dd93711c617416e86088a840780",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "outreachevents.grc.nasa.gov",
+    "name_value": "outreachevents.grc.nasa.gov\nwww.outreachevents.grc.nasa.gov",
+    "id": 20440674332,
+    "entry_timestamp": "2025-08-19T20:32:08.951",
+    "not_before": "2025-08-19T00:00:00",
+    "not_after": "2026-08-19T23:59:59",
+    "serial_number": "0f32f5270dc0e18a7e83cb946a7ae585",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "outreachevents.grc.nasa.gov",
+    "name_value": "outreachevents.grc.nasa.gov\nwww.outreachevents.grc.nasa.gov",
+    "id": 20440674330,
+    "entry_timestamp": "2025-08-19T20:32:07.471",
+    "not_before": "2025-08-19T00:00:00",
+    "not_after": "2026-08-19T23:59:59",
+    "serial_number": "0f32f5270dc0e18a7e83cb946a7ae585",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "osirris.grc.nasa.gov",
+    "name_value": "osirris.grc.nasa.gov\nwww.osirris.grc.nasa.gov",
+    "id": 20440674815,
+    "entry_timestamp": "2025-08-19T20:32:06.666",
+    "not_before": "2025-08-19T00:00:00",
+    "not_after": "2026-08-19T23:59:59",
+    "serial_number": "00adb968e6f1334419a3b4f1433551e2ff",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "osirris.grc.nasa.gov",
+    "name_value": "osirris.grc.nasa.gov\nwww.osirris.grc.nasa.gov",
+    "id": 20440674701,
+    "entry_timestamp": "2025-08-19T20:32:04.428",
+    "not_before": "2025-08-19T00:00:00",
+    "not_after": "2026-08-19T23:59:59",
+    "serial_number": "00adb968e6f1334419a3b4f1433551e2ff",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "netspublic.grc.nasa.gov",
+    "name_value": "netspublic.grc.nasa.gov\nwww.netspublic.grc.nasa.gov",
+    "id": 20440674347,
+    "entry_timestamp": "2025-08-19T20:32:03.167",
+    "not_before": "2025-08-19T00:00:00",
+    "not_after": "2026-08-19T23:59:59",
+    "serial_number": "0095ace172c87dfd3550e3081babd5035c",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "netspublic.grc.nasa.gov",
+    "name_value": "netspublic.grc.nasa.gov\nwww.netspublic.grc.nasa.gov",
+    "id": 20440674796,
+    "entry_timestamp": "2025-08-19T20:32:02.502",
+    "not_before": "2025-08-19T00:00:00",
+    "not_after": "2026-08-19T23:59:59",
+    "serial_number": "0095ace172c87dfd3550e3081babd5035c",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "three.jsc.nasa.gov",
@@ -3934,6 +4258,18 @@
     "not_after": "2026-09-16T23:59:59",
     "serial_number": "05758184b840ee2f917cc8bdc0d1b9ba",
     "result_count": 2
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "jira-test.grc.nasa.gov",
+    "name_value": "jira-test.grc.nasa.gov\nwww.jira-test.grc.nasa.gov",
+    "id": 20402947613,
+    "entry_timestamp": "2025-08-18T13:21:03.149",
+    "not_before": "2025-08-18T00:00:00",
+    "not_after": "2026-08-18T23:59:59",
+    "serial_number": "3ee52e1f6f6f0073fac53ad8c918346d",
+    "result_count": 3
   },
   {
     "issuer_ca_id": 204406,
@@ -4720,6 +5056,18 @@
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
     "common_name": "mediaflux.ndc.nasa.gov",
     "name_value": "gr2202media01.ndc.nasa.gov\ngr2202media02.ndc.nasa.gov\nmediaflux.ndc.nasa.gov",
+    "id": 20310996195,
+    "entry_timestamp": "2025-08-13T16:01:30.43",
+    "not_before": "2025-08-13T00:00:00",
+    "not_after": "2026-09-12T23:59:59",
+    "serial_number": "00ad8cbfdb33c5722658ea32a6f2bf1053",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "mediaflux.ndc.nasa.gov",
+    "name_value": "gr2202media01.ndc.nasa.gov\ngr2202media02.ndc.nasa.gov\nmediaflux.ndc.nasa.gov",
     "id": 20310995683,
     "entry_timestamp": "2025-08-13T16:01:28.36",
     "not_before": "2025-08-13T00:00:00",
@@ -5172,6 +5520,18 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 239799,
+    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
+    "common_name": "chat.nasa.gov",
+    "name_value": "chat.nasa.gov",
+    "id": 20262813970,
+    "entry_timestamp": "2025-08-11T08:53:41.99",
+    "not_before": "2025-08-11T00:00:00",
+    "not_after": "2026-02-11T23:59:59",
+    "serial_number": "0c045e2c3930d6614b98497a830768af",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247106,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
     "common_name": "ppbe-stage.hqmce.nasa.gov",
@@ -5350,6 +5710,30 @@
     "not_after": "2026-09-07T23:59:59",
     "serial_number": "08b1eba7e189d84ee5c94c06ae99d613",
     "result_count": 2
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "qcard.sma.nasa.gov",
+    "name_value": "qcard.sma.nasa.gov\nwww.qcard.sma.nasa.gov",
+    "id": 20204192579,
+    "entry_timestamp": "2025-08-08T15:49:13.863",
+    "not_before": "2025-08-08T00:00:00",
+    "not_after": "2026-08-08T23:59:59",
+    "serial_number": "00f0ff066ddcd5745a9bdaf476e0e6fbe5",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "qcard.sma.nasa.gov",
+    "name_value": "qcard.sma.nasa.gov\nwww.qcard.sma.nasa.gov",
+    "id": 20204191574,
+    "entry_timestamp": "2025-08-08T15:49:12.632",
+    "not_before": "2025-08-08T00:00:00",
+    "not_after": "2026-08-08T23:59:59",
+    "serial_number": "00f0ff066ddcd5745a9bdaf476e0e6fbe5",
+    "result_count": 3
   },
   {
     "issuer_ca_id": 247106,
@@ -5908,11 +6292,35 @@
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
     "common_name": "www1.grc.nasa.gov",
     "name_value": "www1.grc.nasa.gov",
+    "id": 20159538372,
+    "entry_timestamp": "2025-08-06T13:39:22.496",
+    "not_before": "2025-08-06T00:00:00",
+    "not_after": "2026-08-06T23:59:59",
+    "serial_number": "5ab5709c748fae6395a7d849cc2a916d",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "www1.grc.nasa.gov",
+    "name_value": "www1.grc.nasa.gov",
     "id": 20159538369,
     "entry_timestamp": "2025-08-06T13:39:21.436",
     "not_before": "2025-08-06T00:00:00",
     "not_after": "2026-08-06T23:59:59",
     "serial_number": "5ab5709c748fae6395a7d849cc2a916d",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "formmail.grc.nasa.gov",
+    "name_value": "formmail.grc.nasa.gov",
+    "id": 20159501633,
+    "entry_timestamp": "2025-08-06T13:37:01.765",
+    "not_before": "2025-08-06T00:00:00",
+    "not_after": "2026-08-06T23:59:59",
+    "serial_number": "00f518b3b12abc9019dad4ffb104652c55",
     "result_count": 2
   },
   {
@@ -5932,6 +6340,18 @@
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
     "common_name": "strs.grc.nasa.gov",
     "name_value": "strs.grc.nasa.gov",
+    "id": 20159466204,
+    "entry_timestamp": "2025-08-06T13:33:56.21",
+    "not_before": "2025-08-06T00:00:00",
+    "not_after": "2026-08-06T23:59:59",
+    "serial_number": "00d732ee6266001c8df27b5d9e7f27d669",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "strs.grc.nasa.gov",
+    "name_value": "strs.grc.nasa.gov",
     "id": 20159466200,
     "entry_timestamp": "2025-08-06T13:33:54.251",
     "not_before": "2025-08-06T00:00:00",
@@ -5944,11 +6364,35 @@
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
     "common_name": "www.grc.nasa.gov",
     "name_value": "www.grc.nasa.gov",
+    "id": 20159402896,
+    "entry_timestamp": "2025-08-06T13:30:23.58",
+    "not_before": "2025-08-06T00:00:00",
+    "not_after": "2026-08-06T23:59:59",
+    "serial_number": "5c95a010ebc23b2eaa01df55f09d0579",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "www.grc.nasa.gov",
+    "name_value": "www.grc.nasa.gov",
     "id": 20159403005,
     "entry_timestamp": "2025-08-06T13:30:22.961",
     "not_before": "2025-08-06T00:00:00",
     "not_after": "2026-08-06T23:59:59",
     "serial_number": "5c95a010ebc23b2eaa01df55f09d0579",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "aircrafticing.grc.nasa.gov",
+    "name_value": "aircrafticing.grc.nasa.gov",
+    "id": 20159352856,
+    "entry_timestamp": "2025-08-06T13:26:59.317",
+    "not_before": "2025-08-06T00:00:00",
+    "not_after": "2026-08-06T23:59:59",
+    "serial_number": "00ee9c0a08b0be1c88910e2b92683dfcce",
     "result_count": 2
   },
   {
@@ -5986,6 +6430,18 @@
     "not_after": "2026-09-01T23:59:59",
     "serial_number": "1e901e7b7dac6ed12a9025d1108a4818",
     "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "gvis.grc.nasa.gov",
+    "name_value": "gvis.grc.nasa.gov",
+    "id": 20159233807,
+    "entry_timestamp": "2025-08-06T13:20:42.896",
+    "not_before": "2025-08-06T00:00:00",
+    "not_after": "2026-08-06T23:59:59",
+    "serial_number": "009818a117fee34af1a246a60d5ab96e28",
+    "result_count": 2
   },
   {
     "issuer_ca_id": 204406,
@@ -6153,6 +6609,18 @@
     "not_before": "2025-08-05T00:00:00",
     "not_after": "2026-09-03T23:59:59",
     "serial_number": "097ff0c0b1e7a0f2cca75b118d205283",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 239799,
+    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
+    "common_name": "chat.nasa.gov",
+    "name_value": "chat.nasa.gov",
+    "id": 20125917318,
+    "entry_timestamp": "2025-08-05T04:03:04.627",
+    "not_before": "2025-08-05T00:00:00",
+    "not_after": "2026-02-05T23:59:59",
+    "serial_number": "06f74a737f8fe65df6df9537859057aa",
     "result_count": 2
   },
   {
@@ -6360,6 +6828,54 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "netsdata.grc.nasa.gov",
+    "name_value": "netsdata.grc.nasa.gov\nwww.netsdata.grc.nasa.gov",
+    "id": 20052748360,
+    "entry_timestamp": "2025-08-01T15:02:18.949",
+    "not_before": "2025-08-01T00:00:00",
+    "not_after": "2026-08-01T23:59:59",
+    "serial_number": "00c359525e5fad5f2b35d07e01acf72ccd",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "netsdata.grc.nasa.gov",
+    "name_value": "netsdata.grc.nasa.gov\nwww.netsdata.grc.nasa.gov",
+    "id": 20052747608,
+    "entry_timestamp": "2025-08-01T15:02:17.37",
+    "not_before": "2025-08-01T00:00:00",
+    "not_after": "2026-08-01T23:59:59",
+    "serial_number": "00c359525e5fad5f2b35d07e01acf72ccd",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "nmis-archive.grc.nasa.gov",
+    "name_value": "nmis-archive.grc.nasa.gov\nwww.nmis-archive.grc.nasa.gov",
+    "id": 20052747732,
+    "entry_timestamp": "2025-08-01T15:02:05.981",
+    "not_before": "2025-08-01T00:00:00",
+    "not_after": "2026-08-01T23:59:59",
+    "serial_number": "00d0d68a723aa443c6482c195f14ffc038",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "nmis-archive.grc.nasa.gov",
+    "name_value": "nmis-archive.grc.nasa.gov\nwww.nmis-archive.grc.nasa.gov",
+    "id": 20052747730,
+    "entry_timestamp": "2025-08-01T15:02:04.539",
+    "not_before": "2025-08-01T00:00:00",
+    "not_after": "2026-08-01T23:59:59",
+    "serial_number": "00d0d68a723aa443c6482c195f14ffc038",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "espd.gsfc.nasa.gov",
@@ -6513,6 +7029,18 @@
     "not_before": "2025-07-30T00:00:00",
     "not_after": "2026-08-25T23:59:59",
     "serial_number": "009c44ac63928ddee04b4c64c6990b48a8",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "cearun.grc.nasa.gov",
+    "name_value": "cearun.grc.nasa.gov",
+    "id": 20010752399,
+    "entry_timestamp": "2025-07-30T15:05:57.54",
+    "not_before": "2025-07-30T00:00:00",
+    "not_after": "2026-07-30T23:59:59",
+    "serial_number": "00a7313606ca5dd0c8e2c3285b36d785fd",
     "result_count": 2
   },
   {
@@ -8092,6 +8620,18 @@
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
     "common_name": "grsccm01.ndc.nasa.gov",
     "name_value": "grsccm01.ndc.nasa.gov\nwww.grsccm01.ndc.nasa.gov",
+    "id": 19838537766,
+    "entry_timestamp": "2025-07-22T18:29:43.345",
+    "not_before": "2025-07-22T00:00:00",
+    "not_after": "2026-08-01T23:59:59",
+    "serial_number": "00a0b870389fadcde791be5b9d31487dec",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "grsccm01.ndc.nasa.gov",
+    "name_value": "grsccm01.ndc.nasa.gov\nwww.grsccm01.ndc.nasa.gov",
     "id": 19838538035,
     "entry_timestamp": "2025-07-22T18:29:42.777",
     "not_before": "2025-07-22T00:00:00",
@@ -8398,6 +8938,42 @@
     "not_after": "2026-08-10T23:59:59",
     "serial_number": "009bee0bd859f9305aff869ba9d0fb3c88",
     "result_count": 2
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": null,
+    "name_value": "aed.ksc.nasa.gov\nbitbucket-ccp.nasa.gov\nbitbucket-ccp-test.nasa.gov\ncct.ksc.nasa.gov\ncolumbia.nasa.gov\nconfluence-ccp.nasa.gov\nconfluence-ccp-test.nasa.gov\ncorrosion.ksc.nasa.gov\nenvironmental.ksc.nasa.gov\ngetmoving.ksc.nasa.gov\njira-ccp.nasa.gov\njira-ccp-test.nasa.gov\nksccdc.ksc.nasa.gov\nkscsma.ksc.nasa.gov\nkscweather.ksc.nasa.gov\nkscwxarchive.ksc.nasa.gov\nmedia.ksc.nasa.gov\nnasaexchange.ksc.nasa.gov\nnek.ksc.nasa.gov\nprocurement.ksc.nasa.gov\npropellants.ksc.nasa.gov\npublic.ksc.nasa.gov\nrocketsciencec2e.ksc.nasa.gov\nspecsintact.ksc.nasa.gov\ntdglobal.ksc.nasa.gov",
+    "id": 19759226778,
+    "entry_timestamp": "2025-07-18T17:15:05.24",
+    "not_before": "2025-07-18T00:00:00",
+    "not_after": "2026-07-18T23:59:59",
+    "serial_number": "00a1994870ff723e24f4232cbba931c3f5",
+    "result_count": 25
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": null,
+    "name_value": "aed.ksc.nasa.gov\nbitbucket-ccp.nasa.gov\nbitbucket-ccp-test.nasa.gov\ncct.ksc.nasa.gov\ncolumbia.nasa.gov\nconfluence-ccp.nasa.gov\nconfluence-ccp-test.nasa.gov\ncorrosion.ksc.nasa.gov\nenvironmental.ksc.nasa.gov\ngetmoving.ksc.nasa.gov\njira-ccp.nasa.gov\njira-ccp-test.nasa.gov\nksccdc.ksc.nasa.gov\nkscsma.ksc.nasa.gov\nkscweather.ksc.nasa.gov\nkscwxarchive.ksc.nasa.gov\nmedia.ksc.nasa.gov\nnasaexchange.ksc.nasa.gov\nnek.ksc.nasa.gov\nprocurement.ksc.nasa.gov\npropellants.ksc.nasa.gov\npublic.ksc.nasa.gov\nrocketsciencec2e.ksc.nasa.gov\nspecsintact.ksc.nasa.gov\ntdglobal.ksc.nasa.gov",
+    "id": 19759226868,
+    "entry_timestamp": "2025-07-18T17:15:03.801",
+    "not_before": "2025-07-18T00:00:00",
+    "not_after": "2026-07-18T23:59:59",
+    "serial_number": "00a1994870ff723e24f4232cbba931c3f5",
+    "result_count": 25
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": null,
+    "name_value": "extapps.ksc.nasa.gov\nhewp.ksc.nasa.gov\nksc-fltops.ndc.nasa.gov\nkscpartnerships.ksc.nasa.gov\nmasterplan.ksc.nasa.gov\nmescforyou.ksc.nasa.gov\nsi.ksc.nasa.gov",
+    "id": 19759202031,
+    "entry_timestamp": "2025-07-18T17:13:11.062",
+    "not_before": "2025-07-18T00:00:00",
+    "not_after": "2026-07-18T23:59:59",
+    "serial_number": "6524973934a9f633aa2ed19a4fbd2fdc",
+    "result_count": 7
   },
   {
     "issuer_ca_id": 204406,
@@ -9220,11 +9796,35 @@
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
     "common_name": "hiliftpw-ftp.larc.nasa.gov",
     "name_value": "hiliftpw-ftp.larc.nasa.gov",
+    "id": 19690761846,
+    "entry_timestamp": "2025-07-15T19:45:23.285",
+    "not_before": "2025-07-15T00:00:00",
+    "not_after": "2026-05-17T23:59:59",
+    "serial_number": "2f29b47fc70272986aadaadbc8ec2571",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "hiliftpw-ftp.larc.nasa.gov",
+    "name_value": "hiliftpw-ftp.larc.nasa.gov",
     "id": 19690759273,
     "entry_timestamp": "2025-07-15T19:45:21.385",
     "not_before": "2025-07-15T00:00:00",
     "not_after": "2026-05-17T23:59:59",
     "serial_number": "2f29b47fc70272986aadaadbc8ec2571",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "workshops.larc.nasa.gov",
+    "name_value": "workshops.larc.nasa.gov",
+    "id": 19690618799,
+    "entry_timestamp": "2025-07-15T19:38:23.403",
+    "not_before": "2025-07-15T00:00:00",
+    "not_after": "2026-05-17T23:59:59",
+    "serial_number": "39407987c124037601880d645fa67266",
     "result_count": 2
   },
   {
@@ -9244,6 +9844,18 @@
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
     "common_name": "lbpw-ftp.larc.nasa.gov",
     "name_value": "lbpw-ftp.larc.nasa.gov",
+    "id": 19690488769,
+    "entry_timestamp": "2025-07-15T19:30:28.084",
+    "not_before": "2025-07-15T00:00:00",
+    "not_after": "2026-05-17T23:59:59",
+    "serial_number": "0098e6d898acb1873a754f1736bb094859",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "lbpw-ftp.larc.nasa.gov",
+    "name_value": "lbpw-ftp.larc.nasa.gov",
     "id": 19690488539,
     "entry_timestamp": "2025-07-15T19:30:25.374",
     "not_before": "2025-07-15T00:00:00",
@@ -9256,11 +9868,35 @@
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
     "common_name": "transmodels.larc.nasa.gov",
     "name_value": "transmodels.larc.nasa.gov",
+    "id": 19690319385,
+    "entry_timestamp": "2025-07-15T19:22:23.718",
+    "not_before": "2025-07-15T00:00:00",
+    "not_after": "2026-05-17T23:59:59",
+    "serial_number": "1eae46b6b4799bff20a97aea33e28847",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "transmodels.larc.nasa.gov",
+    "name_value": "transmodels.larc.nasa.gov",
     "id": 19690319668,
     "entry_timestamp": "2025-07-15T19:22:21.819",
     "not_before": "2025-07-15T00:00:00",
     "not_after": "2026-05-17T23:59:59",
     "serial_number": "1eae46b6b4799bff20a97aea33e28847",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "dpw.larc.nasa.gov",
+    "name_value": "dpw.larc.nasa.gov",
+    "id": 19690073109,
+    "entry_timestamp": "2025-07-15T19:09:04.947",
+    "not_before": "2025-07-15T00:00:00",
+    "not_after": "2026-05-17T23:59:59",
+    "serial_number": "00911ea437c3ea89b84c58c38196294fdb",
     "result_count": 2
   },
   {
@@ -9369,6 +10005,18 @@
     "not_before": "2025-07-14T00:00:00",
     "not_after": "2026-07-16T23:59:59",
     "serial_number": "04fbfe72a9f319796b792192bd189034",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "jiraweb1.grc.nasa.gov",
+    "name_value": "gr2202vmcodevjiraprod.ndc.nasa.gov\njiraweb1.grc.nasa.gov",
+    "id": 19659553694,
+    "entry_timestamp": "2025-07-14T15:05:41.983",
+    "not_before": "2025-07-14T00:00:00",
+    "not_after": "2026-07-14T23:59:59",
+    "serial_number": "1f46bcd1ba358c298952528c0e035540",
     "result_count": 3
   },
   {
@@ -9970,6 +10618,30 @@
     "not_after": "2026-08-06T23:59:59",
     "serial_number": "0968f740104f12982506a85b7cefa822",
     "result_count": 2
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "star.sma.nasa.gov",
+    "name_value": "star.sma.nasa.gov\nwww.star.sma.nasa.gov",
+    "id": 19534688730,
+    "entry_timestamp": "2025-07-08T18:48:25.44",
+    "not_before": "2025-07-08T00:00:00",
+    "not_after": "2026-07-08T23:59:59",
+    "serial_number": "7002dc624efbb81bc8947c75977f7b94",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "star.sma.nasa.gov",
+    "name_value": "star.sma.nasa.gov\nwww.star.sma.nasa.gov",
+    "id": 19534689284,
+    "entry_timestamp": "2025-07-08T18:48:24.758",
+    "not_before": "2025-07-08T00:00:00",
+    "not_after": "2026-07-08T23:59:59",
+    "serial_number": "7002dc624efbb81bc8947c75977f7b94",
+    "result_count": 3
   },
   {
     "issuer_ca_id": 176211,
@@ -12796,6 +13468,18 @@
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
     "common_name": "amesapp2019.ndc.nasa.gov",
     "name_value": "amesapp2019.ndc.nasa.gov\nwww.amesapp2019.ndc.nasa.gov",
+    "id": 19059044995,
+    "entry_timestamp": "2025-06-16T19:56:08.669",
+    "not_before": "2025-06-16T00:00:00",
+    "not_after": "2026-06-27T23:59:59",
+    "serial_number": "00f69bd83972297844f1eece90054c838c",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "amesapp2019.ndc.nasa.gov",
+    "name_value": "amesapp2019.ndc.nasa.gov\nwww.amesapp2019.ndc.nasa.gov",
     "id": 19059044994,
     "entry_timestamp": "2025-06-16T19:56:07.882",
     "not_before": "2025-06-16T00:00:00",
@@ -12862,6 +13546,18 @@
     "not_after": "2026-07-12T23:59:59",
     "serial_number": "00f60d1284fc61e57fc5d0e7ccfb500076",
     "result_count": 2
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": null,
+    "name_value": "chats.nasa.gov\nesb.nasa.gov\nid.nasa.gov\nid.support.nasa.gov\nndmswspubvip.ndc.nasa.gov\npublicforms.nasa.gov\nrmakp.nasa.gov\nsmap.nasa.gov",
+    "id": 19056614287,
+    "entry_timestamp": "2025-06-16T16:44:09.583",
+    "not_before": "2025-06-16T00:00:00",
+    "not_after": "2026-06-16T23:59:59",
+    "serial_number": "008809f408964c9d2a9d1cfc91d5456164",
+    "result_count": 8
   },
   {
     "issuer_ca_id": 204406,
@@ -15802,6 +16498,18 @@
     "not_after": "2026-07-01T23:59:59",
     "serial_number": "0545d9fea4d1ef6ec5f0bf98b986bf85",
     "result_count": 2
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "medeco-grc-tst.ndc.nasa.gov",
+    "name_value": "medeco-grc-tst.ndc.nasa.gov\nwww.medeco-grc-tst.ndc.nasa.gov",
+    "id": 18771066638,
+    "entry_timestamp": "2025-06-02T14:45:21.255",
+    "not_before": "2025-06-02T00:00:00",
+    "not_after": "2026-06-02T23:59:59",
+    "serial_number": "00e0b154afd82333d5676ffe86227a2a48",
+    "result_count": 3
   },
   {
     "issuer_ca_id": 204406,
@@ -34488,30 +35196,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 105493,
-    "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
-    "common_name": "grcconfluence.ndc.nasa.gov",
-    "name_value": "grcconfluence.ndc.nasa.gov\nwww.grcconfluence.ndc.nasa.gov",
-    "id": 15975721324,
-    "entry_timestamp": "2025-01-02T15:38:05.972",
-    "not_before": "2025-01-02T00:00:00",
-    "not_after": "2026-01-02T23:59:59",
-    "serial_number": "5a301d198783824b7fb637fe85e90886",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 105493,
-    "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA",
-    "common_name": "grcconfluence.ndc.nasa.gov",
-    "name_value": "grcconfluence.ndc.nasa.gov\nwww.grcconfluence.ndc.nasa.gov",
-    "id": 15975721386,
-    "entry_timestamp": "2025-01-02T15:38:04.603",
-    "not_before": "2025-01-02T00:00:00",
-    "not_after": "2026-01-02T23:59:59",
-    "serial_number": "5a301d198783824b7fb637fe85e90886",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 247106,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
     "common_name": "uamdev1.amesaero.nasa.gov",
@@ -35438,18 +36122,6 @@
   {
     "issuer_ca_id": 247115,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "spotthestation.nasa.gov",
-    "name_value": "corport.hq.nasa.gov\nspotthestation.nasa.gov",
-    "id": 15793459999,
-    "entry_timestamp": "2024-12-17T04:06:52.221",
-    "not_before": "2024-12-03T00:00:00",
-    "not_after": "2026-01-01T23:59:59",
-    "serial_number": "043fc932855356598d24bb1a8a15a23d",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
     "common_name": "0y3qk91ywh84d9.intsvc.cloud.earthdata.nasa.gov",
     "name_value": "0y3qk91ywh84d9.intsvc.cloud.earthdata.nasa.gov",
     "id": 15792135094,
@@ -35988,18 +36660,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "transpire.gdsit.eurc.jpl.nasa.gov",
-    "name_value": "aerie-orch.gdsit.eurc.jpl.nasa.gov\naerie-post-sim.gdsit.eurc.jpl.nasa.gov\ncws.gdsit.eurc.jpl.nasa.gov\nmcws.gdsit.eurc.jpl.nasa.gov\ntranspire.gdsit.eurc.jpl.nasa.gov\ntranspire-ui.gdsit.eurc.jpl.nasa.gov",
-    "id": 15657272176,
-    "entry_timestamp": "2024-12-07T21:49:36.686",
-    "not_before": "2024-12-07T21:39:35",
-    "not_after": "2026-01-02T21:49:22",
-    "serial_number": "1df49dc1e0ff283f58e6078f89730d37",
-    "result_count": 7
-  },
-  {
     "issuer_ca_id": 247115,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
     "common_name": "gcc-sonarqube.gsfc.nasa.gov",
@@ -36009,18 +36669,6 @@
     "not_before": "2024-12-07T00:00:00",
     "not_after": "2026-01-04T23:59:59",
     "serial_number": "017dd68d6a8d91e8ea888034eebe2f58",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "fnwiki-msrsrlsts.jpl.nasa.gov",
-    "name_value": "fnwiki-msrsrlsts.jpl.nasa.gov",
-    "id": 15644168976,
-    "entry_timestamp": "2024-12-07T00:00:15.406",
-    "not_before": "2024-12-06T23:50:14",
-    "not_after": "2026-01-02T00:00:08",
-    "serial_number": "5928a7d0367ca8a9005f31d3899b129a",
     "result_count": 2
   },
   {
@@ -36034,18 +36682,6 @@
     "not_after": "2026-01-06T23:59:59",
     "serial_number": "061ffe520ceee2c1908fd1122c75a3c8",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "cae-swaggerhub.jpl.nasa.gov",
-    "name_value": "cae-swaggerhub-admin.jpl.nasa.gov\ncae-swaggerhub.jpl.nasa.gov",
-    "id": 15639561043,
-    "entry_timestamp": "2024-12-06T16:22:56.315",
-    "not_before": "2024-12-06T16:12:55",
-    "not_after": "2026-01-01T16:22:47",
-    "serial_number": "1a4068e955d5b0cd14d00494a8a4ba78",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 247115,
@@ -36158,18 +36794,6 @@
   {
     "issuer_ca_id": 247115,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "fmssilliad.ndc.nasa.gov",
-    "name_value": "fmssilliad.ndc.nasa.gov\nrequests.ndc.nasa.gov",
-    "id": 15611384324,
-    "entry_timestamp": "2024-12-04T14:51:52.309",
-    "not_before": "2024-12-04T00:00:00",
-    "not_after": "2026-01-02T23:59:59",
-    "serial_number": "05e27ada17a09738b181703bd90e27bf",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
     "common_name": "etmfuse.amesaero.nasa.gov",
     "name_value": "etmfuse.amesaero.nasa.gov",
     "id": 15606192756,
@@ -36225,114 +36849,6 @@
     "not_before": "2024-12-04T00:00:00",
     "not_after": "2026-01-03T23:59:59",
     "serial_number": "04ca725ca7cdc376fc7674560654c5e9",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "spotthestation.nasa.gov",
-    "name_value": "corport.hq.nasa.gov\nspotthestation.nasa.gov",
-    "id": 15599287101,
-    "entry_timestamp": "2024-12-03T16:37:54.888",
-    "not_before": "2024-12-03T00:00:00",
-    "not_after": "2026-01-01T23:59:59",
-    "serial_number": "043fc932855356598d24bb1a8a15a23d",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "sfa.nasa.gov",
-    "name_value": "sfa.nasa.gov",
-    "id": 15598032103,
-    "entry_timestamp": "2024-12-03T14:20:15.203",
-    "not_before": "2024-12-03T00:00:00",
-    "not_after": "2026-01-01T23:59:59",
-    "serial_number": "0105c1202b68c76e7de11ceb94875f63",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "microgravityuniversity.jsc.nasa.gov",
-    "name_value": "microgravityuniversity.jsc.nasa.gov",
-    "id": 15598032202,
-    "entry_timestamp": "2024-12-03T14:20:12.626",
-    "not_before": "2024-12-03T00:00:00",
-    "not_after": "2026-01-01T23:59:59",
-    "serial_number": "01fef3da33243accf04e9cb7f0dd1840",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "standards-dev.nasa.gov",
-    "name_value": "standards-dev.nasa.gov",
-    "id": 15598032068,
-    "entry_timestamp": "2024-12-03T14:20:06.88",
-    "not_before": "2024-12-03T00:00:00",
-    "not_after": "2026-01-01T23:59:59",
-    "serial_number": "0a4a6fbb9b1d3d51bb6ae1e092537c9f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "sciencecareers.apps.nasa.gov",
-    "name_value": "sciencecareers.apps.nasa.gov",
-    "id": 15595458957,
-    "entry_timestamp": "2024-12-03T08:09:28.194",
-    "not_before": "2024-12-03T00:00:00",
-    "not_after": "2026-01-01T23:59:59",
-    "serial_number": "086348076b75442824d971ae7b489aec",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "sciencecareers.apps.nasa.gov",
-    "name_value": "sciencecareers.apps.nasa.gov",
-    "id": 15594411289,
-    "entry_timestamp": "2024-12-03T07:38:56.4",
-    "not_before": "2024-12-03T00:00:00",
-    "not_after": "2026-01-01T23:59:59",
-    "serial_number": "086348076b75442824d971ae7b489aec",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "prod.wsa.ccmc.smce.nasa.gov",
-    "name_value": "prod.wsa.ccmc.smce.nasa.gov",
-    "id": 15594403180,
-    "entry_timestamp": "2024-12-03T07:38:06.317",
-    "not_before": "2024-12-03T00:00:00",
-    "not_after": "2026-01-01T23:59:59",
-    "serial_number": "0a757bf954d529426bf897f5d3bbaf64",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "dev.wsa.ccmc.smce.nasa.gov",
-    "name_value": "dev.wsa.ccmc.smce.nasa.gov",
-    "id": 15593852348,
-    "entry_timestamp": "2024-12-03T06:36:37.199",
-    "not_before": "2024-12-03T00:00:00",
-    "not_after": "2026-01-02T23:59:59",
-    "serial_number": "081793b20679b32c020fcc93dc38ddec",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "cloudresources.sit.earthdatacloud.nasa.gov",
-    "name_value": "cloudresources.sit.earthdatacloud.nasa.gov",
-    "id": 15593698765,
-    "entry_timestamp": "2024-12-03T06:19:39.876",
-    "not_before": "2024-12-03T00:00:00",
-    "not_after": "2026-01-02T23:59:59",
-    "serial_number": "01f1f098a8503feb03d95be87512e8f4",
     "result_count": 2
   }
 ]
