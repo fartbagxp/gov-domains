@@ -1,5 +1,65 @@
 [
   {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "digital.weather.gov",
+    "name_value": "airquality.weather.gov\nairquality-x.weather.gov\ndigital.weather.gov\ndigital-x.weather.gov\ngraphical.weather.gov\ngraphical-x.weather.gov",
+    "id": 23560227617,
+    "entry_timestamp": "2026-01-05T05:07:30.639",
+    "not_before": "2026-01-05T00:00:00",
+    "not_after": "2027-02-03T23:59:59",
+    "serial_number": "02049d8f6bee0f6f4a3c75f4fedd1270",
+    "result_count": 7
+  },
+  {
+    "issuer_ca_id": 247115,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
+    "common_name": "digital.weather.gov",
+    "name_value": "airquality.weather.gov\nairquality-x.weather.gov\ndigital.weather.gov\ndigital-x.weather.gov\ngraphical.weather.gov\ngraphical-x.weather.gov",
+    "id": 23559375578,
+    "entry_timestamp": "2026-01-05T04:00:55.443",
+    "not_before": "2025-02-03T00:00:00",
+    "not_after": "2026-03-05T23:59:59",
+    "serial_number": "0880c94b399dff9015da8af33b75e9c7",
+    "result_count": 7
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "digital.weather.gov",
+    "name_value": "airquality.weather.gov\nairquality-x.weather.gov\ndigital.weather.gov\ndigital-x.weather.gov\ngraphical.weather.gov\ngraphical-x.weather.gov",
+    "id": 23559335288,
+    "entry_timestamp": "2026-01-05T03:59:08.55",
+    "not_before": "2026-01-05T00:00:00",
+    "not_after": "2027-02-03T23:59:59",
+    "serial_number": "02049d8f6bee0f6f4a3c75f4fedd1270",
+    "result_count": 7
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "beta.weather.gov",
+    "name_value": "beta.weather.gov",
+    "id": 23555281665,
+    "entry_timestamp": "2026-01-04T22:19:51.231",
+    "not_before": "2026-01-04T21:21:19",
+    "not_after": "2026-04-04T21:21:18",
+    "serial_number": "06bdede542d6c095e974dd622baae0613ac0",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "beta.weather.gov",
+    "name_value": "beta.weather.gov",
+    "id": 23555270863,
+    "entry_timestamp": "2026-01-04T22:19:50.094",
+    "not_before": "2026-01-04T21:21:19",
+    "not_after": "2026-04-04T21:21:18",
+    "serial_number": "06bdede542d6c095e974dd622baae0613ac0",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 295816,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "training.weather.gov",
@@ -226,54 +286,6 @@
     "not_after": "2026-02-03T21:31:22",
     "serial_number": "05861d07318e0a8bff6c2d28dce2eef174b8",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "training.weather.gov",
-    "name_value": "training.weather.gov",
-    "id": 21553272867,
-    "entry_timestamp": "2025-10-06T20:15:44.918",
-    "not_before": "2025-10-06T19:17:14",
-    "not_after": "2026-01-04T19:17:13",
-    "serial_number": "05040fda57b2d74ff7671c0ddeb1d4ae8935",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "training.weather.gov",
-    "name_value": "training.weather.gov",
-    "id": 21540391776,
-    "entry_timestamp": "2025-10-06T20:15:44.301",
-    "not_before": "2025-10-06T19:17:14",
-    "not_after": "2026-01-04T19:17:13",
-    "serial_number": "05040fda57b2d74ff7671c0ddeb1d4ae8935",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "ocean.weather.gov",
-    "name_value": "ftp.ocean.weather.gov\nocean.weather.gov",
-    "id": 21552840328,
-    "entry_timestamp": "2025-10-06T19:20:30.725",
-    "not_before": "2025-10-06T18:21:59",
-    "not_after": "2026-01-04T18:21:58",
-    "serial_number": "0661afe806d2a921c228954ee63ff33e1c91",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "ocean.weather.gov",
-    "name_value": "ftp.ocean.weather.gov\nocean.weather.gov",
-    "id": 21540084525,
-    "entry_timestamp": "2025-10-06T19:20:29.498",
-    "not_before": "2025-10-06T18:21:59",
-    "not_after": "2026-01-04T18:21:58",
-    "serial_number": "0661afe806d2a921c228954ee63ff33e1c91",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 247106,
