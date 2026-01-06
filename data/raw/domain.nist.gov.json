@@ -1,5 +1,41 @@
 [
   {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "tlb.nist.gov",
+    "name_value": "*.tlb.nist.gov\ntlb.nist.gov",
+    "id": 23572011615,
+    "entry_timestamp": "2026-01-05T19:11:24.91",
+    "not_before": "2026-01-05T18:11:24",
+    "not_after": "2026-04-05T19:11:16",
+    "serial_number": "00b5233f5dc5eed72d0e9c82428905ec09",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "tlb.nist.gov",
+    "name_value": "*.tlb.nist.gov\ntlb.nist.gov",
+    "id": 23572011815,
+    "entry_timestamp": "2026-01-05T19:11:11.023",
+    "not_before": "2026-01-05T18:11:10",
+    "not_after": "2026-04-05T19:07:43",
+    "serial_number": "008830bf597a1df3820d02e93f00ec75dc",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "xpressions.nist.gov",
+    "name_value": "xpressions.nist.gov",
+    "id": 23570223379,
+    "entry_timestamp": "2026-01-05T17:06:08.182",
+    "not_before": "2026-01-05T00:00:00",
+    "not_after": "2027-01-04T23:59:59",
+    "serial_number": "0975c5abde71480c55dfdfdf3d90c0db",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 295813,
     "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
     "common_name": "materialsdata.nist.gov",
@@ -28089,18 +28125,6 @@
     "not_before": "2024-12-18T00:00:00",
     "not_after": "2026-01-18T23:59:59",
     "serial_number": "022d30aaab8618100c5924c507dc9fd7",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "demo.esvts.nist.gov",
-    "name_value": "demo.esvts.nist.gov",
-    "id": 15628514159,
-    "entry_timestamp": "2024-12-05T21:15:26.707",
-    "not_before": "2024-12-05T00:00:00",
-    "not_after": "2026-01-05T23:59:59",
-    "serial_number": "085662caf49df294046ea002aed01ea7",
     "result_count": 2
   }
 ]
