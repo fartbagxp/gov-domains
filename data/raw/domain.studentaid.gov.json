@@ -1,5 +1,17 @@
 [
   {
+    "issuer_ca_id": 286244,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR3",
+    "common_name": "content.nelnet.studentaid.gov",
+    "name_value": "content.nelnet.studentaid.gov",
+    "id": 23579811753,
+    "entry_timestamp": "2026-01-06T04:11:29",
+    "not_before": "2026-01-06T03:11:28",
+    "not_after": "2026-04-06T04:07:23",
+    "serial_number": "6da22c6bdf3b15c60991a34c355d156c",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 246719,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "*.e.nelnet.studentaid.gov",
@@ -2244,18 +2256,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 217001,
-    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=DigiCert Verified Mark RSA4096 SHA256 2021 CA1",
-    "common_name": "Department of Education",
-    "name_value": "studentaid.gov\ntest.studentaid.gov",
-    "id": 15934894338,
-    "entry_timestamp": "2024-12-29T15:15:40.052",
-    "not_before": "2024-12-18T00:00:00",
-    "not_after": "2026-01-05T23:59:59",
-    "serial_number": "0d014df837cfa74f1a1ae3ec28038a40",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 185756,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
     "common_name": "edfinancial.studentaid.gov",
@@ -2302,17 +2302,5 @@
     "not_after": "2026-01-07T23:59:59",
     "serial_number": "08f08f39c7162e4b2c46ad3847b18fcb",
     "result_count": 23
-  },
-  {
-    "issuer_ca_id": 217001,
-    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=DigiCert Verified Mark RSA4096 SHA256 2021 CA1",
-    "common_name": "Department of Education",
-    "name_value": "studentaid.gov\ntest.studentaid.gov",
-    "id": 15818892215,
-    "entry_timestamp": "2024-12-18T21:37:01.898",
-    "not_before": "2024-12-18T00:00:00",
-    "not_after": "2026-01-05T23:59:59",
-    "serial_number": "0d014df837cfa74f1a1ae3ec28038a40",
-    "result_count": 2
   }
 ]

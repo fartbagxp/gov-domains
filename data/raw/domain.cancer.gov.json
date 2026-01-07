@@ -1,5 +1,41 @@
 [
   {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "library.ncifrederick.cancer.gov",
+    "name_value": "library.ncifrederick.cancer.gov",
+    "id": 23599749636,
+    "entry_timestamp": "2026-01-07T02:13:11.397",
+    "not_before": "2026-01-07T01:14:38",
+    "not_after": "2026-04-07T01:14:37",
+    "serial_number": "0596cc4bcd377e9e433835e3601cb464e79c",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "library.ncifrederick.cancer.gov",
+    "name_value": "library.ncifrederick.cancer.gov",
+    "id": 23599721878,
+    "entry_timestamp": "2026-01-07T02:13:08.322",
+    "not_before": "2026-01-07T01:14:38",
+    "not_after": "2026-04-07T01:14:37",
+    "serial_number": "0596cc4bcd377e9e433835e3601cb464e79c",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "*.datacommons.cancer.gov",
+    "name_value": "*.datacommons.cancer.gov\ndatacommons.cancer.gov\nLBL-P019-V.datacommons.cancer.gov",
+    "id": 23593665681,
+    "entry_timestamp": "2026-01-06T19:38:11.037",
+    "not_before": "2026-01-06T00:00:00",
+    "not_after": "2027-01-06T23:59:59",
+    "serial_number": "014273ff4cfe56b0d524d1e5b2d7e809",
+    "result_count": 4
+  },
+  {
     "issuer_ca_id": 295817,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "seerdataaccess-stage.cancer.gov",
@@ -1882,30 +1918,6 @@
     "not_after": "2026-03-11T23:59:59",
     "serial_number": "0d0d4e361dd5c32c813f5442571aac1f",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "*.datacommons.cancer.gov",
-    "name_value": "*.datacommons.cancer.gov\ndatacommons.cancer.gov\nharmonization.datacommons.cancer.gov\nLBL-P019-V.datacommons.cancer.gov",
-    "id": 22502450588,
-    "entry_timestamp": "2025-11-16T03:36:44.717",
-    "not_before": "2025-01-07T00:00:00",
-    "not_after": "2026-01-06T23:59:59",
-    "serial_number": "05a6b46c1799ce6bcaeef945dbf7f438",
-    "result_count": 5
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "*.datacommons.cancer.gov",
-    "name_value": "awsnonprod.datacommons.cancer.gov\n*.datacommons.cancer.gov\ndatacommons.cancer.gov",
-    "id": 22499968397,
-    "entry_timestamp": "2025-11-16T01:03:19",
-    "not_before": "2025-01-03T00:00:00",
-    "not_after": "2026-01-06T23:59:59",
-    "serial_number": "0871ea322dee1ddcfff7eb0073016023",
-    "result_count": 4
   },
   {
     "issuer_ca_id": 295817,
@@ -4682,18 +4694,6 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "*.datacommons.cancer.gov",
-    "name_value": "awsprod.datacommons.cancer.gov\n*.datacommons.cancer.gov\ndatacommons.cancer.gov",
-    "id": 16754261850,
-    "entry_timestamp": "2025-02-16T23:21:03.47",
-    "not_before": "2025-01-03T00:00:00",
-    "not_after": "2026-01-06T23:59:59",
-    "serial_number": "08822b450d41396fe631d2b274330b6f",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "metrics.cancer.gov",
     "name_value": "metrics.cancer.gov",
     "id": 16614858087,
@@ -4766,18 +4766,6 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "*.datacommons.cancer.gov",
-    "name_value": "*.datacommons.cancer.gov\ndatacommons.cancer.gov\nharmonization.datacommons.cancer.gov\nLBL-P019-V.datacommons.cancer.gov",
-    "id": 16074005044,
-    "entry_timestamp": "2025-01-07T17:32:26.429",
-    "not_before": "2025-01-07T00:00:00",
-    "not_after": "2026-01-06T23:59:59",
-    "serial_number": "05a6b46c1799ce6bcaeef945dbf7f438",
-    "result_count": 5
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "datascience.cancer.gov",
     "name_value": "datascience.cancer.gov\ndatascience-dev.cancer.gov\ndatascience-stage.cancer.gov",
     "id": 15999756399,
@@ -4790,54 +4778,6 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "*.datacommons.cancer.gov",
-    "name_value": "awsprod.datacommons.cancer.gov\n*.datacommons.cancer.gov\ndatacommons.cancer.gov",
-    "id": 15998472515,
-    "entry_timestamp": "2025-01-03T16:58:50.509",
-    "not_before": "2025-01-03T00:00:00",
-    "not_after": "2026-01-06T23:59:59",
-    "serial_number": "08822b450d41396fe631d2b274330b6f",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "*.datacommons.cancer.gov",
-    "name_value": "awsnonprod.datacommons.cancer.gov\n*.datacommons.cancer.gov\ndatacommons.cancer.gov",
-    "id": 15998419080,
-    "entry_timestamp": "2025-01-03T16:55:05.596",
-    "not_before": "2025-01-03T00:00:00",
-    "not_after": "2026-01-06T23:59:59",
-    "serial_number": "0871ea322dee1ddcfff7eb0073016023",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "*.datacommons.cancer.gov",
-    "name_value": "*.datacommons.cancer.gov\ndatacommons.cancer.gov",
-    "id": 15943271415,
-    "entry_timestamp": "2024-12-30T19:56:18.173",
-    "not_before": "2024-12-30T00:00:00",
-    "not_after": "2026-01-06T23:59:59",
-    "serial_number": "0b592ed36294ad82b681ff084fa2b1c6",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "*.datacommons.cancer.gov",
-    "name_value": "*.datacommons.cancer.gov\ndatacommons.cancer.gov",
-    "id": 15943174538,
-    "entry_timestamp": "2024-12-30T19:47:47.939",
-    "not_before": "2024-12-30T00:00:00",
-    "not_after": "2026-01-06T23:59:59",
-    "serial_number": "0fdba4bb83aaa59660bec335fa72bfe7",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "sip.evs.cancer.gov",
     "name_value": "sip.evs.cancer.gov",
     "id": 15812201666,
@@ -4846,30 +4786,6 @@
     "not_after": "2026-01-07T23:59:59",
     "serial_number": "09c806d9a2c98eb84e22d9cb2a2b15fb",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "*.datacommons.cancer.gov",
-    "name_value": "*.datacommons.cancer.gov\ndatacommons.cancer.gov",
-    "id": 15811986068,
-    "entry_timestamp": "2024-12-18T18:06:50.558",
-    "not_before": "2024-12-18T00:00:00",
-    "not_after": "2026-01-06T23:59:59",
-    "serial_number": "0a569067a5225afbf71a352b848c99f7",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "*.datacommons.cancer.gov",
-    "name_value": "*.datacommons.cancer.gov\ndatacommons.cancer.gov",
-    "id": 15811976291,
-    "entry_timestamp": "2024-12-18T18:05:58.383",
-    "not_before": "2024-12-18T00:00:00",
-    "not_after": "2026-01-06T23:59:59",
-    "serial_number": "0a810fe57976c06da69203903d598cfa",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 153248,
