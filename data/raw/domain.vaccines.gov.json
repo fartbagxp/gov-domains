@@ -1,5 +1,77 @@
 [
   {
+    "issuer_ca_id": 62123,
+    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
+    "common_name": "www.cdc.gov",
+    "name_value": "Wwwns.vaccines.gov",
+    "id": 23616599193,
+    "entry_timestamp": "2026-01-07T21:06:18.833",
+    "not_before": "2025-12-18T00:00:00",
+    "not_after": "2026-12-17T23:59:59",
+    "serial_number": "0f8f736ffc461709951388b91ccf3861",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 385516,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust DV TLS Issuing RSA CA 2",
+    "common_name": "www.cdc.gov",
+    "name_value": "origin.vaccines.gov\nvaccines.gov\nwww.staging.vaccines.gov\nwww.vaccines.gov",
+    "id": 23616567497,
+    "entry_timestamp": "2026-01-07T21:04:15.186",
+    "not_before": "2026-01-07T00:00:00",
+    "not_after": "2027-01-07T23:59:59",
+    "serial_number": "1dd6800bf5598f32461df879c5206831",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 385516,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust DV TLS Issuing RSA CA 2",
+    "common_name": "www.cdc.gov",
+    "name_value": "origin.vaccines.gov\nvaccines.gov\nwww.staging.vaccines.gov\nwww.vaccines.gov",
+    "id": 23616545856,
+    "entry_timestamp": "2026-01-07T21:03:59.88",
+    "not_before": "2026-01-07T00:00:00",
+    "not_after": "2027-01-07T23:59:59",
+    "serial_number": "1dd6800bf5598f32461df879c5206831",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "hhs.gov",
+    "name_value": "vaccines.gov\nwww.vaccines.gov",
+    "id": 23615467381,
+    "entry_timestamp": "2026-01-07T19:52:55.841",
+    "not_before": "2025-12-01T00:00:00",
+    "not_after": "2026-12-21T23:59:59",
+    "serial_number": "09a0df661e6bd4f7f9f4c33ff60d4375",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "vaccines.gov",
+    "name_value": "vaccines.gov",
+    "id": 23615452495,
+    "entry_timestamp": "2026-01-07T19:49:23.125",
+    "not_before": "2026-01-07T00:00:00",
+    "not_after": "2026-04-07T23:59:59",
+    "serial_number": "00f8b64086f2733ef6c8b2f91bd209efc4",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "vaccines.gov",
+    "name_value": "vaccines.gov",
+    "id": 23615452133,
+    "entry_timestamp": "2026-01-07T19:49:15.671",
+    "not_before": "2026-01-07T00:00:00",
+    "not_after": "2026-04-07T23:59:59",
+    "serial_number": "00f8b64086f2733ef6c8b2f91bd209efc4",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 295817,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "wecandothis.hhs.gov",
