@@ -1,5 +1,53 @@
 [
   {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "usgs.gov",
+    "name_value": "*.usgs.gov\nusgs.gov",
+    "id": 23640074279,
+    "entry_timestamp": "2026-01-08T20:39:58.607",
+    "not_before": "2026-01-08T19:39:58",
+    "not_after": "2026-04-08T20:39:55",
+    "serial_number": "5795df49bea251be13d0534704cce139",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "usgs.gov",
+    "name_value": "*.usgs.gov\nusgs.gov",
+    "id": 23640091234,
+    "entry_timestamp": "2026-01-08T20:39:50.123",
+    "not_before": "2026-01-08T19:39:49",
+    "not_after": "2026-04-08T20:37:34",
+    "serial_number": "00a34b8774347e6f300ef79a11f1b3dfcf",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "*.fort.usgs.gov",
+    "name_value": "*.fort.usgs.gov\nfort.usgs.gov\nwww.fort.usgs.gov",
+    "id": 23637157096,
+    "entry_timestamp": "2026-01-08T17:42:39.71",
+    "not_before": "2026-01-08T00:00:00",
+    "not_after": "2027-01-07T23:59:59",
+    "serial_number": "039abfef977fefc813b09b1027f534aa",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "*.fort.usgs.gov",
+    "name_value": "*.fort.usgs.gov\nfort.usgs.gov\nwww.fort.usgs.gov",
+    "id": 23636569620,
+    "entry_timestamp": "2026-01-08T17:04:21.839",
+    "not_before": "2026-01-08T00:00:00",
+    "not_after": "2027-01-07T23:59:59",
+    "serial_number": "039abfef977fefc813b09b1027f534aa",
+    "result_count": 4
+  },
+  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "*.eros.chs.usgs.gov",
@@ -386,18 +434,6 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "*.fort.usgs.gov",
-    "name_value": "*.fort.usgs.gov\nfort.usgs.gov\nwww.fort.usgs.gov",
-    "id": 22501612682,
-    "entry_timestamp": "2025-11-16T02:41:09.796",
-    "not_before": "2025-01-06T00:00:00",
-    "not_after": "2026-01-07T23:59:59",
-    "serial_number": "058ea3e9ccf419c37d586c9d3bffbe3d",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "PF8.USGS.GOV",
     "name_value": "PF8.USGS.GOV\nwww.PF8.USGS.GOV",
     "id": 22441914446,
@@ -633,30 +669,6 @@
     "not_before": "2025-10-20T00:55:32",
     "not_after": "2026-01-18T00:55:31",
     "serial_number": "0561d257d0a02681a32b6a5eb8a3551af7de",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "hrms.usgs.gov",
-    "name_value": "hrms.usgs.gov",
-    "id": 21611898524,
-    "entry_timestamp": "2025-10-10T01:29:09.309",
-    "not_before": "2025-10-10T00:30:38",
-    "not_after": "2026-01-08T00:30:37",
-    "serial_number": "056524675506402c370f51ef2f73a562afb8",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "hrms.usgs.gov",
-    "name_value": "hrms.usgs.gov",
-    "id": 21611903373,
-    "entry_timestamp": "2025-10-10T01:29:08.886",
-    "not_before": "2025-10-10T00:30:38",
-    "not_after": "2026-01-08T00:30:37",
-    "serial_number": "056524675506402c370f51ef2f73a562afb8",
     "result_count": 2
   },
   {
@@ -1594,18 +1606,6 @@
     "not_after": "2026-08-08T23:59:59",
     "serial_number": "09808896bb6a36988a3c20096e9fe00c",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "*.fort.usgs.gov",
-    "name_value": "*.fort.usgs.gov\nfort.usgs.gov\nwww.fort.usgs.gov",
-    "id": 20138015233,
-    "entry_timestamp": "2025-08-05T15:40:16.014",
-    "not_before": "2025-08-05T00:00:00",
-    "not_after": "2026-01-07T23:59:59",
-    "serial_number": "01dcff324193a535d7f6a2c861279d16",
-    "result_count": 4
   },
   {
     "issuer_ca_id": 185752,
@@ -3982,30 +3982,6 @@
     "not_after": "2026-02-22T23:59:59",
     "serial_number": "0f038021f12a012dc517f3f23c99c304",
     "result_count": 5
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "*.fort.usgs.gov",
-    "name_value": "*.fort.usgs.gov\nfort.usgs.gov\nwww.fort.usgs.gov",
-    "id": 16052433631,
-    "entry_timestamp": "2025-01-06T20:37:07.738",
-    "not_before": "2025-01-06T00:00:00",
-    "not_after": "2026-01-07T23:59:59",
-    "serial_number": "058ea3e9ccf419c37d586c9d3bffbe3d",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "*.fort.usgs.gov",
-    "name_value": "*.fort.usgs.gov\nfort.usgs.gov\nwww.fort.usgs.gov",
-    "id": 16052382113,
-    "entry_timestamp": "2025-01-06T20:34:14.241",
-    "not_before": "2025-01-06T00:00:00",
-    "not_after": "2026-01-07T23:59:59",
-    "serial_number": "0ed0b8ca5becfbb6f3c4ecd70daa293e",
-    "result_count": 4
   },
   {
     "issuer_ca_id": 185752,
