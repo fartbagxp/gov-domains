@@ -1,5 +1,65 @@
 [
   {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "wdh.energy.gov",
+    "name_value": "*.wdh.energy.gov\nwdh.energy.gov",
+    "id": 23671965556,
+    "entry_timestamp": "2026-01-10T05:09:40.029",
+    "not_before": "2026-01-10T00:00:00",
+    "not_after": "2027-02-08T23:59:59",
+    "serial_number": "02e12e6332f5ba7a5f25382c228afecc",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 247106,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
+    "common_name": "wdh.energy.gov",
+    "name_value": "*.wdh.energy.gov\nwdh.energy.gov",
+    "id": 23671031800,
+    "entry_timestamp": "2026-01-10T04:07:05.036",
+    "not_before": "2025-02-09T00:00:00",
+    "not_after": "2026-03-10T23:59:59",
+    "serial_number": "0b32637554462acd5f7c62b31be3416c",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "wdh.energy.gov",
+    "name_value": "*.wdh.energy.gov\nwdh.energy.gov",
+    "id": 23670998349,
+    "entry_timestamp": "2026-01-10T04:05:28.556",
+    "not_before": "2026-01-10T00:00:00",
+    "not_after": "2027-02-08T23:59:59",
+    "serial_number": "02e12e6332f5ba7a5f25382c228afecc",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295809,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
+    "common_name": "productinfo.energy.gov",
+    "name_value": "productinfo.energy.gov",
+    "id": 23665761172,
+    "entry_timestamp": "2026-01-09T22:40:09.934",
+    "not_before": "2026-01-09T21:41:39",
+    "not_after": "2026-04-09T21:41:38",
+    "serial_number": "0658f8ffaeee44fb30b7844fba4c4e478dfd",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295809,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
+    "common_name": "productinfo.energy.gov",
+    "name_value": "productinfo.energy.gov",
+    "id": 23665738280,
+    "entry_timestamp": "2026-01-09T22:40:09.492",
+    "not_before": "2026-01-09T21:41:39",
+    "not_after": "2026-04-09T21:41:38",
+    "serial_number": "0658f8ffaeee44fb30b7844fba4c4e478dfd",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 385512,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
     "common_name": "www.eere.energy.gov",
@@ -4056,18 +4116,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "learningnucleus.energy.gov",
-    "name_value": "learningnucleus.energy.gov\nwww.learningnucleus.energy.gov",
-    "id": 20896226306,
-    "entry_timestamp": "2025-09-09T11:46:02.696",
-    "not_before": "2024-12-17T23:04:39",
-    "not_after": "2026-01-08T17:25:04",
-    "serial_number": "714249d6e36a7cb399254de28d5ec826",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 385512,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
     "common_name": "eco.energy.gov",
@@ -6345,30 +6393,6 @@
     "not_before": "2025-01-06T11:38:46",
     "not_after": "2026-01-31T15:47:51",
     "serial_number": "1d3c3a89067df7667f6518f482ef0169",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "learningnucleus.energy.gov",
-    "name_value": "learningnucleus.energy.gov\nwww.learningnucleus.energy.gov",
-    "id": 15803271735,
-    "entry_timestamp": "2024-12-17T23:14:40.585",
-    "not_before": "2024-12-17T23:04:39",
-    "not_after": "2026-01-08T17:25:04",
-    "serial_number": "714249d6e36a7cb399254de28d5ec826",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "sherlock.nnsa.energy.gov",
-    "name_value": "sherlock.nnsa.energy.gov\nwww.sherlock.nnsa.energy.gov",
-    "id": 15801225604,
-    "entry_timestamp": "2024-12-17T18:11:29.276",
-    "not_before": "2024-12-17T18:01:27",
-    "not_after": "2026-01-08T13:59:29",
-    "serial_number": "7d63a124f60525bbf1e35c1ca96c48be",
     "result_count": 3
   }
 ]
