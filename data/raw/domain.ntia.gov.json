@@ -1,5 +1,41 @@
 [
   {
+    "issuer_ca_id": 282054,
+    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
+    "common_name": "iracnet.ntia.gov",
+    "name_value": "iracnet.ntia.gov",
+    "id": 23659651655,
+    "entry_timestamp": "2026-01-09T16:24:26.597",
+    "not_before": "2025-05-19T20:39:53",
+    "not_after": "2026-05-19T20:44:17",
+    "serial_number": "7d66504d98668f30aa54ef3fdab185da",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "iracnet.ntia.gov",
+    "name_value": "freqcoord.ntia.gov\niracnet.ntia.gov",
+    "id": 23659609862,
+    "entry_timestamp": "2026-01-09T16:22:22.314",
+    "not_before": "2026-01-09T00:00:00",
+    "not_after": "2027-01-12T23:59:59",
+    "serial_number": "0c37eb9c69f3f933fa3fdf661d42fa05",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "*.ntia.gov",
+    "name_value": "freqcoord.ntia.gov\niracnet.ntia.gov\n*.ntia.gov",
+    "id": 23659590464,
+    "entry_timestamp": "2026-01-09T16:21:28.007",
+    "not_before": "2026-01-09T00:00:00",
+    "not_after": "2027-01-12T23:59:59",
+    "serial_number": "0ec8c7b87649fe08294cfa82cef369d9",
+    "result_count": 4
+  },
+  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "ecopat.ntia.gov",
@@ -4390,77 +4426,5 @@
     "not_after": "2026-01-12T23:59:59",
     "serial_number": "0273720cbc30640c1bd28018c651dc98",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "sxxi-3.ntia.gov",
-    "name_value": "sxxi-3.ntia.gov",
-    "id": 15702273582,
-    "entry_timestamp": "2024-12-10T20:47:24.318",
-    "not_before": "2024-12-10T00:00:00",
-    "not_after": "2026-01-10T23:59:59",
-    "serial_number": "0ff033e4c9895b6a084f07eaae554736",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "*.ntia.gov",
-    "name_value": "*.ntia.gov\nsxxi-3.ntia.gov",
-    "id": 15702259002,
-    "entry_timestamp": "2024-12-10T20:45:41.101",
-    "not_before": "2024-12-10T00:00:00",
-    "not_after": "2026-01-10T23:59:59",
-    "serial_number": "0a90ad30ab277341e9db5a045cf65397",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "nthfwmgt001g.ntia.gov",
-    "name_value": "nthfwmgt001g.ntia.gov\nnthfwmgt002g.ntia.gov",
-    "id": 15701209468,
-    "entry_timestamp": "2024-12-10T19:28:56.161",
-    "not_before": "2024-12-10T00:00:00",
-    "not_after": "2026-01-10T23:59:59",
-    "serial_number": "07297edce6e88ec83c49ef79ccaaa48e",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "*.ntia.gov",
-    "name_value": "nthfwmgt001g.ntia.gov\nnthfwmgt002g.ntia.gov\n*.ntia.gov",
-    "id": 15701194317,
-    "entry_timestamp": "2024-12-10T19:27:41.89",
-    "not_before": "2024-12-10T00:00:00",
-    "not_after": "2026-01-10T23:59:59",
-    "serial_number": "0905a4c377f4d72858277f603032e63b",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "ntcfwmgt001g.ntia.gov",
-    "name_value": "ntcfwmgt001g.ntia.gov\nntcfwmgt002g.ntia.gov",
-    "id": 15700438119,
-    "entry_timestamp": "2024-12-10T18:31:44.433",
-    "not_before": "2024-12-10T00:00:00",
-    "not_after": "2026-01-10T23:59:59",
-    "serial_number": "0b98760b4ae6fb37a0ca25ed681ceb8b",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "*.ntia.gov",
-    "name_value": "ntcfwmgt001g.ntia.gov\nntcfwmgt002g.ntia.gov\n*.ntia.gov",
-    "id": 15700410474,
-    "entry_timestamp": "2024-12-10T18:29:51.138",
-    "not_before": "2024-12-10T00:00:00",
-    "not_after": "2026-01-10T23:59:59",
-    "serial_number": "056cf86a1654e2833d671a08a51bd207",
-    "result_count": 4
   }
 ]
