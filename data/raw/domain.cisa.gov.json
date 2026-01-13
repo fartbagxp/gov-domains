@@ -1,5 +1,41 @@
 [
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "idaas.cisa.gov",
+    "name_value": "idaas.cisa.gov",
+    "id": 23727473882,
+    "entry_timestamp": "2026-01-12T19:29:15.91",
+    "not_before": "2026-01-12T00:00:00",
+    "not_after": "2027-02-03T23:59:59",
+    "serial_number": "017093da17b055bc7f433da6b10d66fc",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "cisa.gov",
+    "name_value": "*.access.cisa.gov\n*.access-dev.cisa.gov\n*.access-uat.cisa.gov\n*.cisa.gov\ncisa.gov\n*.lb.cisa.gov",
+    "id": 23722106561,
+    "entry_timestamp": "2026-01-12T13:25:51.491",
+    "not_before": "2026-01-12T12:25:51",
+    "not_after": "2026-04-12T13:25:47",
+    "serial_number": "00ef874719557fe6b00e41e9dfe3f03385",
+    "result_count": 7
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "cisa.gov",
+    "name_value": "*.access.cisa.gov\n*.access-dev.cisa.gov\n*.access-uat.cisa.gov\n*.cisa.gov\ncisa.gov\n*.lb.cisa.gov",
+    "id": 23722099170,
+    "entry_timestamp": "2026-01-12T13:25:42.313",
+    "not_before": "2026-01-12T12:25:41",
+    "not_after": "2026-04-12T13:24:21",
+    "serial_number": "00bf4b4e7e554e5702137723b11814cec9",
+    "result_count": 7
+  },
+  {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "uat.cisa.gov",

@@ -1,5 +1,101 @@
 [
   {
+    "issuer_ca_id": 204407,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
+    "common_name": "uat.facjj.ojp.gov",
+    "name_value": "*.uat.facjj.ojp.gov\nuat.facjj.ojp.gov",
+    "id": 23731609962,
+    "entry_timestamp": "2026-01-13T00:34:11.259",
+    "not_before": "2026-01-13T00:00:00",
+    "not_after": "2026-04-13T00:26:03",
+    "serial_number": "5df131f64371e991fbb7ec2284024667",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204407,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
+    "common_name": "uat.facjj.ojp.gov",
+    "name_value": "*.uat.facjj.ojp.gov\nuat.facjj.ojp.gov",
+    "id": 23731610233,
+    "entry_timestamp": "2026-01-13T00:34:10.122",
+    "not_before": "2026-01-13T00:00:00",
+    "not_after": "2026-04-13T00:26:03",
+    "serial_number": "5df131f64371e991fbb7ec2284024667",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "uat.facjj.ojp.gov",
+    "name_value": "*.uat.facjj.ojp.gov\nuat.facjj.ojp.gov",
+    "id": 23731479633,
+    "entry_timestamp": "2026-01-13T00:25:49.266",
+    "not_before": "2026-01-13T00:00:00",
+    "not_after": "2026-04-13T00:22:47",
+    "serial_number": "00a676fedf57f86f8df1420ff9def6614b",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "uat.facjj.ojp.gov",
+    "name_value": "*.uat.facjj.ojp.gov\nuat.facjj.ojp.gov",
+    "id": 23731479025,
+    "entry_timestamp": "2026-01-13T00:25:48.448",
+    "not_before": "2026-01-13T00:00:00",
+    "not_after": "2026-04-13T00:22:47",
+    "serial_number": "00a676fedf57f86f8df1420ff9def6614b",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295813,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
+    "common_name": "uatnsopw-api.ojp.gov",
+    "name_value": "*.uatnsopw-api.ojp.gov\nuatnsopw-api.ojp.gov",
+    "id": 23724973911,
+    "entry_timestamp": "2026-01-12T16:43:55.398",
+    "not_before": "2026-01-12T15:45:25",
+    "not_after": "2026-04-12T15:45:24",
+    "serial_number": "0590a30fc91dc5ad4aa8a20b163477f8990e",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295813,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
+    "common_name": "uatnsopw-api.ojp.gov",
+    "name_value": "*.uatnsopw-api.ojp.gov\nuatnsopw-api.ojp.gov",
+    "id": 23724973777,
+    "entry_timestamp": "2026-01-12T16:43:55.157",
+    "not_before": "2026-01-12T15:45:25",
+    "not_after": "2026-04-12T15:45:24",
+    "serial_number": "0590a30fc91dc5ad4aa8a20b163477f8990e",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "uatnsopw-api.ojp.gov",
+    "name_value": "*.uatnsopw-api.ojp.gov\nuatnsopw-api.ojp.gov",
+    "id": 23724965241,
+    "entry_timestamp": "2026-01-12T16:42:17.643",
+    "not_before": "2026-01-12T15:43:47",
+    "not_after": "2026-04-12T15:43:46",
+    "serial_number": "06a8a8175bbf5a5c684eab7af9fb93f09a34",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "uatnsopw-api.ojp.gov",
+    "name_value": "*.uatnsopw-api.ojp.gov\nuatnsopw-api.ojp.gov",
+    "id": 23724954090,
+    "entry_timestamp": "2026-01-12T16:42:17.323",
+    "not_before": "2026-01-12T15:43:47",
+    "not_after": "2026-04-12T15:43:46",
+    "serial_number": "06a8a8175bbf5a5c684eab7af9fb93f09a34",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "uat.amberalert.ojp.gov",
@@ -376,6 +472,18 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "ojp.gov",
     "name_value": "*.ojp.gov\nojp.gov",
+    "id": 23302729666,
+    "entry_timestamp": "2025-12-22T22:09:35.466",
+    "not_before": "2025-12-22T21:11:05",
+    "not_after": "2026-03-22T21:11:04",
+    "serial_number": "051b44bbd70f938f6e4a601fb1cff86f26bf",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "ojp.gov",
+    "name_value": "*.ojp.gov\nojp.gov",
     "id": 23302733176,
     "entry_timestamp": "2025-12-22T22:09:35.237",
     "not_before": "2025-12-22T21:11:05",
@@ -573,6 +681,30 @@
     "not_before": "2025-12-21T16:18:31",
     "not_after": "2026-03-21T16:18:30",
     "serial_number": "0576b4b82f7c9215622ce6ae193e9c86d83d",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "vehiclehistory.bja.ojp.gov",
+    "name_value": "*.vehiclehistory.bja.ojp.gov\nvehiclehistory.bja.ojp.gov",
+    "id": 23273832953,
+    "entry_timestamp": "2025-12-21T16:44:58.003",
+    "not_before": "2025-12-21T15:46:25",
+    "not_after": "2026-03-21T15:46:24",
+    "serial_number": "051825a2ea6f5e8dfbb542739f9d3bcbd19f",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "vehiclehistory.bja.ojp.gov",
+    "name_value": "*.vehiclehistory.bja.ojp.gov\nvehiclehistory.bja.ojp.gov",
+    "id": 23273803475,
+    "entry_timestamp": "2025-12-21T16:44:55.694",
+    "not_before": "2025-12-21T15:46:25",
+    "not_after": "2026-03-21T15:46:24",
+    "serial_number": "051825a2ea6f5e8dfbb542739f9d3bcbd19f",
     "result_count": 3
   },
   {
@@ -1296,6 +1428,30 @@
     "result_count": 3
   },
   {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "nationalgangcenter.ojp.gov",
+    "name_value": "*.nationalgangcenter.ojp.gov\nnationalgangcenter.ojp.gov",
+    "id": 22861212402,
+    "entry_timestamp": "2025-11-30T07:04:40.027",
+    "not_before": "2025-11-30T06:06:09",
+    "not_after": "2026-02-28T06:06:08",
+    "serial_number": "05b1aed8d1269111a6244028b4cd0208e82a",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "nationalgangcenter.ojp.gov",
+    "name_value": "*.nationalgangcenter.ojp.gov\nnationalgangcenter.ojp.gov",
+    "id": 22818140648,
+    "entry_timestamp": "2025-11-30T07:04:39.779",
+    "not_before": "2025-11-30T06:06:09",
+    "not_after": "2026-02-28T06:06:08",
+    "serial_number": "05b1aed8d1269111a6244028b4cd0208e82a",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 295813,
     "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
     "common_name": "nsopw-api.ojp.gov",
@@ -1320,6 +1476,30 @@
     "result_count": 3
   },
   {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "nsopw-api.ojp.gov",
+    "name_value": "*.nsopw-api.ojp.gov\nnsopw-api.ojp.gov",
+    "id": 22816294275,
+    "entry_timestamp": "2025-11-30T04:39:04.715",
+    "not_before": "2025-11-30T03:40:34",
+    "not_after": "2026-02-28T03:40:33",
+    "serial_number": "069541bd628f62b8ab59d2d4ea2b20e710ab",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "nsopw-api.ojp.gov",
+    "name_value": "*.nsopw-api.ojp.gov\nnsopw-api.ojp.gov",
+    "id": 22816257975,
+    "entry_timestamp": "2025-11-30T04:39:04.528",
+    "not_before": "2025-11-30T03:40:34",
+    "not_after": "2026-02-28T03:40:33",
+    "serial_number": "069541bd628f62b8ab59d2d4ea2b20e710ab",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 295809,
     "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
     "common_name": "uat.nationalgangcenter.ojp.gov",
@@ -1341,6 +1521,30 @@
     "not_before": "2025-11-29T17:25:02",
     "not_after": "2026-02-27T17:25:01",
     "serial_number": "06e39f868be8c2485ec0030565250caf1f54",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "uat.nationalgangcenter.ojp.gov",
+    "name_value": "*.uat.nationalgangcenter.ojp.gov\nuat.nationalgangcenter.ojp.gov",
+    "id": 22854458355,
+    "entry_timestamp": "2025-11-29T18:23:20.734",
+    "not_before": "2025-11-29T17:24:50",
+    "not_after": "2026-02-27T17:24:49",
+    "serial_number": "054f2e86f76676851b8ec88c4246e51a4268",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "uat.nationalgangcenter.ojp.gov",
+    "name_value": "*.uat.nationalgangcenter.ojp.gov\nuat.nationalgangcenter.ojp.gov",
+    "id": 22808148124,
+    "entry_timestamp": "2025-11-29T18:23:20.401",
+    "not_before": "2025-11-29T17:24:50",
+    "not_after": "2026-02-27T17:24:49",
+    "serial_number": "054f2e86f76676851b8ec88c4246e51a4268",
     "result_count": 3
   },
   {
@@ -2205,6 +2409,30 @@
     "not_before": "2025-11-14T15:16:30",
     "not_after": "2026-02-12T15:16:29",
     "serial_number": "0532410ff1731c1a9dcb7c3c99893ba04470",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "uatnsopw-api.ojp.gov",
+    "name_value": "*.uatnsopw-api.ojp.gov\nuatnsopw-api.ojp.gov",
+    "id": 22466558642,
+    "entry_timestamp": "2025-11-14T15:31:21.967",
+    "not_before": "2025-11-14T14:32:51",
+    "not_after": "2026-02-12T14:32:50",
+    "serial_number": "06072aa0298190954f692b8d7a0c0b76c0df",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "uatnsopw-api.ojp.gov",
+    "name_value": "*.uatnsopw-api.ojp.gov\nuatnsopw-api.ojp.gov",
+    "id": 22466533434,
+    "entry_timestamp": "2025-11-14T15:31:21.624",
+    "not_before": "2025-11-14T14:32:51",
+    "not_after": "2026-02-12T14:32:50",
+    "serial_number": "06072aa0298190954f692b8d7a0c0b76c0df",
     "result_count": 3
   },
   {
@@ -3076,11 +3304,47 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "www.ojp.gov",
     "name_value": "*.www.ojp.gov\nwww.ojp.gov",
+    "id": 21926858097,
+    "entry_timestamp": "2025-10-23T00:30:28.703",
+    "not_before": "2025-10-22T23:31:58",
+    "not_after": "2026-01-20T23:31:57",
+    "serial_number": "06045b538db3df166ca10a966c2ed18d1a30",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "www.ojp.gov",
+    "name_value": "*.www.ojp.gov\nwww.ojp.gov",
     "id": 21926792780,
     "entry_timestamp": "2025-10-23T00:30:28.47",
     "not_before": "2025-10-22T23:31:58",
     "not_after": "2026-01-20T23:31:57",
     "serial_number": "06045b538db3df166ca10a966c2ed18d1a30",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "vehiclehistory.bja.ojp.gov",
+    "name_value": "*.vehiclehistory.bja.ojp.gov\nvehiclehistory.bja.ojp.gov",
+    "id": 21926524861,
+    "entry_timestamp": "2025-10-23T00:19:22.56",
+    "not_before": "2025-10-22T23:20:50",
+    "not_after": "2026-01-20T23:20:49",
+    "serial_number": "05a2ac877ee0d7f7fed99a54cc4b7e6897ae",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "vehiclehistory.bja.ojp.gov",
+    "name_value": "*.vehiclehistory.bja.ojp.gov\nvehiclehistory.bja.ojp.gov",
+    "id": 21926494684,
+    "entry_timestamp": "2025-10-23T00:19:20.257",
+    "not_before": "2025-10-22T23:20:50",
+    "not_after": "2026-01-20T23:20:49",
+    "serial_number": "05a2ac877ee0d7f7fed99a54cc4b7e6897ae",
     "result_count": 3
   },
   {
@@ -3225,30 +3489,6 @@
     "not_before": "2025-10-17T01:20:37",
     "not_after": "2026-01-15T02:19:13",
     "serial_number": "4a26efc6818e875113dfdc22fc5a14fb",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "uat.juvenilecouncil.ojp.gov",
-    "name_value": "*.uat.juvenilecouncil.ojp.gov\nuat.juvenilecouncil.ojp.gov",
-    "id": 21725249223,
-    "entry_timestamp": "2025-10-15T00:18:49.51",
-    "not_before": "2025-10-14T23:18:49",
-    "not_after": "2026-01-13T00:18:47",
-    "serial_number": "00c4ddbfcbd42e972913a5c30cc25224cc",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "uat.juvenilecouncil.ojp.gov",
-    "name_value": "*.uat.juvenilecouncil.ojp.gov\nuat.juvenilecouncil.ojp.gov",
-    "id": 21725247327,
-    "entry_timestamp": "2025-10-15T00:18:42.278",
-    "not_before": "2025-10-14T23:18:41",
-    "not_after": "2026-01-13T00:16:07",
-    "serial_number": "2d84ef447f1f5fef0e40ee39dc8be566",
     "result_count": 3
   },
   {
