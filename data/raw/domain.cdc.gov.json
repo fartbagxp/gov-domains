@@ -1,5 +1,89 @@
 [
   {
+    "issuer_ca_id": 239799,
+    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
+    "common_name": "dev-nhsnsa.cdc.gov",
+    "name_value": "dev-nhsnsa.cdc.gov",
+    "id": 23744850038,
+    "entry_timestamp": "2026-01-13T15:49:37.313",
+    "not_before": "2026-01-13T00:00:00",
+    "not_after": "2026-04-14T23:59:59",
+    "serial_number": "01c92732ea273a70581ca2f28f2433e5",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 385517,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust EV TLS Issuing RSA CA 2",
+    "common_name": "blogs.cdc.gov",
+    "name_value": "blogs.cdc.gov\nblogs-origin.cdc.gov",
+    "id": 23744607332,
+    "entry_timestamp": "2026-01-13T15:32:15.704",
+    "not_before": "2026-01-13T00:00:00",
+    "not_after": "2027-01-13T23:59:59",
+    "serial_number": "009627ae4786faa6066758d8dd5e62f92f",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 385517,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust EV TLS Issuing RSA CA 2",
+    "common_name": "blogs.cdc.gov",
+    "name_value": "blogs.cdc.gov\nblogs-origin.cdc.gov",
+    "id": 23744602049,
+    "entry_timestamp": "2026-01-13T15:32:13.647",
+    "not_before": "2026-01-13T00:00:00",
+    "not_after": "2027-01-13T23:59:59",
+    "serial_number": "009627ae4786faa6066758d8dd5e62f92f",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 385516,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust DV TLS Issuing RSA CA 2",
+    "common_name": "hehrdev.cdc.gov",
+    "name_value": "hehrdev.cdc.gov\nhehrdev.nchs.cdc.gov",
+    "id": 23744587478,
+    "entry_timestamp": "2026-01-13T15:31:02.671",
+    "not_before": "2026-01-13T00:00:00",
+    "not_after": "2027-01-13T23:59:59",
+    "serial_number": "31c7783568ca1c41c56250a7e9e5a81e",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 385516,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust DV TLS Issuing RSA CA 2",
+    "common_name": "hehrdev.cdc.gov",
+    "name_value": "hehrdev.cdc.gov\nhehrdev.nchs.cdc.gov",
+    "id": 23744585915,
+    "entry_timestamp": "2026-01-13T15:31:00.629",
+    "not_before": "2026-01-13T00:00:00",
+    "not_after": "2027-01-13T23:59:59",
+    "serial_number": "31c7783568ca1c41c56250a7e9e5a81e",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 385517,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust EV TLS Issuing RSA CA 2",
+    "common_name": "hehr-medicity-prod.cdc.gov",
+    "name_value": "hehr-medicity-prod.cdc.gov",
+    "id": 23743607048,
+    "entry_timestamp": "2026-01-13T14:28:15.185",
+    "not_before": "2026-01-13T00:00:00",
+    "not_after": "2027-01-13T23:59:59",
+    "serial_number": "00abe8399314f269dca6d5ea9e45d32f25",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 385517,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust EV TLS Issuing RSA CA 2",
+    "common_name": "hehr-medicity-prod.cdc.gov",
+    "name_value": "hehr-medicity-prod.cdc.gov",
+    "id": 23743605351,
+    "entry_timestamp": "2026-01-13T14:28:13.456",
+    "not_before": "2026-01-13T00:00:00",
+    "not_after": "2027-01-13T23:59:59",
+    "serial_number": "00abe8399314f269dca6d5ea9e45d32f25",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 385517,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust EV TLS Issuing RSA CA 2",
     "common_name": "olsrtesting.techlab.cdc.gov",
@@ -417,18 +501,6 @@
     "not_before": "2026-01-05T00:00:00",
     "not_after": "2027-01-05T23:59:59",
     "serial_number": "00bc7e73668ae45a5681a3231dec972411",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "vetoviolence.cdc.gov",
-    "name_value": "vetoviolence.cdc.gov",
-    "id": 23535457451,
-    "entry_timestamp": "2026-01-03T17:38:11.808",
-    "not_before": "2026-01-03T16:39:41",
-    "not_after": "2026-04-03T16:39:40",
-    "serial_number": "052981f70324773657f33dd3b7601d6b82c1",
     "result_count": 2
   },
   {
@@ -4089,18 +4161,6 @@
     "not_before": "2025-11-04T00:00:00",
     "not_after": "2026-11-04T23:59:59",
     "serial_number": "00eb22cc3eb0479d226081c9ecc0470e4f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "vetoviolence.cdc.gov",
-    "name_value": "vetoviolence.cdc.gov",
-    "id": 22201207389,
-    "entry_timestamp": "2025-11-04T13:19:44.871",
-    "not_before": "2025-11-04T12:21:14",
-    "not_after": "2026-02-02T12:21:13",
-    "serial_number": "06295216c874fe14276182d9b231d68049aa",
     "result_count": 2
   },
   {
@@ -14054,18 +14114,6 @@
   {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "aitv-ofr-wapps.cdc.gov",
-    "name_value": "aitv-ofr-wapps.cdc.gov\naudittrackingsit.cdc.gov\naudittrackingtest.cdc.gov\ncbrasit1.cdc.gov\ncbrasit2.cdc.gov\ncbrasit3.cdc.gov\ncbrasit4.cdc.gov\ncbratest1.cdc.gov\ncbratest2.cdc.gov\ncbratest3.cdc.gov\ncbratest4.cdc.gov\ndatahubsit.cdc.gov\ndatahubtest.cdc.gov\niansit.cdc.gov\niantest.cdc.gov\nocfsit.cdc.gov\nocftest.cdc.gov\nralwaiversit.cdc.gov\nralwaivertest.cdc.gov\nrdssit.cdc.gov\nrdstest.cdc.gov\nupssit.cdc.gov\nupstest.cdc.gov\nutamssit.cdc.gov\nutamstest.cdc.gov",
-    "id": 16243258579,
-    "entry_timestamp": "2025-01-15T13:57:25.305",
-    "not_before": "2025-01-15T13:47:24",
-    "not_after": "2026-01-13T18:54:40",
-    "serial_number": "193aa17bca4d7871c30d9f147317389c",
-    "result_count": 26
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "hehrdev.cdc.gov",
     "name_value": "hehrdev.cdc.gov\nhehrdev.nchs.cdc.gov",
     "id": 16243239622,
@@ -14097,18 +14145,6 @@
     "not_before": "2025-01-15T13:44:49",
     "not_after": "2026-01-14T20:48:00",
     "serial_number": "02e9c27afd008bee91e629f479549c12",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "nrevss-stage.cdc.gov",
-    "name_value": "nrevss-stage.cdc.gov",
-    "id": 16243188401,
-    "entry_timestamp": "2025-01-15T13:54:00.065",
-    "not_before": "2025-01-15T13:43:58",
-    "not_after": "2026-01-13T22:29:36",
-    "serial_number": "5aef9c993edb19df58c92b9c2f88d415",
     "result_count": 2
   },
   {
@@ -14169,42 +14205,6 @@
     "not_before": "2025-01-13T16:06:38",
     "not_after": "2026-02-07T11:08:28",
     "serial_number": "10da8f98fc41e26618a38a924137ce85",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "aspv-cvtm-osas.cdc.gov",
-    "name_value": "aspv-cvtm-osas.cdc.gov\nswasast.cdc.gov",
-    "id": 16201213736,
-    "entry_timestamp": "2025-01-13T16:13:52.862",
-    "not_before": "2025-01-13T16:03:51",
-    "not_after": "2026-01-13T15:34:56",
-    "serial_number": "6ce2148bcab602c088e1d3ea5057d3ce",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "aspv-cvtm-odas.cdc.gov",
-    "name_value": "aspv-cvtm-odas.cdc.gov\nswadast.cdc.gov",
-    "id": 16201213470,
-    "entry_timestamp": "2025-01-13T16:13:51.698",
-    "not_before": "2025-01-13T16:03:50",
-    "not_after": "2026-01-13T15:39:59",
-    "serial_number": "540f7e81dd7406e897e55afe082b0b91",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "wcfhbp-test.cdc.gov",
-    "name_value": "wcfhbp-test.cdc.gov",
-    "id": 16200170142,
-    "entry_timestamp": "2025-01-13T15:11:20.905",
-    "not_before": "2025-01-13T15:01:19",
-    "not_after": "2026-01-13T14:00:41",
-    "serial_number": "655b763876a121bf730c4d2f4e919846",
     "result_count": 2
   },
   {
