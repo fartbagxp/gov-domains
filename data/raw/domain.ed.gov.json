@@ -1,5 +1,41 @@
 [
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "pdp.ed.gov",
+    "name_value": "pdp.ed.gov\nwww.pdp.ed.gov",
+    "id": 23813311648,
+    "entry_timestamp": "2026-01-17T02:49:44.108",
+    "not_before": "2026-01-13T00:00:00",
+    "not_after": "2026-05-26T23:59:59",
+    "serial_number": "08fdb7c350adb029012a1d95154ea391",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "emdr.ed.gov",
+    "name_value": "api.emdr.ed.gov\nemdr.ed.gov",
+    "id": 23789487550,
+    "entry_timestamp": "2026-01-15T21:09:16.231",
+    "not_before": "2026-01-15T00:00:00",
+    "not_after": "2027-01-14T23:59:59",
+    "serial_number": "07717b818e34a55e2ad8f08abb4e8952",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 239799,
+    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
+    "common_name": "vpvmwevapp001-lkg.ed.gov",
+    "name_value": "vpvmwevapp001-lkg.ed.gov",
+    "id": 23787271726,
+    "entry_timestamp": "2026-01-15T18:32:54.123",
+    "not_before": "2026-01-06T00:00:00",
+    "not_after": "2026-04-14T23:59:59",
+    "serial_number": "0a94627f0fed5401c598aa86d562bfeb",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 239799,
     "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
     "common_name": "1edproddr.ed.gov",
@@ -2568,30 +2604,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "*.cod.atagc.com",
-    "name_value": "*.test.cod.ed.gov",
-    "id": 23028638679,
-    "entry_timestamp": "2025-12-09T17:18:36.817",
-    "not_before": "2025-12-09T16:20:06",
-    "not_after": "2026-03-09T16:20:05",
-    "serial_number": "054e33e9dc7f3a4c1d0b3b9c621694c55ae8",
-    "result_count": 1
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "*.cod.atagc.com",
-    "name_value": "*.test.cod.ed.gov",
-    "id": 23007487345,
-    "entry_timestamp": "2025-12-09T17:18:36.599",
-    "not_before": "2025-12-09T16:20:06",
-    "not_after": "2026-03-09T16:20:05",
-    "serial_number": "054e33e9dc7f3a4c1d0b3b9c621694c55ae8",
-    "result_count": 1
-  },
-  {
     "issuer_ca_id": 295817,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "*.apps.test.tivod.atagc.com",
@@ -3408,126 +3420,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "*.ppo.atagc.com",
-    "name_value": "*.api.fsapartners.ed.gov\n*.test.fsapartners.ed.gov",
-    "id": 21789322478,
-    "entry_timestamp": "2025-10-17T19:41:01.055",
-    "not_before": "2025-10-17T18:42:28",
-    "not_after": "2026-01-15T18:42:27",
-    "serial_number": "05fc9c3c02dc4a7a80f327bfb5f7f0619b96",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "*.ppo.atagc.com",
-    "name_value": "*.api.fsapartners.ed.gov\n*.test.fsapartners.ed.gov",
-    "id": 21789319935,
-    "entry_timestamp": "2025-10-17T19:40:58.774",
-    "not_before": "2025-10-17T18:42:28",
-    "not_after": "2026-01-15T18:42:27",
-    "serial_number": "05fc9c3c02dc4a7a80f327bfb5f7f0619b96",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "*.edmaps.atagc.com",
-    "name_value": "*.edmaps.ed.gov",
-    "id": 21789263071,
-    "entry_timestamp": "2025-10-17T19:35:07.384",
-    "not_before": "2025-10-17T18:36:34",
-    "not_after": "2026-01-15T18:36:33",
-    "serial_number": "058770cd21e07b785a3f2f97aa186792822c",
-    "result_count": 1
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "*.edmaps.atagc.com",
-    "name_value": "*.edmaps.ed.gov",
-    "id": 21789263210,
-    "entry_timestamp": "2025-10-17T19:35:05.187",
-    "not_before": "2025-10-17T18:36:34",
-    "not_after": "2026-01-15T18:36:33",
-    "serial_number": "058770cd21e07b785a3f2f97aa186792822c",
-    "result_count": 1
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "*.nsldsops.ed.gov",
-    "name_value": "*.edmaps.ed.gov\n*.nsldsops.ed.gov\nnsldsops.ed.gov",
-    "id": 21788792769,
-    "entry_timestamp": "2025-10-17T18:59:37.081",
-    "not_before": "2025-10-17T18:01:06",
-    "not_after": "2026-01-15T18:01:05",
-    "serial_number": "06a8f20a91bbc0faa81e425e316da366167b",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "*.nsldsops.ed.gov",
-    "name_value": "*.edmaps.ed.gov\n*.nsldsops.ed.gov\nnsldsops.ed.gov",
-    "id": 21788788082,
-    "entry_timestamp": "2025-10-17T18:59:36.852",
-    "not_before": "2025-10-17T18:01:06",
-    "not_after": "2026-01-15T18:01:05",
-    "serial_number": "06a8f20a91bbc0faa81e425e316da366167b",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "*.test.studentaid.gov",
-    "name_value": "nsldsopstest.ed.gov\n*.origin.test.fsapartners.ed.gov\n*.test.cod.ed.gov\n*.test.edmaps.ed.gov\n*.test.fsapartners.ed.gov\n*.test.nsldsfap.ed.gov",
-    "id": 21788701253,
-    "entry_timestamp": "2025-10-17T18:52:24.146",
-    "not_before": "2025-10-17T17:53:53",
-    "not_after": "2026-01-15T17:53:52",
-    "serial_number": "058c14fe4c94f23feb438ae34fc574b3e2ed",
-    "result_count": 6
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "*.test.studentaid.gov",
-    "name_value": "nsldsopstest.ed.gov\n*.origin.test.fsapartners.ed.gov\n*.test.cod.ed.gov\n*.test.edmaps.ed.gov\n*.test.fsapartners.ed.gov\n*.test.nsldsfap.ed.gov",
-    "id": 21788695323,
-    "entry_timestamp": "2025-10-17T18:52:23.905",
-    "not_before": "2025-10-17T17:53:53",
-    "not_after": "2026-01-15T17:53:52",
-    "serial_number": "058c14fe4c94f23feb438ae34fc574b3e2ed",
-    "result_count": 6
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "*.cod.atagc.com",
-    "name_value": "*.test.cod.ed.gov",
-    "id": 21788512010,
-    "entry_timestamp": "2025-10-17T18:40:42.876",
-    "not_before": "2025-10-17T17:42:10",
-    "not_after": "2026-01-15T17:42:09",
-    "serial_number": "0670fda31bd4eeabbe7b0e0e51272b603b12",
-    "result_count": 1
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "*.cod.atagc.com",
-    "name_value": "*.test.cod.ed.gov",
-    "id": 21788509781,
-    "entry_timestamp": "2025-10-17T18:40:40.787",
-    "not_before": "2025-10-17T17:42:10",
-    "not_after": "2026-01-15T17:42:09",
-    "serial_number": "0670fda31bd4eeabbe7b0e0e51272b603b12",
-    "result_count": 1
-  },
-  {
     "issuer_ca_id": 62123,
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
     "common_name": "fafsa.gov",
@@ -3682,18 +3574,6 @@
     "not_after": "2026-11-08T18:25:40",
     "serial_number": "3193f25c02df8965",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 904,
-    "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
-    "common_name": "naep.ed.gov",
-    "name_value": "api.enaep.cotw-ng.naep.ed.gov\nas2.enaep-dev.naep.ed.gov\nas2.enaep-devqc.naep.ed.gov\nas2.enaep.naep.ed.gov\nas2.enaep-stage.naep.ed.gov\nas2.enaep-test.naep.ed.gov\nenaep.cotw-ng.naep.ed.gov\nenaep.naep.ed.gov\nenaep-stage.naep.ed.gov\nnaep.ed.gov\nnaepq.naep.ed.gov\nnaepq-stage.naep.ed.gov\nwww.naep.ed.gov",
-    "id": 21553190248,
-    "entry_timestamp": "2025-10-07T18:25:04.359",
-    "not_before": "2025-10-07T18:25:02",
-    "not_after": "2026-11-04T18:54:41",
-    "serial_number": "00806cbab59f98bb98",
-    "result_count": 14
   },
   {
     "issuer_ca_id": 246719,
