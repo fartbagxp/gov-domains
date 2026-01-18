@@ -1,5 +1,53 @@
 [
   {
+    "issuer_ca_id": 239799,
+    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
+    "common_name": "slfcptest.ntia.gov",
+    "name_value": "slfcptest.ntia.gov",
+    "id": 23828501384,
+    "entry_timestamp": "2026-01-17T21:39:09.55",
+    "not_before": "2026-01-17T00:00:00",
+    "not_after": "2026-04-14T23:59:59",
+    "serial_number": "0ccfda320468483a4dcfb2fc474fc184",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 239799,
+    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
+    "common_name": "slfcpstaging.ntia.gov",
+    "name_value": "slfcpstaging.ntia.gov",
+    "id": 23825970044,
+    "entry_timestamp": "2026-01-17T18:07:34.677",
+    "not_before": "2026-01-17T00:00:00",
+    "not_after": "2026-04-14T23:59:59",
+    "serial_number": "0ecec558e7aa742eff1590287f4af929",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "slfcp.ntia.gov",
+    "name_value": "slfcpdev.ntia.gov\nslfcp.ntia.gov\nslfcpstaging.ntia.gov\nslfcptest.ntia.gov",
+    "id": 23822797606,
+    "entry_timestamp": "2026-01-17T14:09:05.073",
+    "not_before": "2026-01-13T00:00:00",
+    "not_after": "2027-01-12T23:59:59",
+    "serial_number": "0b32f7f2112e74b59b4cc91000b18c2a",
+    "result_count": 5
+  },
+  {
+    "issuer_ca_id": 239799,
+    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
+    "common_name": "slfcpdev.ntia.gov",
+    "name_value": "slfcpdev.ntia.gov",
+    "id": 23822807033,
+    "entry_timestamp": "2026-01-17T14:09:00.206",
+    "not_before": "2026-01-17T00:00:00",
+    "not_after": "2026-04-14T23:59:59",
+    "serial_number": "076999b53d93dab033402f6bbcba1dff",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "redbook.ntia.gov",
