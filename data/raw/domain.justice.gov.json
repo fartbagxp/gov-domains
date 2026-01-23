@@ -2,6 +2,30 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "oig.justice.gov",
+    "name_value": "oig.justice.gov",
+    "id": 23918179839,
+    "entry_timestamp": "2026-01-22T14:29:52.513",
+    "not_before": "2026-01-15T00:00:00",
+    "not_after": "2027-02-15T23:59:59",
+    "serial_number": "092c040c0cef1eaaae5fcfd0a2507b57",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "*.oig.justice.gov",
+    "name_value": "*.oig.justice.gov",
+    "id": 23916834790,
+    "entry_timestamp": "2026-01-22T12:43:53",
+    "not_before": "2026-01-22T00:00:00",
+    "not_after": "2027-02-22T23:59:59",
+    "serial_number": "0d1b35ec9934ff97fe5f0e193d166d0e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "usaremote.justice.gov",
     "name_value": "usaremote2.justice.gov\nusaremote3.justice.gov\nusaremote-east.justice.gov\nusaremote.justice.gov\nusaremote-west.justice.gov",
     "id": 23883714366,
@@ -610,30 +634,6 @@
     "not_after": "2026-01-23T23:59:59",
     "serial_number": "0c40905ae07f23a8a7c0942df74ab4c1",
     "result_count": 6
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "sts.eoir.justice.gov",
-    "name_value": "certauth.STS.EOIR.JUSTICE.GOV\nenterpriseregistration.eoir.justice.gov\nsts.eoir.justice.gov\nwww.STS.EOIR.JUSTICE.GOV",
-    "id": 22504502398,
-    "entry_timestamp": "2025-11-16T05:29:58.292",
-    "not_before": "2025-01-23T00:00:00",
-    "not_after": "2026-01-22T23:59:59",
-    "serial_number": "026852ba47f19f3884fdbb022ca512a1",
-    "result_count": 5
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "*.eoir.justice.gov",
-    "name_value": "case-access.eoir.justice.gov\ndhs-portal.eoir.justice.gov\n*.eoir.justice.gov\neoir.justice.gov\nereg.eoir.justice.gov\nportal.eoir.justice.gov\nrespondentaccess-portal.eoir.justice.gov\nuser-profile.eoir.justice.gov",
-    "id": 22504403421,
-    "entry_timestamp": "2025-11-16T05:25:18.741",
-    "not_before": "2025-01-23T00:00:00",
-    "not_after": "2026-01-22T23:59:59",
-    "serial_number": "06c628e83b0eac1efd64638e0db1d5d6",
-    "result_count": 9
   },
   {
     "issuer_ca_id": 365075,
@@ -1474,42 +1474,6 @@
     "not_after": "2026-01-23T23:59:59",
     "serial_number": "0c40905ae07f23a8a7c0942df74ab4c1",
     "result_count": 6
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "*.eoir.justice.gov",
-    "name_value": "case-access.eoir.justice.gov\ndhs-portal.eoir.justice.gov\n*.eoir.justice.gov\neoir.justice.gov\nereg.eoir.justice.gov\nportal.eoir.justice.gov\nrespondentaccess-portal.eoir.justice.gov\nuser-profile.eoir.justice.gov",
-    "id": 16375541828,
-    "entry_timestamp": "2025-01-23T14:53:03.626",
-    "not_before": "2025-01-23T00:00:00",
-    "not_after": "2026-01-22T23:59:59",
-    "serial_number": "06c628e83b0eac1efd64638e0db1d5d6",
-    "result_count": 9
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "sts.eoir.justice.gov",
-    "name_value": "certauth.STS.EOIR.JUSTICE.GOV\nenterpriseregistration.eoir.justice.gov\nsts.eoir.justice.gov\nwww.STS.EOIR.JUSTICE.GOV",
-    "id": 16375504075,
-    "entry_timestamp": "2025-01-23T14:42:15.663",
-    "not_before": "2025-01-23T00:00:00",
-    "not_after": "2026-01-22T23:59:59",
-    "serial_number": "026852ba47f19f3884fdbb022ca512a1",
-    "result_count": 5
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "STS-DEV.eoir.justice.gov",
-    "name_value": "certauth.sts-dev.EOIR.JUSTICE.GOV\nenterpriseregistration.eoir.justice.gov\nSTS-DEV.eoir.justice.gov\nwww.STS-DEV.EOIR.JUSTICE.GOV",
-    "id": 16375503012,
-    "entry_timestamp": "2025-01-23T14:41:54.559",
-    "not_before": "2025-01-23T00:00:00",
-    "not_after": "2026-01-22T23:59:59",
-    "serial_number": "06f7b8a7e17b186550b82193f1f4a0df",
-    "result_count": 5
   },
   {
     "issuer_ca_id": 365075,
