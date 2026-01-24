@@ -1,5 +1,113 @@
 [
   {
+    "issuer_ca_id": 413864,
+    "issuer_name": "C=US, O=SSL Corporation, CN=Cloudflare TLS Issuing RSA CA 3",
+    "common_name": "cloudflaretest.census.gov",
+    "name_value": "cloudflaretest.census.gov",
+    "id": 23952092056,
+    "entry_timestamp": "2026-01-24T10:43:32.637",
+    "not_before": "2026-01-24T10:32:03",
+    "not_after": "2026-02-23T10:39:48",
+    "serial_number": "69bcc854ec04063f78a356e628875bd8",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 413868,
+    "issuer_name": "C=US, O=SSL Corporation, CN=Cloudflare TLS Issuing ECC CA 3",
+    "common_name": "cloudflaretest.census.gov",
+    "name_value": "cloudflaretest.census.gov",
+    "id": 23952089064,
+    "entry_timestamp": "2026-01-24T10:43:25.765",
+    "not_before": "2026-01-24T10:33:21",
+    "not_after": "2026-02-23T10:39:50",
+    "serial_number": "1fc98e2a144d55d2f40ba809478dd235",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 413868,
+    "issuer_name": "C=US, O=SSL Corporation, CN=Cloudflare TLS Issuing ECC CA 3",
+    "common_name": "cloudflaretest.census.gov",
+    "name_value": "cloudflaretest.census.gov",
+    "id": 23952075023,
+    "entry_timestamp": "2026-01-24T10:43:22.637",
+    "not_before": "2026-01-24T10:33:21",
+    "not_after": "2026-02-23T10:39:50",
+    "serial_number": "1fc98e2a144d55d2f40ba809478dd235",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 413864,
+    "issuer_name": "C=US, O=SSL Corporation, CN=Cloudflare TLS Issuing RSA CA 3",
+    "common_name": "cloudflaretest.census.gov",
+    "name_value": "cloudflaretest.census.gov",
+    "id": 23952060943,
+    "entry_timestamp": "2026-01-24T10:42:05.066",
+    "not_before": "2026-01-24T10:32:03",
+    "not_after": "2026-02-23T10:39:48",
+    "serial_number": "69bcc854ec04063f78a356e628875bd8",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "cloudflaretest.census.gov",
+    "name_value": "*.cloudflaretest.census.gov\ncloudflaretest.census.gov",
+    "id": 23947264549,
+    "entry_timestamp": "2026-01-24T04:21:15.418",
+    "not_before": "2026-01-24T03:21:14",
+    "not_after": "2026-04-24T04:20:57",
+    "serial_number": "00fd0c6797145278260ddc9397c050b661",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "cloudflaretest.census.gov",
+    "name_value": "*.cloudflaretest.census.gov\ncloudflaretest.census.gov",
+    "id": 23947276648,
+    "entry_timestamp": "2026-01-24T04:20:51.546",
+    "not_before": "2026-01-24T03:20:51",
+    "not_after": "2026-04-24T04:18:13",
+    "serial_number": "750a13c42bee4f1911156ddf3a73d595",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "sra-vpn.census.gov",
+    "name_value": "sra2-vpn.census.gov\nsra-vpn.census.gov\nsra-vpn.lbdn.census.gov",
+    "id": 23936314407,
+    "entry_timestamp": "2026-01-23T13:58:25.549",
+    "not_before": "2026-01-23T00:00:00",
+    "not_after": "2027-01-22T23:59:59",
+    "serial_number": "0a07a2b9d5c6489a0cca0f4982d1d0f5",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "*.respond.qa.census.gov",
+    "name_value": "*.respond.qa.census.gov\nrespond.qa.census.gov",
+    "id": 23936271720,
+    "entry_timestamp": "2026-01-23T13:55:51.368",
+    "not_before": "2026-01-23T00:00:00",
+    "not_after": "2027-01-22T23:59:59",
+    "serial_number": "04ac45a665c4621e3934debbaa729da0",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "geocoding.geo.census.gov",
+    "name_value": "geocoding.geo.census.gov",
+    "id": 23936259356,
+    "entry_timestamp": "2026-01-23T13:55:05.064",
+    "not_before": "2026-01-23T00:00:00",
+    "not_after": "2027-01-22T23:59:59",
+    "serial_number": "06ccee0554ab6a39da7f7cede5de5c63",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "www2.census.gov",
@@ -69,6 +177,18 @@
     "not_before": "2026-01-20T21:46:00",
     "not_after": "2026-04-20T21:45:59",
     "serial_number": "059736abda4fe6654f61b46fe914bc219de7",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "access.stage.census.gov",
+    "name_value": "*.access.stage.census.gov\naccess.stage.census.gov",
+    "id": 23888294474,
+    "entry_timestamp": "2026-01-20T22:18:39.93",
+    "not_before": "2026-01-20T21:20:09",
+    "not_after": "2026-04-20T21:20:08",
+    "serial_number": "05ed927831583c26d5286ba1ed037645c637",
     "result_count": 3
   },
   {
@@ -309,6 +429,18 @@
     "not_before": "2026-01-14T17:12:34",
     "not_after": "2026-04-14T18:10:12",
     "serial_number": "00fd356a52e133ee2b0e3a47538b0b6711",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "research.econ.census.gov",
+    "name_value": "research.econ.census.gov",
+    "id": 23668481051,
+    "entry_timestamp": "2026-01-10T01:26:52.327",
+    "not_before": "2026-01-10T00:28:21",
+    "not_after": "2026-04-10T00:28:20",
+    "serial_number": "06c797c5e928431c8ae89a21db4216623526",
     "result_count": 2
   },
   {
@@ -880,6 +1012,18 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "ob1.tco.census.gov",
     "name_value": "ob1.tco.census.gov",
+    "id": 23461538244,
+    "entry_timestamp": "2025-12-30T20:09:46.431",
+    "not_before": "2025-12-30T19:11:14",
+    "not_after": "2026-03-30T19:11:13",
+    "serial_number": "06816309703d106328420ef21572f2febc2e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "ob1.tco.census.gov",
+    "name_value": "ob1.tco.census.gov",
     "id": 23461538512,
     "entry_timestamp": "2025-12-30T20:09:44.524",
     "not_before": "2025-12-30T19:11:14",
@@ -946,6 +1090,18 @@
     "not_after": "2026-03-26T04:38:49",
     "serial_number": "00f82ff3b5c6581ac40df9aa41af6f68a3",
     "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "coil.census.gov",
+    "name_value": "coil.census.gov",
+    "id": 23366388047,
+    "entry_timestamp": "2025-12-25T18:59:39.531",
+    "not_before": "2025-12-25T18:01:08",
+    "not_after": "2026-03-25T18:01:07",
+    "serial_number": "06119201c34f966bcf82be6e3604611ba8c4",
+    "result_count": 2
   },
   {
     "issuer_ca_id": 295817,
@@ -1156,6 +1312,18 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "opportunity.census.gov",
     "name_value": "opportunity.census.gov",
+    "id": 23260129475,
+    "entry_timestamp": "2025-12-21T03:35:39.459",
+    "not_before": "2025-12-21T02:37:09",
+    "not_after": "2026-03-21T02:37:08",
+    "serial_number": "05a90ac6ca34a4d17fc4d0c2a5132f63de46",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "opportunity.census.gov",
+    "name_value": "opportunity.census.gov",
     "id": 23260127284,
     "entry_timestamp": "2025-12-21T03:35:39.179",
     "not_before": "2025-12-21T02:37:09",
@@ -1233,6 +1401,18 @@
     "not_before": "2025-12-16T23:08:07",
     "not_after": "2026-03-16T23:08:06",
     "serial_number": "056d97861387a158c707d852dd18765ce294",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "coil.census.gov",
+    "name_value": "*.coil.census.gov\ncoil.census.gov",
+    "id": 23166296335,
+    "entry_timestamp": "2025-12-17T00:06:25.877",
+    "not_before": "2025-12-16T23:07:55",
+    "not_after": "2026-03-16T23:07:54",
+    "serial_number": "062edc1b3b422c5516f92822adae4883bc9e",
     "result_count": 3
   },
   {
@@ -1336,6 +1516,18 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "webapps.census.gov",
     "name_value": "*.webapps.census.gov\nwebapps.census.gov",
+    "id": 23139409290,
+    "entry_timestamp": "2025-12-15T18:51:47.18",
+    "not_before": "2025-12-15T17:53:16",
+    "not_after": "2026-03-15T17:53:15",
+    "serial_number": "05d7c6ac153de173f0cbf02b1a427ed3ad5f",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "webapps.census.gov",
+    "name_value": "*.webapps.census.gov\nwebapps.census.gov",
     "id": 23139388925,
     "entry_timestamp": "2025-12-15T18:51:46.178",
     "not_before": "2025-12-15T17:53:16",
@@ -1378,6 +1570,18 @@
     "not_after": "2026-12-14T23:59:59",
     "serial_number": "03a55e1f3088edb48118c1888128b05f",
     "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "answer.census.gov",
+    "name_value": "answer.census.gov",
+    "id": 23086822136,
+    "entry_timestamp": "2025-12-13T04:20:26.732",
+    "not_before": "2025-12-13T03:21:56",
+    "not_after": "2026-03-13T03:21:55",
+    "serial_number": "068b6a4f5453b28c483fbde2e092b18167b3",
+    "result_count": 2
   },
   {
     "issuer_ca_id": 295816,
@@ -1594,6 +1798,18 @@
     "not_after": "2026-03-01T17:22:11",
     "serial_number": "0f5731af2d5220ab0edecf670eba453a",
     "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "ob1.tco.census.gov",
+    "name_value": "ob1.tco.census.gov",
+    "id": 22855372344,
+    "entry_timestamp": "2025-11-29T20:09:44.064",
+    "not_before": "2025-11-29T19:11:13",
+    "not_after": "2026-02-27T19:11:12",
+    "serial_number": "06e8b76a9c6339fb24a2036324607b2ab3d4",
+    "result_count": 2
   },
   {
     "issuer_ca_id": 295816,
@@ -2220,18 +2436,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "cdntest.test.census.gov",
-    "name_value": "cdntest.test.census.gov",
-    "id": 22247101560,
-    "entry_timestamp": "2025-11-06T05:31:43.855",
-    "not_before": "2025-10-25T15:14:17",
-    "not_after": "2026-01-23T16:14:16",
-    "serial_number": "00ba549be8ea6558141128fcb0fa3a8988",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 204407,
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
     "common_name": "2026test.census.gov",
@@ -2284,11 +2488,35 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "research.econ.census.gov",
     "name_value": "research.econ.census.gov",
+    "id": 22130210038,
+    "entry_timestamp": "2025-11-01T02:20:53.399",
+    "not_before": "2025-11-01T01:22:23",
+    "not_after": "2026-01-30T01:22:22",
+    "serial_number": "06840b41a2ac6f1bf6f4a3976b5c996d987b",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "research.econ.census.gov",
+    "name_value": "research.econ.census.gov",
     "id": 22130211598,
     "entry_timestamp": "2025-11-01T02:20:53.172",
     "not_before": "2025-11-01T01:22:23",
     "not_after": "2026-01-30T01:22:22",
     "serial_number": "06840b41a2ac6f1bf6f4a3976b5c996d987b",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "ob1.tco.census.gov",
+    "name_value": "ob1.tco.census.gov",
+    "id": 22090425327,
+    "entry_timestamp": "2025-10-29T20:09:44.828",
+    "not_before": "2025-10-29T19:11:14",
+    "not_after": "2026-01-27T19:11:13",
+    "serial_number": "05e4702a87daa85ce348012ef4bd7629e59b",
     "result_count": 2
   },
   {
@@ -2356,107 +2584,23 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "coil.census.gov",
     "name_value": "coil.census.gov",
-    "id": 22021133354,
-    "entry_timestamp": "2025-10-26T18:04:43.436",
+    "id": 22021677513,
+    "entry_timestamp": "2025-10-26T18:04:45.512",
     "not_before": "2025-10-26T17:06:13",
     "not_after": "2026-01-24T17:06:12",
     "serial_number": "06bfa8ef715c8ae3b8304ce73c7efe28c1a8",
     "result_count": 2
   },
   {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "cdntest.test.census.gov",
-    "name_value": "cdntest.test.census.gov",
-    "id": 21997756753,
-    "entry_timestamp": "2025-10-25T16:14:17.881",
-    "not_before": "2025-10-25T15:14:17",
-    "not_after": "2026-01-23T16:14:16",
-    "serial_number": "00ba549be8ea6558141128fcb0fa3a8988",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "cdntest.test.census.gov",
-    "name_value": "cdntest.test.census.gov",
-    "id": 21997754796,
-    "entry_timestamp": "2025-10-25T16:14:10.366",
-    "not_before": "2025-10-25T15:14:09",
-    "not_after": "2026-01-23T16:10:52",
-    "serial_number": "0a9af63b0321d3c011f5af5fd07f88a3",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "www.test.census.gov",
-    "name_value": "www.test.census.gov",
-    "id": 21997720821,
-    "entry_timestamp": "2025-10-25T16:12:03.543",
-    "not_before": "2025-10-25T15:11:09",
-    "not_after": "2026-01-23T16:11:06",
-    "serial_number": "00919cc3a72352a0cf11194668f6590e2a",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "www.test.census.gov",
-    "name_value": "www.test.census.gov",
-    "id": 21997706614,
-    "entry_timestamp": "2025-10-25T16:11:10.267",
-    "not_before": "2025-10-25T15:11:09",
-    "not_after": "2026-01-23T16:11:06",
-    "serial_number": "00919cc3a72352a0cf11194668f6590e2a",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "www.test.census.gov",
-    "name_value": "www.test.census.gov",
-    "id": 21997705065,
-    "entry_timestamp": "2025-10-25T16:11:01.055",
-    "not_before": "2025-10-25T15:11:00",
-    "not_after": "2026-01-23T16:08:48",
-    "serial_number": "35f4a53bb9ca588d1345f36310efaf6a",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "main.test.census.gov",
-    "name_value": "main.test.census.gov",
-    "id": 21996850310,
-    "entry_timestamp": "2025-10-25T15:14:07.853",
-    "not_before": "2025-10-25T14:13:54",
-    "not_after": "2026-01-23T15:13:51",
-    "serial_number": "00b1a8159593e6be25116b6e0f10e51d75",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "main.test.census.gov",
-    "name_value": "main.test.census.gov",
-    "id": 21996850867,
-    "entry_timestamp": "2025-10-25T15:13:55.496",
-    "not_before": "2025-10-25T14:13:54",
-    "not_after": "2026-01-23T15:13:51",
-    "serial_number": "00b1a8159593e6be25116b6e0f10e51d75",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "main.test.census.gov",
-    "name_value": "main.test.census.gov",
-    "id": 21996863818,
-    "entry_timestamp": "2025-10-25T15:13:46.119",
-    "not_before": "2025-10-25T14:13:45",
-    "not_after": "2026-01-23T15:11:30",
-    "serial_number": "009bdeee4cd14d6c951103b83030656160",
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "coil.census.gov",
+    "name_value": "coil.census.gov",
+    "id": 22021133354,
+    "entry_timestamp": "2025-10-26T18:04:43.436",
+    "not_before": "2025-10-26T17:06:13",
+    "not_after": "2026-01-24T17:06:12",
+    "serial_number": "06bfa8ef715c8ae3b8304ce73c7efe28c1a8",
     "result_count": 2
   },
   {
