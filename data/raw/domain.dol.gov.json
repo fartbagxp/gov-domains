@@ -1,5 +1,77 @@
 [
   {
+    "issuer_ca_id": 436902,
+    "issuer_name": "C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2026 Q1",
+    "common_name": "imperva.com",
+    "name_value": "*.uat.dol.gov",
+    "id": 23969029202,
+    "entry_timestamp": "2026-01-25T09:58:26.333",
+    "not_before": "2026-01-25T09:58:23",
+    "not_after": "2026-01-26T09:58:23",
+    "serial_number": "0124fea581fe16ce4c751b00db756f4d",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 436902,
+    "issuer_name": "C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2026 Q1",
+    "common_name": "imperva.com",
+    "name_value": "*.dol.gov",
+    "id": 23969028826,
+    "entry_timestamp": "2026-01-25T09:58:25.945",
+    "not_before": "2026-01-25T09:58:23",
+    "not_after": "2026-01-26T09:58:23",
+    "serial_number": "013ad32d7d51c9222b667f07c983f331",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "staging.flag.dol.gov",
+    "name_value": "staging.api.datahub.dol.gov\nstaging.api.seasonaljobs.dol.gov\nstaging.flag.dol.gov\nstaging-perm.flag.dol.gov\nstaging.seasonaljobs.dol.gov",
+    "id": 23961560948,
+    "entry_timestamp": "2026-01-24T23:29:40.033",
+    "not_before": "2026-01-24T22:31:09",
+    "not_after": "2026-04-24T22:31:08",
+    "serial_number": "0601fb121f25216ed39af33b69931c1e69a8",
+    "result_count": 6
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "staging.flag.dol.gov",
+    "name_value": "staging.api.datahub.dol.gov\nstaging.api.seasonaljobs.dol.gov\nstaging.flag.dol.gov\nstaging-perm.flag.dol.gov\nstaging.seasonaljobs.dol.gov",
+    "id": 23961550374,
+    "entry_timestamp": "2026-01-24T23:29:39.218",
+    "not_before": "2026-01-24T22:31:09",
+    "not_after": "2026-04-24T22:31:08",
+    "serial_number": "0601fb121f25216ed39af33b69931c1e69a8",
+    "result_count": 6
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "test.flag.dol.gov",
+    "name_value": "test.api.datahub.dol.gov\ntest.api.seasonaljobs.dol.gov\ntest.flag.dol.gov\ntest-perm.flag.dol.gov\ntest.seasonaljobs.dol.gov",
+    "id": 23956680026,
+    "entry_timestamp": "2026-01-24T16:40:30.893",
+    "not_before": "2026-01-24T15:41:58",
+    "not_after": "2026-04-24T15:41:57",
+    "serial_number": "06d8520434669810c8b72022afdfb6fbd2ed",
+    "result_count": 6
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "test.flag.dol.gov",
+    "name_value": "test.api.datahub.dol.gov\ntest.api.seasonaljobs.dol.gov\ntest.flag.dol.gov\ntest-perm.flag.dol.gov\ntest.seasonaljobs.dol.gov",
+    "id": 23956678578,
+    "entry_timestamp": "2026-01-24T16:40:28.808",
+    "not_before": "2026-01-24T15:41:58",
+    "not_after": "2026-04-24T15:41:57",
+    "serial_number": "06d8520434669810c8b72022afdfb6fbd2ed",
+    "result_count": 6
+  },
+  {
     "issuer_ca_id": 246719,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "saversummit.dol.gov",
