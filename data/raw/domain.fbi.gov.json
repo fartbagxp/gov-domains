@@ -2,6 +2,30 @@
   {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "static.fbi.gov",
+    "name_value": "static.fbi.gov",
+    "id": 23971436073,
+    "entry_timestamp": "2026-01-25T13:24:41.522",
+    "not_before": "2026-01-25T12:24:40",
+    "not_after": "2026-04-25T13:24:38",
+    "serial_number": "63a9f7ec4a3680900d0db6506148f2e4",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "static.fbi.gov",
+    "name_value": "static.fbi.gov",
+    "id": 23971430603,
+    "entry_timestamp": "2026-01-25T13:24:33.404",
+    "not_before": "2026-01-25T12:24:32",
+    "not_after": "2026-04-25T13:23:13",
+    "serial_number": "00a38afcd224a4b0c80ee88aa060413e04",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "sos.fbi.gov",
     "name_value": "sos.fbi.gov",
     "id": 23964993196,
@@ -2700,18 +2724,6 @@
     "result_count": 5
   },
   {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "acts-ndcac.fbi.gov",
-    "name_value": "acts-ndcac.fbi.gov\nwww.acts-ndcac.fbi.gov",
-    "id": 22503278367,
-    "entry_timestamp": "2025-11-16T04:25:57.132",
-    "not_before": "2025-01-14T18:45:05",
-    "not_after": "2026-01-25T12:57:09",
-    "serial_number": "680e68a4dab28d1537f9b21f098d80ab",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "transition.fbi.gov",
@@ -4858,17 +4870,5 @@
     "not_after": "2026-01-29T17:21:56",
     "serial_number": "24e1b7fc437f53808e3409d32186260f",
     "result_count": 5
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "acts-ndcac.fbi.gov",
-    "name_value": "acts-ndcac.fbi.gov\nwww.acts-ndcac.fbi.gov",
-    "id": 16226116713,
-    "entry_timestamp": "2025-01-14T18:55:07.019",
-    "not_before": "2025-01-14T18:45:05",
-    "not_after": "2026-01-25T12:57:09",
-    "serial_number": "680e68a4dab28d1537f9b21f098d80ab",
-    "result_count": 3
   }
 ]
