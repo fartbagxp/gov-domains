@@ -100,12 +100,36 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "*.test.studentaid.gov",
     "name_value": "*.mail.test.studentaid.gov\n*.origin.test.studentaid.gov\n*.test.studentaid.gov",
+    "id": 23727937272,
+    "entry_timestamp": "2026-01-12T20:04:09.646",
+    "not_before": "2026-01-12T19:05:39",
+    "not_after": "2026-04-12T19:05:38",
+    "serial_number": "05ea7133dde760172040af95bf8c93187341",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "*.test.studentaid.gov",
+    "name_value": "*.mail.test.studentaid.gov\n*.origin.test.studentaid.gov\n*.test.studentaid.gov",
     "id": 23727920202,
     "entry_timestamp": "2026-01-12T20:04:09.398",
     "not_before": "2026-01-12T19:05:39",
     "not_after": "2026-04-12T19:05:38",
     "serial_number": "05ea7133dde760172040af95bf8c93187341",
     "result_count": 4
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "studentaid.gov",
+    "name_value": "dcc-app-int.studentaid.gov\ndcc-app-stage.studentaid.gov\ndcc-app-uat.studentaid.gov\ndcc-system-api-int.studentaid.gov\ndcc-system-api-stage.studentaid.gov\ndcc-system-api-uat.studentaid.gov\ndcc-user-api-int.studentaid.gov\ndcc-user-api-stage.studentaid.gov\ndcc-user-api-uat.studentaid.gov\nstudentaid.gov",
+    "id": 23639519780,
+    "entry_timestamp": "2026-01-08T20:05:35.321",
+    "not_before": "2026-01-08T19:07:04",
+    "not_after": "2026-04-08T19:07:03",
+    "serial_number": "05c72f8615d813f38d501e77bf2ee745f79e",
+    "result_count": 11
   },
   {
     "issuer_ca_id": 295816,
@@ -244,12 +268,36 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "*.nsldsops.ed.gov",
     "name_value": "*.ops.studentaid.gov\n*.origin.test.studentaid.gov\n*.test.studentaid.gov",
+    "id": 23060970584,
+    "entry_timestamp": "2025-12-11T20:31:24.525",
+    "not_before": "2025-12-11T19:32:54",
+    "not_after": "2026-03-11T19:32:53",
+    "serial_number": "051bedcb4923f8534698522ecf97a7d84c60",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "*.nsldsops.ed.gov",
+    "name_value": "*.ops.studentaid.gov\n*.origin.test.studentaid.gov\n*.test.studentaid.gov",
     "id": 23060955917,
     "entry_timestamp": "2025-12-11T20:31:24.186",
     "not_before": "2025-12-11T19:32:54",
     "not_after": "2026-03-11T19:32:53",
     "serial_number": "051bedcb4923f8534698522ecf97a7d84c60",
     "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "*.test.studentaid.gov",
+    "name_value": "*.mail.test.studentaid.gov\n*.origin.test.studentaid.gov\n*.test.studentaid.gov",
+    "id": 23060969970,
+    "entry_timestamp": "2025-12-11T20:31:23.749",
+    "not_before": "2025-12-11T19:32:53",
+    "not_after": "2026-03-11T19:32:52",
+    "serial_number": "05aebfa5301b0a70ef3446cc2978f5d7a320",
+    "result_count": 4
   },
   {
     "issuer_ca_id": 295817,
@@ -436,6 +484,18 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "*.dcc.atagc.com",
     "name_value": "*.origin.test.studentaid.gov\n*.test.studentaid.gov",
+    "id": 23038195031,
+    "entry_timestamp": "2025-12-10T17:58:34.29",
+    "not_before": "2025-12-10T17:00:03",
+    "not_after": "2026-03-10T17:00:02",
+    "serial_number": "06b9ceb69af17263901360de1f99dbda200f",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "*.dcc.atagc.com",
+    "name_value": "*.origin.test.studentaid.gov\n*.test.studentaid.gov",
     "id": 23038178605,
     "entry_timestamp": "2025-12-10T17:58:33.377",
     "not_before": "2025-12-10T17:00:03",
@@ -465,6 +525,18 @@
     "not_before": "2025-12-09T21:28:44",
     "not_after": "2026-03-09T21:28:43",
     "serial_number": "05049107a8391aec028b725a6df5ee29746e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "*.dcc.atagc.com",
+    "name_value": "*.origin.test.studentaid.gov\n*.test.studentaid.gov",
+    "id": 23012792731,
+    "entry_timestamp": "2025-12-09T22:22:41.994",
+    "not_before": "2025-12-09T21:24:11",
+    "not_after": "2026-03-09T21:24:10",
+    "serial_number": "05f26c2fce28de58d297059a5872efd153dc",
     "result_count": 2
   },
   {
@@ -526,6 +598,30 @@
     "not_after": "2026-03-09T17:17:18",
     "serial_number": "05adb73acf7b24356f82053bcd65485a7197",
     "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "*.cod.atagc.com",
+    "name_value": "*.test.studentaid.gov",
+    "id": 23028638679,
+    "entry_timestamp": "2025-12-09T17:18:36.817",
+    "not_before": "2025-12-09T16:20:06",
+    "not_after": "2026-03-09T16:20:05",
+    "serial_number": "054e33e9dc7f3a4c1d0b3b9c621694c55ae8",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "*.cod.atagc.com",
+    "name_value": "*.test.studentaid.gov",
+    "id": 23007487345,
+    "entry_timestamp": "2025-12-09T17:18:36.599",
+    "not_before": "2025-12-09T16:20:06",
+    "not_after": "2026-03-09T16:20:05",
+    "serial_number": "054e33e9dc7f3a4c1d0b3b9c621694c55ae8",
+    "result_count": 1
   },
   {
     "issuer_ca_id": 286244,
@@ -669,6 +765,18 @@
     "not_before": "2025-12-03T07:11:31",
     "not_after": "2026-03-03T08:07:26",
     "serial_number": "0780e69c6c39b4ec0a978b3781066abf",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "*.dcc.atagc.com",
+    "name_value": "*.origin.test.studentaid.gov\n*.test.studentaid.gov",
+    "id": 22729220010,
+    "entry_timestamp": "2025-11-25T18:58:38.799",
+    "not_before": "2025-11-25T18:00:08",
+    "not_after": "2026-02-23T18:00:07",
+    "serial_number": "064e043eb9600c5ee879da202d763bab0dda",
     "result_count": 2
   },
   {
@@ -826,18 +934,6 @@
     "not_after": "2026-09-18T23:59:59",
     "serial_number": "0d90b183bf36f8474314c1df3bdf4718",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "studentaid.gov",
-    "name_value": "dcc-app-int.studentaid.gov\ndcc-app-stage.studentaid.gov\ndcc-app-uat.studentaid.gov\ndcc-system-api-int.studentaid.gov\ndcc-system-api-stage.studentaid.gov\ndcc-system-api-uat.studentaid.gov\ndcc-user-api-int.studentaid.gov\ndcc-user-api-stage.studentaid.gov\ndcc-user-api-uat.studentaid.gov\nstudentaid.gov",
-    "id": 22108898549,
-    "entry_timestamp": "2025-10-30T21:00:55.15",
-    "not_before": "2025-10-30T20:02:24",
-    "not_after": "2026-01-28T20:02:23",
-    "serial_number": "0541b1d73425ee6cce6ca6db245ae2ea42f1",
-    "result_count": 11
   },
   {
     "issuer_ca_id": 185748,
