@@ -12,6 +12,18 @@
     "result_count": 3
   },
   {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "ai.doi.gov",
+    "name_value": "*.ai.doi.gov\nai.doi.gov",
+    "id": 24038789839,
+    "entry_timestamp": "2026-01-28T16:22:40.721",
+    "not_before": "2026-01-28T15:22:40",
+    "not_after": "2026-04-28T16:21:15",
+    "serial_number": "00843009be23dfe8730eb8efc5d77dab2d",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "*.ibc.doi.gov",
@@ -21,6 +33,18 @@
     "not_before": "2026-01-27T00:00:00",
     "not_after": "2026-08-11T23:59:59",
     "serial_number": "059c9b0855f6f3b6e7c84c04b309f2e2",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295809,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
+    "common_name": "www.firejobs.doi.gov",
+    "name_value": "www.firejobs.doi.gov",
+    "id": 24003148296,
+    "entry_timestamp": "2026-01-27T03:36:08.099",
+    "not_before": "2026-01-27T02:37:36",
+    "not_after": "2026-04-27T02:37:35",
+    "serial_number": "06f4de06d955dee245a66902ef9a7f8060d0",
     "result_count": 2
   },
   {
@@ -201,6 +225,18 @@
     "not_before": "2026-01-14T17:44:34",
     "not_after": "2026-04-14T18:44:28",
     "serial_number": "00994ef7b38a5c44c913ddc2144dfe14bb",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "doi.gov",
+    "name_value": "*.doi.gov\ndoi.gov",
+    "id": 23767791402,
+    "entry_timestamp": "2026-01-14T18:44:22.793",
+    "not_before": "2026-01-14T17:44:22",
+    "not_after": "2026-04-14T18:41:58",
+    "serial_number": "247a66e5d1d03b3411eaad7bfac8a179",
     "result_count": 3
   },
   {
@@ -388,6 +424,18 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
     "common_name": "ai.doi.gov",
     "name_value": "*.ai.doi.gov\nai.doi.gov",
+    "id": 23481913717,
+    "entry_timestamp": "2025-12-31T19:26:22.711",
+    "not_before": "2025-12-31T18:27:52",
+    "not_after": "2026-03-31T18:27:51",
+    "serial_number": "0675c4d8aeba37e38c6d1551c9152e08c931",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295809,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
+    "common_name": "ai.doi.gov",
+    "name_value": "*.ai.doi.gov\nai.doi.gov",
     "id": 23481889478,
     "entry_timestamp": "2025-12-31T19:26:22.378",
     "not_before": "2025-12-31T18:27:52",
@@ -564,6 +612,66 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "exm.doi.gov",
+    "name_value": "*.exm.doi.gov\nexm.doi.gov",
+    "id": 23295261063,
+    "entry_timestamp": "2025-12-22T14:32:58.018",
+    "not_before": "2025-12-22T13:32:57",
+    "not_after": "2026-03-22T14:32:45",
+    "serial_number": "3cb797ff950c25f00d6314d3df0b7745",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "exm.doi.gov",
+    "name_value": "*.exm.doi.gov\nexm.doi.gov",
+    "id": 23295258479,
+    "entry_timestamp": "2025-12-22T14:32:40.545",
+    "not_before": "2025-12-22T13:32:39",
+    "not_after": "2026-03-22T14:30:06",
+    "serial_number": "00d1637988879da1c411c3ede05f0dd855",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "blockpagetest.doi.gov",
+    "name_value": "blockpagetest.doi.gov",
+    "id": 23251956748,
+    "entry_timestamp": "2025-12-20T20:58:49.15",
+    "not_before": "2025-12-20T18:35:35",
+    "not_after": "2026-03-20T19:35:27",
+    "serial_number": "5d59370027cd8c220e72e393ce997ee9",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "blockpagetest.doi.gov",
+    "name_value": "blockpagetest.doi.gov",
+    "id": 23250958580,
+    "entry_timestamp": "2025-12-20T19:35:35.811",
+    "not_before": "2025-12-20T18:35:35",
+    "not_after": "2026-03-20T19:35:27",
+    "serial_number": "5d59370027cd8c220e72e393ce997ee9",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "blockpagetest.doi.gov",
+    "name_value": "blockpagetest.doi.gov",
+    "id": 23249911217,
+    "entry_timestamp": "2025-12-20T19:35:22.234",
+    "not_before": "2025-12-20T18:35:21",
+    "not_after": "2026-03-20T19:34:12",
+    "serial_number": "0086fe0e0c8b54491513d13ddde999ca96",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 422998,
     "issuer_name": "C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2025 Q4",
     "common_name": "securefoia.doi.gov",
@@ -718,6 +826,30 @@
     "not_after": "2026-02-28T16:10:51",
     "serial_number": "00dfb0a271014ad4ce114340305a201e16",
     "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "ai.doi.gov",
+    "name_value": "*.ai.doi.gov\nai.doi.gov",
+    "id": 22825879673,
+    "entry_timestamp": "2025-11-30T16:10:45.733",
+    "not_before": "2025-11-30T15:10:45",
+    "not_after": "2026-02-28T16:08:28",
+    "serial_number": "00ddb89f41ae4574d10d043cd7953596fc",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295809,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
+    "common_name": "www.firejobs.doi.gov",
+    "name_value": "www.firejobs.doi.gov",
+    "id": 22830227943,
+    "entry_timestamp": "2025-11-29T00:37:53.673",
+    "not_before": "2025-11-28T23:39:23",
+    "not_after": "2026-02-26T23:39:22",
+    "serial_number": "06acbd4713887edfdb4726f4e44be5f56332",
+    "result_count": 2
   },
   {
     "issuer_ca_id": 295809,
@@ -909,6 +1041,18 @@
     "not_before": "2025-11-16T15:22:14",
     "not_after": "2026-02-14T16:22:07",
     "serial_number": "29cee68158a1588f0e617ca654ab7343",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "doi.gov",
+    "name_value": "*.doi.gov\ndoi.gov",
+    "id": 22515431452,
+    "entry_timestamp": "2025-11-16T16:22:02.378",
+    "not_before": "2025-11-16T15:22:01",
+    "not_after": "2026-02-14T16:20:33",
+    "serial_number": "51787091e7820b9411ecc68897744a61",
     "result_count": 3
   },
   {

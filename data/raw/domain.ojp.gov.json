@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "uat.facjj.ojp.gov",
+    "name_value": "*.uat.facjj.ojp.gov\nuat.facjj.ojp.gov",
+    "id": 24068007175,
+    "entry_timestamp": "2026-01-30T00:50:57.356",
+    "not_before": "2026-01-29T23:50:56",
+    "not_after": "2026-04-30T00:50:44",
+    "serial_number": "00a9308d9886fac6b10d0864b7508656aa",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "uat.facjj.ojp.gov",
+    "name_value": "*.uat.facjj.ojp.gov\nuat.facjj.ojp.gov",
+    "id": 24067997810,
+    "entry_timestamp": "2026-01-30T00:50:39.061",
+    "not_before": "2026-01-29T23:50:38",
+    "not_after": "2026-04-30T00:47:52",
+    "serial_number": "008ac9f724c1feb77b0e42bd161f9605f9",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 295813,
     "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
     "common_name": "nationalgangcenter.ojp.gov",
@@ -21,6 +45,18 @@
     "not_before": "2026-01-28T08:23:06",
     "not_after": "2026-04-28T08:23:05",
     "serial_number": "06b58ac9764c953f32af86d9c524dece910e",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "nationalgangcenter.ojp.gov",
+    "name_value": "*.nationalgangcenter.ojp.gov\nnationalgangcenter.ojp.gov",
+    "id": 24031549298,
+    "entry_timestamp": "2026-01-28T09:21:03.667",
+    "not_before": "2026-01-28T08:22:33",
+    "not_after": "2026-04-28T08:22:32",
+    "serial_number": "057d6793dc423e85535e2a513fc3e3a90997",
     "result_count": 3
   },
   {
@@ -57,6 +93,18 @@
     "not_before": "2026-01-28T04:09:50",
     "not_after": "2026-04-28T04:09:49",
     "serial_number": "056ff38ca08118fe2836ef11fa77eb3bc54a",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "nsopw-api.ojp.gov",
+    "name_value": "*.nsopw-api.ojp.gov\nnsopw-api.ojp.gov",
+    "id": 24027093687,
+    "entry_timestamp": "2026-01-28T05:08:07.345",
+    "not_before": "2026-01-28T04:09:36",
+    "not_after": "2026-04-28T04:09:35",
+    "serial_number": "065a1e765ca5beecc627a52fbc04f9e40105",
     "result_count": 3
   },
   {
@@ -1012,6 +1060,18 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "uatnsopw-api.ojp.gov",
     "name_value": "*.uatnsopw-api.ojp.gov\nuatnsopw-api.ojp.gov",
+    "id": 23724965241,
+    "entry_timestamp": "2026-01-12T16:42:17.643",
+    "not_before": "2026-01-12T15:43:47",
+    "not_after": "2026-04-12T15:43:46",
+    "serial_number": "06a8a8175bbf5a5c684eab7af9fb93f09a34",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "uatnsopw-api.ojp.gov",
+    "name_value": "*.uatnsopw-api.ojp.gov\nuatnsopw-api.ojp.gov",
     "id": 23724954090,
     "entry_timestamp": "2026-01-12T16:42:17.323",
     "not_before": "2026-01-12T15:43:47",
@@ -1564,11 +1624,35 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "ovc.ojp.gov",
     "name_value": "*.ovc.ojp.gov\novc.ojp.gov",
+    "id": 23275759658,
+    "entry_timestamp": "2025-12-21T18:09:13.074",
+    "not_before": "2025-12-21T17:10:42",
+    "not_after": "2026-03-21T17:10:41",
+    "serial_number": "05fd824f94cd6f0fd1ec177d9caaa4127101",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "ovc.ojp.gov",
+    "name_value": "*.ovc.ojp.gov\novc.ojp.gov",
     "id": 23275729063,
     "entry_timestamp": "2025-12-21T18:09:12.83",
     "not_before": "2025-12-21T17:10:42",
     "not_after": "2026-03-21T17:10:41",
     "serial_number": "05fd824f94cd6f0fd1ec177d9caaa4127101",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "www.ojp.gov",
+    "name_value": "*.www.ojp.gov\nwww.ojp.gov",
+    "id": 23274617301,
+    "entry_timestamp": "2025-12-21T17:17:03.993",
+    "not_before": "2025-12-21T16:18:31",
+    "not_after": "2026-03-21T16:18:30",
+    "serial_number": "0576b4b82f7c9215622ce6ae193e9c86d83d",
     "result_count": 3
   },
   {

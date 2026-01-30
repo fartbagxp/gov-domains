@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "dev-observe.tm-examtrs.awslab.uspto.gov",
+    "name_value": "dev-observe.tm-examtrs.awslab.uspto.gov\ndev-telemetry.tm-examtrs.awslab.uspto.gov",
+    "id": 24062618790,
+    "entry_timestamp": "2026-01-29T18:16:09.351",
+    "not_before": "2026-01-29T00:00:00",
+    "not_after": "2027-02-27T23:59:59",
+    "serial_number": "04868c587ba010353a18aa42ba71ae95",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "rcs.uspto.gov",
+    "name_value": "rcs.uspto.gov",
+    "id": 24043240483,
+    "entry_timestamp": "2026-01-28T21:16:35.089",
+    "not_before": "2026-01-28T00:00:00",
+    "not_after": "2027-01-27T23:59:59",
+    "serial_number": "062c14d3a01745c0e0f761a1fec8a5b1",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "tmi-external-test-cloud-lb.etc.uspto.gov",
@@ -1857,30 +1881,6 @@
     "not_before": "2025-11-03T00:00:00",
     "not_after": "2026-01-31T06:11:42",
     "serial_number": "00b4a4f2018544bbe2040b0c65c56f484f",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "cf-test.etc.uspto.gov",
-    "name_value": "*.cf-test.etc.uspto.gov\ncf-test.etc.uspto.gov",
-    "id": 22153300050,
-    "entry_timestamp": "2025-11-02T06:11:29.403",
-    "not_before": "2025-11-02T00:00:00",
-    "not_after": "2026-01-30T01:27:26",
-    "serial_number": "008066475cab2e833c50dc84f8baadd1b2",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "cf-test.etc.uspto.gov",
-    "name_value": "*.cf-test.etc.uspto.gov\ncf-test.etc.uspto.gov",
-    "id": 22153300324,
-    "entry_timestamp": "2025-11-02T06:11:28.572",
-    "not_before": "2025-11-02T00:00:00",
-    "not_after": "2026-01-30T01:27:26",
-    "serial_number": "008066475cab2e833c50dc84f8baadd1b2",
     "result_count": 3
   },
   {
