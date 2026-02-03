@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "blah.acf.gov",
+    "name_value": "blah.acf.gov",
+    "id": 24140825624,
+    "entry_timestamp": "2026-02-02T15:40:10.448",
+    "not_before": "2026-02-02T00:00:00",
+    "not_after": "2026-05-03T23:59:59",
+    "serial_number": "1a509430128ae2a81943052519480c56",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "blah.acf.gov",
+    "name_value": "blah.acf.gov",
+    "id": 24140825895,
+    "entry_timestamp": "2026-02-02T15:40:08.435",
+    "not_before": "2026-02-02T00:00:00",
+    "not_after": "2026-05-03T23:59:59",
+    "serial_number": "1a509430128ae2a81943052519480c56",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "pathwaystowork.acf.gov",
@@ -1404,18 +1428,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "tableau-public.acf.gov",
-    "name_value": "tableau-public.acf.gov\nwww.tableau-public.acf.gov",
-    "id": 22505429379,
-    "entry_timestamp": "2025-11-16T06:24:17.267",
-    "not_before": "2025-01-29T14:39:50",
-    "not_after": "2026-02-02T11:39:14",
-    "serial_number": "27f1ce62fdc2f1a5f44449711ca24ffb",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "mft.acf.gov",
@@ -2412,18 +2424,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 247119,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
-    "common_name": "www.nct.acf.gov",
-    "name_value": "www.nct.acf.gov",
-    "id": 19291871501,
-    "entry_timestamp": "2025-06-27T17:51:04.965",
-    "not_before": "2025-06-27T00:00:00",
-    "not_after": "2026-07-26T23:59:59",
-    "serial_number": "057aebe42a0a0ba98e124c29f1f74344",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 247106,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
     "common_name": "nct.acf.gov",
@@ -2433,6 +2433,18 @@
     "not_before": "2025-06-27T00:00:00",
     "not_after": "2026-07-26T23:59:59",
     "serial_number": "0a0c817bd159167eeff64ff1ebebb6cb",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "www.nct.acf.gov",
+    "name_value": "www.nct.acf.gov",
+    "id": 19291871501,
+    "entry_timestamp": "2025-06-27T17:51:04.965",
+    "not_before": "2025-06-27T00:00:00",
+    "not_after": "2026-07-26T23:59:59",
+    "serial_number": "057aebe42a0a0ba98e124c29f1f74344",
     "result_count": 2
   },
   {
@@ -4824,18 +4836,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "tableau-public.acf.gov",
-    "name_value": "tableau-public.acf.gov\nwww.tableau-public.acf.gov",
-    "id": 16445641929,
-    "entry_timestamp": "2025-01-29T14:49:52.178",
-    "not_before": "2025-01-29T14:39:50",
-    "not_after": "2026-02-02T11:39:14",
-    "serial_number": "27f1ce62fdc2f1a5f44449711ca24ffb",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 247115,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
     "common_name": "childcare-test.acf.gov",
@@ -4989,18 +4989,6 @@
     "not_before": "2025-01-04T00:00:00",
     "not_after": "2026-02-03T23:59:59",
     "serial_number": "0f1b8233f43ec6da0383d350fe1e7edc",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "pathways-dev.acf.gov",
-    "name_value": "pathways-dev.acf.gov",
-    "id": 15975970970,
-    "entry_timestamp": "2025-01-02T16:04:06.498",
-    "not_before": "2025-01-02T00:00:00",
-    "not_after": "2026-01-31T23:59:59",
-    "serial_number": "099bda088cd33f1f020ffea0f088c4c5",
     "result_count": 2
   }
 ]
