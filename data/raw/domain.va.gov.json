@@ -2,6 +2,90 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "oag.icam.va.gov",
+    "name_value": "oag.icam.va.gov",
+    "id": 24165390215,
+    "entry_timestamp": "2026-02-03T19:33:55.624",
+    "not_before": "2026-02-03T00:00:00",
+    "not_after": "2027-02-02T23:59:59",
+    "serial_number": "0384a13e0c7a490b273beb67ae56f422",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "oag-sqa.icam.va.gov",
+    "name_value": "oag-sqa.icam.va.gov",
+    "id": 24165374831,
+    "entry_timestamp": "2026-02-03T19:32:46.493",
+    "not_before": "2026-02-03T00:00:00",
+    "not_after": "2027-02-02T23:59:59",
+    "serial_number": "08cea5cc405b0975f3a68db6d38ea0a2",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "oag-preprod.icam.va.gov",
+    "name_value": "oag-preprod.icam.va.gov",
+    "id": 24165357021,
+    "entry_timestamp": "2026-02-03T19:31:23.796",
+    "not_before": "2026-02-03T00:00:00",
+    "not_after": "2027-02-02T23:59:59",
+    "serial_number": "048861f5c4975392826d93af7739e28d",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "oag-dev.icam.va.gov",
+    "name_value": "oag-dev.icam.va.gov",
+    "id": 24165166309,
+    "entry_timestamp": "2026-02-03T19:19:49.787",
+    "not_before": "2026-02-03T00:00:00",
+    "not_after": "2027-02-02T23:59:59",
+    "serial_number": "02b47df52faa9f2fbc0ceafe73a1b272",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "cicd.is.dtc.va.gov",
+    "name_value": "cicd.is.dtc.va.gov",
+    "id": 24162556607,
+    "entry_timestamp": "2026-02-03T16:39:58.453",
+    "not_before": "2026-02-03T00:00:00",
+    "not_after": "2027-03-04T23:59:59",
+    "serial_number": "00dadf757ae8928483b24e80b250b8357d",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "cicd.is.dtc.va.gov",
+    "name_value": "cicd.is.dtc.va.gov",
+    "id": 24162556130,
+    "entry_timestamp": "2026-02-03T16:39:56.435",
+    "not_before": "2026-02-03T00:00:00",
+    "not_after": "2027-03-04T23:59:59",
+    "serial_number": "00dadf757ae8928483b24e80b250b8357d",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "kgl.cem.va.gov",
+    "name_value": "kgl.cem.va.gov\nuat.kgl.cem.va.gov\nwww.kgl.cem.va.gov\nwww.uat.kgl.cem.va.gov",
+    "id": 24160414702,
+    "entry_timestamp": "2026-02-03T14:24:11.513",
+    "not_before": "2026-02-03T00:00:00",
+    "not_after": "2027-02-02T23:59:59",
+    "serial_number": "0f4c0cfc3530de94dc1d6d74d5053ca2",
+    "result_count": 5
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "www.myhealth.va.gov",
     "name_value": "mhvidp-prod.myhealth.va.gov\nmyhealth.va.gov\nsm.myhealth.va.gov\nwww.myhealthevet.va.gov\nwww.myhealth.va.gov\nwww.myhealthyvet.va.gov",
     "id": 24065201155,
@@ -1214,30 +1298,6 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "vavirtualofficedev.vpn.va.gov",
-    "name_value": "vavirtualofficedev.vpn.va.gov",
-    "id": 22506065089,
-    "entry_timestamp": "2025-11-16T06:59:02.896",
-    "not_before": "2025-02-04T00:00:00",
-    "not_after": "2026-02-03T23:59:59",
-    "serial_number": "0d7732a2b8ea41685e420d2bbcb24da5",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "vavirtualoffice.vpn.va.gov",
-    "name_value": "vavirtualoffice.vpn.va.gov",
-    "id": 22506065851,
-    "entry_timestamp": "2025-11-16T06:59:00.425",
-    "not_before": "2025-02-04T00:00:00",
-    "not_after": "2026-02-03T23:59:59",
-    "serial_number": "02003343a6e58bf0bab50f6cbba96fcc",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "api-spinalcordresearch-awshift.va.gov",
     "name_value": "api-spinalcordresearch-awshift.va.gov\nvaww.api-spinalcordresearch-awshift.va.gov",
     "id": 22505682459,
@@ -1270,18 +1330,6 @@
     "not_after": "2026-02-10T23:59:59",
     "serial_number": "02ffce44d96c2f8529524b017aed3aad",
     "result_count": 17
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "portal.vetbiz.va.gov",
-    "name_value": "portal.vetbiz.va.gov",
-    "id": 22504192870,
-    "entry_timestamp": "2025-11-16T05:13:31.218",
-    "not_before": "2025-01-21T00:00:00",
-    "not_after": "2026-02-03T23:59:59",
-    "serial_number": "0e63508badbc7e1f97f0801f208b63ee",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 185752,
@@ -6566,30 +6614,6 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "vavirtualoffice.vpn.va.gov",
-    "name_value": "vavirtualoffice.vpn.va.gov",
-    "id": 16513490839,
-    "entry_timestamp": "2025-02-04T14:30:32.923",
-    "not_before": "2025-02-04T00:00:00",
-    "not_after": "2026-02-03T23:59:59",
-    "serial_number": "02003343a6e58bf0bab50f6cbba96fcc",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "vavirtualofficedev.vpn.va.gov",
-    "name_value": "vavirtualofficedev.vpn.va.gov",
-    "id": 16509927573,
-    "entry_timestamp": "2025-02-04T11:17:36.86",
-    "not_before": "2025-02-04T00:00:00",
-    "not_after": "2026-02-03T23:59:59",
-    "serial_number": "0d7732a2b8ea41685e420d2bbcb24da5",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "api-spinalcordresearch-awshift.va.gov",
     "name_value": "api-spinalcordresearch-awshift.va.gov\nvaww.api-spinalcordresearch-awshift.va.gov",
     "id": 16457639353,
@@ -6710,18 +6734,6 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "portal.vetbiz.va.gov",
-    "name_value": "portal.vetbiz.va.gov",
-    "id": 16360583999,
-    "entry_timestamp": "2025-01-21T13:04:59.514",
-    "not_before": "2025-01-21T00:00:00",
-    "not_after": "2026-02-03T23:59:59",
-    "serial_number": "0e63508badbc7e1f97f0801f208b63ee",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "www.myhealth.va.gov",
     "name_value": "mhvidp-prod.myhealth.va.gov\nmyhealth.va.gov\nsm.myhealth.va.gov\nwww.myhealthevet.va.gov\nwww.myhealth.va.gov\nwww.myhealthyvet.va.gov",
     "id": 16267134800,
@@ -6754,18 +6766,6 @@
     "not_after": "2026-02-14T23:59:59",
     "serial_number": "0d2391ab443991ecf6bff0d6eb031daa",
     "result_count": 59
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "ecomtst.fsc.va.gov",
-    "name_value": "ecomtst.fsc.va.gov",
-    "id": 16093892378,
-    "entry_timestamp": "2025-01-08T14:34:52.527",
-    "not_before": "2025-01-08T00:00:00",
-    "not_after": "2026-02-03T23:59:59",
-    "serial_number": "082fbec30508db8b29c2b517ff3794f9",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 185752,

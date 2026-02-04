@@ -2,6 +2,102 @@
   {
     "issuer_ca_id": 295816,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "ens-eq.usgs.gov",
+    "name_value": "ens-eq.usgs.gov",
+    "id": 24172993822,
+    "entry_timestamp": "2026-02-04T04:10:23.893",
+    "not_before": "2026-02-04T03:11:51",
+    "not_after": "2026-05-05T03:11:50",
+    "serial_number": "0586cdcd0d42c6fbde37c50e27e2f22e8021",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "ens-eq.usgs.gov",
+    "name_value": "ens-eq.usgs.gov",
+    "id": 24172991542,
+    "entry_timestamp": "2026-02-04T04:10:21.494",
+    "not_before": "2026-02-04T03:11:51",
+    "not_after": "2026-05-05T03:11:50",
+    "serial_number": "0586cdcd0d42c6fbde37c50e27e2f22e8021",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "usgs.gov",
+    "name_value": "usgs.gov",
+    "id": 24146451619,
+    "entry_timestamp": "2026-02-02T22:17:57.784",
+    "not_before": "2026-02-02T21:17:57",
+    "not_after": "2026-05-03T22:17:53",
+    "serial_number": "00f054066e674138f40d69d3978125f16c",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "usgs.gov",
+    "name_value": "usgs.gov",
+    "id": 24146465824,
+    "entry_timestamp": "2026-02-02T22:17:46.424",
+    "not_before": "2026-02-02T21:17:45",
+    "not_after": "2026-05-03T22:17:38",
+    "serial_number": "00d0623b07e76ae257113b92310ad3ac86",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "*.snafu.cr.usgs.gov",
+    "name_value": "*.snafu.cr.usgs.gov\nsnafu.cr.usgs.gov",
+    "id": 24142051862,
+    "entry_timestamp": "2026-02-02T16:59:37.064",
+    "not_before": "2026-02-02T00:00:00",
+    "not_after": "2027-02-11T23:59:59",
+    "serial_number": "056663d4ef28df1e0657343658dce9c6",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "IGSKMNCMPTEL01.usgs.gov",
+    "name_value": "IGSKMNCMPTEL01.usgs.gov",
+    "id": 24142051258,
+    "entry_timestamp": "2026-02-02T16:59:12.469",
+    "not_before": "2026-02-02T00:00:00",
+    "not_after": "2027-02-02T23:59:59",
+    "serial_number": "0b97f067e170e8ac394b45803c06403d",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "IGSKMNCMPTEL01.usgs.gov",
+    "name_value": "IGSKMNCMPTEL01.usgs.gov",
+    "id": 24140711573,
+    "entry_timestamp": "2026-02-02T15:33:18.855",
+    "not_before": "2026-02-02T00:00:00",
+    "not_after": "2027-02-02T23:59:59",
+    "serial_number": "0707680a0aca6be49e8f4da72b56753e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "*.wr.usgs.gov",
+    "name_value": "*.wr.usgs.gov\nwr.usgs.gov",
+    "id": 24139857333,
+    "entry_timestamp": "2026-02-02T14:34:51.646",
+    "not_before": "2026-02-02T00:00:00",
+    "not_after": "2026-07-06T23:59:59",
+    "serial_number": "0fe6bece96e84929fbc9d20a0ba10167",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "api.water.usgs.gov",
     "name_value": "api.water.usgs.gov",
     "id": 24019080781,
@@ -4114,29 +4210,5 @@
     "not_after": "2026-02-22T23:59:59",
     "serial_number": "0f038021f12a012dc517f3f23c99c304",
     "result_count": 5
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "*.dev-store.chs.usgs.gov",
-    "name_value": "*.dev-store.chs.usgs.gov\ndev-store.chs.usgs.gov",
-    "id": 16001517956,
-    "entry_timestamp": "2025-01-03T20:06:05.104",
-    "not_before": "2025-01-03T00:00:00",
-    "not_after": "2026-02-03T23:59:59",
-    "serial_number": "0a47ffc28e24567b721b87bee378e292",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "*.store.chs.usgs.gov",
-    "name_value": "*.store.chs.usgs.gov\nstore.chs.usgs.gov",
-    "id": 16001419891,
-    "entry_timestamp": "2025-01-03T19:59:18.322",
-    "not_before": "2025-01-03T00:00:00",
-    "not_after": "2026-02-03T23:59:59",
-    "serial_number": "01b245bfd69be66b0e1dd299d2d7cebd",
-    "result_count": 3
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "DEV.BJATTA.BJA.OJP.GOV",
+    "name_value": "DEV.BJATTA.BJA.OJP.GOV\ngit.bjatta.bja.ojp.gov\nissues.bjatta.bja.ojp.gov\nocp-dev.bjatta.bja.ojp.gov\nocp-test.bjatta.bja.ojp.gov\nrp-dev.bjatta.bja.ojp.gov\nrp-test.bjatta.bja.ojp.gov\ntest.bjatta.bja.ojp.gov\nvarnish-dev.bjatta.bja.ojp.gov\nvarnish-test.bjatta.bja.ojp.gov",
+    "id": 24164649829,
+    "entry_timestamp": "2026-02-03T18:47:48.744",
+    "not_before": "2026-02-03T00:00:00",
+    "not_after": "2027-02-03T23:59:59",
+    "serial_number": "044a11609bb6f8a66470fdffa189b233",
+    "result_count": 11
+  },
+  {
     "issuer_ca_id": 204407,
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
     "common_name": "smart.ojp.gov",
@@ -3561,78 +3573,6 @@
     "not_before": "2025-11-06T23:30:16",
     "not_after": "2026-02-05T00:27:50",
     "serial_number": "00879aed4e7c70c01c111e736f098047ff",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "uat.ojjdp.ojp.gov",
-    "name_value": "*.uat.ojjdp.ojp.gov\nuat.ojjdp.ojp.gov",
-    "id": 22243892966,
-    "entry_timestamp": "2025-11-06T02:45:36.73",
-    "not_before": "2025-11-06T01:45:36",
-    "not_after": "2026-02-04T02:45:32",
-    "serial_number": "755e2dba5f4f43e50d042029d3ea8e46",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "uat.ojjdp.ojp.gov",
-    "name_value": "*.uat.ojjdp.ojp.gov\nuat.ojjdp.ojp.gov",
-    "id": 22243891489,
-    "entry_timestamp": "2025-11-06T02:45:26.73",
-    "not_before": "2025-11-06T01:45:26",
-    "not_after": "2026-02-04T02:44:04",
-    "serial_number": "0098dc76c9aec18b1c0d90e0163d415328",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "uat.ovc.ojp.gov",
-    "name_value": "*.uat.ovc.ojp.gov\nuat.ovc.ojp.gov",
-    "id": 22241193621,
-    "entry_timestamp": "2025-11-06T00:27:17.277",
-    "not_before": "2025-11-05T23:27:16",
-    "not_after": "2026-02-04T00:27:10",
-    "serial_number": "00d9a1e3f47e36289511efe9ded904e905",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "uat.ovc.ojp.gov",
-    "name_value": "*.uat.ovc.ojp.gov\nuat.ovc.ojp.gov",
-    "id": 22241179323,
-    "entry_timestamp": "2025-11-06T00:27:05.317",
-    "not_before": "2025-11-05T23:27:04",
-    "not_after": "2026-02-04T00:24:41",
-    "serial_number": "00db203fa29139fbb10dffb366ca0f7cc7",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "uatnsopw-api.ojp.gov",
-    "name_value": "*.uatnsopw-api.ojp.gov\nuatnsopw-api.ojp.gov",
-    "id": 22239254756,
-    "entry_timestamp": "2025-11-05T22:44:27.067",
-    "not_before": "2025-11-05T21:44:21",
-    "not_after": "2026-02-03T22:44:11",
-    "serial_number": "3845b11c246aef4513a1b8d8dd791aa0",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "uatnsopw-api.ojp.gov",
-    "name_value": "*.uatnsopw-api.ojp.gov\nuatnsopw-api.ojp.gov",
-    "id": 22239247808,
-    "entry_timestamp": "2025-11-05T22:44:06.015",
-    "not_before": "2025-11-05T21:44:05",
-    "not_after": "2026-02-03T22:42:46",
-    "serial_number": "00cacc0bc35d2892bb0e43e31d53cba69e",
     "result_count": 3
   },
   {
