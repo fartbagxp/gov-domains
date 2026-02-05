@@ -120,6 +120,78 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 385516,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust DV TLS Issuing RSA CA 2",
+    "common_name": "*.aao.nasa.gov",
+    "name_value": "*.aao.nasa.gov\naart.nasa.gov\nadmin.eib.nasa.gov\naepr.nasa.gov\nauth.aao.nasa.gov\nboeo.nasa.gov\nbready.nasa.gov\nbrr.nasa.gov\ncertificatemanagement.nasa.gov\nclausefinder.aao.nasa.gov\ncloud-gateway.nasa.gov\ncmp.nasa.gov\ncms.cima.nasa.gov\ncourse-mdm-intro-prod.aao.nasa.gov\ndataact.nasa.gov\ndevcentral.nasa.gov\ndisposal.nasa.gov\nemhq.aao.nasa.gov\nem.msfc.nasa.gov\nemrpt.msfc.nasa.gov\nepas.nasa.gov\nep.nasa.gov\nequipment.nasa.gov\nesm.aao.nasa.gov\nesm.nasa.gov\netsapprover.nasa.gov",
+    "id": 21348422864,
+    "entry_timestamp": "2025-09-29T14:03:17.953",
+    "not_before": "2025-09-29T00:00:00",
+    "not_after": "2026-10-16T23:59:59",
+    "serial_number": "0f26c52f2c0e3ac65ad10bd273143290",
+    "result_count": 27
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "idfs-test.sit.earthdatacloud.nasa.gov",
+    "name_value": "idfs-test.sit.earthdatacloud.nasa.gov",
+    "id": 21331955104,
+    "entry_timestamp": "2025-09-28T03:57:35.347",
+    "not_before": "2025-09-28T00:00:00",
+    "not_after": "2026-10-27T23:59:59",
+    "serial_number": "023898bdf9b981f1547f3149bb56e643",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "migrate-dev.earthdata.nasa.gov",
+    "name_value": "migrate-dev.earthdata.nasa.gov",
+    "id": 21331755433,
+    "entry_timestamp": "2025-09-28T03:42:29.787",
+    "not_before": "2025-09-28T00:00:00",
+    "not_after": "2026-10-27T23:59:59",
+    "serial_number": "06560ac2b1e8d87814d56e852a67db7d",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "idfs-test.sit.earthdatacloud.nasa.gov",
+    "name_value": "idfs-test.sit.earthdatacloud.nasa.gov",
+    "id": 21331558242,
+    "entry_timestamp": "2025-09-28T03:27:31.506",
+    "not_before": "2025-09-28T00:00:00",
+    "not_after": "2026-10-27T23:59:59",
+    "serial_number": "023898bdf9b981f1547f3149bb56e643",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "extapi.staging.prosams.nasa.gov",
+    "name_value": "extapi.staging.prosams.nasa.gov",
+    "id": 21330024291,
+    "entry_timestamp": "2025-09-28T01:19:56.38",
+    "not_before": "2025-09-28T00:00:00",
+    "not_after": "2026-10-27T23:59:59",
+    "serial_number": "05a66bc46d10cd9dfb77ebc91e0a283e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "mjywth97pzwrij.intsvc.cloud.sit.earthdata.nasa.gov",
+    "name_value": "mjywth97pzwrij.intsvc.cloud.sit.earthdata.nasa.gov",
+    "id": 21329626052,
+    "entry_timestamp": "2025-09-28T00:44:48.479",
+    "not_before": "2025-09-28T00:00:00",
+    "not_after": "2026-10-27T23:59:59",
+    "serial_number": "04526a0f32551863800e379bbebd7281",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 246719,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "extapi.staging.prosams.nasa.gov",
@@ -132,16 +204,52 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "extapi.prosams.nasa.gov",
+    "name_value": "extapi.prosams.nasa.gov",
+    "id": 21329300206,
+    "entry_timestamp": "2025-09-28T00:17:51.757",
+    "not_before": "2025-09-28T00:00:00",
+    "not_after": "2026-10-27T23:59:59",
+    "serial_number": "09af1a4820004f3ba8cddb7e90a2221e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "tf-inventory-int.sops.m20.jpl.nasa.gov",
+    "name_value": "tf-inventory-int.sops.m20.jpl.nasa.gov",
+    "id": 21300682986,
+    "entry_timestamp": "2025-09-26T22:57:00.621",
+    "not_before": "2025-09-26T00:00:00",
+    "not_after": "2026-10-25T23:59:59",
+    "serial_number": "0c5473bc147502249017949d26087c22",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "tf-inventory-ext.sops.m20.jpl.nasa.gov",
+    "name_value": "tf-inventory-ext.sops.m20.jpl.nasa.gov",
+    "id": 21299370896,
+    "entry_timestamp": "2025-09-26T21:45:39.435",
+    "not_before": "2025-09-26T00:00:00",
+    "not_after": "2026-10-25T23:59:59",
+    "serial_number": "05fdaa8b022cbf966d1117ccfaad2038",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 385516,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust DV TLS Issuing RSA CA 2",
     "common_name": "ndmswbmvip.ndc.nasa.gov",
-    "name_value": "aart.uat.nasa.gov\nadmin.eib.uat.nasa.gov\naepr.uat.nasa.gov\napps.uat.nasa.gov\nartifacts.uat.nasa.gov\nboeo.uat.nasa.gov\nbready-staging.nasa.gov\nbrr.uat.nasa.gov\ncertificatemanagement.uat.nasa.gov\nchats.uat.nasa.gov\nclausefinder.uat.nasa.gov\ncloud-gateway.uat.nasa.gov\ncmp.uat.nasa.gov\ndataact.uat.nasa.gov\ndisposal.training.nasa.gov\ndisposal.uat.nasa.gov\ndoingbusiness.uat.nasa.gov\nem.staging.msfc.nasa.gov\nem.staging.nasa.gov\nepas.uat.nasa.gov\nepdw-api.uat.nasa.gov\nep.staging.nasa.gov\nequipment.training.nasa.gov\nequipment.uat.nasa.gov\nesm.staging.nasa.gov\netsapprover.staging.nasa.gov\nexecsummit-staging.nasa.gov\nfacgis.uat.nasa.gov\nforms.uat.neacc.nasa.gov\nfscatt.uat.nasa.gov\ngateway.eib.uat.nasa.gov\nguest.uat.nasa.gov\nhpps.staging.nasa.gov\nhrdatahub.uat.nasa.gov\nhr-staging.nasa.gov\nicamsupport.uat.nasa.gov\nicamviewer.staging.nasa.gov\nid.uat.nasa.gov\ninsideprocurement.uat.nasa.gov\nintegration-tracker.uat.nasa.gov\ninvitation.uat.nasa.gov\niris.uat.nasa.gov\njobs.eib.uat.nasa.gov\nkafka-ui.uat.nasa.gov\nkpgsfc.staging.nasa.gov\nmaptis.uat.nasa.gov\nmaterialsinspace.uat.nasa.gov\nmdi.staging.nasa.gov\nmdm.uat.neacc.nasa.gov\nmdr.uat.nasa.gov\nmisl.uat.nasa.gov\nmiul.uat.nasa.gov\nmpsa-staging.msfc.nasa.gov\nmpsa.uat.nasa.gov\nmr.uat.nasa.gov\nmsemuat.ndc.nasa.gov\nmsrpt.uat.nasa.gov\nmua.uat.nasa.gov\nnats.uat.nasa.gov\nncts.uat.nasa.gov\nndmsbpstgvip.ndc.nasa.gov\nndmsepstg01.ndc.nasa.gov\nndmsepstg02.ndc.nasa.gov\nndmsepstgvip.ndc.nasa.gov\nndmswbmvip.ndc.nasa.gov\nnef-classic.uat.nasa.gov\nnef.uat.nasa.gov\nness-old.uat.nasa.gov\nness.uat.nasa.gov\nnvdb.uat.nasa.gov\noscar.staging.nasa.gov\noscar.training.nasa.gov\noscar.uat.nasa.gov\np-card.uat.nasa.gov",
+    "name_value": "aart.uat.nasa.gov\nadmin.eib.uat.nasa.gov\naepr.uat.nasa.gov\napps.uat.nasa.gov\nartifacts.uat.nasa.gov\nboeo.uat.nasa.gov\nbready-staging.nasa.gov\nbrr.uat.nasa.gov\ncertificatemanagement.uat.nasa.gov\nchats.uat.nasa.gov\nclausefinder.uat.nasa.gov\ncloud-gateway.uat.nasa.gov\ncmp.uat.nasa.gov\ndataact.uat.nasa.gov\ndisposal.training.nasa.gov\ndisposal.uat.nasa.gov\ndoingbusiness.uat.nasa.gov\nem.staging.msfc.nasa.gov\nem.staging.nasa.gov\nepas.uat.nasa.gov\nepdw-api.uat.nasa.gov\nep.staging.nasa.gov\nequipment.training.nasa.gov\nequipment.uat.nasa.gov\nesm.staging.nasa.gov\netsapprover.staging.nasa.gov\nexecsummit-staging.nasa.gov\nfacgis.uat.nasa.gov\nforms.uat.neacc.nasa.gov\nfscatt.uat.nasa.gov\ngateway.eib.uat.nasa.gov\nguest.uat.nasa.gov\nhpps.staging.nasa.gov\nhrdatahub.uat.nasa.gov\nhr-staging.nasa.gov\nicamsupport.uat.nasa.gov\nicamviewer.staging.nasa.gov\nid.uat.nasa.gov\ninsideprocurement.uat.nasa.gov\nintegration-tracker.uat.nasa.gov\ninvitation.uat.nasa.gov\niris.uat.nasa.gov\njobs.eib.uat.nasa.gov\nkafka-ui.uat.nasa.gov\nkpgsfc.staging.nasa.gov\nmaptis.uat.nasa.gov\nmaterialsinspace.uat.nasa.gov\nmdi.staging.nasa.gov\nmdm.uat.neacc.nasa.gov\nmdr.uat.nasa.gov\nmisl.uat.nasa.gov\nmiul.uat.nasa.gov\nmpsa-staging.msfc.nasa.gov\nmpsa.uat.nasa.gov\nmr.uat.nasa.gov\nmsemuat.ndc.nasa.gov\nmsrpt.uat.nasa.gov\nmua.uat.nasa.gov\nnats.uat.nasa.gov\nncts.uat.nasa.gov\nndmsbpstgvip.ndc.nasa.gov\nndmsepstg01.ndc.nasa.gov\nndmsepstg02.ndc.nasa.gov\nndmsepstgvip.ndc.nasa.gov\nndmswbmvip.ndc.nasa.gov\nnef-classic.uat.nasa.gov\nnef.uat.nasa.gov\nness-old.uat.nasa.gov\nness.uat.nasa.gov\nnvdb.uat.nasa.gov\noscar.staging.nasa.gov\noscar.training.nasa.gov\noscar.uat.nasa.gov\np-card.uat.nasa.gov\npde.staging.nasa.gov\npls.uat.nasa.gov\nportal.uat.nasa.gov\nppm-int-gsa.uat.nasa.gov\npublic.forms.uat.neacc.nasa.gov\npulse.staging.nasa.gov\nreams.uat.nasa.gov\nrids.uat.nasa.gov\nrpm-services-mod.uat.nasa.gov\nscm.uat.nasa.gov\nslippc-staging.msfc.nasa.gov\nsmap.uat.nasa.gov\nsrp.uat.nasa.gov\nstars.staging.nasa.gov\nswehb-dev.msfc.nasa.gov\nswehb-staging.msfc.nasa.gov\nuserdocuments.uat.nasa.gov\nvendor.staging.nasa.gov\nwapr.uat.nasa.gov\nwat.staging.nasa.gov",
     "id": 21292158624,
     "entry_timestamp": "2025-09-26T15:20:53.22",
     "not_before": "2025-09-26T00:00:00",
     "not_after": "2026-09-23T23:59:59",
     "serial_number": "00a0d39d88f684c9f1d586ce898cd353d3",
-    "result_count": 75
+    "result_count": 95
   },
   {
     "issuer_ca_id": 385516,
@@ -16896,18 +17004,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "gis-prd-is-lb.ngap.earthdata.nasa.gov",
-    "name_value": "gis-prd-is-lb.ngap.earthdata.nasa.gov",
-    "id": 18825973477,
-    "entry_timestamp": "2025-06-05T14:27:42.098",
-    "not_before": "2025-01-05T00:00:00",
-    "not_after": "2026-02-04T23:59:59",
-    "serial_number": "0f6ca70e65f6b5dcf87cec83a5f3ede7",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "3avr9cjkxlccrv.intsvc.cloud.earthdata.nasa.gov",
@@ -17328,18 +17424,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 30737,
-    "issuer_name": "C=US, ST=Texas, L=Houston, O=SSL Corporation, CN=SSL.com RSA SSL subCA",
-    "common_name": "ace-server1.hst.nasa.gov",
-    "name_value": "ace-server1.hst.nasa.gov\nwww.ace-server1.hst.nasa.gov",
-    "id": 18786098548,
-    "entry_timestamp": "2025-06-03T10:13:48.674",
-    "not_before": "2025-06-03T10:03:47",
-    "not_after": "2026-02-04T10:03:47",
-    "serial_number": "2a16d33e1770cf242f40bb7adba82ff4",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 247106,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
     "common_name": "test.kibana.mcp.nasa.gov",
@@ -17590,30 +17674,6 @@
     "not_after": "2026-07-01T23:59:59",
     "serial_number": "08c3a0861d85f1f5ae6d0e52276f1571",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 30737,
-    "issuer_name": "C=US, ST=Texas, L=Houston, O=SSL Corporation, CN=SSL.com RSA SSL subCA",
-    "common_name": "ace-server1.hst.nasa.gov",
-    "name_value": "ace-server1.hst.nasa.gov\nwww.ace-server1.hst.nasa.gov",
-    "id": 18773556002,
-    "entry_timestamp": "2025-06-02T19:01:41.024",
-    "not_before": "2025-06-02T18:51:39",
-    "not_after": "2026-02-03T18:51:39",
-    "serial_number": "3a9f448da57a0012cefd0b08f32e8d26",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 30737,
-    "issuer_name": "C=US, ST=Texas, L=Houston, O=SSL Corporation, CN=SSL.com RSA SSL subCA",
-    "common_name": "ace-server1.hst.nasa.gov",
-    "name_value": "ace-server1.hst.nasa.gov\nwww.ace-server1.hst.nasa.gov",
-    "id": 18773504711,
-    "entry_timestamp": "2025-06-02T18:59:10.483",
-    "not_before": "2025-06-02T18:49:09",
-    "not_after": "2026-02-03T18:49:09",
-    "serial_number": "020cbef6cdf56a974ac77c1c11174d8b",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 185752,
@@ -31908,18 +31968,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "asmb.ndc.nasa.gov",
-    "name_value": "asmb.ndc.nasa.gov",
-    "id": 16519751952,
-    "entry_timestamp": "2025-02-04T19:40:47.045",
-    "not_before": "2025-02-04T00:00:00",
-    "not_after": "2026-02-03T23:59:59",
-    "serial_number": "0e9b9af6e90273d136cd82be8392ccc0",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "jamf.jpl.caltech.edu",
@@ -32014,30 +32062,6 @@
     "not_after": "2026-03-05T23:59:59",
     "serial_number": "03cc77985fea3f4a6cacd4a2314b6abf",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 30737,
-    "issuer_name": "C=US, ST=Texas, L=Houston, O=SSL Corporation, CN=SSL.com RSA SSL subCA",
-    "common_name": "ace-server2.hst.nasa.gov",
-    "name_value": "ace-server2.hst.nasa.gov\nwww.ace-server2.hst.nasa.gov",
-    "id": 16516114632,
-    "entry_timestamp": "2025-02-04T16:55:08.717",
-    "not_before": "2025-02-04T16:45:07",
-    "not_after": "2026-02-04T16:45:07",
-    "serial_number": "0aa511576a01e1329c77b5be5a2461cb",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 30737,
-    "issuer_name": "C=US, ST=Texas, L=Houston, O=SSL Corporation, CN=SSL.com RSA SSL subCA",
-    "common_name": "ace-server1.hst.nasa.gov",
-    "name_value": "ace-server1.hst.nasa.gov\nwww.ace-server1.hst.nasa.gov",
-    "id": 16515232208,
-    "entry_timestamp": "2025-02-04T16:20:09.312",
-    "not_before": "2025-02-04T16:10:08",
-    "not_after": "2026-02-04T16:10:08",
-    "serial_number": "09d6fcc8ac2865c2857f2792b4978c3e",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 247106,
@@ -35794,161 +35818,5 @@
     "not_after": "2026-02-06T23:59:59",
     "serial_number": "07d9380defee332bfa5305f6c9f599d6",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "docs.edp.nasa.gov",
-    "name_value": "docs.edp.nasa.gov\nhandbook.idas.nasa.gov",
-    "id": 16055007200,
-    "entry_timestamp": "2025-01-06T21:44:24.306",
-    "not_before": "2025-01-06T00:00:00",
-    "not_after": "2026-02-04T23:59:59",
-    "serial_number": "060a32d7f83b7f87862cdc8d0e190f4b",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "docs.edp.nasa.gov",
-    "name_value": "docs.edp.nasa.gov\nhandbook.idas.nasa.gov",
-    "id": 16051697490,
-    "entry_timestamp": "2025-01-06T19:53:45.427",
-    "not_before": "2025-01-06T00:00:00",
-    "not_after": "2026-02-04T23:59:59",
-    "serial_number": "02266d34c0d2ddccb300abb7a379980f",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "docs.edp.nasa.gov",
-    "name_value": "docs.edp.nasa.gov\nhandbook.idas.nasa.gov",
-    "id": 16051696833,
-    "entry_timestamp": "2025-01-06T19:53:44.467",
-    "not_before": "2025-01-06T00:00:00",
-    "not_after": "2026-02-04T23:59:59",
-    "serial_number": "060a32d7f83b7f87862cdc8d0e190f4b",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "graphql.earthdata.nasa.gov",
-    "name_value": "graphql.earthdata.nasa.gov",
-    "id": 16041411813,
-    "entry_timestamp": "2025-01-06T10:25:24.534",
-    "not_before": "2025-01-06T00:00:00",
-    "not_after": "2026-02-03T23:59:59",
-    "serial_number": "0d682be3791373fa9ef6497fc3ed2236",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "api.ngap.sit.earthdata.nasa.gov",
-    "name_value": "api.ngap.sit.earthdata.nasa.gov",
-    "id": 16041142454,
-    "entry_timestamp": "2025-01-06T10:10:46.222",
-    "not_before": "2025-01-06T00:00:00",
-    "not_after": "2026-02-04T23:59:59",
-    "serial_number": "04222a08aac3de911abf4244d2e0c337",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "cddr.auth.dip.amesaero.nasa.gov",
-    "name_value": "cddr.auth.dip.amesaero.nasa.gov",
-    "id": 16041053633,
-    "entry_timestamp": "2025-01-06T10:06:56.402",
-    "not_before": "2025-01-06T00:00:00",
-    "not_after": "2026-02-04T23:59:59",
-    "serial_number": "0a2e30038e3dd252485b5bdb6610aa02",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "mrjordateahybrid-1704250824.auto.earthdatacloud.nasa.gov",
-    "name_value": "mrjordateahybrid-1704250824.auto.earthdatacloud.nasa.gov",
-    "id": 16040366790,
-    "entry_timestamp": "2025-01-06T09:29:45.307",
-    "not_before": "2025-01-06T00:00:00",
-    "not_after": "2026-02-04T23:59:59",
-    "serial_number": "024a01090a6f91cceec8e02237b598cd",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "harmony.earthdata.nasa.gov",
-    "name_value": "harmony.earthdata.nasa.gov",
-    "id": 16039044323,
-    "entry_timestamp": "2025-01-06T07:45:15.087",
-    "not_before": "2025-01-06T00:00:00",
-    "not_after": "2026-02-03T23:59:59",
-    "serial_number": "044522c6cd0159458c6cdb6ab01fe067",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "appendpoint-4259745255.auto.earthdatacloud.nasa.gov",
-    "name_value": "appendpoint-4259745255.auto.earthdatacloud.nasa.gov",
-    "id": 16038763559,
-    "entry_timestamp": "2025-01-06T07:23:54.46",
-    "not_before": "2025-01-06T00:00:00",
-    "not_after": "2026-02-04T23:59:59",
-    "serial_number": "032dbc4081a89af3925c9ed281fe34a4",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "gitc.earthdata.nasa.gov",
-    "name_value": "gibs-a.earthdata.nasa.gov\ngibs-b.earthdata.nasa.gov\ngibs-c.earthdata.nasa.gov\ngibs.earthdata.nasa.gov\ngitc-a.earthdata.nasa.gov\ngitc-b.earthdata.nasa.gov\ngitc-c.earthdata.nasa.gov\ngitc.earthdata.nasa.gov",
-    "id": 16021064843,
-    "entry_timestamp": "2025-01-05T06:15:58.994",
-    "not_before": "2025-01-05T00:00:00",
-    "not_after": "2026-02-04T23:59:59",
-    "serial_number": "0a82d82bf7ec3247c584803df0174649",
-    "result_count": 9
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "*.cddr.dip-dev.amesaero.nasa.gov",
-    "name_value": "*.cddr.dip-dev.amesaero.nasa.gov\ncddr.dip-dev.amesaero.nasa.gov",
-    "id": 16020600549,
-    "entry_timestamp": "2025-01-05T06:14:30.706",
-    "not_before": "2025-01-05T00:00:00",
-    "not_after": "2026-02-04T23:59:59",
-    "serial_number": "0695a520f18e7e2aa9183eac5249d281",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "gitc.earthdata.nasa.gov",
-    "name_value": "gibs-a.earthdata.nasa.gov\ngibs-b.earthdata.nasa.gov\ngibs-c.earthdata.nasa.gov\ngibs.earthdata.nasa.gov\ngitc-a.earthdata.nasa.gov\ngitc-b.earthdata.nasa.gov\ngitc-c.earthdata.nasa.gov\ngitc.earthdata.nasa.gov",
-    "id": 16019734918,
-    "entry_timestamp": "2025-01-05T04:49:00.982",
-    "not_before": "2025-01-05T00:00:00",
-    "not_after": "2026-02-04T23:59:59",
-    "serial_number": "0a82d82bf7ec3247c584803df0174649",
-    "result_count": 9
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "gis-prd-is-lb.ngap.earthdata.nasa.gov",
-    "name_value": "gis-prd-is-lb.ngap.earthdata.nasa.gov",
-    "id": 16017814612,
-    "entry_timestamp": "2025-01-05T01:23:56.017",
-    "not_before": "2025-01-05T00:00:00",
-    "not_after": "2026-02-04T23:59:59",
-    "serial_number": "0f6ca70e65f6b5dcf87cec83a5f3ede7",
-    "result_count": 2
   }
 ]

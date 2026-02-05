@@ -1,5 +1,65 @@
 [
   {
+    "issuer_ca_id": 185748,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
+    "common_name": "nhtsa.dot.gov",
+    "name_value": "artemis-recalls-ext-api.nhtsa.gov\nartemis-recalls-int-api.nhtsa.gov",
+    "id": 24189874406,
+    "entry_timestamp": "2026-02-04T23:16:15.274",
+    "not_before": "2025-12-12T00:00:00",
+    "not_after": "2026-12-12T23:59:59",
+    "serial_number": "01fbad939b8cc2b919c13525b2a0b14a",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "mcp.nhtsa.gov",
+    "name_value": "mcp.nhtsa.gov\norigin-mcp.nhtsa.gov",
+    "id": 24182142405,
+    "entry_timestamp": "2026-02-04T14:11:37.303",
+    "not_before": "2026-02-04T00:00:00",
+    "not_after": "2026-08-22T23:59:59",
+    "serial_number": "00a5112dd9f94115503d97ad697436e6c8",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "mcp.nhtsa.gov",
+    "name_value": "mcp.nhtsa.gov\norigin-mcp.nhtsa.gov",
+    "id": 24182128329,
+    "entry_timestamp": "2026-02-04T14:11:35.572",
+    "not_before": "2026-02-04T00:00:00",
+    "not_after": "2026-08-22T23:59:59",
+    "serial_number": "00a5112dd9f94115503d97ad697436e6c8",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "stage-mcp.nhtsa.gov",
+    "name_value": "origin-stage-mcp.nhtsa.gov\nstage-mcp.nhtsa.gov",
+    "id": 24182125830,
+    "entry_timestamp": "2026-02-04T14:10:00.705",
+    "not_before": "2026-02-04T00:00:00",
+    "not_after": "2026-08-22T23:59:59",
+    "serial_number": "49078bcd5adc51d69379a60947dd7c92",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "stage-mcp.nhtsa.gov",
+    "name_value": "origin-stage-mcp.nhtsa.gov\nstage-mcp.nhtsa.gov",
+    "id": 24182096980,
+    "entry_timestamp": "2026-02-04T14:09:59.403",
+    "not_before": "2026-02-04T00:00:00",
+    "not_after": "2026-08-22T23:59:59",
+    "serial_number": "49078bcd5adc51d69379a60947dd7c92",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 295817,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "www.nhtsa.gov",
