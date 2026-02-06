@@ -1,5 +1,41 @@
 [
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "citrixaccessnorth.va.gov",
+    "name_value": "citrixaccesseast.va.gov\ncitrixaccessnorth.va.gov\ncitrixaccesssouth.va.gov\ncitrixaccesswest.va.gov",
+    "id": 24206049580,
+    "entry_timestamp": "2026-02-05T16:55:55.253",
+    "not_before": "2026-02-05T00:00:00",
+    "not_after": "2027-02-04T23:59:59",
+    "serial_number": "096c65fecd84ec13bdd14cc8baf7e5d2",
+    "result_count": 5
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "dev.services.vhb.va.gov",
+    "name_value": "dev.services.vhb.va.gov",
+    "id": 24205983244,
+    "entry_timestamp": "2026-02-05T16:51:32.419",
+    "not_before": "2026-02-05T00:00:00",
+    "not_after": "2027-03-08T23:59:59",
+    "serial_number": "072f3418f10c6578fcf9c353c1d7e3fb",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "apps.education.va.gov",
+    "name_value": "apps.education.va.gov\niam.education.va.gov\ntwilio.chapter33prod.federation.va.gov",
+    "id": 24204640254,
+    "entry_timestamp": "2026-02-05T15:26:50.891",
+    "not_before": "2026-02-05T00:00:00",
+    "not_after": "2027-03-04T23:59:59",
+    "serial_number": "02fbfa0cc4864570e25bbeea3331e3c0",
+    "result_count": 4
+  },
+  {
     "issuer_ca_id": 176211,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2",
     "common_name": "vapnsevspmn.vc.va.gov",
@@ -1370,18 +1406,6 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "www.myhealth.va.gov",
-    "name_value": "mhvidp-prod.myhealth.va.gov\nmyhealth.va.gov\nsm.myhealth.va.gov\nwww.myhealthevet.va.gov\nwww.myhealth.va.gov\nwww.myhealthyvet.va.gov",
-    "id": 22503599533,
-    "entry_timestamp": "2025-11-16T04:41:46.911",
-    "not_before": "2025-01-16T00:00:00",
-    "not_after": "2026-02-05T23:59:59",
-    "serial_number": "0b5fc38ec89127177d374f34dd28b92c",
-    "result_count": 7
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "vdc.va.gov",
     "name_value": "vdc.va.gov\nwww.vdc.va.gov",
     "id": 22502522987,
@@ -2230,18 +2254,6 @@
     "not_after": "2026-10-01T23:59:59",
     "serial_number": "0bead5fde853e458ed4d90da4fa466fa",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "benefits.vba.va.gov",
-    "name_value": "benefits.va.gov\nbenefits.vba.va.gov\nblogs.va.gov\ndocs.lms.va.gov\ndownloads.va.gov\nerror.vba.va.gov\nhmisrepository.va.gov\nhomeloans.va.gov\ninquiry.vba.va.gov\nvabenefits.vba.va.gov\nvaonce.vba.va.gov\nvba.va.gov\nvrss.va.gov\nwarms.vba.va.gov\nwww.benefits.va.gov\nwww.benefits.vba.va.gov\nwww.blogs.va.gov\nwww.docs.lms.va.gov\nwww.downloads.va.gov\nwww.error.vba.va.gov\nwww.hmisrepository.va.gov\nwww.homeloans.va.gov\nwww.inquiry.vba.va.gov\nwww.vabenefits.vba.va.gov\nwww.vaonce.vba.va.gov\nwww.vba.va.gov\nwww.vrss.va.gov\nwww.warms.vba.va.gov",
-    "id": 21418775033,
-    "entry_timestamp": "2025-10-02T12:22:09.908",
-    "not_before": "2025-02-06T00:00:00",
-    "not_after": "2026-02-05T23:59:59",
-    "serial_number": "0f1b96cb0a54a826252d1f46967bed16",
-    "result_count": 29
   },
   {
     "issuer_ca_id": 185752,
@@ -6576,18 +6588,6 @@
     "result_count": 5
   },
   {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "benefits.vba.va.gov",
-    "name_value": "benefits.va.gov\nbenefits.vba.va.gov\nblogs.va.gov\ndocs.lms.va.gov\ndownloads.va.gov\nerror.vba.va.gov\nhmisrepository.va.gov\nhomeloans.va.gov\ninquiry.vba.va.gov\nvabenefits.vba.va.gov\nvaonce.vba.va.gov\nvba.va.gov\nvrss.va.gov\nwarms.vba.va.gov\nwww.benefits.va.gov\nwww.benefits.vba.va.gov\nwww.blogs.va.gov\nwww.docs.lms.va.gov\nwww.downloads.va.gov\nwww.error.vba.va.gov\nwww.hmisrepository.va.gov\nwww.homeloans.va.gov\nwww.inquiry.vba.va.gov\nwww.vabenefits.vba.va.gov\nwww.vaonce.vba.va.gov\nwww.vba.va.gov\nwww.vrss.va.gov\nwww.warms.vba.va.gov",
-    "id": 16566265205,
-    "entry_timestamp": "2025-02-06T20:39:39.429",
-    "not_before": "2025-02-06T00:00:00",
-    "not_after": "2026-02-05T23:59:59",
-    "serial_number": "0f1b96cb0a54a826252d1f46967bed16",
-    "result_count": 29
-  },
-  {
     "issuer_ca_id": 1399,
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 Extended Validation Server CA",
     "common_name": "vapnsevspmn.vc.va.gov",
@@ -6766,18 +6766,6 @@
     "not_after": "2026-02-22T23:59:59",
     "serial_number": "024905e76676476aa01089826a25f122",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "www.myhealth.va.gov",
-    "name_value": "mhvidp-prod.myhealth.va.gov\nmyhealth.va.gov\nsm.myhealth.va.gov\nwww.myhealthevet.va.gov\nwww.myhealth.va.gov\nwww.myhealthyvet.va.gov",
-    "id": 16267134800,
-    "entry_timestamp": "2025-01-16T16:53:50.463",
-    "not_before": "2025-01-16T00:00:00",
-    "not_after": "2026-02-05T23:59:59",
-    "serial_number": "0b5fc38ec89127177d374f34dd28b92c",
-    "result_count": 7
   },
   {
     "issuer_ca_id": 1399,
