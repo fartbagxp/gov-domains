@@ -2,6 +2,30 @@
   {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "*.gateway.cisa.gov",
+    "name_value": "*.development.gateway.cisa.gov\n*.gateway.cisa.gov",
+    "id": 24185849469,
+    "entry_timestamp": "2026-02-04T18:25:14.018",
+    "not_before": "2026-02-04T17:25:13",
+    "not_after": "2026-05-05T18:25:08",
+    "serial_number": "00f53c139cb5f117a4136f60a391ec18dd",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "*.gateway.cisa.gov",
+    "name_value": "*.development.gateway.cisa.gov\n*.gateway.cisa.gov",
+    "id": 24185847152,
+    "entry_timestamp": "2026-02-04T18:25:02.6",
+    "not_before": "2026-02-04T17:25:02",
+    "not_after": "2026-05-05T18:22:42",
+    "serial_number": "0090181c6ef94ec01b111de900b00d089c",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "cisa.gov",
     "name_value": "*.access.cisa.gov\n*.access-dev.cisa.gov\n*.access-uat.cisa.gov\n*.cisa.gov\ncisa.gov\n*.lb.cisa.gov",
     "id": 23929535716,
@@ -1138,54 +1162,6 @@
     "not_after": "2026-02-08T14:25:07",
     "serial_number": "72801c0cdb97ac3013dfdbb922cb0a49",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295809,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
-    "common_name": "protectivedns.cisa.gov",
-    "name_value": "*.ci.protectivedns.cisa.gov\n*.protectivedns.cisa.gov\nprotectivedns.cisa.gov",
-    "id": 22300955745,
-    "entry_timestamp": "2025-11-08T03:59:46.089",
-    "not_before": "2025-11-08T03:01:13",
-    "not_after": "2026-02-06T03:01:12",
-    "serial_number": "06ef8b04a59f149111a77a2d1049a1c97a8d",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 295809,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
-    "common_name": "protectivedns.cisa.gov",
-    "name_value": "*.ci.protectivedns.cisa.gov\n*.protectivedns.cisa.gov\nprotectivedns.cisa.gov",
-    "id": 22300953286,
-    "entry_timestamp": "2025-11-08T03:59:43.917",
-    "not_before": "2025-11-08T03:01:13",
-    "not_after": "2026-02-06T03:01:12",
-    "serial_number": "06ef8b04a59f149111a77a2d1049a1c97a8d",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "protectivedns.cisa.gov",
-    "name_value": "*.ci.protectivedns.cisa.gov\n*.protectivedns.cisa.gov\nprotectivedns.cisa.gov",
-    "id": 22300952637,
-    "entry_timestamp": "2025-11-08T03:59:36.011",
-    "not_before": "2025-11-08T03:01:03",
-    "not_after": "2026-02-06T03:01:02",
-    "serial_number": "05c246dbc637cffa32b7f075cb8ba5edc7a3",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "protectivedns.cisa.gov",
-    "name_value": "*.ci.protectivedns.cisa.gov\n*.protectivedns.cisa.gov\nprotectivedns.cisa.gov",
-    "id": 22300955899,
-    "entry_timestamp": "2025-11-08T03:59:33.688",
-    "not_before": "2025-11-08T03:01:03",
-    "not_after": "2026-02-06T03:01:02",
-    "serial_number": "05c246dbc637cffa32b7f075cb8ba5edc7a3",
-    "result_count": 4
   },
   {
     "issuer_ca_id": 185748,
