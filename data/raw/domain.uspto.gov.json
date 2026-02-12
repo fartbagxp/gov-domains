@@ -1,5 +1,101 @@
 [
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "fedmt-apps-ext-pvt.etc.uspto.gov",
+    "name_value": "fedmt-apps-ext-pvt.etc.uspto.gov",
+    "id": 24339442145,
+    "entry_timestamp": "2026-02-11T18:45:02.293",
+    "not_before": "2026-02-11T00:00:00",
+    "not_after": "2027-02-10T23:59:59",
+    "serial_number": "03f1a45be27937be300e28230b3c2d94",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "fedmt-apps-ext-prod.uspto.gov",
+    "name_value": "fedmt-apps-ext-prod.uspto.gov",
+    "id": 24336198805,
+    "entry_timestamp": "2026-02-11T15:39:02.312",
+    "not_before": "2026-02-11T00:00:00",
+    "not_after": "2027-02-10T23:59:59",
+    "serial_number": "0d2e0bfa7bbb1653189b018cde1f8946",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "observe.tm-examtrs.awslab.uspto.gov",
+    "name_value": "observe.tm-examtrs.awslab.uspto.gov\ntelemetry.tm-examtrs.awslab.uspto.gov",
+    "id": 24334378141,
+    "entry_timestamp": "2026-02-11T14:10:48.784",
+    "not_before": "2026-02-11T00:00:00",
+    "not_after": "2027-03-12T23:59:59",
+    "serial_number": "050dcc269dbb415a7595723547c93617",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "observe.tm-examtrs.aws.uspto.gov",
+    "name_value": "observe.tm-examtrs.aws.uspto.gov\ntelemetry.tm-examtrs.aws.uspto.gov",
+    "id": 24319007860,
+    "entry_timestamp": "2026-02-10T22:06:35.847",
+    "not_before": "2026-02-10T00:00:00",
+    "not_after": "2027-03-11T23:59:59",
+    "serial_number": "0ad510aeb87617e17e37c0ccc69852a3",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "trn-www-cms.uspto.gov",
+    "name_value": "trn-www-cms.uspto.gov",
+    "id": 24317963438,
+    "entry_timestamp": "2026-02-10T20:55:45.835",
+    "not_before": "2026-02-10T00:00:00",
+    "not_after": "2027-03-11T23:59:59",
+    "serial_number": "0cea5657fce1f99899f440692aba6a66",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "tm-eog-dev.etc.uspto.gov",
+    "name_value": "eog-tmng-pvt.etc.uspto.gov\neog-tmng-sit.etc.uspto.gov\ntm-eog-dev.etc.uspto.gov\ntm-eog-pvt.etc.uspto.gov\ntm-eog-service-dev.etc.uspto.gov\ntm-eog-service-internal-dev.etc.uspto.gov\ntm-eog-service-internal-pvt.etc.uspto.gov\ntm-eog-service-pvt.etc.uspto.gov\ntmng-eog.pvt.uspto.gov\ntmng-eog.sit.uspto.gov",
+    "id": 24316508173,
+    "entry_timestamp": "2026-02-10T19:22:11.727",
+    "not_before": "2026-02-10T00:00:00",
+    "not_after": "2027-02-09T23:59:59",
+    "serial_number": "0bad888cd5f6ca1b6a80c8510d9ae2bd",
+    "result_count": 11
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "test-www-cms.etc.uspto.gov",
+    "name_value": "test-www-cms.etc.uspto.gov",
+    "id": 24315445001,
+    "entry_timestamp": "2026-02-10T18:20:03.913",
+    "not_before": "2026-02-10T00:00:00",
+    "not_after": "2027-03-11T23:59:59",
+    "serial_number": "01c82af43128aa312979a55fe8e218ed",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "dev-www.etc.uspto.gov",
+    "name_value": "dev-www.etc.uspto.gov",
+    "id": 24315153609,
+    "entry_timestamp": "2026-02-10T18:02:53.873",
+    "not_before": "2026-02-10T00:00:00",
+    "not_after": "2027-03-11T23:59:59",
+    "serial_number": "073cd02b1cc6e866700fb17b363c969b",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "etc.uspto.gov",
@@ -6034,17 +6130,5 @@
     "not_after": "2026-02-28T05:00:00",
     "serial_number": "44749a2c2049e10c2301af8a187d0f76",
     "result_count": 14
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "*.etc.uspto.gov",
-    "name_value": "*.etc.uspto.gov",
-    "id": 16195457357,
-    "entry_timestamp": "2025-01-13T10:24:10.182",
-    "not_before": "2025-01-13T00:00:00",
-    "not_after": "2026-02-11T23:59:59",
-    "serial_number": "06b1e767382fab0e6270f00423f57d23",
-    "result_count": 2
   }
 ]

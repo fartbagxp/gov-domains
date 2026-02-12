@@ -1,5 +1,77 @@
 [
   {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "lincs.ed.gov",
+    "name_value": "lincs.ed.gov",
+    "id": 24351628836,
+    "entry_timestamp": "2026-02-12T06:46:07.111",
+    "not_before": "2026-02-12T05:47:36",
+    "not_after": "2026-05-13T05:47:35",
+    "serial_number": "067f330ba3c84bd65c91fa80a14743441a84",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "lincs.ed.gov",
+    "name_value": "lincs.ed.gov",
+    "id": 24351600915,
+    "entry_timestamp": "2026-02-12T06:46:06.27",
+    "not_before": "2026-02-12T05:47:36",
+    "not_after": "2026-05-13T05:47:35",
+    "serial_number": "067f330ba3c84bd65c91fa80a14743441a84",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "lincs.ed.gov",
+    "name_value": "lincs.ed.gov\nwww.lincs.ed.gov",
+    "id": 24351612118,
+    "entry_timestamp": "2026-02-12T06:46:03.425",
+    "not_before": "2026-02-12T05:47:33",
+    "not_after": "2026-05-13T05:47:32",
+    "serial_number": "062d1c98bbf6f97fafbcb7101950b29ed721",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "lincs.ed.gov",
+    "name_value": "lincs.ed.gov\nwww.lincs.ed.gov",
+    "id": 24351603756,
+    "entry_timestamp": "2026-02-12T06:46:03.206",
+    "not_before": "2026-02-12T05:47:33",
+    "not_after": "2026-05-13T05:47:32",
+    "serial_number": "062d1c98bbf6f97fafbcb7101950b29ed721",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 62123,
+    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
+    "common_name": "sites.ed.gov",
+    "name_value": "sites.ed.gov",
+    "id": 24334468650,
+    "entry_timestamp": "2026-02-11T14:14:24.161",
+    "not_before": "2025-12-22T00:00:00",
+    "not_after": "2026-06-22T23:59:59",
+    "serial_number": "0d75cbbee71cc73565daf6af9bbf0e97",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "sites.ed.gov",
+    "name_value": "sites.ed.gov\nwww.sites.ed.gov",
+    "id": 24334400115,
+    "entry_timestamp": "2026-02-11T14:12:14.61",
+    "not_before": "2026-02-11T00:00:00",
+    "not_after": "2027-02-10T23:59:59",
+    "serial_number": "03dcb6304c5f6d1a832fd0b1699e8286",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 295817,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "www.lincs.ed.gov",
@@ -4908,54 +4980,6 @@
     "result_count": 22
   },
   {
-    "issuer_ca_id": 239799,
-    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
-    "common_name": "www.ed.gov",
-    "name_value": "www.ed.gov",
-    "id": 20270591409,
-    "entry_timestamp": "2025-08-11T17:27:13.721",
-    "not_before": "2025-08-11T00:00:00",
-    "not_after": "2026-02-11T23:59:59",
-    "serial_number": "0ded666fa897ab3609dcf218c44e98cd",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 239799,
-    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
-    "common_name": "oese.ed.gov",
-    "name_value": "oese.ed.gov",
-    "id": 20270592391,
-    "entry_timestamp": "2025-08-11T17:27:11.226",
-    "not_before": "2025-08-11T00:00:00",
-    "not_after": "2026-02-11T23:59:59",
-    "serial_number": "02f3ea3932d6a9735adc56fad63839f2",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 239799,
-    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
-    "common_name": "www2.ed.gov",
-    "name_value": "www2.ed.gov",
-    "id": 20270591131,
-    "entry_timestamp": "2025-08-11T17:27:10.755",
-    "not_before": "2025-08-11T00:00:00",
-    "not_after": "2026-02-11T23:59:59",
-    "serial_number": "0dc65e7d81be2a12e03b5944f84ca813",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 239799,
-    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
-    "common_name": "beta-ext.ed.gov",
-    "name_value": "beta-ext.ed.gov",
-    "id": 20270350015,
-    "entry_timestamp": "2025-08-11T17:11:52.902",
-    "not_before": "2025-08-11T00:00:00",
-    "not_after": "2026-02-11T23:59:59",
-    "serial_number": "0b8d2df5250ed0bd89285c1ece69eb5f",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "*.ed.gov",
@@ -7054,18 +7078,6 @@
     "not_after": "2026-03-02T23:59:59",
     "serial_number": "00a8aa6821f73f0d2e68fb20a09244cf60",
     "result_count": 13
-  },
-  {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "usmaglkfng900.ed.gov",
-    "name_value": "fmsdev.ed.gov\nfmsnfp.ed.gov\nfmsnparchive.ed.gov\nfmspay.ed.gov\nfmsstg.ed.gov\nfmstst.ed.gov\nfmsuat.ed.gov\nusmaglkfng900.ed.gov",
-    "id": 16468211008,
-    "entry_timestamp": "2025-01-31T13:46:34.719",
-    "not_before": "2025-01-31T00:00:00",
-    "not_after": "2026-02-11T23:59:59",
-    "serial_number": "0bc31248a50250c3063ac3ce53ae7a2e",
-    "result_count": 9
   },
   {
     "issuer_ca_id": 105493,
