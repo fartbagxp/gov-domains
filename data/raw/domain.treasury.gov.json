@@ -1,5 +1,41 @@
 [
   {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "kids-usmint-gov.cms.awsdev.treasury.gov",
+    "name_value": "kids-usmint-gov.cms.awsdev.treasury.gov",
+    "id": 24386353678,
+    "entry_timestamp": "2026-02-13T16:47:32.244",
+    "not_before": "2026-02-13T00:00:00",
+    "not_after": "2027-03-14T23:59:59",
+    "serial_number": "0b56c061bf5d6593a3222ee4e88a11a3",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "dev-occ.cms.awsdev.treasury.gov",
+    "name_value": "dev-occ.cms.awsdev.treasury.gov",
+    "id": 24386099525,
+    "entry_timestamp": "2026-02-13T16:32:56.279",
+    "not_before": "2026-02-13T00:00:00",
+    "not_after": "2027-03-14T23:59:59",
+    "serial_number": "01af531b82cb9432ad2b9f578a56fbfa",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "dev-occ.cms.awsdev.treasury.gov",
+    "name_value": "dev-occ.cms.awsdev.treasury.gov",
+    "id": 24385997745,
+    "entry_timestamp": "2026-02-13T16:29:03.209",
+    "not_before": "2026-02-13T00:00:00",
+    "not_after": "2027-03-14T23:59:59",
+    "serial_number": "01af531b82cb9432ad2b9f578a56fbfa",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 385512,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
     "common_name": "fahc-prod-bog.tcp.for.fiscal.treasury.gov",
@@ -46,18 +82,6 @@
     "not_after": "2027-02-13T23:59:59",
     "serial_number": "009f90f9b274870b322a0e5f9cf8909b9b",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "oig.treasury.gov",
-    "name_value": "dev.oig.treasury.gov\nedit.oig.treasury.gov\noig.treasury.gov\nstg.oig.treasury.gov\nuat.oig.treasury.gov",
-    "id": 24366938729,
-    "entry_timestamp": "2026-02-12T22:07:13.097",
-    "not_before": "2026-02-12T21:08:41",
-    "not_after": "2026-05-13T21:08:40",
-    "serial_number": "0584ec7da0a5c66046f7745a76507d136624",
-    "result_count": 6
   },
   {
     "issuer_ca_id": 295817,
@@ -748,36 +772,12 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "home.treasury.gov",
     "name_value": "dev.treasury.gov\nedit.stg.treasury.gov\nedit.treasury.gov\nhome.treasury.gov\nstg.treasury.gov\nuat.treasury.gov",
-    "id": 24210290017,
-    "entry_timestamp": "2026-02-05T21:43:24.474",
-    "not_before": "2026-02-05T20:44:53",
-    "not_after": "2026-05-06T20:44:52",
-    "serial_number": "064416d7be6b8bd20ad58677c29150ce07f6",
-    "result_count": 7
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "home.treasury.gov",
-    "name_value": "dev.treasury.gov\nedit.stg.treasury.gov\nedit.treasury.gov\nhome.treasury.gov\nstg.treasury.gov\nuat.treasury.gov",
     "id": 24210290347,
     "entry_timestamp": "2026-02-05T21:43:24.079",
     "not_before": "2026-02-05T20:44:53",
     "not_after": "2026-05-06T20:44:52",
     "serial_number": "064416d7be6b8bd20ad58677c29150ce07f6",
     "result_count": 7
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "tei.treasury.gov",
-    "name_value": "dev.tei.treasury.gov\nedit.tei.treasury.gov\nhome.tei.treasury.gov\nstg.tei.treasury.gov\ntei.treasury.gov",
-    "id": 24208115184,
-    "entry_timestamp": "2026-02-05T19:10:13.272",
-    "not_before": "2026-02-05T18:11:42",
-    "not_after": "2026-05-06T18:11:41",
-    "serial_number": "062114ab39cbfc61ab5c1e346c081e59b4b1",
-    "result_count": 6
   },
   {
     "issuer_ca_id": 295816,
@@ -1084,18 +1084,6 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "www.ustreas.gov",
     "name_value": "data.treasury.gov\nforms.treasury.gov\nticdata.treasury.gov",
-    "id": 24163352823,
-    "entry_timestamp": "2026-02-03T17:28:08.741",
-    "not_before": "2026-02-03T16:29:38",
-    "not_after": "2026-05-04T16:29:37",
-    "serial_number": "0576f4a5a38684a501351d75884dc7fb2342",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "www.ustreas.gov",
-    "name_value": "data.treasury.gov\nforms.treasury.gov\nticdata.treasury.gov",
     "id": 24163346369,
     "entry_timestamp": "2026-02-03T17:28:08.559",
     "not_before": "2026-02-03T16:29:38",
@@ -1180,18 +1168,6 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "irs.treasury.gov",
     "name_value": "irsoversightboard.treasury.gov\nirs.treasury.gov\nwww.irsoversightboard.treasury.gov",
-    "id": 24144146688,
-    "entry_timestamp": "2026-02-02T19:23:16.945",
-    "not_before": "2026-02-02T18:24:45",
-    "not_after": "2026-05-03T18:24:44",
-    "serial_number": "0596de2950cedfbfa0fe3d95714de2000ff8",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "irs.treasury.gov",
-    "name_value": "irsoversightboard.treasury.gov\nirs.treasury.gov\nwww.irsoversightboard.treasury.gov",
     "id": 24144129726,
     "entry_timestamp": "2026-02-02T19:23:15.993",
     "not_before": "2026-02-02T18:24:45",
@@ -1246,18 +1222,6 @@
     "not_after": "2026-04-30T08:01:14",
     "serial_number": "05183887e176a51a4b10a8606cf81d5bc219",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "www.cir.fiscal.treasury.gov",
-    "name_value": "cir.fiscal.treasury.gov\nqa.cir.fiscal.treasury.gov\nwww.cir.fiscal.treasury.gov\nwww.qa.cir.fiscal.treasury.gov",
-    "id": 24069475193,
-    "entry_timestamp": "2026-01-30T02:35:49.891",
-    "not_before": "2026-01-30T01:37:19",
-    "not_after": "2026-04-30T01:37:18",
-    "serial_number": "0573ddfc319af4b89a80ff4deba108bcf249",
-    "result_count": 5
   },
   {
     "issuer_ca_id": 295817,
@@ -1438,18 +1402,6 @@
     "not_after": "2027-02-26T23:59:59",
     "serial_number": "0ce5d3408420bd97a6dcd3685b309756",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "qa.ipp.for.fiscal.treasury.gov",
-    "name_value": "qa.ipp.for.fiscal.treasury.gov\nstgqac.ipp.for.fiscal.treasury.gov\nstgqaf.ipp.for.fiscal.treasury.gov",
-    "id": 24021589093,
-    "entry_timestamp": "2026-01-27T23:10:20.912",
-    "not_before": "2026-01-27T22:11:50",
-    "not_after": "2026-04-27T22:11:49",
-    "serial_number": "05b729673562552aa0f4e481870601196d28",
-    "result_count": 4
   },
   {
     "issuer_ca_id": 295816,
@@ -2104,18 +2056,6 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "stg.fiscal.treasury.gov",
     "name_value": "dev.fiscal.treasury.gov\nedit.fiscal.treasury.gov\nedit.stg.fiscal.treasury.gov\nstg.fiscal.treasury.gov\nuat.fiscal.treasury.gov",
-    "id": 23769068833,
-    "entry_timestamp": "2026-01-14T20:36:44.868",
-    "not_before": "2026-01-14T19:38:14",
-    "not_after": "2026-04-14T19:38:13",
-    "serial_number": "063fd26d8332b28c6ce2a6498c3ce75dfa03",
-    "result_count": 6
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "stg.fiscal.treasury.gov",
-    "name_value": "dev.fiscal.treasury.gov\nedit.fiscal.treasury.gov\nedit.stg.fiscal.treasury.gov\nstg.fiscal.treasury.gov\nuat.fiscal.treasury.gov",
     "id": 23769071587,
     "entry_timestamp": "2026-01-14T20:36:44.485",
     "not_before": "2026-01-14T19:38:14",
@@ -2146,18 +2086,6 @@
     "not_after": "2027-01-31T23:59:59",
     "serial_number": "00b990dfb8465b2ad95d90df35e1a6fbe9",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "primary.app1.testapp.for.fiscal.treasury.gov",
-    "name_value": "primary.app1.testapp.for.fiscal.treasury.gov\nsecondary.app1.testapp.for.fiscal.treasury.gov",
-    "id": 23764781741,
-    "entry_timestamp": "2026-01-14T15:37:05.668",
-    "not_before": "2026-01-14T14:38:35",
-    "not_after": "2026-04-14T14:38:34",
-    "serial_number": "06524e84caa8843dbd649c43f51899777e19",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 295816,
@@ -2464,18 +2392,6 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "auth.dev.fpki-validator.awsdev.treasury.gov",
     "name_value": "api.dev.fpki-validator.awsdev.treasury.gov\nauth.dev.fpki-validator.awsdev.treasury.gov\ntest-app.dev.fpki-validator.awsdev.treasury.gov",
-    "id": 23643854932,
-    "entry_timestamp": "2026-01-09T00:35:38.1",
-    "not_before": "2026-01-08T23:37:07",
-    "not_after": "2026-04-08T23:37:06",
-    "serial_number": "06562840a62a7a38fa4a5a802edc91b7ca16",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "auth.dev.fpki-validator.awsdev.treasury.gov",
-    "name_value": "api.dev.fpki-validator.awsdev.treasury.gov\nauth.dev.fpki-validator.awsdev.treasury.gov\ntest-app.dev.fpki-validator.awsdev.treasury.gov",
     "id": 23643826592,
     "entry_timestamp": "2026-01-09T00:35:37.567",
     "not_before": "2026-01-08T23:37:07",
@@ -2752,18 +2668,6 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "tfx.treasury.gov",
     "name_value": "dev.tfx.treasury.gov\nedit.tfx.treasury.gov\nstg.tfx.treasury.gov\ntfx.treasury.gov\nuat.tfx.treasury.gov",
-    "id": 23569969053,
-    "entry_timestamp": "2026-01-05T16:48:08.812",
-    "not_before": "2026-01-05T15:49:36",
-    "not_after": "2026-04-05T15:49:35",
-    "serial_number": "05c4e6d3fb94e169b8c2907a404da42b87e1",
-    "result_count": 6
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "tfx.treasury.gov",
-    "name_value": "dev.tfx.treasury.gov\nedit.tfx.treasury.gov\nstg.tfx.treasury.gov\ntfx.treasury.gov\nuat.tfx.treasury.gov",
     "id": 23569971638,
     "entry_timestamp": "2026-01-05T16:48:06.624",
     "not_before": "2026-01-05T15:49:36",
@@ -2788,36 +2692,12 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "ofac.treasury.gov",
     "name_value": "dev.ofac.treasury.gov\nedit.ofac.treasury.gov\nofac.treasury.gov\nstg.ofac.treasury.gov\nuat.ofac.treasury.gov",
-    "id": 23569802006,
-    "entry_timestamp": "2026-01-05T16:37:33.649",
-    "not_before": "2026-01-05T15:39:03",
-    "not_after": "2026-04-05T15:39:02",
-    "serial_number": "058389699f8ec173b1dc7e6195e18854d194",
-    "result_count": 6
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "ofac.treasury.gov",
-    "name_value": "dev.ofac.treasury.gov\nedit.ofac.treasury.gov\nofac.treasury.gov\nstg.ofac.treasury.gov\nuat.ofac.treasury.gov",
     "id": 23569814653,
     "entry_timestamp": "2026-01-05T16:37:33.429",
     "not_before": "2026-01-05T15:39:03",
     "not_after": "2026-04-05T15:39:02",
     "serial_number": "058389699f8ec173b1dc7e6195e18854d194",
     "result_count": 6
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "www.bep.gov",
-    "name_value": "thenew10.treasury.gov\nwww.thenew10.treasury.gov",
-    "id": 23569734618,
-    "entry_timestamp": "2026-01-05T16:33:46.609",
-    "not_before": "2026-01-05T15:35:16",
-    "not_after": "2026-04-05T15:35:15",
-    "serial_number": "050e4d374791a03ed6f531304fda875c7399",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 295816,
@@ -3142,18 +3022,6 @@
     "not_after": "2027-01-20T23:59:59",
     "serial_number": "0363afa29e3818fde4b472284e152691",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "auth.fpki-validator.awsdev.treasury.gov",
-    "name_value": "api.fpki-validator.awsdev.treasury.gov\nauth.fpki-validator.awsdev.treasury.gov",
-    "id": 23299474254,
-    "entry_timestamp": "2025-12-22T18:42:23.556",
-    "not_before": "2025-12-22T17:43:52",
-    "not_after": "2026-03-22T17:43:51",
-    "serial_number": "06bc38756a66b472f1899868f18d59410079",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 295817,
@@ -3628,18 +3496,6 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "stage.app1.testapp.for.fiscal.treasury.gov",
     "name_value": "stage-alt.app1.testapp.for.fiscal.treasury.gov\nstage.app1.testapp.for.fiscal.treasury.gov",
-    "id": 23164359810,
-    "entry_timestamp": "2025-12-16T21:58:31.701",
-    "not_before": "2025-12-16T21:00:01",
-    "not_after": "2026-03-16T21:00:00",
-    "serial_number": "052f2a0e23f4526ce8b6a5eeb4d781a686c9",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "stage.app1.testapp.for.fiscal.treasury.gov",
-    "name_value": "stage-alt.app1.testapp.for.fiscal.treasury.gov\nstage.app1.testapp.for.fiscal.treasury.gov",
     "id": 23164336273,
     "entry_timestamp": "2025-12-16T21:58:31.361",
     "not_before": "2025-12-16T21:00:01",
@@ -4072,18 +3928,6 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "oig.treasury.gov",
     "name_value": "dev.oig.treasury.gov\nedit.oig.treasury.gov\noig.treasury.gov\nstg.oig.treasury.gov\nuat.oig.treasury.gov",
-    "id": 22924300778,
-    "entry_timestamp": "2025-12-04T23:03:46.943",
-    "not_before": "2025-12-04T22:05:14",
-    "not_after": "2026-03-04T22:05:13",
-    "serial_number": "053d3bf1a843735d0e5169538d6a504814d9",
-    "result_count": 6
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "oig.treasury.gov",
-    "name_value": "dev.oig.treasury.gov\nedit.oig.treasury.gov\noig.treasury.gov\nstg.oig.treasury.gov\nuat.oig.treasury.gov",
     "id": 22897800857,
     "entry_timestamp": "2025-12-04T23:03:44.708",
     "not_before": "2025-12-04T22:05:14",
@@ -4444,18 +4288,6 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "tei.treasury.gov",
     "name_value": "dev.tei.treasury.gov\nedit.tei.treasury.gov\nhome.tei.treasury.gov\nstg.tei.treasury.gov\ntei.treasury.gov",
-    "id": 22828798024,
-    "entry_timestamp": "2025-11-27T20:04:32.566",
-    "not_before": "2025-11-27T19:06:00",
-    "not_after": "2026-02-25T19:05:59",
-    "serial_number": "05c436b9d7b8e0694a64ee445327fc96aa11",
-    "result_count": 6
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "tei.treasury.gov",
-    "name_value": "dev.tei.treasury.gov\nedit.tei.treasury.gov\nhome.tei.treasury.gov\nstg.tei.treasury.gov\ntei.treasury.gov",
     "id": 22770230847,
     "entry_timestamp": "2025-11-27T20:04:30.199",
     "not_before": "2025-11-27T19:06:00",
@@ -4486,18 +4318,6 @@
     "not_after": "2026-02-23T17:26:23",
     "serial_number": "05651dd58729469722647cd984cd7118127d",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "home.treasury.gov",
-    "name_value": "dev.treasury.gov\nedit.stg.treasury.gov\nedit.treasury.gov\nhome.treasury.gov\nstg.treasury.gov\nuat.treasury.gov",
-    "id": 22792949903,
-    "entry_timestamp": "2025-11-25T17:35:59.641",
-    "not_before": "2025-11-25T16:37:29",
-    "not_after": "2026-02-23T16:37:28",
-    "serial_number": "05aac3f7e61ccc5e2873e0ec66593104aead",
-    "result_count": 7
   },
   {
     "issuer_ca_id": 295817,
@@ -4606,18 +4426,6 @@
     "not_after": "2026-02-22T19:25:50",
     "serial_number": "06d2f0b174d2f04c1112bde67337c4dafe3e",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "irs.treasury.gov",
-    "name_value": "irsoversightboard.treasury.gov\nirs.treasury.gov\nwww.irsoversightboard.treasury.gov",
-    "id": 22716177528,
-    "entry_timestamp": "2025-11-24T20:19:28.618",
-    "not_before": "2025-11-24T19:20:58",
-    "not_after": "2026-02-22T19:20:57",
-    "serial_number": "06b3c6c007772104d271b02620e0058c305f",
-    "result_count": 4
   },
   {
     "issuer_ca_id": 295817,
@@ -4918,18 +4726,6 @@
     "not_after": "2026-02-19T08:57:26",
     "serial_number": "06e526d83817f13803b152e6aedc18efac9a",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "www.cir.fiscal.treasury.gov",
-    "name_value": "cir.fiscal.treasury.gov\nqa.cir.fiscal.treasury.gov\nwww.cir.fiscal.treasury.gov\nwww.qa.cir.fiscal.treasury.gov",
-    "id": 22646573781,
-    "entry_timestamp": "2025-11-21T03:32:47.457",
-    "not_before": "2025-11-21T02:34:16",
-    "not_after": "2026-02-19T02:34:15",
-    "serial_number": "06bc536ae6698f8fea22f65a49c5dc8c81c1",
-    "result_count": 5
   },
   {
     "issuer_ca_id": 295817,
@@ -5508,30 +5304,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "treasury.gov",
-    "name_value": "*.treasury.gov\ntreasury.gov",
-    "id": 22539946575,
-    "entry_timestamp": "2025-11-17T14:19:48.041",
-    "not_before": "2025-11-17T13:19:47",
-    "not_after": "2026-02-15T14:19:31",
-    "serial_number": "00c89b953db6e588e80ee58f20eb5cf84e",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "treasury.gov",
-    "name_value": "*.treasury.gov\ntreasury.gov",
-    "id": 22539928740,
-    "entry_timestamp": "2025-11-17T14:19:26.182",
-    "not_before": "2025-11-17T13:19:25",
-    "not_after": "2026-02-15T14:17:52",
-    "serial_number": "178962d58fc1e09f0d2ab605380b31bc",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "api-preprod.eaglecash.fiscal.treasury.gov",
@@ -5626,18 +5398,6 @@
     "not_after": "2026-03-01T08:32:26",
     "serial_number": "24136b9b9dea2497c31eca60c1b5a492",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "portal.treasury.gov",
-    "name_value": "appointment.treasury.gov\nevents.treasury.gov\nfcrs.treasury.gov\nfio.treasury.gov\nportal.treasury.gov\nsippra.treasury.gov\nwww.portal.treasury.gov",
-    "id": 22503649819,
-    "entry_timestamp": "2025-11-16T04:45:11.784",
-    "not_before": "2025-01-16T11:37:21",
-    "not_after": "2026-02-15T05:00:00",
-    "serial_number": "1aab9a4495637a7340a1dda3b7baea2f",
-    "result_count": 8
   },
   {
     "issuer_ca_id": 385512,
@@ -14078,18 +13838,6 @@
   {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "fahc-stg.tcp.for.fiscal.treasury.gov",
-    "name_value": "dq-service.stg.tcp.for.fiscal.treasury.gov\ndq-ui.stg.tcp.for.fiscal.treasury.gov\nfahc-stg.tcp.for.fiscal.treasury.gov\nservice.stg.tcp.for.fiscal.treasury.gov\nwww.fahc-stg.tcp.for.fiscal.treasury.gov\nxhub.stg.tcp.for.fiscal.treasury.gov",
-    "id": 17924831809,
-    "entry_timestamp": "2025-04-18T16:25:51.78",
-    "not_before": "2025-04-18T16:15:50",
-    "not_after": "2026-02-14T16:00:58",
-    "serial_number": "123babb3e49d055aff8df463e8acf3d0",
-    "result_count": 7
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "My.treasury.gov",
     "name_value": "Apps-se.treasury.gov\nApps.treasury.gov\nFederation-se.treasury.gov\nFederation.treasury.gov\nFedFiscalService-se.treasury.gov\nFedFiscalService.treasury.gov\nFiscalService-se.treasury.gov\nFiscalService.treasury.gov\nMy-se.treasury.gov\nMySites-se.treasury.gov\nMySites.treasury.gov\nMy.treasury.gov\nOfac-prod.treasury.gov\nOfac-se.treasury.gov\nOfs.treasury.gov\nOneCT-se.treasury.gov\nOneCT.treasury.gov\nRc-se.treasury.gov\nRc.treasury.gov",
     "id": 17920355004,
@@ -15350,54 +15098,6 @@
   {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "fahc-stg.tcp.for.fiscal.treasury.gov",
-    "name_value": "fahc-stg.tcp.for.fiscal.treasury.gov\nservice.stg.tcp.for.fiscal.treasury.gov\nwww.fahc-stg.tcp.for.fiscal.treasury.gov\nxhub.stg.tcp.for.fiscal.treasury.gov",
-    "id": 16737328196,
-    "entry_timestamp": "2025-02-14T16:04:17.388",
-    "not_before": "2025-02-14T15:54:15",
-    "not_after": "2026-02-14T16:00:58",
-    "serial_number": "6e64584a3be84305b6107706264f4c43",
-    "result_count": 5
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "edgevtc02.treasury.gov",
-    "name_value": "edgevtc02.treasury.gov\njoin.treasury.gov",
-    "id": 16737254505,
-    "entry_timestamp": "2025-02-14T15:58:28.623",
-    "not_before": "2025-02-14T15:48:27",
-    "not_after": "2026-02-14T15:54:35",
-    "serial_number": "4caae88519a23b34498538b6a74ef120",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "fahc-prod.cars.for.fiscal.treasury.gov",
-    "name_value": "cars.for.fiscal.treasury.gov\ndbhawk.cars.for.fiscal.treasury.gov\nfahc-prod.cars.for.fiscal.treasury.gov\nnext.cars.for.fiscal.treasury.gov\nwww.cars.for.fiscal.treasury.gov\nwww.fahc-prod.cars.for.fiscal.treasury.gov",
-    "id": 16718936201,
-    "entry_timestamp": "2025-02-13T17:26:22.722",
-    "not_before": "2025-02-13T17:16:21",
-    "not_after": "2026-02-13T17:21:39",
-    "serial_number": "4f62b3d3261a2ceb0d260a01867c7d0b",
-    "result_count": 7
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "fcnprdbora14.fiscal.treasury.gov",
-    "name_value": "fcnprdbora14.fiscal.treasury.gov",
-    "id": 16718294347,
-    "entry_timestamp": "2025-02-13T16:38:54.272",
-    "not_before": "2025-02-13T16:28:53",
-    "not_after": "2026-02-13T16:32:24",
-    "serial_number": "5d3750f89b4644de67b01a816332dbbf",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "fcnprdbora10.fiscal.treasury.gov",
     "name_value": "fcnprdbora10.fiscal.treasury.gov",
     "id": 16718294632,
@@ -15682,17 +15382,5 @@
     "not_after": "2026-02-17T05:00:00",
     "serial_number": "39e69deb9d42f3ebc582395c8d431a59",
     "result_count": 4
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "portal.treasury.gov",
-    "name_value": "appointment.treasury.gov\nevents.treasury.gov\nfcrs.treasury.gov\nfio.treasury.gov\nportal.treasury.gov\nsippra.treasury.gov\nwww.portal.treasury.gov",
-    "id": 16262626190,
-    "entry_timestamp": "2025-01-16T11:47:22.906",
-    "not_before": "2025-01-16T11:37:21",
-    "not_after": "2026-02-15T05:00:00",
-    "serial_number": "1aab9a4495637a7340a1dda3b7baea2f",
-    "result_count": 8
   }
 ]
