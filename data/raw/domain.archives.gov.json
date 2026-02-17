@@ -1,5 +1,17 @@
 [
   {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "qa.hoover.archives.gov",
+    "name_value": "*.qa.hoover.archives.gov\nqa.hoover.archives.gov",
+    "id": 24396971639,
+    "entry_timestamp": "2026-02-14T03:28:06.291",
+    "not_before": "2026-02-14T00:00:00",
+    "not_after": "2027-03-15T23:59:59",
+    "serial_number": "092e6b8db27a59a5d606b272c32c8d31",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 295817,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "d250.archives.gov",
@@ -1718,18 +1730,6 @@
   {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "history.gov",
-    "name_value": "historyhub.archives.gov\nwww.historyhub.archives.gov",
-    "id": 19509701382,
-    "entry_timestamp": "2025-07-07T14:24:18.55",
-    "not_before": "2025-01-16T15:53:24",
-    "not_after": "2026-02-16T05:00:00",
-    "serial_number": "2c711f1ecc03e102a0c50663996f58b9",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "nixonlibrary.gov",
     "name_value": "nixon.archives.gov\nwww.nixon.archives.gov",
     "id": 19508455194,
@@ -2301,18 +2301,6 @@
     "not_before": "2025-01-28T00:00:00",
     "not_after": "2026-02-27T23:59:59",
     "serial_number": "0d4e5dffc7003db322a865976c681cbf",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "history.gov",
-    "name_value": "historyhub.archives.gov\nwww.historyhub.archives.gov",
-    "id": 16266378988,
-    "entry_timestamp": "2025-01-16T16:03:25.786",
-    "not_before": "2025-01-16T15:53:24",
-    "not_after": "2026-02-16T05:00:00",
-    "serial_number": "2c711f1ecc03e102a0c50663996f58b9",
     "result_count": 2
   }
 ]
