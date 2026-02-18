@@ -1,5 +1,17 @@
 [
   {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "*.prod.ftc.mcaas.fcs.gsa.gov",
+    "name_value": "*.prod.ftc.mcaas.fcs.gsa.gov",
+    "id": 24475833050,
+    "entry_timestamp": "2026-02-17T21:44:31.256",
+    "not_before": "2026-02-17T00:00:00",
+    "not_after": "2027-03-18T23:59:59",
+    "serial_number": "013411e43c84b90426bc643e15fbb634",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 295809,
     "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
     "common_name": "wits3-agency-pricer.test.nhc.vpcaas.fcs.gsa.gov",
@@ -130,18 +142,6 @@
     "not_after": "2027-03-18T23:59:59",
     "serial_number": "093dec4f745aa169c4a531fde29354d5",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 436902,
-    "issuer_name": "C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2026 Q1",
-    "common_name": "imperva.com",
-    "name_value": "securefoia.gsa.gov",
-    "id": 24453108851,
-    "entry_timestamp": "2026-02-16T20:40:44.45",
-    "not_before": "2026-02-16T20:40:42",
-    "not_after": "2026-02-17T20:40:42",
-    "serial_number": "01e69ad859093a90720d1ff5b7dd5243",
-    "result_count": 1
   },
   {
     "issuer_ca_id": 246719,
@@ -7668,54 +7668,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "10x.gsa.gov",
-    "name_value": "10x.gsa.gov",
-    "id": 22635887345,
-    "entry_timestamp": "2025-11-20T12:00:25.666",
-    "not_before": "2025-11-20T11:01:53",
-    "not_after": "2026-02-18T11:01:52",
-    "serial_number": "053a98f2e588add9c8adee7958622d1cbfa3",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "ussm.gsa.gov",
-    "name_value": "ussm.gsa.gov",
-    "id": 22617900739,
-    "entry_timestamp": "2025-11-20T12:00:25.661",
-    "not_before": "2025-11-20T11:01:53",
-    "not_after": "2026-02-18T11:01:52",
-    "serial_number": "0553ca4019c85450adbd74346015e110614f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "ussm.gsa.gov",
-    "name_value": "ussm.gsa.gov",
-    "id": 22616960819,
-    "entry_timestamp": "2025-11-20T12:00:23.58",
-    "not_before": "2025-11-20T11:01:53",
-    "not_after": "2026-02-18T11:01:52",
-    "serial_number": "0553ca4019c85450adbd74346015e110614f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "10x.gsa.gov",
-    "name_value": "10x.gsa.gov",
-    "id": 22616965753,
-    "entry_timestamp": "2025-11-20T12:00:23.575",
-    "not_before": "2025-11-20T11:01:53",
-    "not_after": "2026-02-18T11:01:52",
-    "serial_number": "053a98f2e588add9c8adee7958622d1cbfa3",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "jenkins.fss19-dev.fcs.gsa.gov",
@@ -8146,18 +8098,6 @@
     "not_after": "2026-02-25T23:59:59",
     "serial_number": "01985ed5b78bba9e47a3c51a9bd5852c",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "dev.oasisoslc.gsa.gov",
-    "name_value": "dev.oasisoslc.gsa.gov",
-    "id": 22503711719,
-    "entry_timestamp": "2025-11-16T04:48:42.307",
-    "not_before": "2025-01-17T00:00:00",
-    "not_after": "2026-02-17T23:59:59",
-    "serial_number": "08db14ba2e0ea4fe948d481fea8b6a36",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 246719,
@@ -18574,17 +18514,5 @@
     "not_after": "2026-02-18T23:59:59",
     "serial_number": "0c6c9e42608f7892388c6dcef8141f5b",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "dev.oasisoslc.gsa.gov",
-    "name_value": "dev.oasisoslc.gsa.gov",
-    "id": 16285761229,
-    "entry_timestamp": "2025-01-17T14:33:53.796",
-    "not_before": "2025-01-17T00:00:00",
-    "not_after": "2026-02-17T23:59:59",
-    "serial_number": "08db14ba2e0ea4fe948d481fea8b6a36",
-    "result_count": 2
   }
 ]

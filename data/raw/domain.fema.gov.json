@@ -1,5 +1,77 @@
 [
   {
+    "issuer_ca_id": 204407,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
+    "common_name": "atp.aws.fema.gov",
+    "name_value": "*.atp.aws.fema.gov\natp.aws.fema.gov",
+    "id": 24477588298,
+    "entry_timestamp": "2026-02-17T23:51:08.086",
+    "not_before": "2026-02-17T00:00:00",
+    "not_after": "2026-05-18T23:30:53",
+    "serial_number": "20347588a3060be10cde8dbbd92f5bb7",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204407,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
+    "common_name": "atp.aws.fema.gov",
+    "name_value": "*.atp.aws.fema.gov\natp.aws.fema.gov",
+    "id": 24477590670,
+    "entry_timestamp": "2026-02-17T23:51:06.682",
+    "not_before": "2026-02-17T00:00:00",
+    "not_after": "2026-05-18T23:30:53",
+    "serial_number": "20347588a3060be10cde8dbbd92f5bb7",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "atp.aws.fema.gov",
+    "name_value": "*.atp.aws.fema.gov\natp.aws.fema.gov",
+    "id": 24477311303,
+    "entry_timestamp": "2026-02-17T23:30:41.09",
+    "not_before": "2026-02-17T00:00:00",
+    "not_after": "2026-05-18T23:28:12",
+    "serial_number": "0089e68978c46da5cc6f96d17941b7d589",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "atp.aws.fema.gov",
+    "name_value": "*.atp.aws.fema.gov\natp.aws.fema.gov",
+    "id": 24477310796,
+    "entry_timestamp": "2026-02-17T23:30:39.871",
+    "not_before": "2026-02-17T00:00:00",
+    "not_after": "2026-05-18T23:28:12",
+    "serial_number": "0089e68978c46da5cc6f96d17941b7d589",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 62123,
+    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
+    "common_name": "edit-wcms-testint.dhs.gov",
+    "name_value": "edit-beta.fema.gov\nedit-webteamtraining.fema.gov\nwebteamtraining.fema.gov",
+    "id": 24470737158,
+    "entry_timestamp": "2026-02-17T16:22:19.32",
+    "not_before": "2025-10-30T00:00:00",
+    "not_after": "2026-10-31T23:59:59",
+    "serial_number": "0bc565e97c6da1846b33bf0745d59a03",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 62123,
+    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
+    "common_name": "preview.dhs.gov",
+    "name_value": "beta.fema.gov\npreview.fema.gov",
+    "id": 24468746892,
+    "entry_timestamp": "2026-02-17T14:19:49.682",
+    "not_before": "2025-12-28T00:00:00",
+    "not_after": "2027-01-05T23:59:59",
+    "serial_number": "0e5fa873fb737a62b7512dfa713a54e8",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "*.nfipdirect.fema.gov",
@@ -3168,18 +3240,6 @@
     "result_count": 4
   },
   {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "*.stage.nfipdirect.fema.gov",
-    "name_value": "*.stage.nfipdirect.fema.gov\nstage.nfipdirect.fema.gov",
-    "id": 22508557353,
-    "entry_timestamp": "2025-11-16T09:27:42.67",
-    "not_before": "2025-02-18T12:33:15",
-    "not_after": "2026-02-17T14:19:39",
-    "serial_number": "45e2878270ff04f1690290e8f3074171",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 385517,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust EV TLS Issuing RSA CA 2",
     "common_name": "edgepool.vid.fema.gov",
@@ -5589,30 +5649,6 @@
     "not_before": "2025-02-18T13:12:39",
     "not_after": "2026-02-18T13:22:34",
     "serial_number": "340272d7423428baa1be707e758d0b0c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "*.stage.nfipdirect.fema.gov",
-    "name_value": "*.stage.nfipdirect.fema.gov\nstage.nfipdirect.fema.gov",
-    "id": 16766416225,
-    "entry_timestamp": "2025-02-18T12:43:16.493",
-    "not_before": "2025-02-18T12:33:15",
-    "not_after": "2026-02-17T14:19:39",
-    "serial_number": "45e2878270ff04f1690290e8f3074171",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "stage.nfipdirect.fema.gov",
-    "name_value": "stage.nfipdirect.fema.gov",
-    "id": 16759283778,
-    "entry_timestamp": "2025-02-17T14:19:45.211",
-    "not_before": "2025-02-17T14:09:44",
-    "not_after": "2026-02-17T14:19:39",
-    "serial_number": "249a46f3e0102e57fabd28cb7e55af7f",
     "result_count": 2
   }
 ]
