@@ -1,5 +1,65 @@
 [
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "certifiedcopycenter-passive-dmz-alx1.uspto.gov",
+    "name_value": "certifiedcopycenter-passive-dmz-alx1.uspto.gov\ncertifiedcopycenter-passive.uspto.gov",
+    "id": 24500065861,
+    "entry_timestamp": "2026-02-18T23:08:07.743",
+    "not_before": "2026-02-18T00:00:00",
+    "not_after": "2027-02-17T23:59:59",
+    "serial_number": "0ef9696e8eec4d50a6520da4c4baf66e",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 365075,
+    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
+    "common_name": "tsdrapi-dmz-alx1.uspto.gov",
+    "name_value": "tsdrapi-beta.uspto.gov\ntsdrapi-dmz-alx1.uspto.gov\ntsdrapi.uspto.gov",
+    "id": 24499556760,
+    "entry_timestamp": "2026-02-18T22:34:29.745",
+    "not_before": "2025-03-26T17:36:14",
+    "not_after": "2026-04-26T04:00:00",
+    "serial_number": "27923f5d53d60bf08a61c22b89a99895",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "tsdrapi-cor-alx1.uspto.gov",
+    "name_value": "tsdrapi-beta.uspto.gov\ntsdrapi-cor-alx1.uspto.gov\ntsdrapi.uspto.gov",
+    "id": 24499521743,
+    "entry_timestamp": "2026-02-18T22:33:09.489",
+    "not_before": "2026-02-18T00:00:00",
+    "not_after": "2027-02-17T23:59:59",
+    "serial_number": "03a99e5e424467f3fb1159f7246f7659",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "certifiedcopycenter-dmz-alx1.uspto.gov",
+    "name_value": "certifiedcopycenter-dmz-alx1.uspto.gov\ncertifiedcopycenter.uspto.gov",
+    "id": 24499027412,
+    "entry_timestamp": "2026-02-18T22:01:29.464",
+    "not_before": "2026-02-18T00:00:00",
+    "not_after": "2027-02-17T23:59:59",
+    "serial_number": "0ab9589d729fc7a881ed99ead9a9b00e",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "feesqapvt.etc.uspto.gov",
+    "name_value": "fees-qa-dmz-alx1-pvt.etc.uspto.gov\nfeesqapvt.etc.uspto.gov",
+    "id": 24490802288,
+    "entry_timestamp": "2026-02-18T13:23:59.765",
+    "not_before": "2026-02-18T00:00:00",
+    "not_after": "2027-03-19T23:59:59",
+    "serial_number": "0d3df8026b70cd6c2df461e1382e9dcd",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "uspto.gov",
@@ -1390,30 +1450,6 @@
     "not_after": "2026-12-14T23:59:59",
     "serial_number": "1a0595fb3dad75469530bbf2e149c41e",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "smp.uspto.gov",
-    "name_value": "smp.uspto.gov",
-    "id": 22667084184,
-    "entry_timestamp": "2025-11-22T01:59:18.776",
-    "not_before": "2025-11-22T01:00:48",
-    "not_after": "2026-02-20T01:00:47",
-    "serial_number": "0671fd1b78dde276477fe90ad0f81806fc22",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "smp.uspto.gov",
-    "name_value": "smp.uspto.gov",
-    "id": 22695652624,
-    "entry_timestamp": "2025-11-22T01:59:18.327",
-    "not_before": "2025-11-22T01:00:48",
-    "not_after": "2026-02-20T01:00:47",
-    "serial_number": "0671fd1b78dde276477fe90ad0f81806fc22",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 204411,
@@ -6045,18 +6081,6 @@
     "not_before": "2025-02-10T15:39:51",
     "not_after": "2026-03-10T04:00:00",
     "serial_number": "11cf3089a8f9d71be3aa7c7f24f11f1d",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "coder.dev.uspto.gov",
-    "name_value": "coder.dev.uspto.gov",
-    "id": 16595707746,
-    "entry_timestamp": "2025-02-07T21:22:12.107",
-    "not_before": "2025-02-07T21:12:10",
-    "not_after": "2026-02-20T05:00:00",
-    "serial_number": "06abf4fa6bbbda07e839f9e8b74631a2",
     "result_count": 2
   },
   {

@@ -1,5 +1,77 @@
 [
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "api.uscis.gov",
+    "name_value": "api.uscis.gov",
+    "id": 24476110062,
+    "entry_timestamp": "2026-02-17T22:02:18.011",
+    "not_before": "2026-02-09T00:00:00",
+    "not_after": "2027-03-12T23:59:59",
+    "serial_number": "01d3474bc4a3c4e61ea1f4b79cf80597",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "api-int.uscis.gov",
+    "name_value": "api-int.uscis.gov",
+    "id": 24476109358,
+    "entry_timestamp": "2026-02-17T22:01:57.619",
+    "not_before": "2026-02-09T00:00:00",
+    "not_after": "2027-03-12T23:59:59",
+    "serial_number": "02be70f285291fc52f5f11534fa4b5ef",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 62123,
+    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
+    "common_name": "edit-wcms-testint.dhs.gov",
+    "name_value": "beta-staging.uscis.gov\nbeta-testint.uscis.gov\nedit.staging.uscis.gov\nedit.testint.uscis.gov\nedit.uscis.gov\nnonprod-everify.uscis.gov\nstaging.uscis.gov\ntestint.uscis.gov",
+    "id": 24470737158,
+    "entry_timestamp": "2026-02-17T16:22:19.32",
+    "not_before": "2025-10-30T00:00:00",
+    "not_after": "2026-10-31T23:59:59",
+    "serial_number": "0bc565e97c6da1846b33bf0745d59a03",
+    "result_count": 8
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "testint.uscis.gov",
+    "name_value": "non-prod-everify.uscis.gov\nnonprod-everify.uscis.gov\nstage-e-verify.uscis.gov\nstage-everify.uscis.gov\ntestint.uscis.gov",
+    "id": 24470721826,
+    "entry_timestamp": "2026-02-17T16:20:44.294",
+    "not_before": "2026-02-17T00:00:00",
+    "not_after": "2027-03-20T23:59:59",
+    "serial_number": "0524779891f9397e3b6a6d56423e7134",
+    "result_count": 6
+  },
+  {
+    "issuer_ca_id": 62123,
+    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
+    "common_name": "preview.dhs.gov",
+    "name_value": "beta.uscis.gov\neverify.uscis.gov\nexternaltest.idp.uscis.gov\nidp.uscis.gov\nmyaccount-preview.uscis.gov\npreview.idp.uscis.gov\npreview.uscis.gov\nstage-everify.uscis.gov\nwww.uscis.gov",
+    "id": 24468746892,
+    "entry_timestamp": "2026-02-17T14:19:49.682",
+    "not_before": "2025-12-28T00:00:00",
+    "not_after": "2027-01-05T23:59:59",
+    "serial_number": "0e5fa873fb737a62b7512dfa713a54e8",
+    "result_count": 9
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "www.uscis.gov",
+    "name_value": "everify.uscis.gov\npreview-everify.uscis.gov\npreview.uscis.gov\nwww.uscis.gov",
+    "id": 24468718143,
+    "entry_timestamp": "2026-02-17T14:18:38.177",
+    "not_before": "2026-02-17T00:00:00",
+    "not_after": "2027-03-20T23:59:59",
+    "serial_number": "0cbc9e6a48d52081234b29028374f86a",
+    "result_count": 5
+  },
+  {
     "issuer_ca_id": 176211,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2",
     "common_name": "fedhrnavigator.uscis.gov",
@@ -262,18 +334,6 @@
     "not_after": "2026-02-24T23:59:59",
     "serial_number": "0a03e4aea01c977f936ee80f660f1c5f",
     "result_count": 10
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "save.uscis.gov",
-    "name_value": "save.uscis.gov\nwww.save.uscis.gov",
-    "id": 22508717714,
-    "entry_timestamp": "2025-11-16T09:38:16.545",
-    "not_before": "2025-02-20T00:00:00",
-    "not_after": "2026-02-19T23:59:59",
-    "serial_number": "0ef13936ade917d273a9c2340db11ec0",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 185752,
@@ -1030,18 +1090,6 @@
     "not_after": "2026-02-24T23:59:59",
     "serial_number": "0a03e4aea01c977f936ee80f660f1c5f",
     "result_count": 10
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "save.uscis.gov",
-    "name_value": "save.uscis.gov\nwww.save.uscis.gov",
-    "id": 16778935166,
-    "entry_timestamp": "2025-02-20T14:27:50.911",
-    "not_before": "2025-02-20T00:00:00",
-    "not_after": "2026-02-19T23:59:59",
-    "serial_number": "0ef13936ade917d273a9c2340db11ec0",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 185752,
