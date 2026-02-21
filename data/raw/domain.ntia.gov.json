@@ -1,5 +1,41 @@
 [
   {
+    "issuer_ca_id": 62123,
+    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
+    "common_name": "slfcpdev.ntia.gov",
+    "name_value": "slfcpdev.ntia.gov",
+    "id": 24495198130,
+    "entry_timestamp": "2026-02-18T17:57:15.734",
+    "not_before": "2026-02-18T00:00:00",
+    "not_after": "2026-08-18T23:59:59",
+    "serial_number": "050241e95e6b06cdc069a13922342f96",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "*.ntia.gov",
+    "name_value": "*.ntia.gov",
+    "id": 24494869012,
+    "entry_timestamp": "2026-02-18T17:35:37.385",
+    "not_before": "2026-02-18T00:00:00",
+    "not_after": "2027-01-12T23:59:59",
+    "serial_number": "0aa03ad751276e80e09a313608cbacbe",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 62123,
+    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
+    "common_name": "redbookstaging.ntia.gov",
+    "name_value": "redbookstaging.ntia.gov",
+    "id": 24473265132,
+    "entry_timestamp": "2026-02-17T18:50:06.21",
+    "not_before": "2026-02-17T00:00:00",
+    "not_after": "2026-08-17T23:59:59",
+    "serial_number": "093419474914ecdd7a4fcfc6c9c9eac1",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 413864,
     "issuer_name": "C=US, O=SSL Corporation, CN=Cloudflare TLS Issuing RSA CA 3",
     "common_name": "www.ntia.gov",
@@ -3206,42 +3242,6 @@
   {
     "issuer_ca_id": 282054,
     "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
-    "common_name": "5gchallenge.ntia.gov",
-    "name_value": "5gchallenge.ntia.gov",
-    "id": 17216738072,
-    "entry_timestamp": "2025-03-18T18:14:07.119",
-    "not_before": "2025-02-20T20:02:25",
-    "not_after": "2026-02-20T20:08:54",
-    "serial_number": "5d18cc9b5ecea54538018ad41cedc89c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 282053,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
-    "common_name": "5gchallenge.ntia.gov",
-    "name_value": "5gchallenge.ntia.gov",
-    "id": 17216738464,
-    "entry_timestamp": "2025-03-18T18:14:06.692",
-    "not_before": "2025-02-20T20:01:13",
-    "not_after": "2026-02-20T20:08:51",
-    "serial_number": "501ee8f414b34c7f4cf67f1cc65c0538",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 282053,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
-    "common_name": "ecotestdev.ntia.gov",
-    "name_value": "ecotestdev.ntia.gov",
-    "id": 17216726286,
-    "entry_timestamp": "2025-03-18T18:13:32.616",
-    "not_before": "2025-02-20T20:04:04",
-    "not_after": "2026-02-20T20:11:50",
-    "serial_number": "7364f05855a92d2f634ae1ba6be92269",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 282054,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
     "common_name": "www.ntia.gov",
     "name_value": "www.ntia.gov",
     "id": 17191324855,
@@ -3333,66 +3333,6 @@
     "not_before": "2025-03-07T00:00:00",
     "not_after": "2026-04-07T23:59:59",
     "serial_number": "0a1dad88fa4b0533b3f8ae82c605352c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 282054,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
-    "common_name": "ecotestdev.ntia.gov",
-    "name_value": "ecotestdev.ntia.gov",
-    "id": 16775961959,
-    "entry_timestamp": "2025-02-20T20:15:42.183",
-    "not_before": "2025-02-20T20:05:33",
-    "not_after": "2026-02-20T20:11:51",
-    "serial_number": "32f4a49bda788ff44b0f1f24a19a730c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 282054,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
-    "common_name": "ecotestdev.ntia.gov",
-    "name_value": "ecotestdev.ntia.gov",
-    "id": 16774587912,
-    "entry_timestamp": "2025-02-20T20:15:34.658",
-    "not_before": "2025-02-20T20:05:33",
-    "not_after": "2026-02-20T20:11:51",
-    "serial_number": "32f4a49bda788ff44b0f1f24a19a730c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 282053,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
-    "common_name": "ecotestdev.ntia.gov",
-    "name_value": "ecotestdev.ntia.gov",
-    "id": 16774588848,
-    "entry_timestamp": "2025-02-20T20:14:05.991",
-    "not_before": "2025-02-20T20:04:04",
-    "not_after": "2026-02-20T20:11:50",
-    "serial_number": "7364f05855a92d2f634ae1ba6be92269",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 282054,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
-    "common_name": "5gchallenge.ntia.gov",
-    "name_value": "5gchallenge.ntia.gov",
-    "id": 16774588119,
-    "entry_timestamp": "2025-02-20T20:12:27.052",
-    "not_before": "2025-02-20T20:02:25",
-    "not_after": "2026-02-20T20:08:54",
-    "serial_number": "5d18cc9b5ecea54538018ad41cedc89c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 282053,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
-    "common_name": "5gchallenge.ntia.gov",
-    "name_value": "5gchallenge.ntia.gov",
-    "id": 16774586585,
-    "entry_timestamp": "2025-02-20T20:11:14.575",
-    "not_before": "2025-02-20T20:01:13",
-    "not_after": "2026-02-20T20:08:51",
-    "serial_number": "501ee8f414b34c7f4cf67f1cc65c0538",
     "result_count": 2
   },
   {

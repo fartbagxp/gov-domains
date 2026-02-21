@@ -1,5 +1,53 @@
 [
   {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "test-www-admin.etc.uspto.gov",
+    "name_value": "test-www-admin.etc.uspto.gov",
+    "id": 24517494958,
+    "entry_timestamp": "2026-02-19T17:54:18.702",
+    "not_before": "2026-02-19T00:00:00",
+    "not_after": "2026-09-04T23:59:59",
+    "serial_number": "0437800ecc84219c531dc781804da9f5",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "dev-www-admin.etc.uspto.gov",
+    "name_value": "dev-www-admin.etc.uspto.gov",
+    "id": 24517236284,
+    "entry_timestamp": "2026-02-19T17:36:36.566",
+    "not_before": "2026-02-19T00:00:00",
+    "not_after": "2026-09-04T23:59:59",
+    "serial_number": "03a72bbfe6fcdd3a6fff5b752ac30cd2",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "tm-eog-dev.etc.uspto.gov",
+    "name_value": "eog-tmng-pvt.etc.uspto.gov\neog-tmng-sit.etc.uspto.gov\ntm-eog-dev.etc.uspto.gov\ntm-eog-pvt.etc.uspto.gov\ntm-eog-service-dev.etc.uspto.gov\ntm-eog-service-internal-dev.tm-externalreview.awslab.uspto.gov\ntm-eog-service-internal-pvt.tm-externalreview.awslab.uspto.gov\ntm-eog-service-pvt.etc.uspto.gov\ntmng-eog.pvt.uspto.gov\ntmng-eog.sit.uspto.gov",
+    "id": 24514386780,
+    "entry_timestamp": "2026-02-19T14:39:38.172",
+    "not_before": "2026-02-19T00:00:00",
+    "not_after": "2027-02-18T23:59:59",
+    "serial_number": "05675af7d31c721838515dca71506251",
+    "result_count": 11
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "eog-tmng.uspto.gov",
+    "name_value": "eog-tmng.uspto.gov\ntm-eog-service.uspto.gov\ntm-eog.uspto.gov\ntmog.uspto.gov",
+    "id": 24514198020,
+    "entry_timestamp": "2026-02-19T14:27:29.925",
+    "not_before": "2026-02-19T00:00:00",
+    "not_after": "2027-02-18T23:59:59",
+    "serial_number": "0e30b682e50b08ac312c9b8732bb7b62",
+    "result_count": 5
+  },
+  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "certifiedcopycenter-passive-dmz-alx1.uspto.gov",
