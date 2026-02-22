@@ -113,7 +113,8 @@ jobs:
           git add data/tech
           if ! git diff-index --quiet HEAD; then
             git commit -m "Investigating technology stack with httpx - $(date +'%Y-%m-%d')"
-            git push -u origin main
+            git pull --rebase origin main
+            git push origin main
           else
             echo "No changes to commit"
           fi

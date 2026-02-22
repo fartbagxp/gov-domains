@@ -1,9 +1,6 @@
 name: Site Update Raw - Nightly cronjob
 
 on:
-  push:
-    branches:
-      - main
   schedule:
     - cron: "48 10 * * *"
   workflow_dispatch:
@@ -149,7 +146,7 @@ jobs:
           americabydesign.gov
         ]
       fail-fast: false # continue if any domain fails
-      max-parallel: 1
+      max-parallel: 5 # limit to 5 parallel jobs to avoid overwhelming resources
 
     steps:
       - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
@@ -220,7 +217,8 @@ jobs:
           git add data/raw/
           if ! git diff-index --quiet HEAD; then
             git commit -m "Nightly update of raw site changes - $(date +'%Y-%m-%d')"
-            git push -u origin main
+            git pull --rebase origin main
+            git push origin main
           else
             echo "No changes to commit"
           fi
