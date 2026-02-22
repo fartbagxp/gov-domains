@@ -4,6 +4,30 @@
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
     "common_name": "www.homelandsecurity.gov",
     "name_value": "fma.fema.gov\nstaging-fma.fema.gov",
+    "id": 24540793480,
+    "entry_timestamp": "2026-02-20T20:45:57.21",
+    "not_before": "2026-02-20T00:00:00",
+    "not_after": "2026-09-22T23:59:59",
+    "serial_number": "03b88a826ccf1c31963b54d269438618",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "www.homelandsecurity.gov",
+    "name_value": "fma.fema.gov\nstaging-fma.fema.gov",
+    "id": 24540764352,
+    "entry_timestamp": "2026-02-20T20:43:41.669",
+    "not_before": "2026-02-20T00:00:00",
+    "not_after": "2026-09-22T23:59:59",
+    "serial_number": "0f9d39585dcdb703d8c0642e92b11210",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185748,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
+    "common_name": "www.homelandsecurity.gov",
+    "name_value": "fma.fema.gov\nstaging-fma.fema.gov",
     "id": 24520217806,
     "entry_timestamp": "2026-02-19T21:09:26.237",
     "not_before": "2026-02-19T00:00:00",
@@ -33,6 +57,18 @@
     "not_before": "2026-02-19T15:16:43",
     "not_after": "2026-05-20T16:16:40",
     "serial_number": "656ebcb0f2925850117de7b66c603a2f",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "origin-staging-go.fema.gov",
+    "name_value": "*.origin-staging-go.fema.gov\norigin-staging-go.fema.gov",
+    "id": 24515986694,
+    "entry_timestamp": "2026-02-19T16:16:34.394",
+    "not_before": "2026-02-19T15:16:33",
+    "not_after": "2026-05-20T16:14:06",
+    "serial_number": "7dbc246fc38e806f13ba404d403ea9ea",
     "result_count": 3
   },
   {
@@ -480,6 +516,18 @@
     "result_count": 3
   },
   {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "origin-go.fema.gov",
+    "name_value": "*.origin-go.fema.gov\norigin-go.fema.gov",
+    "id": 24501232590,
+    "entry_timestamp": "2026-02-19T00:19:12.394",
+    "not_before": "2026-02-18T23:19:11",
+    "not_after": "2026-05-20T00:17:49",
+    "serial_number": "14bb4b3541bd46d6114726506b6064f2",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 204407,
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
     "common_name": "atp.aws.fema.gov",
@@ -604,11 +652,47 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
     "common_name": "api.stage.nfipdirect.fema.gov",
     "name_value": "*.api.stage.nfipdirect.fema.gov\napi.stage.nfipdirect.fema.gov",
+    "id": 24348885450,
+    "entry_timestamp": "2026-02-12T04:00:10.596",
+    "not_before": "2026-02-12T03:01:39",
+    "not_after": "2026-05-13T03:01:38",
+    "serial_number": "065133f591143c6ac78940ad9b3de3b4349f",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295813,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
+    "common_name": "api.stage.nfipdirect.fema.gov",
+    "name_value": "*.api.stage.nfipdirect.fema.gov\napi.stage.nfipdirect.fema.gov",
     "id": 24348866296,
     "entry_timestamp": "2026-02-12T04:00:09.567",
     "not_before": "2026-02-12T03:01:39",
     "not_after": "2026-05-13T03:01:38",
     "serial_number": "065133f591143c6ac78940ad9b3de3b4349f",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "api.stage.nfipdirect.fema.gov",
+    "name_value": "*.api.stage.nfipdirect.fema.gov\napi.stage.nfipdirect.fema.gov",
+    "id": 24348881204,
+    "entry_timestamp": "2026-02-12T03:59:59.173",
+    "not_before": "2026-02-12T03:01:27",
+    "not_after": "2026-05-13T03:01:26",
+    "serial_number": "051d33256683dbdf5afe30bfe06ca4e7b5c3",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "api.stage.nfipdirect.fema.gov",
+    "name_value": "*.api.stage.nfipdirect.fema.gov\napi.stage.nfipdirect.fema.gov",
+    "id": 24348860357,
+    "entry_timestamp": "2026-02-12T03:59:57.944",
+    "not_before": "2026-02-12T03:01:27",
+    "not_after": "2026-05-13T03:01:26",
+    "serial_number": "051d33256683dbdf5afe30bfe06ca4e7b5c3",
     "result_count": 3
   },
   {
@@ -708,6 +792,30 @@
     "result_count": 3
   },
   {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "tdl.regportal.fema.gov",
+    "name_value": "*.tdl.regportal.fema.gov\ntdl.regportal.fema.gov",
+    "id": 24253862532,
+    "entry_timestamp": "2026-02-08T01:02:51.992",
+    "not_before": "2026-02-08T00:02:51",
+    "not_after": "2026-05-09T01:01:31",
+    "serial_number": "00a771fa3595a890b4139a266926cc537e",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295813,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
+    "common_name": "core.nfipdirect.fema.gov",
+    "name_value": "*.core.nfipdirect.fema.gov\ncore.nfipdirect.fema.gov",
+    "id": 24183885281,
+    "entry_timestamp": "2026-02-04T16:09:26.424",
+    "not_before": "2026-02-04T15:10:54",
+    "not_after": "2026-05-05T15:10:53",
+    "serial_number": "05050b329010f1f83160677780a80d3945d6",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 295813,
     "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
     "common_name": "core.nfipdirect.fema.gov",
@@ -717,6 +825,42 @@
     "not_before": "2026-02-04T15:10:54",
     "not_after": "2026-05-05T15:10:53",
     "serial_number": "05050b329010f1f83160677780a80d3945d6",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "core.nfipdirect.fema.gov",
+    "name_value": "*.core.nfipdirect.fema.gov\ncore.nfipdirect.fema.gov",
+    "id": 24183897901,
+    "entry_timestamp": "2026-02-04T16:09:04.006",
+    "not_before": "2026-02-04T15:10:33",
+    "not_after": "2026-05-05T15:10:32",
+    "serial_number": "052334652bb53e4456b0f336b7cbd25a20fe",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "core.nfipdirect.fema.gov",
+    "name_value": "*.core.nfipdirect.fema.gov\ncore.nfipdirect.fema.gov",
+    "id": 24183876296,
+    "entry_timestamp": "2026-02-04T16:09:03.747",
+    "not_before": "2026-02-04T15:10:33",
+    "not_after": "2026-05-05T15:10:32",
+    "serial_number": "052334652bb53e4456b0f336b7cbd25a20fe",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204407,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
+    "common_name": "services.nfipdirect.fema.gov",
+    "name_value": "*.services.nfipdirect.fema.gov\nservices.nfipdirect.fema.gov",
+    "id": 24177163707,
+    "entry_timestamp": "2026-02-04T08:49:38.481",
+    "not_before": "2026-02-04T00:00:00",
+    "not_after": "2026-05-05T08:43:49",
+    "serial_number": "008c4f85f7016a82ad5cc4544802ec92a0",
     "result_count": 3
   },
   {
@@ -760,11 +904,47 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
     "common_name": "api.nfipdirect.fema.gov",
     "name_value": "*.api.nfipdirect.fema.gov\napi.nfipdirect.fema.gov",
+    "id": 24175345035,
+    "entry_timestamp": "2026-02-04T06:53:05.694",
+    "not_before": "2026-02-04T05:54:35",
+    "not_after": "2026-05-05T05:54:34",
+    "serial_number": "057982950883928b7d555ae025652f1cb868",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295809,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
+    "common_name": "api.nfipdirect.fema.gov",
+    "name_value": "*.api.nfipdirect.fema.gov\napi.nfipdirect.fema.gov",
     "id": 24175339982,
     "entry_timestamp": "2026-02-04T06:53:05.188",
     "not_before": "2026-02-04T05:54:35",
     "not_after": "2026-05-05T05:54:34",
     "serial_number": "057982950883928b7d555ae025652f1cb868",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "api.nfipdirect.fema.gov",
+    "name_value": "*.api.nfipdirect.fema.gov\napi.nfipdirect.fema.gov",
+    "id": 24175363875,
+    "entry_timestamp": "2026-02-04T06:52:57.937",
+    "not_before": "2026-02-04T05:54:27",
+    "not_after": "2026-05-05T05:54:26",
+    "serial_number": "059b35a9a334b7ebc8b585174d1f45356751",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "api.nfipdirect.fema.gov",
+    "name_value": "*.api.nfipdirect.fema.gov\napi.nfipdirect.fema.gov",
+    "id": 24175344249,
+    "entry_timestamp": "2026-02-04T06:52:57.736",
+    "not_before": "2026-02-04T05:54:27",
+    "not_after": "2026-05-05T05:54:26",
+    "serial_number": "059b35a9a334b7ebc8b585174d1f45356751",
     "result_count": 3
   },
   {
@@ -828,6 +1008,18 @@
     "result_count": 3
   },
   {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "api.stage.nfipdirect.fema.gov",
+    "name_value": "*.api.stage.nfipdirect.fema.gov\napi.stage.nfipdirect.fema.gov",
+    "id": 24124770896,
+    "entry_timestamp": "2026-02-01T20:00:56.981",
+    "not_before": "2026-02-01T19:00:56",
+    "not_after": "2026-05-02T19:58:17",
+    "serial_number": "0096c810ec90f9ea12130fb58fedc41f13",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 413864,
     "issuer_name": "C=US, O=SSL Corporation, CN=Cloudflare TLS Issuing RSA CA 3",
     "common_name": "itsupport.fema.gov",
@@ -880,6 +1072,18 @@
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
     "common_name": "origin-staging-go.fema.gov",
     "name_value": "*.origin-staging-go.fema.gov\norigin-staging-go.fema.gov",
+    "id": 24079855888,
+    "entry_timestamp": "2026-01-30T14:57:18.443",
+    "not_before": "2026-01-30T00:00:00",
+    "not_after": "2026-04-30T14:49:33",
+    "serial_number": "3154f683a4f8f40294c6289d05249a1f",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204407,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
+    "common_name": "origin-staging-go.fema.gov",
+    "name_value": "*.origin-staging-go.fema.gov\norigin-staging-go.fema.gov",
     "id": 24079851453,
     "entry_timestamp": "2026-01-30T14:57:16.424",
     "not_before": "2026-01-30T00:00:00",
@@ -921,6 +1125,18 @@
     "not_before": "2026-01-28T18:02:27",
     "not_after": "2026-04-28T19:02:09",
     "serial_number": "6501e267efa815320d1b60bbf834be48",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "api.nfipdirect.fema.gov",
+    "name_value": "*.api.nfipdirect.fema.gov\napi.nfipdirect.fema.gov",
+    "id": 24041392102,
+    "entry_timestamp": "2026-01-28T19:02:04.56",
+    "not_before": "2026-01-28T18:02:04",
+    "not_after": "2026-04-28T19:00:34",
+    "serial_number": "00e10fc0288a00059e136a44d317e8cee6",
     "result_count": 3
   },
   {
@@ -1044,6 +1260,18 @@
     "result_count": 3
   },
   {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "core.nfipdirect.fema.gov",
+    "name_value": "*.core.nfipdirect.fema.gov\ncore.nfipdirect.fema.gov",
+    "id": 23798666978,
+    "entry_timestamp": "2026-01-16T08:55:44.056",
+    "not_before": "2026-01-16T07:55:43",
+    "not_after": "2026-04-16T08:54:24",
+    "serial_number": "00ae86453c99d84fd61135fcf193fdc452",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "atp.aws.fema.gov",
@@ -1056,6 +1284,18 @@
     "result_count": 3
   },
   {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "atp.aws.fema.gov",
+    "name_value": "*.atp.aws.fema.gov\natp.aws.fema.gov",
+    "id": 23795927028,
+    "entry_timestamp": "2026-01-16T05:24:31.682",
+    "not_before": "2026-01-16T04:24:31",
+    "not_after": "2026-04-16T05:22:08",
+    "serial_number": "00e30c12e38ca592f30e321e89851b4f25",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "services.nfipdirect.fema.gov",
@@ -1065,6 +1305,18 @@
     "not_before": "2026-01-16T00:53:09",
     "not_after": "2026-04-16T01:53:07",
     "serial_number": "35a8bba0d47d41ba0e96d3e003a4748e",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "services.nfipdirect.fema.gov",
+    "name_value": "*.services.nfipdirect.fema.gov\nservices.nfipdirect.fema.gov",
+    "id": 23793153986,
+    "entry_timestamp": "2026-01-16T01:53:02.378",
+    "not_before": "2026-01-16T00:53:01",
+    "not_after": "2026-04-16T01:51:48",
+    "serial_number": "3323989dd3e0a0fb139f92eea714c96f",
     "result_count": 3
   },
   {
@@ -1672,6 +1924,18 @@
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
     "common_name": "tdl.regportal.fema.gov",
     "name_value": "*.tdl.regportal.fema.gov\ntdl.regportal.fema.gov",
+    "id": 23530949785,
+    "entry_timestamp": "2026-01-03T11:25:51.026",
+    "not_before": "2026-01-03T00:00:00",
+    "not_after": "2026-04-03T11:18:31",
+    "serial_number": "3e1ffa5f31a6e652ec0d94c1903707b8",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204407,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
+    "common_name": "tdl.regportal.fema.gov",
+    "name_value": "*.tdl.regportal.fema.gov\ntdl.regportal.fema.gov",
     "id": 23530950274,
     "entry_timestamp": "2026-01-03T11:25:50.15",
     "not_before": "2026-01-03T00:00:00",
@@ -1708,11 +1972,47 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
     "common_name": "origin-go.fema.gov",
     "name_value": "*.origin-go.fema.gov\norigin-go.fema.gov",
+    "id": 23473200109,
+    "entry_timestamp": "2025-12-31T09:09:43.123",
+    "not_before": "2025-12-31T08:11:12",
+    "not_after": "2026-03-31T08:11:11",
+    "serial_number": "05103b95d4d5e931c465f8b6bef3c57161dd",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295813,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
+    "common_name": "origin-go.fema.gov",
+    "name_value": "*.origin-go.fema.gov\norigin-go.fema.gov",
     "id": 23473201360,
     "entry_timestamp": "2025-12-31T09:09:42.873",
     "not_before": "2025-12-31T08:11:12",
     "not_after": "2026-03-31T08:11:11",
     "serial_number": "05103b95d4d5e931c465f8b6bef3c57161dd",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "origin-go.fema.gov",
+    "name_value": "*.origin-go.fema.gov\norigin-go.fema.gov",
+    "id": 23473196608,
+    "entry_timestamp": "2025-12-31T09:09:34.388",
+    "not_before": "2025-12-31T08:11:01",
+    "not_after": "2026-03-31T08:11:00",
+    "serial_number": "062eaafe17e69ef99997a5c7d1cfc2cd661f",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "origin-go.fema.gov",
+    "name_value": "*.origin-go.fema.gov\norigin-go.fema.gov",
+    "id": 23473187966,
+    "entry_timestamp": "2025-12-31T09:09:32.194",
+    "not_before": "2025-12-31T08:11:01",
+    "not_after": "2026-03-31T08:11:00",
+    "serial_number": "062eaafe17e69ef99997a5c7d1cfc2cd661f",
     "result_count": 3
   },
   {
@@ -2133,6 +2433,18 @@
     "not_before": "2025-12-22T13:06:05",
     "not_after": "2026-03-22T14:04:57",
     "serial_number": "397906cf8fc54f240d52fafcd2c09b05",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "origin-staging-go.fema.gov",
+    "name_value": "*.origin-staging-go.fema.gov\norigin-staging-go.fema.gov",
+    "id": 23294785505,
+    "entry_timestamp": "2025-12-22T14:04:46.673",
+    "not_before": "2025-12-22T13:04:46",
+    "not_after": "2026-03-22T14:00:56",
+    "serial_number": "00f1a7d78cb81620db0eb37da487d39b61",
     "result_count": 3
   },
   {
@@ -2580,6 +2892,18 @@
     "result_count": 3
   },
   {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "origin-go.fema.gov",
+    "name_value": "*.origin-go.fema.gov\norigin-go.fema.gov",
+    "id": 23281062784,
+    "entry_timestamp": "2025-12-22T00:03:09.064",
+    "not_before": "2025-12-21T23:03:08",
+    "not_after": "2026-03-22T00:00:25",
+    "serial_number": "7b98ab13b0cd55ab0d501f35a44ffcac",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 204407,
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
     "common_name": "atp.aws.fema.gov",
@@ -2656,11 +2980,47 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
     "common_name": "api.stage.nfipdirect.fema.gov",
     "name_value": "*.api.stage.nfipdirect.fema.gov\napi.stage.nfipdirect.fema.gov",
+    "id": 23124768385,
+    "entry_timestamp": "2025-12-15T02:46:36.445",
+    "not_before": "2025-12-15T01:48:02",
+    "not_after": "2026-03-15T01:48:01",
+    "serial_number": "056b7c582d07a542fbd575c3b2578bb3ce94",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295809,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
+    "common_name": "api.stage.nfipdirect.fema.gov",
+    "name_value": "*.api.stage.nfipdirect.fema.gov\napi.stage.nfipdirect.fema.gov",
     "id": 23124748546,
     "entry_timestamp": "2025-12-15T02:46:32.523",
     "not_before": "2025-12-15T01:48:02",
     "not_after": "2026-03-15T01:48:01",
     "serial_number": "056b7c582d07a542fbd575c3b2578bb3ce94",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "api.stage.nfipdirect.fema.gov",
+    "name_value": "*.api.stage.nfipdirect.fema.gov\napi.stage.nfipdirect.fema.gov",
+    "id": 23124762373,
+    "entry_timestamp": "2025-12-15T02:46:24.119",
+    "not_before": "2025-12-15T01:47:51",
+    "not_after": "2026-03-15T01:47:50",
+    "serial_number": "0532ec8152e8a7b8fea42c58e051cdf6281d",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "api.stage.nfipdirect.fema.gov",
+    "name_value": "*.api.stage.nfipdirect.fema.gov\napi.stage.nfipdirect.fema.gov",
+    "id": 23124748357,
+    "entry_timestamp": "2025-12-15T02:46:21.866",
+    "not_before": "2025-12-15T01:47:51",
+    "not_after": "2026-03-15T01:47:50",
+    "serial_number": "0532ec8152e8a7b8fea42c58e051cdf6281d",
     "result_count": 3
   },
   {
@@ -2760,6 +3120,30 @@
     "result_count": 3
   },
   {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "tdl.regportal.fema.gov",
+    "name_value": "*.tdl.regportal.fema.gov\ntdl.regportal.fema.gov",
+    "id": 23043198506,
+    "entry_timestamp": "2025-12-11T00:06:45.859",
+    "not_before": "2025-12-10T23:06:45",
+    "not_after": "2026-03-11T00:05:29",
+    "serial_number": "30bdca50a09a15fa0d003a14bb908fed",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295809,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
+    "common_name": "core.nfipdirect.fema.gov",
+    "name_value": "*.core.nfipdirect.fema.gov\ncore.nfipdirect.fema.gov",
+    "id": 22965562189,
+    "entry_timestamp": "2025-12-07T16:08:28.455",
+    "not_before": "2025-12-07T15:09:54",
+    "not_after": "2026-03-07T15:09:53",
+    "serial_number": "05ff6dcd9766d6a95fffef947ed4dc3f7432",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 295809,
     "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
     "common_name": "core.nfipdirect.fema.gov",
@@ -2769,6 +3153,30 @@
     "not_before": "2025-12-07T15:09:54",
     "not_after": "2026-03-07T15:09:53",
     "serial_number": "05ff6dcd9766d6a95fffef947ed4dc3f7432",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "core.nfipdirect.fema.gov",
+    "name_value": "*.core.nfipdirect.fema.gov\ncore.nfipdirect.fema.gov",
+    "id": 22965561273,
+    "entry_timestamp": "2025-12-07T16:08:01.184",
+    "not_before": "2025-12-07T15:09:30",
+    "not_after": "2026-03-07T15:09:29",
+    "serial_number": "05aef8325c93d3ec532f78d9c15df788fe0f",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "core.nfipdirect.fema.gov",
+    "name_value": "*.core.nfipdirect.fema.gov\ncore.nfipdirect.fema.gov",
+    "id": 22971618172,
+    "entry_timestamp": "2025-12-07T16:08:00.962",
+    "not_before": "2025-12-07T15:09:30",
+    "not_after": "2026-03-07T15:09:29",
+    "serial_number": "05aef8325c93d3ec532f78d9c15df788fe0f",
     "result_count": 3
   },
   {
@@ -2782,6 +3190,18 @@
     "not_after": "2026-06-16T23:59:59",
     "serial_number": "0997f26ac9c1a614107a5fdf4a0eb8cc",
     "result_count": 1
+  },
+  {
+    "issuer_ca_id": 204407,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
+    "common_name": "services.nfipdirect.fema.gov",
+    "name_value": "*.services.nfipdirect.fema.gov\nservices.nfipdirect.fema.gov",
+    "id": 22974062653,
+    "entry_timestamp": "2025-12-07T07:21:55.007",
+    "not_before": "2025-12-07T00:00:00",
+    "not_after": "2026-03-07T06:42:22",
+    "serial_number": "00a9be3224ee118dbe25839f024947c6a8",
+    "result_count": 3
   },
   {
     "issuer_ca_id": 204407,
@@ -2824,11 +3244,47 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
     "common_name": "api.nfipdirect.fema.gov",
     "name_value": "*.api.nfipdirect.fema.gov\napi.nfipdirect.fema.gov",
+    "id": 22993861517,
+    "entry_timestamp": "2025-12-07T05:36:32.264",
+    "not_before": "2025-12-07T04:38:00",
+    "not_after": "2026-03-07T04:37:59",
+    "serial_number": "06715079f598cf9066600b774a3debf52add",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295813,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
+    "common_name": "api.nfipdirect.fema.gov",
+    "name_value": "*.api.nfipdirect.fema.gov\napi.nfipdirect.fema.gov",
     "id": 22964978798,
     "entry_timestamp": "2025-12-07T05:36:31.114",
     "not_before": "2025-12-07T04:38:00",
     "not_after": "2026-03-07T04:37:59",
     "serial_number": "06715079f598cf9066600b774a3debf52add",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "api.nfipdirect.fema.gov",
+    "name_value": "*.api.nfipdirect.fema.gov\napi.nfipdirect.fema.gov",
+    "id": 22959389877,
+    "entry_timestamp": "2025-12-07T05:10:55.367",
+    "not_before": "2025-12-07T04:12:24",
+    "not_after": "2026-03-07T04:12:23",
+    "serial_number": "06691b8f03ee8ccf2a54fc9a35c955a90997",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "api.nfipdirect.fema.gov",
+    "name_value": "*.api.nfipdirect.fema.gov\napi.nfipdirect.fema.gov",
+    "id": 22972381441,
+    "entry_timestamp": "2025-12-07T05:10:54.93",
+    "not_before": "2025-12-07T04:12:24",
+    "not_after": "2026-03-07T04:12:23",
+    "serial_number": "06691b8f03ee8ccf2a54fc9a35c955a90997",
     "result_count": 3
   },
   {
@@ -2916,6 +3372,18 @@
     "result_count": 3
   },
   {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "api.stage.nfipdirect.fema.gov",
+    "name_value": "*.api.stage.nfipdirect.fema.gov\napi.stage.nfipdirect.fema.gov",
+    "id": 22974975845,
+    "entry_timestamp": "2025-12-04T18:10:07.628",
+    "not_before": "2025-12-04T17:10:06",
+    "not_after": "2026-03-04T18:07:41",
+    "serial_number": "00b1000933e0f9d2ec0d81ee71f185e3a8",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 413864,
     "issuer_name": "C=US, O=SSL Corporation, CN=Cloudflare TLS Issuing RSA CA 3",
     "common_name": "itsupport.fema.gov",
@@ -2968,6 +3436,18 @@
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
     "common_name": "origin-staging-go.fema.gov",
     "name_value": "*.origin-staging-go.fema.gov\norigin-staging-go.fema.gov",
+    "id": 22863181956,
+    "entry_timestamp": "2025-12-02T13:06:19.1",
+    "not_before": "2025-12-02T00:00:00",
+    "not_after": "2026-03-02T12:54:02",
+    "serial_number": "00b3fe7885bb137f6e1a25e756fe5987e2",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 204407,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
+    "common_name": "origin-staging-go.fema.gov",
+    "name_value": "*.origin-staging-go.fema.gov\norigin-staging-go.fema.gov",
     "id": 22863175256,
     "entry_timestamp": "2025-12-02T13:06:17.53",
     "not_before": "2025-12-02T00:00:00",
@@ -3009,6 +3489,18 @@
     "not_before": "2025-11-30T16:38:54",
     "not_after": "2026-02-28T17:38:52",
     "serial_number": "7d88d3dcef1484fe0d02bdd2d0efae49",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "api.nfipdirect.fema.gov",
+    "name_value": "*.api.nfipdirect.fema.gov\napi.nfipdirect.fema.gov",
+    "id": 22827066230,
+    "entry_timestamp": "2025-11-30T17:38:47.169",
+    "not_before": "2025-11-30T16:38:46",
+    "not_after": "2026-02-28T17:35:23",
+    "serial_number": "71f081acb4f72222117b75b69bc35ecd",
     "result_count": 3
   },
   {
