@@ -8,10 +8,7 @@ on:
       - "data/csv/**"
       - ".github/workflows/update_technology.yml"
   workflow_dispatch:
-  workflow_run:
-    workflows: ["Convert raw files to CSV"]
-    types:
-      - completed
+  workflow_call:
 
 jobs:
   find-csv-files:
@@ -64,8 +61,10 @@ jobs:
           rm -rf data/tech/*
 
       - name: Process File - ${{ matrix.csv_file }}
+        env:
+          CSV_FILE: ${{ matrix.csv_file }}
         run: |
-          csv_file="data/csv/${{ matrix.csv_file }}"
+          csv_file="data/csv/${CSV_FILE}"
           filename=$(basename "$csv_file" .csv)
           output_file="data/tech/${filename}_httpx.csv"
 

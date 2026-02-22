@@ -8,10 +8,7 @@ on:
       - "data/raw/**"
       - ".github/workflows/convert_to_csv.yml"
   workflow_dispatch:
-  workflow_run:
-    workflows: ["Site Update Raw - Nightly cronjob"]
-    types:
-      - completed
+  workflow_call:
 
 jobs:
   convert-to-csv:
@@ -48,3 +45,10 @@ jobs:
           else
             echo "No changes to commit"
           fi
+
+  call-update-technology:
+    needs: convert-to-csv
+    if: github.ref == 'refs/heads/main'
+    uses: ./.github/workflows/update_technology.yml
+    permissions:
+      contents: write
