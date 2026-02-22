@@ -220,3 +220,9 @@ jobs:
           else
             echo "No changes to commit"
           fi
+
+  call-convert-to-csv:
+    needs: commit-changes
+    uses: ./.github/workflows/convert_to_csv.yml
+    permissions:
+      contents: write
