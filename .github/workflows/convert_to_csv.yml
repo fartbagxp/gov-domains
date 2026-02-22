@@ -4,10 +4,6 @@ on:
   workflow_dispatch:
   workflow_call:
 
-concurrency:
-  group: pipeline-csv
-  cancel-in-progress: false
-
 jobs:
   convert-to-csv:
     runs-on: ubuntu-latest

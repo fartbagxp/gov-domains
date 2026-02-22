@@ -4,10 +4,6 @@ on:
   workflow_dispatch:
   workflow_call:
 
-concurrency:
-  group: pipeline-tech
-  cancel-in-progress: false
-
 jobs:
   find-csv-files:
     runs-on: ubuntu-latest
