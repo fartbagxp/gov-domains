@@ -1,12 +1,6 @@
 name: Run httpx on CSV files
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - "data/csv/**"
-      - ".github/workflows/update_technology.yml"
   workflow_dispatch:
   workflow_call:
 

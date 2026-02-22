@@ -1,12 +1,6 @@
 name: Convert raw files to CSV
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - "data/raw/**"
-      - ".github/workflows/convert_to_csv.yml"
   workflow_dispatch:
   workflow_call:
 
