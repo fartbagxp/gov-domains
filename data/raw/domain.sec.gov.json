@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 185748,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
+    "common_name": "sec-feeds.sec.gov",
+    "name_value": "sec-feeds.sec.gov",
+    "id": 24625206937,
+    "entry_timestamp": "2026-02-24T21:56:50.176",
+    "not_before": "2026-02-24T00:00:00",
+    "not_after": "2026-09-10T23:59:59",
+    "serial_number": "0cde1f5aa6668e35fab56fd7e9dc5fe5",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 176211,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2",
+    "common_name": "wft.sec.gov",
+    "name_value": "wft1.sec.gov\nwft2.sec.gov\nwft.sec.gov",
+    "id": 24616217533,
+    "entry_timestamp": "2026-02-24T11:41:20.356",
+    "not_before": "2026-02-24T00:00:00",
+    "not_after": "2027-03-03T23:59:59",
+    "serial_number": "08a5c1c2b8332004cacbb41c2e6b4061",
+    "result_count": 4
+  },
+  {
     "issuer_ca_id": 176211,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2",
     "common_name": "hub-enf.sec.gov",
@@ -1308,30 +1332,6 @@
     "result_count": 5
   },
   {
-    "issuer_ca_id": 185748,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
-    "common_name": "adviserinfo.sec.gov",
-    "name_value": "adviserinfo.sec.gov\napi.adviserinfo.sec.gov\nfiles.adviserinfo.sec.gov\nreports.adviserinfo.sec.gov\nwww.adviserinfo.sec.gov",
-    "id": 17405573898,
-    "entry_timestamp": "2025-03-26T00:30:12.182",
-    "not_before": "2025-02-25T00:00:00",
-    "not_after": "2026-02-24T23:59:59",
-    "serial_number": "0846f654f18d5126e2c91ba812296c83",
-    "result_count": 6
-  },
-  {
-    "issuer_ca_id": 185748,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
-    "common_name": "qa.adviserinfo.sec.gov",
-    "name_value": "api.qa.adviserinfo.sec.gov\nfiles.qa.adviserinfo.sec.gov\nqa.adviserinfo.sec.gov\nreports.qa.adviserinfo.sec.gov",
-    "id": 17375013342,
-    "entry_timestamp": "2025-03-24T19:18:50.328",
-    "not_before": "2025-02-25T00:00:00",
-    "not_after": "2026-02-24T23:59:59",
-    "serial_number": "084ef7974c52e4bf543ed7fc35618d43",
-    "result_count": 5
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "akamaisecure8.qualtrics.com",
@@ -1402,29 +1402,5 @@
     "not_after": "2026-03-02T23:59:59",
     "serial_number": "0599cdaf2d96efb0f063e64ef064311f",
     "result_count": 4
-  },
-  {
-    "issuer_ca_id": 185748,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
-    "common_name": "adviserinfo.sec.gov",
-    "name_value": "adviserinfo.sec.gov\napi.adviserinfo.sec.gov\nfiles.adviserinfo.sec.gov\nreports.adviserinfo.sec.gov\nwww.adviserinfo.sec.gov",
-    "id": 16855549880,
-    "entry_timestamp": "2025-02-25T13:22:22.026",
-    "not_before": "2025-02-25T00:00:00",
-    "not_after": "2026-02-24T23:59:59",
-    "serial_number": "0846f654f18d5126e2c91ba812296c83",
-    "result_count": 6
-  },
-  {
-    "issuer_ca_id": 185748,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
-    "common_name": "qa.adviserinfo.sec.gov",
-    "name_value": "api.qa.adviserinfo.sec.gov\nfiles.qa.adviserinfo.sec.gov\nqa.adviserinfo.sec.gov\nreports.qa.adviserinfo.sec.gov",
-    "id": 16855543843,
-    "entry_timestamp": "2025-02-25T13:19:19.028",
-    "not_before": "2025-02-25T00:00:00",
-    "not_after": "2026-02-24T23:59:59",
-    "serial_number": "084ef7974c52e4bf543ed7fc35618d43",
-    "result_count": 5
   }
 ]

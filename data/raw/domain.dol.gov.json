@@ -1,5 +1,125 @@
 [
   {
+    "issuer_ca_id": 436902,
+    "issuer_name": "C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2026 Q1",
+    "common_name": "imperva.com",
+    "name_value": "*.dol.gov",
+    "id": 24632614899,
+    "entry_timestamp": "2026-02-25T07:05:39.332",
+    "not_before": "2026-02-25T07:05:35",
+    "not_after": "2026-02-26T07:04:36",
+    "serial_number": "01a55cb8308d19474fc08ad7dc0680dc",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "staging.unemployment.gov",
+    "name_value": "unemployment.staging.pace.dol.gov",
+    "id": 24629228525,
+    "entry_timestamp": "2026-02-25T02:51:24.62",
+    "not_before": "2026-02-25T00:00:00",
+    "not_after": "2026-09-10T23:59:59",
+    "serial_number": "0139af8f88244923be949c825aefe0fa",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "test.unemployment.gov",
+    "name_value": "unemployment.test.pace.dol.gov",
+    "id": 24629186741,
+    "entry_timestamp": "2026-02-25T02:48:52.299",
+    "not_before": "2026-02-25T00:00:00",
+    "not_after": "2026-09-10T23:59:59",
+    "serial_number": "041f1f32835ad8c0af28535c232715d9",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "dev.unemployment.gov",
+    "name_value": "unemployment.dev.pace.dol.gov",
+    "id": 24628879466,
+    "entry_timestamp": "2026-02-25T02:24:17.032",
+    "not_before": "2026-02-25T00:00:00",
+    "not_after": "2026-09-10T23:59:59",
+    "serial_number": "0ce9e4f3c0b1ddf4c308a3383e2cbbd6",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "qa-opa-news-release-log.dol.gov",
+    "name_value": "qa-opa-news-release-log.dol.gov",
+    "id": 24624134869,
+    "entry_timestamp": "2026-02-24T20:41:28.728",
+    "not_before": "2026-02-24T00:00:00",
+    "not_after": "2026-09-09T23:59:59",
+    "serial_number": "01965682d6daa38f2c86b897641efed0",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "opa-news-release-log.dol.gov",
+    "name_value": "opa-news-release-log.dol.gov",
+    "id": 24623954780,
+    "entry_timestamp": "2026-02-24T20:28:59.955",
+    "not_before": "2026-02-24T00:00:00",
+    "not_after": "2026-09-09T23:59:59",
+    "serial_number": "0a477e2f6778db101f1ef480c0ef4884",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "test.unemployment.gov",
+    "name_value": "unemployment.test.pace.dol.gov",
+    "id": 24623819450,
+    "entry_timestamp": "2026-02-24T20:19:37.246",
+    "not_before": "2026-02-24T00:00:00",
+    "not_after": "2026-09-09T23:59:59",
+    "serial_number": "0798796913028d561d1335b8b3c6cc5c",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "staging.unemployment.gov",
+    "name_value": "unemployment.staging.pace.dol.gov",
+    "id": 24621722175,
+    "entry_timestamp": "2026-02-24T17:58:46.075",
+    "not_before": "2026-02-24T00:00:00",
+    "not_after": "2026-09-09T23:59:59",
+    "serial_number": "02bf642d02040893ad7e77df27769c7c",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "*.dev.pace.dol.gov",
+    "name_value": "*.dev.pace.dol.gov",
+    "id": 24619517610,
+    "entry_timestamp": "2026-02-24T15:30:46.97",
+    "not_before": "2025-06-11T00:00:00",
+    "not_after": "2026-07-10T23:59:59",
+    "serial_number": "0dab72ec1acbca4d44f3d00ff0eecb62",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "dev.unemployment.gov",
+    "name_value": "unemployment.dev.pace.dol.gov",
+    "id": 24619514794,
+    "entry_timestamp": "2026-02-24T15:30:39.635",
+    "not_before": "2026-02-24T00:00:00",
+    "not_after": "2026-09-09T23:59:59",
+    "serial_number": "0e2dc39f1c1a40fd53c60b87abe429cb",
+    "result_count": 1
+  },
+  {
     "issuer_ca_id": 246719,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "omp.esd.dol.gov",
@@ -4824,18 +4944,6 @@
     "result_count": 4
   },
   {
-    "issuer_ca_id": 239799,
-    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
-    "common_name": "ofccptraining.dol.gov",
-    "name_value": "ofccptraining.dol.gov",
-    "id": 22750105187,
-    "entry_timestamp": "2025-11-26T19:40:39.627",
-    "not_before": "2025-08-24T00:00:00",
-    "not_after": "2026-02-24T23:59:59",
-    "serial_number": "0c12f17472f05aef31f3b160cf45b92e",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "ofccptraining.dol.gov",
@@ -4845,30 +4953,6 @@
     "not_before": "2025-11-26T00:00:00",
     "not_after": "2026-12-25T23:59:59",
     "serial_number": "089c3150d25c649740e89a6e872c31e6",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "dev.ofccptraining.dol.gov",
-    "name_value": "dev.ofccptraining.dol.gov\nofccptraining.dev.pace.dol.gov",
-    "id": 22810418543,
-    "entry_timestamp": "2025-11-26T16:41:08.47",
-    "not_before": "2025-11-26T15:42:38",
-    "not_after": "2026-02-24T15:42:37",
-    "serial_number": "05772f5b18d8eb0c6203dc6c70c2446618b7",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "dev.ofccptraining.dol.gov",
-    "name_value": "dev.ofccptraining.dol.gov\nofccptraining.dev.pace.dol.gov",
-    "id": 22747596404,
-    "entry_timestamp": "2025-11-26T16:41:08.084",
-    "not_before": "2025-11-26T15:42:38",
-    "not_after": "2026-02-24T15:42:37",
-    "serial_number": "05772f5b18d8eb0c6203dc6c70c2446618b7",
     "result_count": 3
   },
   {
@@ -7305,18 +7389,6 @@
     "not_before": "2025-08-25T00:00:00",
     "not_after": "2026-02-25T23:59:59",
     "serial_number": "080810f6a7489b58dfc963a12fcc387e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 239799,
-    "issuer_name": "C=US, O=\"DigiCert, Inc.\", CN=GeoTrust Global TLS RSA4096 SHA256 2022 CA1",
-    "common_name": "ofccptraining.dol.gov",
-    "name_value": "ofccptraining.dol.gov",
-    "id": 20543538783,
-    "entry_timestamp": "2025-08-24T13:51:45.33",
-    "not_before": "2025-08-24T00:00:00",
-    "not_after": "2026-02-24T23:59:59",
-    "serial_number": "0c12f17472f05aef31f3b160cf45b92e",
     "result_count": 2
   },
   {
