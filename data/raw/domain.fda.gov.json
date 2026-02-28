@@ -1,5 +1,41 @@
 [
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "sso2.test.fda.gov",
+    "name_value": "sso2.test.alt.fda.gov\nsso2.test.fda.gov\nsso2.vmtest.fda.gov",
+    "id": 24682967009,
+    "entry_timestamp": "2026-02-27T19:50:58.189",
+    "not_before": "2026-02-27T00:00:00",
+    "not_after": "2026-09-13T23:59:59",
+    "serial_number": "0dde7203e7ecdaf9e1a4c7555e3588c4",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "sso3.fda.gov",
+    "name_value": "sso3alt.fda.gov\nsso3.fda.gov\nsso3-mtls.fda.gov",
+    "id": 24679963079,
+    "entry_timestamp": "2026-02-27T16:27:11.7",
+    "not_before": "2026-02-27T00:00:00",
+    "not_after": "2026-09-13T23:59:59",
+    "serial_number": "05c88b22e6c0298e8dc1d776782e532f",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "knime.preprod.fda.gov",
+    "name_value": "knime.preprod.fda.gov",
+    "id": 24677854077,
+    "entry_timestamp": "2026-02-27T14:09:08.164",
+    "not_before": "2026-02-27T14:09:08",
+    "not_after": "2027-03-29T14:08:08",
+    "serial_number": "40019c9f6e8bcc06143fb4fe915a75e7",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "ent-appian-uat.preprod.fda.gov",
