@@ -216,6 +216,18 @@
     "result_count": 3
   },
   {
+    "issuer_ca_id": 904,
+    "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+    "common_name": "*.dev.nest.doe.gov",
+    "name_value": "*.dev.nest.doe.gov\ndev.nest.doe.gov",
+    "id": 24663364061,
+    "entry_timestamp": "2026-02-26T21:00:27.276",
+    "not_before": "2026-02-26T21:00:26",
+    "not_after": "2027-03-19T14:03:35",
+    "serial_number": "0f4d3ad68b4669a4",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 204406,
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
     "common_name": "fe.doe.gov",
@@ -412,6 +424,18 @@
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "pmts-apm.nn.doe.gov",
     "name_value": "pmts-apm.nn.doe.gov",
+    "id": 24617899257,
+    "entry_timestamp": "2026-02-24T13:40:36.189",
+    "not_before": "2025-03-25T00:00:00",
+    "not_after": "2026-03-24T23:59:59",
+    "serial_number": "0cbec7becc50dd62c966b83e8fa43eba",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "pmts-apm.nn.doe.gov",
+    "name_value": "pmts-apm.nn.doe.gov",
     "id": 24617876834,
     "entry_timestamp": "2026-02-24T13:39:31.279",
     "not_before": "2026-02-24T00:00:00",
@@ -429,18 +453,6 @@
     "not_before": "2026-02-24T00:00:00",
     "not_after": "2026-08-24T23:59:59",
     "serial_number": "023eef92d65db8067586e3cb8ad3c932",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295813,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
-    "common_name": "energycommunities.netl.doe.gov",
-    "name_value": "energycommunities.netl.doe.gov",
-    "id": 24612744689,
-    "entry_timestamp": "2026-02-24T07:38:16.71",
-    "not_before": "2026-02-24T06:39:46",
-    "not_after": "2026-05-25T06:39:45",
-    "serial_number": "05e5819cefbcb4f42f22a47149aaa3f4e1a9",
     "result_count": 2
   },
   {
@@ -904,35 +916,11 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "phytozome.jgi.doe.gov",
     "name_value": "phytozome.jgi.doe.gov",
-    "id": 24548329258,
-    "entry_timestamp": "2026-02-21T05:21:41.595",
-    "not_before": "2026-02-21T04:21:33",
-    "not_after": "2026-05-22T05:21:29",
-    "serial_number": "485d6f05f1a71d2b0d02c7c07a7dd6a6",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "phytozome.jgi.doe.gov",
-    "name_value": "phytozome.jgi.doe.gov",
     "id": 24548333588,
     "entry_timestamp": "2026-02-21T05:21:34.159",
     "not_before": "2026-02-21T04:21:33",
     "not_after": "2026-05-22T05:21:29",
     "serial_number": "485d6f05f1a71d2b0d02c7c07a7dd6a6",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "zome-igb-2.jgi.doe.gov",
-    "name_value": "zome-igb-2.jgi.doe.gov",
-    "id": 24545585970,
-    "entry_timestamp": "2026-02-21T02:10:54",
-    "not_before": "2026-02-21T01:10:37",
-    "not_after": "2026-05-22T02:10:34",
-    "serial_number": "0086313ef3089541be11919e430b559d3d",
     "result_count": 2
   },
   {
@@ -1264,47 +1252,11 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "gold.jgi.doe.gov",
     "name_value": "gold.jgi.doe.gov",
-    "id": 24492287990,
-    "entry_timestamp": "2026-02-18T14:56:00.678",
-    "not_before": "2026-02-18T13:50:47",
-    "not_after": "2026-05-19T14:50:31",
-    "serial_number": "009184fcb6ab6271050de2c78a88fa3c7d",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "gold.jgi.doe.gov",
-    "name_value": "gold.jgi.doe.gov",
     "id": 24492193198,
     "entry_timestamp": "2026-02-18T14:50:47.851",
     "not_before": "2026-02-18T13:50:47",
     "not_after": "2026-05-19T14:50:31",
     "serial_number": "009184fcb6ab6271050de2c78a88fa3c7d",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "uhgv.jgi.doe.gov",
-    "name_value": "uhgv.jgi.doe.gov",
-    "id": 24490993459,
-    "entry_timestamp": "2026-02-18T13:37:04.781",
-    "not_before": "2026-02-11T01:40:17",
-    "not_after": "2026-05-12T02:40:16",
-    "serial_number": "03ebd8d41d7876d00e2f461cd35ce73a",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "jaws-api.jgi.doe.gov",
-    "name_value": "jaws-api.jgi.doe.gov",
-    "id": 24490106757,
-    "entry_timestamp": "2026-02-18T12:40:04.971",
-    "not_before": "2026-02-18T11:36:34",
-    "not_after": "2026-05-19T12:36:33",
-    "serial_number": "3f58d95b4bb05d83110b7d72cc917930",
     "result_count": 2
   },
   {
@@ -1324,18 +1276,6 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "synbioqc-util.jgi.doe.gov",
     "name_value": "synbioqc-util.jgi.doe.gov",
-    "id": 24484001077,
-    "entry_timestamp": "2026-02-18T06:38:04.812",
-    "not_before": "2026-02-18T04:20:32",
-    "not_after": "2026-05-19T05:20:28",
-    "serial_number": "00880802b60aa6aac00ef3e29c459b88c0",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "synbioqc-util.jgi.doe.gov",
-    "name_value": "synbioqc-util.jgi.doe.gov",
     "id": 24483445996,
     "entry_timestamp": "2026-02-18T05:20:32.746",
     "not_before": "2026-02-18T04:20:32",
@@ -1348,35 +1288,11 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "frylock.jgi.doe.gov",
     "name_value": "frylock.jgi.doe.gov",
-    "id": 24482550465,
-    "entry_timestamp": "2026-02-18T05:16:09.661",
-    "not_before": "2026-02-18T04:15:16",
-    "not_after": "2026-05-19T05:15:12",
-    "serial_number": "7dd1c491394061400e4bbc24da5d3d63",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "frylock.jgi.doe.gov",
-    "name_value": "frylock.jgi.doe.gov",
     "id": 24482544823,
     "entry_timestamp": "2026-02-18T05:15:16.89",
     "not_before": "2026-02-18T04:15:16",
     "not_after": "2026-05-19T05:15:12",
     "serial_number": "7dd1c491394061400e4bbc24da5d3d63",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "uhura.jgi.doe.gov",
-    "name_value": "uhura.jgi.doe.gov",
-    "id": 24482367901,
-    "entry_timestamp": "2026-02-18T05:09:04.123",
-    "not_before": "2026-02-18T04:08:03",
-    "not_after": "2026-05-19T05:08:00",
-    "serial_number": "5bad623769b678b9135048edd55b864a",
     "result_count": 2
   },
   {
@@ -1480,18 +1396,6 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "brachypan.jgi.doe.gov",
     "name_value": "brachypan.jgi.doe.gov",
-    "id": 24472875563,
-    "entry_timestamp": "2026-02-17T18:25:51.416",
-    "not_before": "2026-02-17T17:24:48",
-    "not_after": "2026-05-18T18:24:46",
-    "serial_number": "0c010a39c6cbb2d60d321293038ac56b",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "brachypan.jgi.doe.gov",
-    "name_value": "brachypan.jgi.doe.gov",
     "id": 24472879789,
     "entry_timestamp": "2026-02-17T18:24:48.904",
     "not_before": "2026-02-17T17:24:48",
@@ -1552,35 +1456,11 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "metazome.jgi.doe.gov",
     "name_value": "metazome.jgi.doe.gov",
-    "id": 24467505612,
-    "entry_timestamp": "2026-02-17T12:59:53.404",
-    "not_before": "2026-02-17T11:59:47",
-    "not_after": "2026-05-18T12:59:43",
-    "serial_number": "0de5dfdb48c134680d4b3680bc954162",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "metazome.jgi.doe.gov",
-    "name_value": "metazome.jgi.doe.gov",
     "id": 24467507469,
     "entry_timestamp": "2026-02-17T12:59:47.669",
     "not_before": "2026-02-17T11:59:47",
     "not_after": "2026-05-18T12:59:43",
     "serial_number": "0de5dfdb48c134680d4b3680bc954162",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "proposals-l7.jgi.doe.gov",
-    "name_value": "proposals-l7.jgi.doe.gov",
-    "id": 24463215762,
-    "entry_timestamp": "2026-02-17T08:23:46.26",
-    "not_before": "2026-02-17T07:22:33",
-    "not_after": "2026-05-18T08:22:31",
-    "serial_number": "00e9f83fd83385bebc0ea67b020280ecf0",
     "result_count": 2
   },
   {
@@ -1600,35 +1480,11 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "projects-l7.jgi.doe.gov",
     "name_value": "projects-l7.jgi.doe.gov",
-    "id": 24460288094,
-    "entry_timestamp": "2026-02-17T05:03:31.106",
-    "not_before": "2026-02-17T04:03:17",
-    "not_after": "2026-05-18T05:03:14",
-    "serial_number": "533cdd57b82036c70de572b915472544",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "projects-l7.jgi.doe.gov",
-    "name_value": "projects-l7.jgi.doe.gov",
     "id": 24460287232,
     "entry_timestamp": "2026-02-17T05:03:17.596",
     "not_before": "2026-02-17T04:03:17",
     "not_after": "2026-05-18T05:03:14",
     "serial_number": "533cdd57b82036c70de572b915472544",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286244,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR3",
-    "common_name": "gcpdev.edx.netl.doe.gov",
-    "name_value": "gcpdev.edx.netl.doe.gov",
-    "id": 24447508181,
-    "entry_timestamp": "2026-02-16T14:15:23.636",
-    "not_before": "2026-02-09T23:53:04",
-    "not_after": "2026-05-11T00:48:58",
-    "serial_number": "00da367fb33977f80b09f367650e4108df",
     "result_count": 2
   },
   {
@@ -1648,35 +1504,11 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "uam-l7.jgi.doe.gov",
     "name_value": "uam-l7.jgi.doe.gov",
-    "id": 24440974811,
-    "entry_timestamp": "2026-02-16T06:58:46.81",
-    "not_before": "2026-02-16T05:55:18",
-    "not_after": "2026-05-17T06:55:14",
-    "serial_number": "00cc2c82ca6f8732b1135ff7ecdee695ef",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "uam-l7.jgi.doe.gov",
-    "name_value": "uam-l7.jgi.doe.gov",
     "id": 24440953800,
     "entry_timestamp": "2026-02-16T06:55:18.648",
     "not_before": "2026-02-16T05:55:18",
     "not_after": "2026-05-17T06:55:14",
     "serial_number": "00cc2c82ca6f8732b1135ff7ecdee695ef",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "bmap.jgi.doe.gov",
-    "name_value": "bmap.jgi.doe.gov",
-    "id": 24438313161,
-    "entry_timestamp": "2026-02-16T03:49:22.533",
-    "not_before": "2026-02-16T02:49:07",
-    "not_after": "2026-05-17T03:49:03",
-    "serial_number": "00f1894347d2f4b17d0dad73f8fac85c9c",
     "result_count": 2
   },
   {
@@ -1696,18 +1528,6 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "genome.jgi.doe.gov",
     "name_value": "genome.jgi.doe.gov",
-    "id": 24429542368,
-    "entry_timestamp": "2026-02-15T17:09:59.262",
-    "not_before": "2026-02-15T16:08:55",
-    "not_after": "2026-05-16T17:08:52",
-    "serial_number": "1d080812d40bf4880dc11bf40d7f7d88",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "genome.jgi.doe.gov",
-    "name_value": "genome.jgi.doe.gov",
     "id": 24429551619,
     "entry_timestamp": "2026-02-15T17:08:56.516",
     "not_before": "2026-02-15T16:08:55",
@@ -1720,47 +1540,11 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "boost-dev.jgi.doe.gov",
     "name_value": "boost-dev.jgi.doe.gov",
-    "id": 24428456961,
-    "entry_timestamp": "2026-02-15T15:52:44.493",
-    "not_before": "2026-02-15T14:51:28",
-    "not_after": "2026-05-16T15:51:27",
-    "serial_number": "7ca2025477bbc3b20d092846e6b656ff",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "boost-dev.jgi.doe.gov",
-    "name_value": "boost-dev.jgi.doe.gov",
     "id": 24428460636,
     "entry_timestamp": "2026-02-15T15:51:28.986",
     "not_before": "2026-02-15T14:51:28",
     "not_after": "2026-05-16T15:51:27",
     "serial_number": "7ca2025477bbc3b20d092846e6b656ff",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "grna.jgi.doe.gov",
-    "name_value": "grna.jgi.doe.gov",
-    "id": 24418144078,
-    "entry_timestamp": "2026-02-15T03:39:04.237",
-    "not_before": "2026-02-09T05:07:55",
-    "not_after": "2026-05-10T06:07:54",
-    "serial_number": "008d74575c7b70571811bd0b29bb3bfd1f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "gp-test.jgi.doe.gov",
-    "name_value": "gp-test.jgi.doe.gov",
-    "id": 24405020510,
-    "entry_timestamp": "2026-02-14T12:18:26.178",
-    "not_before": "2026-02-14T11:17:27",
-    "not_after": "2026-05-15T12:17:26",
-    "serial_number": "2493ec174419ad63111dd78865db76e6",
     "result_count": 2
   },
   {
@@ -2068,18 +1852,6 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
     "common_name": "accounts.empact.pars.doe.gov",
     "name_value": "accounts.empact.pars.doe.gov",
-    "id": 24374315543,
-    "entry_timestamp": "2026-02-13T05:19:36.231",
-    "not_before": "2026-02-13T04:21:05",
-    "not_after": "2026-05-14T04:21:04",
-    "serial_number": "06cdc7f78cd8a42475be1ff69e6c0fc372fa",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295813,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
-    "common_name": "accounts.empact.pars.doe.gov",
-    "name_value": "accounts.empact.pars.doe.gov",
     "id": 24374281844,
     "entry_timestamp": "2026-02-13T05:19:35.813",
     "not_before": "2026-02-13T04:21:05",
@@ -2200,18 +1972,6 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "img-spin.jgi.doe.gov",
     "name_value": "img-spin.jgi.doe.gov",
-    "id": 24351275914,
-    "entry_timestamp": "2026-02-12T06:25:53.677",
-    "not_before": "2026-02-12T05:24:28",
-    "not_after": "2026-05-13T06:24:24",
-    "serial_number": "26e38531f402f07c0dea85a3783c0111",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "img-spin.jgi.doe.gov",
-    "name_value": "img-spin.jgi.doe.gov",
     "id": 24351270896,
     "entry_timestamp": "2026-02-12T06:24:29.138",
     "not_before": "2026-02-12T05:24:28",
@@ -2268,6 +2028,18 @@
     "result_count": 4
   },
   {
+    "issuer_ca_id": 904,
+    "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+    "common_name": "*.nest.doe.gov",
+    "name_value": "*.nest.doe.gov\nnest.doe.gov",
+    "id": 24335687664,
+    "entry_timestamp": "2026-02-11T15:09:54.88",
+    "not_before": "2026-02-11T15:09:54",
+    "not_after": "2027-02-11T15:09:54",
+    "serial_number": "7224df37804821e2",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "jira.nnsa.kcnsc.doe.gov",
@@ -2277,18 +2049,6 @@
     "not_before": "2026-02-11T00:00:00",
     "not_after": "2027-03-14T23:59:59",
     "serial_number": "09cd65e04adafef7827a137361e86155",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "jaws-rmq.jgi.doe.gov",
-    "name_value": "jaws-rmq.jgi.doe.gov",
-    "id": 24323478728,
-    "entry_timestamp": "2026-02-11T02:49:15.537",
-    "not_before": "2026-02-11T01:48:07",
-    "not_after": "2026-05-12T02:48:05",
-    "serial_number": "00d95e5b4c628860c211758cab6b13b035",
     "result_count": 2
   },
   {
@@ -2313,30 +2073,6 @@
     "not_before": "2026-02-11T01:40:17",
     "not_after": "2026-05-12T02:40:16",
     "serial_number": "03ebd8d41d7876d00e2f461cd35ce73a",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "uhgv.jgi.doe.gov",
-    "name_value": "uhgv.jgi.doe.gov",
-    "id": 24323260776,
-    "entry_timestamp": "2026-02-11T02:40:15.972",
-    "not_before": "2025-12-13T20:38:11",
-    "not_after": "2026-03-13T21:38:10",
-    "serial_number": "00f892e0cd32085efb0d8970a128761cd7",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "objects.jgi.doe.gov",
-    "name_value": "objects.jgi.doe.gov",
-    "id": 24312604834,
-    "entry_timestamp": "2026-02-10T15:32:23.051",
-    "not_before": "2026-02-10T14:31:26",
-    "not_after": "2026-05-11T15:31:24",
-    "serial_number": "00f5271bdd2aa194b513277043efd65d0b",
     "result_count": 2
   },
   {
@@ -2380,35 +2116,11 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "grna-dev.jgi.doe.gov",
     "name_value": "grna-dev.jgi.doe.gov",
-    "id": 24309107781,
-    "entry_timestamp": "2026-02-10T12:03:21.663",
-    "not_before": "2026-02-10T11:03:02",
-    "not_after": "2026-05-11T12:03:00",
-    "serial_number": "00a783c34e2735fd7d138d34fa9b861ab5",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "grna-dev.jgi.doe.gov",
-    "name_value": "grna-dev.jgi.doe.gov",
     "id": 24309100517,
     "entry_timestamp": "2026-02-10T12:03:02.683",
     "not_before": "2026-02-10T11:03:02",
     "not_after": "2026-05-11T12:03:00",
     "serial_number": "00a783c34e2735fd7d138d34fa9b861ab5",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "jaws-ingest.jgi.doe.gov",
-    "name_value": "jaws-ingest.jgi.doe.gov",
-    "id": 24307124844,
-    "entry_timestamp": "2026-02-10T10:03:44.027",
-    "not_before": "2026-02-10T09:03:26",
-    "not_after": "2026-05-11T10:03:24",
-    "serial_number": "00f715929c6f451bab13c536371d57ea76",
     "result_count": 2
   },
   {
@@ -2445,18 +2157,6 @@
     "not_before": "2026-02-10T01:37:59",
     "not_after": "2026-05-11T01:37:58",
     "serial_number": "05ed65203cf26b051d4c8fc4b282065f770d",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286244,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR3",
-    "common_name": "gcpdev.edx.netl.doe.gov",
-    "name_value": "gcpdev.edx.netl.doe.gov",
-    "id": 24298394670,
-    "entry_timestamp": "2026-02-10T00:53:04.773",
-    "not_before": "2026-02-09T23:53:04",
-    "not_after": "2026-05-11T00:48:58",
-    "serial_number": "00da367fb33977f80b09f367650e4108df",
     "result_count": 2
   },
   {
@@ -2608,35 +2308,11 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "jaws-es-api.jgi.doe.gov",
     "name_value": "jaws-es-api.jgi.doe.gov",
-    "id": 24278683550,
-    "entry_timestamp": "2026-02-09T05:04:18.97",
-    "not_before": "2026-02-09T04:03:12",
-    "not_after": "2026-05-10T05:03:11",
-    "serial_number": "4ce78d5178f21e8011182776f1cec1ef",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "jaws-es-api.jgi.doe.gov",
-    "name_value": "jaws-es-api.jgi.doe.gov",
     "id": 24278679941,
     "entry_timestamp": "2026-02-09T05:03:13.435",
     "not_before": "2026-02-09T04:03:12",
     "not_after": "2026-05-10T05:03:11",
     "serial_number": "4ce78d5178f21e8011182776f1cec1ef",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "ports.jgi.doe.gov",
-    "name_value": "ports.jgi.doe.gov",
-    "id": 24261470358,
-    "entry_timestamp": "2026-02-08T09:47:29.184",
-    "not_before": "2026-02-08T08:46:23",
-    "not_after": "2026-05-09T09:46:20",
-    "serial_number": "00b1b772192dc6bd240e74f8279de2681b",
     "result_count": 2
   },
   {
@@ -2712,30 +2388,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 286244,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR3",
-    "common_name": "edx.netl.doe.gov",
-    "name_value": "edx.netl.doe.gov",
-    "id": 24226251749,
-    "entry_timestamp": "2026-02-06T16:33:51.687",
-    "not_before": "2026-02-06T14:21:37",
-    "not_after": "2026-05-07T15:17:31",
-    "serial_number": "00a8c1c0872fae10bc09096d9f957a8818",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286244,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR3",
-    "common_name": "edx.netl.doe.gov",
-    "name_value": "edx.netl.doe.gov",
-    "id": 24225055907,
-    "entry_timestamp": "2026-02-06T15:21:37.711",
-    "not_before": "2026-02-06T14:21:37",
-    "not_after": "2026-05-07T15:17:31",
-    "serial_number": "00a8c1c0872fae10bc09096d9f957a8818",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 385512,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
     "common_name": "directives.nnsa-dev.doe.gov",
@@ -2781,18 +2433,6 @@
     "not_before": "2026-02-05T00:00:00",
     "not_after": "2026-08-23T23:59:59",
     "serial_number": "068ba981ceaa639cdffdfdb2843d4a98",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "synbioqc.jgi.doe.gov",
-    "name_value": "synbioqc.jgi.doe.gov",
-    "id": 24200697011,
-    "entry_timestamp": "2026-02-05T11:19:30.259",
-    "not_before": "2026-02-05T10:19:12",
-    "not_after": "2026-05-06T11:19:08",
-    "serial_number": "00852741091684acf013dbe94fe65d8643",
     "result_count": 2
   },
   {
@@ -2896,18 +2536,6 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "ani.jgi.doe.gov",
     "name_value": "ani.jgi.doe.gov",
-    "id": 24165060043,
-    "entry_timestamp": "2026-02-03T19:13:28.369",
-    "not_before": "2026-02-03T18:12:20",
-    "not_after": "2026-05-04T19:12:18",
-    "serial_number": "00ad1385846691bc0c0dc4d6e65410eeef",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "ani.jgi.doe.gov",
-    "name_value": "ani.jgi.doe.gov",
     "id": 24165064908,
     "entry_timestamp": "2026-02-03T19:12:20.903",
     "not_before": "2026-02-03T18:12:20",
@@ -3004,47 +2632,11 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "ani-dev.jgi.doe.gov",
     "name_value": "ani-dev.jgi.doe.gov",
-    "id": 24152418353,
-    "entry_timestamp": "2026-02-03T05:20:25.943",
-    "not_before": "2026-02-03T04:18:15",
-    "not_after": "2026-05-04T05:18:13",
-    "serial_number": "00cb5d8eba983caaa61349349fb7361742",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "ani-dev.jgi.doe.gov",
-    "name_value": "ani-dev.jgi.doe.gov",
     "id": 24152411707,
     "entry_timestamp": "2026-02-03T05:18:15.9",
     "not_before": "2026-02-03T04:18:15",
     "not_after": "2026-05-04T05:18:13",
     "serial_number": "00cb5d8eba983caaa61349349fb7361742",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "ani-dev.jgi.doe.gov",
-    "name_value": "ani-dev.jgi.doe.gov",
-    "id": 24152392330,
-    "entry_timestamp": "2026-02-03T05:18:13.715",
-    "not_before": "2025-12-06T01:03:49",
-    "not_after": "2026-03-06T02:03:45",
-    "serial_number": "40a71c458c2b8a4a0d9b04775b23dfbc",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "demux.jgi.doe.gov",
-    "name_value": "demux.jgi.doe.gov",
-    "id": 24147638797,
-    "entry_timestamp": "2026-02-02T23:40:58.31",
-    "not_before": "2026-02-02T22:39:59",
-    "not_after": "2026-05-03T23:39:55",
-    "serial_number": "00c195a577770b82e4136813988b5ee3c2",
     "result_count": 2
   },
   {
@@ -3184,35 +2776,11 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "portal-web-1.jgi.doe.gov",
     "name_value": "portal-web-1.jgi.doe.gov",
-    "id": 24119790840,
-    "entry_timestamp": "2026-02-01T14:13:41.438",
-    "not_before": "2026-02-01T13:13:18",
-    "not_after": "2026-05-02T14:13:16",
-    "serial_number": "4241827c54b8db050e5cea5e4f193aa3",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "portal-web-1.jgi.doe.gov",
-    "name_value": "portal-web-1.jgi.doe.gov",
     "id": 24119777732,
     "entry_timestamp": "2026-02-01T14:13:19.418",
     "not_before": "2026-02-01T13:13:18",
     "not_after": "2026-05-02T14:13:16",
     "serial_number": "4241827c54b8db050e5cea5e4f193aa3",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "portal-web-2.jgi.doe.gov",
-    "name_value": "portal-web-2.jgi.doe.gov",
-    "id": 24108279331,
-    "entry_timestamp": "2026-02-01T00:22:48.273",
-    "not_before": "2026-01-31T23:22:38",
-    "not_after": "2026-05-02T00:22:35",
-    "serial_number": "00ab46a33e99b0bc0ee1ab89bab37308",
     "result_count": 2
   },
   {
@@ -3232,35 +2800,11 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "portal-web-3.jgi.doe.gov",
     "name_value": "portal-web-3.jgi.doe.gov",
-    "id": 24098576701,
-    "entry_timestamp": "2026-01-31T12:39:51.595",
-    "not_before": "2026-01-31T11:38:52",
-    "not_after": "2026-05-01T12:38:49",
-    "serial_number": "00815209b0d2710d6e0dac1cd82a819ed0",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "portal-web-3.jgi.doe.gov",
-    "name_value": "portal-web-3.jgi.doe.gov",
     "id": 24098580617,
     "entry_timestamp": "2026-01-31T12:38:53.359",
     "not_before": "2026-01-31T11:38:52",
     "not_after": "2026-05-01T12:38:49",
     "serial_number": "00815209b0d2710d6e0dac1cd82a819ed0",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295813,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
-    "common_name": "newsletter.pars.doe.gov",
-    "name_value": "newsletter.pars.doe.gov",
-    "id": 24098421161,
-    "entry_timestamp": "2026-01-31T12:26:32.93",
-    "not_before": "2026-01-31T11:28:01",
-    "not_after": "2026-05-01T11:28:00",
-    "serial_number": "0546e647f27666cea68680184a2f5f275465",
     "result_count": 2
   },
   {
@@ -3280,35 +2824,11 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "metatlas.jgi.doe.gov",
     "name_value": "metatlas.jgi.doe.gov",
-    "id": 24094957540,
-    "entry_timestamp": "2026-01-31T08:09:31.609",
-    "not_before": "2026-01-31T07:06:54",
-    "not_after": "2026-05-01T08:06:52",
-    "serial_number": "00a98f4224eaf041d90d9fecd66c801a2c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "metatlas.jgi.doe.gov",
-    "name_value": "metatlas.jgi.doe.gov",
     "id": 24094939112,
     "entry_timestamp": "2026-01-31T08:06:55.054",
     "not_before": "2026-01-31T07:06:54",
     "not_after": "2026-05-01T08:06:52",
     "serial_number": "00a98f4224eaf041d90d9fecd66c801a2c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "mycocosm-dev.jgi.doe.gov",
-    "name_value": "mycocosm-dev.jgi.doe.gov",
-    "id": 24090035088,
-    "entry_timestamp": "2026-01-31T02:00:35.141",
-    "not_before": "2026-01-31T01:00:26",
-    "not_after": "2026-05-01T02:00:24",
-    "serial_number": "44b313466a2b6539116e16329c7ae232",
     "result_count": 2
   },
   {
@@ -3328,47 +2848,11 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "profile.jgi.doe.gov",
     "name_value": "profile.jgi.doe.gov",
-    "id": 24088097804,
-    "entry_timestamp": "2026-01-30T23:54:59.959",
-    "not_before": "2026-01-30T22:51:47",
-    "not_after": "2026-04-30T23:51:44",
-    "serial_number": "2eea6000bc27a4b90d7a14eacee1a374",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "profile.jgi.doe.gov",
-    "name_value": "profile.jgi.doe.gov",
     "id": 24088069426,
     "entry_timestamp": "2026-01-30T23:51:48.537",
     "not_before": "2026-01-30T22:51:47",
     "not_after": "2026-04-30T23:51:44",
     "serial_number": "2eea6000bc27a4b90d7a14eacee1a374",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "nelli.jgi.doe.gov",
-    "name_value": "nelli.jgi.doe.gov",
-    "id": 24084582923,
-    "entry_timestamp": "2026-01-30T19:57:35.976",
-    "not_before": "2026-01-30T02:06:55",
-    "not_after": "2026-04-30T03:06:51",
-    "serial_number": "00e09f2cf2cba3cad411b8b251929279bb",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "portal-web-4.jgi.doe.gov",
-    "name_value": "portal-web-4.jgi.doe.gov",
-    "id": 24074072207,
-    "entry_timestamp": "2026-01-30T08:21:46.041",
-    "not_before": "2026-01-30T07:19:29",
-    "not_after": "2026-04-30T08:19:27",
-    "serial_number": "00c5fd1677d6b4d91813f87114b5032eb1",
     "result_count": 2
   },
   {
@@ -3381,30 +2865,6 @@
     "not_before": "2026-01-30T07:19:29",
     "not_after": "2026-04-30T08:19:27",
     "serial_number": "00c5fd1677d6b4d91813f87114b5032eb1",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "clip.jgi.doe.gov",
-    "name_value": "clip.jgi.doe.gov",
-    "id": 24073812114,
-    "entry_timestamp": "2026-01-30T08:04:53.098",
-    "not_before": "2026-01-29T03:50:05",
-    "not_after": "2026-04-29T04:50:03",
-    "serial_number": "174c23aebfc05c9813d8914bb5ff5530",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "vega.jgi.doe.gov",
-    "name_value": "vega.jgi.doe.gov",
-    "id": 24071821544,
-    "entry_timestamp": "2026-01-30T05:31:37.311",
-    "not_before": "2026-01-30T04:30:16",
-    "not_after": "2026-04-30T05:30:13",
-    "serial_number": "00bd3ba0f6585facfd0eb858a0e9d6bba0",
     "result_count": 2
   },
   {
@@ -3460,35 +2920,11 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "gnps2.jgi.doe.gov",
     "name_value": "gnps2.jgi.doe.gov",
-    "id": 24065724510,
-    "entry_timestamp": "2026-01-29T21:58:09.683",
-    "not_before": "2026-01-29T20:58:02",
-    "not_after": "2026-04-29T21:57:58",
-    "serial_number": "07871afe3a8e2bd60e07e90a9f0bfc4e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "gnps2.jgi.doe.gov",
-    "name_value": "gnps2.jgi.doe.gov",
     "id": 24065726957,
     "entry_timestamp": "2026-01-29T21:58:03.128",
     "not_before": "2026-01-29T20:58:02",
     "not_after": "2026-04-29T21:57:58",
     "serial_number": "07871afe3a8e2bd60e07e90a9f0bfc4e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "identity.jgi.doe.gov",
-    "name_value": "identity.jgi.doe.gov",
-    "id": 24062227797,
-    "entry_timestamp": "2026-01-29T17:50:02.972",
-    "not_before": "2026-01-29T16:48:19",
-    "not_after": "2026-04-29T17:48:15",
-    "serial_number": "008657c26b7b2c1bd00e6c5ce5b03b52d4",
     "result_count": 2
   },
   {
@@ -3513,18 +2949,6 @@
     "not_before": "2026-01-29T03:50:05",
     "not_after": "2026-04-29T04:50:03",
     "serial_number": "174c23aebfc05c9813d8914bb5ff5530",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "clip-stage.jgi.doe.gov",
-    "name_value": "clip-stage.jgi.doe.gov",
-    "id": 24044351007,
-    "entry_timestamp": "2026-01-28T22:45:54.208",
-    "not_before": "2026-01-28T20:30:40",
-    "not_after": "2026-04-28T21:30:38",
-    "serial_number": "77a0ca27744a01e20e18aa0cf7d8008a",
     "result_count": 2
   },
   {
@@ -3652,35 +3076,11 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "jaws-dev.jgi.doe.gov",
     "name_value": "jaws-dev.jgi.doe.gov",
-    "id": 24009230020,
-    "entry_timestamp": "2026-01-27T10:16:47.128",
-    "not_before": "2026-01-27T09:16:39",
-    "not_after": "2026-04-27T10:16:36",
-    "serial_number": "299d2732417638c00d2d349f8aca7e28",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "jaws-dev.jgi.doe.gov",
-    "name_value": "jaws-dev.jgi.doe.gov",
     "id": 24009230295,
     "entry_timestamp": "2026-01-27T10:16:40.028",
     "not_before": "2026-01-27T09:16:39",
     "not_after": "2026-04-27T10:16:36",
     "serial_number": "299d2732417638c00d2d349f8aca7e28",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "alertmanager.jgi.doe.gov",
-    "name_value": "alertmanager.jgi.doe.gov",
-    "id": 24008981563,
-    "entry_timestamp": "2026-01-27T10:01:14.319",
-    "not_before": "2026-01-27T08:58:43",
-    "not_after": "2026-04-27T09:58:39",
-    "serial_number": "46de63366842b7a011853809c3659e25",
     "result_count": 2
   },
   {
@@ -3700,59 +3100,11 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "grafana.jgi.doe.gov",
     "name_value": "grafana.jgi.doe.gov",
-    "id": 24005654018,
-    "entry_timestamp": "2026-01-27T06:28:54.475",
-    "not_before": "2026-01-27T05:28:44",
-    "not_after": "2026-04-27T06:28:43",
-    "serial_number": "05330842ffc953570e1336bd4d83f78f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "grafana.jgi.doe.gov",
-    "name_value": "grafana.jgi.doe.gov",
     "id": 24005674533,
     "entry_timestamp": "2026-01-27T06:28:45.161",
     "not_before": "2026-01-27T05:28:44",
     "not_after": "2026-04-27T06:28:43",
     "serial_number": "05330842ffc953570e1336bd4d83f78f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "jamo-dev.jgi.doe.gov",
-    "name_value": "jamo-dev.jgi.doe.gov",
-    "id": 24005418080,
-    "entry_timestamp": "2026-01-27T06:14:02.051",
-    "not_before": "2026-01-26T18:00:37",
-    "not_after": "2026-04-26T19:00:33",
-    "serial_number": "11bf4324e2b018731100ebeedd8b7566",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "jamo.jgi.doe.gov",
-    "name_value": "jamo.jgi.doe.gov",
-    "id": 24000659407,
-    "entry_timestamp": "2026-01-27T00:39:18.296",
-    "not_before": "2026-01-26T06:56:58",
-    "not_after": "2026-04-26T07:56:56",
-    "serial_number": "009892ed236198505d113be329a658dcd3",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "synbiotools.jgi.doe.gov",
-    "name_value": "synbiotools.jgi.doe.gov",
-    "id": 23998090281,
-    "entry_timestamp": "2026-01-26T21:25:41.61",
-    "not_before": "2026-01-26T03:10:07",
-    "not_after": "2026-04-26T04:10:04",
-    "serial_number": "48e39824b5119ace137ca8af46f26190",
     "result_count": 2
   },
   {
@@ -3868,18 +3220,6 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "prometheus.jgi.doe.gov",
     "name_value": "prometheus.jgi.doe.gov",
-    "id": 23965371126,
-    "entry_timestamp": "2026-01-25T04:56:10.961",
-    "not_before": "2026-01-25T03:54:27",
-    "not_after": "2026-04-25T04:54:25",
-    "serial_number": "00b027bd919f13b69b1106afed49646748",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "prometheus.jgi.doe.gov",
-    "name_value": "prometheus.jgi.doe.gov",
     "id": 23965366444,
     "entry_timestamp": "2026-01-25T04:54:27.566",
     "not_before": "2026-01-25T03:54:27",
@@ -3964,18 +3304,6 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "gold-ws.jgi.doe.gov",
     "name_value": "gold-ws.jgi.doe.gov",
-    "id": 23925089456,
-    "entry_timestamp": "2026-01-22T23:42:38.554",
-    "not_before": "2026-01-22T22:42:30",
-    "not_after": "2026-04-22T23:42:28",
-    "serial_number": "00856f2d14e9196364111748f119b2ed0d",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "gold-ws.jgi.doe.gov",
-    "name_value": "gold-ws.jgi.doe.gov",
     "id": 23925107040,
     "entry_timestamp": "2026-01-22T23:42:31.065",
     "not_before": "2026-01-22T22:42:30",
@@ -4012,6 +3340,18 @@
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "*.jgi.doe.gov",
     "name_value": "*.jgi.doe.gov\njgi.doe.gov",
+    "id": 23924837861,
+    "entry_timestamp": "2026-01-22T23:18:45.554",
+    "not_before": "2026-01-22T00:00:00",
+    "not_after": "2027-02-22T23:59:59",
+    "serial_number": "0cd7dd042d988461610b90150adeff40",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "*.jgi.doe.gov",
+    "name_value": "*.jgi.doe.gov\njgi.doe.gov",
     "id": 23924630271,
     "entry_timestamp": "2026-01-22T23:04:25.351",
     "not_before": "2026-01-22T00:00:00",
@@ -4029,18 +3369,6 @@
     "not_before": "2026-01-22T19:15:34",
     "not_after": "2026-04-22T20:15:33",
     "serial_number": "0485435504c744e4118b2112f2b7bdc1",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "support.pars.doe.gov",
-    "name_value": "support.pars.doe.gov",
-    "id": 23922542914,
-    "entry_timestamp": "2026-01-22T20:05:25.691",
-    "not_before": "2026-01-22T18:27:26",
-    "not_after": "2026-04-22T19:27:21",
-    "serial_number": "482f19a5cc6aa8d50d7bc9b8f2e3d65f",
     "result_count": 2
   },
   {
@@ -4120,35 +3448,11 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "gold-dev.jgi.doe.gov",
     "name_value": "gold-dev.jgi.doe.gov",
-    "id": 23918430092,
-    "entry_timestamp": "2026-01-22T14:47:27.694",
-    "not_before": "2026-01-22T12:35:43",
-    "not_after": "2026-04-22T13:35:41",
-    "serial_number": "3918fb7ff3123d2813f827164c5a545c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "gold-dev.jgi.doe.gov",
-    "name_value": "gold-dev.jgi.doe.gov",
     "id": 23917524952,
     "entry_timestamp": "2026-01-22T13:35:43.606",
     "not_before": "2026-01-22T12:35:43",
     "not_after": "2026-04-22T13:35:41",
     "serial_number": "3918fb7ff3123d2813f827164c5a545c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "illumina.jgi.doe.gov",
-    "name_value": "illumina.jgi.doe.gov",
-    "id": 23912725720,
-    "entry_timestamp": "2026-01-22T07:24:16.273",
-    "not_before": "2026-01-22T06:23:49",
-    "not_after": "2026-04-22T07:23:47",
-    "serial_number": "00cf2bc968f11e5abe11dc587ffa666ce2",
     "result_count": 2
   },
   {
@@ -4264,18 +3568,6 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "mgm.jgi.doe.gov",
     "name_value": "mgm.jgi.doe.gov",
-    "id": 23891986482,
-    "entry_timestamp": "2026-01-21T03:38:22.245",
-    "not_before": "2026-01-21T02:38:05",
-    "not_after": "2026-04-21T03:38:01",
-    "serial_number": "009954c8be5150d24b0de48508101cf1af",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "mgm.jgi.doe.gov",
-    "name_value": "mgm.jgi.doe.gov",
     "id": 23891980016,
     "entry_timestamp": "2026-01-21T03:38:06.077",
     "not_before": "2026-01-21T02:38:05",
@@ -4348,18 +3640,6 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "dce-dev.jgi.doe.gov",
     "name_value": "dce-dev.jgi.doe.gov",
-    "id": 23857978753,
-    "entry_timestamp": "2026-01-19T10:16:29.237",
-    "not_before": "2026-01-19T09:16:22",
-    "not_after": "2026-04-19T10:16:18",
-    "serial_number": "00c0f86c2b8692213d1376eb999f4e4f42",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "dce-dev.jgi.doe.gov",
-    "name_value": "dce-dev.jgi.doe.gov",
     "id": 23857978889,
     "entry_timestamp": "2026-01-19T10:16:23.366",
     "not_before": "2026-01-19T09:16:22",
@@ -4384,35 +3664,11 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "jaws-staging.jgi.doe.gov",
     "name_value": "jaws-staging.jgi.doe.gov",
-    "id": 23848091751,
-    "entry_timestamp": "2026-01-18T23:01:21.393",
-    "not_before": "2026-01-18T21:59:43",
-    "not_after": "2026-04-18T22:59:41",
-    "serial_number": "7a22c321ef74dd250ebb2e0e5e94aac0",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "jaws-staging.jgi.doe.gov",
-    "name_value": "jaws-staging.jgi.doe.gov",
     "id": 23848085605,
     "entry_timestamp": "2026-01-18T22:59:43.978",
     "not_before": "2026-01-18T21:59:43",
     "not_after": "2026-04-18T22:59:41",
     "serial_number": "7a22c321ef74dd250ebb2e0e5e94aac0",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "archive.jgi.doe.gov",
-    "name_value": "archive.jgi.doe.gov",
-    "id": 23832570150,
-    "entry_timestamp": "2026-01-18T02:42:11.962",
-    "not_before": "2026-01-18T00:33:21",
-    "not_after": "2026-04-18T01:33:17",
-    "serial_number": "00c37cd27c51e4caa80d761338dc9d8516",
     "result_count": 2
   },
   {
@@ -4672,18 +3928,6 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "pages.jgi.doe.gov",
     "name_value": "pages.jgi.doe.gov",
-    "id": 23799502278,
-    "entry_timestamp": "2026-01-16T10:03:02.795",
-    "not_before": "2026-01-16T09:02:02",
-    "not_after": "2026-04-16T10:01:58",
-    "serial_number": "756fb22dda83edea1382da0238370ac8",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "pages.jgi.doe.gov",
-    "name_value": "pages.jgi.doe.gov",
     "id": 23799501553,
     "entry_timestamp": "2026-01-16T10:02:02.757",
     "not_before": "2026-01-16T09:02:02",
@@ -4713,18 +3957,6 @@
     "not_before": "2026-01-16T02:29:42",
     "not_after": "2026-04-16T03:29:40",
     "serial_number": "3eb80692a05ce8870e7422abd34da67e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "jaws.jgi.doe.gov",
-    "name_value": "jaws.jgi.doe.gov",
-    "id": 23793610135,
-    "entry_timestamp": "2026-01-16T02:28:05.83",
-    "not_before": "2026-01-16T01:27:58",
-    "not_after": "2026-04-16T02:27:54",
-    "serial_number": "393d7db679200ee411c5f31ac7597983",
     "result_count": 2
   },
   {
@@ -4780,24 +4012,24 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "myco-test.jgi.doe.gov",
     "name_value": "myco-test.jgi.doe.gov",
-    "id": 23774567008,
-    "entry_timestamp": "2026-01-15T03:20:13.125",
-    "not_before": "2026-01-15T02:18:28",
-    "not_after": "2026-04-15T03:18:26",
-    "serial_number": "00c2b186e4dab4a1c90eb89485a80d1379",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "myco-test.jgi.doe.gov",
-    "name_value": "myco-test.jgi.doe.gov",
     "id": 23774558989,
     "entry_timestamp": "2026-01-15T03:18:28.573",
     "not_before": "2026-01-15T02:18:28",
     "not_after": "2026-04-15T03:18:26",
     "serial_number": "00c2b186e4dab4a1c90eb89485a80d1379",
     "result_count": 2
+  },
+  {
+    "issuer_ca_id": 904,
+    "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+    "common_name": "*.nwm.doe.gov",
+    "name_value": "*.nwm.doe.gov\nnwm.doe.gov",
+    "id": 23768002604,
+    "entry_timestamp": "2026-01-14T19:36:58.357",
+    "not_before": "2026-01-14T19:36:57",
+    "not_after": "2027-02-11T07:32:54",
+    "serial_number": "5d2b65f473b762d9",
+    "result_count": 3
   },
   {
     "issuer_ca_id": 385512,
@@ -4852,18 +4084,6 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
     "common_name": "ascr-discovery.science.doe.gov",
     "name_value": "ascr-discovery.science.doe.gov",
-    "id": 23761066913,
-    "entry_timestamp": "2026-01-14T11:05:14.67",
-    "not_before": "2026-01-14T10:06:44",
-    "not_after": "2026-04-14T10:06:43",
-    "serial_number": "05ed6d7d9582845d77536b8140b16554bfbd",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295809,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
-    "common_name": "ascr-discovery.science.doe.gov",
-    "name_value": "ascr-discovery.science.doe.gov",
     "id": 23761053401,
     "entry_timestamp": "2026-01-14T11:05:14.35",
     "not_before": "2026-01-14T10:06:44",
@@ -4881,18 +4101,6 @@
     "not_before": "2026-01-14T08:51:29",
     "not_after": "2026-04-14T09:51:27",
     "serial_number": "00aac3059661888d891198be2e6a92f7c7",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "mycocosm.jgi.doe.gov",
-    "name_value": "mycocosm.jgi.doe.gov",
-    "id": 23758653068,
-    "entry_timestamp": "2026-01-14T08:15:41.655",
-    "not_before": "2026-01-14T07:14:48",
-    "not_after": "2026-04-14T08:14:46",
-    "serial_number": "00c6cb03371bca766e11adcd88965565ff",
     "result_count": 2
   },
   {
@@ -4924,18 +4132,6 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "bbmapservers.jgi.doe.gov",
     "name_value": "bbmapservers.jgi.doe.gov",
-    "id": 23754160968,
-    "entry_timestamp": "2026-01-14T02:47:29.602",
-    "not_before": "2026-01-14T01:45:04",
-    "not_after": "2026-04-14T02:45:03",
-    "serial_number": "1db9958764070f6f13d9b886264664cc",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "bbmapservers.jgi.doe.gov",
-    "name_value": "bbmapservers.jgi.doe.gov",
     "id": 23754142989,
     "entry_timestamp": "2026-01-14T02:45:05.267",
     "not_before": "2026-01-14T01:45:04",
@@ -4948,35 +4144,11 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "phyco-test.jgi.doe.gov",
     "name_value": "phyco-test.jgi.doe.gov",
-    "id": 23753229452,
-    "entry_timestamp": "2026-01-14T01:40:29.149",
-    "not_before": "2026-01-14T00:38:25",
-    "not_after": "2026-04-14T01:38:23",
-    "serial_number": "788e5ab913b5f394132d4aa4549c8beb",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "phyco-test.jgi.doe.gov",
-    "name_value": "phyco-test.jgi.doe.gov",
     "id": 23753206843,
     "entry_timestamp": "2026-01-14T01:38:25.988",
     "not_before": "2026-01-14T00:38:25",
     "not_after": "2026-04-14T01:38:23",
     "serial_number": "788e5ab913b5f394132d4aa4549c8beb",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "phycocosm.jgi.doe.gov",
-    "name_value": "phycocosm.jgi.doe.gov",
-    "id": 23734251408,
-    "entry_timestamp": "2026-01-13T03:40:07.423",
-    "not_before": "2026-01-13T02:37:44",
-    "not_after": "2026-04-13T03:37:40",
-    "serial_number": "0087c7c7767fdb4881113a18995dba2e96",
     "result_count": 2
   },
   {
@@ -5013,18 +4185,6 @@
     "not_before": "2026-01-12T00:00:00",
     "not_after": "2027-01-12T23:59:59",
     "serial_number": "00adca72d7ac815ed11c0d52de4b231ea0",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "smc-api.jgi.doe.gov",
-    "name_value": "smc-api.jgi.doe.gov",
-    "id": 23727633285,
-    "entry_timestamp": "2026-01-12T19:40:48.74",
-    "not_before": "2026-01-12T18:37:52",
-    "not_after": "2026-04-12T19:37:49",
-    "serial_number": "00f37cb0b42ce3b7d713c453431f817719",
     "result_count": 2
   },
   {
@@ -5260,18 +4420,6 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "spacers.jgi.doe.gov",
     "name_value": "spacers.jgi.doe.gov",
-    "id": 23702235302,
-    "entry_timestamp": "2026-01-11T15:36:54.623",
-    "not_before": "2026-01-11T14:34:58",
-    "not_after": "2026-04-11T15:34:56",
-    "serial_number": "04c50a4755893afb11ed1cca7da356f8",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "spacers.jgi.doe.gov",
-    "name_value": "spacers.jgi.doe.gov",
     "id": 23702214118,
     "entry_timestamp": "2026-01-11T15:34:59.319",
     "not_before": "2026-01-11T14:34:58",
@@ -5284,35 +4432,11 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "img-dev.jgi.doe.gov",
     "name_value": "img-dev.jgi.doe.gov",
-    "id": 23699180249,
-    "entry_timestamp": "2026-01-11T12:14:34.899",
-    "not_before": "2026-01-11T11:14:18",
-    "not_after": "2026-04-11T12:14:17",
-    "serial_number": "647026b772f4189b13bbe8b6c7224bab",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "img-dev.jgi.doe.gov",
-    "name_value": "img-dev.jgi.doe.gov",
     "id": 23699196533,
     "entry_timestamp": "2026-01-11T12:14:18.731",
     "not_before": "2026-01-11T11:14:18",
     "not_after": "2026-04-11T12:14:17",
     "serial_number": "647026b772f4189b13bbe8b6c7224bab",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "branchwater.jgi.doe.gov",
-    "name_value": "branchwater.jgi.doe.gov",
-    "id": 23690949270,
-    "entry_timestamp": "2026-01-11T02:55:59.541",
-    "not_before": "2026-01-11T01:53:50",
-    "not_after": "2026-04-11T02:53:48",
-    "serial_number": "7c4ec49649ed31e70e714fe1934ac349",
     "result_count": 2
   },
   {
@@ -5337,18 +4461,6 @@
     "not_before": "2026-01-10T15:36:16",
     "not_after": "2026-04-10T16:36:15",
     "serial_number": "68f22c91663189720eacb0bd2597651d",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "syntrack.jgi.doe.gov",
-    "name_value": "syntrack.jgi.doe.gov",
-    "id": 23677684297,
-    "entry_timestamp": "2026-01-10T11:49:18.707",
-    "not_before": "2026-01-10T10:49:12",
-    "not_after": "2026-04-10T11:49:08",
-    "serial_number": "00b9a96df6ca7088c00e1bda6c113709f1",
     "result_count": 2
   },
   {
@@ -5385,18 +4497,6 @@
     "not_before": "2026-01-09T00:00:00",
     "not_after": "2027-01-09T23:59:59",
     "serial_number": "5de750fc51ed392675080aa01e9b2b",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "registry.jgi.doe.gov",
-    "name_value": "registry.jgi.doe.gov",
-    "id": 23657778444,
-    "entry_timestamp": "2026-01-09T14:34:53.036",
-    "not_before": "2026-01-09T13:34:38",
-    "not_after": "2026-04-09T14:34:35",
-    "serial_number": "00ab0e8365c108985811a86c0b0e9e9b95",
     "result_count": 2
   },
   {
@@ -5500,18 +4600,6 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "igsp-lookup.jgi.doe.gov",
     "name_value": "igsp-lookup.jgi.doe.gov",
-    "id": 23630258212,
-    "entry_timestamp": "2026-01-08T10:55:41.229",
-    "not_before": "2026-01-08T09:52:56",
-    "not_after": "2026-04-08T10:52:53",
-    "serial_number": "2e8c36caddc6d5ab11c1b3b681fdb067",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "igsp-lookup.jgi.doe.gov",
-    "name_value": "igsp-lookup.jgi.doe.gov",
     "id": 23630240545,
     "entry_timestamp": "2026-01-08T10:52:56.598",
     "not_before": "2026-01-08T09:52:56",
@@ -5572,18 +4660,6 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "boost.jgi.doe.gov",
     "name_value": "boost.jgi.doe.gov",
-    "id": 23610394858,
-    "entry_timestamp": "2026-01-07T14:15:35.741",
-    "not_before": "2026-01-07T13:15:16",
-    "not_after": "2026-04-07T14:15:12",
-    "serial_number": "4902c15b68b77f05130d0563a4a7385e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "boost.jgi.doe.gov",
-    "name_value": "boost.jgi.doe.gov",
     "id": 23610396141,
     "entry_timestamp": "2026-01-07T14:15:16.637",
     "not_before": "2026-01-07T13:15:16",
@@ -5596,35 +4672,11 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "boost-int.jgi.doe.gov",
     "name_value": "boost-int.jgi.doe.gov",
-    "id": 23605427363,
-    "entry_timestamp": "2026-01-07T08:56:10.942",
-    "not_before": "2026-01-07T07:55:55",
-    "not_after": "2026-04-07T08:55:53",
-    "serial_number": "15730ae9590df45c138cdb174647ad4d",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "boost-int.jgi.doe.gov",
-    "name_value": "boost-int.jgi.doe.gov",
     "id": 23605442863,
     "entry_timestamp": "2026-01-07T08:55:56.054",
     "not_before": "2026-01-07T07:55:55",
     "not_after": "2026-04-07T08:55:53",
     "serial_number": "15730ae9590df45c138cdb174647ad4d",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "nt-sketch2.jgi.doe.gov",
-    "name_value": "nt-sketch2.jgi.doe.gov",
-    "id": 23595643172,
-    "entry_timestamp": "2026-01-06T21:50:46.155",
-    "not_before": "2026-01-06T20:48:07",
-    "not_after": "2026-04-06T21:48:05",
-    "serial_number": "4e7a16ad4f4fcf451327be321c0f5702",
     "result_count": 2
   },
   {
@@ -5697,18 +4749,6 @@
     "not_before": "2026-01-06T00:00:00",
     "not_after": "2027-01-06T23:59:59",
     "serial_number": "00cb017e4cf662bd61c6fb093b49aca8a2",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "clip-uat.jgi.doe.gov",
-    "name_value": "clip-uat.jgi.doe.gov",
-    "id": 23591024195,
-    "entry_timestamp": "2026-01-06T16:48:41.499",
-    "not_before": "2026-01-06T15:46:55",
-    "not_after": "2026-04-06T16:46:50",
-    "serial_number": "0ded1694574b8853133715a8b5408346",
     "result_count": 2
   },
   {
@@ -5812,18 +4852,6 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "auth.jgi.doe.gov",
     "name_value": "auth.jgi.doe.gov",
-    "id": 23586674928,
-    "entry_timestamp": "2026-01-06T12:06:52.408",
-    "not_before": "2026-01-06T11:06:42",
-    "not_after": "2026-04-06T12:06:39",
-    "serial_number": "00f4d8ce9c1f386e510e8921ff9cc32292",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "auth.jgi.doe.gov",
-    "name_value": "auth.jgi.doe.gov",
     "id": 23586677635,
     "entry_timestamp": "2026-01-06T12:06:42.571",
     "not_before": "2026-01-06T11:06:42",
@@ -5836,35 +4864,11 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "otel.jgi.doe.gov",
     "name_value": "otel.jgi.doe.gov",
-    "id": 23586079751,
-    "entry_timestamp": "2026-01-06T11:27:20.572",
-    "not_before": "2026-01-06T10:26:01",
-    "not_after": "2026-04-06T11:25:58",
-    "serial_number": "00e6aab7265c91384b1345c4b69843e9a7",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "otel.jgi.doe.gov",
-    "name_value": "otel.jgi.doe.gov",
     "id": 23586076251,
     "entry_timestamp": "2026-01-06T11:26:02.067",
     "not_before": "2026-01-06T10:26:01",
     "not_after": "2026-04-06T11:25:58",
     "serial_number": "00e6aab7265c91384b1345c4b69843e9a7",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "jamo-ro.jgi.doe.gov",
-    "name_value": "jamo-ro.jgi.doe.gov",
-    "id": 23581251527,
-    "entry_timestamp": "2026-01-06T05:57:31.572",
-    "not_before": "2026-01-06T04:56:27",
-    "not_after": "2026-04-06T05:56:25",
-    "serial_number": "1148c11011b6435c13cdc75c5f4444b9",
     "result_count": 2
   },
   {
@@ -5980,18 +4984,6 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "img.jgi.doe.gov",
     "name_value": "img.jgi.doe.gov",
-    "id": 23545177768,
-    "entry_timestamp": "2026-01-04T08:10:17.163",
-    "not_before": "2026-01-04T07:10:07",
-    "not_after": "2026-04-04T08:10:03",
-    "serial_number": "00d1e728895558b59111963706db189e6f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "img.jgi.doe.gov",
-    "name_value": "img.jgi.doe.gov",
     "id": 23545179046,
     "entry_timestamp": "2026-01-04T08:10:07.844",
     "not_before": "2026-01-04T07:10:07",
@@ -6021,18 +5013,6 @@
     "not_before": "2026-01-03T00:00:00",
     "not_after": "2027-01-03T23:59:59",
     "serial_number": "0098f369059903a47e1ab7a543ea793f28",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "ribo-sketch.jgi.doe.gov",
-    "name_value": "ribo-sketch.jgi.doe.gov",
-    "id": 23517189177,
-    "entry_timestamp": "2026-01-02T17:21:44.328",
-    "not_before": "2026-01-02T14:25:31",
-    "not_after": "2026-04-02T15:25:27",
-    "serial_number": "009ad4554c1fd9010e11bcd2b6b8854c5f",
     "result_count": 2
   },
   {
@@ -6112,18 +5092,6 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "refseq-sketch.jgi.doe.gov",
     "name_value": "refseq-sketch.jgi.doe.gov",
-    "id": 23511914487,
-    "entry_timestamp": "2026-01-02T10:52:35.167",
-    "not_before": "2026-01-02T09:52:18",
-    "not_after": "2026-04-02T10:52:14",
-    "serial_number": "4a0e98769fad573813ea7849999645f2",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "refseq-sketch.jgi.doe.gov",
-    "name_value": "refseq-sketch.jgi.doe.gov",
     "id": 23511918823,
     "entry_timestamp": "2026-01-02T10:52:18.963",
     "not_before": "2026-01-02T09:52:18",
@@ -6160,36 +5128,12 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "taxonomy.jgi.doe.gov",
     "name_value": "taxonomy.jgi.doe.gov",
-    "id": 23505999004,
-    "entry_timestamp": "2026-01-02T03:11:05.604",
-    "not_before": "2026-01-02T02:08:51",
-    "not_after": "2026-04-02T03:08:50",
-    "serial_number": "5ee2f194e49edfde13e9fd8c9ef4d6ce",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "taxonomy.jgi.doe.gov",
-    "name_value": "taxonomy.jgi.doe.gov",
     "id": 23505992205,
     "entry_timestamp": "2026-01-02T03:08:51.81",
     "not_before": "2026-01-02T02:08:51",
     "not_after": "2026-04-02T03:08:50",
     "serial_number": "5ee2f194e49edfde13e9fd8c9ef4d6ce",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295809,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
-    "common_name": "www.regulations.doe.gov",
-    "name_value": "regulations.doe.gov\nwww.regulations.doe.gov",
-    "id": 23500347172,
-    "entry_timestamp": "2026-01-01T19:26:11.663",
-    "not_before": "2026-01-01T18:27:40",
-    "not_after": "2026-04-01T18:27:39",
-    "serial_number": "06a746230a8befb31a6512977ac57987f1bb",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 295809,
@@ -6213,18 +5157,6 @@
     "not_before": "2026-01-01T15:53:21",
     "not_after": "2026-04-01T16:53:20",
     "serial_number": "00b12a89e34a7f4fd2133c184d4cbfd823",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "taxonomy-dev.jgi.doe.gov",
-    "name_value": "taxonomy-dev.jgi.doe.gov",
-    "id": 23493757748,
-    "entry_timestamp": "2026-01-01T10:53:34.798",
-    "not_before": "2026-01-01T09:52:29",
-    "not_after": "2026-04-01T10:52:08",
-    "serial_number": "00ab4f2d8c9bd598050d1a1db7c0d3c9fb",
     "result_count": 2
   },
   {
@@ -6256,35 +5188,11 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "nt-sketch.jgi.doe.gov",
     "name_value": "nt-sketch.jgi.doe.gov",
-    "id": 23491127027,
-    "entry_timestamp": "2026-01-01T07:26:29.532",
-    "not_before": "2026-01-01T06:25:17",
-    "not_after": "2026-04-01T07:25:15",
-    "serial_number": "00d360ef24ef3d0e3e0e0bd8782a027d54",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "nt-sketch.jgi.doe.gov",
-    "name_value": "nt-sketch.jgi.doe.gov",
     "id": 23491116962,
     "entry_timestamp": "2026-01-01T07:25:17.788",
     "not_before": "2026-01-01T06:25:17",
     "not_after": "2026-04-01T07:25:15",
     "serial_number": "00d360ef24ef3d0e3e0e0bd8782a027d54",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "progress.jgi.doe.gov",
-    "name_value": "progress.jgi.doe.gov",
-    "id": 23489935320,
-    "entry_timestamp": "2026-01-01T05:52:35.429",
-    "not_before": "2026-01-01T04:52:16",
-    "not_after": "2026-04-01T05:52:14",
-    "serial_number": "638a9caebb51a93913611d052cee5c7e",
     "result_count": 2
   },
   {
@@ -6309,6 +5217,18 @@
     "not_before": "2026-01-01T01:01:34",
     "not_after": "2026-04-01T02:01:31",
     "serial_number": "305ff9288da9eca70eabbefc4fd28ed7",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "hrp.doe.gov",
+    "name_value": "hrp.doe.gov",
+    "id": 23463929890,
+    "entry_timestamp": "2025-12-30T22:55:11.195",
+    "not_before": "2025-12-30T00:00:00",
+    "not_after": "2027-01-07T23:59:59",
+    "serial_number": "096ad1067c7e169d8077a3752a534a7d",
     "result_count": 2
   },
   {
@@ -6376,35 +5296,11 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "syntrack-dev.jgi.doe.gov",
     "name_value": "syntrack-dev.jgi.doe.gov",
-    "id": 23452178690,
-    "entry_timestamp": "2025-12-30T09:08:05.34",
-    "not_before": "2025-12-30T08:06:51",
-    "not_after": "2026-03-30T09:06:48",
-    "serial_number": "213e17efd719eb290e9a7783dd4eab07",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "syntrack-dev.jgi.doe.gov",
-    "name_value": "syntrack-dev.jgi.doe.gov",
     "id": 23452181822,
     "entry_timestamp": "2025-12-30T09:06:51.44",
     "not_before": "2025-12-30T08:06:51",
     "not_after": "2026-03-30T09:06:48",
     "serial_number": "213e17efd719eb290e9a7783dd4eab07",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "uam-chariel.jgi.doe.gov",
-    "name_value": "uam-chariel.jgi.doe.gov",
-    "id": 23445692610,
-    "entry_timestamp": "2025-12-30T01:23:35.17",
-    "not_before": "2025-12-30T00:21:40",
-    "not_after": "2026-03-30T01:21:38",
-    "serial_number": "008b70713b4a07b89d11b6309c0bfc56a0",
     "result_count": 2
   },
   {
@@ -6424,36 +5320,12 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "registry-dev.jgi.doe.gov",
     "name_value": "registry-dev.jgi.doe.gov",
-    "id": 23426284069,
-    "entry_timestamp": "2025-12-29T00:12:02.141",
-    "not_before": "2025-12-28T23:10:57",
-    "not_after": "2026-03-29T00:10:55",
-    "serial_number": "00fa578fd5872d307213bae9ec0eaa7788",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "registry-dev.jgi.doe.gov",
-    "name_value": "registry-dev.jgi.doe.gov",
     "id": 23426290829,
     "entry_timestamp": "2025-12-29T00:10:58.012",
     "not_before": "2025-12-28T23:10:57",
     "not_after": "2026-03-29T00:10:55",
     "serial_number": "00fa578fd5872d307213bae9ec0eaa7788",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295813,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
-    "common_name": "standards.doe.gov",
-    "name_value": "standards.doe.gov\nwww.standards.doe.gov",
-    "id": 23424842529,
-    "entry_timestamp": "2025-12-28T22:23:39.095",
-    "not_before": "2025-12-28T21:25:08",
-    "not_after": "2026-03-28T21:25:07",
-    "serial_number": "0598b857875a7f0f67d10ee17572f7e3f5b2",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 295813,
@@ -6544,18 +5416,6 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "contacts-dev.jgi.doe.gov",
     "name_value": "contacts-dev.jgi.doe.gov",
-    "id": 23406110140,
-    "entry_timestamp": "2025-12-27T22:29:51.531",
-    "not_before": "2025-12-27T21:29:43",
-    "not_after": "2026-03-27T22:29:40",
-    "serial_number": "1e05df10e4fe0d8011bdd95c3d216781",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "contacts-dev.jgi.doe.gov",
-    "name_value": "contacts-dev.jgi.doe.gov",
     "id": 23406111418,
     "entry_timestamp": "2025-12-27T22:29:43.983",
     "not_before": "2025-12-27T21:29:43",
@@ -6616,35 +5476,11 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "jaws-kibana.jgi.doe.gov",
     "name_value": "jaws-kibana.jgi.doe.gov",
-    "id": 23398721983,
-    "entry_timestamp": "2025-12-27T13:17:45.435",
-    "not_before": "2025-12-27T12:16:41",
-    "not_after": "2026-03-27T13:16:39",
-    "serial_number": "00f89eb490e34143e90e13a3a0dd9a3d05",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "jaws-kibana.jgi.doe.gov",
-    "name_value": "jaws-kibana.jgi.doe.gov",
     "id": 23398725312,
     "entry_timestamp": "2025-12-27T13:16:42.048",
     "not_before": "2025-12-27T12:16:41",
     "not_after": "2026-03-27T13:16:39",
     "serial_number": "00f89eb490e34143e90e13a3a0dd9a3d05",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "jaws-auth.jgi.doe.gov",
-    "name_value": "jaws-auth.jgi.doe.gov",
-    "id": 23397553312,
-    "entry_timestamp": "2025-12-27T11:45:23.99",
-    "not_before": "2025-12-27T10:45:08",
-    "not_after": "2026-03-27T11:45:05",
-    "serial_number": "008b4c3764bd9f4a4d0e6bbfb9e4140fde",
     "result_count": 2
   },
   {
@@ -6664,35 +5500,11 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "illumina-dev.jgi.doe.gov",
     "name_value": "illumina-dev.jgi.doe.gov",
-    "id": 23383995994,
-    "entry_timestamp": "2025-12-26T17:35:27.797",
-    "not_before": "2025-12-26T16:34:29",
-    "not_after": "2026-03-26T17:34:26",
-    "serial_number": "00d6271921497159a411302e483abd6df7",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "illumina-dev.jgi.doe.gov",
-    "name_value": "illumina-dev.jgi.doe.gov",
     "id": 23383984177,
     "entry_timestamp": "2025-12-26T17:34:29.619",
     "not_before": "2025-12-26T16:34:29",
     "not_after": "2026-03-26T17:34:26",
     "serial_number": "00d6271921497159a411302e483abd6df7",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "pacbio-dev.jgi.doe.gov",
-    "name_value": "pacbio-dev.jgi.doe.gov",
-    "id": 23375316226,
-    "entry_timestamp": "2025-12-26T06:12:34.96",
-    "not_before": "2025-12-26T05:12:25",
-    "not_after": "2026-03-26T06:12:24",
-    "serial_number": "74158f6d40241f611325d783f51df5ef",
     "result_count": 2
   },
   {
@@ -6784,35 +5596,11 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "phytozome.jgi.doe.gov",
     "name_value": "phytozome.jgi.doe.gov",
-    "id": 23328104104,
-    "entry_timestamp": "2025-12-24T02:05:44.596",
-    "not_before": "2025-12-24T01:04:50",
-    "not_after": "2026-03-24T02:04:46",
-    "serial_number": "00c0ceb3d8aadb0bd6110156c964f036cb",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "phytozome.jgi.doe.gov",
-    "name_value": "phytozome.jgi.doe.gov",
     "id": 23328108676,
     "entry_timestamp": "2025-12-24T02:04:51.267",
     "not_before": "2025-12-24T01:04:50",
     "not_after": "2026-03-24T02:04:46",
     "serial_number": "00c0ceb3d8aadb0bd6110156c964f036cb",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "zome-igb-2.jgi.doe.gov",
-    "name_value": "zome-igb-2.jgi.doe.gov",
-    "id": 23325309993,
-    "entry_timestamp": "2025-12-23T23:13:16.952",
-    "not_before": "2025-12-23T22:13:09",
-    "not_after": "2026-03-23T23:13:05",
-    "serial_number": "00a43607d812f3edf511d7b59d7a85e414",
     "result_count": 2
   },
   {
@@ -6914,42 +5702,6 @@
   {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "metazome.jgi.doe.gov",
-    "name_value": "metazome.jgi.doe.gov",
-    "id": 23275402066,
-    "entry_timestamp": "2025-12-21T17:48:17.637",
-    "not_before": "2025-12-20T08:20:11",
-    "not_after": "2026-03-20T09:20:07",
-    "serial_number": "4f08466316b6a9660d62fb9dc86cecf8",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "jaws-api-dev.jgi.doe.gov",
-    "name_value": "jaws-api-dev.jgi.doe.gov",
-    "id": 23272272402,
-    "entry_timestamp": "2025-12-21T15:41:13.664",
-    "not_before": "2025-12-21T12:17:00",
-    "not_after": "2026-03-21T13:16:56",
-    "serial_number": "76875ea8317140c411372047dfa386d6",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "gold.jgi.doe.gov",
-    "name_value": "gold.jgi.doe.gov",
-    "id": 23270561074,
-    "entry_timestamp": "2025-12-21T14:27:20.894",
-    "not_before": "2025-12-21T12:21:22",
-    "not_after": "2026-03-21T13:21:19",
-    "serial_number": "167582ae9dd477c111bb87fba35e66a9",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "gold.jgi.doe.gov",
     "name_value": "gold.jgi.doe.gov",
     "id": 23269266064,
@@ -6969,18 +5721,6 @@
     "not_before": "2025-12-21T12:17:00",
     "not_after": "2026-03-21T13:16:56",
     "serial_number": "76875ea8317140c411372047dfa386d6",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "jaws-api.jgi.doe.gov",
-    "name_value": "jaws-api.jgi.doe.gov",
-    "id": 23267685563,
-    "entry_timestamp": "2025-12-21T11:40:19.454",
-    "not_before": "2025-12-21T09:38:59",
-    "not_after": "2026-03-21T10:38:57",
-    "serial_number": "6b0acb29684429030dfd06c5ea5bd4fd",
     "result_count": 2
   },
   {
@@ -7012,18 +5752,6 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "uhura.jgi.doe.gov",
     "name_value": "uhura.jgi.doe.gov",
-    "id": 23258584190,
-    "entry_timestamp": "2025-12-21T02:15:09.538",
-    "not_before": "2025-12-20T22:24:52",
-    "not_after": "2026-03-20T23:24:50",
-    "serial_number": "00e956c84980aa82620e95d191712ce18b",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "uhura.jgi.doe.gov",
-    "name_value": "uhura.jgi.doe.gov",
     "id": 23254895893,
     "entry_timestamp": "2025-12-20T23:24:52.591",
     "not_before": "2025-12-20T22:24:52",
@@ -7041,18 +5769,6 @@
     "not_before": "2025-12-20T22:08:44",
     "not_after": "2026-03-20T23:08:42",
     "serial_number": "56983d058a898064117400f98946d313",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "brachypan.jgi.doe.gov",
-    "name_value": "brachypan.jgi.doe.gov",
-    "id": 23243356360,
-    "entry_timestamp": "2025-12-20T14:36:16.591",
-    "not_before": "2025-12-20T12:41:05",
-    "not_after": "2026-03-20T13:41:04",
-    "serial_number": "311c3aa3331be81c112c04796efb0332",
     "result_count": 2
   },
   {
@@ -7084,35 +5800,11 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "proposals-l7.jgi.doe.gov",
     "name_value": "proposals-l7.jgi.doe.gov",
-    "id": 23231450989,
-    "entry_timestamp": "2025-12-20T04:05:17.12",
-    "not_before": "2025-12-20T03:03:08",
-    "not_after": "2026-03-20T04:03:04",
-    "serial_number": "00c1b5fff6b02b37be0e060bafccbe2dfb",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "proposals-l7.jgi.doe.gov",
-    "name_value": "proposals-l7.jgi.doe.gov",
     "id": 23231401877,
     "entry_timestamp": "2025-12-20T04:03:08.663",
     "not_before": "2025-12-20T03:03:08",
     "not_after": "2026-03-20T04:03:04",
     "serial_number": "00c1b5fff6b02b37be0e060bafccbe2dfb",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "projects-l7.jgi.doe.gov",
-    "name_value": "projects-l7.jgi.doe.gov",
-    "id": 23228029018,
-    "entry_timestamp": "2025-12-20T01:04:22.389",
-    "not_before": "2025-12-20T00:02:50",
-    "not_after": "2026-03-20T01:02:48",
-    "serial_number": "00a724ae4350388df911c921896496ca49",
     "result_count": 2
   },
   {
@@ -7150,18 +5842,6 @@
     "not_after": "2026-03-19T07:54:53",
     "serial_number": "062de6d515980e8b0f830d90b25d183b7edd",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "uam-l7.jgi.doe.gov",
-    "name_value": "uam-l7.jgi.doe.gov",
-    "id": 23212603624,
-    "entry_timestamp": "2025-12-19T05:43:16.55",
-    "not_before": "2025-12-19T04:42:00",
-    "not_after": "2026-03-19T05:41:57",
-    "serial_number": "00cfcf90894d21d19f1389d5fbc316b2c3",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 286236,
@@ -7216,35 +5896,11 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "boost-dev.jgi.doe.gov",
     "name_value": "boost-dev.jgi.doe.gov",
-    "id": 23201626048,
-    "entry_timestamp": "2025-12-18T14:32:33.456",
-    "not_before": "2025-12-18T13:29:27",
-    "not_after": "2026-03-18T14:29:25",
-    "serial_number": "00c7053542860abd11114146b4f67400cf",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "boost-dev.jgi.doe.gov",
-    "name_value": "boost-dev.jgi.doe.gov",
     "id": 23201601841,
     "entry_timestamp": "2025-12-18T14:29:28.125",
     "not_before": "2025-12-18T13:29:27",
     "not_after": "2026-03-18T14:29:25",
     "serial_number": "00c7053542860abd11114146b4f67400cf",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "genome.jgi.doe.gov",
-    "name_value": "genome.jgi.doe.gov",
-    "id": 23200898215,
-    "entry_timestamp": "2025-12-18T13:41:59.555",
-    "not_before": "2025-12-18T12:38:39",
-    "not_after": "2026-03-18T13:38:38",
-    "serial_number": "00c5aecd5ef344457911e2cda2dac38a1e",
     "result_count": 2
   },
   {
@@ -7288,35 +5944,11 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "gp-test.jgi.doe.gov",
     "name_value": "gp-test.jgi.doe.gov",
-    "id": 23178054521,
-    "entry_timestamp": "2025-12-17T12:27:09.367",
-    "not_before": "2025-12-17T10:19:57",
-    "not_after": "2026-03-17T11:19:55",
-    "serial_number": "0086ebc3b4bbce432a0db73626b64ea08a",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "gp-test.jgi.doe.gov",
-    "name_value": "gp-test.jgi.doe.gov",
     "id": 23177029097,
     "entry_timestamp": "2025-12-17T11:19:58.474",
     "not_before": "2025-12-17T10:19:57",
     "not_after": "2026-03-17T11:19:55",
     "serial_number": "0086ebc3b4bbce432a0db73626b64ea08a",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "phytozome-dev.jgi.doe.gov",
-    "name_value": "phytozome-dev.jgi.doe.gov",
-    "id": 23171454483,
-    "entry_timestamp": "2025-12-17T05:31:57.058",
-    "not_before": "2025-12-17T04:30:38",
-    "not_after": "2026-03-17T05:30:36",
-    "serial_number": "610066efcf5482fa0d9240673c09492b",
     "result_count": 2
   },
   {
@@ -7353,42 +5985,6 @@
     "not_before": "2025-12-16T11:52:08",
     "not_after": "2026-03-16T11:52:07",
     "serial_number": "05f831ab3cbb886f7e444b9b6c43b5088f29",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286244,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR3",
-    "common_name": "gcpdev.edx.netl.doe.gov",
-    "name_value": "gcpdev.edx.netl.doe.gov",
-    "id": 23151338648,
-    "entry_timestamp": "2025-12-16T08:43:25.199",
-    "not_before": "2025-12-16T06:29:17",
-    "not_after": "2026-03-16T07:25:11",
-    "serial_number": "00d5b2de895e94aed110aec7fd43766ce7",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286244,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR3",
-    "common_name": "gcpdev.edx.netl.doe.gov",
-    "name_value": "gcpdev.edx.netl.doe.gov",
-    "id": 23150145459,
-    "entry_timestamp": "2025-12-16T07:29:17.957",
-    "not_before": "2025-12-16T06:29:17",
-    "not_after": "2026-03-16T07:25:11",
-    "serial_number": "00d5b2de895e94aed110aec7fd43766ce7",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295813,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
-    "common_name": "accounts.empact.pars.doe.gov",
-    "name_value": "accounts.empact.pars.doe.gov",
-    "id": 23147997569,
-    "entry_timestamp": "2025-12-16T05:08:55.663",
-    "not_before": "2025-12-16T04:10:25",
-    "not_after": "2026-03-16T04:10:24",
-    "serial_number": "0575cc8ce6297927cfcb2b6dadf3f6d64598",
     "result_count": 2
   },
   {
@@ -7432,47 +6028,11 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "img-spin.jgi.doe.gov",
     "name_value": "img-spin.jgi.doe.gov",
-    "id": 23127385087,
-    "entry_timestamp": "2025-12-15T05:51:06.295",
-    "not_before": "2025-12-15T04:49:56",
-    "not_after": "2026-03-15T05:49:55",
-    "serial_number": "6cb6c0f54f7a552b110ce31329cefd79",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "img-spin.jgi.doe.gov",
-    "name_value": "img-spin.jgi.doe.gov",
     "id": 23127365947,
     "entry_timestamp": "2025-12-15T05:49:57.184",
     "not_before": "2025-12-15T04:49:56",
     "not_after": "2026-03-15T05:49:55",
     "serial_number": "6cb6c0f54f7a552b110ce31329cefd79",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "ports.jgi.doe.gov",
-    "name_value": "ports.jgi.doe.gov",
-    "id": 23125334556,
-    "entry_timestamp": "2025-12-15T03:29:05.411",
-    "not_before": "2025-12-11T08:01:51",
-    "not_after": "2026-03-11T09:01:49",
-    "serial_number": "5d22e582ba30db870e9c299915622f3a",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "jaws-rmq.jgi.doe.gov",
-    "name_value": "jaws-rmq.jgi.doe.gov",
-    "id": 23104853839,
-    "entry_timestamp": "2025-12-14T03:25:43.536",
-    "not_before": "2025-12-14T01:18:39",
-    "not_after": "2026-03-14T02:18:35",
-    "serial_number": "00a818a80c9de645b50d6a12b201dfbdd1",
     "result_count": 2
   },
   {
@@ -7528,18 +6088,6 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "jaws-ingest.jgi.doe.gov",
     "name_value": "jaws-ingest.jgi.doe.gov",
-    "id": 23088369660,
-    "entry_timestamp": "2025-12-13T06:24:44.441",
-    "not_before": "2025-12-13T05:22:18",
-    "not_after": "2026-03-13T06:22:11",
-    "serial_number": "1adc138f5c5aec340e2bcc39a60543e1",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "jaws-ingest.jgi.doe.gov",
-    "name_value": "jaws-ingest.jgi.doe.gov",
     "id": 23088359786,
     "entry_timestamp": "2025-12-13T06:22:18.919",
     "not_before": "2025-12-13T05:22:18",
@@ -7581,18 +6129,6 @@
     "not_before": "2025-12-12T08:25:09",
     "not_after": "2026-03-12T09:25:08",
     "serial_number": "30badc9f83e9f6970e0671bc233b62a1",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "grna.jgi.doe.gov",
-    "name_value": "grna.jgi.doe.gov",
-    "id": 23067536688,
-    "entry_timestamp": "2025-12-12T04:54:00.163",
-    "not_before": "2025-12-12T03:52:47",
-    "not_after": "2026-03-12T04:52:45",
-    "serial_number": "6ee7f3cd24bc1edf11ebaf37f3e557f9",
     "result_count": 2
   },
   {
@@ -7814,30 +6350,6 @@
   {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "mycocosm-dev.jgi.doe.gov",
-    "name_value": "mycocosm-dev.jgi.doe.gov",
-    "id": 22974820624,
-    "entry_timestamp": "2025-12-08T08:27:33.524",
-    "not_before": "2025-12-03T00:46:14",
-    "not_after": "2026-03-03T01:46:12",
-    "serial_number": "00bc13d2ada564ee2b13710fa169dbef8d",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "synbioqc.jgi.doe.gov",
-    "name_value": "synbioqc.jgi.doe.gov",
-    "id": 22974043645,
-    "entry_timestamp": "2025-12-08T07:42:14.999",
-    "not_before": "2025-12-08T06:41:25",
-    "not_after": "2026-03-08T07:41:24",
-    "serial_number": "00c629193587224a1011df317ba4842c27",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "synbioqc.jgi.doe.gov",
     "name_value": "synbioqc.jgi.doe.gov",
     "id": 22983660080,
@@ -7845,30 +6357,6 @@
     "not_before": "2025-12-08T06:41:25",
     "not_after": "2026-03-08T07:41:24",
     "serial_number": "00c629193587224a1011df317ba4842c27",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "portal-web-4.jgi.doe.gov",
-    "name_value": "portal-web-4.jgi.doe.gov",
-    "id": 22956964071,
-    "entry_timestamp": "2025-12-07T14:38:58.601",
-    "not_before": "2025-12-02T06:50:14",
-    "not_after": "2026-03-02T07:50:11",
-    "serial_number": "009f2e49981c85c6100d2516b5744b294b",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "portal-web-2.jgi.doe.gov",
-    "name_value": "portal-web-2.jgi.doe.gov",
-    "id": 22933427762,
-    "entry_timestamp": "2025-12-06T15:43:22.735",
-    "not_before": "2025-12-03T19:43:46",
-    "not_after": "2026-03-03T20:43:44",
-    "serial_number": "00dc83b5611ffd1d6a13b7a4d059667f27",
     "result_count": 2
   },
   {
@@ -7898,18 +6386,6 @@
   {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "metatlas.jgi.doe.gov",
-    "name_value": "metatlas.jgi.doe.gov",
-    "id": 22921618566,
-    "entry_timestamp": "2025-12-06T02:22:12.76",
-    "not_before": "2025-12-03T02:57:50",
-    "not_after": "2026-03-03T03:57:48",
-    "serial_number": "008b8c7cd58317c9c30d90bcda58495b18",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "ani-dev.jgi.doe.gov",
     "name_value": "ani-dev.jgi.doe.gov",
     "id": 22927967212,
@@ -7917,18 +6393,6 @@
     "not_before": "2025-12-06T01:03:49",
     "not_after": "2026-03-06T02:03:45",
     "serial_number": "40a71c458c2b8a4a0d9b04775b23dfbc",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "demux.jgi.doe.gov",
-    "name_value": "demux.jgi.doe.gov",
-    "id": 22919065160,
-    "entry_timestamp": "2025-12-05T21:14:28.687",
-    "not_before": "2025-12-05T20:12:51",
-    "not_after": "2026-03-05T21:12:50",
-    "serial_number": "4da3e13ce2d2206d0da6bbcbcbaad52c",
     "result_count": 2
   },
   {
@@ -7977,18 +6441,6 @@
     "not_before": "2025-12-05T11:47:52",
     "not_after": "2026-03-05T12:47:50",
     "serial_number": "2d87e162459d82800ec82d185c678cad",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "identity.jgi.doe.gov",
-    "name_value": "identity.jgi.doe.gov",
-    "id": 22904029032,
-    "entry_timestamp": "2025-12-04T14:48:56.618",
-    "not_before": "2025-12-01T15:10:02",
-    "not_after": "2026-03-01T16:10:00",
-    "serial_number": "00ca177a21ecb8cbe3137059fd002a15a1",
     "result_count": 2
   },
   {
@@ -8104,35 +6556,11 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
     "common_name": "newsletter.pars.doe.gov",
     "name_value": "newsletter.pars.doe.gov",
-    "id": 22872973748,
-    "entry_timestamp": "2025-12-02T23:18:05.132",
-    "not_before": "2025-12-02T22:19:33",
-    "not_after": "2026-03-02T22:19:32",
-    "serial_number": "065948a13f290e3dd5891c509e86bb31b79a",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295813,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
-    "common_name": "newsletter.pars.doe.gov",
-    "name_value": "newsletter.pars.doe.gov",
     "id": 22872954823,
     "entry_timestamp": "2025-12-02T23:18:04.301",
     "not_before": "2025-12-02T22:19:33",
     "not_after": "2026-03-02T22:19:32",
     "serial_number": "065948a13f290e3dd5891c509e86bb31b79a",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "profile.jgi.doe.gov",
-    "name_value": "profile.jgi.doe.gov",
-    "id": 22868799929,
-    "entry_timestamp": "2025-12-02T18:57:33.7",
-    "not_before": "2025-12-02T17:55:32",
-    "not_after": "2026-03-02T18:55:30",
-    "serial_number": "694985392ec2d3f21106fb11ef8061a3",
     "result_count": 2
   },
   {
@@ -8176,18 +6604,6 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "vega.jgi.doe.gov",
     "name_value": "vega.jgi.doe.gov",
-    "id": 22853802481,
-    "entry_timestamp": "2025-12-02T02:02:35.352",
-    "not_before": "2025-12-02T01:00:26",
-    "not_after": "2026-03-02T02:00:24",
-    "serial_number": "00f506f6dc901238eb13f37b66f7790d3e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "vega.jgi.doe.gov",
-    "name_value": "vega.jgi.doe.gov",
     "id": 22853807784,
     "entry_timestamp": "2025-12-02T02:00:27.084",
     "not_before": "2025-12-02T01:00:26",
@@ -8200,35 +6616,11 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "nelli.jgi.doe.gov",
     "name_value": "nelli.jgi.doe.gov",
-    "id": 22852991761,
-    "entry_timestamp": "2025-12-02T01:00:20.467",
-    "not_before": "2025-12-01T23:57:56",
-    "not_after": "2026-03-02T00:57:52",
-    "serial_number": "15d46ce56b413f6b0ed72ad6b17afa2e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "nelli.jgi.doe.gov",
-    "name_value": "nelli.jgi.doe.gov",
     "id": 22949722335,
     "entry_timestamp": "2025-12-02T00:57:57.134",
     "not_before": "2025-12-01T23:57:56",
     "not_after": "2026-03-02T00:57:52",
     "serial_number": "15d46ce56b413f6b0ed72ad6b17afa2e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "gnps2.jgi.doe.gov",
-    "name_value": "gnps2.jgi.doe.gov",
-    "id": 22851661463,
-    "entry_timestamp": "2025-12-01T23:22:42.578",
-    "not_before": "2025-12-01T22:21:45",
-    "not_after": "2026-03-01T23:21:42",
-    "serial_number": "00af494fc98f80fbe811a344d0b365986f",
     "result_count": 2
   },
   {
@@ -8362,54 +6754,6 @@
     "not_after": "2026-12-16T23:59:59",
     "serial_number": "00b79725ea474f6003beb7ebe548ae6543",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "clip.jgi.doe.gov",
-    "name_value": "clip.jgi.doe.gov",
-    "id": 22833804050,
-    "entry_timestamp": "2025-12-01T02:37:13.217",
-    "not_before": "2025-12-01T01:34:41",
-    "not_after": "2026-03-01T02:34:39",
-    "serial_number": "1e26eac6487bee77118b81a24a254dc2",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "clip.jgi.doe.gov",
-    "name_value": "clip.jgi.doe.gov",
-    "id": 22833803341,
-    "entry_timestamp": "2025-12-01T02:34:41.716",
-    "not_before": "2025-12-01T01:34:41",
-    "not_after": "2026-03-01T02:34:39",
-    "serial_number": "1e26eac6487bee77118b81a24a254dc2",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "clip-stage.jgi.doe.gov",
-    "name_value": "clip-stage.jgi.doe.gov",
-    "id": 22829578756,
-    "entry_timestamp": "2025-11-30T20:44:27.453",
-    "not_before": "2025-11-30T19:42:55",
-    "not_after": "2026-02-28T20:42:53",
-    "serial_number": "126859d86438e6131331bbea8cb12810",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "clip-stage.jgi.doe.gov",
-    "name_value": "clip-stage.jgi.doe.gov",
-    "id": 22829572571,
-    "entry_timestamp": "2025-11-30T20:42:55.399",
-    "not_before": "2025-11-30T19:42:55",
-    "not_after": "2026-02-28T20:42:53",
-    "serial_number": "126859d86438e6131331bbea8cb12810",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 385512,
@@ -8818,18 +7162,6 @@
     "not_after": "2026-04-01T04:00:00",
     "serial_number": "6a882cb02e77b8cc3c191af5c8274125",
     "result_count": 4
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "www.sord.nv.doe.gov",
-    "name_value": "sord.nv.doe.gov\nwww.sord.nv.doe.gov",
-    "id": 22510343763,
-    "entry_timestamp": "2025-11-16T11:19:21.74",
-    "not_before": "2025-02-28T17:35:52",
-    "not_after": "2026-02-28T17:42:58",
-    "serial_number": "53ab4b999936267e36364c15988e8060",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 153248,
@@ -9370,6 +7702,18 @@
     "not_after": "2026-11-04T23:59:59",
     "serial_number": "00e34f3b56afbf1000dc764dae06cea71b",
     "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "mobile.pxy12.doe.gov",
+    "name_value": "mobile.pxy12.doe.gov",
+    "id": 22235164310,
+    "entry_timestamp": "2025-11-05T19:00:17.037",
+    "not_before": "2025-11-05T00:00:00",
+    "not_after": "2026-11-04T23:59:59",
+    "serial_number": "012e098ffde06f6a76c6a83d9f89cdfb",
+    "result_count": 2
   },
   {
     "issuer_ca_id": 365075,
@@ -11232,6 +9576,18 @@
     "result_count": 3
   },
   {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "directives.nnsa.doe.gov",
+    "name_value": "directives.nnsa-dev.doe.gov\ndirectives.nnsa.doe.gov\ndirectives.nnsa-hotfix.doe.gov\ndirectives.nnsa-preprod.doe.gov\ndirectives.nnsa-test.doe.gov",
+    "id": 21528222060,
+    "entry_timestamp": "2025-10-06T19:29:15.222",
+    "not_before": "2025-09-30T00:00:00",
+    "not_after": "2026-10-29T23:59:59",
+    "serial_number": "0c48df016599f560f773b6bdd8b97908",
+    "result_count": 6
+  },
+  {
     "issuer_ca_id": 385512,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
     "common_name": "directives.nnsa-test.doe.gov",
@@ -11412,6 +9768,18 @@
     "result_count": 1
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "outlook.cns.doe.gov",
+    "name_value": "AutoDiscover.cns.doe.gov\nAutoDiscover.gtm.cns.doe.gov\nAutoDiscover.gtm.onenet.cns.doe.gov\nAutoDiscover.onenet.cns.doe.gov\nAutoDiscover.upo.doe.gov\nAutoDiscover.y12.doe.gov\nAutoDiscover.y12nsc.doe.gov\nAutoDiscover.yfo.doe.gov\ncns.doe.gov\nhybrid.cns.doe.gov\nhybrid.y12nsc.doe.gov\nmrs1.y12nsc.doe.gov\nmrs2.y12nsc.doe.gov\nmrs3.y12nsc.doe.gov\nmrs4.y12nsc.doe.gov\nmrs.cns.doe.gov\nmrs.y12nsc.doe.gov\nonenet.cns.doe.gov\noutlook.cns.doe.gov\noutlook.gtm.cns.doe.gov\noutlook.onenet.cns.doe.gov\nrelay.cns.doe.gov\nrelay.onenet.cns.doe.gov\nupo.doe.gov\ny12.doe.gov\ny12nsc.doe.gov\ny12relay.cns.doe.gov\ny12relay.onenet.cns.doe.gov\nyfo.doe.gov",
+    "id": 21421169961,
+    "entry_timestamp": "2025-10-02T14:43:19.903",
+    "not_before": "2025-10-02T00:00:00",
+    "not_after": "2026-10-01T23:59:59",
+    "serial_number": "02230f5783d2d9fa92be15928c29a39e",
+    "result_count": 30
+  },
+  {
     "issuer_ca_id": 385516,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust DV TLS Issuing RSA CA 2",
     "common_name": "visit.pantex.doe.gov",
@@ -11482,6 +9850,18 @@
     "not_after": "2026-10-29T23:59:59",
     "serial_number": "0c48df016599f560f773b6bdd8b97908",
     "result_count": 6
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "vpn-y12gfe.cns.doe.gov",
+    "name_value": "Dy12pnbdr-vpn01aASA.onenet.cns.doe.gov\nvpn-y12gfe.cns.doe.gov",
+    "id": 21354285295,
+    "entry_timestamp": "2025-09-29T20:19:54.142",
+    "not_before": "2025-09-29T00:00:00",
+    "not_after": "2026-09-28T23:59:59",
+    "serial_number": "0ab64202649d1aa401360d21ff0d2488",
+    "result_count": 3
   },
   {
     "issuer_ca_id": 185752,
@@ -14904,6 +13284,18 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 904,
+    "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+    "common_name": "passport.azdev.kcnsc.doe.gov",
+    "name_value": "passport.azdev.kcnsc.doe.gov",
+    "id": 20290293702,
+    "entry_timestamp": "2025-08-12T16:06:16.509",
+    "not_before": "2025-08-12T16:06:15",
+    "not_after": "2026-08-12T16:06:15",
+    "serial_number": "433f454509be98e3",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "*.aws.juce.nnsa.doe.gov",
@@ -15070,6 +13462,18 @@
     "not_after": "2026-09-04T23:59:59",
     "serial_number": "00df975cd2b76e382b4982d6eca98556aa",
     "result_count": 3
+  },
+  {
+    "issuer_ca_id": 904,
+    "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+    "common_name": "passport.azdev.kcnsc.doe.gov",
+    "name_value": "passport.azdev.kcnsc.doe.gov",
+    "id": 20118405329,
+    "entry_timestamp": "2025-08-04T20:08:18.414",
+    "not_before": "2025-08-04T20:08:18",
+    "not_after": "2026-08-04T20:08:18",
+    "serial_number": "00cd45548a369982e3",
+    "result_count": 2
   },
   {
     "issuer_ca_id": 365075,
@@ -15868,6 +14272,18 @@
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "nncamsauthenticator.doe.gov",
     "name_value": "nncamsauthenticator.doe.gov",
+    "id": 19557071464,
+    "entry_timestamp": "2025-07-09T20:56:59.978",
+    "not_before": "2025-07-09T00:00:00",
+    "not_after": "2026-07-08T23:59:59",
+    "serial_number": "063ff0f22dc84298eee80cc8e0f51656",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "nncamsauthenticator.doe.gov",
+    "name_value": "nncamsauthenticator.doe.gov",
     "id": 19556511502,
     "entry_timestamp": "2025-07-09T20:15:48.678",
     "not_before": "2025-07-09T00:00:00",
@@ -16186,6 +14602,18 @@
     "not_after": "2026-07-29T05:00:00",
     "serial_number": "2c52a746c711a6313b6e0d9a034abc2b",
     "result_count": 2
+  },
+  {
+    "issuer_ca_id": 904,
+    "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+    "common_name": "tak.nest.doe.gov",
+    "name_value": "tak.nest.doe.gov\nwww.tak.nest.doe.gov",
+    "id": 19313865931,
+    "entry_timestamp": "2025-06-28T16:55:44.722",
+    "not_before": "2025-06-28T16:55:44",
+    "not_after": "2026-06-28T16:55:44",
+    "serial_number": "4f08e85c6cd93875",
+    "result_count": 3
   },
   {
     "issuer_ca_id": 365075,
@@ -16569,6 +14997,18 @@
     "not_before": "2025-06-23T14:10:09",
     "not_after": "2026-07-23T05:00:00",
     "serial_number": "694f460034d4b2546758b2d38401a60b",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "icpt.doe.gov",
+    "name_value": "icpt.doe.gov\nwww.icpt.doe.gov",
+    "id": 19102766784,
+    "entry_timestamp": "2025-06-18T19:30:30.452",
+    "not_before": "2025-06-18T00:00:00",
+    "not_after": "2026-05-15T23:59:59",
+    "serial_number": "0d692060e872832946b00b646a5e31dc",
     "result_count": 3
   },
   {
@@ -18040,6 +16480,18 @@
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "nncamslrn.doe.gov",
     "name_value": "nncamslrn.doe.gov",
+    "id": 18200396144,
+    "entry_timestamp": "2025-05-03T13:45:20.131",
+    "not_before": "2025-05-03T00:00:00",
+    "not_after": "2026-05-06T23:59:59",
+    "serial_number": "0770505c60cfd4d56b2f135fa9fb90d8",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "nncamslrn.doe.gov",
+    "name_value": "nncamslrn.doe.gov",
     "id": 18199537800,
     "entry_timestamp": "2025-05-03T12:26:01.651",
     "not_before": "2025-05-03T00:00:00",
@@ -18280,6 +16732,18 @@
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "ost-liaison.doe.gov",
     "name_value": "ost-liaison.doe.gov",
+    "id": 17980653414,
+    "entry_timestamp": "2025-04-21T16:32:10.943",
+    "not_before": "2025-04-21T00:00:00",
+    "not_after": "2026-05-22T23:59:59",
+    "serial_number": "0d90bd63202e8dbc4f005cbbeb5c7cd0",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "ost-liaison.doe.gov",
+    "name_value": "ost-liaison.doe.gov",
     "id": 17979169964,
     "entry_timestamp": "2025-04-21T14:49:14.421",
     "not_before": "2025-04-21T00:00:00",
@@ -18466,6 +16930,18 @@
     "not_after": "2026-04-20T13:33:14",
     "serial_number": "34af1060fab71e86e29a60171e9c7daa",
     "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "aruba-guest.kcp.com",
+    "name_value": "aruba-guest1.kcnsc.doe.gov\naruba-guest1-mgt.kcnsc.doe.gov\naruba-guest2.kcnsc.doe.gov\naruba-guest2-mgt.kcnsc.doe.gov\naruba-guest.kcnsc.doe.gov\naruba-guest-mgt.kcnsc.doe.gov\nguest.kcnsc.doe.gov",
+    "id": 17867674644,
+    "entry_timestamp": "2025-04-15T18:48:20.344",
+    "not_before": "2025-04-15T00:00:00",
+    "not_after": "2026-05-16T23:59:59",
+    "serial_number": "029f0dace8fd092020878a4a6b6a43fe",
+    "result_count": 7
   },
   {
     "issuer_ca_id": 365075,
@@ -18760,6 +17236,18 @@
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "nnaccess.doe.gov",
     "name_value": "nnaccess.doe.gov",
+    "id": 17586735282,
+    "entry_timestamp": "2025-04-02T18:28:31.425",
+    "not_before": "2025-04-02T00:00:00",
+    "not_after": "2026-04-14T23:59:59",
+    "serial_number": "0653b264917aac5702e39504e8310cb2",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "nnaccess.doe.gov",
+    "name_value": "nnaccess.doe.gov",
     "id": 17585694797,
     "entry_timestamp": "2025-04-02T17:19:59.128",
     "not_before": "2025-04-02T00:00:00",
@@ -18813,6 +17301,18 @@
     "not_before": "2025-04-02T12:09:48",
     "not_after": "2026-04-07T16:44:58",
     "serial_number": "4f732f1a375624d0f1474cfa3796b98c",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "www.aphelper.doe.gov",
+    "name_value": "www.aphelper.doe.gov",
+    "id": 17564869957,
+    "entry_timestamp": "2025-04-01T20:25:48.128",
+    "not_before": "2025-04-01T00:00:00",
+    "not_after": "2026-04-09T23:59:59",
+    "serial_number": "098645d6a801a2aaeb3e19c45436fdac",
     "result_count": 2
   },
   {
@@ -18986,6 +17486,18 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "nncams.doe.gov",
+    "name_value": "nncams.doe.gov",
+    "id": 17400281491,
+    "entry_timestamp": "2025-03-25T18:58:40.781",
+    "not_before": "2025-03-25T00:00:00",
+    "not_after": "2026-03-24T23:59:59",
+    "serial_number": "01d5ae7e9dbd441f27a865267fc06277",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "pmts-apm.nn.doe.gov",
     "name_value": "pmts-apm.nn.doe.gov",
     "id": 17399269101,
@@ -19140,6 +17652,18 @@
     "result_count": 3
   },
   {
+    "issuer_ca_id": 904,
+    "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+    "common_name": "*.dev.nest.doe.gov",
+    "name_value": "*.dev.nest.doe.gov\ndev.nest.doe.gov",
+    "id": 17239766342,
+    "entry_timestamp": "2025-03-19T14:03:35.612",
+    "not_before": "2025-03-19T14:03:35",
+    "not_after": "2026-03-19T14:03:35",
+    "serial_number": "2862209176a9fef4",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "tce.spr.doe.gov",
@@ -19173,6 +17697,18 @@
     "not_before": "2025-03-18T13:00:50",
     "not_after": "2026-04-17T12:59:50",
     "serial_number": "400195a957ac6c7c1e459cadb03a4c06",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "pivreg.nn.doe.gov",
+    "name_value": "pivreg.nn.doe.gov",
+    "id": 17190273752,
+    "entry_timestamp": "2025-03-17T19:53:50.38",
+    "not_before": "2025-03-17T00:00:00",
+    "not_after": "2026-03-16T23:59:59",
+    "serial_number": "0c1557f437e8616fb7623078064eaf5f",
     "result_count": 2
   },
   {
@@ -19610,30 +18146,6 @@
   {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "www.sord.nv.doe.gov",
-    "name_value": "sord.nv.doe.gov\nwww.sord.nv.doe.gov",
-    "id": 16873261106,
-    "entry_timestamp": "2025-02-28T17:45:53.606",
-    "not_before": "2025-02-28T17:35:52",
-    "not_after": "2026-02-28T17:42:58",
-    "serial_number": "53ab4b999936267e36364c15988e8060",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "nlv-maxs2-ws.nv.doe.gov",
-    "name_value": "nlv-maxs2-ws.nv.doe.gov",
-    "id": 16873050350,
-    "entry_timestamp": "2025-02-28T17:37:44.585",
-    "not_before": "2025-02-28T17:27:43",
-    "not_after": "2026-02-28T17:36:15",
-    "serial_number": "1d8008558c62b6465b4526629d79d918",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "au.doe.gov",
     "name_value": "au.doe.gov",
     "id": 16868126569,
@@ -19773,18 +18285,6 @@
     "not_before": "2025-02-15T00:00:00",
     "not_after": "2026-03-17T23:59:59",
     "serial_number": "0fb5230184fa0835a9f6f6312e7e2d23",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "acn.abq.doe.gov",
-    "name_value": "acn.abq.doe.gov",
-    "id": 16682052906,
-    "entry_timestamp": "2025-02-11T21:59:06.892",
-    "not_before": "2025-02-11T21:49:05",
-    "not_after": "2026-03-01T09:16:43",
-    "serial_number": "5574f0fdb74a551c0406a574accfc7eb",
     "result_count": 2
   },
   {
