@@ -1,5 +1,77 @@
 [
   {
+    "issuer_ca_id": 365075,
+    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
+    "common_name": "ext-preprod-patentcenter.etc.uspto.gov",
+    "name_value": "ext-preprod-patentcenter.etc.uspto.gov",
+    "id": 24785285128,
+    "entry_timestamp": "2026-03-04T19:00:53.955",
+    "not_before": "2025-05-30T14:05:48",
+    "not_after": "2026-05-30T04:00:00",
+    "serial_number": "2554de845fb58f6b12305f69140a65f1",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "ext-preprod-patentcenter.etc.uspto.gov",
+    "name_value": "ext-preprod-patentcenter.etc.uspto.gov",
+    "id": 24785278323,
+    "entry_timestamp": "2026-03-04T19:00:48.446",
+    "not_before": "2026-03-04T00:00:00",
+    "not_after": "2026-09-17T23:59:59",
+    "serial_number": "079233e372c139d3e7b74d55589e0aba",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 365075,
+    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
+    "common_name": "ext-insprint-patentcenter.etc.uspto.gov",
+    "name_value": "ext-insprint-patentcenter.etc.uspto.gov",
+    "id": 24783828497,
+    "entry_timestamp": "2026-03-04T17:19:15.538",
+    "not_before": "2025-05-30T14:07:44",
+    "not_after": "2026-05-30T04:00:00",
+    "serial_number": "4286813015201b91ad005a9ac483be18",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "ext-insprint-patentcenter.etc.uspto.gov",
+    "name_value": "ext-insprint-patentcenter.etc.uspto.gov",
+    "id": 24783821505,
+    "entry_timestamp": "2026-03-04T17:19:09.138",
+    "not_before": "2026-03-04T00:00:00",
+    "not_after": "2026-09-17T23:59:59",
+    "serial_number": "012b8dd6aebcf614bc3c69a537482bbf",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "slic.test.uspto.gov",
+    "name_value": "cvs.test.uspto.gov\nscv-test.etc.uspto.gov\nscv-ui.test.uspto.gov\nslic-app-passive-test.ide.awslab.uspto.gov\nslic-app-test.ide.awslab.uspto.gov\nslic-cvs-api-test.ide.awslab.uspto.gov\nslic-cvs-test.ide.awslab.uspto.gov\nslic.test.uspto.gov\nslic-ui-passive.test.uspto.gov\nslic-ui.test.uspto.gov",
+    "id": 24781850851,
+    "entry_timestamp": "2026-03-04T15:08:28.032",
+    "not_before": "2026-03-04T00:00:00",
+    "not_after": "2026-09-17T23:59:59",
+    "serial_number": "0328a59e790d713aa48c2cc5402635f3",
+    "result_count": 11
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "slic.test.uspto.gov",
+    "name_value": "slic.test.uspto.gov",
+    "id": 24781689355,
+    "entry_timestamp": "2026-03-04T14:57:15.313",
+    "not_before": "2026-03-04T00:00:00",
+    "not_after": "2026-09-17T23:59:59",
+    "serial_number": "0e5b52ba1f03eb3d0d85e26eff99a1ed",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "tda.etc.uspto.gov",
@@ -6622,17 +6694,5 @@
     "not_after": "2026-03-06T05:00:00",
     "serial_number": "40ded6ac0cb42d880ea3de65b4bc17ac",
     "result_count": 4
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "test-tmsearch.tmcom.awslab.uspto.gov",
-    "name_value": "test-tmsearch.tmcom.awslab.uspto.gov",
-    "id": 16548655983,
-    "entry_timestamp": "2025-02-05T17:21:34.304",
-    "not_before": "2025-02-05T17:11:33",
-    "not_after": "2026-03-05T05:00:00",
-    "serial_number": "3acb48662346f0fdaf525d55493f2a78",
-    "result_count": 2
   }
 ]

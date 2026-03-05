@@ -864,6 +864,30 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "*.cod.atagc.com",
+    "name_value": "*.test.studentaid.gov",
+    "id": 24315185000,
+    "entry_timestamp": "2026-02-10T18:02:55.62",
+    "not_before": "2026-02-10T17:04:21",
+    "not_after": "2026-05-11T17:04:20",
+    "serial_number": "05cc15ac850033986c19b449bd7e0c231c55",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "*.cod.atagc.com",
+    "name_value": "*.test.studentaid.gov",
+    "id": 24315153020,
+    "entry_timestamp": "2026-02-10T18:02:51.523",
+    "not_before": "2026-02-10T17:04:21",
+    "not_after": "2026-05-11T17:04:20",
+    "serial_number": "05cc15ac850033986c19b449bd7e0c231c55",
+    "result_count": 1
+  },
+  {
     "issuer_ca_id": 295816,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "oauth-openshift.apps.temp.test.studentaid.gov",
@@ -1570,6 +1594,30 @@
     "not_after": "2026-03-09T17:17:18",
     "serial_number": "05adb73acf7b24356f82053bcd65485a7197",
     "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "*.cod.atagc.com",
+    "name_value": "*.test.studentaid.gov",
+    "id": 23028638679,
+    "entry_timestamp": "2025-12-09T17:18:36.817",
+    "not_before": "2025-12-09T16:20:06",
+    "not_after": "2026-03-09T16:20:05",
+    "serial_number": "054e33e9dc7f3a4c1d0b3b9c621694c55ae8",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "*.cod.atagc.com",
+    "name_value": "*.test.studentaid.gov",
+    "id": 23007487345,
+    "entry_timestamp": "2025-12-09T17:18:36.599",
+    "not_before": "2025-12-09T16:20:06",
+    "not_after": "2026-03-09T16:20:05",
+    "serial_number": "054e33e9dc7f3a4c1d0b3b9c621694c55ae8",
+    "result_count": 1
   },
   {
     "issuer_ca_id": 286244,
@@ -2304,18 +2352,6 @@
     "result_count": 1
   },
   {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "NP.edfinancial.studentaid.gov",
-    "name_value": "NP-customercare.edfinancial.studentaid.gov\nNP.edfinancial.studentaid.gov\nNP-ivrpaymentwebservice.edfinancial.studentaid.gov\nNP-ivrwebservice.edfinancial.studentaid.gov\nNP-masstextInboundCallback.edfinancial.studentaid.gov\nNP-masstextStatusCallback.edfinancial.studentaid.gov\norigin-NP-customercare.edfinancial.studentaid.gov\norigin-NP.edfinancial.studentaid.gov\norigin-NP-ivrpaymentwebservice.edfinancial.studentaid.gov\norigin-NP-ivrwebservice.edfinancial.studentaid.gov\norigin-NP-masstextInboundCallback.edfinancial.studentaid.gov\norigin-NP-masstextStatusCallback.edfinancial.studentaid.gov",
-    "id": 17373996845,
-    "entry_timestamp": "2025-03-24T18:22:10.51",
-    "not_before": "2025-03-05T00:00:00",
-    "not_after": "2026-03-04T23:59:59",
-    "serial_number": "0ce411ad237f5d751d7d1856a833cd6f",
-    "result_count": 13
-  },
-  {
     "issuer_ca_id": 247106,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
     "common_name": "content.guides.cri.studentaid.gov",
@@ -2338,54 +2374,6 @@
     "not_after": "2026-04-03T23:59:59",
     "serial_number": "014951993e91232d435c4562c34af542",
     "result_count": 1
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "NP.edfinancial.studentaid.gov",
-    "name_value": "NP-customercare.edfinancial.studentaid.gov\nNP.edfinancial.studentaid.gov\nNP-ivrpaymentwebservice.edfinancial.studentaid.gov\nNP-ivrwebservice.edfinancial.studentaid.gov\nNP-masstextInboundCallback.edfinancial.studentaid.gov\nNP-masstextStatusCallback.edfinancial.studentaid.gov\norigin-NP-customercare.edfinancial.studentaid.gov\norigin-NP.edfinancial.studentaid.gov\norigin-NP-ivrpaymentwebservice.edfinancial.studentaid.gov\norigin-NP-ivrwebservice.edfinancial.studentaid.gov\norigin-NP-masstextInboundCallback.edfinancial.studentaid.gov\norigin-NP-masstextStatusCallback.edfinancial.studentaid.gov",
-    "id": 16947125760,
-    "entry_timestamp": "2025-03-05T18:12:40.682",
-    "not_before": "2025-03-05T00:00:00",
-    "not_after": "2026-03-04T23:59:59",
-    "serial_number": "0ce411ad237f5d751d7d1856a833cd6f",
-    "result_count": 13
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "strextmmaapi.nelnet.studentaid.gov",
-    "name_value": "origin1-strextmmaapi.nelnet.studentaid.gov\norigin2-strextmmaapi.nelnet.studentaid.gov\nstrextmmaapi.nelnet.studentaid.gov",
-    "id": 16772338270,
-    "entry_timestamp": "2025-02-19T12:49:31.4",
-    "not_before": "2025-02-19T00:00:00",
-    "not_after": "2026-03-04T23:59:59",
-    "serial_number": "0e6144fe4ad931309dd6cc9b180d2273",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "strextmma.nelnet.studentaid.gov",
-    "name_value": "origin1-strextmma.nelnet.studentaid.gov\norigin2-strextmma.nelnet.studentaid.gov\nstrextmma.nelnet.studentaid.gov",
-    "id": 16772336974,
-    "entry_timestamp": "2025-02-19T12:49:08.789",
-    "not_before": "2025-02-19T00:00:00",
-    "not_after": "2026-03-04T23:59:59",
-    "serial_number": "02dd68815fcec22cf873cb78fca7bf44",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "strextauth.nelnet.studentaid.gov",
-    "name_value": "origin1-strextauth.nelnet.studentaid.gov\norigin2-strextauth.nelnet.studentaid.gov\nstrextauth.nelnet.studentaid.gov",
-    "id": 16772336136,
-    "entry_timestamp": "2025-02-19T12:48:46.85",
-    "not_before": "2025-02-19T00:00:00",
-    "not_after": "2026-03-04T23:59:59",
-    "serial_number": "0ef08a74740f99f7c043b64c9ba4ced7",
-    "result_count": 4
   },
   {
     "issuer_ca_id": 185752,
