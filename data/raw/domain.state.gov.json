@@ -2,6 +2,78 @@
   {
     "issuer_ca_id": 62123,
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
+    "common_name": "prt-dev.inl.state.gov",
+    "name_value": "prt-dev.inl.state.gov",
+    "id": 24815426277,
+    "entry_timestamp": "2026-03-06T08:35:26.307",
+    "not_before": "2026-03-06T00:00:00",
+    "not_after": "2026-09-06T23:59:59",
+    "serial_number": "08643209205171a261ea2be3c48fa3ad",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "diplomaticrooms.state.gov",
+    "name_value": "*.diplomaticrooms.state.gov\ndiplomaticrooms.state.gov",
+    "id": 24812272012,
+    "entry_timestamp": "2026-03-06T04:22:08.118",
+    "not_before": "2026-03-06T00:00:00",
+    "not_after": "2026-09-19T23:59:59",
+    "serial_number": "04f6720bfa5f0d962b0b05d2fc9707f3",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 247106,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
+    "common_name": "diplomaticrooms.state.gov",
+    "name_value": "*.diplomaticrooms.state.gov\ndiplomaticrooms.state.gov",
+    "id": 24811431524,
+    "entry_timestamp": "2026-03-06T03:11:55.774",
+    "not_before": "2025-04-05T00:00:00",
+    "not_after": "2026-05-04T23:59:59",
+    "serial_number": "05d43391c05aead21f0ba6766ffc5a29",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "diplomaticrooms.state.gov",
+    "name_value": "*.diplomaticrooms.state.gov\ndiplomaticrooms.state.gov",
+    "id": 24811424299,
+    "entry_timestamp": "2026-03-06T03:11:47.036",
+    "not_before": "2026-03-06T00:00:00",
+    "not_after": "2026-09-19T23:59:59",
+    "serial_number": "04f6720bfa5f0d962b0b05d2fc9707f3",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "stimson.state.gov",
+    "name_value": "stimson.state.gov",
+    "id": 24802727352,
+    "entry_timestamp": "2026-03-05T16:14:03.112",
+    "not_before": "2026-03-05T00:00:00",
+    "not_after": "2026-09-19T23:59:59",
+    "serial_number": "01681c9e3a7b33aefab5e96ea6f0b40e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "christopher-ew.state.gov",
+    "name_value": "christopher-ew.state.gov",
+    "id": 24802726708,
+    "entry_timestamp": "2026-03-05T16:14:02.638",
+    "not_before": "2026-03-05T00:00:00",
+    "not_after": "2026-09-19T23:59:59",
+    "serial_number": "0c76f02bc0b4eeac46e22a27fcc61c51",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 62123,
+    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
     "common_name": "trino.inl.state.gov",
     "name_value": "trino.inl.state.gov",
     "id": 24767119060,
@@ -16272,54 +16344,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 295809,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
-    "common_name": "dev.geodata.state.gov",
-    "name_value": "dev.geodata.state.gov",
-    "id": 22973242495,
-    "entry_timestamp": "2025-12-06T02:08:46.119",
-    "not_before": "2025-12-06T01:10:15",
-    "not_after": "2026-03-06T01:10:14",
-    "serial_number": "069476fef4fe5ce467d074428b0e0e2bfc97",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295809,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
-    "common_name": "dev.geodata.state.gov",
-    "name_value": "dev.geodata.state.gov",
-    "id": 22928007889,
-    "entry_timestamp": "2025-12-06T02:08:45.788",
-    "not_before": "2025-12-06T01:10:15",
-    "not_after": "2026-03-06T01:10:14",
-    "serial_number": "069476fef4fe5ce467d074428b0e0e2bfc97",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295809,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
-    "common_name": "cms.history.state.gov",
-    "name_value": "cms.history.state.gov",
-    "id": 22926719816,
-    "entry_timestamp": "2025-12-05T23:32:59.153",
-    "not_before": "2025-12-05T22:34:27",
-    "not_after": "2026-03-05T22:34:26",
-    "serial_number": "0569b1c004b70b76903ad552bec233896b5d",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295809,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
-    "common_name": "cms.history.state.gov",
-    "name_value": "cms.history.state.gov",
-    "id": 22945008264,
-    "entry_timestamp": "2025-12-05T23:32:58.065",
-    "not_before": "2025-12-05T22:34:27",
-    "not_after": "2026-03-05T22:34:26",
-    "serial_number": "0569b1c004b70b76903ad552bec233896b5d",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "oasis.state.gov",
@@ -16330,54 +16354,6 @@
     "not_after": "2026-04-27T04:00:00",
     "serial_number": "38b11e9dcd6bb25912ef46e7c34e88a6",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "oasis.state.gov",
-    "name_value": "oasis.state.gov",
-    "id": 22943921837,
-    "entry_timestamp": "2025-12-05T14:53:50.879",
-    "not_before": "2025-12-05T00:00:00",
-    "not_after": "2026-03-05T23:59:59",
-    "serial_number": "0a2758603e2a01b905000a559afe9c09",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "oasis.state.gov",
-    "name_value": "oasis.state.gov",
-    "id": 22943921209,
-    "entry_timestamp": "2025-12-05T14:53:47.706",
-    "not_before": "2025-12-05T00:00:00",
-    "not_after": "2026-03-05T23:59:59",
-    "serial_number": "0a2758603e2a01b905000a559afe9c09",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "ecamdm.state.gov",
-    "name_value": "ecamdm.state.gov",
-    "id": 22942865580,
-    "entry_timestamp": "2025-12-05T13:42:45.079",
-    "not_before": "2025-12-05T00:00:00",
-    "not_after": "2026-03-05T23:59:59",
-    "serial_number": "00d2eaf728139f66846de87581bdcfe445",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "ecamdm.state.gov",
-    "name_value": "ecamdm.state.gov",
-    "id": 22942865560,
-    "entry_timestamp": "2025-12-05T13:42:42.405",
-    "not_before": "2025-12-05T00:00:00",
-    "not_after": "2026-03-05T23:59:59",
-    "serial_number": "00d2eaf728139f66846de87581bdcfe445",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 185752,
@@ -20902,17 +20878,5 @@
     "not_after": "2026-03-08T23:59:59",
     "serial_number": "00eefe2322b62f2f1f09e0985689e87e01",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "1997-2001.state.gov",
-    "name_value": "1997-2001.state.gov\n2001-2009.state.gov\n2009-2017-fpc.state.gov\n2009-2017.state.gov\n2009-2017-usun.state.gov\n2012-keystonepipeline-xl.state.gov\n2017-2021.state.gov\n2017-2021-translations.state.gov\n*.state.gov\nwww.keystonepipeline-xl.state.gov",
-    "id": 16484932453,
-    "entry_timestamp": "2025-02-03T00:26:52.381",
-    "not_before": "2025-02-03T00:00:00",
-    "not_after": "2026-03-05T23:59:59",
-    "serial_number": "0a7cf321ed94d8145df048b8f391b557",
-    "result_count": 11
   }
 ]

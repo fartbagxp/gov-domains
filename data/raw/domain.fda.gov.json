@@ -2,6 +2,42 @@
   {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "smtp9.fda.gov",
+    "name_value": "smtp6.fda.gov\nsmtp7.fda.gov\nsmtp8.fda.gov\nsmtp9.fda.gov",
+    "id": 24806735778,
+    "entry_timestamp": "2026-03-05T22:05:14.971",
+    "not_before": "2026-03-05T22:05:14",
+    "not_after": "2027-04-04T22:04:14",
+    "serial_number": "40019cc0089884b64ed3a40294848c75",
+    "result_count": 5
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "sso.fda.gov",
+    "name_value": "ssoalt.fda.gov\nsso.fda.gov",
+    "id": 24806228240,
+    "entry_timestamp": "2026-03-05T20:31:02.916",
+    "not_before": "2026-03-05T00:00:00",
+    "not_after": "2026-09-19T23:59:59",
+    "serial_number": "083452fa579c289d8df6dcf95fc6b334",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "sso2.fda.gov",
+    "name_value": "sso2alt.fda.gov\nsso2.fda.gov\nsso2-mig.fda.gov\nsso-mtls.fda.gov",
+    "id": 24805646953,
+    "entry_timestamp": "2026-03-05T19:46:13.542",
+    "not_before": "2026-03-05T00:00:00",
+    "not_after": "2026-09-19T23:59:59",
+    "serial_number": "0d1e469661553d4afde693c5a2374677",
+    "result_count": 5
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "pasecontact.fda.gov",
     "name_value": "pasecontact.fda.gov",
     "id": 24761915632,
@@ -4536,30 +4572,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "sso2.test.fda.gov",
-    "name_value": "sso2.test.alt.fda.gov\nsso2.test.fda.gov\nsso2.vmtest.fda.gov",
-    "id": 16957523249,
-    "entry_timestamp": "2025-03-06T19:11:04.226",
-    "not_before": "2025-03-06T00:00:00",
-    "not_after": "2026-03-05T23:59:59",
-    "serial_number": "0e1085e26d993bc065ac7fdea6d2ad8a",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "sso.fda.gov",
-    "name_value": "ssoalt.fda.gov\nsso.fda.gov",
-    "id": 16955225817,
-    "entry_timestamp": "2025-03-06T16:57:58.922",
-    "not_before": "2025-03-06T00:00:00",
-    "not_after": "2026-03-05T23:59:59",
-    "serial_number": "0b20a828057a289effd7d01a1806b609",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "fda-foia-ext.fda.gov",
@@ -5038,53 +5050,5 @@
     "not_after": "2026-03-06T17:28:55",
     "serial_number": "400194d202ef2143273286952134ee47",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "oralims.test.fda.gov",
-    "name_value": "oralims.test.fda.gov\noralims.test-mig.fda.gov\nwww.oralims.test.fda.gov\nwww.oralims.test-mig.fda.gov",
-    "id": 16489041421,
-    "entry_timestamp": "2025-02-03T19:56:14.245",
-    "not_before": "2025-02-03T19:56:14",
-    "not_after": "2026-03-05T19:55:14",
-    "serial_number": "400194cd62879f9779c675655cbf6d23",
-    "result_count": 5
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "iwsfdacbp.test.fda.gov",
-    "name_value": "iwsfdacbp.test.fda.gov\niwsfdacbp.test-mig.fda.gov\nwww.iwsfdacbp.test.fda.gov\nwww.iwsfdacbp.test-mig.fda.gov",
-    "id": 16489015095,
-    "entry_timestamp": "2025-02-03T19:55:31.356",
-    "not_before": "2025-02-03T19:55:31",
-    "not_after": "2026-03-05T19:54:31",
-    "serial_number": "400194cd61e0081092673b2da6796cb2",
-    "result_count": 5
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "iwsfdacbp.dev.fda.gov",
-    "name_value": "iwsfdacbp.dev.fda.gov\niwsfdacbp.dev-mig.fda.gov\nwww.iwsfdacbp.dev.fda.gov\nwww.iwsfdacbp.dev-mig.fda.gov",
-    "id": 16489014655,
-    "entry_timestamp": "2025-02-03T19:55:07.777",
-    "not_before": "2025-02-03T19:55:07",
-    "not_after": "2026-03-05T19:54:07",
-    "serial_number": "400194cd61841417c67007bd372c7b26",
-    "result_count": 5
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "sso3.fda.gov",
-    "name_value": "sso3alt.fda.gov\nsso3.fda.gov",
-    "id": 16486149396,
-    "entry_timestamp": "2025-02-03T17:56:02.553",
-    "not_before": "2025-02-03T17:56:02",
-    "not_after": "2026-03-05T17:55:02",
-    "serial_number": "400194ccf47d1e3c69d7961c50b60152",
-    "result_count": 3
   }
 ]
