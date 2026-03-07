@@ -1,5 +1,65 @@
 [
   {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "auth-preprod-welcome.gsa.gov",
+    "name_value": "auth-preprod-welcome.gsa.gov",
+    "id": 24830744770,
+    "entry_timestamp": "2026-03-07T05:14:53.502",
+    "not_before": "2026-03-07T00:00:00",
+    "not_after": "2026-09-20T23:59:59",
+    "serial_number": "08e5e81d0cb4e2e965a61adff97cc7e9",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "auth-preprod-welcome.gsa.gov",
+    "name_value": "auth-preprod-welcome.gsa.gov",
+    "id": 24829989039,
+    "entry_timestamp": "2026-03-07T04:01:30.503",
+    "not_before": "2026-03-07T00:00:00",
+    "not_after": "2026-09-20T23:59:59",
+    "serial_number": "08e5e81d0cb4e2e965a61adff97cc7e9",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "*.dev.cnxs.vpcaas.fcs.gsa.gov",
+    "name_value": "*.dev.cnxs.vpcaas.fcs.gsa.gov",
+    "id": 24828315973,
+    "entry_timestamp": "2026-03-06T21:57:34.118",
+    "not_before": "2026-03-06T20:59:02",
+    "not_after": "2026-06-04T20:59:01",
+    "serial_number": "052a214ae63e95e232890a61ef4d3d5605c7",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "*.dev.cnxs.vpcaas.fcs.gsa.gov",
+    "name_value": "*.dev.cnxs.vpcaas.fcs.gsa.gov",
+    "id": 24825325731,
+    "entry_timestamp": "2026-03-06T21:57:32.649",
+    "not_before": "2026-03-06T20:59:02",
+    "not_after": "2026-06-04T20:59:01",
+    "serial_number": "052a214ae63e95e232890a61ef4d3d5605c7",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "d2d.gsa.gov",
+    "name_value": "css.d2d.gsa.gov\ncss-staging.d2d.gsa.gov\nd2d.gsa.gov\nfrpp.d2d.gsa.gov\nstaging.d2d.gsa.gov\nstaging-frpp.d2d.gsa.gov\nstaging-tableau.d2d.gsa.gov\ntableau.d2d.gsa.gov\ntss.d2d.gsa.gov\ntss-staging.d2d.gsa.gov\nwww.d2d.gsa.gov",
+    "id": 24821787231,
+    "entry_timestamp": "2026-03-06T17:27:37.669",
+    "not_before": "2026-03-06T00:00:00",
+    "not_after": "2026-09-19T23:59:59",
+    "serial_number": "0416587df0f11804da68f845ae7248cf",
+    "result_count": 12
+  },
+  {
     "issuer_ca_id": 295809,
     "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
     "common_name": "iad.gsa.gov",
@@ -1670,18 +1730,6 @@
   {
     "issuer_ca_id": 246719,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
-    "common_name": "vscintranet-dev.gsa.gov",
-    "name_value": "vscintranet-dev.gsa.gov",
-    "id": 24602908292,
-    "entry_timestamp": "2026-02-23T19:54:04.689",
-    "not_before": "2026-02-23T00:00:00",
-    "not_after": "2026-09-08T23:59:59",
-    "serial_number": "0404b77162d0e2d2472ce1f51b3f6dc6",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 246719,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "navigator-dev.gsa.gov",
     "name_value": "navigator-dev.gsa.gov",
     "id": 24602907975,
@@ -1689,6 +1737,18 @@
     "not_before": "2026-02-23T00:00:00",
     "not_after": "2026-09-08T23:59:59",
     "serial_number": "058482b240e64e79d384fe2d3f35138e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "vscintranet-dev.gsa.gov",
+    "name_value": "vscintranet-dev.gsa.gov",
+    "id": 24602908292,
+    "entry_timestamp": "2026-02-23T19:54:04.689",
+    "not_before": "2026-02-23T00:00:00",
+    "not_after": "2026-09-08T23:59:59",
+    "serial_number": "0404b77162d0e2d2472ce1f51b3f6dc6",
     "result_count": 2
   },
   {
@@ -9609,30 +9669,6 @@
     "not_before": "2025-12-07T11:02:11",
     "not_after": "2026-03-07T11:02:10",
     "serial_number": "0597fff6af33289cd83d696fbde74c7493ac",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "vltp.gsa.gov",
-    "name_value": "vltp.gsa.gov",
-    "id": 22960052684,
-    "entry_timestamp": "2025-12-07T06:17:13.747",
-    "not_before": "2025-12-07T05:18:41",
-    "not_after": "2026-03-07T05:18:40",
-    "serial_number": "054e633a7c88cc22a589127ffb76f6a44df9",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "vltp.gsa.gov",
-    "name_value": "vltp.gsa.gov",
-    "id": 22973247068,
-    "entry_timestamp": "2025-12-07T06:17:11.397",
-    "not_before": "2025-12-07T05:18:41",
-    "not_after": "2026-03-07T05:18:40",
-    "serial_number": "054e633a7c88cc22a589127ffb76f6a44df9",
     "result_count": 2
   },
   {
@@ -19008,18 +19044,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "gis.tst.gsa.gov",
-    "name_value": "gis.tst.gsa.gov",
-    "id": 16962658336,
-    "entry_timestamp": "2025-03-07T14:31:51.104",
-    "not_before": "2025-03-07T00:00:00",
-    "not_after": "2026-03-06T23:59:59",
-    "serial_number": "08fd2122037cb245bbc50441f2a1223d",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 247115,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
     "common_name": "web.sandbox.fleet-dev.fcs.gsa.gov",
@@ -19090,18 +19114,6 @@
     "not_after": "2026-04-05T23:59:59",
     "serial_number": "0608beae04fe75e0976d82b7cca2ae2f",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "gis.dev.gsa.gov",
-    "name_value": "gis.dev.gsa.gov",
-    "id": 16962654427,
-    "entry_timestamp": "2025-03-07T14:30:07.805",
-    "not_before": "2025-03-07T00:00:00",
-    "not_after": "2026-03-06T23:59:59",
-    "serial_number": "013ee61b66511a85fb304d2c85945ea0",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 247106,
@@ -20049,30 +20061,6 @@
     "not_before": "2025-02-06T00:00:00",
     "not_after": "2026-03-07T23:59:59",
     "serial_number": "0e1c2196d6127b6ecb007715d3c2d79c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "lm-api-mgmt.fss19-mgmt.fcs.gsa.gov",
-    "name_value": "lm-api-mgmt.fss19-mgmt.fcs.gsa.gov",
-    "id": 16550073008,
-    "entry_timestamp": "2025-02-05T18:28:35.31",
-    "not_before": "2025-02-05T00:00:00",
-    "not_after": "2026-03-06T23:59:59",
-    "serial_number": "08a3ade6aad35e5db3fda3099f9de12c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "lm-api-dev.fss19-dev.fcs.gsa.gov",
-    "name_value": "lm-api-dev.fss19-dev.fcs.gsa.gov",
-    "id": 16550073600,
-    "entry_timestamp": "2025-02-05T18:28:33.464",
-    "not_before": "2025-02-05T00:00:00",
-    "not_after": "2026-03-06T23:59:59",
-    "serial_number": "03ede35f1ce25b939e8fb7bfb371663a",
     "result_count": 2
   }
 ]
