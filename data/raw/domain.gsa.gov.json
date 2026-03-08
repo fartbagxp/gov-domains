@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "join.tts.gsa.gov",
+    "name_value": "join.tts.gsa.gov",
+    "id": 24844603461,
+    "entry_timestamp": "2026-03-07T20:19:50.951",
+    "not_before": "2026-03-07T19:21:19",
+    "not_after": "2026-06-05T19:21:18",
+    "serial_number": "06a12f90c0555caa631d2a99c814fe456abc",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "join.tts.gsa.gov",
+    "name_value": "join.tts.gsa.gov",
+    "id": 24841879700,
+    "entry_timestamp": "2026-03-07T20:19:49.673",
+    "not_before": "2026-03-07T19:21:19",
+    "not_after": "2026-06-05T19:21:18",
+    "serial_number": "06a12f90c0555caa631d2a99c814fe456abc",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 246719,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "auth-preprod-welcome.gsa.gov",
@@ -1730,18 +1754,6 @@
   {
     "issuer_ca_id": 246719,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
-    "common_name": "navigator-dev.gsa.gov",
-    "name_value": "navigator-dev.gsa.gov",
-    "id": 24602907975,
-    "entry_timestamp": "2026-02-23T19:54:04.689",
-    "not_before": "2026-02-23T00:00:00",
-    "not_after": "2026-09-08T23:59:59",
-    "serial_number": "058482b240e64e79d384fe2d3f35138e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 246719,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "vscintranet-dev.gsa.gov",
     "name_value": "vscintranet-dev.gsa.gov",
     "id": 24602908292,
@@ -1749,6 +1761,18 @@
     "not_before": "2026-02-23T00:00:00",
     "not_after": "2026-09-08T23:59:59",
     "serial_number": "0404b77162d0e2d2472ce1f51b3f6dc6",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "navigator-dev.gsa.gov",
+    "name_value": "navigator-dev.gsa.gov",
+    "id": 24602907975,
+    "entry_timestamp": "2026-02-23T19:54:04.689",
+    "not_before": "2026-02-23T00:00:00",
+    "not_after": "2026-09-08T23:59:59",
+    "serial_number": "058482b240e64e79d384fe2d3f35138e",
     "result_count": 2
   },
   {
@@ -6600,18 +6624,6 @@
     "result_count": 4
   },
   {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "auth.fleet-test.fcs.gsa.gov",
-    "name_value": "auth.fleet-test.fcs.gsa.gov",
-    "id": 23598945189,
-    "entry_timestamp": "2026-01-07T01:36:45.471",
-    "not_before": "2025-02-07T00:00:00",
-    "not_after": "2026-03-07T23:59:59",
-    "serial_number": "0322ef4042aad9c02f62940994c421e1",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 246719,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "auth.fleet-test.fcs.gsa.gov",
@@ -9600,30 +9612,6 @@
     "result_count": 1
   },
   {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "argocd.mgmt-ppm.fcs.gsa.gov",
-    "name_value": "argocd.mgmt-ppm.fcs.gsa.gov",
-    "id": 23018979495,
-    "entry_timestamp": "2025-12-08T07:45:50.753",
-    "not_before": "2025-12-08T06:47:19",
-    "not_after": "2026-03-08T06:47:18",
-    "serial_number": "055e048a031df89be78d5ea27620d2bedc29",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "argocd.mgmt-ppm.fcs.gsa.gov",
-    "name_value": "argocd.mgmt-ppm.fcs.gsa.gov",
-    "id": 22974087665,
-    "entry_timestamp": "2025-12-08T07:45:50",
-    "not_before": "2025-12-08T06:47:19",
-    "not_after": "2026-03-08T06:47:18",
-    "serial_number": "055e048a031df89be78d5ea27620d2bedc29",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 246719,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "auth.ncal-dev.fss19-dev.fcs.gsa.gov",
@@ -9645,30 +9633,6 @@
     "not_before": "2025-12-08T00:00:00",
     "not_after": "2027-01-06T23:59:59",
     "serial_number": "0dbadcaf4b9ad1d7c655b8c587c7315e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "oes.gsa.gov",
-    "name_value": "oes.gsa.gov",
-    "id": 23013912055,
-    "entry_timestamp": "2025-12-07T12:00:43.013",
-    "not_before": "2025-12-07T11:02:11",
-    "not_after": "2026-03-07T11:02:10",
-    "serial_number": "0597fff6af33289cd83d696fbde74c7493ac",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "oes.gsa.gov",
-    "name_value": "oes.gsa.gov",
-    "id": 22954408140,
-    "entry_timestamp": "2025-12-07T12:00:41.883",
-    "not_before": "2025-12-07T11:02:11",
-    "not_after": "2026-03-07T11:02:10",
-    "serial_number": "0597fff6af33289cd83d696fbde74c7493ac",
     "result_count": 2
   },
   {
@@ -19977,90 +19941,6 @@
     "not_before": "2025-02-10T00:00:00",
     "not_after": "2026-03-11T23:59:59",
     "serial_number": "06d6b910a63f96fa1f46c1ceef668696",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "auth.fleet-test.fcs.gsa.gov",
-    "name_value": "auth.fleet-test.fcs.gsa.gov",
-    "id": 16583232424,
-    "entry_timestamp": "2025-02-07T09:04:45.398",
-    "not_before": "2025-02-07T00:00:00",
-    "not_after": "2026-03-07T23:59:59",
-    "serial_number": "0322ef4042aad9c02f62940994c421e1",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "test-ppm.fcs.gsa.gov",
-    "name_value": "docker-registry.jfrog.test-ppm.fcs.gsa.gov\n*.test-ppm.fcs.gsa.gov\ntest-ppm.fcs.gsa.gov",
-    "id": 16583183484,
-    "entry_timestamp": "2025-02-07T09:01:28.24",
-    "not_before": "2025-02-07T00:00:00",
-    "not_after": "2026-03-07T23:59:59",
-    "serial_number": "04fcca021391a1d3e0675ac750949b7d",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "nlets.fleet-test.fcs.gsa.gov",
-    "name_value": "*.nlets.fleet-test.fcs.gsa.gov\nnlets.fleet-test.fcs.gsa.gov",
-    "id": 16567872480,
-    "entry_timestamp": "2025-02-06T21:45:18.15",
-    "not_before": "2025-02-06T00:00:00",
-    "not_after": "2026-03-07T23:59:59",
-    "serial_number": "07ce54cfbb081f7b95cb0f6e239f990d",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "lm-reports-api-mgmt.fss19-mgmt.fcs.gsa.gov",
-    "name_value": "lm-reports-api-mgmt.fss19-mgmt.fcs.gsa.gov",
-    "id": 16565973067,
-    "entry_timestamp": "2025-02-06T20:26:41.014",
-    "not_before": "2025-02-06T00:00:00",
-    "not_after": "2026-03-07T23:59:59",
-    "serial_number": "0e50e0a16ca578e8a45f6fcf9d3ed538",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "lm-reports-api-dev.fss19-dev.fcs.gsa.gov",
-    "name_value": "lm-reports-api-dev.fss19-dev.fcs.gsa.gov",
-    "id": 16565191706,
-    "entry_timestamp": "2025-02-06T19:56:44.622",
-    "not_before": "2025-02-06T00:00:00",
-    "not_after": "2026-03-07T23:59:59",
-    "serial_number": "095bed091fcd60a9971c4442d423cfa8",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "lm-reports.fss19-dev.fcs.gsa.gov",
-    "name_value": "lm-reports.fss19-dev.fcs.gsa.gov",
-    "id": 16565051952,
-    "entry_timestamp": "2025-02-06T19:47:23.914",
-    "not_before": "2025-02-06T00:00:00",
-    "not_after": "2026-03-07T23:59:59",
-    "serial_number": "07aaf766a143f793f5960d67924eafdb",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "lm-reports-api.fss19-dev.fcs.gsa.gov",
-    "name_value": "lm-reports-api.fss19-dev.fcs.gsa.gov",
-    "id": 16564685398,
-    "entry_timestamp": "2025-02-06T19:31:02.075",
-    "not_before": "2025-02-06T00:00:00",
-    "not_after": "2026-03-07T23:59:59",
-    "serial_number": "0e1c2196d6127b6ecb007715d3c2d79c",
     "result_count": 2
   }
 ]

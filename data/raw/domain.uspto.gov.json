@@ -1,5 +1,65 @@
 [
   {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "*.gitlab.devadp.awslab.uspto.gov",
+    "name_value": "*.gitlab.devadp.awslab.uspto.gov\ngitlab.devadp.awslab.uspto.gov",
+    "id": 24822608259,
+    "entry_timestamp": "2026-03-06T18:24:33.115",
+    "not_before": "2026-03-06T00:00:00",
+    "not_after": "2026-09-19T23:59:59",
+    "serial_number": "017cd8c142bde66a479963163a1ec2e3",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "ttabcenter.uspto.gov",
+    "name_value": "blue.rr.ttab.aws.uspto.gov\ngreen.rr.ttab.aws.uspto.gov\npassive.ttabcenter.uspto.gov\nprod.active.ttab.aws.uspto.gov\nprod.blue.int.alb.ttab.aws.uspto.gov\nprod.blue.ttab.aws.uspto.gov\nprod.css.api.ttab.aws.uspto.gov\nprod.css.dashboard.ttab.aws.uspto.gov\nprod.green.int.alb.ttab.aws.uspto.gov\nprod.green.ttab.aws.uspto.gov\nprod.int.ttab.aws.uspto.gov\nprod.passive.ttab.aws.uspto.gov\nrr.ttab.aws.uspto.gov\nttabcenter.uspto.gov\nttab-reading-room.uspto.gov",
+    "id": 24822097032,
+    "entry_timestamp": "2026-03-06T17:46:55.385",
+    "not_before": "2026-03-06T00:00:00",
+    "not_after": "2026-09-20T23:59:59",
+    "serial_number": "0d58634f27cc04cfffbac58ff0be998a",
+    "result_count": 16
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "publications-cpc-ce.uspto.gov",
+    "name_value": "publications-cpc-ce.uspto.gov",
+    "id": 24820591724,
+    "entry_timestamp": "2026-03-06T15:54:35.875",
+    "not_before": "2026-03-06T00:00:00",
+    "not_after": "2026-09-20T23:59:59",
+    "serial_number": "0d0b5744e2894da124f69528ff39de02",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "dev-imagegallery.etc.uspto.gov",
+    "name_value": "dev-imagegallery-aws.etc.uspto.gov\ndev-imagegallery.etc.uspto.gov",
+    "id": 24819970981,
+    "entry_timestamp": "2026-03-06T15:05:17.34",
+    "not_before": "2026-03-06T00:00:00",
+    "not_after": "2026-09-19T23:59:59",
+    "serial_number": "016d036317d7368efe8b966145d6b7ae",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "a-ovoc-pub-n.uspto.gov",
+    "name_value": "a-ovoc-pub-n.uspto.gov",
+    "id": 24805304414,
+    "entry_timestamp": "2026-03-05T19:19:19.145",
+    "not_before": "2026-03-05T00:00:00",
+    "not_after": "2026-09-19T23:59:59",
+    "serial_number": "054bfd20f414d5eeeff55558fff41dc3",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "ext-preprod-patentcenter.etc.uspto.gov",
@@ -6634,65 +6694,5 @@
     "not_after": "2026-03-10T04:00:00",
     "serial_number": "11cf3089a8f9d71be3aa7c7f24f11f1d",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "dev-tmsearch.tmcom.awslab.uspto.gov",
-    "name_value": "dev-tmsearch.tmcom.awslab.uspto.gov",
-    "id": 16592313628,
-    "entry_timestamp": "2025-02-07T17:43:11.532",
-    "not_before": "2025-02-07T17:33:10",
-    "not_after": "2026-03-07T05:00:00",
-    "serial_number": "39c87a821be420de4ce40b16c20d41c1",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "assignmentcenter-dev2.etc.uspto.gov",
-    "name_value": "assignmentcenter-dev2.etc.uspto.gov",
-    "id": 16592112657,
-    "entry_timestamp": "2025-02-07T17:29:19.223",
-    "not_before": "2025-02-07T17:19:17",
-    "not_after": "2026-03-07T05:00:00",
-    "serial_number": "50075e796a6c426aba39aa12f13f46e9",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "teasmedia-cor-alx1.uspto.gov",
-    "name_value": "teasmedia-cor-alx1.uspto.gov\nteasmedia-sec.uspto.gov\nteasmedia.uspto.gov",
-    "id": 16569271754,
-    "entry_timestamp": "2025-02-06T22:52:34.196",
-    "not_before": "2025-02-06T22:42:33",
-    "not_after": "2026-03-06T05:00:00",
-    "serial_number": "4dad7d96c0ff90fedb33fc7ad944b090",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "teasmedia-cor-alx1.uspto.gov",
-    "name_value": "teasmedia-cor-alx1.uspto.gov",
-    "id": 16560115559,
-    "entry_timestamp": "2025-02-06T16:12:16.14",
-    "not_before": "2025-02-06T16:02:14",
-    "not_after": "2026-03-06T05:00:00",
-    "serial_number": "74aa293971cf47b9b509305e2b685755",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "teasi-cor-alx1.uspto.gov",
-    "name_value": "teasi-cor-alx1.uspto.gov\nteasi-sec.uspto.gov\nteasi.uspto.gov",
-    "id": 16560022068,
-    "entry_timestamp": "2025-02-06T16:07:19.566",
-    "not_before": "2025-02-06T15:57:18",
-    "not_after": "2026-03-06T05:00:00",
-    "serial_number": "40ded6ac0cb42d880ea3de65b4bc17ac",
-    "result_count": 4
   }
 ]
