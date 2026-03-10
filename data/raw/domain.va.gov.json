@@ -2,6 +2,78 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "oawp.va.gov",
+    "name_value": "oawp.va.gov",
+    "id": 24882747720,
+    "entry_timestamp": "2026-03-09T19:03:26.479",
+    "not_before": "2026-03-09T00:00:00",
+    "not_after": "2026-09-23T23:59:59",
+    "serial_number": "0a4beb96237412a5a3abc90f64a46851",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "escreening.va.gov",
+    "name_value": "escreening.va.gov\nssoe.escreening.va.gov\nvaww.escreening.va.gov",
+    "id": 24880258502,
+    "entry_timestamp": "2026-03-09T16:24:02.793",
+    "not_before": "2025-03-12T00:00:00",
+    "not_after": "2026-03-24T23:59:59",
+    "serial_number": "03bc8d9458b03f61d3e97d2a00446376",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "escreening.va.gov",
+    "name_value": "escreening.va.gov\nssoe.escreening.va.gov\nvaww.escreening.va.gov",
+    "id": 24880250115,
+    "entry_timestamp": "2026-03-09T16:23:56.353",
+    "not_before": "2026-03-09T00:00:00",
+    "not_after": "2026-09-23T23:59:59",
+    "serial_number": "06bd9f3dc3ba515c70131f5969f58962",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "citrixaccess.va.gov",
+    "name_value": "citrixaccessmfa.va.gov\ncitrixaccesspiv.va.gov\ncitrixaccess.va.gov",
+    "id": 24849413380,
+    "entry_timestamp": "2026-03-08T05:26:12.772",
+    "not_before": "2026-03-02T00:00:00",
+    "not_after": "2026-09-16T23:59:59",
+    "serial_number": "0bb73bdbb8e5dca3207ab55830c42685",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "www.caats9.va.gov",
+    "name_value": "www.caats9.va.gov\nwww.traincaats9.va.gov",
+    "id": 24820877174,
+    "entry_timestamp": "2026-03-06T16:18:11.042",
+    "not_before": "2026-03-06T00:00:00",
+    "not_after": "2026-09-20T23:59:59",
+    "serial_number": "0f48d835857fd1211f245d5a94ac16a0",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "www.traincaats9.va.gov",
+    "name_value": "www.traincaats9.va.gov",
+    "id": 24820420844,
+    "entry_timestamp": "2026-03-06T15:42:19.922",
+    "not_before": "2026-03-06T00:00:00",
+    "not_after": "2026-09-20T23:59:59",
+    "serial_number": "042bf29852e069f1fe2af4805bc78675",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "www.preprod.voa.va.gov",
     "name_value": "www.preprod.voa.va.gov",
     "id": 24801830590,
@@ -237,18 +309,6 @@
     "not_before": "2026-02-16T00:00:00",
     "not_after": "2027-03-19T23:59:59",
     "serial_number": "032801cfb439ac15417e636750d0c53d",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "yourit-dev.va.gov",
-    "name_value": "yourit-dev.va.gov",
-    "id": 24405203273,
-    "entry_timestamp": "2026-02-14T12:29:18.367",
-    "not_before": "2026-02-14T11:30:48",
-    "not_after": "2026-05-15T11:30:47",
-    "serial_number": "05a1560c49703982ae70650b4d66c0541338",
     "result_count": 2
   },
   {
@@ -844,18 +904,6 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "yourit.va.gov",
     "name_value": "yourit.va.gov",
-    "id": 23884454134,
-    "entry_timestamp": "2026-01-20T17:29:43.256",
-    "not_before": "2026-01-20T16:31:12",
-    "not_after": "2026-04-20T16:31:11",
-    "serial_number": "05260f4eff7abf60df142d36a2cd388466c3",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "yourit.va.gov",
-    "name_value": "yourit.va.gov",
     "id": 23884460056,
     "entry_timestamp": "2026-01-20T17:29:42.29",
     "not_before": "2026-01-20T16:31:12",
@@ -1174,18 +1222,6 @@
     "not_after": "2027-01-06T23:59:59",
     "serial_number": "06969047e121250ae707f80481b3815a",
     "result_count": 51
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "yourit-dev.va.gov",
-    "name_value": "yourit-dev.va.gov",
-    "id": 23153128731,
-    "entry_timestamp": "2025-12-16T10:29:18.032",
-    "not_before": "2025-12-16T09:30:47",
-    "not_after": "2026-03-16T09:30:46",
-    "serial_number": "05b5c30ad9f0e515f33438ad0c0728bd2edb",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 295816,
@@ -1557,18 +1593,6 @@
     "not_before": "2025-09-19T00:00:00",
     "not_after": "2026-09-18T23:59:59",
     "serial_number": "0ad551252be87cfa9e48d8b62e3eda60",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "cernercloud.direct.va.gov",
-    "name_value": "cernercloud.direct.va.gov",
-    "id": 22513747224,
-    "entry_timestamp": "2025-11-16T14:37:24.686",
-    "not_before": "2025-03-07T00:00:00",
-    "not_after": "2026-03-06T23:59:59",
-    "serial_number": "068acfa81ca12b05a4e6a3f4dc48563e",
     "result_count": 2
   },
   {
@@ -6314,18 +6338,6 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "cernercloud.direct.va.gov",
-    "name_value": "cernercloud.direct.va.gov",
-    "id": 16962601331,
-    "entry_timestamp": "2025-03-07T14:00:11.827",
-    "not_before": "2025-03-07T00:00:00",
-    "not_after": "2026-03-06T23:59:59",
-    "serial_number": "068acfa81ca12b05a4e6a3f4dc48563e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "www.traincaats9.va.gov",
     "name_value": "www.traincaats9.va.gov",
     "id": 16958444194,
@@ -6408,18 +6420,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 1399,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 Extended Validation Server CA",
-    "common_name": "care2.va.gov",
-    "name_value": "care2.va.gov\nOHAZ2ABCN01.care2.va.gov\nOHAZ2ABCN02.care2.va.gov\nOHAZ2ABCN03.care2.va.gov\nOHAZ2ABCN04.care2.va.gov\nOHAZ2ABCN05.care2.va.gov\nOHAZ2ABCN06.care2.va.gov\nOHAZ2ABCN07.care2.va.gov\nOHAZ2ABCN08.care2.va.gov\nOHAZ2ABCN09.care2.va.gov\nOHAZ2ABCN10.care2.va.gov\nOHAZ2APCN01.care2.va.gov\nOHAZ2APCN02.care2.va.gov\nOHAZ2APCN03.care2.va.gov\nOHAZ2APMN.care2.va.gov\nOHAZ2APRP01.care2.va.gov\nOHAZ2APSL.care2.va.gov\nOHAZ2BBCN01.care2.va.gov\nOHAZ2BBCN02.care2.va.gov\nOHAZ2BBCN03.care2.va.gov\nOHAZ2BBCN04.care2.va.gov\nOHAZ2BBCN05.care2.va.gov\nOHAZ2BBCN06.care2.va.gov\nOHAZ2BBCN07.care2.va.gov\nOHAZ2BBCN08.care2.va.gov\nOHAZ2BBCN09.care2.va.gov\nOHAZ2BBCN10.care2.va.gov\nOHAZ2BPCN01.care2.va.gov\nOHAZ2BPCN02.care2.va.gov\nOHAZ2BPCN03.care2.va.gov\nOHAZ2BPRP01.care2.va.gov\nOHAZ2CBCN01.care2.va.gov\nOHAZ2CBCN02.care2.va.gov\nOHAZ2CBCN03.care2.va.gov\nOHAZ2CBCN04.care2.va.gov\nOHAZ2CBCN05.care2.va.gov\nOHAZ2CBCN06.care2.va.gov\nOHAZ2CBCN07.care2.va.gov\nOHAZ2CBCN08.care2.va.gov\nOHAZ2CBCN09.care2.va.gov\nOHAZ2CBCN10.care2.va.gov\nOHAZ2CPCN01.care2.va.gov\nOHAZ2CPCN02.care2.va.gov\nOHAZ2CPCN03.care2.va.gov\nOHAZ2CPRP01.care2.va.gov\nORAZ2ABCN01.care2.va.gov\nORAZ2ABCN02.care2.va.gov\nORAZ2ABCN03.care2.va.gov\nORAZ2ABCN04.care2.va.gov\nORAZ2ABCN05.care2.va.gov\nORAZ2ABCN06.care2.va.gov\nORAZ2ABCN07.care2.va.gov\nORAZ2ABCN08.care2.va.gov\nORAZ2ABCN09.care2.va.gov\nORAZ2ABCN10.care2.va.gov\nORAZ2APCN01.care2.va.gov\nORAZ2APCN02.care2.va.gov\nORAZ2APCN03.care2.va.gov\nORAZ2APRP01.care2.va.gov\nORAZ2BBCN01.care2.va.gov\nORAZ2BBCN02.care2.va.gov\nORAZ2BBCN03.care2.va.gov\nORAZ2BBCN04.care2.va.gov\nORAZ2BBCN05.care2.va.gov\nORAZ2BBCN06.care2.va.gov\nORAZ2BBCN07.care2.va.gov\nORAZ2BBCN08.care2.va.gov\nORAZ2BBCN09.care2.va.gov\nORAZ2BBCN10.care2.va.gov\nORAZ2BPCN01.care2.va.gov\nORAZ2BPCN02.care2.va.gov\nORAZ2BPCN03.care2.va.gov\nORAZ2BPRP01.care2.va.gov\nORAZ2CBCN01.care2.va.gov\nORAZ2CBCN02.care2.va.gov\nORAZ2CBCN03.care2.va.gov\nORAZ2CBCN04.care2.va.gov\nORAZ2CBCN05.care2.va.gov\nORAZ2CBCN06.care2.va.gov\nORAZ2CBCN07.care2.va.gov\nORAZ2CBCN08.care2.va.gov\nORAZ2CBCN09.care2.va.gov\nORAZ2CBCN10.care2.va.gov\nORAZ2CPCN01.care2.va.gov\nORAZ2CPCN02.care2.va.gov\nORAZ2CPCN03.care2.va.gov\nORAZ2CPRP01.care2.va.gov\npool.care2.va.gov",
-    "id": 16782618406,
-    "entry_timestamp": "2025-02-21T08:39:13.657",
-    "not_before": "2025-02-04T00:00:00",
-    "not_after": "2026-03-07T23:59:59",
-    "serial_number": "0c57d16c9112bc0f055e0baf073f4942",
-    "result_count": 89
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "VHACANAPPMEDECO1.V02.MED.VA.GOV",
@@ -6430,18 +6430,6 @@
     "not_after": "2026-03-20T23:59:59",
     "serial_number": "04f6a0b936cc689e857c612884118489",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 1399,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 Extended Validation Server CA",
-    "common_name": "Care1.va.gov",
-    "name_value": "Care1.va.gov\nNVAAZ1BPCN01.care1.va.gov\nNVAAZ1BPCN02.care1.va.gov\nNVAAZ1BPCN03.care1.va.gov\nNVAAZ1BPCN04.care1.va.gov\nNVAAZ1BPCN05.care1.va.gov\nNVAAZ1BPCN06.care1.va.gov\nNVAAZ1BPCN07.care1.va.gov\nNVAAZ1BPCN08.care1.va.gov\nNVAAZ1BPCN09.care1.va.gov\nNVAAZ1BPCN10.care1.va.gov\nNVAAZ1BPCN11.care1.va.gov\nNVAAZ1BPCN12.care1.va.gov\nNVAAZ1BPCN13.care1.va.gov\nNVAAZ1BPCN14.care1.va.gov\nNVAAZ1BPCN15.care1.va.gov\nNVAAZ1BPCN16.care1.va.gov\nNVAAZ1BPCN17.care1.va.gov\nNVAAZ1BPRP01.care1.va.gov\nNVAAZ1CPCN01.care1.va.gov\nNVAAZ1CPCN02.care1.va.gov\nNVAAZ1CPCN03.care1.va.gov\nNVAAZ1CPCN04.care1.va.gov\nNVAAZ1CPCN05.care1.va.gov\nNVAAZ1CPCN06.care1.va.gov\nNVAAZ1CPCN07.care1.va.gov\nNVAAZ1CPCN08.care1.va.gov\nNVAAZ1CPCN09.care1.va.gov\nNVAAZ1CPCN10.care1.va.gov\nNVAAZ1CPCN11.care1.va.gov\nNVAAZ1CPCN12.care1.va.gov\nNVAAZ1CPCN13.care1.va.gov\nNVAAZ1CPCN14.care1.va.gov\nNVAAZ1CPCN15.care1.va.gov\nNVAAZ1CPCN16.care1.va.gov\nNVAAZ1CPCN17.care1.va.gov\nNVAAZ1CPRP01.care1.va.gov\nNVAAZ1DPCN01.care1.va.gov\nNVAAZ1DPCN02.care1.va.gov\nNVAAZ1DPCN03.care1.va.gov\nNVAAZ1DPCN04.care1.va.gov\nNVAAZ1DPCN05.care1.va.gov\nNVAAZ1DPCN06.care1.va.gov\nNVAAZ1DPCN07.care1.va.gov\nNVAAZ1DPCN08.care1.va.gov\nNVAAZ1DPCN09.care1.va.gov\nNVAAZ1DPCN10.care1.va.gov\nNVAAZ1DPCN11.care1.va.gov\nNVAAZ1DPCN12.care1.va.gov\nNVAAZ1DPCN13.care1.va.gov\nNVAAZ1DPCN14.care1.va.gov\nNVAAZ1DPCN15.care1.va.gov\nNVAAZ1DPCN16.care1.va.gov\nNVAAZ1DPCN17.care1.va.gov\nNVAAZ1DPRP01.care1.va.gov\nOR2AZ2APCN01.care1.va.gov\nOR2AZ2APCN02.care1.va.gov\nOR2AZ2APCN03.care1.va.gov\nOR2AZ2APCN04.care1.va.gov\nOR2AZ2APCN05.care1.va.gov\nOR2AZ2APCN06.care1.va.gov\nOR2AZ2APCN07.care1.va.gov\nOR2AZ2APCN08.care1.va.gov\nOR2AZ2APCN09.care1.va.gov\nOR2AZ2APCN10.care1.va.gov\nOR2AZ2APCN11.care1.va.gov\nOR2AZ2APCN12.care1.va.gov\nOR2AZ2APCN13.care1.va.gov\nOR2AZ2APCN14.care1.va.gov\nOR2AZ2APCN15.care1.va.gov\nOR2AZ2APCN16.care1.va.gov\nOR2AZ2APCN17.care1.va.gov\nOR2AZ2APLS.care1.va.gov\nOR2AZ2APMN.care1.va.gov\nOR2AZ2APRP01.care1.va.gov\nOR2AZ2BPCN01.care1.va.gov\nOR2AZ2BPCN02.care1.va.gov\nOR2AZ2BPCN03.care1.va.gov\nOR2AZ2BPCN04.care1.va.gov\nOR2AZ2BPCN05.care1.va.gov\nOR2AZ2BPCN06.care1.va.gov\nOR2AZ2BPCN07.care1.va.gov\nOR2AZ2BPCN08.care1.va.gov\nOR2AZ2BPCN09.care1.va.gov\nOR2AZ2BPCN10.care1.va.gov\nOR2AZ2BPCN11.care1.va.gov\nOR2AZ2BPCN12.care1.va.gov\nOR2AZ2BPCN13.care1.va.gov\nOR2AZ2BPCN14.care1.va.gov\nOR2AZ2BPCN15.care1.va.gov\nOR2AZ2BPCN16.care1.va.gov\nOR2AZ2BPCN17.care1.va.gov\nOR2AZ2BPRP01.care1.va.gov\nOR2AZ2CPCN01.care1.va.gov\nOR2AZ2CPCN02.care1.va.gov\nOR2AZ2CPCN03.care1.va.gov\nOR2AZ2CPCN04.care1.va.gov\nOR2AZ2CPCN05.care1.va.gov\nOR2AZ2CPCN06.care1.va.gov\nOR2AZ2CPCN07.care1.va.gov\nOR2AZ2CPCN08.care1.va.gov\nOR2AZ2CPCN09.care1.va.gov\nOR2AZ2CPCN10.care1.va.gov\nOR2AZ2CPCN11.care1.va.gov\nOR2AZ2CPCN12.care1.va.gov\nOR2AZ2CPCN13.care1.va.gov\nOR2AZ2CPCN14.care1.va.gov\nOR2AZ2CPCN15.care1.va.gov\nOR2AZ2CPCN16.care1.va.gov\nOR2AZ2CPCN17.care1.va.gov\nOR2AZ2CPRP01.care1.va.gov\npool.care1.va.gov",
-    "id": 16775846340,
-    "entry_timestamp": "2025-02-19T23:58:59.602",
-    "not_before": "2025-02-04T00:00:00",
-    "not_after": "2026-03-07T23:59:59",
-    "serial_number": "0420058877a2ef1ff8cd4f8751c4bf4c",
-    "result_count": 113
   },
   {
     "issuer_ca_id": 105493,
@@ -6466,65 +6454,5 @@
     "not_after": "2026-03-14T23:59:59",
     "serial_number": "00e3150963c8f9d52deaf4b0deb9b2a88b",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1399,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 Extended Validation Server CA",
-    "common_name": "vapnsevspmn.vc.va.gov",
-    "name_value": "vapnsevspmn.vc.va.gov",
-    "id": 16558175735,
-    "entry_timestamp": "2025-02-06T13:29:30.904",
-    "not_before": "2025-02-06T00:00:00",
-    "not_after": "2026-03-09T23:59:59",
-    "serial_number": "02277b83b4e98aee9783e945dee5bed0",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 1399,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 Extended Validation Server CA",
-    "common_name": "care2.va.gov",
-    "name_value": "care2.va.gov\nOHAZ2ABCN01.care2.va.gov\nOHAZ2ABCN02.care2.va.gov\nOHAZ2ABCN03.care2.va.gov\nOHAZ2ABCN04.care2.va.gov\nOHAZ2ABCN05.care2.va.gov\nOHAZ2ABCN06.care2.va.gov\nOHAZ2ABCN07.care2.va.gov\nOHAZ2ABCN08.care2.va.gov\nOHAZ2ABCN09.care2.va.gov\nOHAZ2ABCN10.care2.va.gov\nOHAZ2APCN01.care2.va.gov\nOHAZ2APCN02.care2.va.gov\nOHAZ2APCN03.care2.va.gov\nOHAZ2APMN.care2.va.gov\nOHAZ2APRP01.care2.va.gov\nOHAZ2APSL.care2.va.gov\nOHAZ2BBCN01.care2.va.gov\nOHAZ2BBCN02.care2.va.gov\nOHAZ2BBCN03.care2.va.gov\nOHAZ2BBCN04.care2.va.gov\nOHAZ2BBCN05.care2.va.gov\nOHAZ2BBCN06.care2.va.gov\nOHAZ2BBCN07.care2.va.gov\nOHAZ2BBCN08.care2.va.gov\nOHAZ2BBCN09.care2.va.gov\nOHAZ2BBCN10.care2.va.gov\nOHAZ2BPCN01.care2.va.gov\nOHAZ2BPCN02.care2.va.gov\nOHAZ2BPCN03.care2.va.gov\nOHAZ2BPRP01.care2.va.gov\nOHAZ2CBCN01.care2.va.gov\nOHAZ2CBCN02.care2.va.gov\nOHAZ2CBCN03.care2.va.gov\nOHAZ2CBCN04.care2.va.gov\nOHAZ2CBCN05.care2.va.gov\nOHAZ2CBCN06.care2.va.gov\nOHAZ2CBCN07.care2.va.gov\nOHAZ2CBCN08.care2.va.gov\nOHAZ2CBCN09.care2.va.gov\nOHAZ2CBCN10.care2.va.gov\nOHAZ2CPCN01.care2.va.gov\nOHAZ2CPCN02.care2.va.gov\nOHAZ2CPCN03.care2.va.gov\nOHAZ2CPRP01.care2.va.gov\nORAZ2ABCN01.care2.va.gov\nORAZ2ABCN02.care2.va.gov\nORAZ2ABCN03.care2.va.gov\nORAZ2ABCN04.care2.va.gov\nORAZ2ABCN05.care2.va.gov\nORAZ2ABCN06.care2.va.gov\nORAZ2ABCN07.care2.va.gov\nORAZ2ABCN08.care2.va.gov\nORAZ2ABCN09.care2.va.gov\nORAZ2ABCN10.care2.va.gov\nORAZ2APCN01.care2.va.gov\nORAZ2APCN02.care2.va.gov\nORAZ2APCN03.care2.va.gov\nORAZ2APRP01.care2.va.gov\nORAZ2BBCN01.care2.va.gov\nORAZ2BBCN02.care2.va.gov\nORAZ2BBCN03.care2.va.gov\nORAZ2BBCN04.care2.va.gov\nORAZ2BBCN05.care2.va.gov\nORAZ2BBCN06.care2.va.gov\nORAZ2BBCN07.care2.va.gov\nORAZ2BBCN08.care2.va.gov\nORAZ2BBCN09.care2.va.gov\nORAZ2BBCN10.care2.va.gov\nORAZ2BPCN01.care2.va.gov\nORAZ2BPCN02.care2.va.gov\nORAZ2BPCN03.care2.va.gov\nORAZ2BPRP01.care2.va.gov\nORAZ2CBCN01.care2.va.gov\nORAZ2CBCN02.care2.va.gov\nORAZ2CBCN03.care2.va.gov\nORAZ2CBCN04.care2.va.gov\nORAZ2CBCN05.care2.va.gov\nORAZ2CBCN06.care2.va.gov\nORAZ2CBCN07.care2.va.gov\nORAZ2CBCN08.care2.va.gov\nORAZ2CBCN09.care2.va.gov\nORAZ2CBCN10.care2.va.gov\nORAZ2CPCN01.care2.va.gov\nORAZ2CPCN02.care2.va.gov\nORAZ2CPCN03.care2.va.gov\nORAZ2CPRP01.care2.va.gov\npool.care2.va.gov",
-    "id": 16514833990,
-    "entry_timestamp": "2025-02-04T16:00:16.774",
-    "not_before": "2025-02-04T00:00:00",
-    "not_after": "2026-03-07T23:59:59",
-    "serial_number": "0c57d16c9112bc0f055e0baf073f4942",
-    "result_count": 89
-  },
-  {
-    "issuer_ca_id": 1399,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 Extended Validation Server CA",
-    "common_name": "OHAZ2APMN.care2.va.gov",
-    "name_value": "mgmt.care2.va.gov\nOHAZ2APMN.care2.va.gov",
-    "id": 16514698425,
-    "entry_timestamp": "2025-02-04T15:54:16.502",
-    "not_before": "2025-02-04T00:00:00",
-    "not_after": "2026-03-07T23:59:59",
-    "serial_number": "02f2d3f4733e48127328a67de5210895",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 1399,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 Extended Validation Server CA",
-    "common_name": "Care1.va.gov",
-    "name_value": "Care1.va.gov\nNVAAZ1BPCN01.care1.va.gov\nNVAAZ1BPCN02.care1.va.gov\nNVAAZ1BPCN03.care1.va.gov\nNVAAZ1BPCN04.care1.va.gov\nNVAAZ1BPCN05.care1.va.gov\nNVAAZ1BPCN06.care1.va.gov\nNVAAZ1BPCN07.care1.va.gov\nNVAAZ1BPCN08.care1.va.gov\nNVAAZ1BPCN09.care1.va.gov\nNVAAZ1BPCN10.care1.va.gov\nNVAAZ1BPCN11.care1.va.gov\nNVAAZ1BPCN12.care1.va.gov\nNVAAZ1BPCN13.care1.va.gov\nNVAAZ1BPCN14.care1.va.gov\nNVAAZ1BPCN15.care1.va.gov\nNVAAZ1BPCN16.care1.va.gov\nNVAAZ1BPCN17.care1.va.gov\nNVAAZ1BPRP01.care1.va.gov\nNVAAZ1CPCN01.care1.va.gov\nNVAAZ1CPCN02.care1.va.gov\nNVAAZ1CPCN03.care1.va.gov\nNVAAZ1CPCN04.care1.va.gov\nNVAAZ1CPCN05.care1.va.gov\nNVAAZ1CPCN06.care1.va.gov\nNVAAZ1CPCN07.care1.va.gov\nNVAAZ1CPCN08.care1.va.gov\nNVAAZ1CPCN09.care1.va.gov\nNVAAZ1CPCN10.care1.va.gov\nNVAAZ1CPCN11.care1.va.gov\nNVAAZ1CPCN12.care1.va.gov\nNVAAZ1CPCN13.care1.va.gov\nNVAAZ1CPCN14.care1.va.gov\nNVAAZ1CPCN15.care1.va.gov\nNVAAZ1CPCN16.care1.va.gov\nNVAAZ1CPCN17.care1.va.gov\nNVAAZ1CPRP01.care1.va.gov\nNVAAZ1DPCN01.care1.va.gov\nNVAAZ1DPCN02.care1.va.gov\nNVAAZ1DPCN03.care1.va.gov\nNVAAZ1DPCN04.care1.va.gov\nNVAAZ1DPCN05.care1.va.gov\nNVAAZ1DPCN06.care1.va.gov\nNVAAZ1DPCN07.care1.va.gov\nNVAAZ1DPCN08.care1.va.gov\nNVAAZ1DPCN09.care1.va.gov\nNVAAZ1DPCN10.care1.va.gov\nNVAAZ1DPCN11.care1.va.gov\nNVAAZ1DPCN12.care1.va.gov\nNVAAZ1DPCN13.care1.va.gov\nNVAAZ1DPCN14.care1.va.gov\nNVAAZ1DPCN15.care1.va.gov\nNVAAZ1DPCN16.care1.va.gov\nNVAAZ1DPCN17.care1.va.gov\nNVAAZ1DPRP01.care1.va.gov\nOR2AZ2APCN01.care1.va.gov\nOR2AZ2APCN02.care1.va.gov\nOR2AZ2APCN03.care1.va.gov\nOR2AZ2APCN04.care1.va.gov\nOR2AZ2APCN05.care1.va.gov\nOR2AZ2APCN06.care1.va.gov\nOR2AZ2APCN07.care1.va.gov\nOR2AZ2APCN08.care1.va.gov\nOR2AZ2APCN09.care1.va.gov\nOR2AZ2APCN10.care1.va.gov\nOR2AZ2APCN11.care1.va.gov\nOR2AZ2APCN12.care1.va.gov\nOR2AZ2APCN13.care1.va.gov\nOR2AZ2APCN14.care1.va.gov\nOR2AZ2APCN15.care1.va.gov\nOR2AZ2APCN16.care1.va.gov\nOR2AZ2APCN17.care1.va.gov\nOR2AZ2APLS.care1.va.gov\nOR2AZ2APMN.care1.va.gov\nOR2AZ2APRP01.care1.va.gov\nOR2AZ2BPCN01.care1.va.gov\nOR2AZ2BPCN02.care1.va.gov\nOR2AZ2BPCN03.care1.va.gov\nOR2AZ2BPCN04.care1.va.gov\nOR2AZ2BPCN05.care1.va.gov\nOR2AZ2BPCN06.care1.va.gov\nOR2AZ2BPCN07.care1.va.gov\nOR2AZ2BPCN08.care1.va.gov\nOR2AZ2BPCN09.care1.va.gov\nOR2AZ2BPCN10.care1.va.gov\nOR2AZ2BPCN11.care1.va.gov\nOR2AZ2BPCN12.care1.va.gov\nOR2AZ2BPCN13.care1.va.gov\nOR2AZ2BPCN14.care1.va.gov\nOR2AZ2BPCN15.care1.va.gov\nOR2AZ2BPCN16.care1.va.gov\nOR2AZ2BPCN17.care1.va.gov\nOR2AZ2BPRP01.care1.va.gov\nOR2AZ2CPCN01.care1.va.gov\nOR2AZ2CPCN02.care1.va.gov\nOR2AZ2CPCN03.care1.va.gov\nOR2AZ2CPCN04.care1.va.gov\nOR2AZ2CPCN05.care1.va.gov\nOR2AZ2CPCN06.care1.va.gov\nOR2AZ2CPCN07.care1.va.gov\nOR2AZ2CPCN08.care1.va.gov\nOR2AZ2CPCN09.care1.va.gov\nOR2AZ2CPCN10.care1.va.gov\nOR2AZ2CPCN11.care1.va.gov\nOR2AZ2CPCN12.care1.va.gov\nOR2AZ2CPCN13.care1.va.gov\nOR2AZ2CPCN14.care1.va.gov\nOR2AZ2CPCN15.care1.va.gov\nOR2AZ2CPCN16.care1.va.gov\nOR2AZ2CPCN17.care1.va.gov\nOR2AZ2CPRP01.care1.va.gov\npool.care1.va.gov",
-    "id": 16514621050,
-    "entry_timestamp": "2025-02-04T15:50:08.622",
-    "not_before": "2025-02-04T00:00:00",
-    "not_after": "2026-03-07T23:59:59",
-    "serial_number": "0420058877a2ef1ff8cd4f8751c4bf4c",
-    "result_count": 113
-  },
-  {
-    "issuer_ca_id": 1399,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 Extended Validation Server CA",
-    "common_name": "care1.va.gov",
-    "name_value": "care1.va.gov\nmgmt.care1.va.gov\nOR2AZ2APMN.care1.va.gov",
-    "id": 16514452625,
-    "entry_timestamp": "2025-02-04T15:43:54.767",
-    "not_before": "2025-02-04T00:00:00",
-    "not_after": "2026-03-07T23:59:59",
-    "serial_number": "034bb00f1990da8a95a55789fa8d96e4",
-    "result_count": 4
   }
 ]

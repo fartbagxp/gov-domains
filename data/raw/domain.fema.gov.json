@@ -1,11 +1,23 @@
 [
   {
+    "issuer_ca_id": 185748,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
+    "common_name": "www4.dhs.gov",
+    "name_value": "gis.fema.gov",
+    "id": 24852637828,
+    "entry_timestamp": "2026-03-08T09:01:10.437",
+    "not_before": "2026-03-05T00:00:00",
+    "not_after": "2026-06-16T23:59:59",
+    "serial_number": "0a801aab2f556fcef664b51ca0f6051f",
+    "result_count": 1
+  },
+  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "lscms-auth.fema.gov",
     "name_value": "lscms-auth.fema.gov",
     "id": 24825387604,
-    "entry_timestamp": "2026-03-06T22:01:56.62",
+    "entry_timestamp": "2026-03-06T22:01:56.616",
     "not_before": "2026-03-06T00:00:00",
     "not_after": "2026-09-20T23:59:59",
     "serial_number": "0190e57f553c79603fc7b336b28cff2f",
@@ -29,7 +41,7 @@
     "common_name": "tdl.lscms-auth.fema.gov",
     "name_value": "tdl.lscms-auth.fema.gov",
     "id": 24825307308,
-    "entry_timestamp": "2026-03-06T21:56:48.304",
+    "entry_timestamp": "2026-03-06T21:56:48.302",
     "not_before": "2026-03-06T00:00:00",
     "not_after": "2026-09-20T23:59:59",
     "serial_number": "03d22423516847eeaf92a8daf987dc25",
@@ -4017,54 +4029,6 @@
     "not_before": "2025-12-10T23:06:45",
     "not_after": "2026-03-11T00:05:29",
     "serial_number": "30bdca50a09a15fa0d003a14bb908fed",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295809,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
-    "common_name": "core.nfipdirect.fema.gov",
-    "name_value": "*.core.nfipdirect.fema.gov\ncore.nfipdirect.fema.gov",
-    "id": 22965562189,
-    "entry_timestamp": "2025-12-07T16:08:28.455",
-    "not_before": "2025-12-07T15:09:54",
-    "not_after": "2026-03-07T15:09:53",
-    "serial_number": "05ff6dcd9766d6a95fffef947ed4dc3f7432",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295809,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
-    "common_name": "core.nfipdirect.fema.gov",
-    "name_value": "*.core.nfipdirect.fema.gov\ncore.nfipdirect.fema.gov",
-    "id": 22970309412,
-    "entry_timestamp": "2025-12-07T16:08:24.524",
-    "not_before": "2025-12-07T15:09:54",
-    "not_after": "2026-03-07T15:09:53",
-    "serial_number": "05ff6dcd9766d6a95fffef947ed4dc3f7432",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "core.nfipdirect.fema.gov",
-    "name_value": "*.core.nfipdirect.fema.gov\ncore.nfipdirect.fema.gov",
-    "id": 22965561273,
-    "entry_timestamp": "2025-12-07T16:08:01.184",
-    "not_before": "2025-12-07T15:09:30",
-    "not_after": "2026-03-07T15:09:29",
-    "serial_number": "05aef8325c93d3ec532f78d9c15df788fe0f",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "core.nfipdirect.fema.gov",
-    "name_value": "*.core.nfipdirect.fema.gov\ncore.nfipdirect.fema.gov",
-    "id": 22971618172,
-    "entry_timestamp": "2025-12-07T16:08:00.962",
-    "not_before": "2025-12-07T15:09:30",
-    "not_after": "2026-03-07T15:09:29",
-    "serial_number": "05aef8325c93d3ec532f78d9c15df788fe0f",
     "result_count": 3
   },
   {
