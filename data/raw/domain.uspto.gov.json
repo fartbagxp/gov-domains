@@ -1,5 +1,17 @@
 [
   {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "fqt.fpng.awslab.uspto.gov",
+    "name_value": "feeprocessingportal-passive-test.fqt.uspto.gov\nfeeprocessingportal-test.fqt.uspto.gov\nfees-passive-test-fqt.etc.uspto.gov\nfeespassivetestfqt.etc.uspto.gov\nfees-test-cor-alx1-fqt.etc.uspto.gov\nfees-test-fqt.etc.uspto.gov\nfees-test-passive-cor-alx1-fqt.etc.uspto.gov\nfees-test-passive-dmz-alx1-fqt.etc.uspto.gov\nfpng-int-passive-test.fqt.uspto.gov\nfpng-int-test.fqt.uspto.gov\nfqt.fpng.awslab.uspto.gov",
+    "id": 24904990781,
+    "entry_timestamp": "2026-03-10T20:13:59.52",
+    "not_before": "2026-03-10T00:00:00",
+    "not_after": "2026-09-23T23:59:59",
+    "serial_number": "03fe8b445bcfa838d8a03ecb3f0502f9",
+    "result_count": 12
+  },
+  {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "assignmentcenter-uat2.etc.uspto.gov",
@@ -832,18 +844,6 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "uspto.gov",
     "name_value": "uspto.gov",
-    "id": 24371783719,
-    "entry_timestamp": "2026-02-13T02:55:30.871",
-    "not_before": "2026-02-13T01:53:16",
-    "not_after": "2026-05-14T02:53:14",
-    "serial_number": "00d1195ebfb44767c30e574815ec01357d",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "uspto.gov",
-    "name_value": "uspto.gov",
     "id": 24371775471,
     "entry_timestamp": "2026-02-13T02:53:16.658",
     "not_before": "2026-02-13T01:53:16",
@@ -1000,18 +1000,6 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "etc.uspto.gov",
     "name_value": "etc.uspto.gov",
-    "id": 24302977435,
-    "entry_timestamp": "2026-02-10T05:59:02.831",
-    "not_before": "2026-02-10T03:47:16",
-    "not_after": "2026-05-11T04:47:13",
-    "serial_number": "169d02e69a0a3bc80d521840b79be2b4",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "etc.uspto.gov",
-    "name_value": "etc.uspto.gov",
     "id": 24301843733,
     "entry_timestamp": "2026-02-10T04:47:17.283",
     "not_before": "2026-02-10T03:47:16",
@@ -1042,18 +1030,6 @@
     "not_after": "2026-05-09T02:36:49",
     "serial_number": "3abbe1de70f2920e4cf82789079f10",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "logs.cf-test.etc.uspto.gov",
-    "name_value": "*.logs.cf-test.etc.uspto.gov\nlogs.cf-test.etc.uspto.gov",
-    "id": 24251316005,
-    "entry_timestamp": "2026-02-07T22:16:15.101",
-    "not_before": "2026-02-07T21:16:14",
-    "not_after": "2026-05-08T22:15:43",
-    "serial_number": "2e10c85d00e7210511a24e0a070f2daa",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 286242,
@@ -1174,54 +1150,6 @@
     "not_after": "2027-01-22T23:59:59",
     "serial_number": "046679ae19197dae9088900f78c2ab55",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "smp.uspto.gov",
-    "name_value": "smp.uspto.gov",
-    "id": 23892225119,
-    "entry_timestamp": "2026-01-21T03:59:28.122",
-    "not_before": "2026-01-21T03:00:57",
-    "not_after": "2026-04-21T03:00:56",
-    "serial_number": "0520cfa38ac105edefa0512eaed54ea7452d",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "smp.uspto.gov",
-    "name_value": "smp.uspto.gov",
-    "id": 23892502255,
-    "entry_timestamp": "2026-01-21T03:59:27.941",
-    "not_before": "2026-01-21T03:00:57",
-    "not_after": "2026-04-21T03:00:56",
-    "serial_number": "0520cfa38ac105edefa0512eaed54ea7452d",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "search.usa.gov",
-    "name_value": "search.uspto.gov",
-    "id": 23882183563,
-    "entry_timestamp": "2026-01-20T14:58:31.038",
-    "not_before": "2026-01-20T14:00:00",
-    "not_after": "2026-04-20T13:59:59",
-    "serial_number": "06471f929bce7ec0aaeceee9bb8abebca3ba",
-    "result_count": 1
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "search.usa.gov",
-    "name_value": "search.uspto.gov",
-    "id": 23882165756,
-    "entry_timestamp": "2026-01-20T14:58:30.767",
-    "not_before": "2026-01-20T14:00:00",
-    "not_after": "2026-04-20T13:59:59",
-    "serial_number": "06471f929bce7ec0aaeceee9bb8abebca3ba",
-    "result_count": 1
   },
   {
     "issuer_ca_id": 185752,
@@ -2002,30 +1930,6 @@
     "not_after": "2026-12-11T23:59:59",
     "serial_number": "00c7d7b49a14638342d3e616cd266b9051",
     "result_count": 9
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "logs.cf-test.etc.uspto.gov",
-    "name_value": "*.logs.cf-test.etc.uspto.gov\nlogs.cf-test.etc.uspto.gov",
-    "id": 23041407434,
-    "entry_timestamp": "2025-12-10T21:52:58.717",
-    "not_before": "2025-12-10T20:52:58",
-    "not_after": "2026-03-10T21:52:53",
-    "serial_number": "6b3b6fd79a973bb4139e867033fc9147",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "logs.cf-test.etc.uspto.gov",
-    "name_value": "*.logs.cf-test.etc.uspto.gov\nlogs.cf-test.etc.uspto.gov",
-    "id": 23041406067,
-    "entry_timestamp": "2025-12-10T21:52:48.203",
-    "not_before": "2025-12-10T20:52:47",
-    "not_after": "2026-03-10T21:49:01",
-    "serial_number": "3f1f1c446b48470e0e96a7ffc048b954",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 204411,
