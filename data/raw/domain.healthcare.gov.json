@@ -1,5 +1,77 @@
 [
   {
+    "issuer_ca_id": 185748,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
+    "common_name": "www2.cms.gov",
+    "name_value": "vpn.aws.healthcare.gov",
+    "id": 24929505808,
+    "entry_timestamp": "2026-03-11T22:14:25.663",
+    "not_before": "2025-12-07T00:00:00",
+    "not_after": "2026-12-08T23:59:59",
+    "serial_number": "07b5b2a0e4095b5b906f560745fb20af",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "impl3.bpc.api.healthcare.gov",
+    "name_value": "impl3.bpc.api.healthcare.gov",
+    "id": 24923667842,
+    "entry_timestamp": "2026-03-11T15:42:00.325",
+    "not_before": "2026-03-11T00:00:00",
+    "not_after": "2026-09-24T23:59:59",
+    "serial_number": "0b1b23d02f1411f3cfc19769614e21a1",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "impl3.dsrs.api.healthcare.gov",
+    "name_value": "impl3.dsrs.api.healthcare.gov",
+    "id": 24923607558,
+    "entry_timestamp": "2026-03-11T15:37:49.077",
+    "not_before": "2026-03-11T00:00:00",
+    "not_after": "2026-09-24T23:59:59",
+    "serial_number": "08f2fba80fb4855295bdb6e5bd5a3656",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "impl3.ses.api.healthcare.gov",
+    "name_value": "impl3.ses.api.healthcare.gov",
+    "id": 24923598022,
+    "entry_timestamp": "2026-03-11T15:36:44.457",
+    "not_before": "2026-03-11T00:00:00",
+    "not_after": "2026-09-24T23:59:59",
+    "serial_number": "04dfab761d4a9ea11f92427658ef844c",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "impl3.ies.api.healthcare.gov",
+    "name_value": "impl3.ies.api.healthcare.gov",
+    "id": 24923593486,
+    "entry_timestamp": "2026-03-11T15:36:07.501",
+    "not_before": "2026-03-11T00:00:00",
+    "not_after": "2026-09-24T23:59:59",
+    "serial_number": "092e98c7d279a77f6b83ed8dbf201ebf",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "impl3.mcr.api.healthcare.gov",
+    "name_value": "impl3.mcr.api.healthcare.gov",
+    "id": 24923579035,
+    "entry_timestamp": "2026-03-11T15:35:06.914",
+    "not_before": "2026-03-11T00:00:00",
+    "not_after": "2026-09-24T23:59:59",
+    "serial_number": "0adcb6dca34e76404697f0f0f667a0e7",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 246719,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "sls-elb.prod.healthcare.gov",
