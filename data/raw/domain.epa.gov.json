@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 436902,
+    "issuer_name": "C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2026 Q1",
+    "common_name": "imperva.com",
+    "name_value": "securefoia.epa.gov",
+    "id": 24949786783,
+    "entry_timestamp": "2026-03-12T21:35:43.079",
+    "not_before": "2026-03-12T21:35:40",
+    "not_after": "2026-03-13T21:35:40",
+    "serial_number": "01ebeb183935a996ac3c03573d7d0a7f",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "*.rtpnc.epa.gov",
+    "name_value": "oasprod1.rtpnc.epa.gov\noasprod2.rtpnc.epa.gov\n*.rtpnc.epa.gov\nrtpnc.epa.gov",
+    "id": 24944303805,
+    "entry_timestamp": "2026-03-12T15:13:00.868",
+    "not_before": "2026-03-12T00:00:00",
+    "not_after": "2026-09-26T23:59:59",
+    "serial_number": "081f7a7a51f756b788729a4aed27851d",
+    "result_count": 5
+  },
+  {
     "issuer_ca_id": 295817,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "servicenow-demo.epa.gov",
@@ -5230,17 +5254,5 @@
     "not_after": "2026-03-23T23:59:59",
     "serial_number": "0ee9c0ef0b06f575f50dc2bdc394b870",
     "result_count": 20
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "portfoliomanager.staging.es.epa.gov",
-    "name_value": "activemq.estar-stage.aws.epa.gov\nactivemq.staging.es.epa.gov\nAuth.estar-stage.aws.epa.gov\nAuth.staging.es.epa.gov\nbeta.estar-stage.aws.epa.gov\nbeta.staging.es.epa.gov\ncmadmin.estar-stage.aws.epa.gov\ncmadmin.staging.es.epa.gov\ncsmxpfx02.estar-stage.aws.epa.gov\ncsmxpfx02.staging.es.epa.gov\ndownloads.estar-stage.aws.epa.gov\ndownloads.staging.es.epa.gov\nenergystar.estar-stage.aws.epa.gov\nenergystar.staging.es.epa.gov\nesmail.estar-stage.aws.epa.gov\nesmail.staging.es.epa.gov\nkeycloak.estar-stage.aws.epa.gov\nkeycloak.staging.es.epa.gov\nPortfoliomanager-beta.estar-stage.aws.epa.gov\nPortfoliomanager-beta.staging.es.epa.gov\nportfoliomanager.estar-stage.aws.epa.gov\nportfoliomanager.staging.es.epa.gov",
-    "id": 17091536413,
-    "entry_timestamp": "2025-03-13T19:14:54.164",
-    "not_before": "2025-03-13T00:00:00",
-    "not_after": "2026-03-12T23:59:59",
-    "serial_number": "015f84997937a79a763143f407382fb7",
-    "result_count": 23
   }
 ]
