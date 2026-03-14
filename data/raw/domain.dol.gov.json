@@ -1,15 +1,111 @@
 [
   {
-    "issuer_ca_id": 436902,
-    "issuer_name": "C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2026 Q1",
-    "common_name": "imperva.com",
-    "name_value": "*.uat.dol.gov",
-    "id": 24931618186,
-    "entry_timestamp": "2026-03-12T00:33:20.54",
-    "not_before": "2026-03-12T00:33:18",
-    "not_after": "2026-03-13T00:33:18",
-    "serial_number": "01557beae8eb9d4f11c068eb3f20a070",
-    "result_count": 1
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "daastst.dol.gov",
+    "name_value": "daaspubtst.dol.gov\ndaastst.dol.gov",
+    "id": 24966348759,
+    "entry_timestamp": "2026-03-13T16:19:04.817",
+    "not_before": "2026-03-13T00:00:00",
+    "not_after": "2026-09-26T23:59:59",
+    "serial_number": "067216a171e2ae8e7ea886f205b91401",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "osha.prod.pace.dol.gov",
+    "name_value": "osha.prod.pace.dol.gov",
+    "id": 24948991403,
+    "entry_timestamp": "2026-03-12T20:37:05.602",
+    "not_before": "2026-03-12T19:38:34",
+    "not_after": "2026-06-10T19:38:33",
+    "serial_number": "0688b04e2a8a6e5e64d360992d6b8506a3e2",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "osha.prod.pace.dol.gov",
+    "name_value": "osha.prod.pace.dol.gov",
+    "id": 24948971073,
+    "entry_timestamp": "2026-03-12T20:37:04.477",
+    "not_before": "2026-03-12T19:38:34",
+    "not_after": "2026-06-10T19:38:33",
+    "serial_number": "0688b04e2a8a6e5e64d360992d6b8506a3e2",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "osha-edit.prod.pace.dol.gov",
+    "name_value": "osha-edit.prod.pace.dol.gov",
+    "id": 24948989360,
+    "entry_timestamp": "2026-03-12T20:36:58.256",
+    "not_before": "2026-03-12T19:38:27",
+    "not_after": "2026-06-10T19:38:26",
+    "serial_number": "05fd86a1dcab40ef0aeedcdb0e0f3b4f2a18",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "osha-edit.prod.pace.dol.gov",
+    "name_value": "osha-edit.prod.pace.dol.gov",
+    "id": 24948988020,
+    "entry_timestamp": "2026-03-12T20:36:57.888",
+    "not_before": "2026-03-12T19:38:27",
+    "not_after": "2026-06-10T19:38:26",
+    "serial_number": "05fd86a1dcab40ef0aeedcdb0e0f3b4f2a18",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "whistleblowers.prod.pace.dol.gov",
+    "name_value": "whistleblowers-edit.prod.pace.dol.gov\nwhistleblowers.prod.pace.dol.gov",
+    "id": 24948988904,
+    "entry_timestamp": "2026-03-12T20:36:57.592",
+    "not_before": "2026-03-12T19:38:26",
+    "not_after": "2026-06-10T19:38:25",
+    "serial_number": "06cf459697ef190fb733477e463a7918ffae",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "whistleblowers.prod.pace.dol.gov",
+    "name_value": "whistleblowers-edit.prod.pace.dol.gov\nwhistleblowers.prod.pace.dol.gov",
+    "id": 24948970527,
+    "entry_timestamp": "2026-03-12T20:36:57.056",
+    "not_before": "2026-03-12T19:38:26",
+    "not_after": "2026-06-10T19:38:25",
+    "serial_number": "06cf459697ef190fb733477e463a7918ffae",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "osha-ita-edit.prod.pace.dol.gov",
+    "name_value": "osha-ita-edit.prod.pace.dol.gov",
+    "id": 24948989664,
+    "entry_timestamp": "2026-03-12T20:36:55.551",
+    "not_before": "2026-03-12T19:38:24",
+    "not_after": "2026-06-10T19:38:23",
+    "serial_number": "066969538e48346ad0f91bac75a4b69c65bf",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "osha-ita-edit.prod.pace.dol.gov",
+    "name_value": "osha-ita-edit.prod.pace.dol.gov",
+    "id": 24948970359,
+    "entry_timestamp": "2026-03-12T20:36:55.192",
+    "not_before": "2026-03-12T19:38:24",
+    "not_after": "2026-06-10T19:38:23",
+    "serial_number": "066969538e48346ad0f91bac75a4b69c65bf",
+    "result_count": 2
   },
   {
     "issuer_ca_id": 385512,
@@ -442,18 +538,6 @@
     "not_after": "2027-04-11T23:59:59",
     "serial_number": "008dab22c98669751b2fd2ffc0676aee25",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 436902,
-    "issuer_name": "C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2026 Q1",
-    "common_name": "imperva.com",
-    "name_value": "*.uat.dol.gov",
-    "id": 24924556840,
-    "entry_timestamp": "2026-03-11T16:31:49.725",
-    "not_before": "2026-03-11T16:31:47",
-    "not_after": "2026-03-12T16:31:47",
-    "serial_number": "01ae7ce7773dff248c2150ecd80c09c7",
-    "result_count": 1
   },
   {
     "issuer_ca_id": 385512,
@@ -7560,18 +7644,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "www.dol.gov",
-    "name_value": "developer.dol.gov\ndol.gov\nelaws.dol.gov\nolms.dol.gov\nsaversummit.dol.gov\nsavingmatters.dol.gov\nunionreports.dol.gov\nvets4212.dol.gov\nwebapps.dol.gov\nwww.dol.gov\nwww.elaws.dol.gov\nwww.olms.dol.gov\nwww.saversummit.dol.gov\nwww.savingmatters.dol.gov\nwww.unionreports.dol.gov\nwww.youthrules.dol.gov\nyouthrules.dol.gov",
-    "id": 22508063767,
-    "entry_timestamp": "2025-11-16T08:56:25.088",
-    "not_before": "2025-02-14T21:06:16",
-    "not_after": "2026-03-14T04:00:00",
-    "serial_number": "04d499537700ad74b7bedb6959f111c5",
-    "result_count": 18
-  },
-  {
     "issuer_ca_id": 385512,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
     "common_name": "whdtest.dol.gov",
@@ -13356,18 +13428,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "www.dol.gov",
-    "name_value": "developer.dol.gov\ndol.gov\nelaws.dol.gov\nolms.dol.gov\nsaversummit.dol.gov\nsavingmatters.dol.gov\nunionreports.dol.gov\nvets4212.dol.gov\nwebapps.dol.gov\nwww.dol.gov\nwww.elaws.dol.gov\nwww.olms.dol.gov\nwww.saversummit.dol.gov\nwww.savingmatters.dol.gov\nwww.unionreports.dol.gov\nwww.youthrules.dol.gov\nyouthrules.dol.gov",
-    "id": 16741159317,
-    "entry_timestamp": "2025-02-14T21:16:17.967",
-    "not_before": "2025-02-14T21:06:16",
-    "not_after": "2026-03-14T04:00:00",
-    "serial_number": "04d499537700ad74b7bedb6959f111c5",
-    "result_count": 18
-  },
-  {
     "issuer_ca_id": 247106,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
     "common_name": "ccaaswstest.dol.gov",
@@ -13378,17 +13438,5 @@
     "not_after": "2026-03-14T23:59:59",
     "serial_number": "0a3724c8c685066c48144e9558afbee8",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "www.dol.gov",
-    "name_value": "developer.dol.gov\ndol.gov\nelaws.dol.gov\nolms.dol.gov\nsaversummit.dol.gov\nsavingmatters.dol.gov\nunionreports.dol.gov\nvets4212.dol.gov\nwebapps.dol.gov\nwww.dol.gov\nwww.elaws.dol.gov\nwww.olms.dol.gov\nwww.saversummit.dol.gov\nwww.savingmatters.dol.gov\nwww.unionreports.dol.gov\nwww.youthrules.dol.gov\nyouthrules.dol.gov",
-    "id": 16716907445,
-    "entry_timestamp": "2025-02-13T14:57:58.671",
-    "not_before": "2025-02-13T14:47:57",
-    "not_after": "2026-03-13T04:00:00",
-    "serial_number": "3f38f28ebe8e16b22ab0936829440bb1",
-    "result_count": 18
   }
 ]
