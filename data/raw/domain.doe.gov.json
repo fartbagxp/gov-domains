@@ -1,5 +1,53 @@
 [
   {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "testcert001.doe.gov",
+    "name_value": "testcert001.doe.gov",
+    "id": 25012168836,
+    "entry_timestamp": "2026-03-16T00:31:35.704",
+    "not_before": "2026-03-16T00:00:00",
+    "not_after": "2026-09-30T23:59:59",
+    "serial_number": "39a53523bdf4cb330d86d0f27210f3f9",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "testcert001.doe.gov",
+    "name_value": "testcert001.doe.gov",
+    "id": 25012148281,
+    "entry_timestamp": "2026-03-16T00:31:33.967",
+    "not_before": "2026-03-16T00:00:00",
+    "not_after": "2026-09-30T23:59:59",
+    "serial_number": "39a53523bdf4cb330d86d0f27210f3f9",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "penguin-test.doe.gov",
+    "name_value": "penguin-test.doe.gov",
+    "id": 25009108350,
+    "entry_timestamp": "2026-03-15T20:46:10.509",
+    "not_before": "2026-03-15T19:47:40",
+    "not_after": "2026-06-13T19:47:39",
+    "serial_number": "05d73b64058fc353c2430134637d9a9ca137",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "penguin-test.doe.gov",
+    "name_value": "penguin-test.doe.gov",
+    "id": 25009112280,
+    "entry_timestamp": "2026-03-15T20:46:10.102",
+    "not_before": "2026-03-15T19:47:40",
+    "not_after": "2026-06-13T19:47:39",
+    "serial_number": "05d73b64058fc353c2430134637d9a9ca137",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 295813,
     "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
     "common_name": "ascr-discovery.science.doe.gov",
@@ -12309,78 +12357,6 @@
     "not_before": "2025-12-16T11:52:01",
     "not_after": "2026-03-16T11:52:00",
     "serial_number": "060d27b1778efd70d379cdaa4d788e0497e6",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286244,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR3",
-    "common_name": "gcpdev.edx.netl.doe.gov",
-    "name_value": "gcpdev.edx.netl.doe.gov",
-    "id": 23151338648,
-    "entry_timestamp": "2025-12-16T08:43:25.199",
-    "not_before": "2025-12-16T06:29:17",
-    "not_after": "2026-03-16T07:25:11",
-    "serial_number": "00d5b2de895e94aed110aec7fd43766ce7",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286244,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR3",
-    "common_name": "gcpdev.edx.netl.doe.gov",
-    "name_value": "gcpdev.edx.netl.doe.gov",
-    "id": 23150145459,
-    "entry_timestamp": "2025-12-16T07:29:17.957",
-    "not_before": "2025-12-16T06:29:17",
-    "not_after": "2026-03-16T07:25:11",
-    "serial_number": "00d5b2de895e94aed110aec7fd43766ce7",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295813,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
-    "common_name": "accounts.empact.pars.doe.gov",
-    "name_value": "accounts.empact.pars.doe.gov",
-    "id": 23147997569,
-    "entry_timestamp": "2025-12-16T05:08:55.663",
-    "not_before": "2025-12-16T04:10:25",
-    "not_after": "2026-03-16T04:10:24",
-    "serial_number": "0575cc8ce6297927cfcb2b6dadf3f6d64598",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295813,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
-    "common_name": "accounts.empact.pars.doe.gov",
-    "name_value": "accounts.empact.pars.doe.gov",
-    "id": 23148126049,
-    "entry_timestamp": "2025-12-16T05:08:55.556",
-    "not_before": "2025-12-16T04:10:25",
-    "not_after": "2026-03-16T04:10:24",
-    "serial_number": "0575cc8ce6297927cfcb2b6dadf3f6d64598",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "accounts.empact.pars.doe.gov",
-    "name_value": "accounts.empact.pars.doe.gov",
-    "id": 23147996769,
-    "entry_timestamp": "2025-12-16T05:08:53.145",
-    "not_before": "2025-12-16T04:10:22",
-    "not_after": "2026-03-16T04:10:21",
-    "serial_number": "0507fe33515576c48cc9a434607940530c80",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "accounts.empact.pars.doe.gov",
-    "name_value": "accounts.empact.pars.doe.gov",
-    "id": 23148000239,
-    "entry_timestamp": "2025-12-16T05:08:52.952",
-    "not_before": "2025-12-16T04:10:22",
-    "not_after": "2026-03-16T04:10:21",
-    "serial_number": "0507fe33515576c48cc9a434607940530c80",
     "result_count": 2
   },
   {
