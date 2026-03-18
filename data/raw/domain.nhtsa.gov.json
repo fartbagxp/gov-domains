@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "nhtsa.gov",
+    "name_value": "nhtsa.gov",
+    "id": 25043321083,
+    "entry_timestamp": "2026-03-17T09:56:16.533",
+    "not_before": "2026-03-17T00:00:00",
+    "not_after": "2026-06-15T23:59:59",
+    "serial_number": "00965e6c85ce116c76628b1c9499ab5e29",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "nhtsa.gov",
+    "name_value": "nhtsa.gov",
+    "id": 25042474037,
+    "entry_timestamp": "2026-03-17T09:56:15.595",
+    "not_before": "2026-03-17T00:00:00",
+    "not_after": "2026-06-15T23:59:59",
+    "serial_number": "00965e6c85ce116c76628b1c9499ab5e29",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 62123,
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
     "common_name": "safercar.gov",
@@ -2494,77 +2518,5 @@
     "not_after": "2026-03-19T04:00:00",
     "serial_number": "60b55fd2d765647c3d863f49f41d5762",
     "result_count": 4
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "stage-mcp.portal.nhtsa.gov",
-    "name_value": "stage-mcp.portal.nhtsa.gov\nwww.stage-mcp.portal.nhtsa.gov",
-    "id": 16766462641,
-    "entry_timestamp": "2025-02-18T16:54:00.998",
-    "not_before": "2025-02-18T16:43:59",
-    "not_after": "2026-03-18T04:00:00",
-    "serial_number": "65bf276272de976ff1b6c387e058a934",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "artemis-user-api-stage.nhtsa.gov",
-    "name_value": "artemis-user-api-stage.nhtsa.gov\nwww.artemis-user-api-stage.nhtsa.gov",
-    "id": 16766462312,
-    "entry_timestamp": "2025-02-18T16:52:27.435",
-    "not_before": "2025-02-18T16:42:26",
-    "not_after": "2026-03-18T04:00:00",
-    "serial_number": "48dc940474591047d08eab7bf4f00d86",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "artemis-search-api-stage.nhtsa.gov",
-    "name_value": "artemis-search-api-stage.nhtsa.gov\nwww.artemis-search-api-stage.nhtsa.gov",
-    "id": 16766459870,
-    "entry_timestamp": "2025-02-18T16:50:58.361",
-    "not_before": "2025-02-18T16:40:57",
-    "not_after": "2026-03-18T04:00:00",
-    "serial_number": "7777cf3a9f9e1a83cf6a7360bd172a1e",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "artemis-mcp-api-stage.nhtsa.gov",
-    "name_value": "artemis-mcp-api-stage.nhtsa.gov\nwww.artemis-mcp-api-stage.nhtsa.gov",
-    "id": 16766459958,
-    "entry_timestamp": "2025-02-18T16:49:12.367",
-    "not_before": "2025-02-18T16:39:11",
-    "not_after": "2026-03-18T04:00:00",
-    "serial_number": "5e4451600c5f81088e816b62811bdcc8",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "artemis-internal-ewr-api-stage.nhtsa.gov",
-    "name_value": "artemis-internal-ewr-api-stage.nhtsa.gov\nwww.artemis-internal-ewr-api-stage.nhtsa.gov",
-    "id": 16766457734,
-    "entry_timestamp": "2025-02-18T16:46:58.546",
-    "not_before": "2025-02-18T16:36:57",
-    "not_after": "2026-03-18T04:00:00",
-    "serial_number": "7b554972eba5944783df64377b9aae0f",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "artemis-notes-api-stage.nhtsa.gov",
-    "name_value": "artemis-notes-api-stage.nhtsa.gov\nwww.artemis-notes-api-stage.nhtsa.gov",
-    "id": 16766452948,
-    "entry_timestamp": "2025-02-18T16:44:24.132",
-    "not_before": "2025-02-18T16:34:22",
-    "not_after": "2026-03-18T04:00:00",
-    "serial_number": "68f8907dc2c3a93a6a5514621e4cda97",
-    "result_count": 3
   }
 ]
