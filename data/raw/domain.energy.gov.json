@@ -1,5 +1,77 @@
 [
   {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "directives.nnsa.energy.gov",
+    "name_value": "directives.nnsa-dev.energy.gov\ndirectives.nnsa.energy.gov\ndirectives.nnsa-hotfix.energy.gov\ndirectives.nnsa-preprod.energy.gov\ndirectives.nnsa-test.energy.gov",
+    "id": 25077226144,
+    "entry_timestamp": "2026-03-19T01:03:23.463",
+    "not_before": "2026-03-18T00:00:00",
+    "not_after": "2026-10-01T23:59:59",
+    "serial_number": "0974ac60662c15fcec9f5aa4541f5bcb",
+    "result_count": 6
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "directives.nnsa-dev.energy.gov",
+    "name_value": "directives.nnsa-dev.energy.gov",
+    "id": 25075007129,
+    "entry_timestamp": "2026-03-18T22:44:15.014",
+    "not_before": "2026-02-03T00:00:00",
+    "not_after": "2027-03-04T23:59:59",
+    "serial_number": "0e54d3cd516a0dc3c446fe4bb2ba09d5",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "directives.nnsa.energy.gov",
+    "name_value": "directives.nnsa-dev.energy.gov\ndirectives.nnsa.energy.gov\ndirectives.nnsa-hotfix.energy.gov\ndirectives.nnsa-preprod.energy.gov\ndirectives.nnsa-test.energy.gov",
+    "id": 25075010475,
+    "entry_timestamp": "2026-03-18T22:44:09.597",
+    "not_before": "2026-03-18T00:00:00",
+    "not_after": "2026-10-01T23:59:59",
+    "serial_number": "0974ac60662c15fcec9f5aa4541f5bcb",
+    "result_count": 6
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "genesis.nnsa.energy.gov",
+    "name_value": "genesis.nnsa.energy.gov",
+    "id": 25050884574,
+    "entry_timestamp": "2026-03-17T19:33:58.568",
+    "not_before": "2026-03-17T00:00:00",
+    "not_after": "2026-10-01T23:59:59",
+    "serial_number": "00900cd9c8e5971d8539caa37d005f6fa2",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "genesis.nnsa.energy.gov",
+    "name_value": "genesis.nnsa.energy.gov",
+    "id": 25050861230,
+    "entry_timestamp": "2026-03-17T19:33:56.536",
+    "not_before": "2026-03-17T00:00:00",
+    "not_after": "2026-10-01T23:59:59",
+    "serial_number": "00900cd9c8e5971d8539caa37d005f6fa2",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185756,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
+    "common_name": "thesource.energy.gov",
+    "name_value": "thesource.energy.gov",
+    "id": 25042611822,
+    "entry_timestamp": "2026-03-17T12:22:34.508",
+    "not_before": "2026-03-17T00:00:00",
+    "not_after": "2026-04-14T23:59:59",
+    "serial_number": "07820385dec5dce8668414b97d60004b",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "genesis.nnsa.energy.gov",
@@ -57,6 +129,54 @@
     "not_before": "2026-03-16T00:00:00",
     "not_after": "2026-04-14T23:59:59",
     "serial_number": "0d3a73adfc27c1aa3031fb160c21d458",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295809,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
+    "common_name": "web.ornl.gov",
+    "name_value": "genomics.energy.gov\ntes.science.energy.gov",
+    "id": 24984872415,
+    "entry_timestamp": "2026-03-14T15:01:56.166",
+    "not_before": "2026-03-14T14:03:25",
+    "not_after": "2026-06-12T14:03:24",
+    "serial_number": "05ea95d33b3c34f6ff94ba597fc8ad1f31bc",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295809,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
+    "common_name": "web.ornl.gov",
+    "name_value": "genomics.energy.gov\ntes.science.energy.gov",
+    "id": 24984854964,
+    "entry_timestamp": "2026-03-14T15:01:55.956",
+    "not_before": "2026-03-14T14:03:25",
+    "not_after": "2026-06-12T14:03:24",
+    "serial_number": "05ea95d33b3c34f6ff94ba597fc8ad1f31bc",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295813,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
+    "common_name": "web.ornl.gov",
+    "name_value": "genomics.energy.gov\ntes.science.energy.gov",
+    "id": 24980088060,
+    "entry_timestamp": "2026-03-14T09:05:58.277",
+    "not_before": "2026-03-14T08:07:25",
+    "not_after": "2026-06-12T08:07:24",
+    "serial_number": "0576a461e559e3134499662b1ec90694a909",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295813,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
+    "common_name": "web.ornl.gov",
+    "name_value": "genomics.energy.gov\ntes.science.energy.gov",
+    "id": 24980082103,
+    "entry_timestamp": "2026-03-14T09:05:56.284",
+    "not_before": "2026-03-14T08:07:25",
+    "not_after": "2026-06-12T08:07:24",
+    "serial_number": "0576a461e559e3134499662b1ec90694a909",
     "result_count": 2
   },
   {
@@ -120,6 +240,78 @@
     "result_count": 1
   },
   {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "resldosimetry-scan.id.energy.gov",
+    "name_value": "resldosimetry-scan.id.energy.gov",
+    "id": 24958558106,
+    "entry_timestamp": "2026-03-13T07:46:57.263",
+    "not_before": "2026-03-13T00:48:04",
+    "not_after": "2026-06-11T01:48:01",
+    "serial_number": "5445041c8efca9e80e736f3278cbd549",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "radiobioassay-scan.id.energy.gov",
+    "name_value": "radiobioassay-scan.id.energy.gov",
+    "id": 24955647499,
+    "entry_timestamp": "2026-03-13T04:13:34.547",
+    "not_before": "2026-03-13T00:48:07",
+    "not_after": "2026-06-11T01:48:05",
+    "serial_number": "4189e16c796a1ca21133c18dbdc91b28",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "resl.id.energy.gov",
+    "name_value": "resl.id.energy.gov",
+    "id": 24955647547,
+    "entry_timestamp": "2026-03-13T04:13:32.954",
+    "not_before": "2026-03-13T00:48:06",
+    "not_after": "2026-06-11T01:48:04",
+    "serial_number": "00c8c1992cf7ed7c650e03a199f06edc01",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "radiovendor.id.energy.gov",
+    "name_value": "radiovendor.id.energy.gov",
+    "id": 24955647492,
+    "entry_timestamp": "2026-03-13T04:13:31.458",
+    "not_before": "2026-03-13T00:48:05",
+    "not_after": "2026-06-11T01:48:04",
+    "serial_number": "00fd02d47427c0bbfd134f04e173269e02",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "resl-acc.id.energy.gov",
+    "name_value": "resl-acc.id.energy.gov",
+    "id": 24954676721,
+    "entry_timestamp": "2026-03-13T03:03:33.531",
+    "not_before": "2026-03-13T00:48:09",
+    "not_after": "2026-06-11T01:48:07",
+    "serial_number": "2032a82dcdff02661375431186197e4c",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "chemresults.id.energy.gov",
+    "name_value": "chemresults.id.energy.gov",
+    "id": 24954676954,
+    "entry_timestamp": "2026-03-13T03:03:29.004",
+    "not_before": "2026-03-13T00:48:04",
+    "not_after": "2026-06-11T01:48:01",
+    "serial_number": "11abf1f5ea2adcb91363852b68bc7f0b",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "a2e.energy.gov",
@@ -146,6 +338,114 @@
   {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "doelaptraining.id.energy.gov",
+    "name_value": "doelaptraining.id.energy.gov",
+    "id": 24953620132,
+    "entry_timestamp": "2026-03-13T01:51:10.968",
+    "not_before": "2026-03-13T00:48:05",
+    "not_after": "2026-06-11T01:48:04",
+    "serial_number": "2fc526c9e1f90c7513e598df47c128f6",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "radiobioassay.id.energy.gov",
+    "name_value": "radiobioassay.id.energy.gov",
+    "id": 24953620711,
+    "entry_timestamp": "2026-03-13T01:51:10.571",
+    "not_before": "2026-03-13T00:48:06",
+    "not_after": "2026-06-11T01:48:04",
+    "serial_number": "6c8351fb2015801311efca7ec9d288f8",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "chemresults-scan.id.energy.gov",
+    "name_value": "chemresults-scan.id.energy.gov",
+    "id": 24953609228,
+    "entry_timestamp": "2026-03-13T01:50:24.183",
+    "not_before": "2026-03-13T00:49:15",
+    "not_after": "2026-06-11T01:49:12",
+    "serial_number": "2a5972be6346597713ef545774a74813",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "contracts-scan.id.energy.gov",
+    "name_value": "contracts-scan.id.energy.gov",
+    "id": 24953606748,
+    "entry_timestamp": "2026-03-13T01:50:01.746",
+    "not_before": "2026-03-13T00:49:14",
+    "not_after": "2026-06-11T01:49:11",
+    "serial_number": "0080d69d187243d90f0de3efcbec0f0081",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "doseentry-acc.id.energy.gov",
+    "name_value": "doseentry-acc.id.energy.gov",
+    "id": 24953606245,
+    "entry_timestamp": "2026-03-13T01:50:00.163",
+    "not_before": "2026-03-13T00:49:14",
+    "not_after": "2026-06-11T01:49:11",
+    "serial_number": "72a95b3872a5b7ca13e3c296b8f9bcdd",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "radiobioassay-acc.id.energy.gov",
+    "name_value": "radiobioassay-acc.id.energy.gov",
+    "id": 24953604642,
+    "entry_timestamp": "2026-03-13T01:49:52.783",
+    "not_before": "2026-03-13T00:48:09",
+    "not_after": "2026-06-11T01:48:07",
+    "serial_number": "00b395369a4805ff7a131176e13bf85d5f",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "contracts.id.energy.gov",
+    "name_value": "contracts.id.energy.gov",
+    "id": 24953603588,
+    "entry_timestamp": "2026-03-13T01:49:51.691",
+    "not_before": "2026-03-13T00:48:09",
+    "not_after": "2026-06-11T01:48:07",
+    "serial_number": "213757660ca7f982119a786f9778eba6",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "radiovendor-scan.id.energy.gov",
+    "name_value": "radiovendor-scan.id.energy.gov",
+    "id": 24953603673,
+    "entry_timestamp": "2026-03-13T01:49:51.588",
+    "not_before": "2026-03-13T00:48:09",
+    "not_after": "2026-06-11T01:48:07",
+    "serial_number": "73c925a7f94967d20e3fbfa68dc5f81b",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "resl-scan.id.energy.gov",
+    "name_value": "resl-scan.id.energy.gov",
+    "id": 24953589542,
+    "entry_timestamp": "2026-03-13T01:49:39.256",
+    "not_before": "2026-03-13T00:48:05",
+    "not_after": "2026-06-11T01:48:03",
+    "serial_number": "257cc399a3946b9d0e5c562e25ee634f",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "chemresults-scan.id.energy.gov",
     "name_value": "chemresults-scan.id.energy.gov",
     "id": 24953590394,
@@ -153,6 +453,30 @@
     "not_before": "2026-03-13T00:49:15",
     "not_after": "2026-06-11T01:49:12",
     "serial_number": "2a5972be6346597713ef545774a74813",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "doelaptraining-scan.id.energy.gov",
+    "name_value": "doelaptraining-scan.id.energy.gov",
+    "id": 24953584453,
+    "entry_timestamp": "2026-03-13T01:49:14.754",
+    "not_before": "2026-03-13T00:48:05",
+    "not_after": "2026-06-11T01:48:04",
+    "serial_number": "7bded02e1215a20d110343238d41f467",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "contracts-acc.id.energy.gov",
+    "name_value": "contracts-acc.id.energy.gov",
+    "id": 24953583343,
+    "entry_timestamp": "2026-03-13T01:49:14.672",
+    "not_before": "2026-03-13T00:48:09",
+    "not_after": "2026-06-11T01:48:07",
+    "serial_number": "630549837b316e10110155d32574b878",
     "result_count": 2
   },
   {
@@ -180,6 +504,30 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "chemresults-acc.id.energy.gov",
+    "name_value": "chemresults-acc.id.energy.gov",
+    "id": 24953583673,
+    "entry_timestamp": "2026-03-13T01:49:10.721",
+    "not_before": "2026-03-13T00:48:06",
+    "not_after": "2026-06-11T01:48:04",
+    "serial_number": "009e55b2ef8e14706c11090b5e1dd7a479",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "doseentry-scan.id.energy.gov",
+    "name_value": "doseentry-scan.id.energy.gov",
+    "id": 24953584635,
+    "entry_timestamp": "2026-03-13T01:49:10.374",
+    "not_before": "2026-03-13T00:48:04",
+    "not_after": "2026-06-11T01:48:01",
+    "serial_number": "18706302ca27606d11e4a8c161fbb488",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 286242,
     "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
     "common_name": "chemresults-scan.id.energy.gov",
@@ -189,6 +537,18 @@
     "not_before": "2026-03-13T00:49:06",
     "not_after": "2026-06-11T01:45:49",
     "serial_number": "00ccd12a375503d4db0ec566cb1d3168f9",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "doseentry.id.energy.gov",
+    "name_value": "doseentry.id.energy.gov",
+    "id": 24953584352,
+    "entry_timestamp": "2026-03-13T01:49:06.771",
+    "not_before": "2026-03-13T00:48:09",
+    "not_after": "2026-06-11T01:48:07",
+    "serial_number": "00d7b9f1314af461a311b41a9118e5ebd5",
     "result_count": 2
   },
   {
@@ -213,6 +573,54 @@
     "not_before": "2026-03-13T00:49:05",
     "not_after": "2026-06-11T01:45:50",
     "serial_number": "73481dee8bcba4170dfcc4aede233384",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "resldosimetry.id.energy.gov",
+    "name_value": "resldosimetry.id.energy.gov",
+    "id": 24953584847,
+    "entry_timestamp": "2026-03-13T01:49:04.595",
+    "not_before": "2026-03-13T00:48:06",
+    "not_after": "2026-06-11T01:48:04",
+    "serial_number": "00c7aa6192c4a79ad81342e98c82e7f344",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "radiovendor-acc.id.energy.gov",
+    "name_value": "radiovendor-acc.id.energy.gov",
+    "id": 24953583491,
+    "entry_timestamp": "2026-03-13T01:49:04.468",
+    "not_before": "2026-03-13T00:48:07",
+    "not_after": "2026-06-11T01:48:05",
+    "serial_number": "24fafd51dd4baea111bc0a13047b43fb",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "resldosimetry-acc.id.energy.gov",
+    "name_value": "resldosimetry-acc.id.energy.gov",
+    "id": 24953584696,
+    "entry_timestamp": "2026-03-13T01:49:02.678",
+    "not_before": "2026-03-13T00:48:05",
+    "not_after": "2026-06-11T01:48:03",
+    "serial_number": "00ce97d19c10128b250def0423d12ad963",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "doelaptraining-acc.id.energy.gov",
+    "name_value": "doelaptraining-acc.id.energy.gov",
+    "id": 24953583272,
+    "entry_timestamp": "2026-03-13T01:49:02.601",
+    "not_before": "2026-03-13T00:48:05",
+    "not_after": "2026-06-11T01:48:03",
+    "serial_number": "6d764bccccd3e00e0d508b8e55d4d9cc",
     "result_count": 2
   },
   {
@@ -722,6 +1130,54 @@
   {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "homeext.id.energy.gov",
+    "name_value": "homeext.id.energy.gov",
+    "id": 24953557931,
+    "entry_timestamp": "2026-03-13T01:47:15.046",
+    "not_before": "2026-03-13T00:45:59",
+    "not_after": "2026-06-11T01:45:58",
+    "serial_number": "492484923b4b689c131acc17c6eb9cdf",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "homeext-acc.id.energy.gov",
+    "name_value": "homeext-acc.id.energy.gov",
+    "id": 24953555998,
+    "entry_timestamp": "2026-03-13T01:47:05.88",
+    "not_before": "2026-03-13T00:46:04",
+    "not_after": "2026-06-11T01:46:02",
+    "serial_number": "00cc9787ebc033fbf10de0dcb53f072ea0",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "www.id.energy.gov",
+    "name_value": "www.id.energy.gov",
+    "id": 24953554555,
+    "entry_timestamp": "2026-03-13T01:47:04.047",
+    "not_before": "2026-03-13T00:46:06",
+    "not_after": "2026-06-11T01:46:04",
+    "serial_number": "2e60025efc83cf8911fd2ee40e8bd215",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "homeext-scan.id.energy.gov",
+    "name_value": "homeext-scan.id.energy.gov",
+    "id": 24953555030,
+    "entry_timestamp": "2026-03-13T01:47:00.982",
+    "not_before": "2026-03-13T00:46:04",
+    "not_after": "2026-06-11T01:46:02",
+    "serial_number": "00a51c3bd831a49b7d112dc4dc2eaef5f3",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "www.id.energy.gov",
     "name_value": "www.id.energy.gov",
     "id": 24953546264,
@@ -862,6 +1318,18 @@
     "not_after": "2026-06-11T01:44:13",
     "serial_number": "00c4c7f59416ce07830ee1d4cde2560f2c",
     "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "id.energy.gov",
+    "name_value": "*.id.energy.gov\nid.energy.gov",
+    "id": 24953310608,
+    "entry_timestamp": "2026-03-13T01:30:41.806",
+    "not_before": "2026-03-13T00:29:33",
+    "not_after": "2026-06-11T01:29:28",
+    "serial_number": "23d9ffe14ad3e098114b678def183ae2",
+    "result_count": 3
   },
   {
     "issuer_ca_id": 286236,
@@ -1240,6 +1708,18 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "genesis.energy.gov",
     "name_value": "genesis.energy.gov",
+    "id": 24742370566,
+    "entry_timestamp": "2026-03-02T18:25:49.734",
+    "not_before": "2026-03-02T17:25:42",
+    "not_after": "2026-05-31T18:25:39",
+    "serial_number": "55ce165848110e7e0d88f13762865095",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "genesis.energy.gov",
+    "name_value": "genesis.energy.gov",
     "id": 24742376877,
     "entry_timestamp": "2026-03-02T18:25:42.868",
     "not_before": "2026-03-02T17:25:42",
@@ -1257,6 +1737,30 @@
     "not_before": "2026-03-02T17:25:33",
     "not_after": "2026-05-31T18:24:18",
     "serial_number": "00a742b969e16010ca13bd5948c0e33e48",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "mydev.energy.gov",
+    "name_value": "mydev.energy.gov",
+    "id": 24724781666,
+    "entry_timestamp": "2026-03-01T23:29:29.713",
+    "not_before": "2026-03-01T22:30:56",
+    "not_after": "2026-05-30T22:30:55",
+    "serial_number": "0506c0f01ef9d58ec780610c9bf5fd405f46",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "mydev.energy.gov",
+    "name_value": "mydev.energy.gov",
+    "id": 24724760196,
+    "entry_timestamp": "2026-03-01T23:29:26.408",
+    "not_before": "2026-03-01T22:30:56",
+    "not_after": "2026-05-30T22:30:55",
+    "serial_number": "0506c0f01ef9d58ec780610c9bf5fd405f46",
     "result_count": 2
   },
   {
@@ -1356,6 +1860,42 @@
     "result_count": 3
   },
   {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "mytest.energy.gov",
+    "name_value": "mytest.energy.gov",
+    "id": 24704729796,
+    "entry_timestamp": "2026-02-28T22:59:18.91",
+    "not_before": "2026-02-28T22:00:48",
+    "not_after": "2026-05-29T22:00:47",
+    "serial_number": "06376edf231e6ce15a3116401ea32da50032",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "mytest.energy.gov",
+    "name_value": "mytest.energy.gov",
+    "id": 24704727242,
+    "entry_timestamp": "2026-02-28T22:59:18.658",
+    "not_before": "2026-02-28T22:00:48",
+    "not_after": "2026-05-29T22:00:47",
+    "serial_number": "06376edf231e6ce15a3116401ea32da50032",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "m-22-18-attestations.energy.gov",
+    "name_value": "m-22-18-attestations.energy.gov",
+    "id": 24696175944,
+    "entry_timestamp": "2026-02-28T12:29:36.037",
+    "not_before": "2026-02-28T11:31:05",
+    "not_after": "2026-05-29T11:31:04",
+    "serial_number": "05e493cc9f50dfab12565cfb190f96d1ee9d",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 295816,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "m-22-18-attestations.energy.gov",
@@ -1365,6 +1905,18 @@
     "not_before": "2026-02-28T11:31:05",
     "not_after": "2026-05-29T11:31:04",
     "serial_number": "05e493cc9f50dfab12565cfb190f96d1ee9d",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "www.hydrogen.energy.gov",
+    "name_value": "www.hydrogen.energy.gov",
+    "id": 24667251769,
+    "entry_timestamp": "2026-02-27T01:40:12.999",
+    "not_before": "2026-02-27T00:38:42",
+    "not_after": "2026-05-28T01:38:32",
+    "serial_number": "1509c7827853541913b76bd694684ae6",
     "result_count": 2
   },
   {
@@ -1420,6 +1972,18 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "hydrogen.energy.gov",
     "name_value": "hydrogen.energy.gov",
+    "id": 24657911563,
+    "entry_timestamp": "2026-02-26T14:18:57.291",
+    "not_before": "2026-02-26T12:06:25",
+    "not_after": "2026-05-27T13:06:24",
+    "serial_number": "372f6ef22748af321153c6746d5f2637",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "hydrogen.energy.gov",
+    "name_value": "hydrogen.energy.gov",
     "id": 24656978844,
     "entry_timestamp": "2026-02-26T13:06:26.052",
     "not_before": "2026-02-26T12:06:25",
@@ -1444,6 +2008,18 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "www.annualmeritreview.energy.gov",
     "name_value": "www.annualmeritreview.energy.gov",
+    "id": 24638343573,
+    "entry_timestamp": "2026-02-25T14:03:58.875",
+    "not_before": "2026-02-25T13:03:48",
+    "not_after": "2026-05-26T14:03:41",
+    "serial_number": "00e79be393ceddbddf137b91c75d56842b",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "www.annualmeritreview.energy.gov",
+    "name_value": "www.annualmeritreview.energy.gov",
     "id": 24638342490,
     "entry_timestamp": "2026-02-25T14:03:48.69",
     "not_before": "2026-02-25T13:03:48",
@@ -1461,6 +2037,18 @@
     "not_before": "2026-02-25T13:03:35",
     "not_after": "2026-05-26T14:02:18",
     "serial_number": "6f2c25ff2111f5180e7f8f71d046007b",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "annualmeritreview.energy.gov",
+    "name_value": "annualmeritreview.energy.gov",
+    "id": 24635779983,
+    "entry_timestamp": "2026-02-25T10:59:35.164",
+    "not_before": "2026-02-25T09:59:22",
+    "not_after": "2026-05-26T10:59:14",
+    "serial_number": "16460679bb0c23171349cc4676723af4",
     "result_count": 2
   },
   {
@@ -1528,6 +2116,18 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "aut.annualmeritreview.energy.gov",
     "name_value": "aut.annualmeritreview.energy.gov",
+    "id": 24632070976,
+    "entry_timestamp": "2026-02-25T06:26:27.218",
+    "not_before": "2026-02-25T04:15:10",
+    "not_after": "2026-05-26T05:15:06",
+    "serial_number": "00dc625c90eb4bb7730e854540b977dff6",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "aut.annualmeritreview.energy.gov",
+    "name_value": "aut.annualmeritreview.energy.gov",
     "id": 24631150766,
     "entry_timestamp": "2026-02-25T05:15:10.513",
     "not_before": "2026-02-25T04:15:10",
@@ -1552,6 +2152,18 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "aut.h2new.energy.gov",
     "name_value": "aut.h2new.energy.gov",
+    "id": 24627282603,
+    "entry_timestamp": "2026-02-25T00:23:34.005",
+    "not_before": "2026-02-24T23:22:39",
+    "not_after": "2026-05-26T00:22:31",
+    "serial_number": "06aad66e5b325df011004003e9f637e3",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "aut.h2new.energy.gov",
+    "name_value": "aut.h2new.energy.gov",
     "id": 24627291961,
     "entry_timestamp": "2026-02-25T00:22:40.406",
     "not_before": "2026-02-24T23:22:39",
@@ -1569,6 +2181,18 @@
     "not_before": "2026-02-24T23:22:25",
     "not_after": "2026-05-26T00:21:04",
     "serial_number": "00cc9061f17f80a2070d18538d8cb4490e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "aut.hydrogen.energy.gov",
+    "name_value": "aut.hydrogen.energy.gov",
+    "id": 24624625415,
+    "entry_timestamp": "2026-02-24T21:14:42.072",
+    "not_before": "2026-02-24T20:13:47",
+    "not_after": "2026-05-25T21:13:40",
+    "serial_number": "00b44c74c89637b2aa0d9d066740f7166c",
     "result_count": 2
   },
   {
@@ -1780,6 +2404,18 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "stg.hydrogen.energy.gov",
     "name_value": "stg.hydrogen.energy.gov",
+    "id": 24299786435,
+    "entry_timestamp": "2026-02-10T02:29:53.25",
+    "not_before": "2026-02-10T01:28:44",
+    "not_after": "2026-05-11T02:28:42",
+    "serial_number": "0947fc5149b4c768113ce27d95bfb9c4",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "stg.hydrogen.energy.gov",
+    "name_value": "stg.hydrogen.energy.gov",
     "id": 24299794972,
     "entry_timestamp": "2026-02-10T02:28:44.74",
     "not_before": "2026-02-10T01:28:44",
@@ -1816,6 +2452,18 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "stg.annualmeritreview.energy.gov",
     "name_value": "stg.annualmeritreview.energy.gov",
+    "id": 24297324514,
+    "entry_timestamp": "2026-02-09T23:45:37.215",
+    "not_before": "2026-02-09T22:45:30",
+    "not_after": "2026-05-10T23:45:24",
+    "serial_number": "00fd5b0a647a32e65f0e0ec2ead7e935a6",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "stg.annualmeritreview.energy.gov",
+    "name_value": "stg.annualmeritreview.energy.gov",
     "id": 24297316212,
     "entry_timestamp": "2026-02-09T23:45:30.979",
     "not_before": "2026-02-09T22:45:30",
@@ -1833,6 +2481,18 @@
     "not_before": "2026-02-09T22:45:18",
     "not_after": "2026-05-10T23:43:59",
     "serial_number": "0744d1a156bb23a50de3ede0654c30c8",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "stg.h2new.energy.gov",
+    "name_value": "stg.h2new.energy.gov",
+    "id": 24295299061,
+    "entry_timestamp": "2026-02-09T21:30:41.928",
+    "not_before": "2026-02-09T20:28:40",
+    "not_after": "2026-05-10T21:28:38",
+    "serial_number": "00c2a6d30ab96bcb980d099b415fc7a26e",
     "result_count": 2
   },
   {
@@ -1881,6 +2541,30 @@
     "not_before": "2026-02-09T00:00:00",
     "not_after": "2027-02-09T23:59:59",
     "serial_number": "7b9ab9189f1f63f15b9a40cbc4c4d6eb",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "armweb0-prod.ornl.gov",
+    "name_value": "asr.science.energy.gov\nwww.asr.science.energy.gov",
+    "id": 24229901166,
+    "entry_timestamp": "2026-02-06T20:37:20.073",
+    "not_before": "2026-02-06T19:38:47",
+    "not_after": "2026-05-07T19:38:46",
+    "serial_number": "065f18691659e68cb8fc9d8c2c312be2472a",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "armweb0-prod.ornl.gov",
+    "name_value": "asr.science.energy.gov\nwww.asr.science.energy.gov",
+    "id": 24229878303,
+    "entry_timestamp": "2026-02-06T20:37:17.808",
+    "not_before": "2026-02-06T19:38:47",
+    "not_after": "2026-05-07T19:38:46",
+    "serial_number": "065f18691659e68cb8fc9d8c2c312be2472a",
     "result_count": 2
   },
   {
@@ -2152,6 +2836,18 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
     "common_name": "catalog.energy.gov",
     "name_value": "catalog.energy.gov\nwww.catalog.energy.gov",
+    "id": 23985262674,
+    "entry_timestamp": "2026-01-26T08:24:24.986",
+    "not_before": "2026-01-26T07:25:54",
+    "not_after": "2026-04-26T07:25:53",
+    "serial_number": "05144111598e36b69efb25396882ada7f580",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295809,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
+    "common_name": "catalog.energy.gov",
+    "name_value": "catalog.energy.gov\nwww.catalog.energy.gov",
     "id": 23985256815,
     "entry_timestamp": "2026-01-26T08:24:24.49",
     "not_before": "2026-01-26T07:25:54",
@@ -2248,6 +2944,18 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "www.genomicscience.energy.gov",
     "name_value": "www.genomicscience.energy.gov",
+    "id": 23934531995,
+    "entry_timestamp": "2026-01-23T11:44:30.626",
+    "not_before": "2026-01-23T10:42:02",
+    "not_after": "2026-04-23T11:41:56",
+    "serial_number": "7bf370881b53bda7138b1aa8ad3a8dd6",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "www.genomicscience.energy.gov",
+    "name_value": "www.genomicscience.energy.gov",
     "id": 23934517058,
     "entry_timestamp": "2026-01-23T11:42:02.505",
     "not_before": "2026-01-23T10:42:02",
@@ -2320,6 +3028,18 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "nonproportal.energy.gov",
     "name_value": "nonproportal.energy.gov",
+    "id": 23917995455,
+    "entry_timestamp": "2026-01-22T14:15:17.036",
+    "not_before": "2026-01-22T13:13:00",
+    "not_after": "2026-04-22T14:12:50",
+    "serial_number": "4979cda0c759f88f1363bc59383472fe",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "nonproportal.energy.gov",
+    "name_value": "nonproportal.energy.gov",
     "id": 23917973296,
     "entry_timestamp": "2026-01-22T14:13:00.794",
     "not_before": "2026-01-22T13:13:00",
@@ -2337,6 +3057,18 @@
     "not_before": "2026-01-22T13:12:44",
     "not_after": "2026-04-22T14:11:22",
     "serial_number": "3ffa46e38ef24d501367c16817f599d1",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "ess.science.energy.gov",
+    "name_value": "ess.science.energy.gov",
+    "id": 23916826788,
+    "entry_timestamp": "2026-01-22T12:42:30.424",
+    "not_before": "2026-01-22T11:41:12",
+    "not_after": "2026-04-22T12:41:11",
+    "serial_number": "00f6f016992ddd65c911c779db962122f4",
     "result_count": 2
   },
   {
@@ -2388,6 +3120,114 @@
     "result_count": 3
   },
   {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "my.energy.gov",
+    "name_value": "my.energy.gov",
+    "id": 23884446493,
+    "entry_timestamp": "2026-01-20T17:29:38.807",
+    "not_before": "2026-01-20T16:31:08",
+    "not_after": "2026-04-20T16:31:07",
+    "serial_number": "059b763c1a22fb4d1bb0300c8d411b8da28d",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "my.energy.gov",
+    "name_value": "my.energy.gov",
+    "id": 23884427683,
+    "entry_timestamp": "2026-01-20T17:29:38.598",
+    "not_before": "2026-01-20T16:31:08",
+    "not_after": "2026-04-20T16:31:07",
+    "serial_number": "059b763c1a22fb4d1bb0300c8d411b8da28d",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "radiobioassay.id.energy.gov",
+    "name_value": "radiobioassay.id.energy.gov",
+    "id": 23829170060,
+    "entry_timestamp": "2026-01-17T22:33:37.008",
+    "not_before": "2026-01-15T16:57:11",
+    "not_after": "2026-04-15T17:57:08",
+    "serial_number": "00c87be2512ef7fa510deb7de7cda873eb",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "contracts.id.energy.gov",
+    "name_value": "contracts.id.energy.gov",
+    "id": 23829169183,
+    "entry_timestamp": "2026-01-17T22:33:29.877",
+    "not_before": "2026-01-15T16:56:46",
+    "not_after": "2026-04-15T17:56:41",
+    "serial_number": "1f224654da53abd5132955627d4ab343",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "doelaptraining-scan.id.energy.gov",
+    "name_value": "doelaptraining-scan.id.energy.gov",
+    "id": 23787758365,
+    "entry_timestamp": "2026-01-15T19:05:55.709",
+    "not_before": "2026-01-15T16:58:32",
+    "not_after": "2026-04-15T17:58:28",
+    "serial_number": "0b6f7eababa952ec0ecb57ce4f284ae1",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "radiovendor.id.energy.gov",
+    "name_value": "radiovendor.id.energy.gov",
+    "id": 23787590260,
+    "entry_timestamp": "2026-01-15T18:54:23.301",
+    "not_before": "2026-01-15T16:41:52",
+    "not_after": "2026-04-15T17:41:48",
+    "serial_number": "3b71ab960bfff0fd13cac82afb7f7ea7",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "resl-acc.id.energy.gov",
+    "name_value": "resl-acc.id.energy.gov",
+    "id": 23787581757,
+    "entry_timestamp": "2026-01-15T18:53:51.263",
+    "not_before": "2026-01-15T16:41:11",
+    "not_after": "2026-04-15T17:41:07",
+    "serial_number": "00c979d2628c340cf80d462275d892101b",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "doseentry-acc.id.energy.gov",
+    "name_value": "doseentry-acc.id.energy.gov",
+    "id": 23787049001,
+    "entry_timestamp": "2026-01-15T18:17:18.713",
+    "not_before": "2026-01-15T16:08:55",
+    "not_after": "2026-04-15T17:08:52",
+    "serial_number": "00cdf954f3d300d1980d0500e6a9e7a8b5",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "resldosimetry-acc.id.energy.gov",
+    "name_value": "resldosimetry-acc.id.energy.gov",
+    "id": 23786972104,
+    "entry_timestamp": "2026-01-15T18:12:15.469",
+    "not_before": "2026-01-15T17:12:02",
+    "not_after": "2026-04-15T18:11:58",
+    "serial_number": "00e3c431f4f40b80b10efb5166a76092c5",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "resldosimetry-acc.id.energy.gov",
@@ -2414,6 +3254,30 @@
   {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "chemresults-acc.id.energy.gov",
+    "name_value": "chemresults-acc.id.energy.gov",
+    "id": 23786806669,
+    "entry_timestamp": "2026-01-15T17:59:51.288",
+    "not_before": "2026-01-15T16:56:56",
+    "not_after": "2026-04-15T17:56:52",
+    "serial_number": "00bb30045caeca7d4013334673c94525a6",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "homeext-acc.id.energy.gov",
+    "name_value": "homeext-acc.id.energy.gov",
+    "id": 23786795867,
+    "entry_timestamp": "2026-01-15T17:58:56.537",
+    "not_before": "2026-01-15T16:57:16",
+    "not_after": "2026-04-15T17:57:11",
+    "serial_number": "679ea342c5a26c7a0ebe4312204ee572",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "doelaptraining-scan.id.energy.gov",
     "name_value": "doelaptraining-scan.id.energy.gov",
     "id": 23786810005,
@@ -2421,6 +3285,30 @@
     "not_before": "2026-01-15T16:58:32",
     "not_after": "2026-04-15T17:58:28",
     "serial_number": "0b6f7eababa952ec0ecb57ce4f284ae1",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "radiovendor-scan.id.energy.gov",
+    "name_value": "radiovendor-scan.id.energy.gov",
+    "id": 23786792078,
+    "entry_timestamp": "2026-01-15T17:58:27.301",
+    "not_before": "2026-01-15T16:57:16",
+    "not_after": "2026-04-15T17:57:13",
+    "serial_number": "3c9b3a0b12d1ac880e9cff93e82cc825",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "radiobioassay-acc.id.energy.gov",
+    "name_value": "radiobioassay-acc.id.energy.gov",
+    "id": 23786792906,
+    "entry_timestamp": "2026-01-15T17:58:25.43",
+    "not_before": "2026-01-15T16:56:46",
+    "not_after": "2026-04-15T17:56:42",
+    "serial_number": "00c75de746713a776f133f38642d89b198",
     "result_count": 2
   },
   {
@@ -2433,6 +3321,18 @@
     "not_before": "2026-01-15T16:58:22",
     "not_after": "2026-04-15T17:57:10",
     "serial_number": "00f9546da5696dc0d70e4df1bda05faf9e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "contracts-scan.id.energy.gov",
+    "name_value": "contracts-scan.id.energy.gov",
+    "id": 23786790459,
+    "entry_timestamp": "2026-01-15T17:58:21.305",
+    "not_before": "2026-01-15T16:58:12",
+    "not_after": "2026-04-15T17:58:08",
+    "serial_number": "290a23c1ac5aa6060ebf6e59fa4d7333",
     "result_count": 2
   },
   {
@@ -2457,6 +3357,18 @@
     "not_before": "2026-01-15T16:58:02",
     "not_after": "2026-04-15T17:56:52",
     "serial_number": "5f7efcfa0e1edece0e823e8a5f691334",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "resldosimetry.id.energy.gov",
+    "name_value": "resldosimetry.id.energy.gov",
+    "id": 23786781660,
+    "entry_timestamp": "2026-01-15T17:58:01.19",
+    "not_before": "2026-01-15T16:57:38",
+    "not_after": "2026-04-15T17:57:18",
+    "serial_number": "34ef5896864d489c0eed2c87a505e4b5",
     "result_count": 2
   },
   {
@@ -2630,6 +3542,30 @@
   {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "radiovendor-acc.id.energy.gov",
+    "name_value": "radiovendor-acc.id.energy.gov",
+    "id": 23786617703,
+    "entry_timestamp": "2026-01-15T17:43:30.994",
+    "not_before": "2026-01-15T16:41:41",
+    "not_after": "2026-04-15T17:41:37",
+    "serial_number": "77836b038d0deba513b61ad72ae00c03",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "doelaptraining.id.energy.gov",
+    "name_value": "doelaptraining.id.energy.gov",
+    "id": 23786613373,
+    "entry_timestamp": "2026-01-15T17:43:12.437",
+    "not_before": "2026-01-15T16:40:26",
+    "not_after": "2026-04-15T17:40:23",
+    "serial_number": "008c6d6e923ef18f35131a8b11397a1fe0",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "radiovendor.id.energy.gov",
     "name_value": "radiovendor.id.energy.gov",
     "id": 23786620087,
@@ -2716,6 +3652,18 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "resl-scan.id.energy.gov",
     "name_value": "resl-scan.id.energy.gov",
+    "id": 23786588145,
+    "entry_timestamp": "2026-01-15T17:41:02.459",
+    "not_before": "2026-01-15T16:40:56",
+    "not_after": "2026-04-15T17:40:54",
+    "serial_number": "636941302529f368139a8a3a7a64502f",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "resl-scan.id.energy.gov",
+    "name_value": "resl-scan.id.energy.gov",
     "id": 23786586992,
     "entry_timestamp": "2026-01-15T17:40:56.503",
     "not_before": "2026-01-15T16:40:56",
@@ -2781,6 +3729,18 @@
     "not_before": "2026-01-15T16:40:06",
     "not_after": "2026-04-15T17:38:55",
     "serial_number": "00c88e4ce33d55d7eb0d0eb05e9180b173",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "doseentry-scan.id.energy.gov",
+    "name_value": "doseentry-scan.id.energy.gov",
+    "id": 23786551776,
+    "entry_timestamp": "2026-01-15T17:38:17.989",
+    "not_before": "2026-01-15T16:38:01",
+    "not_after": "2026-04-15T17:37:58",
+    "serial_number": "00a37791e10f1ea0bf1191a2b5f774d352",
     "result_count": 2
   },
   {
@@ -2882,6 +3842,54 @@
   {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "chemresults-scan.id.energy.gov",
+    "name_value": "chemresults-scan.id.energy.gov",
+    "id": 23786393960,
+    "entry_timestamp": "2026-01-15T17:25:29.773",
+    "not_before": "2026-01-15T16:24:08",
+    "not_after": "2026-04-15T17:24:05",
+    "serial_number": "210621521e088b270eb7ab57b5b7acb8",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "resldosimetry-scan.id.energy.gov",
+    "name_value": "resldosimetry-scan.id.energy.gov",
+    "id": 23786394650,
+    "entry_timestamp": "2026-01-15T17:25:27.723",
+    "not_before": "2026-01-15T16:23:58",
+    "not_after": "2026-04-15T17:23:53",
+    "serial_number": "00f5d71edb3964a14011f89ffb78510734",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "radiobioassay-scan.id.energy.gov",
+    "name_value": "radiobioassay-scan.id.energy.gov",
+    "id": 23786381225,
+    "entry_timestamp": "2026-01-15T17:24:48.725",
+    "not_before": "2026-01-15T16:23:21",
+    "not_after": "2026-04-15T17:23:17",
+    "serial_number": "54c5c71f6c8225f80e1e4d050360cc17",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "doelaptraining-acc.id.energy.gov",
+    "name_value": "doelaptraining-acc.id.energy.gov",
+    "id": 23786377665,
+    "entry_timestamp": "2026-01-15T17:24:40.514",
+    "not_before": "2026-01-15T16:24:31",
+    "not_after": "2026-04-15T17:24:28",
+    "serial_number": "00eb2538cb7c683117112c87c0cc024eb9",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "doelaptraining-acc.id.energy.gov",
     "name_value": "doelaptraining-acc.id.energy.gov",
     "id": 23786399187,
@@ -2978,6 +3986,18 @@
   {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "chemresults.id.energy.gov",
+    "name_value": "chemresults.id.energy.gov",
+    "id": 23786193300,
+    "entry_timestamp": "2026-01-15T17:12:19.535",
+    "not_before": "2026-01-15T16:09:46",
+    "not_after": "2026-04-15T17:09:41",
+    "serial_number": "00cf84a4b89c22d5840eea6fc21ac200ac",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "id.energy.gov",
     "name_value": "id.energy.gov",
     "id": 23786179920,
@@ -2990,6 +4010,18 @@
   {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "resl.id.energy.gov",
+    "name_value": "resl.id.energy.gov",
+    "id": 23786178860,
+    "entry_timestamp": "2026-01-15T17:10:43.621",
+    "not_before": "2026-01-15T16:09:05",
+    "not_after": "2026-04-15T17:09:02",
+    "serial_number": "4d514183e73e00d113284e5b14582f97",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "chemresults.id.energy.gov",
     "name_value": "chemresults.id.energy.gov",
     "id": 23786163570,
@@ -2997,6 +4029,18 @@
     "not_before": "2026-01-15T16:09:46",
     "not_after": "2026-04-15T17:09:41",
     "serial_number": "00cf84a4b89c22d5840eea6fc21ac200ac",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "doseentry.id.energy.gov",
+    "name_value": "doseentry.id.energy.gov",
+    "id": 23786160447,
+    "entry_timestamp": "2026-01-15T17:09:38.63",
+    "not_before": "2026-01-15T16:09:27",
+    "not_after": "2026-04-15T17:09:24",
+    "serial_number": "6a76a5dffc954f4c0e680702854f575a",
     "result_count": 2
   },
   {
@@ -3038,6 +4082,30 @@
   {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "homeext-scan.id.energy.gov",
+    "name_value": "homeext-scan.id.energy.gov",
+    "id": 23786148806,
+    "entry_timestamp": "2026-01-15T17:09:15.137",
+    "not_before": "2026-01-15T16:08:55",
+    "not_after": "2026-04-15T17:08:52",
+    "serial_number": "05a966119d843c4a13a7a346fe4c32d9",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "homeext.id.energy.gov",
+    "name_value": "homeext.id.energy.gov",
+    "id": 23786148317,
+    "entry_timestamp": "2026-01-15T17:09:11.831",
+    "not_before": "2026-01-15T16:08:46",
+    "not_after": "2026-04-15T17:08:44",
+    "serial_number": "2ee488adcc63133613d262671a9fd4be",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "resl.id.energy.gov",
     "name_value": "resl.id.energy.gov",
     "id": 23786170388,
@@ -3057,6 +4125,18 @@
     "not_before": "2026-01-15T16:09:05",
     "not_after": "2026-04-15T17:09:02",
     "serial_number": "7cb14a7e7570a43413fd51f0f93cdc3b",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "contracts-acc.id.energy.gov",
+    "name_value": "contracts-acc.id.energy.gov",
+    "id": 23786146777,
+    "entry_timestamp": "2026-01-15T17:09:03.209",
+    "not_before": "2026-01-15T16:08:55",
+    "not_after": "2026-04-15T17:08:52",
+    "serial_number": "506c1b06a8471a241191871f6b62d68d",
     "result_count": 2
   },
   {
@@ -3177,6 +4257,54 @@
     "not_before": "2026-01-15T16:08:38",
     "not_after": "2026-04-15T17:07:26",
     "serial_number": "00f795675b3e4570d8132fe1db9ac3e212",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295813,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
+    "common_name": "web.ornl.gov",
+    "name_value": "genomics.energy.gov\ntes.science.energy.gov",
+    "id": 23728418976,
+    "entry_timestamp": "2026-01-12T20:37:08.095",
+    "not_before": "2026-01-12T19:38:37",
+    "not_after": "2026-04-12T19:38:36",
+    "serial_number": "06f9d11ffd4edb4faab586379094d4e9a374",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295813,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
+    "common_name": "web.ornl.gov",
+    "name_value": "genomics.energy.gov\ntes.science.energy.gov",
+    "id": 23728417396,
+    "entry_timestamp": "2026-01-12T20:37:07.89",
+    "not_before": "2026-01-12T19:38:37",
+    "not_after": "2026-04-12T19:38:36",
+    "serial_number": "06f9d11ffd4edb4faab586379094d4e9a374",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295813,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
+    "common_name": "web.ornl.gov",
+    "name_value": "genomics.energy.gov\ntes.science.energy.gov",
+    "id": 23728378362,
+    "entry_timestamp": "2026-01-12T20:34:07.586",
+    "not_before": "2026-01-12T19:35:36",
+    "not_after": "2026-04-12T19:35:35",
+    "serial_number": "0628ed4bc1c27adccc897cc7bd14b51e3e1e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295813,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
+    "common_name": "web.ornl.gov",
+    "name_value": "genomics.energy.gov\ntes.science.energy.gov",
+    "id": 23728378809,
+    "entry_timestamp": "2026-01-12T20:34:07.161",
+    "not_before": "2026-01-12T19:35:36",
+    "not_after": "2026-04-12T19:35:35",
+    "serial_number": "0628ed4bc1c27adccc897cc7bd14b51e3e1e",
     "result_count": 2
   },
   {
@@ -3348,6 +4476,42 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "api.livewire.energy.gov",
+    "name_value": "api.livewire.energy.gov",
+    "id": 23516380020,
+    "entry_timestamp": "2026-01-02T16:19:55.244",
+    "not_before": "2026-01-02T15:21:23",
+    "not_after": "2026-04-02T15:21:22",
+    "serial_number": "06385743c7a44bd00700a31583f64e7e6d9b",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "api.livewire.energy.gov",
+    "name_value": "api.livewire.energy.gov",
+    "id": 23516362077,
+    "entry_timestamp": "2026-01-02T16:19:54.109",
+    "not_before": "2026-01-02T15:21:23",
+    "not_after": "2026-04-02T15:21:22",
+    "serial_number": "06385743c7a44bd00700a31583f64e7e6d9b",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "mydev.energy.gov",
+    "name_value": "mydev.energy.gov",
+    "id": 23483528608,
+    "entry_timestamp": "2025-12-31T21:29:29.77",
+    "not_before": "2025-12-31T20:30:59",
+    "not_after": "2026-03-31T20:30:58",
+    "serial_number": "0592faf4a2eeba27368f191e930e09eccf8c",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 295816,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "mydev.energy.gov",
@@ -3384,6 +4548,42 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "mytest.energy.gov",
+    "name_value": "mytest.energy.gov",
+    "id": 23462189257,
+    "entry_timestamp": "2025-12-30T20:59:23.656",
+    "not_before": "2025-12-30T20:00:52",
+    "not_after": "2026-03-30T20:00:51",
+    "serial_number": "0515fdec793caa484f0bcbc084280eecdc6c",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "mytest.energy.gov",
+    "name_value": "mytest.energy.gov",
+    "id": 23462170006,
+    "entry_timestamp": "2025-12-30T20:59:22.837",
+    "not_before": "2025-12-30T20:00:52",
+    "not_after": "2026-03-30T20:00:51",
+    "serial_number": "0515fdec793caa484f0bcbc084280eecdc6c",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "m-22-18-attestations.energy.gov",
+    "name_value": "m-22-18-attestations.energy.gov",
+    "id": 23453378628,
+    "entry_timestamp": "2025-12-30T10:29:45.17",
+    "not_before": "2025-12-30T09:31:14",
+    "not_after": "2026-03-30T09:31:13",
+    "serial_number": "06671f67647f70ef8197abb12ebff187c4ac",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 295816,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "m-22-18-attestations.energy.gov",
@@ -3393,6 +4593,18 @@
     "not_before": "2025-12-30T09:31:14",
     "not_after": "2026-03-30T09:31:13",
     "serial_number": "06671f67647f70ef8197abb12ebff187c4ac",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "www.hydrogen.energy.gov",
+    "name_value": "www.hydrogen.energy.gov",
+    "id": 23442415764,
+    "entry_timestamp": "2025-12-29T21:13:01.945",
+    "not_before": "2025-12-29T20:10:25",
+    "not_after": "2026-03-29T21:10:15",
+    "serial_number": "7c4d2ffcf66424240d4eb737bbdc6fcb",
     "result_count": 2
   },
   {
@@ -3424,6 +4636,18 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "hydrogen.energy.gov",
     "name_value": "hydrogen.energy.gov",
+    "id": 23433277047,
+    "entry_timestamp": "2025-12-29T09:20:41.635",
+    "not_before": "2025-12-29T08:20:34",
+    "not_after": "2026-03-29T09:20:28",
+    "serial_number": "008c8ad640ea165ad60d10fae933858cb1",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "hydrogen.energy.gov",
+    "name_value": "hydrogen.energy.gov",
     "id": 23433282440,
     "entry_timestamp": "2025-12-29T09:20:35.409",
     "not_before": "2025-12-29T08:20:34",
@@ -3448,6 +4672,18 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "www.annualmeritreview.energy.gov",
     "name_value": "www.annualmeritreview.energy.gov",
+    "id": 23419320824,
+    "entry_timestamp": "2025-12-28T15:26:37.685",
+    "not_before": "2025-12-28T12:34:57",
+    "not_after": "2026-03-28T13:34:52",
+    "serial_number": "0dd3c75454e93bc413c4f7030ace89e6",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "www.annualmeritreview.energy.gov",
+    "name_value": "www.annualmeritreview.energy.gov",
     "id": 23417920365,
     "entry_timestamp": "2025-12-28T13:34:58.041",
     "not_before": "2025-12-28T12:34:57",
@@ -3465,6 +4701,18 @@
     "not_before": "2025-12-28T12:34:46",
     "not_after": "2026-03-28T13:33:30",
     "serial_number": "4fad57571a12394a13e19200cdce2942",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "annualmeritreview.energy.gov",
+    "name_value": "annualmeritreview.energy.gov",
+    "id": 23415809453,
+    "entry_timestamp": "2025-12-28T10:47:15.557",
+    "not_before": "2025-12-28T09:45:58",
+    "not_after": "2026-03-28T10:45:52",
+    "serial_number": "009f589aa2f53684dd0eec7a7fdd255003",
     "result_count": 2
   },
   {
@@ -3532,6 +4780,18 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "aut.annualmeritreview.energy.gov",
     "name_value": "aut.annualmeritreview.energy.gov",
+    "id": 23410521981,
+    "entry_timestamp": "2025-12-28T04:05:24.371",
+    "not_before": "2025-12-28T03:04:16",
+    "not_after": "2026-03-28T04:04:10",
+    "serial_number": "00f2f0b3e709bdf8fd0e0ee20022db82ef",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "aut.annualmeritreview.energy.gov",
+    "name_value": "aut.annualmeritreview.energy.gov",
     "id": 23410525205,
     "entry_timestamp": "2025-12-28T04:04:16.882",
     "not_before": "2025-12-28T03:04:16",
@@ -3556,6 +4816,18 @@
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "aut.h2new.energy.gov",
     "name_value": "aut.h2new.energy.gov",
+    "id": 23406991120,
+    "entry_timestamp": "2025-12-27T23:42:40.334",
+    "not_before": "2025-12-27T22:41:44",
+    "not_after": "2026-03-27T23:41:41",
+    "serial_number": "21f1f2f8afc7ad9a0d2e61e1f07eb0ed",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "aut.h2new.energy.gov",
+    "name_value": "aut.h2new.energy.gov",
     "id": 23406995877,
     "entry_timestamp": "2025-12-27T23:41:44.707",
     "not_before": "2025-12-27T22:41:44",
@@ -3573,6 +4845,18 @@
     "not_before": "2025-12-27T22:41:36",
     "not_after": "2026-03-27T23:40:13",
     "serial_number": "41c54774f3557fe613a02848385ff66c",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "aut.hydrogen.energy.gov",
+    "name_value": "aut.hydrogen.energy.gov",
+    "id": 23405065391,
+    "entry_timestamp": "2025-12-27T21:02:29.914",
+    "not_before": "2025-12-27T20:00:00",
+    "not_after": "2026-03-27T20:59:57",
+    "serial_number": "465f5d67204baa5c139908cd187273d1",
     "result_count": 2
   },
   {

@@ -1,5 +1,17 @@
 [
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "staging.regulations.gov",
+    "name_value": "dev-bulk-downloads.regulations.gov\ndev-downloads.regulations.gov\ndev.regulations.gov\nstaging-bulk-downloads.regulations.gov\nstaging-downloads.regulations.gov\nstaging.regulations.gov\ntest-bulk-downloads.regulations.gov\ntest-downloads.regulations.gov\ntest.regulations.gov",
+    "id": 25041915129,
+    "entry_timestamp": "2026-03-17T11:54:11.635",
+    "not_before": "2026-03-17T00:00:00",
+    "not_after": "2026-10-01T23:59:59",
+    "serial_number": "07dbaa3d88c9b5c11eb1ff5aac52949e",
+    "result_count": 10
+  },
+  {
     "issuer_ca_id": 295817,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "api.regulations.gov",
@@ -81,30 +93,6 @@
     "not_before": "2026-01-13T17:20:40",
     "not_after": "2026-04-13T17:20:39",
     "serial_number": "0542c4fae2e8b9b0fad1e3f016da1dd87b87",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "api-staging.regulations.gov",
-    "name_value": "api-staging.regulations.gov",
-    "id": 23160719930,
-    "entry_timestamp": "2025-12-16T18:19:47.437",
-    "not_before": "2025-12-16T17:21:17",
-    "not_after": "2026-03-16T17:21:16",
-    "serial_number": "059567658adf94e803abaae4c0fa9b66a54e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "api-staging.regulations.gov",
-    "name_value": "api-staging.regulations.gov",
-    "id": 23160696169,
-    "entry_timestamp": "2025-12-16T18:19:47.193",
-    "not_before": "2025-12-16T17:21:17",
-    "not_after": "2026-03-16T17:21:16",
-    "serial_number": "059567658adf94e803abaae4c0fa9b66a54e",
     "result_count": 2
   },
   {
