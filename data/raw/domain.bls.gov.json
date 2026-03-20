@@ -1,5 +1,77 @@
 [
   {
+    "issuer_ca_id": 365075,
+    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
+    "common_name": "secureaccess.bls.gov",
+    "name_value": "secureaccess.bls.gov\nwww.secureaccess.bls.gov",
+    "id": 25089359310,
+    "entry_timestamp": "2026-03-19T12:30:31.723",
+    "not_before": "2025-03-26T13:50:16",
+    "not_after": "2026-04-26T04:00:00",
+    "serial_number": "129a8824ca9585156dcd6253de94799c",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 365075,
+    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
+    "common_name": "secureaccessdr.bls.gov",
+    "name_value": "BLS-ATL-FW-ASA-P.bls.gov\nsecureaccessdr.bls.gov\nwww.secureaccessdr.bls.gov",
+    "id": 25089336636,
+    "entry_timestamp": "2026-03-19T12:29:53.275",
+    "not_before": "2025-03-26T13:55:58",
+    "not_after": "2026-04-26T04:00:00",
+    "serial_number": "4fe80e21248c0dfff5cf0eb789369f59",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "secureaccess.bls.gov",
+    "name_value": "secureaccess.bls.gov",
+    "id": 25089322844,
+    "entry_timestamp": "2026-03-19T12:29:08.583",
+    "not_before": "2026-03-19T00:00:00",
+    "not_after": "2026-10-03T23:59:59",
+    "serial_number": "00e3c6ff95d786fcd76e23c524f8444fe8",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "secureaccess.bls.gov",
+    "name_value": "secureaccess.bls.gov",
+    "id": 25089312082,
+    "entry_timestamp": "2026-03-19T12:29:06.27",
+    "not_before": "2026-03-19T00:00:00",
+    "not_after": "2026-10-03T23:59:59",
+    "serial_number": "00e3c6ff95d786fcd76e23c524f8444fe8",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "secureaccessdr.bls.gov",
+    "name_value": "secureaccessdr.bls.gov",
+    "id": 25089313289,
+    "entry_timestamp": "2026-03-19T12:27:45.771",
+    "not_before": "2026-03-19T00:00:00",
+    "not_after": "2026-10-03T23:59:59",
+    "serial_number": "658170dcbc2bb736ce1fd9b150117221",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "secureaccessdr.bls.gov",
+    "name_value": "secureaccessdr.bls.gov",
+    "id": 25089294918,
+    "entry_timestamp": "2026-03-19T12:27:44.044",
+    "not_before": "2026-03-19T00:00:00",
+    "not_after": "2026-10-03T23:59:59",
+    "serial_number": "658170dcbc2bb736ce1fd9b150117221",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 385512,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
     "common_name": "laus2.states.bls.gov",
@@ -1809,42 +1881,6 @@
     "not_before": "2025-02-21T17:09:09",
     "not_after": "2026-03-21T04:00:00",
     "serial_number": "0b6aadc279d1e8715abd2bca93e8c18b",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "cfsaces02.psb.bls.gov",
-    "name_value": "cfsaces02.psb.bls.gov\nwww.cfsaces02.psb.bls.gov",
-    "id": 16774584491,
-    "entry_timestamp": "2025-02-20T17:10:23.867",
-    "not_before": "2025-02-20T17:00:22",
-    "not_after": "2026-03-20T04:00:00",
-    "serial_number": "7947f12caf2c33baddce2eb179e0503c",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "cfapcpiprd03v.psb.bls.gov",
-    "name_value": "cfapcpiprd03v.psb.bls.gov\nwww.cfapcpiprd03v.psb.bls.gov",
-    "id": 16774581980,
-    "entry_timestamp": "2025-02-20T16:45:05.101",
-    "not_before": "2025-02-20T16:35:03",
-    "not_after": "2026-03-20T04:00:00",
-    "serial_number": "5ad73df943f561fc6fc7299861da883c",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "cfapcpiprd04v.psb.bls.gov",
-    "name_value": "cfapcpiprd04v.psb.bls.gov\nwww.cfapcpiprd04v.psb.bls.gov",
-    "id": 16774582188,
-    "entry_timestamp": "2025-02-20T15:56:34.86",
-    "not_before": "2025-02-20T15:46:33",
-    "not_after": "2026-03-20T04:00:00",
-    "serial_number": "2df99157ebbcfeea7771fdd9219473b9",
     "result_count": 3
   }
 ]
