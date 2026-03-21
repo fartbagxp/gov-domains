@@ -1,5 +1,53 @@
 [
   {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "ext-preprod-patentcenter-passive.etc.uspto.gov",
+    "name_value": "ext-preprod-patentcenter-passive.etc.uspto.gov",
+    "id": 25111364499,
+    "entry_timestamp": "2026-03-20T11:33:05.723",
+    "not_before": "2026-03-20T00:00:00",
+    "not_after": "2026-10-03T23:59:59",
+    "serial_number": "044dbd49b3e16dc8eb3ccd5f891b51a6",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "psft4.uspto.gov",
+    "name_value": "psft4.uspto.gov",
+    "id": 25097457539,
+    "entry_timestamp": "2026-03-19T20:04:23.312",
+    "not_before": "2026-03-19T00:00:00",
+    "not_after": "2026-10-03T23:59:59",
+    "serial_number": "0c88522d4a56733e50cf3c442e039462",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "psft3.uspto.gov",
+    "name_value": "psft3.uspto.gov",
+    "id": 25097398338,
+    "entry_timestamp": "2026-03-19T20:01:17.908",
+    "not_before": "2026-03-19T00:00:00",
+    "not_after": "2026-10-03T23:59:59",
+    "serial_number": "019541c5b84dd81778c2d92e44621ac4",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "assignmentcenter-dev2.etc.uspto.gov",
+    "name_value": "assignmentcenter-dev2.etc.uspto.gov\nassignmentcenter-dev2-internal.ipas.awslab.uspto.gov",
+    "id": 25095027831,
+    "entry_timestamp": "2026-03-19T17:45:17.307",
+    "not_before": "2026-03-19T00:00:00",
+    "not_after": "2026-10-02T23:59:59",
+    "serial_number": "0d2b9603de3e8dba8dca9a0c22b6905b",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "itm-srvc-02b-200.uspto.gov",
@@ -2902,30 +2950,6 @@
     "not_after": "2026-03-24T04:00:00",
     "serial_number": "38c977f879f110af4ca0d60944808955",
     "result_count": 11
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "www.uspto.gov",
-    "name_value": "careers.uspto.gov\ncomponents.uspto.gov\ncx-research.uspto.gov\ncybertraining.uspto.gov\nequiphq.uspto.gov\nfoiadocuments.uspto.gov\nipidentifier.uspto.gov\npatentsgazette.uspto.gov\nprod-asg-web.uspto.gov\nPROD-Web-ALB-tg.uspto.gov\nPROD-Web-ALB-zone1-tg.uspto.gov\nPROD-Web-ALB-zone2-tg.uspto.gov\ntess2.uspto.gov\nwww.uspto.gov",
-    "id": 22509072758,
-    "entry_timestamp": "2025-11-16T10:01:47.83",
-    "not_before": "2025-02-21T19:19:57",
-    "not_after": "2026-03-21T04:00:00",
-    "serial_number": "168028f449fb12b0a802772b4c64e14a",
-    "result_count": 15
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "ttabcenter.uspto.gov",
-    "name_value": "blue.rr.ttab.aws.uspto.gov\ngreen.rr.ttab.aws.uspto.gov\npassive.ttabcenter.uspto.gov\nprod.active.ttab.aws.uspto.gov\nprod.blue.int.alb.ttab.aws.uspto.gov\nprod.blue.ttab.aws.uspto.gov\nprod.css.api.ttab.aws.uspto.gov\nprod.css.dashboard.ttab.aws.uspto.gov\nprod.green.int.alb.ttab.aws.uspto.gov\nprod.green.ttab.aws.uspto.gov\nprod.int.ttab.aws.uspto.gov\nprod.passive.ttab.aws.uspto.gov\nrr.ttab.aws.uspto.gov\nttabcenter.uspto.gov\nttab-reading-room.uspto.gov",
-    "id": 22508900926,
-    "entry_timestamp": "2025-11-16T09:50:21.087",
-    "not_before": "2025-02-20T20:26:11",
-    "not_after": "2026-03-20T04:00:00",
-    "serial_number": "354517fd15284728751eb5a35a4e6b41",
-    "result_count": 16
   },
   {
     "issuer_ca_id": 204411,
@@ -7258,41 +7282,5 @@
     "not_after": "2026-03-24T04:00:00",
     "serial_number": "1f0902efe48e0f51af8d6e16b3bddf6d",
     "result_count": 16
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "www.uspto.gov",
-    "name_value": "careers.uspto.gov\ncomponents.uspto.gov\ncx-research.uspto.gov\ncybertraining.uspto.gov\nequiphq.uspto.gov\nfoiadocuments.uspto.gov\nipidentifier.uspto.gov\npatentsgazette.uspto.gov\nprod-asg-web.uspto.gov\nPROD-Web-ALB-tg.uspto.gov\nPROD-Web-ALB-zone1-tg.uspto.gov\nPROD-Web-ALB-zone2-tg.uspto.gov\ntess2.uspto.gov\nwww.uspto.gov",
-    "id": 16785297706,
-    "entry_timestamp": "2025-02-21T19:29:58.838",
-    "not_before": "2025-02-21T19:19:57",
-    "not_after": "2026-03-21T04:00:00",
-    "serial_number": "168028f449fb12b0a802772b4c64e14a",
-    "result_count": 15
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "ttabcenter.uspto.gov",
-    "name_value": "blue.rr.ttab.aws.uspto.gov\ngreen.rr.ttab.aws.uspto.gov\npassive.ttabcenter.uspto.gov\nprod.active.ttab.aws.uspto.gov\nprod.blue.int.alb.ttab.aws.uspto.gov\nprod.blue.ttab.aws.uspto.gov\nprod.css.api.ttab.aws.uspto.gov\nprod.css.dashboard.ttab.aws.uspto.gov\nprod.green.int.alb.ttab.aws.uspto.gov\nprod.green.ttab.aws.uspto.gov\nprod.int.ttab.aws.uspto.gov\nprod.passive.ttab.aws.uspto.gov\nrr.ttab.aws.uspto.gov\nttabcenter.uspto.gov\nttab-reading-room.uspto.gov",
-    "id": 16774588868,
-    "entry_timestamp": "2025-02-20T20:36:12.687",
-    "not_before": "2025-02-20T20:26:11",
-    "not_after": "2026-03-20T04:00:00",
-    "serial_number": "354517fd15284728751eb5a35a4e6b41",
-    "result_count": 16
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "dev-css.tda.awslab.uspto.gov",
-    "name_value": "dev-css.tda.awslab.uspto.gov\nlab-css.tda.awslab.uspto.gov\npoc-css.tda.awslab.uspto.gov\ntest-css.tda.awslab.uspto.gov",
-    "id": 16774583063,
-    "entry_timestamp": "2025-02-20T16:22:09.355",
-    "not_before": "2025-02-20T16:12:08",
-    "not_after": "2026-03-20T04:00:00",
-    "serial_number": "3dc0004dbf8674c6dd61b91acc7be904",
-    "result_count": 5
   }
 ]

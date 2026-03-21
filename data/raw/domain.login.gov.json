@@ -2,6 +2,30 @@
   {
     "issuer_ca_id": 295816,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "*.pivcac.prod.login.gov",
+    "name_value": "*.pivcac.prod.login.gov",
+    "id": 25122043037,
+    "entry_timestamp": "2026-03-20T23:09:58.654",
+    "not_before": "2026-03-20T22:11:28",
+    "not_after": "2026-06-18T22:11:27",
+    "serial_number": "059bf2d2d6d9b9e6b80428c70e8f03b039ea",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "*.pivcac.prod.login.gov",
+    "name_value": "*.pivcac.prod.login.gov",
+    "id": 25118935465,
+    "entry_timestamp": "2026-03-20T19:28:19.709",
+    "not_before": "2026-03-20T18:29:49",
+    "not_after": "2026-06-18T18:29:48",
+    "serial_number": "06acf39f6f0a2ccfc006703910cd0012de6f",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "design.login.gov",
     "name_value": "design.login.gov",
     "id": 25048715637,
@@ -28,35 +52,11 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "developers.login.gov",
     "name_value": "developers.login.gov",
-    "id": 25045264117,
-    "entry_timestamp": "2026-03-17T14:19:21.519",
-    "not_before": "2026-03-17T13:20:51",
-    "not_after": "2026-06-15T13:20:50",
-    "serial_number": "0502d2c1e4d5d9a239c6bcf410607452dd99",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "developers.login.gov",
-    "name_value": "developers.login.gov",
     "id": 25045192633,
     "entry_timestamp": "2026-03-17T14:19:21.387",
     "not_before": "2026-03-17T13:20:51",
     "not_after": "2026-06-15T13:20:50",
     "serial_number": "0502d2c1e4d5d9a239c6bcf410607452dd99",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "*.pivcac.staging.login.gov",
-    "name_value": "*.pivcac.staging.login.gov",
-    "id": 24966480503,
-    "entry_timestamp": "2026-03-13T16:25:38.437",
-    "not_before": "2026-03-13T15:27:08",
-    "not_after": "2026-06-11T15:27:07",
-    "serial_number": "05aadcbf3de6419c4b95f483961a6f49e51e",
     "result_count": 2
   },
   {
@@ -76,18 +76,6 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "login.gov",
     "name_value": "login.gov\nwww.login.gov",
-    "id": 24854927958,
-    "entry_timestamp": "2026-03-08T11:19:49.727",
-    "not_before": "2026-03-08T10:21:19",
-    "not_after": "2026-06-06T10:21:18",
-    "serial_number": "06082272ff561ab33d867853e5bf40a70e96",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "login.gov",
-    "name_value": "login.gov\nwww.login.gov",
     "id": 24854910224,
     "entry_timestamp": "2026-03-08T11:19:49.231",
     "not_before": "2026-03-08T10:21:19",
@@ -100,48 +88,12 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "developer.login.gov",
     "name_value": "developer.login.gov",
-    "id": 24666956365,
-    "entry_timestamp": "2026-02-27T01:19:25.999",
-    "not_before": "2026-02-27T00:20:55",
-    "not_after": "2026-05-28T00:20:54",
-    "serial_number": "05a6bb01aef3f16a4e4f76bca67b038145b8",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "developer.login.gov",
-    "name_value": "developer.login.gov",
     "id": 24666954052,
     "entry_timestamp": "2026-02-27T01:19:25.494",
     "not_before": "2026-02-27T00:20:55",
     "not_after": "2026-05-28T00:20:54",
     "serial_number": "05a6bb01aef3f16a4e4f76bca67b038145b8",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "consolotrust.wellsky.com",
-    "name_value": "status.login.gov",
-    "id": 24465100817,
-    "entry_timestamp": "2026-02-17T10:21:15.629",
-    "not_before": "2026-02-17T09:22:44",
-    "not_after": "2026-05-18T09:22:43",
-    "serial_number": "05cf44ef5797bf22094ace00385ed9384692",
-    "result_count": 1
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "consolotrust.wellsky.com",
-    "name_value": "status.login.gov",
-    "id": 24465078668,
-    "entry_timestamp": "2026-02-17T10:21:14.696",
-    "not_before": "2026-02-17T09:22:44",
-    "not_after": "2026-05-18T09:22:43",
-    "serial_number": "05cf44ef5797bf22094ace00385ed9384692",
-    "result_count": 1
   },
   {
     "issuer_ca_id": 247119,
@@ -280,18 +232,6 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "partners.login.gov",
     "name_value": "partners.login.gov",
-    "id": 24042447790,
-    "entry_timestamp": "2026-01-28T20:20:00.856",
-    "not_before": "2026-01-28T19:21:30",
-    "not_after": "2026-04-28T19:21:29",
-    "serial_number": "06e56e5847ef430589fba7ae063740847a76",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "partners.login.gov",
-    "name_value": "partners.login.gov",
     "id": 24042452001,
     "entry_timestamp": "2026-01-28T20:20:00.474",
     "not_before": "2026-01-28T19:21:30",
@@ -304,35 +244,11 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "data.login.gov",
     "name_value": "data.login.gov",
-    "id": 23974347574,
-    "entry_timestamp": "2026-01-25T17:19:51.4",
-    "not_before": "2026-01-25T16:21:19",
-    "not_after": "2026-04-25T16:21:18",
-    "serial_number": "065e043a6d91329cea854ee770fcd598299f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "data.login.gov",
-    "name_value": "data.login.gov",
     "id": 23974334347,
     "entry_timestamp": "2026-01-25T17:19:50.077",
     "not_before": "2026-01-25T16:21:19",
     "not_after": "2026-04-25T16:21:18",
     "serial_number": "065e043a6d91329cea854ee770fcd598299f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "handbook.login.gov",
-    "name_value": "handbook.login.gov",
-    "id": 23958680324,
-    "entry_timestamp": "2026-01-24T19:19:52.714",
-    "not_before": "2026-01-24T18:21:21",
-    "not_after": "2026-04-24T18:21:20",
-    "serial_number": "066393931968ec331962e3e978ebaa25aca0",
     "result_count": 2
   },
   {
@@ -372,42 +288,6 @@
     "result_count": 5
   },
   {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "zendesk.login.gov",
-    "name_value": "zendesk.login.gov",
-    "id": 23889998320,
-    "entry_timestamp": "2026-01-21T00:44:19.099",
-    "not_before": "2026-01-20T23:45:48",
-    "not_after": "2026-04-20T23:45:47",
-    "serial_number": "067946722bb48d3ec684540290fe3814f41b",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "zendesk.login.gov",
-    "name_value": "zendesk.login.gov",
-    "id": 23889976773,
-    "entry_timestamp": "2026-01-21T00:44:18.524",
-    "not_before": "2026-01-20T23:45:48",
-    "not_after": "2026-04-20T23:45:47",
-    "serial_number": "067946722bb48d3ec684540290fe3814f41b",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "*.pivcac.prod.login.gov",
-    "name_value": "*.pivcac.prod.login.gov",
-    "id": 23874617276,
-    "entry_timestamp": "2026-01-20T06:35:45.535",
-    "not_before": "2026-01-20T05:37:14",
-    "not_after": "2026-04-20T05:37:13",
-    "serial_number": "060357044007dbc7b1c7861b2efdb2a45497",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 295816,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "*.pivcac.prod.login.gov",
@@ -417,18 +297,6 @@
     "not_before": "2026-01-20T05:37:14",
     "not_after": "2026-04-20T05:37:13",
     "serial_number": "060357044007dbc7b1c7861b2efdb2a45497",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "*.pivcac.prod.login.gov",
-    "name_value": "*.pivcac.prod.login.gov",
-    "id": 23868010540,
-    "entry_timestamp": "2026-01-19T22:24:45.132",
-    "not_before": "2026-01-19T21:26:14",
-    "not_after": "2026-04-19T21:26:13",
-    "serial_number": "05a130d607746ae320f4e281b9649423b72b",
     "result_count": 2
   },
   {
@@ -448,35 +316,11 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "*.pivcac.prod.login.gov",
     "name_value": "*.pivcac.prod.login.gov",
-    "id": 23865212226,
-    "entry_timestamp": "2026-01-19T18:55:00.986",
-    "not_before": "2026-01-19T17:56:30",
-    "not_after": "2026-04-19T17:56:29",
-    "serial_number": "05780aa8f9df67260ab6f3be459af5002325",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "*.pivcac.prod.login.gov",
-    "name_value": "*.pivcac.prod.login.gov",
     "id": 23865210976,
     "entry_timestamp": "2026-01-19T18:55:00.313",
     "not_before": "2026-01-19T17:56:30",
     "not_after": "2026-04-19T17:56:29",
     "serial_number": "05780aa8f9df67260ab6f3be459af5002325",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "*.pivcac.prod.login.gov",
-    "name_value": "*.pivcac.prod.login.gov",
-    "id": 23845987131,
-    "entry_timestamp": "2026-01-18T20:20:42.911",
-    "not_before": "2026-01-18T19:22:12",
-    "not_after": "2026-04-18T19:22:11",
-    "serial_number": "066fb5e7e4591cd82b0c3ba97c9b79002a70",
     "result_count": 2
   },
   {
@@ -496,35 +340,11 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "design.login.gov",
     "name_value": "design.login.gov",
-    "id": 23805283605,
-    "entry_timestamp": "2026-01-16T17:19:05.355",
-    "not_before": "2026-01-16T16:20:34",
-    "not_after": "2026-04-16T16:20:33",
-    "serial_number": "063b6952958ea5509a77a37aa3c01011a6c4",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "design.login.gov",
-    "name_value": "design.login.gov",
     "id": 23805268696,
     "entry_timestamp": "2026-01-16T17:19:05.1",
     "not_before": "2026-01-16T16:20:34",
     "not_after": "2026-04-16T16:20:33",
     "serial_number": "063b6952958ea5509a77a37aa3c01011a6c4",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "developers.login.gov",
-    "name_value": "developers.login.gov",
-    "id": 23802971952,
-    "entry_timestamp": "2026-01-16T14:23:55.015",
-    "not_before": "2026-01-16T13:25:23",
-    "not_after": "2026-04-16T13:25:22",
-    "serial_number": "050ff4826b8b87bcd1ca8b6e6bc85ab406f8",
     "result_count": 2
   },
   {
@@ -544,35 +364,11 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "*.pivcac.staging.login.gov",
     "name_value": "*.pivcac.staging.login.gov",
-    "id": 23724169507,
-    "entry_timestamp": "2026-01-12T15:51:13.117",
-    "not_before": "2026-01-12T14:52:42",
-    "not_after": "2026-04-12T14:52:41",
-    "serial_number": "0632cb57b6ca5749af17275b1be66f376163",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "*.pivcac.staging.login.gov",
-    "name_value": "*.pivcac.staging.login.gov",
     "id": 23724165930,
     "entry_timestamp": "2026-01-12T15:51:12.785",
     "not_before": "2026-01-12T14:52:42",
     "not_after": "2026-04-12T14:52:41",
     "serial_number": "0632cb57b6ca5749af17275b1be66f376163",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "*.pivcac.staging.login.gov",
-    "name_value": "*.pivcac.staging.login.gov",
-    "id": 23711576743,
-    "entry_timestamp": "2026-01-12T01:45:14.268",
-    "not_before": "2026-01-12T00:46:43",
-    "not_after": "2026-04-12T00:46:42",
-    "serial_number": "067bfd1050bca2c7f446f4e15cf3853ef326",
     "result_count": 2
   },
   {
@@ -586,18 +382,6 @@
     "not_after": "2026-04-12T00:46:42",
     "serial_number": "067bfd1050bca2c7f446f4e15cf3853ef326",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "login.gov",
-    "name_value": "login.gov\nwww.login.gov",
-    "id": 23608136135,
-    "entry_timestamp": "2026-01-07T11:45:58.014",
-    "not_before": "2026-01-07T10:47:25",
-    "not_after": "2026-04-07T10:47:24",
-    "serial_number": "05695fa386c28281dbaa6f6e35dc697aee07",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 295817,
@@ -645,18 +429,6 @@
     "not_before": "2026-01-06T00:00:00",
     "not_after": "2027-02-04T23:59:59",
     "serial_number": "02b3c8fe1a2ff9336f450620ad3b9593",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "developer.login.gov",
-    "name_value": "developer.login.gov",
-    "id": 23427151784,
-    "entry_timestamp": "2025-12-29T01:19:46.269",
-    "not_before": "2025-12-29T00:21:15",
-    "not_after": "2026-03-29T00:21:14",
-    "serial_number": "056ed57ee06733c10710ce7724f405344ff3",
     "result_count": 2
   },
   {
