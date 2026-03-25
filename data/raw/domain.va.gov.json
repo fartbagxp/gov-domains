@@ -124,18 +124,6 @@
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "gms.rtls.va.gov",
     "name_value": "gms.rtls.va.gov",
-    "id": 25073294010,
-    "entry_timestamp": "2026-03-18T20:35:58.77",
-    "not_before": "2025-03-24T00:00:00",
-    "not_after": "2026-03-24T23:59:59",
-    "serial_number": "03f7cc9d02d1b8a9c7fb4369a2d2758c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "gms.rtls.va.gov",
-    "name_value": "gms.rtls.va.gov",
     "id": 25073288282,
     "entry_timestamp": "2026-03-18T20:35:40.353",
     "not_before": "2026-03-18T00:00:00",
@@ -250,18 +238,6 @@
     "not_after": "2026-09-23T23:59:59",
     "serial_number": "0a4beb96237412a5a3abc90f64a46851",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "escreening.va.gov",
-    "name_value": "escreening.va.gov\nssoe.escreening.va.gov\nvaww.escreening.va.gov",
-    "id": 24880258502,
-    "entry_timestamp": "2026-03-09T16:24:02.793",
-    "not_before": "2025-03-12T00:00:00",
-    "not_after": "2026-03-24T23:59:59",
-    "serial_number": "03bc8d9458b03f61d3e97d2a00446376",
-    "result_count": 4
   },
   {
     "issuer_ca_id": 185752,
@@ -1348,6 +1324,18 @@
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
     "common_name": "prod.dip.va.gov",
     "name_value": "awsgc.dip.va.gov\ndip.va.gov\nprod.dip.va.gov\nsalesforce.dip.va.gov\nsalesforce.lighthouse.va.gov\nwww.dip.va.gov",
+    "id": 23214868804,
+    "entry_timestamp": "2025-12-19T14:28:31.891",
+    "not_before": "2025-12-19T00:00:00",
+    "not_after": "2027-01-17T23:59:59",
+    "serial_number": "00d5d73c020af8a26b7a15232919ef6f27",
+    "result_count": 7
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "prod.dip.va.gov",
+    "name_value": "awsgc.dip.va.gov\ndip.va.gov\nprod.dip.va.gov\nsalesforce.dip.va.gov\nsalesforce.lighthouse.va.gov\nwww.dip.va.gov",
     "id": 23214866410,
     "entry_timestamp": "2025-12-19T14:28:29.609",
     "not_before": "2025-12-19T00:00:00",
@@ -1378,6 +1366,30 @@
     "not_after": "2026-12-16T23:59:59",
     "serial_number": "0d24de2b995ab44116a866264319c9b1",
     "result_count": 2
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "dev.dip.va.gov",
+    "name_value": "dev-awsgc.dip.va.gov\ndev-dip.va.gov\ndev.dip.va.gov\ndev-mpp.dip.va.gov\ndev-salesforce.dip.va.gov\ndev-salesforce.lighthouse.va.gov\nint-awsgc.dip.va.gov\nint-dip.va.gov\nint-mpp.dip.va.gov\nint-salesforce.dip.va.gov\nqa-awsgc.dip.va.gov\nqa-developer.dip.va.gov\nqa-dip.va.gov\nqa-mpp.dip.va.gov\nqa-salesforce.dip.va.gov\nqa-salesforce.lighthouse.va.gov\nsit-awsgc.dip.va.gov\nsit-dip.va.gov\nsit-mpp.dip.va.gov\nsit-salesforce.dip.va.gov\nstaging-awsgc.dip.va.gov\nstaging-developer.dip.va.gov\nstaging-dip.va.gov\nstaging-mpp.dip.va.gov\nstaging-salesforce.dip.va.gov\nstaging-salesforce.lighthouse.va.gov\nuat-salesforce.lighthouse.va.gov",
+    "id": 23162025533,
+    "entry_timestamp": "2025-12-16T19:38:02.995",
+    "not_before": "2025-12-16T00:00:00",
+    "not_after": "2027-01-11T23:59:59",
+    "serial_number": "6cd4261ed306b83be66b5ba8bf759f44",
+    "result_count": 28
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "dev.dip.va.gov",
+    "name_value": "dev-awsgc.dip.va.gov\ndev-dip.va.gov\ndev.dip.va.gov\ndev-mpp.dip.va.gov\ndev-salesforce.dip.va.gov\ndev-salesforce.lighthouse.va.gov\nint-awsgc.dip.va.gov\nint-dip.va.gov\nint-mpp.dip.va.gov\nint-salesforce.dip.va.gov\nqa-awsgc.dip.va.gov\nqa-developer.dip.va.gov\nqa-dip.va.gov\nqa-mpp.dip.va.gov\nqa-salesforce.dip.va.gov\nqa-salesforce.lighthouse.va.gov\nsit-awsgc.dip.va.gov\nsit-dip.va.gov\nsit-mpp.dip.va.gov\nsit-salesforce.dip.va.gov\nstaging-awsgc.dip.va.gov\nstaging-developer.dip.va.gov\nstaging-dip.va.gov\nstaging-mpp.dip.va.gov\nstaging-salesforce.dip.va.gov\nstaging-salesforce.lighthouse.va.gov\nuat-salesforce.lighthouse.va.gov",
+    "id": 23162026330,
+    "entry_timestamp": "2025-12-16T19:38:01.585",
+    "not_before": "2025-12-16T00:00:00",
+    "not_after": "2027-01-11T23:59:59",
+    "serial_number": "6cd4261ed306b83be66b5ba8bf759f44",
+    "result_count": 28
   },
   {
     "issuer_ca_id": 176211,
@@ -3706,6 +3718,18 @@
     "not_after": "2026-05-26T23:59:59",
     "serial_number": "06887beb61a433954119699ca6151b30",
     "result_count": 2
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "preprod.mvp-reef.va.gov",
+    "name_value": "preprod.mvp-reef.va.gov\nwww.dev.mvp-reef.va.gov\nwww.maveric.mvp-reef.va.gov\nwww.preprod.mvp-reef.va.gov\nwww.training.mvp-reef.va.gov",
+    "id": 19819781202,
+    "entry_timestamp": "2025-07-21T19:31:27.176",
+    "not_before": "2025-07-21T00:00:00",
+    "not_after": "2026-08-21T23:59:59",
+    "serial_number": "52d723177a2d2daf0fa4f2e17bcbd221",
+    "result_count": 6
   },
   {
     "issuer_ca_id": 204406,
@@ -6146,30 +6170,6 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "mfa-auth.va.gov",
-    "name_value": "mfa-auth.va.gov",
-    "id": 17394124954,
-    "entry_timestamp": "2025-03-25T13:17:35.745",
-    "not_before": "2025-03-25T00:00:00",
-    "not_after": "2026-03-24T23:59:59",
-    "serial_number": "0a240e3a4778e6e9f5bbe49182c18afc",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "gms.rtls.va.gov",
-    "name_value": "gms.rtls.va.gov",
-    "id": 17376419161,
-    "entry_timestamp": "2025-03-24T20:37:20.206",
-    "not_before": "2025-03-24T00:00:00",
-    "not_after": "2026-03-24T23:59:59",
-    "serial_number": "03f7cc9d02d1b8a9c7fb4369a2d2758c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "vacareers.va.gov",
     "name_value": "vacareers.va.gov\nwww.vacareers.va.gov",
     "id": 17375639119,
@@ -6190,30 +6190,6 @@
     "not_after": "2026-04-24T23:59:59",
     "serial_number": "0708f0b4c1461df8a9c1911082cd5502",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "mfa-auth-sandbox.va.gov",
-    "name_value": "mfa-auth-sandbox.va.gov",
-    "id": 17372847148,
-    "entry_timestamp": "2025-03-24T17:19:48.82",
-    "not_before": "2025-03-24T00:00:00",
-    "not_after": "2026-03-24T23:59:59",
-    "serial_number": "039ae217bb7024ec09714097320cdfac",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "mfa-auth-sandbox.va.gov",
-    "name_value": "mfa-auth-sandbox.va.gov",
-    "id": 17372767586,
-    "entry_timestamp": "2025-03-24T17:15:51.641",
-    "not_before": "2025-03-24T00:00:00",
-    "not_after": "2026-03-24T23:59:59",
-    "serial_number": "09020aa3b2ca0e6d8f56fa9b0a2a452c",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 185752,
@@ -6249,30 +6225,6 @@
     "not_before": "2025-03-19T00:00:00",
     "not_after": "2026-04-16T23:59:59",
     "serial_number": "096884e38cf2c9cda80e2b7f8fb6a84c",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "vac10mulspd252.spd.vaec.va.gov",
-    "name_value": "vac10mulspd252.spd.vaec.va.gov",
-    "id": 17188651436,
-    "entry_timestamp": "2025-03-17T18:35:49.051",
-    "not_before": "2025-03-17T00:00:00",
-    "not_after": "2026-03-24T23:59:59",
-    "serial_number": "07805ab217905ac0b999b9a2d6a16f7c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "escreening.va.gov",
-    "name_value": "escreening.va.gov\nssoe.escreening.va.gov\nvaww.escreening.va.gov",
-    "id": 17065976560,
-    "entry_timestamp": "2025-03-12T18:13:02.504",
-    "not_before": "2025-03-12T00:00:00",
-    "not_after": "2026-03-24T23:59:59",
-    "serial_number": "03bc8d9458b03f61d3e97d2a00446376",
     "result_count": 4
   },
   {
