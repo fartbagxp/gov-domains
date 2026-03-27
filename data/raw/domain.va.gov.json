@@ -1,5 +1,65 @@
 [
   {
+    "issuer_ca_id": 185748,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
+    "common_name": "apiroes01.va.gov",
+    "name_value": "apiroes01.va.gov",
+    "id": 25234508847,
+    "entry_timestamp": "2026-03-26T13:58:20.025",
+    "not_before": "2026-03-26T00:00:00",
+    "not_after": "2026-10-10T23:59:59",
+    "serial_number": "06d41daa8c9ff15736e39512d4aed3d9",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "www.csp.va.gov",
+    "name_value": "www.csp.va.gov",
+    "id": 25212496990,
+    "entry_timestamp": "2026-03-25T12:32:59.869",
+    "not_before": "2025-04-15T00:00:00",
+    "not_after": "2026-04-14T23:59:59",
+    "serial_number": "01eb5f3e127860403e52567f9529138b",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "www.csp.va.gov",
+    "name_value": "www.csp.va.gov",
+    "id": 25212494491,
+    "entry_timestamp": "2026-03-25T12:32:52.743",
+    "not_before": "2026-03-25T00:00:00",
+    "not_after": "2026-10-09T23:59:59",
+    "serial_number": "010d10b0f32612d9431e4e6b4c8bedd9",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "www.pre.csp.va.gov",
+    "name_value": "www.pre.csp.va.gov",
+    "id": 25212180779,
+    "entry_timestamp": "2026-03-25T12:11:00.713",
+    "not_before": "2026-03-25T00:00:00",
+    "not_after": "2026-10-09T23:59:59",
+    "serial_number": "056473db944e3d137aa923d4c9ad5ba3",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "www.pre.csp.va.gov",
+    "name_value": "www.pre.csp.va.gov",
+    "id": 25212169912,
+    "entry_timestamp": "2026-03-25T12:10:04.46",
+    "not_before": "2026-03-25T00:00:00",
+    "not_after": "2026-10-09T23:59:59",
+    "serial_number": "0d0c44de9038ca96f9241dac0d6ed97e",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "vethome.va.gov",
@@ -70,6 +130,18 @@
     "not_after": "2026-10-06T23:59:59",
     "serial_number": "0c166276163fb58bf5c33feb902c3a08",
     "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "yourit.va.gov",
+    "name_value": "yourit.va.gov",
+    "id": 25138590882,
+    "entry_timestamp": "2026-03-21T19:34:35.79",
+    "not_before": "2026-03-21T18:36:03",
+    "not_after": "2026-06-19T18:36:02",
+    "serial_number": "0615121ef89d4de45ed4fe3a160ac36d40ba",
+    "result_count": 2
   },
   {
     "issuer_ca_id": 295817,
@@ -513,6 +585,18 @@
     "not_before": "2026-02-16T00:00:00",
     "not_after": "2027-03-19T23:59:59",
     "serial_number": "032801cfb439ac15417e636750d0c53d",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "yourit-dev.va.gov",
+    "name_value": "yourit-dev.va.gov",
+    "id": 24405203273,
+    "entry_timestamp": "2026-02-14T12:29:18.367",
+    "not_before": "2026-02-14T11:30:48",
+    "not_after": "2026-05-15T11:30:47",
+    "serial_number": "05a1560c49703982ae70650b4d66c0541338",
     "result_count": 2
   },
   {
@@ -1101,6 +1185,18 @@
     "not_before": "2026-01-20T00:00:00",
     "not_after": "2027-01-19T23:59:59",
     "serial_number": "0f383a319e3cdde54bff967229d3c362",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "yourit.va.gov",
+    "name_value": "yourit.va.gov",
+    "id": 23884454134,
+    "entry_timestamp": "2026-01-20T17:29:43.256",
+    "not_before": "2026-01-20T16:31:12",
+    "not_after": "2026-04-20T16:31:11",
+    "serial_number": "05260f4eff7abf60df142d36a2cd388466c3",
     "result_count": 2
   },
   {
@@ -6046,78 +6142,6 @@
     "not_after": "2026-05-02T23:59:59",
     "serial_number": "00cf1ba3e33b719c4eaf7fd7566f6ed084",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "vbms-iler-prod.bip.va.gov",
-    "name_value": "vbms-iler-prod.bip.va.gov",
-    "id": 17449023767,
-    "entry_timestamp": "2025-03-27T19:40:21.86",
-    "not_before": "2025-03-27T00:00:00",
-    "not_after": "2026-03-26T23:59:59",
-    "serial_number": "0cb3da71c111e815079ef3c3647efcbd",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "vbms-iler-prodtest.bip.va.gov",
-    "name_value": "vbms-iler-prodtest.bip.va.gov",
-    "id": 17448920860,
-    "entry_timestamp": "2025-03-27T19:35:48.205",
-    "not_before": "2025-03-27T00:00:00",
-    "not_after": "2026-03-26T23:59:59",
-    "serial_number": "0657d298a5d7e87748eb7f203cfff7c4",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "www.shopvcs.va.gov",
-    "name_value": "shopvcs.va.gov\nwww.shopvcs.va.gov",
-    "id": 17443679846,
-    "entry_timestamp": "2025-03-27T13:59:59.129",
-    "not_before": "2025-03-27T00:00:00",
-    "not_after": "2026-03-26T23:59:59",
-    "serial_number": "0224d15b47c2377958035cf7aa8e1e96",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "www.shopvcs.va.gov",
-    "name_value": "shopvcs.va.gov\nwww.shopvcs.va.gov",
-    "id": 17441819408,
-    "entry_timestamp": "2025-03-27T12:22:16.231",
-    "not_before": "2025-03-27T00:00:00",
-    "not_after": "2026-03-26T23:59:59",
-    "serial_number": "0224d15b47c2377958035cf7aa8e1e96",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "preprod.services.vhb.va.gov",
-    "name_value": "preprod.services.vhb.va.gov",
-    "id": 17426027457,
-    "entry_timestamp": "2025-03-26T20:30:02.426",
-    "not_before": "2025-03-26T00:00:00",
-    "not_after": "2026-03-25T23:59:59",
-    "serial_number": "072e3b035c46071e49dc4539e934bb66",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "prod.services.vhb.va.gov",
-    "name_value": "prod.services.vhb.va.gov",
-    "id": 17425909789,
-    "entry_timestamp": "2025-03-26T20:22:15.848",
-    "not_before": "2025-03-26T00:00:00",
-    "not_after": "2026-03-25T23:59:59",
-    "serial_number": "08e2c8be9885ca3410f7449ab53f9e4e",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 185752,
