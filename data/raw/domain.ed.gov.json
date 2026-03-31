@@ -1,5 +1,65 @@
 [
   {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "oauth-openshift.apps.mgmt.cod.ed.gov",
+    "name_value": "oauth-openshift.apps.mgmt.cod.ed.gov",
+    "id": 25292377534,
+    "entry_timestamp": "2026-03-30T14:26:44.498",
+    "not_before": "2026-03-30T13:28:13",
+    "not_after": "2026-06-28T13:28:12",
+    "serial_number": "05085f2a3ecb5d9c6be1415e16d4f245a4a9",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "*.cod.atagc.com",
+    "name_value": "*.test.cod.ed.gov",
+    "id": 25286699517,
+    "entry_timestamp": "2026-03-30T14:22:17.206",
+    "not_before": "2026-03-30T13:23:47",
+    "not_after": "2026-06-28T13:23:46",
+    "serial_number": "060ff823dd4b5ecdb508e08f003a4688844f",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "console-openshift-console.apps.mgmt.cod.ed.gov",
+    "name_value": "console-openshift-console.apps.mgmt.cod.ed.gov",
+    "id": 25286647542,
+    "entry_timestamp": "2026-03-30T14:13:49.007",
+    "not_before": "2026-03-30T13:15:18",
+    "not_after": "2026-06-28T13:15:17",
+    "serial_number": "057a938eda6d69d9fe88bdbe6e835b575131",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "console-openshift-console.apps.mgmt.cod.ed.gov",
+    "name_value": "console-openshift-console.apps.mgmt.cod.ed.gov",
+    "id": 25292199584,
+    "entry_timestamp": "2026-03-30T14:09:50.498",
+    "not_before": "2026-03-30T13:11:20",
+    "not_after": "2026-06-28T13:11:19",
+    "serial_number": "064c80a142b20d7da5a2744b03216836d23c",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "*.apps.mgmt.cod.ed.gov",
+    "name_value": "*.apps.mgmt.cod.ed.gov",
+    "id": 25286615253,
+    "entry_timestamp": "2026-03-30T14:09:49.807",
+    "not_before": "2026-03-30T13:11:19",
+    "not_after": "2026-06-28T13:11:18",
+    "serial_number": "069cda27496c286b5ac56fa5d46e02d381b4",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "ocrcas.ed.gov",
@@ -3969,30 +4029,6 @@
     "not_before": "2025-12-27T00:00:00",
     "not_after": "2026-04-14T23:59:59",
     "serial_number": "06936d50bd0784ae82112cc49ff27263",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "*.edmaps.atagc.com",
-    "name_value": "*.apps.test.edmaps.ed.gov\n*.test.edmaps.ed.gov",
-    "id": 23442398935,
-    "entry_timestamp": "2025-12-29T21:10:22.662",
-    "not_before": "2025-12-29T20:11:50",
-    "not_after": "2026-03-29T20:11:49",
-    "serial_number": "054a84fce4844b8f390e461f1bd0168de4d6",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "*.edmaps.atagc.com",
-    "name_value": "*.apps.test.edmaps.ed.gov\n*.test.edmaps.ed.gov",
-    "id": 23442381433,
-    "entry_timestamp": "2025-12-29T21:10:20.523",
-    "not_before": "2025-12-29T20:11:50",
-    "not_after": "2026-03-29T20:11:49",
-    "serial_number": "054a84fce4844b8f390e461f1bd0168de4d6",
     "result_count": 2
   },
   {
