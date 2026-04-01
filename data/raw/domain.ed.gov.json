@@ -1,5 +1,89 @@
 [
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "ocrdata.ed.gov",
+    "name_value": "civilrightsdata.ed.gov\nocrdata.ed.gov\nocrdataweb.ed.gov",
+    "id": 25298668029,
+    "entry_timestamp": "2026-03-31T15:32:30.913",
+    "not_before": "2026-03-31T00:00:00",
+    "not_after": "2026-10-15T23:59:59",
+    "serial_number": "0fd634451599b44bd8f0b20648df15ab",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "ocrcas.ed.gov",
+    "name_value": "ocrcas.ed.gov\nocrcasweb.ed.gov",
+    "id": 25298650323,
+    "entry_timestamp": "2026-03-31T15:31:31.609",
+    "not_before": "2026-03-31T00:00:00",
+    "not_after": "2026-10-15T23:59:59",
+    "serial_number": "01457eaf67962ac1cdcbbfd3081e4557",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "gaann.ed.gov",
+    "name_value": "gaann.ed.gov\ngaannweb.ed.gov",
+    "id": 25295192233,
+    "entry_timestamp": "2026-03-31T12:52:32.501",
+    "not_before": "2026-03-31T00:00:00",
+    "not_after": "2026-10-15T23:59:59",
+    "serial_number": "0a28e77d7271332e0e220ed906c8cf75",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "edfacts.ed.gov",
+    "name_value": "api.edpass.ed.gov\neden.ed.gov\nedfacts.ed.gov\nedpass.ed.gov\nemaps.ed.gov",
+    "id": 25295154450,
+    "entry_timestamp": "2026-03-31T12:49:38.617",
+    "not_before": "2026-03-31T00:00:00",
+    "not_after": "2026-10-15T23:59:59",
+    "serial_number": "0dd200c3ad323de84e8e305a8defb1c8",
+    "result_count": 6
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "data.ed.gov",
+    "name_value": "data.ed.gov\ndataweb.ed.gov\nwww.data.ed.gov",
+    "id": 25295002141,
+    "entry_timestamp": "2026-03-31T12:42:13.437",
+    "not_before": "2026-03-31T00:00:00",
+    "not_after": "2026-10-15T23:59:59",
+    "serial_number": "0ef8806d31e9416999130d0d06aa5bd0",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "comps.ed.gov",
+    "name_value": "comps.ed.gov\ncompsweb.ed.gov",
+    "id": 25294619235,
+    "entry_timestamp": "2026-03-31T12:28:57.733",
+    "not_before": "2026-03-31T00:00:00",
+    "not_after": "2026-10-15T23:59:59",
+    "serial_number": "0bcd7972aeb6571a21ee504e5dda6aa8",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "community.lincs.ed.gov",
+    "name_value": "community.lincs.ed.gov",
+    "id": 25300870033,
+    "entry_timestamp": "2026-03-31T05:41:17.497",
+    "not_before": "2026-03-31T04:42:47",
+    "not_after": "2026-06-29T04:42:46",
+    "serial_number": "06007ed764f85acf245c30321b98e22878e2",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 295816,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "oauth-openshift.apps.mgmt.cod.ed.gov",
@@ -22,6 +106,18 @@
     "not_after": "2026-06-28T13:23:46",
     "serial_number": "060ff823dd4b5ecdb508e08f003a4688844f",
     "result_count": 1
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "*.apps.mgmt.cod.ed.gov",
+    "name_value": "*.apps.mgmt.cod.ed.gov",
+    "id": 25293859626,
+    "entry_timestamp": "2026-03-30T14:13:49.151",
+    "not_before": "2026-03-30T13:15:18",
+    "not_after": "2026-06-28T13:15:17",
+    "serial_number": "063c9a36de2bfdf267828f9b2ad92ac97343",
+    "result_count": 2
   },
   {
     "issuer_ca_id": 295816,
@@ -2350,30 +2446,6 @@
     "not_after": "2026-05-11T17:12:42",
     "serial_number": "05298a3e36f6561af05031baaf991589e957",
     "result_count": 4
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "*.cod.atagc.com",
-    "name_value": "*.test.cod.ed.gov",
-    "id": 24315185000,
-    "entry_timestamp": "2026-02-10T18:02:55.62",
-    "not_before": "2026-02-10T17:04:21",
-    "not_after": "2026-05-11T17:04:20",
-    "serial_number": "05cc15ac850033986c19b449bd7e0c231c55",
-    "result_count": 1
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "*.cod.atagc.com",
-    "name_value": "*.test.cod.ed.gov",
-    "id": 24315153020,
-    "entry_timestamp": "2026-02-10T18:02:51.523",
-    "not_before": "2026-02-10T17:04:21",
-    "not_after": "2026-05-11T17:04:20",
-    "serial_number": "05cc15ac850033986c19b449bd7e0c231c55",
-    "result_count": 1
   },
   {
     "issuer_ca_id": 295816,
