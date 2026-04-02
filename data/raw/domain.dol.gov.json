@@ -1,5 +1,77 @@
 [
   {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "unemployment.dol.gov",
+    "name_value": "unemployment.dol.gov\nwww.unemployment.dol.gov",
+    "id": 25300110500,
+    "entry_timestamp": "2026-03-31T16:35:51.726",
+    "not_before": "2026-03-30T00:00:00",
+    "not_after": "2026-10-13T23:59:59",
+    "serial_number": "045e1cab4ee8c593095cef139e92ac6f",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "*.test.pace.dol.gov",
+    "name_value": "*.test.pace.dol.gov",
+    "id": 25296250540,
+    "entry_timestamp": "2026-03-31T13:40:29.804",
+    "not_before": "2026-03-31T00:00:00",
+    "not_after": "2026-10-14T23:59:59",
+    "serial_number": "0af6adb25d392ae3650bf37f7e9f4a27",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "*.dev.pace.dol.gov",
+    "name_value": "*.dev.pace.dol.gov",
+    "id": 25296182011,
+    "entry_timestamp": "2026-03-31T13:36:18.229",
+    "not_before": "2026-03-31T00:00:00",
+    "not_after": "2026-10-14T23:59:59",
+    "serial_number": "02e8f53d0da789989dd8919c32118fa0",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "unemployment.dol.gov",
+    "name_value": "unemployment.dol.gov\nwww.unemployment.dol.gov",
+    "id": 25276386747,
+    "entry_timestamp": "2026-03-30T04:26:21.261",
+    "not_before": "2026-03-30T00:00:00",
+    "not_after": "2026-10-13T23:59:59",
+    "serial_number": "045e1cab4ee8c593095cef139e92ac6f",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "efile.dev.pace.dol.gov",
+    "name_value": "efile.dev.pace.dol.gov",
+    "id": 25293153101,
+    "entry_timestamp": "2026-03-28T17:43:25.68",
+    "not_before": "2026-03-28T16:41:51",
+    "not_after": "2026-06-26T16:41:50",
+    "serial_number": "0694d19baf6570140af761c9ce7a1706635b",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "efile.dev.pace.dol.gov",
+    "name_value": "efile.dev.pace.dol.gov",
+    "id": 25269642432,
+    "entry_timestamp": "2026-03-28T17:40:21.399",
+    "not_before": "2026-03-28T16:41:51",
+    "not_after": "2026-06-26T16:41:50",
+    "serial_number": "0694d19baf6570140af761c9ce7a1706635b",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 246719,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "mims.dol.gov",
@@ -1161,18 +1233,6 @@
     "not_before": "2026-03-11T00:00:00",
     "not_after": "2027-04-11T23:59:59",
     "serial_number": "7a5252dbee7fc9dec2bc9631cdfd851e",
-    "result_count": 6
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "jira.dol.gov",
-    "name_value": "jira-dev.dol.gov\njira.dol.gov\njira-rnd.dol.gov\njira-test.dol.gov\nwww.jira.dol.gov",
-    "id": 24924010596,
-    "entry_timestamp": "2026-03-11T16:02:02.017",
-    "not_before": "2025-03-14T18:53:01",
-    "not_after": "2026-03-29T10:30:42",
-    "serial_number": "5f92b7be979908089c6705e71e87e6d9",
     "result_count": 6
   },
   {
@@ -3928,18 +3988,6 @@
     "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
     "common_name": "sem.dol.gov",
     "name_value": "sem.dol.gov\nwww.sem.dol.gov",
-    "id": 24388597001,
-    "entry_timestamp": "2026-02-13T18:59:31.318",
-    "not_before": "2026-02-03T14:08:37",
-    "not_after": "2026-03-30T18:35:01",
-    "serial_number": "5a3d264c0f049539",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 904,
-    "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
-    "common_name": "sem.dol.gov",
-    "name_value": "sem.dol.gov\nwww.sem.dol.gov",
     "id": 24388582184,
     "entry_timestamp": "2026-02-13T18:56:42.324",
     "not_before": "2026-02-13T18:56:41",
@@ -4716,18 +4764,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 904,
-    "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
-    "common_name": "sem.dol.gov",
-    "name_value": "sem.dol.gov\nwww.sem.dol.gov",
-    "id": 24160183112,
-    "entry_timestamp": "2026-02-03T14:08:38.94",
-    "not_before": "2026-02-03T14:08:37",
-    "not_after": "2026-03-30T18:35:01",
-    "serial_number": "5a3d264c0f049539",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 295816,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "flag.dol.gov",
@@ -4798,18 +4834,6 @@
     "not_after": "2026-05-01T21:02:36",
     "serial_number": "05b109c29579f7c1828c14dfac473e3be183",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "uirs.oui.eta.dol.gov",
-    "name_value": "uirs.oui.eta.dol.gov",
-    "id": 24091665896,
-    "entry_timestamp": "2026-01-31T03:57:55.566",
-    "not_before": "2025-03-02T00:00:00",
-    "not_after": "2026-03-31T23:59:59",
-    "serial_number": "07fb88539d6a525c3b356c4fb4294579",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 247119,
@@ -5940,30 +5964,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "service.dol.gov",
-    "name_value": "service.dol.gov",
-    "id": 23480702734,
-    "entry_timestamp": "2025-12-31T17:59:35.728",
-    "not_before": "2025-12-31T17:01:04",
-    "not_after": "2026-03-31T17:01:03",
-    "serial_number": "05cd1360f3c80c44d652950815fd464a1767",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "service.dol.gov",
-    "name_value": "service.dol.gov",
-    "id": 23480683266,
-    "entry_timestamp": "2025-12-31T17:59:35.114",
-    "not_before": "2025-12-31T17:01:04",
-    "not_after": "2026-03-31T17:01:03",
-    "serial_number": "05cd1360f3c80c44d652950815fd464a1767",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 385512,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
     "common_name": "202512142100-smtp.test.dol.gov",
@@ -6225,54 +6225,6 @@
     "not_before": "2025-12-31T00:00:00",
     "not_after": "2027-01-31T23:59:59",
     "serial_number": "00e237538129ce5f15a45a76d1004c0d42",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "stage.beta.dol.gov",
-    "name_value": "stage.beta.dol.gov",
-    "id": 23476742562,
-    "entry_timestamp": "2025-12-31T13:19:54.269",
-    "not_before": "2025-12-31T12:21:19",
-    "not_after": "2026-03-31T12:21:18",
-    "serial_number": "068381fbd0402dda13514163fd8c8cb27168",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "stage.beta.dol.gov",
-    "name_value": "stage.beta.dol.gov",
-    "id": 23476731779,
-    "entry_timestamp": "2025-12-31T13:19:49.83",
-    "not_before": "2025-12-31T12:21:19",
-    "not_after": "2026-03-31T12:21:18",
-    "serial_number": "068381fbd0402dda13514163fd8c8cb27168",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "edit.stage.beta.dol.gov",
-    "name_value": "edit.stage.beta.dol.gov",
-    "id": 23476740298,
-    "entry_timestamp": "2025-12-31T13:19:49.722",
-    "not_before": "2025-12-31T12:21:19",
-    "not_after": "2026-03-31T12:21:18",
-    "serial_number": "05a95a80232f35700609fc1793e773cc5d4e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "edit.stage.beta.dol.gov",
-    "name_value": "edit.stage.beta.dol.gov",
-    "id": 23476731922,
-    "entry_timestamp": "2025-12-31T13:19:49.5",
-    "not_before": "2025-12-31T12:21:19",
-    "not_after": "2026-03-31T12:21:18",
-    "serial_number": "05a95a80232f35700609fc1793e773cc5d4e",
     "result_count": 2
   },
   {
@@ -13298,18 +13250,6 @@
   {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "jira.dol.gov",
-    "name_value": "jira-dev.dol.gov\njira.dol.gov\njira-rnd.dol.gov\njira-test.dol.gov\nwww.jira.dol.gov",
-    "id": 17114264347,
-    "entry_timestamp": "2025-03-14T19:03:02.937",
-    "not_before": "2025-03-14T18:53:01",
-    "not_after": "2026-03-29T10:30:42",
-    "serial_number": "5f92b7be979908089c6705e71e87e6d9",
-    "result_count": 6
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "confluence.dol.gov",
     "name_value": "confluence-dev.dol.gov\nconfluence.dol.gov\nconfluence-rnd.dol.gov\nconfluence-test.dol.gov\nwww.confluence.dol.gov",
     "id": 17114124287,
@@ -13558,17 +13498,5 @@
     "not_after": "2026-04-03T04:00:00",
     "serial_number": "595c7d8d90cc7f21ec094b6d66ad93f7",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "uirs.oui.eta.dol.gov",
-    "name_value": "uirs.oui.eta.dol.gov",
-    "id": 16914242668,
-    "entry_timestamp": "2025-03-02T08:36:24.967",
-    "not_before": "2025-03-02T00:00:00",
-    "not_after": "2026-03-31T23:59:59",
-    "serial_number": "07fb88539d6a525c3b356c4fb4294579",
-    "result_count": 2
   }
 ]
