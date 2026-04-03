@@ -2,6 +2,66 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "cmts.ed.gov",
+    "name_value": "cmts.ed.gov",
+    "id": 25309363967,
+    "entry_timestamp": "2026-04-01T13:40:56.475",
+    "not_before": "2026-04-01T00:00:00",
+    "not_after": "2026-10-16T23:59:59",
+    "serial_number": "0c0d4668385246c87c59c87d68d95845",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "dmcseddebt.ed.gov",
+    "name_value": "dmcseddebt.ed.gov\nmyeddebt.ed.gov\nreports.dmcseddebt.ed.gov\nvipssp.dmcseddebt.ed.gov",
+    "id": 25310867410,
+    "entry_timestamp": "2026-04-01T13:28:27.044",
+    "not_before": "2026-04-01T00:00:00",
+    "not_after": "2026-10-16T23:59:59",
+    "serial_number": "0d305589b78f219a2686cb8244ac0101",
+    "result_count": 5
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "trio.ed.gov",
+    "name_value": "trio.ed.gov\ntrioweb.ed.gov",
+    "id": 25310359825,
+    "entry_timestamp": "2026-04-01T12:38:28.283",
+    "not_before": "2026-04-01T00:00:00",
+    "not_after": "2026-10-16T23:59:59",
+    "serial_number": "0f9f22ad53544931c15bdfebfad7404b",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "title2.ed.gov",
+    "name_value": "title2.ed.gov\ntitle2web.ed.gov",
+    "id": 25312182985,
+    "entry_timestamp": "2026-04-01T12:37:11.933",
+    "not_before": "2026-04-01T00:00:00",
+    "not_after": "2026-10-16T23:59:59",
+    "serial_number": "09feb4dde0832b1eae79e8a50e0f3479",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "rsa.ed.gov",
+    "name_value": "rsa.ed.gov\nrsaweb.ed.gov",
+    "id": 25312169364,
+    "entry_timestamp": "2026-04-01T12:35:59.856",
+    "not_before": "2026-04-01T00:00:00",
+    "not_after": "2026-10-16T23:59:59",
+    "serial_number": "027a03bbd171304e6a1ebc47794ce166",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "ocrdata.ed.gov",
     "name_value": "civilrightsdata.ed.gov\nocrdata.ed.gov\nocrdataweb.ed.gov",
     "id": 25298668029,
@@ -81,6 +141,18 @@
     "not_before": "2026-03-31T04:42:47",
     "not_after": "2026-06-29T04:42:46",
     "serial_number": "06007ed764f85acf245c30321b98e22878e2",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "oauth-openshift.apps.mgmt.cod.ed.gov",
+    "name_value": "oauth-openshift.apps.mgmt.cod.ed.gov",
+    "id": 25326307791,
+    "entry_timestamp": "2026-03-30T14:28:48.284",
+    "not_before": "2026-03-30T13:28:13",
+    "not_after": "2026-06-28T13:28:12",
+    "serial_number": "05085f2a3ecb5d9c6be1415e16d4f245a4a9",
     "result_count": 2
   },
   {
@@ -2446,6 +2518,30 @@
     "not_after": "2026-05-11T17:12:42",
     "serial_number": "05298a3e36f6561af05031baaf991589e957",
     "result_count": 4
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "*.cod.atagc.com",
+    "name_value": "*.test.cod.ed.gov",
+    "id": 24315185000,
+    "entry_timestamp": "2026-02-10T18:02:55.62",
+    "not_before": "2026-02-10T17:04:21",
+    "not_after": "2026-05-11T17:04:20",
+    "serial_number": "05cc15ac850033986c19b449bd7e0c231c55",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "*.cod.atagc.com",
+    "name_value": "*.test.cod.ed.gov",
+    "id": 24315153020,
+    "entry_timestamp": "2026-02-10T18:02:51.523",
+    "not_before": "2026-02-10T17:04:21",
+    "not_after": "2026-05-11T17:04:20",
+    "serial_number": "05cc15ac850033986c19b449bd7e0c231c55",
+    "result_count": 1
   },
   {
     "issuer_ca_id": 295816,

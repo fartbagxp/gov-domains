@@ -1,11 +1,35 @@
 [
   {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "usgs.gov",
+    "name_value": "usgs.gov",
+    "id": 25319906072,
+    "entry_timestamp": "2026-04-03T00:07:16.945",
+    "not_before": "2026-04-02T21:44:05",
+    "not_after": "2026-07-01T22:44:02",
+    "serial_number": "008ef7db2357bd97b8136a6cd00680e3aa",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "*.ghsc-cdk-development.cloud.usgs.gov",
+    "name_value": "*.ghsc-cdk-development.cloud.usgs.gov",
+    "id": 25318882706,
+    "entry_timestamp": "2026-04-02T03:47:17.122",
+    "not_before": "2026-04-02T00:00:00",
+    "not_after": "2026-10-16T23:59:59",
+    "serial_number": "0ea8bda9d89fd25eb0fa90554b10067d",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 295816,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "api.water.usgs.gov",
     "name_value": "api.water.usgs.gov",
     "id": 25283019075,
-    "entry_timestamp": "2026-03-28T20:21:36.522",
+    "entry_timestamp": "2026-03-28T20:19:27.594",
     "not_before": "2026-03-28T19:20:55",
     "not_after": "2026-06-26T19:20:54",
     "serial_number": "065ae1885358ce05f21f47e0527c6d45370f",
@@ -501,6 +525,18 @@
     "not_before": "2026-02-17T00:14:44",
     "not_after": "2026-05-18T00:14:43",
     "serial_number": "06dde7af8337ba7f3bbb0e0295c9d3cc7aa5",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "hrms.usgs.gov",
+    "name_value": "hrms.usgs.gov",
+    "id": 24237634945,
+    "entry_timestamp": "2026-02-07T05:29:12.681",
+    "not_before": "2026-02-07T04:30:39",
+    "not_after": "2026-05-08T04:30:38",
+    "serial_number": "06751dc4634c0c06c57a427a7350c6bcb2eb",
     "result_count": 2
   },
   {
@@ -1065,18 +1101,6 @@
     "not_before": "2025-12-04T00:00:00",
     "not_after": "2027-01-04T23:59:59",
     "serial_number": "0aa9039ba8ce8f702e9cf793303e2089",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "www.cerc.usgs.gov",
-    "name_value": "cerc.usgs.gov\nwww.cerc.usgs.gov",
-    "id": 22510762079,
-    "entry_timestamp": "2025-11-16T11:44:13.722",
-    "not_before": "2025-03-03T00:00:00",
-    "not_after": "2026-04-01T23:59:59",
-    "serial_number": "0e6bb24b05ee00ad92349e4f5acbb83c",
     "result_count": 3
   },
   {
@@ -4281,18 +4305,6 @@
     "not_before": "2025-04-07T00:00:00",
     "not_after": "2026-05-06T23:59:59",
     "serial_number": "027b6d459c373106a400f7d4587dc164",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "www.cerc.usgs.gov",
-    "name_value": "cerc.usgs.gov\nwww.cerc.usgs.gov",
-    "id": 16940159837,
-    "entry_timestamp": "2025-03-03T21:08:10.301",
-    "not_before": "2025-03-03T00:00:00",
-    "not_after": "2026-04-01T23:59:59",
-    "serial_number": "0e6bb24b05ee00ad92349e4f5acbb83c",
     "result_count": 3
   }
 ]

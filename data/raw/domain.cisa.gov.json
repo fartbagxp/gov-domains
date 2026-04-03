@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 185748,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
+    "common_name": "www3.dhs.gov",
+    "name_value": "cisa.gov\npreview.cisa.gov\nstaging.cisa.gov\ntripwire.cisa.gov\nus-cert.cisa.gov\nwww.us-cert.cisa.gov",
+    "id": 25313011763,
+    "entry_timestamp": "2026-04-01T13:55:27.369",
+    "not_before": "2026-04-01T00:00:00",
+    "not_after": "2026-10-16T23:59:59",
+    "serial_number": "0c9abd73d170ce23f99fda9cc8b6633d",
+    "result_count": 6
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "www3.dhs.gov",
+    "name_value": "cisa.gov\npreview.cisa.gov\nstaging.cisa.gov\ntripwire.cisa.gov\nus-cert.cisa.gov\nwww.us-cert.cisa.gov",
+    "id": 25311199298,
+    "entry_timestamp": "2026-04-01T13:53:03.624",
+    "not_before": "2026-04-01T00:00:00",
+    "not_after": "2026-10-16T23:59:59",
+    "serial_number": "0a971fd717db8bca234b6e393dd8f5d4",
+    "result_count": 6
+  },
+  {
     "issuer_ca_id": 204407,
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
     "common_name": "protectivedns.cisa.gov",
@@ -1221,78 +1245,6 @@
     "not_before": "2026-01-04T07:45:43",
     "not_after": "2026-04-04T08:44:26",
     "serial_number": "00bbe269e925bfd35f0e05886586acd6ce",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "myservices.cisa.gov",
-    "name_value": "myservices.cisa.gov",
-    "id": 23521098310,
-    "entry_timestamp": "2026-01-02T22:29:13.295",
-    "not_before": "2026-01-02T21:30:41",
-    "not_after": "2026-04-02T21:30:40",
-    "serial_number": "062b270eeb93b9e7e7268e02420f9fbe7e53",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "myservices.cisa.gov",
-    "name_value": "myservices.cisa.gov",
-    "id": 23521082968,
-    "entry_timestamp": "2026-01-02T22:29:12.276",
-    "not_before": "2026-01-02T21:30:41",
-    "not_after": "2026-04-02T21:30:40",
-    "serial_number": "062b270eeb93b9e7e7268e02420f9fbe7e53",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204407,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
-    "common_name": "connect.cisa.gov",
-    "name_value": "*.connect.cisa.gov\nconnect.cisa.gov",
-    "id": 23504819276,
-    "entry_timestamp": "2026-01-02T01:32:51.423",
-    "not_before": "2026-01-02T00:00:00",
-    "not_after": "2026-04-02T01:23:20",
-    "serial_number": "2fa1136577053faa2878331d8f9c4d9b",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204407,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
-    "common_name": "connect.cisa.gov",
-    "name_value": "*.connect.cisa.gov\nconnect.cisa.gov",
-    "id": 23504818150,
-    "entry_timestamp": "2026-01-02T01:32:50.466",
-    "not_before": "2026-01-02T00:00:00",
-    "not_after": "2026-04-02T01:23:20",
-    "serial_number": "2fa1136577053faa2878331d8f9c4d9b",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "connect.cisa.gov",
-    "name_value": "*.connect.cisa.gov\nconnect.cisa.gov",
-    "id": 23504696660,
-    "entry_timestamp": "2026-01-02T01:23:08.03",
-    "not_before": "2026-01-02T00:00:00",
-    "not_after": "2026-04-02T01:19:20",
-    "serial_number": "210f0e54f12267fdbf6f2fb6aada283f",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "connect.cisa.gov",
-    "name_value": "*.connect.cisa.gov\nconnect.cisa.gov",
-    "id": 23504696032,
-    "entry_timestamp": "2026-01-02T01:23:06.538",
-    "not_before": "2026-01-02T00:00:00",
-    "not_after": "2026-04-02T01:19:20",
-    "serial_number": "210f0e54f12267fdbf6f2fb6aada283f",
     "result_count": 3
   },
   {

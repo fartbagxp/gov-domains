@@ -1,5 +1,41 @@
 [
   {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "flag.dol.gov",
+    "name_value": "api.seasonaljobs.dol.gov\nedit.flag.dol.gov\nflag.dol.gov\nprod.api.datahub.dol.gov\nseasonaljobs.dol.gov",
+    "id": 25326877924,
+    "entry_timestamp": "2026-04-02T22:24:17.701",
+    "not_before": "2026-04-02T21:25:47",
+    "not_after": "2026-07-01T21:25:46",
+    "serial_number": "068a030bbe4644296d3aaf154b5d3902118a",
+    "result_count": 6
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "staging.ofccptraining.dol.gov",
+    "name_value": "ofccptraining.staging.pace.dol.gov\nstaging.ofccptraining.dol.gov",
+    "id": 25313711359,
+    "entry_timestamp": "2026-04-02T18:35:00.53",
+    "not_before": "2026-04-02T17:36:30",
+    "not_after": "2026-07-01T17:36:29",
+    "serial_number": "069f8baf5cb3262b60c930cb06745a58d3f6",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "oshasbdev.dol.gov",
+    "name_value": "oshasbdev.dol.gov",
+    "id": 25309543116,
+    "entry_timestamp": "2026-04-01T14:06:28.96",
+    "not_before": "2026-04-01T00:00:00",
+    "not_after": "2026-10-15T23:59:59",
+    "serial_number": "0b59c55f2b051f589aaf9581b0e5b4f4",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "unemployment.dol.gov",
@@ -53,7 +89,7 @@
     "common_name": "efile.dev.pace.dol.gov",
     "name_value": "efile.dev.pace.dol.gov",
     "id": 25293153101,
-    "entry_timestamp": "2026-03-28T17:43:25.68",
+    "entry_timestamp": "2026-03-28T17:40:21.534",
     "not_before": "2026-03-28T16:41:51",
     "not_after": "2026-06-26T16:41:50",
     "serial_number": "0694d19baf6570140af761c9ce7a1706635b",
@@ -13358,18 +13394,6 @@
   {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "*.dol.gov",
-    "name_value": "*.dol.gov\ndol.gov",
-    "id": 17020995606,
-    "entry_timestamp": "2025-03-11T17:48:02.418",
-    "not_before": "2025-03-03T17:05:36",
-    "not_after": "2026-04-03T04:00:00",
-    "serial_number": "595c7d8d90cc7f21ec094b6d66ad93f7",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "202503110100-cas.dol.gov",
     "name_value": "202503110100-cas.dol.gov\ncasdc1.dol.gov\ncasdc2.dol.gov\ncas.dol.gov\nmail.dol.gov\nwww.202503110100-cas.dol.gov",
     "id": 17020947854,
@@ -13485,18 +13509,6 @@
     "not_before": "2025-03-04T13:26:05",
     "not_after": "2026-04-04T04:00:00",
     "serial_number": "7ff09128cc0d0f48eff355ce16bfee47",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "*.dol.gov",
-    "name_value": "*.dol.gov\ndol.gov",
-    "id": 16937998469,
-    "entry_timestamp": "2025-03-03T17:15:37.329",
-    "not_before": "2025-03-03T17:05:36",
-    "not_after": "2026-04-03T04:00:00",
-    "serial_number": "595c7d8d90cc7f21ec094b6d66ad93f7",
     "result_count": 3
   }
 ]
