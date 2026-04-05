@@ -1,5 +1,17 @@
 [
   {
+    "issuer_ca_id": 282054,
+    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
+    "common_name": "atf.gov",
+    "name_value": "*.atf.gov\natf.gov\n*.itds-datapush-ws.atf.gov\n*.itds-eventexchange-ws.atf.gov\n*.pilot.atf.gov",
+    "id": 25341645392,
+    "entry_timestamp": "2026-04-03T00:45:16.903",
+    "not_before": "2026-04-02T23:39:49",
+    "not_after": "2026-10-18T23:39:48",
+    "serial_number": "036c48652b17cef17cbb6ec4d14ecdf4",
+    "result_count": 6
+  },
+  {
     "issuer_ca_id": 295816,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "regulations.atf.gov",
@@ -22,18 +34,6 @@
     "not_after": "2026-06-28T18:21:15",
     "serial_number": "05bee584bdd02e83015d49d6d15d1acbe314",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "geep-survey.atf.gov",
-    "name_value": "geep-survey.atf.gov\nwww.geep-survey.atf.gov",
-    "id": 25197505566,
-    "entry_timestamp": "2026-03-24T18:21:22.756",
-    "not_before": "2025-03-12T20:28:13",
-    "not_after": "2026-04-04T15:29:43",
-    "serial_number": "7f46cc3084232d171e09c7271c539d08",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 385512,
@@ -1389,18 +1389,6 @@
     "not_before": "2025-04-29T16:48:00",
     "not_after": "2026-05-06T10:01:05",
     "serial_number": "40ee10f923df0465566b95bf0fd727bb",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "geep-survey.atf.gov",
-    "name_value": "geep-survey.atf.gov\nwww.geep-survey.atf.gov",
-    "id": 17068392991,
-    "entry_timestamp": "2025-03-12T20:38:15.26",
-    "not_before": "2025-03-12T20:28:13",
-    "not_after": "2026-04-04T15:29:43",
-    "serial_number": "7f46cc3084232d171e09c7271c539d08",
     "result_count": 3
   }
 ]

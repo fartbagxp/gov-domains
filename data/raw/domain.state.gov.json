@@ -2,6 +2,18 @@
   {
     "issuer_ca_id": 295809,
     "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
+    "common_name": "dev.geodata.state.gov",
+    "name_value": "dev.geodata.state.gov",
+    "id": 25356366238,
+    "entry_timestamp": "2026-04-05T02:15:19.329",
+    "not_before": "2026-04-05T01:16:48",
+    "not_after": "2026-07-04T01:16:47",
+    "serial_number": "059f41a1a16b0f4efc01a26514a15124d1ec",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295809,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
     "common_name": "step.state.gov",
     "name_value": "step.state.gov",
     "id": 25341594172,
@@ -41,7 +53,7 @@
     "common_name": "asiv.cfa.state.gov",
     "name_value": "asiv.cfa.state.gov",
     "id": 25337006580,
-    "entry_timestamp": "2026-04-02T17:53:27.654",
+    "entry_timestamp": "2026-04-02T17:52:10.498",
     "not_before": "2026-04-02T00:00:00",
     "not_after": "2026-10-17T23:59:59",
     "serial_number": "0e76e53681e979c6e22045c8804ae4b8",
@@ -53,7 +65,7 @@
     "common_name": "gclo.state.gov",
     "name_value": "gclo.state.gov",
     "id": 25342855133,
-    "entry_timestamp": "2026-04-02T11:05:43.858",
+    "entry_timestamp": "2026-04-02T11:03:41.801",
     "not_before": "2026-04-02T10:05:11",
     "not_after": "2026-07-01T10:05:10",
     "serial_number": "059f05db5f3b0f344c837b715eec3c819f56",
@@ -65,10 +77,22 @@
     "common_name": "gclo.state.gov",
     "name_value": "gclo.state.gov",
     "id": 25308497672,
-    "entry_timestamp": "2026-04-02T11:03:41.53",
+    "entry_timestamp": "2026-04-02T11:03:41.415",
     "not_before": "2026-04-02T10:05:11",
     "not_after": "2026-07-01T10:05:10",
     "serial_number": "059f05db5f3b0f344c837b715eec3c819f56",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "adoptionusca.state.gov",
+    "name_value": "adoptionusca.state.gov",
+    "id": 25354118958,
+    "entry_timestamp": "2026-04-02T03:56:11.487",
+    "not_before": "2025-04-02T00:00:00",
+    "not_after": "2026-04-16T23:59:59",
+    "serial_number": "0dbfda8024a2c54acdd74b0a7dd7e08f",
     "result_count": 2
   },
   {
@@ -274,6 +298,18 @@
     "not_after": "2026-10-14T23:59:59",
     "serial_number": "0caef8c8c821d7429c9ccad2dc4d6e4e",
     "result_count": 5
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "platform.ai.state.gov",
+    "name_value": "platform.ai.state.gov",
+    "id": 25360705698,
+    "entry_timestamp": "2026-03-31T18:27:05.99",
+    "not_before": "2025-05-16T00:00:00",
+    "not_after": "2026-05-15T23:59:59",
+    "serial_number": "0cf673798db6e952006af34ae1de005a",
+    "result_count": 2
   },
   {
     "issuer_ca_id": 185752,
@@ -13956,6 +13992,30 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "search.usa.gov",
+    "name_value": "findit.state.gov",
+    "id": 23882183563,
+    "entry_timestamp": "2026-01-20T14:58:31.038",
+    "not_before": "2026-01-20T14:00:00",
+    "not_after": "2026-04-20T13:59:59",
+    "serial_number": "06471f929bce7ec0aaeceee9bb8abebca3ba",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "search.usa.gov",
+    "name_value": "findit.state.gov",
+    "id": 23882165756,
+    "entry_timestamp": "2026-01-20T14:58:30.767",
+    "not_before": "2026-01-20T14:00:00",
+    "not_after": "2026-04-20T13:59:59",
+    "serial_number": "06471f929bce7ec0aaeceee9bb8abebca3ba",
+    "result_count": 1
+  },
+  {
     "issuer_ca_id": 295813,
     "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
     "common_name": "teamsphone.state.gov",
@@ -21360,30 +21420,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 105487,
-    "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA",
-    "common_name": "smtp1.ginl.state.gov",
-    "name_value": "smtp1.ginl.state.gov\nsmtp2.ginl.state.gov",
-    "id": 17626040307,
-    "entry_timestamp": "2025-04-04T14:36:15.109",
-    "not_before": "2025-04-04T00:00:00",
-    "not_after": "2026-04-04T23:59:59",
-    "serial_number": "00f8b77709b3744d5779b95b4fc5eeaeb0",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 105487,
-    "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA",
-    "common_name": "smtp1.ginl.state.gov",
-    "name_value": "smtp1.ginl.state.gov\nsmtp2.ginl.state.gov",
-    "id": 17626040874,
-    "entry_timestamp": "2025-04-04T14:36:14.256",
-    "not_before": "2025-04-04T00:00:00",
-    "not_after": "2026-04-04T23:59:59",
-    "serial_number": "00f8b77709b3744d5779b95b4fc5eeaeb0",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "sa.gec.state.gov",
@@ -21574,30 +21610,6 @@
     "not_after": "2026-04-18T23:59:59",
     "serial_number": "01d1c5d5cf3782671d2a7c470ceae6a5",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 105492,
-    "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Extended Validation Secure Server CA",
-    "common_name": "dsscrimetips.state.gov",
-    "name_value": "dsscrimetips.state.gov\nwww.dsscrimetips.state.gov",
-    "id": 17218959310,
-    "entry_timestamp": "2025-03-18T20:42:56.98",
-    "not_before": "2025-03-18T00:00:00",
-    "not_after": "2026-04-04T23:59:59",
-    "serial_number": "30affbc8f234b6dcc67675534fd31020",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 105492,
-    "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Extended Validation Secure Server CA",
-    "common_name": "dsscrimetips.state.gov",
-    "name_value": "dsscrimetips.state.gov\nwww.dsscrimetips.state.gov",
-    "id": 17218958968,
-    "entry_timestamp": "2025-03-18T20:42:56.407",
-    "not_before": "2025-03-18T00:00:00",
-    "not_after": "2026-04-04T23:59:59",
-    "serial_number": "30affbc8f234b6dcc67675534fd31020",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 247115,

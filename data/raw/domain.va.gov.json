@@ -12,16 +12,52 @@
     "result_count": 59
   },
   {
+    "issuer_ca_id": 176211,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2",
+    "common_name": "dev.care2.va.gov",
+    "name_value": "dev.care2.va.gov\nDEVOHAZ2APCN0101.dev.care2.va.gov\nDEVOHAZ2APCN0102.dev.care2.va.gov\nDEVOHAZ2BPCN0101.dev.care2.va.gov\nDEVOHAZ2BPLC01.dev.care2.va.gov\nDEVORAZ2APCN0101.dev.care2.va.gov\nDEVORAZ2BPCN0101.dev.care2.va.gov\npool.dev.care2.va.gov",
+    "id": 25341302490,
+    "entry_timestamp": "2026-04-02T21:51:57.293",
+    "not_before": "2026-04-01T00:00:00",
+    "not_after": "2026-10-16T23:59:59",
+    "serial_number": "076047d8b863578f50b706bcaec862c6",
+    "result_count": 9
+  },
+  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "nethalo.va.gov",
     "name_value": "nethalo1.va.gov\nnethalo2.va.gov\nnethalo.partner.va.gov\nnethalo.va.gov",
     "id": 25329803543,
-    "entry_timestamp": "2026-04-02T12:47:24.335",
+    "entry_timestamp": "2026-04-02T12:43:31.657",
     "not_before": "2026-04-02T00:00:00",
     "not_after": "2026-10-17T23:59:59",
     "serial_number": "08a68a2b1c0799dddd0583cdff6bf5ff",
     "result_count": 5
+  },
+  {
+    "issuer_ca_id": 176211,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2",
+    "common_name": "aux1.care2.va.gov",
+    "name_value": "aux1.care2.va.gov\ncare2.va.gov\nOHAZ2APLC01.care2.va.gov",
+    "id": 25347990622,
+    "entry_timestamp": "2026-04-02T12:17:31.84",
+    "not_before": "2026-04-02T00:00:00",
+    "not_after": "2026-10-17T23:59:59",
+    "serial_number": "0151f0c95088e3812bb88737cdd1f468",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 176211,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2",
+    "common_name": "aux1.care1.va.gov",
+    "name_value": "aux1.care1.va.gov\ncare1.va.gov\nOR2AZ2DPLC01.care1.va.gov",
+    "id": 25347924899,
+    "entry_timestamp": "2026-04-02T12:13:29.646",
+    "not_before": "2026-04-02T00:00:00",
+    "not_after": "2026-10-17T23:59:59",
+    "serial_number": "0b9989e8202b81788d9ba7c34df4549b",
+    "result_count": 4
   },
   {
     "issuer_ca_id": 176211,
@@ -256,18 +292,6 @@
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "prisma.vpn.va.gov",
     "name_value": "prisma.vpn.va.gov",
-    "id": 25266443863,
-    "entry_timestamp": "2026-03-30T13:08:08.367",
-    "not_before": "2025-03-25T00:00:00",
-    "not_after": "2026-04-03T23:59:59",
-    "serial_number": "0b252e90fa730ac6ca215a2150416312",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "prisma.vpn.va.gov",
-    "name_value": "prisma.vpn.va.gov",
     "id": 25276795197,
     "entry_timestamp": "2026-03-30T13:06:42.826",
     "not_before": "2026-03-30T00:00:00",
@@ -454,18 +478,6 @@
     "not_after": "2026-10-06T23:59:59",
     "serial_number": "0c166276163fb58bf5c33feb902c3a08",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "yourit.va.gov",
-    "name_value": "yourit.va.gov",
-    "id": 25138590882,
-    "entry_timestamp": "2026-03-21T19:34:35.79",
-    "not_before": "2026-03-21T18:36:03",
-    "not_after": "2026-06-19T18:36:02",
-    "serial_number": "0615121ef89d4de45ed4fe3a160ac36d40ba",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 295817,
@@ -897,18 +909,6 @@
     "not_before": "2026-02-16T00:00:00",
     "not_after": "2027-03-19T23:59:59",
     "serial_number": "032801cfb439ac15417e636750d0c53d",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "yourit-dev.va.gov",
-    "name_value": "yourit-dev.va.gov",
-    "id": 24405203273,
-    "entry_timestamp": "2026-02-14T12:29:18.367",
-    "not_before": "2026-02-14T11:30:48",
-    "not_after": "2026-05-15T11:30:47",
-    "serial_number": "05a1560c49703982ae70650b4d66c0541338",
     "result_count": 2
   },
   {
@@ -1497,18 +1497,6 @@
     "not_before": "2026-01-20T00:00:00",
     "not_after": "2027-01-19T23:59:59",
     "serial_number": "0f383a319e3cdde54bff967229d3c362",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "yourit.va.gov",
-    "name_value": "yourit.va.gov",
-    "id": 23884454134,
-    "entry_timestamp": "2026-01-20T17:29:43.256",
-    "not_before": "2026-01-20T16:31:12",
-    "not_after": "2026-04-20T16:31:11",
-    "serial_number": "05260f4eff7abf60df142d36a2cd388466c3",
     "result_count": 2
   },
   {
@@ -6458,18 +6446,6 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "prisma.vpn.va.gov",
-    "name_value": "prisma.vpn.va.gov",
-    "id": 17399325079,
-    "entry_timestamp": "2025-03-25T18:02:13.369",
-    "not_before": "2025-03-25T00:00:00",
-    "not_after": "2026-04-03T23:59:59",
-    "serial_number": "0b252e90fa730ac6ca215a2150416312",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "vacareers.va.gov",
     "name_value": "vacareers.va.gov\nwww.vacareers.va.gov",
     "id": 17375639119,
@@ -6514,18 +6490,6 @@
     "not_after": "2026-04-16T23:59:59",
     "serial_number": "096884e38cf2c9cda80e2b7f8fb6a84c",
     "result_count": 4
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "*.waya.va.gov",
-    "name_value": "*.waya.va.gov",
-    "id": 17060321154,
-    "entry_timestamp": "2025-03-12T13:54:34.958",
-    "not_before": "2025-03-12T00:00:00",
-    "not_after": "2026-04-03T23:59:59",
-    "serial_number": "06f23a5ba4ce2c03b74cdb42b4915fd7",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 1399,
