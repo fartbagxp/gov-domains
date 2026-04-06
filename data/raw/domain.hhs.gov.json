@@ -14,6 +14,18 @@
   {
     "issuer_ca_id": 295816,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "minorityhealth.hhs.gov",
+    "name_value": "minorityhealth.hhs.gov\nwww.minorityhealth.hhs.gov",
+    "id": 25373151883,
+    "entry_timestamp": "2026-04-03T21:19:48.498",
+    "not_before": "2026-04-03T20:21:17",
+    "not_after": "2026-07-02T20:21:16",
+    "serial_number": "0651933d6d29e53c08299ad474f127316512",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "tanfdata.acf.hhs.gov",
     "name_value": "tanfdata.acf.hhs.gov",
     "id": 25350886542,
@@ -36,42 +48,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 295809,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
-    "common_name": "protect-public.hhs.gov",
-    "name_value": "protect-public.hhs.gov",
-    "id": 25346080929,
-    "entry_timestamp": "2026-04-03T16:43:17.701",
-    "not_before": "2026-04-02T11:30:09",
-    "not_after": "2026-07-01T11:30:08",
-    "serial_number": "0651f37bfe8d2aa040da7b6e0dd02809a607",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295813,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
-    "common_name": "treatments-zh.hhs.gov",
-    "name_value": "treatments-zh.hhs.gov",
-    "id": 25332924668,
-    "entry_timestamp": "2026-04-03T14:49:02.156",
-    "not_before": "2026-04-02T11:33:21",
-    "not_after": "2026-07-01T11:33:20",
-    "serial_number": "066c83ebbde2aaa049cb8c79a81f30bedbef",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295809,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
-    "common_name": "treatments-es.hhs.gov",
-    "name_value": "treatments-es.hhs.gov",
-    "id": 25332913000,
-    "entry_timestamp": "2026-04-03T14:48:07.937",
-    "not_before": "2026-04-02T11:33:11",
-    "not_after": "2026-07-01T11:33:10",
-    "serial_number": "06d3fb0d81376f0a9933f39218e0da46e5ef",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 295817,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "resources.rhyttac.org",
@@ -81,6 +57,18 @@
     "not_before": "2026-04-02T13:56:38",
     "not_after": "2026-07-01T13:56:37",
     "serial_number": "061df2ed87c9ceaaaff29017ba410eb09f1e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295813,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
+    "common_name": "www.geospatialpublic.hhs.gov",
+    "name_value": "www.geospatialpublic.hhs.gov",
+    "id": 25366420654,
+    "entry_timestamp": "2026-04-02T12:33:20.953",
+    "not_before": "2026-04-02T11:34:50",
+    "not_after": "2026-07-01T11:34:49",
+    "serial_number": "061408ab20f7b6b56d1a7d19c43257f0c5c5",
     "result_count": 2
   },
   {
@@ -100,6 +88,18 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
     "common_name": "treatments-zh.hhs.gov",
     "name_value": "treatments-zh.hhs.gov",
+    "id": 25332924668,
+    "entry_timestamp": "2026-04-02T12:31:52.366",
+    "not_before": "2026-04-02T11:33:21",
+    "not_after": "2026-07-01T11:33:20",
+    "serial_number": "066c83ebbde2aaa049cb8c79a81f30bedbef",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295813,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
+    "common_name": "treatments-zh.hhs.gov",
+    "name_value": "treatments-zh.hhs.gov",
     "id": 25352826447,
     "entry_timestamp": "2026-04-02T12:31:51.258",
     "not_before": "2026-04-02T11:33:21",
@@ -112,11 +112,35 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
     "common_name": "treatments-es.hhs.gov",
     "name_value": "treatments-es.hhs.gov",
+    "id": 25332913000,
+    "entry_timestamp": "2026-04-02T12:31:42.104",
+    "not_before": "2026-04-02T11:33:11",
+    "not_after": "2026-07-01T11:33:10",
+    "serial_number": "06d3fb0d81376f0a9933f39218e0da46e5ef",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295809,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
+    "common_name": "treatments-es.hhs.gov",
+    "name_value": "treatments-es.hhs.gov",
     "id": 25309436767,
     "entry_timestamp": "2026-04-02T12:31:41.758",
     "not_before": "2026-04-02T11:33:11",
     "not_after": "2026-07-01T11:33:10",
     "serial_number": "06d3fb0d81376f0a9933f39218e0da46e5ef",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295809,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
+    "common_name": "protect-public.hhs.gov",
+    "name_value": "protect-public.hhs.gov",
+    "id": 25346080929,
+    "entry_timestamp": "2026-04-02T12:28:40.085",
+    "not_before": "2026-04-02T11:30:09",
+    "not_after": "2026-07-01T11:30:08",
+    "serial_number": "0651f37bfe8d2aa040da7b6e0dd02809a607",
     "result_count": 2
   },
   {
@@ -137,7 +161,7 @@
     "common_name": "geohub.oig.hhs.gov",
     "name_value": "geohub.oig.hhs.gov",
     "id": 25346456524,
-    "entry_timestamp": "2026-04-02T12:24:36.434",
+    "entry_timestamp": "2026-04-02T12:23:28.849",
     "not_before": "2026-04-02T11:24:58",
     "not_after": "2026-07-01T11:24:57",
     "serial_number": "0542b5c8f9878d6a802e1ac7be5add2e92f6",
@@ -149,7 +173,7 @@
     "common_name": "geohub.oig.hhs.gov",
     "name_value": "geohub.oig.hhs.gov",
     "id": 25348077529,
-    "entry_timestamp": "2026-04-02T12:23:28.498",
+    "entry_timestamp": "2026-04-02T12:23:28.438",
     "not_before": "2026-04-02T11:24:58",
     "not_after": "2026-07-01T11:24:57",
     "serial_number": "0542b5c8f9878d6a802e1ac7be5add2e92f6",
