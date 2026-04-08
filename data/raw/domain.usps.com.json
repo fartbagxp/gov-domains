@@ -2,6 +2,18 @@
   {
     "issuer_ca_id": 204411,
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
+    "common_name": "lbro-nonprod.usps.com",
+    "name_value": "lbro-cat.usps.com\nlbro-dev.usps.com\nlbro-nonprod.usps.com\nlbro-sit.usps.com\norigin-stage-lbro-cat.usps.com\norigin-stage-lbro-dev.usps.com\norigin-stage-lbro-sit.usps.com",
+    "id": 25408252659,
+    "entry_timestamp": "2026-04-07T16:57:02.074",
+    "not_before": "2026-04-07T00:00:00",
+    "not_after": "2026-10-22T23:59:59",
+    "serial_number": "0c493fead63b07e715556824af04019f",
+    "result_count": 8
+  },
+  {
+    "issuer_ca_id": 204411,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
     "common_name": "sit-gab.usps.com",
     "name_value": "sit-gab.usps.com\nwww.sit-gab.usps.com",
     "id": 25388348408,
@@ -16738,29 +16750,5 @@
     "not_after": "2026-04-08T23:59:59",
     "serial_number": "2c1f3d0e7284c0d052594ca732e270d3",
     "result_count": 7
-  },
-  {
-    "issuer_ca_id": 105487,
-    "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA",
-    "common_name": "pdx-sit.usps.com",
-    "name_value": "pdx-sit.usps.com\nwww.pdx-sit.usps.com",
-    "id": 17700786466,
-    "entry_timestamp": "2025-04-07T20:41:16.306",
-    "not_before": "2025-04-07T00:00:00",
-    "not_after": "2026-04-07T23:59:59",
-    "serial_number": "1df39b4b2a8d7592531d1400967255e3",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 105487,
-    "issuer_name": "C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Organization Validation Secure Server CA",
-    "common_name": "pdx-sit.usps.com",
-    "name_value": "pdx-sit.usps.com\nwww.pdx-sit.usps.com",
-    "id": 17700786523,
-    "entry_timestamp": "2025-04-07T20:41:15.402",
-    "not_before": "2025-04-07T00:00:00",
-    "not_after": "2026-04-07T23:59:59",
-    "serial_number": "1df39b4b2a8d7592531d1400967255e3",
-    "result_count": 3
   }
 ]

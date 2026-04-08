@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "*.cancer.gov",
+    "name_value": "*.cancer.gov",
+    "id": 25401162852,
+    "entry_timestamp": "2026-04-07T21:19:41.93",
+    "not_before": "2026-04-07T20:21:11",
+    "not_after": "2026-07-06T20:21:10",
+    "serial_number": "05fab244ade06846483f6504b883e3754481",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "*.cancer.gov",
+    "name_value": "*.cancer.gov",
+    "id": 25400991448,
+    "entry_timestamp": "2026-04-07T21:08:00.53",
+    "not_before": "2026-04-07T20:09:30",
+    "not_after": "2026-07-06T20:09:29",
+    "serial_number": "0695a87dfa71633b1fbb3484d4b445a19300",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 295809,
     "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
     "common_name": "training.seer.cancer.gov",
@@ -15,9 +39,21 @@
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "*.cancer.gov",
+    "name_value": "*.cancer.gov\ncancer.gov\noars.cancer.gov\noars-dev.cancer.gov\noars-studyuat.cancer.gov",
+    "id": 25380671133,
+    "entry_timestamp": "2026-04-03T19:30:23.151",
+    "not_before": "2026-04-03T00:00:00",
+    "not_after": "2026-10-18T23:59:59",
+    "serial_number": "0255ab99f52e42f02e513a04b5a5fde7",
+    "result_count": 6
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "*.cancer.gov",
     "name_value": "*.cancer.gov\ncancer.gov\nprodaws.cancer.gov",
     "id": 25370008606,
-    "entry_timestamp": "2026-04-03T16:49:56.497",
+    "entry_timestamp": "2026-04-03T16:49:56.151",
     "not_before": "2026-04-03T00:00:00",
     "not_after": "2026-10-18T23:59:59",
     "serial_number": "0c4661b706c80a1edacfdcc486ddf4d8",
@@ -41,7 +77,7 @@
     "common_name": "*.cancer.gov",
     "name_value": "*.cancer.gov\ncancer.gov",
     "id": 25354086954,
-    "entry_timestamp": "2026-04-02T20:31:06.869",
+    "entry_timestamp": "2026-04-02T20:31:06.854",
     "not_before": "2026-04-02T00:00:00",
     "not_after": "2026-10-17T23:59:59",
     "serial_number": "0d1fbe0b051fcf7a8b5372e28e2f1965",
@@ -53,7 +89,7 @@
     "common_name": "*.cancer.gov",
     "name_value": "*.cancer.gov\ncancer.gov\nF5.cancer.gov",
     "id": 25359546936,
-    "entry_timestamp": "2026-04-02T18:05:26.993",
+    "entry_timestamp": "2026-04-02T18:05:26.954",
     "not_before": "2026-04-02T00:00:00",
     "not_after": "2026-10-17T23:59:59",
     "serial_number": "0f6a0e10165629f79504bbce70e7dc10",
@@ -1198,30 +1234,6 @@
     "not_after": "2026-10-10T23:59:59",
     "serial_number": "0499d08e0847fd10ce9ee648858b3c2c",
     "result_count": 4
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "www.cancer.gov",
-    "name_value": "ccg-cms.cancer.gov\nctsproxy.cancer.gov\ndceg.cancer.gov\ndceg-cms.cancer.gov\ndcegconnect-cms.cancer.gov\ndceg-prod-acsf.cancer.gov\ndctd.cancer.gov\ndctd-cms.cancer.gov\ndctd-prod-acsf.cancer.gov\ndesignsystem.cancer.gov\nmypart-cms.cancer.gov\nnationalcancerplan.cancer.gov\nnationalcancerplan-cms.cancer.gov\nnationalcancerplan-prod-acsf.cancer.gov\nnciconnect-cms.cancer.gov\nnci-media.cancer.gov\nprescancerpanel.cancer.gov\nprescancerpanel-cms.cancer.gov\nprescancerpanel-prod-acsf.cancer.gov\nsbir.cancer.gov\nsbir-cms.cancer.gov\nsbir-prod-acsf.cancer.gov\nstatic.cancer.gov\ntechtransfer.cancer.gov\ntechtransfer-cms.cancer.gov\ntechtransfer-prod-acsf.cancer.gov\nwww.cancer.gov\nwww-cms.cancer.gov\nwww-prod-acsf.cancer.gov",
-    "id": 25234763467,
-    "entry_timestamp": "2026-03-26T14:12:24.191",
-    "not_before": "2026-03-26T13:13:52",
-    "not_after": "2026-06-24T13:13:51",
-    "serial_number": "060f4f2f1c932ea789b9c7d643fcf0eb2081",
-    "result_count": 30
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "www.cancer.gov",
-    "name_value": "ccg-cms.cancer.gov\nctsproxy.cancer.gov\ndceg.cancer.gov\ndceg-cms.cancer.gov\ndcegconnect-cms.cancer.gov\ndceg-prod-acsf.cancer.gov\ndctd.cancer.gov\ndctd-cms.cancer.gov\ndctd-prod-acsf.cancer.gov\ndesignsystem.cancer.gov\nmypart-cms.cancer.gov\nnationalcancerplan.cancer.gov\nnationalcancerplan-cms.cancer.gov\nnationalcancerplan-prod-acsf.cancer.gov\nnciconnect-cms.cancer.gov\nnci-media.cancer.gov\nprescancerpanel.cancer.gov\nprescancerpanel-cms.cancer.gov\nprescancerpanel-prod-acsf.cancer.gov\nsbir.cancer.gov\nsbir-cms.cancer.gov\nsbir-prod-acsf.cancer.gov\nstatic.cancer.gov\ntechtransfer.cancer.gov\ntechtransfer-cms.cancer.gov\ntechtransfer-prod-acsf.cancer.gov\nwww.cancer.gov\nwww-cms.cancer.gov\nwww-prod-acsf.cancer.gov",
-    "id": 25234738232,
-    "entry_timestamp": "2026-03-26T14:12:22.206",
-    "not_before": "2026-03-26T13:13:52",
-    "not_after": "2026-06-24T13:13:51",
-    "serial_number": "060f4f2f1c932ea789b9c7d643fcf0eb2081",
-    "result_count": 30
   },
   {
     "issuer_ca_id": 295809,
@@ -2920,18 +2932,6 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "nciws-p2308-v.nci.nih.gov",
     "name_value": "nagios.cancer.gov",
-    "id": 25024991345,
-    "entry_timestamp": "2026-03-16T14:36:48.346",
-    "not_before": "2026-03-16T13:38:16",
-    "not_after": "2026-06-14T13:38:15",
-    "serial_number": "05e915aa72e2f77c299d2f18ed21f2498ccb",
-    "result_count": 1
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "nciws-p2308-v.nci.nih.gov",
-    "name_value": "nagios.cancer.gov",
     "id": 25024981176,
     "entry_timestamp": "2026-03-16T14:36:46.992",
     "not_before": "2026-03-16T13:38:16",
@@ -3172,18 +3172,6 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "library.ncifrederick.cancer.gov",
     "name_value": "library.ncifrederick.cancer.gov",
-    "id": 24847351603,
-    "entry_timestamp": "2026-03-08T02:13:35.297",
-    "not_before": "2026-03-08T01:15:04",
-    "not_after": "2026-06-06T01:15:03",
-    "serial_number": "0506fb5077722f18f026989c7652d91d8985",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "library.ncifrederick.cancer.gov",
-    "name_value": "library.ncifrederick.cancer.gov",
     "id": 24847336821,
     "entry_timestamp": "2026-03-08T02:13:35.104",
     "not_before": "2026-03-08T01:15:04",
@@ -3228,30 +3216,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "seerdataaccess-stage.cancer.gov",
-    "name_value": "seerdataaccess-stage.cancer.gov\nservicestage.cancer.gov",
-    "id": 24760364741,
-    "entry_timestamp": "2026-03-03T13:59:21.467",
-    "not_before": "2026-03-03T13:00:49",
-    "not_after": "2026-06-01T13:00:48",
-    "serial_number": "05b9cc12a587c168ecbd718ab42c7f6f8707",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "seerdataaccess-stage.cancer.gov",
-    "name_value": "seerdataaccess-stage.cancer.gov\nservicestage.cancer.gov",
-    "id": 24760355077,
-    "entry_timestamp": "2026-03-03T13:59:20.178",
-    "not_before": "2026-03-03T13:00:49",
-    "not_after": "2026-06-01T13:00:48",
-    "serial_number": "05b9cc12a587c168ecbd718ab42c7f6f8707",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "*.cancer.gov",
@@ -3274,78 +3238,6 @@
     "not_after": "2026-09-16T23:59:59",
     "serial_number": "0b7b58753debddb4139114496624db9d",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "seerdataaccess.cancer.gov",
-    "name_value": "seerdataaccess.cancer.gov\nservice1.cancer.gov\nservice.cancer.gov",
-    "id": 24701970892,
-    "entry_timestamp": "2026-02-28T19:29:31.137",
-    "not_before": "2026-02-28T18:30:58",
-    "not_after": "2026-05-29T18:30:57",
-    "serial_number": "06a0389e5f7ad225a4092352094eb23c429e",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "seerdataaccess-test.cancer.gov",
-    "name_value": "seerdataaccess-test.cancer.gov\nservicetest.cancer.gov",
-    "id": 24701967680,
-    "entry_timestamp": "2026-02-28T19:29:29.445",
-    "not_before": "2026-02-28T18:30:58",
-    "not_after": "2026-05-29T18:30:57",
-    "serial_number": "065c88be31a0ee5800589511f9fea5316c3a",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "seerdataaccess.cancer.gov",
-    "name_value": "seerdataaccess.cancer.gov\nservice1.cancer.gov\nservice.cancer.gov",
-    "id": 24701944520,
-    "entry_timestamp": "2026-02-28T19:29:29.008",
-    "not_before": "2026-02-28T18:30:58",
-    "not_after": "2026-05-29T18:30:57",
-    "serial_number": "06a0389e5f7ad225a4092352094eb23c429e",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "seerdataaccess-test.cancer.gov",
-    "name_value": "seerdataaccess-test.cancer.gov\nservicetest.cancer.gov",
-    "id": 24701949573,
-    "entry_timestamp": "2026-02-28T19:29:28.899",
-    "not_before": "2026-02-28T18:30:58",
-    "not_after": "2026-05-29T18:30:57",
-    "serial_number": "065c88be31a0ee5800589511f9fea5316c3a",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "www-dev-acsf.cancer.gov",
-    "name_value": "automation-installed-cms-dev.cancer.gov\nautomation-refreshed-cms-dev.cancer.gov\nccg-cms-dev.cancer.gov\ndceg-cms-dev.cancer.gov\ndcegconnect-cms-dev.cancer.gov\ndceg-dev-acsf.cancer.gov\ndctd-cms-dev.cancer.gov\ndctd-dev-acsf.cancer.gov\ndesignsystem-dev.cancer.gov\nmypart-cms-dev.cancer.gov\nnationalcancerplan-cms-dev.cancer.gov\nnationalcancerplan-dev-acsf.cancer.gov\nnciconnect-cms-dev.cancer.gov\nnci-media-dev.cancer.gov\nprescancerpanel-cms-dev.cancer.gov\nprescancerpanel-dev-acsf.cancer.gov\nreact-app-dev.cancer.gov\nsbir-cms-dev.cancer.gov\nsbir-dev-acsf.cancer.gov\nstatic-dev.cancer.gov\ntechtransfer-cms-dev.cancer.gov\ntechtransfer-dev-acsf.cancer.gov\nwww-cms-dev.cancer.gov\nwww-dev-acsf.cancer.gov\nwww-int-ac.cancer.gov",
-    "id": 24679733309,
-    "entry_timestamp": "2026-02-27T16:10:52.672",
-    "not_before": "2026-02-27T15:12:22",
-    "not_after": "2026-05-28T15:12:21",
-    "serial_number": "05e0679aeb2e6c2c6c9fb06957b8a3901674",
-    "result_count": 26
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "www-dev-acsf.cancer.gov",
-    "name_value": "automation-installed-cms-dev.cancer.gov\nautomation-refreshed-cms-dev.cancer.gov\nccg-cms-dev.cancer.gov\ndceg-cms-dev.cancer.gov\ndcegconnect-cms-dev.cancer.gov\ndceg-dev-acsf.cancer.gov\ndctd-cms-dev.cancer.gov\ndctd-dev-acsf.cancer.gov\ndesignsystem-dev.cancer.gov\nmypart-cms-dev.cancer.gov\nnationalcancerplan-cms-dev.cancer.gov\nnationalcancerplan-dev-acsf.cancer.gov\nnciconnect-cms-dev.cancer.gov\nnci-media-dev.cancer.gov\nprescancerpanel-cms-dev.cancer.gov\nprescancerpanel-dev-acsf.cancer.gov\nreact-app-dev.cancer.gov\nsbir-cms-dev.cancer.gov\nsbir-dev-acsf.cancer.gov\nstatic-dev.cancer.gov\ntechtransfer-cms-dev.cancer.gov\ntechtransfer-dev-acsf.cancer.gov\nwww-cms-dev.cancer.gov\nwww-dev-acsf.cancer.gov\nwww-int-ac.cancer.gov",
-    "id": 24679732537,
-    "entry_timestamp": "2026-02-27T16:10:52.344",
-    "not_before": "2026-02-27T15:12:22",
-    "not_after": "2026-05-28T15:12:21",
-    "serial_number": "05e0679aeb2e6c2c6c9fb06957b8a3901674",
-    "result_count": 26
   },
   {
     "issuer_ca_id": 295813,
@@ -3552,30 +3444,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "servicedev1.cancer.gov",
-    "name_value": "seerdataaccess-dev1.cancer.gov\nservicedev1.cancer.gov",
-    "id": 24498571713,
-    "entry_timestamp": "2026-02-18T21:29:23.634",
-    "not_before": "2026-02-18T20:30:52",
-    "not_after": "2026-05-19T20:30:51",
-    "serial_number": "06096c94109aa4921a54afba8f57bc245493",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "servicedev1.cancer.gov",
-    "name_value": "seerdataaccess-dev1.cancer.gov\nservicedev1.cancer.gov",
-    "id": 24498548811,
-    "entry_timestamp": "2026-02-18T21:29:22.762",
-    "not_before": "2026-02-18T20:30:52",
-    "not_after": "2026-05-19T20:30:51",
-    "serial_number": "06096c94109aa4921a54afba8f57bc245493",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "*.cancer.gov",
@@ -3598,30 +3466,6 @@
     "not_after": "2027-03-21T23:59:59",
     "serial_number": "04a636037462f7596862f96fa9594e9c",
     "result_count": 4
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "www-test-acsf.cancer.gov",
-    "name_value": "automation-installed-cms-test.cancer.gov\nautomation-refreshed-cms-test.cancer.gov\nccg-cms-test.cancer.gov\nctsproxy-test.cancer.gov\ndceg-cms-test.cancer.gov\ndcegconnect-cms-test.cancer.gov\ndceg-test-acsf.cancer.gov\ndctd-cms-test.cancer.gov\ndctd-test-acsf.cancer.gov\ndesignsystem-test.cancer.gov\nmypart-cms-test.cancer.gov\nnationalcancerplan-cms-test.cancer.gov\nnationalcancerplan-test-acsf.cancer.gov\nnciconnect-cms-test.cancer.gov\nnci-media-qa.cancer.gov\nnci-media-stage.cancer.gov\nprescancerpanel-cms-test.cancer.gov\nprescancerpanel-test-acsf.cancer.gov\nsbir-cms-test.cancer.gov\nsbir-test-acsf.cancer.gov\ntechtransfer-cms-test.cancer.gov\ntechtransfer-test-acsf.cancer.gov\nwww-cms-test.cancer.gov\nwww-test-acsf.cancer.gov",
-    "id": 24386504622,
-    "entry_timestamp": "2026-02-13T16:54:32.249",
-    "not_before": "2026-02-13T15:56:01",
-    "not_after": "2026-05-14T15:56:00",
-    "serial_number": "065c6f683128b25bec170604f2c768253b55",
-    "result_count": 25
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "www-test-acsf.cancer.gov",
-    "name_value": "automation-installed-cms-test.cancer.gov\nautomation-refreshed-cms-test.cancer.gov\nccg-cms-test.cancer.gov\nctsproxy-test.cancer.gov\ndceg-cms-test.cancer.gov\ndcegconnect-cms-test.cancer.gov\ndceg-test-acsf.cancer.gov\ndctd-cms-test.cancer.gov\ndctd-test-acsf.cancer.gov\ndesignsystem-test.cancer.gov\nmypart-cms-test.cancer.gov\nnationalcancerplan-cms-test.cancer.gov\nnationalcancerplan-test-acsf.cancer.gov\nnciconnect-cms-test.cancer.gov\nnci-media-qa.cancer.gov\nnci-media-stage.cancer.gov\nprescancerpanel-cms-test.cancer.gov\nprescancerpanel-test-acsf.cancer.gov\nsbir-cms-test.cancer.gov\nsbir-test-acsf.cancer.gov\ntechtransfer-cms-test.cancer.gov\ntechtransfer-test-acsf.cancer.gov\nwww-cms-test.cancer.gov\nwww-test-acsf.cancer.gov",
-    "id": 24386485064,
-    "entry_timestamp": "2026-02-13T16:54:31.399",
-    "not_before": "2026-02-13T15:56:01",
-    "not_after": "2026-05-14T15:56:00",
-    "serial_number": "065c6f683128b25bec170604f2c768253b55",
-    "result_count": 25
   },
   {
     "issuer_ca_id": 185752,
@@ -3748,35 +3592,11 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "servicedev2.cancer.gov",
     "name_value": "servicedev2.cancer.gov",
-    "id": 24188471774,
-    "entry_timestamp": "2026-02-04T21:29:05.531",
-    "not_before": "2026-02-04T20:30:33",
-    "not_after": "2026-05-05T20:30:32",
-    "serial_number": "0649f2cc2d0edfcd2c8d1dd7bb7e47922678",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "servicedev2.cancer.gov",
-    "name_value": "servicedev2.cancer.gov",
     "id": 24188464493,
     "entry_timestamp": "2026-02-04T21:29:03.325",
     "not_before": "2026-02-04T20:30:33",
     "not_after": "2026-05-05T20:30:32",
     "serial_number": "0649f2cc2d0edfcd2c8d1dd7bb7e47922678",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "servicedev2.cancer.gov",
-    "name_value": "servicedev2.cancer.gov",
-    "id": 24185501931,
-    "entry_timestamp": "2026-02-04T17:59:04.965",
-    "not_before": "2026-02-04T17:00:34",
-    "not_after": "2026-05-05T17:00:33",
-    "serial_number": "0573fbf39d30e7c3499af7f1bc07795b8be7",
     "result_count": 2
   },
   {
@@ -4828,18 +4648,6 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
     "common_name": "healthcaredelivery.cancer.gov",
     "name_value": "healthcaredelivery.cancer.gov\nhealthservices.cancer.gov\noutcomes.cancer.gov\nriskfactor.cancer.gov\nwww.healthcaredelivery.cancer.gov\nwww.healthservices.cancer.gov\nwww.outcomes.cancer.gov\nwww.riskfactor.cancer.gov",
-    "id": 23965576608,
-    "entry_timestamp": "2026-01-25T05:12:00.369",
-    "not_before": "2026-01-25T04:13:27",
-    "not_after": "2026-04-25T04:13:26",
-    "serial_number": "0656c6b0f66003a70acae862f45f6cf0dad6",
-    "result_count": 9
-  },
-  {
-    "issuer_ca_id": 295809,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
-    "common_name": "healthcaredelivery.cancer.gov",
-    "name_value": "healthcaredelivery.cancer.gov\nhealthservices.cancer.gov\noutcomes.cancer.gov\nriskfactor.cancer.gov\nwww.healthcaredelivery.cancer.gov\nwww.healthservices.cancer.gov\nwww.outcomes.cancer.gov\nwww.riskfactor.cancer.gov",
     "id": 23965551876,
     "entry_timestamp": "2026-01-25T05:11:58.208",
     "not_before": "2026-01-25T04:13:27",
@@ -5244,30 +5052,6 @@
     "result_count": 4
   },
   {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "www.cancer.gov",
-    "name_value": "ccg-cms.cancer.gov\nctsproxy.cancer.gov\ndceg.cancer.gov\ndceg-cms.cancer.gov\ndcegconnect-cms.cancer.gov\ndceg-prod-acsf.cancer.gov\ndctd.cancer.gov\ndctd-cms.cancer.gov\ndctd-prod-acsf.cancer.gov\ndesignsystem.cancer.gov\nmypart-cms.cancer.gov\nnationalcancerplan.cancer.gov\nnationalcancerplan-cms.cancer.gov\nnationalcancerplan-prod-acsf.cancer.gov\nnciconnect-cms.cancer.gov\nnci-media.cancer.gov\nprescancerpanel.cancer.gov\nprescancerpanel-cms.cancer.gov\nprescancerpanel-prod-acsf.cancer.gov\nsbir.cancer.gov\nsbir-cms.cancer.gov\nsbir-prod-acsf.cancer.gov\nstatic.cancer.gov\ntechtransfer.cancer.gov\ntechtransfer-cms.cancer.gov\ntechtransfer-prod-acsf.cancer.gov\nwww.cancer.gov\nwww-cms.cancer.gov\nwww-prod-acsf.cancer.gov",
-    "id": 23783961716,
-    "entry_timestamp": "2026-01-15T14:39:41.896",
-    "not_before": "2026-01-15T13:41:11",
-    "not_after": "2026-04-15T13:41:10",
-    "serial_number": "05f501bce4157a8cbdf966eeca7e0abbb6de",
-    "result_count": 30
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "www.cancer.gov",
-    "name_value": "ccg-cms.cancer.gov\nctsproxy.cancer.gov\ndceg.cancer.gov\ndceg-cms.cancer.gov\ndcegconnect-cms.cancer.gov\ndceg-prod-acsf.cancer.gov\ndctd.cancer.gov\ndctd-cms.cancer.gov\ndctd-prod-acsf.cancer.gov\ndesignsystem.cancer.gov\nmypart-cms.cancer.gov\nnationalcancerplan.cancer.gov\nnationalcancerplan-cms.cancer.gov\nnationalcancerplan-prod-acsf.cancer.gov\nnciconnect-cms.cancer.gov\nnci-media.cancer.gov\nprescancerpanel.cancer.gov\nprescancerpanel-cms.cancer.gov\nprescancerpanel-prod-acsf.cancer.gov\nsbir.cancer.gov\nsbir-cms.cancer.gov\nsbir-prod-acsf.cancer.gov\nstatic.cancer.gov\ntechtransfer.cancer.gov\ntechtransfer-cms.cancer.gov\ntechtransfer-prod-acsf.cancer.gov\nwww.cancer.gov\nwww-cms.cancer.gov\nwww-prod-acsf.cancer.gov",
-    "id": 23783942152,
-    "entry_timestamp": "2026-01-15T14:39:41.618",
-    "not_before": "2026-01-15T13:41:11",
-    "not_after": "2026-04-15T13:41:10",
-    "serial_number": "05f501bce4157a8cbdf966eeca7e0abbb6de",
-    "result_count": 30
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "sip-qa.evs.cancer.gov",
@@ -5313,30 +5097,6 @@
     "not_before": "2026-01-07T00:00:00",
     "not_after": "2027-01-06T23:59:59",
     "serial_number": "0b559fd590a473ef391431ce8a2d8c95",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "library.ncifrederick.cancer.gov",
-    "name_value": "library.ncifrederick.cancer.gov",
-    "id": 23599749636,
-    "entry_timestamp": "2026-01-07T02:13:11.397",
-    "not_before": "2026-01-07T01:14:38",
-    "not_after": "2026-04-07T01:14:37",
-    "serial_number": "0596cc4bcd377e9e433835e3601cb464e79c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "library.ncifrederick.cancer.gov",
-    "name_value": "library.ncifrederick.cancer.gov",
-    "id": 23599721878,
-    "entry_timestamp": "2026-01-07T02:13:08.322",
-    "not_before": "2026-01-07T01:14:38",
-    "not_after": "2026-04-07T01:14:37",
-    "serial_number": "0596cc4bcd377e9e433835e3601cb464e79c",
     "result_count": 2
   },
   {
@@ -5919,18 +5679,6 @@
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "*.ccr.cancer.gov",
-    "name_value": "*.ccr.cancer.gov\nccr.cancer.gov\nsecact.ccr.cancer.gov",
-    "id": 20373542390,
-    "entry_timestamp": "2025-08-16T15:14:15.943",
-    "not_before": "2025-07-30T00:00:00",
-    "not_after": "2026-08-29T23:59:59",
-    "serial_number": "0eb27f58753439d9e08d01fc8cdfbaae",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "*.ccr.cancer.gov",
     "name_value": "*.ccr.cancer.gov\nccr.cancer.gov\ncrdr.ccr.cancer.gov\ncrdrsas.ccr.cancer.gov",
     "id": 20315168413,
     "entry_timestamp": "2025-08-13T20:59:15.726",
@@ -5964,18 +5712,6 @@
     "result_count": 31
   },
   {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "www.cancer.gov",
-    "name_value": "cancer.gov\nccg-cms.cancer.gov\nctsproxy.cancer.gov\ndceg.cancer.gov\ndceg-cms.cancer.gov\ndcegconnect-cms.cancer.gov\ndceg-prod-acsf.cancer.gov\ndctd.cancer.gov\ndctd-cms.cancer.gov\ndctd-prod-acsf.cancer.gov\ndesignsystem.cancer.gov\nmypart-cms.cancer.gov\nnationalcancerplan.cancer.gov\nnationalcancerplan-cms.cancer.gov\nnationalcancerplan-prod-acsf.cancer.gov\nnciconnect-cms.cancer.gov\nnci-media.cancer.gov\nprescancerpanel.cancer.gov\nprescancerpanel-cms.cancer.gov\nprescancerpanel-prod-acsf.cancer.gov\nsbir.cancer.gov\nsbir-cms.cancer.gov\nsbir-prod-acsf.cancer.gov\nstatic.cancer.gov\ntechtransfer.cancer.gov\ntechtransfer-cms.cancer.gov\ntechtransfer-prod-acsf.cancer.gov\nwww.cancer.gov\nwww-cms.cancer.gov\nwww-prod-acsf.cancer.gov",
-    "id": 20290751838,
-    "entry_timestamp": "2025-08-12T16:35:10.268",
-    "not_before": "2025-08-12T00:00:00",
-    "not_after": "2026-08-11T23:59:59",
-    "serial_number": "0b094f85735406e196ec1c98df20ede2",
-    "result_count": 31
-  },
-  {
     "issuer_ca_id": 185748,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
     "common_name": "www.cancer.gov",
@@ -5985,18 +5721,6 @@
     "not_before": "2025-08-07T00:00:00",
     "not_after": "2026-08-07T23:59:59",
     "serial_number": "063686088f9a71cd7004cbb0f32295e1",
-    "result_count": 90
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "www.cancer.gov",
-    "name_value": "automation-installed-cms-dev.cancer.gov\nautomation-refreshed-cms-dev.cancer.gov\nautomation-refreshed-cms-test.cancer.gov\ncancer.gov\nccg-cms.cancer.gov\nccg-cms-dev.cancer.gov\nccg-cms-test.cancer.gov\nctsproxy.cancer.gov\nctsproxy-test.cancer.gov\ndceg.cancer.gov\ndceg-cdn-stage.cancer.gov\ndceg-cms.cancer.gov\ndceg-cms-dev.cancer.gov\ndceg-cms-test.cancer.gov\ndcegconnect-cms.cancer.gov\ndcegconnect-cms-dev.cancer.gov\ndcegconnect-cms-test.cancer.gov\ndceg-dev-acsf.cancer.gov\ndceg-prod-acsf.cancer.gov\ndceg-test-acsf.cancer.gov\ndctd.cancer.gov\ndctd-cms.cancer.gov\ndctd-cms-dev.cancer.gov\ndctd-cms-test.cancer.gov\ndctd-dev-acsf.cancer.gov\ndctd-prod-acsf.cancer.gov\ndctd-test-acsf.cancer.gov\ndesignsystem.cancer.gov\ndesignsystem-dev.cancer.gov\ndesignsystem-test.cancer.gov\nmypart-cms.cancer.gov\nmypart-cms-dev.cancer.gov\nmypart-cms-test.cancer.gov\nnano-cms.cancer.gov\nnano-cms-dev.cancer.gov\nnano-cms-test.cancer.gov\nnationalcancerplan.cancer.gov\nnationalcancerplan-cms.cancer.gov\nnationalcancerplan-cms-dev.cancer.gov\nnationalcancerplan-cms-test.cancer.gov\nnationalcancerplan-dev-acsf.cancer.gov\nnationalcancerplan-prod-acsf.cancer.gov\nnationalcancerplan-test-acsf.cancer.gov\nnciconnect-cms.cancer.gov\nnciconnect-cms-dev.cancer.gov\nnciconnect-cms-test.cancer.gov\nnci-media.cancer.gov\nnci-media-dev.cancer.gov\nnci-media-qa.cancer.gov\nnci-media-stage.cancer.gov\nprescancerpanel.cancer.gov\nprescancerpanel-cms.cancer.gov\nprescancerpanel-cms-dev.cancer.gov\nprescancerpanel-cms-test.cancer.gov\nprescancerpanel-dev-acsf.cancer.gov\nprescancerpanel-dev.cancer.gov\nprescancerpanel-prod-acsf.cancer.gov\nprescancerpanel-prod.cancer.gov\nprescancerpanel-test-acsf.cancer.gov\nprescancerpanel-test.cancer.gov\nreact-app-dev.cancer.gov\nreporterproxy-dev.cancer.gov\nsbir.cancer.gov\nsbir-cms.cancer.gov\nsbir-cms-dev.cancer.gov\nsbir-cms-test.cancer.gov\nsbir-dev-acsf.cancer.gov\nsbir-prod-acsf.cancer.gov\nsbir-test-acsf.cancer.gov\nstatic.cancer.gov\nstatic-dev.cancer.gov\ntechtransfer.cancer.gov\ntechtransfer-cms.cancer.gov\ntechtransfer-cms-dev.cancer.gov\ntechtransfer-cms-test.cancer.gov\ntechtransfer-dev-acsf.cancer.gov\ntechtransfer-prod-acsf.cancer.gov\ntechtransfer-test-acsf.cancer.gov\nwww.cancer.gov\nwww-cdn-stage.cancer.gov\nwww-cms.cancer.gov\nwww-cms-dev.cancer.gov\nwww-cms-test.cancer.gov\nwww-dev-ac.cancer.gov\nwww-dev-acsf.cancer.gov\nwww-int-ac.cancer.gov\nwww-prod-acsf.cancer.gov\nwww-test-ac.cancer.gov\nwww-test-acsf.cancer.gov",
-    "id": 20186722447,
-    "entry_timestamp": "2025-08-07T20:56:27.416",
-    "not_before": "2025-08-07T00:00:00",
-    "not_after": "2026-08-06T23:59:59",
-    "serial_number": "05e05073b08d527d6715085669bd86ec",
     "result_count": 90
   },
   {
@@ -6292,18 +6016,6 @@
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "www.cancercontrol.cancer.gov",
     "name_value": "www.cancercontrol.cancer.gov\nwww.proteomics.cancer.gov\nwww.researchtoreality.cancer.gov\nwww.springboard.cancer.gov\nwww.survivorship.cancer.gov",
-    "id": 20015611068,
-    "entry_timestamp": "2025-07-30T20:14:15.211",
-    "not_before": "2025-07-30T00:00:00",
-    "not_after": "2026-07-29T23:59:59",
-    "serial_number": "0fc3a53f54946e6d8f23efcdd0a66205",
-    "result_count": 6
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "www.cancercontrol.cancer.gov",
-    "name_value": "www.cancercontrol.cancer.gov\nwww.proteomics.cancer.gov\nwww.researchtoreality.cancer.gov\nwww.springboard.cancer.gov\nwww.survivorship.cancer.gov",
     "id": 20014667951,
     "entry_timestamp": "2025-07-30T19:15:50.93",
     "not_before": "2025-07-30T00:00:00",
@@ -6454,18 +6166,6 @@
     "not_after": "2026-07-10T23:59:59",
     "serial_number": "0cee4e73b4555e4194947f8352e60732",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "*.cancer.gov",
-    "name_value": "*.cancer.gov\ncancer.gov\nnonprodaws.cancer.gov",
-    "id": 18963652382,
-    "entry_timestamp": "2025-06-11T20:25:48.804",
-    "not_before": "2025-04-02T00:00:00",
-    "not_after": "2026-04-11T23:59:59",
-    "serial_number": "03014483d7bb355cf8854e2bf4c71be6",
-    "result_count": 4
   },
   {
     "issuer_ca_id": 247115,
