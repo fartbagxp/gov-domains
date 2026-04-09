@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "armweb0-prod.ornl.gov",
+    "name_value": "asr.science.energy.gov\nwww.asr.science.energy.gov",
+    "id": 25437027118,
+    "entry_timestamp": "2026-04-07T05:50:32.15",
+    "not_before": "2026-04-07T04:52:01",
+    "not_after": "2026-07-06T04:52:00",
+    "serial_number": "0531b105ba0ed88ea29c4315fec4a459ae3e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295813,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
+    "common_name": "catalog.energy.gov",
+    "name_value": "catalog.energy.gov\nwww.catalog.energy.gov",
+    "id": 25423290519,
+    "entry_timestamp": "2026-04-06T08:24:20.151",
+    "not_before": "2026-04-06T07:25:49",
+    "not_after": "2026-07-05T07:25:48",
+    "serial_number": "057f9c5ce769026aa4d22bf9b5614b967f2e",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "aloha.nnsa.energy.gov",
@@ -58,18 +82,6 @@
     "not_after": "2026-10-14T23:59:59",
     "serial_number": "38ffa51a1d4ea874d6bfd9b448138719",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "buildingenergyscore.energy.gov",
-    "name_value": "buildingenergyscore.energy.gov\nwww.buildingenergyscore.energy.gov",
-    "id": 25330268359,
-    "entry_timestamp": "2026-03-30T18:55:05.396",
-    "not_before": "2025-03-17T12:31:15",
-    "not_after": "2026-04-08T10:43:20",
-    "serial_number": "101a64dcb6700c838dc24c488787ccfc",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 385512,
@@ -998,18 +1010,6 @@
   {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "contracts.id.energy.gov",
-    "name_value": "contracts.id.energy.gov",
-    "id": 24953574309,
-    "entry_timestamp": "2026-03-13T01:48:10.129",
-    "not_before": "2026-03-13T00:48:09",
-    "not_after": "2026-06-11T01:48:07",
-    "serial_number": "213757660ca7f982119a786f9778eba6",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "doseentry.id.energy.gov",
     "name_value": "doseentry.id.energy.gov",
     "id": 24953574443,
@@ -1017,6 +1017,18 @@
     "not_before": "2026-03-13T00:48:09",
     "not_after": "2026-06-11T01:48:07",
     "serial_number": "00d7b9f1314af461a311b41a9118e5ebd5",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "contracts.id.energy.gov",
+    "name_value": "contracts.id.energy.gov",
+    "id": 24953574309,
+    "entry_timestamp": "2026-03-13T01:48:10.129",
+    "not_before": "2026-03-13T00:48:09",
+    "not_after": "2026-06-11T01:48:07",
+    "serial_number": "213757660ca7f982119a786f9778eba6",
     "result_count": 2
   },
   {
@@ -7797,18 +7809,6 @@
     "not_before": "2025-03-24T00:00:00",
     "not_after": "2026-04-22T23:59:59",
     "serial_number": "040c1e079cad5dd7b010dba1bab32f3d",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "buildingenergyscore.energy.gov",
-    "name_value": "buildingenergyscore.energy.gov\nwww.buildingenergyscore.energy.gov",
-    "id": 17181430452,
-    "entry_timestamp": "2025-03-17T12:41:17.159",
-    "not_before": "2025-03-17T12:31:15",
-    "not_after": "2026-04-08T10:43:20",
-    "serial_number": "101a64dcb6700c838dc24c488787ccfc",
     "result_count": 3
   },
   {

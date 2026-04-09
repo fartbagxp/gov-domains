@@ -1,5 +1,17 @@
 [
   {
+    "issuer_ca_id": 365075,
+    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
+    "common_name": "leep-ndcac.fbi.gov",
+    "name_value": "leep-ndcac.fbi.gov\nwww.leep-ndcac.fbi.gov",
+    "id": 25434548307,
+    "entry_timestamp": "2026-04-08T13:31:59.89",
+    "not_before": "2025-04-02T13:59:23",
+    "not_after": "2026-04-14T15:41:29",
+    "serial_number": "16a3d7787387b8180b19c09785261061",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "icljobs.fbi.gov",
@@ -129,6 +141,30 @@
     "not_before": "2026-03-31T12:51:17",
     "not_after": "2026-06-29T13:51:16",
     "serial_number": "00c12c190e22001b6513fdbac0f706b56d",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "artcrimes.fbi.gov",
+    "name_value": "artcrimes.fbi.gov",
+    "id": 25434158628,
+    "entry_timestamp": "2026-03-31T13:51:18.048",
+    "not_before": "2026-03-31T12:51:17",
+    "not_after": "2026-06-29T13:51:16",
+    "serial_number": "00c12c190e22001b6513fdbac0f706b56d",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "artcrimes.fbi.gov",
+    "name_value": "artcrimes.fbi.gov",
+    "id": 25435171392,
+    "entry_timestamp": "2026-03-31T13:51:10.767",
+    "not_before": "2026-03-31T12:51:10",
+    "not_after": "2026-06-29T13:49:57",
+    "serial_number": "008893aac7c41152050e7b7844fa4b4673",
     "result_count": 2
   },
   {
@@ -3501,78 +3537,6 @@
     "not_before": "2026-01-09T11:43:13",
     "not_after": "2026-04-09T12:42:07",
     "serial_number": "0099bbbdcd497b20790e33390be52b456e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "nibrs.fbi.gov",
-    "name_value": "nibrs.fbi.gov",
-    "id": 23651110921,
-    "entry_timestamp": "2026-01-09T07:51:23.546",
-    "not_before": "2026-01-09T06:49:06",
-    "not_after": "2026-04-09T07:49:05",
-    "serial_number": "00a2b56c65fab96f8b0e44df155d5be358",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "nibrs.fbi.gov",
-    "name_value": "nibrs.fbi.gov",
-    "id": 23651099968,
-    "entry_timestamp": "2026-01-09T07:49:07.149",
-    "not_before": "2026-01-09T06:49:06",
-    "not_after": "2026-04-09T07:49:05",
-    "serial_number": "00a2b56c65fab96f8b0e44df155d5be358",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "nibrs.fbi.gov",
-    "name_value": "nibrs.fbi.gov",
-    "id": 23651078668,
-    "entry_timestamp": "2026-01-09T07:49:00.288",
-    "not_before": "2026-01-09T06:48:59",
-    "not_after": "2026-04-09T07:47:54",
-    "serial_number": "7e67a38668742ee31183e6cffc71c78c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "delivery.fbi.gov",
-    "name_value": "delivery.fbi.gov",
-    "id": 23650023707,
-    "entry_timestamp": "2026-01-09T06:41:47.896",
-    "not_before": "2026-01-09T05:41:26",
-    "not_after": "2026-04-09T06:41:25",
-    "serial_number": "00863db62ba81967d20e11080282fdb71c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "delivery.fbi.gov",
-    "name_value": "delivery.fbi.gov",
-    "id": 23650018934,
-    "entry_timestamp": "2026-01-09T06:41:27.289",
-    "not_before": "2026-01-09T05:41:26",
-    "not_after": "2026-04-09T06:41:25",
-    "serial_number": "00863db62ba81967d20e11080282fdb71c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "delivery.fbi.gov",
-    "name_value": "delivery.fbi.gov",
-    "id": 23650036446,
-    "entry_timestamp": "2026-01-09T06:41:19.848",
-    "not_before": "2026-01-09T05:41:19",
-    "not_after": "2026-04-09T06:40:13",
-    "serial_number": "5b0db66abcbd3e660d936bff0ee4da0b",
     "result_count": 2
   },
   {

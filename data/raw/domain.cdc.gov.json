@@ -1,5 +1,77 @@
 [
   {
+    "issuer_ca_id": 385517,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust EV TLS Issuing RSA CA 2",
+    "common_name": "guestwifi.cdc.gov",
+    "name_value": "guestwifi.cdc.gov",
+    "id": 25429216244,
+    "entry_timestamp": "2026-04-06T18:08:31.151",
+    "not_before": "2026-04-06T00:00:00",
+    "not_after": "2026-10-21T23:59:59",
+    "serial_number": "00ee6e0b2a5afa62c791dd4d2d877444fb",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 385517,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust EV TLS Issuing RSA CA 2",
+    "common_name": "chronicdata.cdc.gov",
+    "name_value": "chronicdata.cdc.gov",
+    "id": 25428892230,
+    "entry_timestamp": "2026-04-06T17:28:06.151",
+    "not_before": "2026-04-06T00:00:00",
+    "not_after": "2026-10-21T23:59:59",
+    "serial_number": "00b5a07219a3353f0c11886784e067c4da",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 385517,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust EV TLS Issuing RSA CA 2",
+    "common_name": "guestwifi.cdc.gov",
+    "name_value": "guestwifi.cdc.gov",
+    "id": 25428691042,
+    "entry_timestamp": "2026-04-06T17:06:20.151",
+    "not_before": "2026-04-06T00:00:00",
+    "not_after": "2026-10-21T23:59:59",
+    "serial_number": "00905fd54ec3679833c97b37087782990c",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 385517,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust EV TLS Issuing RSA CA 2",
+    "common_name": "securelogin.cdc.gov",
+    "name_value": "securelogin.cdc.gov",
+    "id": 25428145609,
+    "entry_timestamp": "2026-04-06T16:12:19.151",
+    "not_before": "2026-04-06T00:00:00",
+    "not_after": "2026-10-21T23:59:59",
+    "serial_number": "08a5c470cae3962530d79ca1a21e2bab",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 385516,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust DV TLS Issuing RSA CA 2",
+    "common_name": "nhsnsa.cdc.gov",
+    "name_value": "dev.nhsnsa.cdc.gov\nnhsnsa.cdc.gov",
+    "id": 25427545776,
+    "entry_timestamp": "2026-04-06T15:15:03.151",
+    "not_before": "2026-04-06T00:00:00",
+    "not_after": "2026-10-21T23:59:59",
+    "serial_number": "00b95845e4bd9866692a3573a692faf568",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 385517,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust EV TLS Issuing RSA CA 2",
+    "common_name": "securelogin.cdc.gov",
+    "name_value": "securelogin.cdc.gov",
+    "id": 25426009770,
+    "entry_timestamp": "2026-04-06T12:39:06.151",
+    "not_before": "2026-04-06T00:00:00",
+    "not_after": "2026-10-21T23:59:59",
+    "serial_number": "00bf1f760a932ad0e6d683207fe394af8f",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "mvps2.cdc.gov",
@@ -15432,30 +15504,6 @@
     "result_count": 4
   },
   {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "nhsnsa.cdc.gov",
-    "name_value": "dev.nhsnsa.cdc.gov\nnhsnsa.cdc.gov",
-    "id": 17727310066,
-    "entry_timestamp": "2025-04-08T20:38:23.177",
-    "not_before": "2025-04-08T20:28:21",
-    "not_after": "2026-04-08T19:23:16",
-    "serial_number": "6c65c682830ba0a85a29a21c634711f9",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "dvppartnersportaldev.cdc.gov",
-    "name_value": "dvppartnersportaldev.cdc.gov\ndvppartnersportaltest.cdc.gov\ndvppartnersportaluat.cdc.gov",
-    "id": 17721655957,
-    "entry_timestamp": "2025-04-08T15:20:15.241",
-    "not_before": "2025-04-08T15:10:13",
-    "not_after": "2026-04-08T13:26:00",
-    "serial_number": "61c5e3659923a65fbb2d3c324a4084c1",
-    "result_count": 4
-  },
-  {
     "issuer_ca_id": 247106,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
     "common_name": "cdn.reach.cdc.gov",
@@ -15502,18 +15550,6 @@
     "not_after": "2026-04-18T08:43:45",
     "serial_number": "2d350b4db06d5bfaf96e7e0d0c6106e2",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "nationaldppcsc.cdc.gov",
-    "name_value": "nationaldppcsc.cdc.gov",
-    "id": 17183811492,
-    "entry_timestamp": "2025-03-17T14:28:40.172",
-    "not_before": "2025-03-17T14:18:38",
-    "not_after": "2026-04-08T15:26:45",
-    "serial_number": "40d422f735b2466db9988bea7026616d",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 365075,
