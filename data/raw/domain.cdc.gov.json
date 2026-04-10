@@ -1,5 +1,41 @@
 [
   {
+    "issuer_ca_id": 385516,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust DV TLS Issuing RSA CA 2",
+    "common_name": "dcpcpolicyscan.cdc.gov",
+    "name_value": "dcpcpolicyscan.cdc.gov",
+    "id": 25457510573,
+    "entry_timestamp": "2026-04-09T14:16:46.765",
+    "not_before": "2026-04-09T00:00:00",
+    "not_after": "2026-10-24T23:59:59",
+    "serial_number": "3a93d14f291ea9a57cba3a5c82fb1620",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 385517,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust EV TLS Issuing RSA CA 2",
+    "common_name": "streamingservices.cdc.gov",
+    "name_value": "globalremoteiptv.cdc.gov\nmobileiptv.cdc.gov\nstreamingservices.cdc.gov",
+    "id": 25459351327,
+    "entry_timestamp": "2026-04-08T18:41:19.151",
+    "not_before": "2026-04-08T00:00:00",
+    "not_after": "2026-10-23T23:59:59",
+    "serial_number": "00804091d2d410708e3b1eb3a5a04cf2a1",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "www.cdc.gov",
+    "name_value": "cloudas2.cdc.gov\ncloudas2stg.cdc.gov\nwww.cdc.gov",
+    "id": 25445169959,
+    "entry_timestamp": "2026-04-08T15:45:52.498",
+    "not_before": "2026-04-08T14:47:21",
+    "not_after": "2026-07-07T14:47:20",
+    "serial_number": "0626b67fb42cf94f35e46ff4d724111519c5",
+    "result_count": 4
+  },
+  {
     "issuer_ca_id": 385517,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust EV TLS Issuing RSA CA 2",
     "common_name": "guestwifi.cdc.gov",
@@ -5506,30 +5542,6 @@
     "not_after": "2027-01-12T23:59:59",
     "serial_number": "00cf0a5202a5a990ca385c54ec74ceabf8",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "www.cdc.gov",
-    "name_value": "4mmp.cdc.gov\namdp.cdc.gov\namdtower.cdc.gov\namdtower-stg.cdc.gov\nas2-stg.vaers.cdc.gov\nas2.vaers.cdc.gov\nbrfssdatsubmission.cdc.gov\ncanary.fhir.nvss.cdc.gov\ncanary-v4.fhir.nvss.cdc.gov\ncisa-stg.vaers.cdc.gov\ncisa.vaers.cdc.gov\ncvtm-graph-fa.cdc.gov\ndcipher.cdc.gov\ndcipher-test.cdc.gov\ndpd.cdc.gov\ndrt.cdc.gov\ndsmes-program-locator.cdc.gov\nednweb.cdc.gov\nepiinfosecurewebsurvey.cdc.gov\nfronterasaludable.cdc.gov\nintranet-stg.vaers.cdc.gov\nintranet.vaers.cdc.gov\nnhsn4.cdc.gov\npons-web-int.cdc.gov\npredict.cdc.gov\nsnapshot2024atsdr.cdc.gov\nspoke-prd-001.amdp.cdc.gov\nspoke-uat.amdp.cdc.gov\nstatic.prototype.cdc.gov\nstatic.prototype-new.cdc.gov\nuat.amdp.cdc.gov\nvaers.cdc.gov\nvip-stg.vaers.cdc.gov\nvip.vaers.cdc.gov\nvtrcks-grantee2.cdc.gov\nvtrcks-grantee2-q5.cdc.gov\nvtrcks-grantee2-q6.cdc.gov\nvtrcks-grantee2-s1.cdc.gov\nvtrcks-grantee.cdc.gov\nvtrcks-grantee-q5.cdc.gov\nvtrcks-grantee-q6.cdc.gov\nvtrcks-grantee-s1.cdc.gov\nvtrcks-help.cdc.gov\nvtrcks-help-qa.cdc.gov\nvtrcks-provider.cdc.gov\nvtrcks-provider-q5.cdc.gov\nvtrcks-provider-q6.cdc.gov\nvtrcks-provider-s1.cdc.gov\nvtrcks-provider-training.cdc.gov\nvtrcks-training2.cdc.gov\nvtrcks-training.cdc.gov\nwonder.cdc.gov\nwtchp.cdc.gov\nwtchpstage.cdc.gov\nwww2.cdc.gov\nwww.atsdr-new.cdc.gov\nwww.cdc.gov\nwww.selectagents-new.cdc.gov\nwww-stg.vaers.cdc.gov\nxfer-stg.vaers.cdc.gov\nyouthonline.cdc.gov",
-    "id": 23657593226,
-    "entry_timestamp": "2026-01-09T14:22:30.302",
-    "not_before": "2026-01-09T13:23:59",
-    "not_after": "2026-04-09T13:23:58",
-    "serial_number": "051dc6b06b57d9348ed18bed8c716260a79c",
-    "result_count": 62
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "www.cdc.gov",
-    "name_value": "4mmp.cdc.gov\namdp.cdc.gov\namdtower.cdc.gov\namdtower-stg.cdc.gov\nas2-stg.vaers.cdc.gov\nas2.vaers.cdc.gov\nbrfssdatsubmission.cdc.gov\ncanary.fhir.nvss.cdc.gov\ncanary-v4.fhir.nvss.cdc.gov\ncisa-stg.vaers.cdc.gov\ncisa.vaers.cdc.gov\ncvtm-graph-fa.cdc.gov\ndcipher.cdc.gov\ndcipher-test.cdc.gov\ndpd.cdc.gov\ndrt.cdc.gov\ndsmes-program-locator.cdc.gov\nednweb.cdc.gov\nepiinfosecurewebsurvey.cdc.gov\nfronterasaludable.cdc.gov\nintranet-stg.vaers.cdc.gov\nintranet.vaers.cdc.gov\nnhsn4.cdc.gov\npons-web-int.cdc.gov\npredict.cdc.gov\nsnapshot2024atsdr.cdc.gov\nspoke-prd-001.amdp.cdc.gov\nspoke-uat.amdp.cdc.gov\nstatic.prototype.cdc.gov\nstatic.prototype-new.cdc.gov\nuat.amdp.cdc.gov\nvaers.cdc.gov\nvip-stg.vaers.cdc.gov\nvip.vaers.cdc.gov\nvtrcks-grantee2.cdc.gov\nvtrcks-grantee2-q5.cdc.gov\nvtrcks-grantee2-q6.cdc.gov\nvtrcks-grantee2-s1.cdc.gov\nvtrcks-grantee.cdc.gov\nvtrcks-grantee-q5.cdc.gov\nvtrcks-grantee-q6.cdc.gov\nvtrcks-grantee-s1.cdc.gov\nvtrcks-help.cdc.gov\nvtrcks-help-qa.cdc.gov\nvtrcks-provider.cdc.gov\nvtrcks-provider-q5.cdc.gov\nvtrcks-provider-q6.cdc.gov\nvtrcks-provider-s1.cdc.gov\nvtrcks-provider-training.cdc.gov\nvtrcks-training2.cdc.gov\nvtrcks-training.cdc.gov\nwonder.cdc.gov\nwtchp.cdc.gov\nwtchpstage.cdc.gov\nwww2.cdc.gov\nwww.atsdr-new.cdc.gov\nwww.cdc.gov\nwww.selectagents-new.cdc.gov\nwww-stg.vaers.cdc.gov\nxfer-stg.vaers.cdc.gov\nyouthonline.cdc.gov",
-    "id": 23657570008,
-    "entry_timestamp": "2026-01-09T14:22:29.711",
-    "not_before": "2026-01-09T13:23:59",
-    "not_after": "2026-04-09T13:23:58",
-    "serial_number": "051dc6b06b57d9348ed18bed8c716260a79c",
-    "result_count": 62
   },
   {
     "issuer_ca_id": 385517,
@@ -15550,17 +15562,5 @@
     "not_after": "2026-04-18T08:43:45",
     "serial_number": "2d350b4db06d5bfaf96e7e0d0c6106e2",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "chronicdata.cdc.gov",
-    "name_value": "chronicdata.cdc.gov",
-    "id": 17110077810,
-    "entry_timestamp": "2025-03-14T14:18:34.681",
-    "not_before": "2025-03-14T14:08:33",
-    "not_after": "2026-04-09T16:17:06",
-    "serial_number": "4bf750a7ba0edd25625af983c23c75fd",
-    "result_count": 2
   }
 ]
