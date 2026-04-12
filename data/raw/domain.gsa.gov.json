@@ -408,6 +408,18 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "ppms-property-reporting-api-test.test-ppm.fcs.gsa.gov",
+    "name_value": "ppms-property-reporting-api-test.test-ppm.fcs.gsa.gov",
+    "id": 25411743489,
+    "entry_timestamp": "2026-04-07T20:05:37.426",
+    "not_before": "2026-04-07T19:05:09",
+    "not_after": "2026-07-06T19:05:08",
+    "serial_number": "05704f2d567f1ae39a6285eababb2f6f2ef8",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 295816,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "ppms-sales-api-test.test-ppm.fcs.gsa.gov",
@@ -537,6 +549,18 @@
     "not_before": "2026-04-07T19:03:18",
     "not_after": "2026-07-06T19:03:17",
     "serial_number": "06b971f430a91da290935663ce418e6a19dc",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "k8s-ingress-ppms-proxy-perf-test.test-ppm.fcs.gsa.gov",
+    "name_value": "k8s-ingress-ppms-proxy-perf-test.test-ppm.fcs.gsa.gov",
+    "id": 25411673669,
+    "entry_timestamp": "2026-04-07T20:01:48.733",
+    "not_before": "2026-04-07T19:01:58",
+    "not_after": "2026-07-06T19:01:57",
+    "serial_number": "05dfe884e05bf8abb7e333f3480313bd60fa",
     "result_count": 2
   },
   {
@@ -1612,6 +1636,18 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "firstgov.gov",
     "name_value": "gsa.gov\nm.gsa.gov\nworkplace.gsa.gov",
+    "id": 25140725929,
+    "entry_timestamp": "2026-03-21T22:27:34.189",
+    "not_before": "2026-03-21T21:29:04",
+    "not_after": "2026-06-19T21:29:03",
+    "serial_number": "06edd2dc48edce0b9f875b2be0247f4e82fd",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "firstgov.gov",
+    "name_value": "gsa.gov\nm.gsa.gov\nworkplace.gsa.gov",
     "id": 25140714807,
     "entry_timestamp": "2026-03-21T22:27:34.097",
     "not_before": "2026-03-21T21:29:04",
@@ -2212,12 +2248,36 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "finance.gsa.gov",
     "name_value": "finance.gsa.gov\nfinance.ocfo.gsa.gov",
+    "id": 24926680603,
+    "entry_timestamp": "2026-03-11T18:54:21.005",
+    "not_before": "2026-03-11T17:55:50",
+    "not_after": "2026-06-09T17:55:49",
+    "serial_number": "06e0e16c603407e3ac1870f06f8cc0d6cead",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "finance.gsa.gov",
+    "name_value": "finance.gsa.gov\nfinance.ocfo.gsa.gov",
     "id": 24926656038,
     "entry_timestamp": "2026-03-11T18:54:20.676",
     "not_before": "2026-03-11T17:55:50",
     "not_after": "2026-06-09T17:55:49",
     "serial_number": "06e0e16c603407e3ac1870f06f8cc0d6cead",
     "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "orders.fas.gsa.gov",
+    "name_value": "*.coop.orders.fas.gsa.gov\n*.ftr.integration.orders.fas.gsa.gov\n*.integration.orders.fas.gsa.gov\norders.fas.gsa.gov\n*.production.orders.fas.gsa.gov\n*.staging.orders.fas.gsa.gov",
+    "id": 24920384482,
+    "entry_timestamp": "2026-03-11T12:14:55.56",
+    "not_before": "2026-03-11T11:16:24",
+    "not_after": "2026-06-09T11:16:23",
+    "serial_number": "062d56ad175cdd58f90836d8da41f100544a",
+    "result_count": 7
   },
   {
     "issuer_ca_id": 295817,
@@ -2968,6 +3028,18 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "k8s-ingress-ppms-soap-proxy-test.dev-ppm.fcs.gsa.gov",
     "name_value": "k8s-ingress-ppms-soap-proxy-test.dev-ppm.fcs.gsa.gov",
+    "id": 24624036289,
+    "entry_timestamp": "2026-02-24T20:33:17.853",
+    "not_before": "2026-02-24T19:34:46",
+    "not_after": "2026-05-25T19:34:45",
+    "serial_number": "066c10531cfa021da5cb56a1825d9f10cdee",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "k8s-ingress-ppms-soap-proxy-test.dev-ppm.fcs.gsa.gov",
+    "name_value": "k8s-ingress-ppms-soap-proxy-test.dev-ppm.fcs.gsa.gov",
     "id": 24624028979,
     "entry_timestamp": "2026-02-24T20:33:17.447",
     "not_before": "2026-02-24T19:34:46",
@@ -3364,6 +3436,18 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "ppms-property-reporting-api-test.dev-ppm.fcs.gsa.gov",
     "name_value": "ppms-property-reporting-api-test.dev-ppm.fcs.gsa.gov",
+    "id": 24623147664,
+    "entry_timestamp": "2026-02-24T19:34:00.607",
+    "not_before": "2026-02-24T18:35:29",
+    "not_after": "2026-05-25T18:35:28",
+    "serial_number": "06b26a29a6e144b8860442237d3fb63dabe4",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "ppms-property-reporting-api-test.dev-ppm.fcs.gsa.gov",
+    "name_value": "ppms-property-reporting-api-test.dev-ppm.fcs.gsa.gov",
     "id": 24623142107,
     "entry_timestamp": "2026-02-24T19:33:59.785",
     "not_before": "2026-02-24T18:35:29",
@@ -3657,6 +3741,18 @@
     "not_before": "2026-02-24T17:47:42",
     "not_after": "2026-05-25T17:47:41",
     "serial_number": "057aef1ded0886f5e5ce3fa56a9d01d4e9b2",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "k8s-ingress-ppms-soap-proxy-develop.dev-ppm.fcs.gsa.gov",
+    "name_value": "k8s-ingress-ppms-soap-proxy-develop.dev-ppm.fcs.gsa.gov",
+    "id": 24622443672,
+    "entry_timestamp": "2026-02-24T18:45:08.34",
+    "not_before": "2026-02-24T17:46:37",
+    "not_after": "2026-05-25T17:46:36",
+    "serial_number": "05be56bdad9614aa3c77b5dba420055ea0ce",
     "result_count": 2
   },
   {
@@ -5740,6 +5836,18 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "ppms-validation-api-test.test-ppm.fcs.gsa.gov",
     "name_value": "ppms-validation-api-test.test-ppm.fcs.gsa.gov",
+    "id": 24230235200,
+    "entry_timestamp": "2026-02-06T21:00:46.88",
+    "not_before": "2026-02-06T20:02:15",
+    "not_after": "2026-05-07T20:02:14",
+    "serial_number": "0635e5007b2e0f5a3335d3ab88e410547553",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "ppms-validation-api-test.test-ppm.fcs.gsa.gov",
+    "name_value": "ppms-validation-api-test.test-ppm.fcs.gsa.gov",
     "id": 24230213012,
     "entry_timestamp": "2026-02-06T21:00:45.933",
     "not_before": "2026-02-06T20:02:15",
@@ -5757,6 +5865,18 @@
     "not_before": "2026-02-06T20:01:46",
     "not_after": "2026-05-07T20:01:45",
     "serial_number": "06cfa04bc80aef57c60ec05daced22b4d592",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "ppms-property-reporting-api-test.test-ppm.fcs.gsa.gov",
+    "name_value": "ppms-property-reporting-api-test.test-ppm.fcs.gsa.gov",
+    "id": 24230232550,
+    "entry_timestamp": "2026-02-06T21:00:17.576",
+    "not_before": "2026-02-06T20:01:45",
+    "not_after": "2026-05-07T20:01:44",
+    "serial_number": "05c8f66ab20009d41e330f03d247fde35292",
     "result_count": 2
   },
   {
@@ -5872,6 +5992,18 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "ppms-redis-insight-test.test-ppm.fcs.gsa.gov",
     "name_value": "ppms-redis-insight-test.test-ppm.fcs.gsa.gov",
+    "id": 24230206904,
+    "entry_timestamp": "2026-02-06T20:58:53.863",
+    "not_before": "2026-02-06T20:00:22",
+    "not_after": "2026-05-07T20:00:21",
+    "serial_number": "069345e77a39fa4546c2633c920186df25a2",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "ppms-redis-insight-test.test-ppm.fcs.gsa.gov",
+    "name_value": "ppms-redis-insight-test.test-ppm.fcs.gsa.gov",
     "id": 24230182899,
     "entry_timestamp": "2026-02-06T20:58:52.944",
     "not_before": "2026-02-06T20:00:22",
@@ -5973,6 +6105,18 @@
     "not_before": "2026-02-06T19:58:57",
     "not_after": "2026-05-07T19:58:56",
     "serial_number": "066ebeff9afe838aa60fcaa66c09baad00c0",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "k8s-ingress-ppms-soap-proxy-perf-test.test-ppm.fcs.gsa.gov",
+    "name_value": "k8s-ingress-ppms-soap-proxy-perf-test.test-ppm.fcs.gsa.gov",
+    "id": 24230188019,
+    "entry_timestamp": "2026-02-06T20:57:27.981",
+    "not_before": "2026-02-06T19:58:57",
+    "not_after": "2026-05-07T19:58:56",
+    "serial_number": "058c0796d76f5888ac728ce3dafc5e216e47",
     "result_count": 2
   },
   {
@@ -7620,6 +7764,54 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "search.usa.gov",
+    "name_value": "search.gsa.gov",
+    "id": 23882183563,
+    "entry_timestamp": "2026-01-20T14:58:31.038",
+    "not_before": "2026-01-20T14:00:00",
+    "not_after": "2026-04-20T13:59:59",
+    "serial_number": "06471f929bce7ec0aaeceee9bb8abebca3ba",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "search.usa.gov",
+    "name_value": "search.gsa.gov",
+    "id": 23882165756,
+    "entry_timestamp": "2026-01-20T14:58:30.767",
+    "not_before": "2026-01-20T14:00:00",
+    "not_after": "2026-04-20T13:59:59",
+    "serial_number": "06471f929bce7ec0aaeceee9bb8abebca3ba",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "firstgov.gov",
+    "name_value": "gsa.gov\nm.gsa.gov\nworkplace.gsa.gov",
+    "id": 23880380064,
+    "entry_timestamp": "2026-01-20T13:48:10.69",
+    "not_before": "2026-01-20T12:49:40",
+    "not_after": "2026-04-20T12:49:39",
+    "serial_number": "06670707406c0a6fe5278a920c39afa908b3",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "firstgov.gov",
+    "name_value": "gsa.gov\nm.gsa.gov\nworkplace.gsa.gov",
+    "id": 23880226870,
+    "entry_timestamp": "2026-01-20T13:48:10.297",
+    "not_before": "2026-01-20T12:49:40",
+    "not_after": "2026-04-20T12:49:39",
+    "serial_number": "06670707406c0a6fe5278a920c39afa908b3",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 246719,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "nsnservice-api-mgmt.fss19-mgmt.fcs.gsa.gov",
@@ -8157,6 +8349,18 @@
     "not_before": "2026-01-14T15:47:00",
     "not_after": "2026-04-14T15:46:59",
     "serial_number": "055c99c79d466cb7abb4f9abb407780c8a81",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "ppms-redis-insight-develop.dev-ppm.fcs.gsa.gov",
+    "name_value": "ppms-redis-insight-develop.dev-ppm.fcs.gsa.gov",
+    "id": 23764434402,
+    "entry_timestamp": "2026-01-14T15:09:58.834",
+    "not_before": "2026-01-14T14:11:27",
+    "not_after": "2026-04-14T14:11:26",
+    "serial_number": "06288bc0f385666ec8dfc47cf490aacab3ba",
     "result_count": 2
   },
   {
