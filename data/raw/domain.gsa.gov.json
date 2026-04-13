@@ -1,5 +1,17 @@
 [
   {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "*.store-leasing.fleet-dev.fcs.gsa.gov",
+    "name_value": "*.store-leasing.fleet-dev.fcs.gsa.gov\nstore-leasing.fleet-dev.fcs.gsa.gov",
+    "id": 25463817850,
+    "entry_timestamp": "2026-04-10T04:37:52.497",
+    "not_before": "2026-04-10T00:00:00",
+    "not_after": "2026-10-24T23:59:59",
+    "serial_number": "0c2f576bf4995b3070c2c98dbd906089",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "akamaisecure.qualtrics.com",
@@ -173,7 +185,7 @@
     "common_name": "tools.fleet-prod.fcs.gsa.gov",
     "name_value": "*.tools.fleet-prod.fcs.gsa.gov\ntools.fleet-prod.fcs.gsa.gov",
     "id": 25450476183,
-    "entry_timestamp": "2026-04-09T02:16:46.498",
+    "entry_timestamp": "2026-04-09T02:16:46.151",
     "not_before": "2026-04-09T00:00:00",
     "not_after": "2026-10-23T23:59:59",
     "serial_number": "0f1c4ffec7d1e87b24328359cebfb1b0",
@@ -209,7 +221,7 @@
     "common_name": "sonarqube.etsnext.fas.gsa.gov",
     "name_value": "sonarqube.etsnext.fas.gsa.gov",
     "id": 25449154703,
-    "entry_timestamp": "2026-04-09T00:03:07.497",
+    "entry_timestamp": "2026-04-09T00:03:07.15",
     "not_before": "2026-04-09T00:00:00",
     "not_after": "2026-10-23T23:59:59",
     "serial_number": "07fff9b2f6cf5d8f9fe8605acd468fe1",
@@ -886,6 +898,18 @@
     "not_after": "2026-09-19T23:59:59",
     "serial_number": "0ddcbdac01f2d07bf55a5e23f659fef1",
     "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "selenium-hub.mgmt-ppm.fcs.gsa.gov",
+    "name_value": "selenium-hub.mgmt-ppm.fcs.gsa.gov",
+    "id": 25461116735,
+    "entry_timestamp": "2026-04-01T03:36:07.26",
+    "not_before": "2026-04-01T02:36:33",
+    "not_after": "2026-06-30T02:36:32",
+    "serial_number": "05a05449df18a067e35d39474e35bb5d9066",
+    "result_count": 2
   },
   {
     "issuer_ca_id": 295817,
