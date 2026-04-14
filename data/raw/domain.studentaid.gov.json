@@ -2,6 +2,66 @@
   {
     "issuer_ca_id": 295816,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "kas.gitlab.studentaid.gov",
+    "name_value": "kas.gitlab.studentaid.gov",
+    "id": 25490741391,
+    "entry_timestamp": "2026-04-13T22:03:35.13",
+    "not_before": "2026-04-13T21:05:04",
+    "not_after": "2026-07-12T21:05:03",
+    "serial_number": "0682a3752b604abe540f81c6ef8795eea91f",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295809,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
+    "common_name": "gitlab.studentaid.gov",
+    "name_value": "*.gitlab.studentaid.gov\ngitlab.studentaid.gov",
+    "id": 25478108384,
+    "entry_timestamp": "2026-04-12T09:10:30.53",
+    "not_before": "2026-04-12T08:12:00",
+    "not_after": "2026-07-11T08:11:59",
+    "serial_number": "06cd05ce5331132a422f9295bd25829dad5d",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "test-aqm.ccb.studentaid.gov",
+    "name_value": "test-aqm.ccb.studentaid.gov\ntest-wfm.ccb.studentaid.gov\ntest-wfm-cip-hist.ccb.studentaid.gov\ntest-wfm-cip-rta.ccb.studentaid.gov",
+    "id": 25458855455,
+    "entry_timestamp": "2026-04-09T19:34:47.498",
+    "not_before": "2026-04-09T00:00:00",
+    "not_after": "2026-10-24T23:59:59",
+    "serial_number": "089709b31563b9a9f434ca677653db63",
+    "result_count": 5
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "aqm.ccb.studentaid.gov",
+    "name_value": "aqm.ccb.studentaid.gov\nwfm.ccb.studentaid.gov\nwfm-cip-hist.ccb.studentaid.gov\nwfm-cip-rta.ccb.studentaid.gov",
+    "id": 25458398729,
+    "entry_timestamp": "2026-04-09T18:31:06.151",
+    "not_before": "2026-04-09T00:00:00",
+    "not_after": "2026-10-24T23:59:59",
+    "serial_number": "033ec12c9cc9477ce0393319c14f76f7",
+    "result_count": 5
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "*.cod.atagc.com",
+    "name_value": "*.test.studentaid.gov",
+    "id": 25437859637,
+    "entry_timestamp": "2026-03-30T14:22:17.304",
+    "not_before": "2026-03-30T13:23:47",
+    "not_after": "2026-06-28T13:23:46",
+    "serial_number": "060ff823dd4b5ecdb508e08f003a4688844f",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "*.cod.atagc.com",
     "name_value": "*.test.studentaid.gov",
     "id": 25286699517,
@@ -550,18 +610,6 @@
     "not_after": "2026-09-11T23:59:59",
     "serial_number": "06cbdafb620ea45775a19f64ad44473f",
     "result_count": 4
-  },
-  {
-    "issuer_ca_id": 286244,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR3",
-    "common_name": "content.guides.cri.studentaid.gov",
-    "name_value": "content.guides.cri.studentaid.gov",
-    "id": 24566913481,
-    "entry_timestamp": "2026-02-22T03:16:03.79",
-    "not_before": "2026-01-14T02:16:36",
-    "not_after": "2026-04-14T03:12:32",
-    "serial_number": "56ab390c16d2e07c0aec770f3bd1270f",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 247119,
@@ -1438,42 +1486,6 @@
     "not_after": "2027-02-12T23:59:59",
     "serial_number": "0d55f1672311a0c165f1be7723295e4d",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286244,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR3",
-    "common_name": "content.guides.cri.studentaid.gov",
-    "name_value": "content.guides.cri.studentaid.gov",
-    "id": 23754574084,
-    "entry_timestamp": "2026-01-14T03:16:37.569",
-    "not_before": "2026-01-14T02:16:36",
-    "not_after": "2026-04-14T03:12:32",
-    "serial_number": "56ab390c16d2e07c0aec770f3bd1270f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "*.test.studentaid.gov",
-    "name_value": "*.mail.test.studentaid.gov\n*.origin.test.studentaid.gov\n*.test.studentaid.gov",
-    "id": 23727937272,
-    "entry_timestamp": "2026-01-12T20:04:09.646",
-    "not_before": "2026-01-12T19:05:39",
-    "not_after": "2026-04-12T19:05:38",
-    "serial_number": "05ea7133dde760172040af95bf8c93187341",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "*.test.studentaid.gov",
-    "name_value": "*.mail.test.studentaid.gov\n*.origin.test.studentaid.gov\n*.test.studentaid.gov",
-    "id": 23727920202,
-    "entry_timestamp": "2026-01-12T20:04:09.398",
-    "not_before": "2026-01-12T19:05:39",
-    "not_after": "2026-04-12T19:05:38",
-    "serial_number": "05ea7133dde760172040af95bf8c93187341",
-    "result_count": 4
   },
   {
     "issuer_ca_id": 246719,
