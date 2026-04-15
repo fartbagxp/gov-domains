@@ -1,5 +1,77 @@
 [
   {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "civics.archives.gov",
+    "name_value": "civics.archives.gov",
+    "id": 25477766464,
+    "entry_timestamp": "2026-04-11T04:48:05.151",
+    "not_before": "2026-04-11T00:00:00",
+    "not_after": "2026-10-25T23:59:59",
+    "serial_number": "0539781ba974335e9babb9e41677420d",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "d250.archives.gov",
+    "name_value": "d250.archives.gov\ndeclaration250.archives.gov",
+    "id": 25492141586,
+    "entry_timestamp": "2026-04-10T21:10:12.251",
+    "not_before": "2026-04-10T20:11:39",
+    "not_after": "2026-07-09T20:11:38",
+    "serial_number": "066fdb99e41fc21c906a6f89f1dca2aaa7fc",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "d250.archives.gov",
+    "name_value": "d250.archives.gov\ndeclaration250.archives.gov",
+    "id": 25465194079,
+    "entry_timestamp": "2026-04-10T21:10:09.93",
+    "not_before": "2026-04-10T20:11:39",
+    "not_after": "2026-07-09T20:11:38",
+    "serial_number": "066fdb99e41fc21c906a6f89f1dca2aaa7fc",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 247115,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
+    "common_name": "qa.museum.archives.gov",
+    "name_value": "qa.museum.archives.gov",
+    "id": 25465877275,
+    "entry_timestamp": "2026-04-10T07:45:18.15",
+    "not_before": "2025-08-17T00:00:00",
+    "not_after": "2026-09-15T23:59:59",
+    "serial_number": "02f508777a513f28f82b4acf08e2ed5c",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "*.qa.archives.gov",
+    "name_value": "*.qa.archives.gov\n*.qa.museum.archives.gov",
+    "id": 25463050943,
+    "entry_timestamp": "2026-04-10T03:19:23.15",
+    "not_before": "2026-04-10T00:00:00",
+    "not_after": "2026-10-24T23:59:59",
+    "serial_number": "03a97f4172773aee85c4924183f5b431",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "download.catalog.archives.gov",
+    "name_value": "download.catalog.archives.gov",
+    "id": 25474087347,
+    "entry_timestamp": "2026-04-09T19:58:49.151",
+    "not_before": "2026-04-09T00:00:00",
+    "not_after": "2026-10-24T23:59:59",
+    "serial_number": "18a48738d3d4dfe0cc75f0e1362204a2",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 246719,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "download.catalog.archives.gov",
@@ -29,7 +101,7 @@
     "common_name": "trumanlibrary.gov",
     "name_value": "trumanlibrary.archives.gov",
     "id": 25454442037,
-    "entry_timestamp": "2026-04-09T10:10:20.498",
+    "entry_timestamp": "2026-04-09T10:00:37.151",
     "not_before": "2026-04-07T00:00:00",
     "not_after": "2026-10-21T23:59:59",
     "serial_number": "0c6d6a6442efb902fba5c57c03c9bc5a",
@@ -922,30 +994,6 @@
     "not_after": "2027-02-15T23:59:59",
     "serial_number": "47a026613eb15dabc7ca3ff6a50c8ff3",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "civilrightscoldcases.archives.gov",
-    "name_value": "civilrightscoldcaseact.archives.gov\ncivilrightscoldcases.archives.gov",
-    "id": 23734506302,
-    "entry_timestamp": "2026-01-13T03:57:41.804",
-    "not_before": "2026-01-13T02:59:11",
-    "not_after": "2026-04-13T02:59:10",
-    "serial_number": "06be24a6042a2df537f0ec2528e89809c0d6",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "civilrightscoldcases.archives.gov",
-    "name_value": "civilrightscoldcaseact.archives.gov\ncivilrightscoldcases.archives.gov",
-    "id": 23734487241,
-    "entry_timestamp": "2026-01-13T03:57:41.508",
-    "not_before": "2026-01-13T02:59:11",
-    "not_after": "2026-04-13T02:59:10",
-    "serial_number": "06be24a6042a2df537f0ec2528e89809c0d6",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 247119,
@@ -2494,17 +2542,5 @@
     "not_after": "2026-04-30T14:10:39",
     "serial_number": "61948ec8e5eb6fb76141eddaa569aa9e",
     "result_count": 1
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "qa.hoover.archives.gov",
-    "name_value": "*.qa.hoover.archives.gov\nqa.hoover.archives.gov",
-    "id": 17150867799,
-    "entry_timestamp": "2025-03-16T07:59:51.336",
-    "not_before": "2025-03-16T00:00:00",
-    "not_after": "2026-04-14T23:59:59",
-    "serial_number": "0f9f2e20a4c971f8a7ab9b96729631ee",
-    "result_count": 3
   }
 ]

@@ -2,6 +2,30 @@
   {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
+    "common_name": "federalfleets.energy.gov",
+    "name_value": "federalfleets.energy.gov\nwww.federalfleets.energy.gov",
+    "id": 25496379659,
+    "entry_timestamp": "2026-04-14T10:41:11.763",
+    "not_before": "2025-04-30T16:47:03",
+    "not_after": "2026-05-13T13:35:20",
+    "serial_number": "3daeae41599927ad208c8734c3239762",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "stg.annualmeritreview.energy.gov",
+    "name_value": "stg.annualmeritreview.energy.gov",
+    "id": 25462661132,
+    "entry_timestamp": "2026-04-10T01:57:38.151",
+    "not_before": "2026-04-09T23:15:38",
+    "not_after": "2026-07-09T00:15:16",
+    "serial_number": "4abaf282773b72800e3df93feaf1c7c5",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 365075,
+    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "integratedlightingcampaign.energy.gov",
     "name_value": "integratedlightingcampaign.energy.gov\nwww.integratedlightingcampaign.energy.gov",
     "id": 25446226818,
@@ -12,12 +36,48 @@
     "result_count": 3
   },
   {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "integratedlightingcampaign.energy.gov",
+    "name_value": "integratedlightingcampaign.energy.gov\nwww.integratedlightingcampaign.energy.gov",
+    "id": 25473994505,
+    "entry_timestamp": "2026-04-09T19:48:14.15",
+    "not_before": "2026-04-09T00:00:00",
+    "not_after": "2026-10-24T23:59:59",
+    "serial_number": "4aaea764e35f3d61f1d7cdce6ef5d241",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "avaeasappte01.doe.gov",
+    "name_value": "entrustadmint.energy.gov",
+    "id": 25473154522,
+    "entry_timestamp": "2026-04-09T18:08:51.151",
+    "not_before": "2026-04-09T00:00:00",
+    "not_after": "2026-10-24T23:59:59",
+    "serial_number": "00c1097d3790c764cb12c01d644d3a2584",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "amsc.energy.gov",
+    "name_value": "amsc.energy.gov",
+    "id": 25464429405,
+    "entry_timestamp": "2026-04-09T17:44:16.702",
+    "not_before": "2026-04-09T16:40:46",
+    "not_after": "2026-07-08T17:40:43",
+    "serial_number": "029748576b57ab0c130cb28182e23d1f",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "energy.gov",
     "name_value": "*.afdc.energy.gov\nafdc.energy.gov\n*.cleancities.energy.gov\ncleancities.energy.gov\n*.energy.gov\nenergy.gov",
     "id": 25449235826,
-    "entry_timestamp": "2026-04-09T00:08:58.498",
+    "entry_timestamp": "2026-04-09T00:08:58.151",
     "not_before": "2026-04-09T00:00:00",
     "not_after": "2026-10-23T23:59:59",
     "serial_number": "0e9c2a3b44057ace66696be2aaae26ae",
@@ -480,18 +540,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "thesource.energy.gov",
-    "name_value": "thesource.energy.gov",
-    "id": 25042611822,
-    "entry_timestamp": "2026-03-17T12:22:34.508",
-    "not_before": "2026-03-17T00:00:00",
-    "not_after": "2026-04-14T23:59:59",
-    "serial_number": "07820385dec5dce8668414b97d60004b",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 385512,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
     "common_name": "genesis.nnsa.energy.gov",
@@ -525,18 +573,6 @@
     "not_before": "2026-03-03T00:00:00",
     "not_after": "2026-09-16T23:59:59",
     "serial_number": "034bda9c54214eddb621f8a55dea14ea",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "thesource.energy.gov",
-    "name_value": "thesource.energy.gov",
-    "id": 25021759538,
-    "entry_timestamp": "2026-03-16T11:15:21.42",
-    "not_before": "2026-03-16T00:00:00",
-    "not_after": "2026-04-14T23:59:59",
-    "serial_number": "0d3a73adfc27c1aa3031fb160c21d458",
     "result_count": 2
   },
   {
@@ -4656,54 +4692,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 295813,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
-    "common_name": "web.ornl.gov",
-    "name_value": "genomics.energy.gov\ntes.science.energy.gov",
-    "id": 23728418976,
-    "entry_timestamp": "2026-01-12T20:37:08.095",
-    "not_before": "2026-01-12T19:38:37",
-    "not_after": "2026-04-12T19:38:36",
-    "serial_number": "06f9d11ffd4edb4faab586379094d4e9a374",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295813,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
-    "common_name": "web.ornl.gov",
-    "name_value": "genomics.energy.gov\ntes.science.energy.gov",
-    "id": 23728417396,
-    "entry_timestamp": "2026-01-12T20:37:07.89",
-    "not_before": "2026-01-12T19:38:37",
-    "not_after": "2026-04-12T19:38:36",
-    "serial_number": "06f9d11ffd4edb4faab586379094d4e9a374",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295813,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
-    "common_name": "web.ornl.gov",
-    "name_value": "genomics.energy.gov\ntes.science.energy.gov",
-    "id": 23728378362,
-    "entry_timestamp": "2026-01-12T20:34:07.586",
-    "not_before": "2026-01-12T19:35:36",
-    "not_after": "2026-04-12T19:35:35",
-    "serial_number": "0628ed4bc1c27adccc897cc7bd14b51e3e1e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295813,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
-    "common_name": "web.ornl.gov",
-    "name_value": "genomics.energy.gov\ntes.science.energy.gov",
-    "id": 23728378809,
-    "entry_timestamp": "2026-01-12T20:34:07.161",
-    "not_before": "2026-01-12T19:35:36",
-    "not_after": "2026-04-12T19:35:35",
-    "serial_number": "0628ed4bc1c27adccc897cc7bd14b51e3e1e",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "wdh.energy.gov",
@@ -6754,18 +6742,6 @@
     "not_after": "2026-07-26T23:59:59",
     "serial_number": "54c0cbb3850eb424216273140b6c5c5a",
     "result_count": 1
-  },
-  {
-    "issuer_ca_id": 185756,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1",
-    "common_name": "thesource.energy.gov",
-    "name_value": "thesource.energy.gov",
-    "id": 19876265791,
-    "entry_timestamp": "2025-07-24T12:14:34.664",
-    "not_before": "2025-07-24T00:00:00",
-    "not_after": "2026-04-14T23:59:59",
-    "serial_number": "0c61be24f5a6b01d4949d97ad7a7f68e",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 385512,

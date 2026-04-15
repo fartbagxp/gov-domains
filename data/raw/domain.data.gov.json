@@ -1,11 +1,47 @@
 [
   {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "catalog-old.data.gov",
+    "name_value": "catalog-old.data.gov",
+    "id": 25493663407,
+    "entry_timestamp": "2026-04-14T04:28:38.53",
+    "not_before": "2026-04-13T00:00:00",
+    "not_after": "2026-10-27T23:59:59",
+    "serial_number": "05cb01626b03de0a26ee78f3f9c0fec1",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "catalog-dev.data.gov",
+    "name_value": "catalog-dev.data.gov\ncatalog-stage.data.gov",
+    "id": 25476347281,
+    "entry_timestamp": "2026-04-11T02:12:31.497",
+    "not_before": "2026-04-11T00:00:00",
+    "not_after": "2026-10-25T23:59:59",
+    "serial_number": "01b03806af3f6c5e16c9c384bc4e828a",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "catalog-beta.data.gov",
+    "name_value": "catalog-beta.data.gov",
+    "id": 25470604260,
+    "entry_timestamp": "2026-04-10T16:29:21.497",
+    "not_before": "2026-04-10T15:30:50",
+    "not_after": "2026-07-09T15:30:49",
+    "serial_number": "05aa508c5a1d166ec16d4dc5005478c6b13a",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 295816,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "strategy.data.gov",
     "name_value": "strategy.data.gov",
     "id": 25460422350,
-    "entry_timestamp": "2026-04-03T14:19:47.039",
+    "entry_timestamp": "2026-04-03T14:19:46.967",
     "not_before": "2026-04-03T13:21:16",
     "not_after": "2026-07-02T13:21:15",
     "serial_number": "05fe086f991aa361486c914e9488f154a43b",
