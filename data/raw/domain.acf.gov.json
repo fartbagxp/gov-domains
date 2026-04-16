@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "rads-dev.acf.gov",
+    "name_value": "*.rads-dev.acf.gov\nrads-dev.acf.gov",
+    "id": 25526426536,
+    "entry_timestamp": "2026-04-15T01:09:08.497",
+    "not_before": "2026-04-15T00:00:00",
+    "not_after": "2026-10-29T23:59:59",
+    "serial_number": "0eb4bbb17e7fb2363e614681085bd74a",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "login-sbx.acf.gov",
+    "name_value": "login-sbx.acf.gov",
+    "id": 25513593007,
+    "entry_timestamp": "2026-04-14T02:02:02.498",
+    "not_before": "2026-04-14T01:03:31",
+    "not_after": "2026-07-13T01:03:30",
+    "serial_number": "061aae968da8ad393eb49de9546889d3b674",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247115,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
     "common_name": "ncta-test.acf.gov",
@@ -1569,18 +1593,6 @@
     "not_before": "2026-02-15T00:00:00",
     "not_after": "2027-03-16T23:59:59",
     "serial_number": "0a6810490e82fbbdd6a2b6f703c8f9a7",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "uacb-training-dev.acf.gov",
-    "name_value": "uacb-training-dev.acf.gov",
-    "id": 24417354677,
-    "entry_timestamp": "2026-02-15T02:48:06.532",
-    "not_before": "2025-03-17T00:00:00",
-    "not_after": "2026-04-15T23:59:59",
-    "serial_number": "06cd9a820d11a83b3ae98de1f5b348d7",
     "result_count": 2
   },
   {
@@ -3708,18 +3720,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 247119,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
-    "common_name": "www.nct.acf.gov",
-    "name_value": "www.nct.acf.gov",
-    "id": 19291871501,
-    "entry_timestamp": "2025-06-27T17:51:04.965",
-    "not_before": "2025-06-27T00:00:00",
-    "not_after": "2026-07-26T23:59:59",
-    "serial_number": "057aebe42a0a0ba98e124c29f1f74344",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 247106,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
     "common_name": "nct.acf.gov",
@@ -3729,6 +3729,18 @@
     "not_before": "2025-06-27T00:00:00",
     "not_after": "2026-07-26T23:59:59",
     "serial_number": "0a0c817bd159167eeff64ff1ebebb6cb",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "www.nct.acf.gov",
+    "name_value": "www.nct.acf.gov",
+    "id": 19291871501,
+    "entry_timestamp": "2025-06-27T17:51:04.965",
+    "not_before": "2025-06-27T00:00:00",
+    "not_after": "2026-07-26T23:59:59",
+    "serial_number": "057aebe42a0a0ba98e124c29f1f74344",
     "result_count": 2
   },
   {
@@ -5157,54 +5169,6 @@
     "not_before": "2025-03-21T00:00:00",
     "not_after": "2026-04-20T23:59:59",
     "serial_number": "065b7b25a0683e542a79cdeeaae0410d",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "uacb-training-dev.acf.gov",
-    "name_value": "uacb-training-dev.acf.gov",
-    "id": 17192983137,
-    "entry_timestamp": "2025-03-17T22:24:51.108",
-    "not_before": "2025-03-17T00:00:00",
-    "not_after": "2026-04-15T23:59:59",
-    "serial_number": "06cd9a820d11a83b3ae98de1f5b348d7",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "ncsacw-ta-test.acf.gov",
-    "name_value": "ncsacw-ta-test.acf.gov",
-    "id": 17192519604,
-    "entry_timestamp": "2025-03-17T21:49:22.703",
-    "not_before": "2025-03-17T00:00:00",
-    "not_after": "2026-04-15T23:59:59",
-    "serial_number": "0e414f8a4152c8d64adcfb8a4e12427a",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "ncsacw-ta-dev.acf.gov",
-    "name_value": "ncsacw-ta-dev.acf.gov",
-    "id": 17192426908,
-    "entry_timestamp": "2025-03-17T21:44:45.517",
-    "not_before": "2025-03-17T00:00:00",
-    "not_after": "2026-04-15T23:59:59",
-    "serial_number": "06366ea5e7c0eee1966e01c6c6da0c3d",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "uacb-training-dev.acf.gov",
-    "name_value": "uacb-training-dev.acf.gov",
-    "id": 17184509867,
-    "entry_timestamp": "2025-03-17T14:55:24.187",
-    "not_before": "2025-03-17T00:00:00",
-    "not_after": "2026-04-15T23:59:59",
-    "serial_number": "06b26353a529e9b65021907668ab90f7",
     "result_count": 2
   }
 ]

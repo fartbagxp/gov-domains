@@ -1,5 +1,17 @@
 [
   {
+    "issuer_ca_id": 295809,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
+    "common_name": "coil.census.gov",
+    "name_value": "*.coil.census.gov\ncoil.census.gov",
+    "id": 25524842786,
+    "entry_timestamp": "2026-04-16T06:51:13.93",
+    "not_before": "2026-04-16T05:52:43",
+    "not_after": "2026-07-15T05:52:42",
+    "serial_number": "0615e80d5e4661eb05ec2e2e09395f5b00c5",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 295816,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "webapps.census.gov",
@@ -96,24 +108,12 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 282053,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
-    "common_name": "chris.stage.hrd.webapps.census.gov",
-    "name_value": "chris.stage.hrd.webapps.census.gov",
-    "id": 25419838952,
-    "entry_timestamp": "2026-04-04T05:40:03.889",
-    "not_before": "2026-04-03T03:02:32",
-    "not_after": "2026-05-03T03:09:56",
-    "serial_number": "3fe533cad1980b65821fa6b6e5e30fd5",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 204407,
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
     "common_name": "disasters.census.gov",
     "name_value": "*.disasters.census.gov\ndisasters.census.gov",
     "id": 25457293366,
-    "entry_timestamp": "2026-04-03T20:06:54.378",
+    "entry_timestamp": "2026-04-03T20:06:54.307",
     "not_before": "2026-04-03T00:00:00",
     "not_after": "2026-07-02T19:59:07",
     "serial_number": "6f6390baf2fcf94a5448bf7cb1210d17",
@@ -125,7 +125,7 @@
     "common_name": "disasters.census.gov",
     "name_value": "*.disasters.census.gov\ndisasters.census.gov",
     "id": 25457293583,
-    "entry_timestamp": "2026-04-03T20:06:53.48",
+    "entry_timestamp": "2026-04-03T20:06:53.406",
     "not_before": "2026-04-03T00:00:00",
     "not_after": "2026-07-02T19:59:07",
     "serial_number": "6f6390baf2fcf94a5448bf7cb1210d17",
@@ -137,7 +137,7 @@
     "common_name": "disasters.census.gov",
     "name_value": "*.disasters.census.gov\ndisasters.census.gov",
     "id": 25456915482,
-    "entry_timestamp": "2026-04-03T19:59:00.2",
+    "entry_timestamp": "2026-04-03T19:59:00.134",
     "not_before": "2026-04-03T00:00:00",
     "not_after": "2026-07-02T19:57:20",
     "serial_number": "195f8ab84125edda6aca328178ab97a2",
@@ -149,7 +149,7 @@
     "common_name": "disasters.census.gov",
     "name_value": "*.disasters.census.gov\ndisasters.census.gov",
     "id": 25456914872,
-    "entry_timestamp": "2026-04-03T19:58:59.61",
+    "entry_timestamp": "2026-04-03T19:58:59.537",
     "not_before": "2026-04-03T00:00:00",
     "not_after": "2026-07-02T19:57:20",
     "serial_number": "195f8ab84125edda6aca328178ab97a2",
@@ -180,6 +180,42 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 282054,
+    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
+    "common_name": "chris.test.hrd.cloudflaretest.census.gov",
+    "name_value": "chris.test.hrd.cloudflaretest.census.gov",
+    "id": 25530866289,
+    "entry_timestamp": "2026-04-03T03:53:24.658",
+    "not_before": "2026-04-03T03:43:23",
+    "not_after": "2026-05-03T03:49:41",
+    "serial_number": "72fde39c19eb7c87e63d20b015c6176c",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 282054,
+    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
+    "common_name": "chris.hrd.webapps.census.gov",
+    "name_value": "chris.hrd.webapps.census.gov",
+    "id": 25530854419,
+    "entry_timestamp": "2026-04-03T03:52:31.165",
+    "not_before": "2026-04-03T03:42:30",
+    "not_after": "2026-05-03T03:48:56",
+    "serial_number": "64a6f0f4918ad4698a85d41939dddd39",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 282053,
+    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
+    "common_name": "chris.test.hrd.cloudflaretest.census.gov",
+    "name_value": "chris.test.hrd.cloudflaretest.census.gov",
+    "id": 25530847721,
+    "entry_timestamp": "2026-04-03T03:52:01.731",
+    "not_before": "2026-04-03T03:42:00",
+    "not_after": "2026-05-03T03:49:41",
+    "serial_number": "19412be3a88b1e7a874e3ee4b8e5add6",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 282053,
     "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
     "common_name": "respond.test.census.gov",
@@ -189,6 +225,18 @@
     "not_before": "2026-04-03T03:34:25",
     "not_after": "2026-10-19T03:34:24",
     "serial_number": "3a00691d640d888e32c330a32f1fc504",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 282053,
+    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
+    "common_name": "chris.hrd.webapps.census.gov",
+    "name_value": "chris.hrd.webapps.census.gov",
+    "id": 25530833885,
+    "entry_timestamp": "2026-04-03T03:51:11.196",
+    "not_before": "2026-04-03T03:41:10",
+    "not_after": "2026-05-03T03:48:55",
+    "serial_number": "238fec1b61eddc481fc80bbca810032d",
     "result_count": 2
   },
   {
@@ -242,6 +290,30 @@
   {
     "issuer_ca_id": 282054,
     "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
+    "common_name": "chris.test.hrd.webapps.census.gov",
+    "name_value": "chris.test.hrd.webapps.census.gov",
+    "id": 25530715053,
+    "entry_timestamp": "2026-04-03T03:42:35.397",
+    "not_before": "2026-04-03T03:32:34",
+    "not_after": "2026-05-03T03:38:58",
+    "serial_number": "0b22b8c4cc56cc05d7dfbfab95ddea20",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 282053,
+    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
+    "common_name": "chris.test.hrd.webapps.census.gov",
+    "name_value": "chris.test.hrd.webapps.census.gov",
+    "id": 25530694556,
+    "entry_timestamp": "2026-04-03T03:41:12.834",
+    "not_before": "2026-04-03T03:31:11",
+    "not_after": "2026-05-03T03:38:57",
+    "serial_number": "0c173ebc4ae2fa7632d9ec4285501dd3",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 282054,
+    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
     "common_name": "chris.stage.hrd.webapps.census.gov",
     "name_value": "chris.stage.hrd.webapps.census.gov",
     "id": 25344773929,
@@ -249,6 +321,30 @@
     "not_before": "2026-04-03T03:28:30",
     "not_after": "2026-05-03T03:34:39",
     "serial_number": "341695caeacda6ad188a2d4b6bb2c93a",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 282054,
+    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
+    "common_name": "chris.stage.hrd.webapps.census.gov",
+    "name_value": "chris.stage.hrd.webapps.census.gov",
+    "id": 25530654593,
+    "entry_timestamp": "2026-04-03T03:38:31.733",
+    "not_before": "2026-04-03T03:28:30",
+    "not_after": "2026-05-03T03:34:39",
+    "serial_number": "341695caeacda6ad188a2d4b6bb2c93a",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 282053,
+    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
+    "common_name": "chris.stage.hrd.webapps.census.gov",
+    "name_value": "chris.stage.hrd.webapps.census.gov",
+    "id": 25530635044,
+    "entry_timestamp": "2026-04-03T03:37:02.575",
+    "not_before": "2026-04-03T03:27:01",
+    "not_after": "2026-05-03T03:34:38",
+    "serial_number": "3c69bb5323bd137ad571df5ad1ab3035",
     "result_count": 2
   },
   {
@@ -326,6 +422,18 @@
   {
     "issuer_ca_id": 282054,
     "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
+    "common_name": "cloudflaretest.census.gov",
+    "name_value": "cloudflaretest.census.gov",
+    "id": 25530473032,
+    "entry_timestamp": "2026-04-03T03:24:20.024",
+    "not_before": "2026-04-03T03:14:19",
+    "not_after": "2026-05-03T03:20:44",
+    "serial_number": "20bc9b8f9324d29b16bbdf9a26b2832b",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 282054,
+    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
     "common_name": "staging.test.census.gov",
     "name_value": "staging.test.census.gov",
     "id": 25345925282,
@@ -333,6 +441,18 @@
     "not_before": "2026-04-03T03:12:31",
     "not_after": "2026-10-19T03:12:30",
     "serial_number": "7d2754517a07f0487c5338c199690391",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 282053,
+    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
+    "common_name": "cloudflaretest.census.gov",
+    "name_value": "cloudflaretest.census.gov",
+    "id": 25530456104,
+    "entry_timestamp": "2026-04-03T03:23:00.371",
+    "not_before": "2026-04-03T03:12:59",
+    "not_after": "2026-05-03T03:20:43",
+    "serial_number": "3492e4ca4b629ac8065ca9d01947c10d",
     "result_count": 2
   },
   {
@@ -374,6 +494,18 @@
   {
     "issuer_ca_id": 282054,
     "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
+    "common_name": "chris.dev.hrd.webapps.census.gov",
+    "name_value": "chris.dev.hrd.webapps.census.gov",
+    "id": 25530355198,
+    "entry_timestamp": "2026-04-03T03:15:50.32",
+    "not_before": "2026-04-03T03:05:49",
+    "not_after": "2026-05-03T03:12:03",
+    "serial_number": "4802215e51be429bb4fcd399828a586f",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 282054,
+    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
     "common_name": "chris.stage.hrd.webapps.census.gov",
     "name_value": "chris.stage.hrd.webapps.census.gov",
     "id": 25412946401,
@@ -396,6 +528,66 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 282053,
+    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
+    "common_name": "chris.dev.hrd.webapps.census.gov",
+    "name_value": "chris.dev.hrd.webapps.census.gov",
+    "id": 25530342651,
+    "entry_timestamp": "2026-04-03T03:14:28.513",
+    "not_before": "2026-04-03T03:04:27",
+    "not_after": "2026-05-03T03:12:02",
+    "serial_number": "6f9a34e5357ef6a65d0631701c1118ac",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 282054,
+    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
+    "common_name": "chris.stage.hrd.webapps.census.gov",
+    "name_value": "chris.stage.hrd.webapps.census.gov",
+    "id": 25530339735,
+    "entry_timestamp": "2026-04-03T03:14:13.105",
+    "not_before": "2026-04-03T03:04:12",
+    "not_after": "2026-05-03T03:09:56",
+    "serial_number": "7bb87ba8adcabcac0f50c6fff9028e9f",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 282054,
+    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
+    "common_name": "chris.test.hrd.webapps.census.gov",
+    "name_value": "chris.test.hrd.webapps.census.gov",
+    "id": 25530335621,
+    "entry_timestamp": "2026-04-03T03:14:00.463",
+    "not_before": "2026-04-03T03:03:59",
+    "not_after": "2026-05-03T03:10:06",
+    "serial_number": "4f748adb7391be8013fc1a2a65f0a3fb",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 282053,
+    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
+    "common_name": "chris.stage.hrd.webapps.census.gov",
+    "name_value": "chris.stage.hrd.webapps.census.gov",
+    "id": 25419838952,
+    "entry_timestamp": "2026-04-03T03:12:33.841",
+    "not_before": "2026-04-03T03:02:32",
+    "not_after": "2026-05-03T03:09:56",
+    "serial_number": "3fe533cad1980b65821fa6b6e5e30fd5",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 282053,
+    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
+    "common_name": "chris.test.hrd.webapps.census.gov",
+    "name_value": "chris.test.hrd.webapps.census.gov",
+    "id": 25530320400,
+    "entry_timestamp": "2026-04-03T03:12:30.789",
+    "not_before": "2026-04-03T03:02:29",
+    "not_after": "2026-05-03T03:10:05",
+    "serial_number": "4a00fc7b6db883110b84fc350c30207f",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 282054,
     "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
     "common_name": "chris.hrd.webapps.census.gov",
@@ -405,6 +597,30 @@
     "not_before": "2026-04-03T03:01:31",
     "not_after": "2026-05-03T03:09:02",
     "serial_number": "2bf085579d4aa30821848f341f6ff9c6",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 282054,
+    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
+    "common_name": "chris.hrd.webapps.census.gov",
+    "name_value": "chris.hrd.webapps.census.gov",
+    "id": 25530306235,
+    "entry_timestamp": "2026-04-03T03:11:32.465",
+    "not_before": "2026-04-03T03:01:31",
+    "not_after": "2026-05-03T03:09:02",
+    "serial_number": "2bf085579d4aa30821848f341f6ff9c6",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 282053,
+    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
+    "common_name": "chris.hrd.webapps.census.gov",
+    "name_value": "chris.hrd.webapps.census.gov",
+    "id": 25530286924,
+    "entry_timestamp": "2026-04-03T03:10:13.079",
+    "not_before": "2026-04-03T03:00:11",
+    "not_after": "2026-05-03T03:09:01",
+    "serial_number": "0bf28c38e2f382deba9c72534a96bda0",
     "result_count": 2
   },
   {
@@ -617,10 +833,22 @@
     "common_name": "cloudflaretest.census.gov",
     "name_value": "cloudflaretest.census.gov",
     "id": 25351928769,
-    "entry_timestamp": "2026-03-31T11:30:39.614",
+    "entry_timestamp": "2026-03-31T11:29:43.671",
     "not_before": "2026-03-31T11:19:35",
     "not_after": "2026-04-30T11:25:56",
     "serial_number": "26f636c7528777ac9d0f7340dd6f5d65",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 413864,
+    "issuer_name": "C=US, O=SSL Corporation, CN=Cloudflare TLS Issuing RSA CA 3",
+    "common_name": "cloudflaretest.census.gov",
+    "name_value": "cloudflaretest.census.gov",
+    "id": 25525151631,
+    "entry_timestamp": "2026-03-31T11:29:43.091",
+    "not_before": "2026-03-31T11:18:12",
+    "not_after": "2026-04-30T11:25:53",
+    "serial_number": "05dc3518480e1db10b31775717d37bde",
     "result_count": 2
   },
   {
@@ -3202,78 +3430,6 @@
     "not_after": "2027-01-15T23:59:59",
     "serial_number": "086b3b8ec11a1d0d55a405338278e0d6",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "respond.census.gov",
-    "name_value": "respond.census.gov",
-    "id": 23783515592,
-    "entry_timestamp": "2026-01-15T14:11:21.721",
-    "not_before": "2026-01-15T13:10:26",
-    "not_after": "2026-04-15T14:10:24",
-    "serial_number": "3725f389c87d72e11154e49b173f5869",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "respond.census.gov",
-    "name_value": "respond.census.gov",
-    "id": 23783533443,
-    "entry_timestamp": "2026-01-15T14:10:27.468",
-    "not_before": "2026-01-15T13:10:26",
-    "not_after": "2026-04-15T14:10:24",
-    "serial_number": "3725f389c87d72e11154e49b173f5869",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "respond.census.gov",
-    "name_value": "respond.census.gov",
-    "id": 23783522053,
-    "entry_timestamp": "2026-01-15T14:10:19.019",
-    "not_before": "2026-01-15T13:10:18",
-    "not_after": "2026-04-15T14:07:59",
-    "serial_number": "00bc142d1596c0a98f0e4b5dadbc0a6ca0",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "centurion.census.gov",
-    "name_value": "centurion.census.gov",
-    "id": 23783332441,
-    "entry_timestamp": "2026-01-15T13:57:49.821",
-    "not_before": "2026-01-15T12:56:53",
-    "not_after": "2026-04-15T13:56:50",
-    "serial_number": "0083bd8ddfd0d2e9280ebdc305a548bbdb",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "centurion.census.gov",
-    "name_value": "centurion.census.gov",
-    "id": 23783336949,
-    "entry_timestamp": "2026-01-15T13:56:54.219",
-    "not_before": "2026-01-15T12:56:53",
-    "not_after": "2026-04-15T13:56:50",
-    "serial_number": "0083bd8ddfd0d2e9280ebdc305a548bbdb",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "centurion.census.gov",
-    "name_value": "centurion.census.gov",
-    "id": 23783325309,
-    "entry_timestamp": "2026-01-15T13:56:44.632",
-    "not_before": "2026-01-15T12:56:44",
-    "not_after": "2026-04-15T13:54:29",
-    "serial_number": "00c726fedc57b8774f0e817eb8d551fbc0",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 185752,
