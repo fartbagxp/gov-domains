@@ -2,6 +2,18 @@
   {
     "issuer_ca_id": 385512,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "explore.dot.gov",
+    "name_value": "explore.dot.gov\nwww.explore.dot.gov",
+    "id": 25538331943,
+    "entry_timestamp": "2026-04-14T14:02:46.15",
+    "not_before": "2026-04-14T00:00:00",
+    "not_after": "2026-10-29T23:59:59",
+    "serial_number": "73819ced2978d3fec9717260a7c3e79e",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
     "common_name": "tms.volpe.dot.gov",
     "name_value": "tms.volpe.dot.gov\nwww.tms.volpe.dot.gov",
     "id": 25527218871,
@@ -300,6 +312,18 @@
     "result_count": 4
   },
   {
+    "issuer_ca_id": 286244,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR3",
+    "common_name": "learngoogle.dot.gov",
+    "name_value": "learngoogle.dot.gov",
+    "id": 25537163695,
+    "entry_timestamp": "2026-04-05T21:08:16.217",
+    "not_before": "2026-04-05T20:08:15",
+    "not_after": "2026-07-04T20:56:05",
+    "serial_number": "00cdca37d01b087dbe0ae77823c9f9ca68",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "Ctrl.oig.dot.gov",
@@ -345,18 +369,6 @@
     "not_before": "2026-04-02T00:00:00",
     "not_after": "2026-10-17T23:59:59",
     "serial_number": "06ae288376c56623a4ecb8e691c65e5a",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "webreview.oig.dot.gov",
-    "name_value": "webreview.oig.dot.gov",
-    "id": 25404418955,
-    "entry_timestamp": "2026-04-02T14:17:47.429",
-    "not_before": "2025-04-15T00:00:00",
-    "not_after": "2026-04-16T23:59:59",
-    "serial_number": "06d6df43e597b75ad77827326fef5566",
     "result_count": 2
   },
   {
@@ -1269,18 +1281,6 @@
     "not_before": "2026-03-18T00:00:00",
     "not_after": "2026-10-02T23:59:59",
     "serial_number": "46b9f9ace0ba8a01798e754e0dae9e7b",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "crashstats.nhtsa.dot.gov",
-    "name_value": "crashstats.nhtsa.dot.gov\nwww.crashstats.nhtsa.dot.gov",
-    "id": 25068084145,
-    "entry_timestamp": "2026-03-18T14:46:28.966",
-    "not_before": "2025-03-17T14:16:28",
-    "not_after": "2026-04-17T04:00:00",
-    "serial_number": "480283ecc1914c1f7976228f25c54e0e",
     "result_count": 3
   },
   {
@@ -10838,114 +10838,6 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "share.oig.dot.gov",
-    "name_value": "share.oig.dot.gov",
-    "id": 17864126476,
-    "entry_timestamp": "2025-04-15T15:24:54.497",
-    "not_before": "2025-04-15T00:00:00",
-    "not_after": "2026-04-16T23:59:59",
-    "serial_number": "01d54d28388926a97aaf4b6e1d35db50",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "www.oig.dot.gov",
-    "name_value": "www1.oig.dot.gov\nwww.oig.dot.gov",
-    "id": 17864067671,
-    "entry_timestamp": "2025-04-15T15:21:20.041",
-    "not_before": "2025-04-15T00:00:00",
-    "not_after": "2026-04-16T23:59:59",
-    "serial_number": "0e29943cd7d4203298dd93ba151123d2",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "mail.oig.dot.gov",
-    "name_value": "mail.oig.dot.gov",
-    "id": 17864048901,
-    "entry_timestamp": "2025-04-15T15:20:04.439",
-    "not_before": "2025-04-15T00:00:00",
-    "not_after": "2026-04-16T23:59:59",
-    "serial_number": "0cd64ea1ac25bc37419da1cfb26f75f2",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "Ctrl.oig.dot.gov",
-    "name_value": "Ctrl.oig.dot.gov",
-    "id": 17864018229,
-    "entry_timestamp": "2025-04-15T15:18:46.149",
-    "not_before": "2025-04-15T00:00:00",
-    "not_after": "2026-04-16T23:59:59",
-    "serial_number": "09b89d013415023e189d9abc37b78287",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "webreview.oig.dot.gov",
-    "name_value": "webreview.oig.dot.gov",
-    "id": 17864011712,
-    "entry_timestamp": "2025-04-15T15:17:47.486",
-    "not_before": "2025-04-15T00:00:00",
-    "not_after": "2026-04-16T23:59:59",
-    "serial_number": "06d6df43e597b75ad77827326fef5566",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "webreviewdocs.oig.dot.gov",
-    "name_value": "webreviewdocs.oig.dot.gov",
-    "id": 17863983339,
-    "entry_timestamp": "2025-04-15T15:16:28.713",
-    "not_before": "2025-04-15T00:00:00",
-    "not_after": "2026-04-16T23:59:59",
-    "serial_number": "04093575df26467baf4cc793c6e03845",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "dacctest.oig.dot.gov",
-    "name_value": "dacctest.oig.dot.gov",
-    "id": 17863966004,
-    "entry_timestamp": "2025-04-15T15:15:15.725",
-    "not_before": "2025-04-15T00:00:00",
-    "not_after": "2026-04-16T23:59:59",
-    "serial_number": "030963678c5cc7d9d5b13f58558bdbfa",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "dacclicensing.oig.dot.gov",
-    "name_value": "dacclicensing.oig.dot.gov",
-    "id": 17863945597,
-    "entry_timestamp": "2025-04-15T15:14:14.814",
-    "not_before": "2025-04-15T00:00:00",
-    "not_after": "2026-04-16T23:59:59",
-    "serial_number": "0c0ac237ab1a985271bda2673e0accef",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "daccportal.oig.dot.gov",
-    "name_value": "daccportal.oig.dot.gov",
-    "id": 17863935165,
-    "entry_timestamp": "2025-04-15T15:13:05.414",
-    "not_before": "2025-04-15T00:00:00",
-    "not_after": "2026-04-16T23:59:59",
-    "serial_number": "02e3424e51b6f7357c62c688322d7805",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "www2.oig.dot.gov",
     "name_value": "www2.oig.dot.gov",
     "id": 17863913579,
@@ -11246,18 +11138,6 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "daccportal.oig.dot.gov",
-    "name_value": "daccportal.oig.dot.gov",
-    "id": 17368636751,
-    "entry_timestamp": "2025-03-24T13:27:40.057",
-    "not_before": "2025-03-24T00:00:00",
-    "not_after": "2026-04-16T23:59:59",
-    "serial_number": "044c6c6391731bbad32a10338699e94a",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "www2.oig.dot.gov",
     "name_value": "www2.oig.dot.gov",
     "id": 17368536252,
@@ -11326,41 +11206,5 @@
     "not_after": "2026-04-18T23:59:59",
     "serial_number": "0ae713d50a9c45c9b98aa8de5160cc24",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "stage.strap.nhtsa.dot.gov",
-    "name_value": "stage.strap.nhtsa.dot.gov\nwww.stage.strap.nhtsa.dot.gov",
-    "id": 17183811270,
-    "entry_timestamp": "2025-03-17T14:28:31.575",
-    "not_before": "2025-03-17T14:18:30",
-    "not_after": "2026-04-17T04:00:00",
-    "serial_number": "1b0593bcd900a62095a41bbb804a82e6",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "stage.triprs.nhtsa.dot.gov",
-    "name_value": "stage.triprs.nhtsa.dot.gov\nwww.stage.triprs.nhtsa.dot.gov",
-    "id": 17183787531,
-    "entry_timestamp": "2025-03-17T14:27:39.984",
-    "not_before": "2025-03-17T14:17:38",
-    "not_after": "2026-04-17T04:00:00",
-    "serial_number": "5c36ba860298a5b07ee54281bc1829b2",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "crashstats.nhtsa.dot.gov",
-    "name_value": "crashstats.nhtsa.dot.gov\nwww.crashstats.nhtsa.dot.gov",
-    "id": 17183761327,
-    "entry_timestamp": "2025-03-17T14:26:30.359",
-    "not_before": "2025-03-17T14:16:28",
-    "not_after": "2026-04-17T04:00:00",
-    "serial_number": "480283ecc1914c1f7976228f25c54e0e",
-    "result_count": 3
   }
 ]

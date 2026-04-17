@@ -1,11 +1,35 @@
 [
   {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "tbmcoe-apps.fda.gov",
+    "name_value": "tbmcoe-apps.fda.gov",
+    "id": 25524249535,
+    "entry_timestamp": "2026-04-16T06:22:41.929",
+    "not_before": "2026-04-16T05:24:11",
+    "not_after": "2026-07-15T05:24:10",
+    "serial_number": "052c993e184c3001e5787e38318c0d444766",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "ofemsapps.fda.gov",
+    "name_value": "ofemsapps.fda.gov",
+    "id": 25523608340,
+    "entry_timestamp": "2026-04-14T19:22:55.498",
+    "not_before": "2026-04-14T18:24:25",
+    "not_after": "2026-07-13T18:24:24",
+    "serial_number": "069f5ad4bdf0d4f09e17740384c6556b209e",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 295817,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "powerapps.fda.gov",
     "name_value": "powerapps.fda.gov",
     "id": 25396020367,
-    "entry_timestamp": "2026-03-30T18:19:09.912",
+    "entry_timestamp": "2026-03-30T18:17:38.661",
     "not_before": "2026-03-30T17:19:07",
     "not_after": "2026-06-28T17:19:06",
     "serial_number": "05878635fec254e55a5294c9fea0cda81b0b",
@@ -4510,29 +4534,5 @@
     "not_after": "2026-04-17T16:27:25",
     "serial_number": "400195aa15b89104e16c61a753ca5e65",
     "result_count": 5
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "download.open.fda.gov",
-    "name_value": "download.open.fda.gov",
-    "id": 17190872487,
-    "entry_timestamp": "2025-03-17T20:32:51.933",
-    "not_before": "2025-03-17T20:32:51",
-    "not_after": "2026-04-16T20:31:51",
-    "serial_number": "400195a5cf28aeb1f5a7627dace51c2c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "open.fda.gov",
-    "name_value": "open.fda.gov",
-    "id": 17190871935,
-    "entry_timestamp": "2025-03-17T20:32:30.145",
-    "not_before": "2025-03-17T20:32:30",
-    "not_after": "2026-04-16T20:31:30",
-    "serial_number": "400195a5ced36fe51e8f3a538d43fa17",
-    "result_count": 2
   }
 ]
