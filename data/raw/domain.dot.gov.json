@@ -1,5 +1,113 @@
 [
   {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "apps.fhwa.dot.gov",
+    "name_value": "apps.fhwa.dot.gov",
+    "id": 25561442985,
+    "entry_timestamp": "2026-04-19T02:01:29.33",
+    "not_before": "2026-04-19T01:02:59",
+    "not_after": "2026-07-18T01:02:58",
+    "serial_number": "06a8c370cd42f2ed51aadaad271fa0480c2f",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "fasm.dot.gov",
+    "name_value": "fasm.dot.gov\nnonprod.fasm.dot.gov",
+    "id": 25556480804,
+    "entry_timestamp": "2026-04-16T19:37:15.15",
+    "not_before": "2026-04-16T00:00:00",
+    "not_after": "2026-10-31T23:59:59",
+    "serial_number": "00ec63c4ea013c62a1149d9bc81085292d",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "ovsc-stage.api.nhtsa.dot.gov",
+    "name_value": "origin-ovsc-stage.api.nhtsa.dot.gov\novsc-stage.api.nhtsa.dot.gov\nwww.ovsc-stage.api.nhtsa.dot.gov",
+    "id": 25567920046,
+    "entry_timestamp": "2026-04-16T16:41:07.151",
+    "not_before": "2026-04-16T00:00:00",
+    "not_after": "2026-10-31T23:59:59",
+    "serial_number": "00c8c9eab35ce5a14e1c428f2482863c50",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "nrd-portal.nhtsa.dot.gov",
+    "name_value": "nrd.api.nhtsa.dot.gov\nnrd-origin.nhtsa.dot.gov\nnrd-origin.static.nhtsa.dot.gov\nnrd-portal.nhtsa.dot.gov\nnrd-static.nhtsa.dot.gov\norigin-nrd-portal.nhtsa.dot.gov\norigin-websat.nhtsa.dot.gov\nwebsat.nhtsa.dot.gov\nwww.nrd.api.nhtsa.dot.gov",
+    "id": 25567761828,
+    "entry_timestamp": "2026-04-16T16:22:18.151",
+    "not_before": "2026-04-16T00:00:00",
+    "not_after": "2026-10-31T23:59:59",
+    "serial_number": "009ced644bea16c30619e2de93b7679b33",
+    "result_count": 10
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "static.nhtsa.gov",
+    "name_value": "origin-ovsc.api.nhtsa.dot.gov\novsc.api.nhtsa.dot.gov\nwww.ovsc.api.nhtsa.dot.gov",
+    "id": 25567747799,
+    "entry_timestamp": "2026-04-16T16:20:47.15",
+    "not_before": "2026-04-16T00:00:00",
+    "not_after": "2026-10-31T23:59:59",
+    "serial_number": "00819e7c87c8878eed5c515b0930f2797c",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "transitapp.ost.dot.gov",
+    "name_value": "parkingapp.ost.dot.gov\ntransitapp.ost.dot.gov\ntransitapptraining.ost.dot.gov\nwww.transitapp.ost.dot.gov",
+    "id": 25567548296,
+    "entry_timestamp": "2026-04-16T15:59:02.151",
+    "not_before": "2026-04-16T00:00:00",
+    "not_after": "2026-10-31T23:59:59",
+    "serial_number": "6cdb2869fb0feaf88915ca40bf4aefad",
+    "result_count": 5
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "stage-nrd.api.nhtsa.dot.gov",
+    "name_value": "nrd-stage-portal.nhtsa.dot.gov\norigin-nrd-portal-stage.nhtsa.dot.gov\norigin-websat-stage.nhtsa.dot.gov\nstage-nrd.api.nhtsa.dot.gov\nstage-nrd-static.nhtsa.dot.gov\nstage-origin-nrd.nhtsa.dot.gov\nstage-origin-nrd-static.nhtsa.dot.gov\nwebsat-stage.nhtsa.dot.gov\nwww.stage-nrd.api.nhtsa.dot.gov",
+    "id": 25556755640,
+    "entry_timestamp": "2026-04-15T20:54:26.151",
+    "not_before": "2026-04-15T00:00:00",
+    "not_after": "2026-10-30T23:59:59",
+    "serial_number": "00a963159ee4405735ee452713bfbde9a3",
+    "result_count": 10
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "marad.dot.gov",
+    "name_value": "loginservice.marad.dot.gov\nmarad.dot.gov\nmarhsawas258vg.ad.dot.gov\npcrs.marad.dot.gov\npiv.marad.dot.gov\nvesselhistory.marad.dot.gov",
+    "id": 25555070860,
+    "entry_timestamp": "2026-04-15T18:04:56.15",
+    "not_before": "2026-04-15T00:00:00",
+    "not_after": "2026-10-30T23:59:59",
+    "serial_number": "00d71ae2bc3825250cc4134c262b89b73b",
+    "result_count": 7
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "artemis-api-stage.nhtsa.gov",
+    "name_value": "origin-stage-vinrcl.nhtsa.dot.gov\nstage-vinrcl.nhtsa.dot.gov",
+    "id": 25552427171,
+    "entry_timestamp": "2026-04-15T13:22:26.151",
+    "not_before": "2026-04-15T00:00:00",
+    "not_after": "2026-10-30T23:59:59",
+    "serial_number": "00cf4926c54b4493117876114f2d2b53c5",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 385512,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
     "common_name": "explore.dot.gov",
@@ -10836,30 +10944,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "www2.oig.dot.gov",
-    "name_value": "www2.oig.dot.gov",
-    "id": 17863913579,
-    "entry_timestamp": "2025-04-15T15:11:13.288",
-    "not_before": "2025-04-15T00:00:00",
-    "not_after": "2026-04-17T23:59:59",
-    "serial_number": "02ce82dcf6fb63784a55630165cbea26",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "www4.oig.dot.gov",
-    "name_value": "www4.oig.dot.gov",
-    "id": 17863872620,
-    "entry_timestamp": "2025-04-15T15:08:28.337",
-    "not_before": "2025-04-15T00:00:00",
-    "not_after": "2026-04-17T23:59:59",
-    "serial_number": "0d6500e51ea2d21b5e4486db346fec2d",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 365074,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing ECC CA 1",
     "common_name": "BOMGARTEST.DOT.GOV",
@@ -11136,30 +11220,6 @@
     "result_count": 4
   },
   {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "www2.oig.dot.gov",
-    "name_value": "www2.oig.dot.gov",
-    "id": 17368536252,
-    "entry_timestamp": "2025-03-24T13:21:59.688",
-    "not_before": "2025-03-24T00:00:00",
-    "not_after": "2026-04-17T23:59:59",
-    "serial_number": "0cda6c66e49e864e686e04550fba511c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "www4.oig.dot.gov",
-    "name_value": "www4.oig.dot.gov",
-    "id": 17368481876,
-    "entry_timestamp": "2025-03-24T13:18:17.965",
-    "not_before": "2025-03-24T00:00:00",
-    "not_after": "2026-04-17T23:59:59",
-    "serial_number": "0599b9f74239a561cf30eba7e02b3144",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "git-stage.dot.gov",
@@ -11182,29 +11242,5 @@
     "not_after": "2026-04-20T04:00:00",
     "serial_number": "16dd496c99bd1357c53a95a17f434fa8",
     "result_count": 8
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "tms.volpe.dot.gov",
-    "name_value": "tms.volpe.dot.gov\nwww.tms.volpe.dot.gov",
-    "id": 17238915517,
-    "entry_timestamp": "2025-03-19T13:17:31.524",
-    "not_before": "2025-03-19T13:07:29",
-    "not_after": "2026-04-19T04:00:00",
-    "serial_number": "3c23e60005a3b397bf5672fb1cd7e933",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "CASTLE.DOT.GOV",
-    "name_value": "CASTLE.DOT.GOV",
-    "id": 17211813292,
-    "entry_timestamp": "2025-03-18T14:07:03.485",
-    "not_before": "2025-03-18T00:00:00",
-    "not_after": "2026-04-18T23:59:59",
-    "serial_number": "0ae713d50a9c45c9b98aa8de5160cc24",
-    "result_count": 2
   }
 ]

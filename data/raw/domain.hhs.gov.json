@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "asaconnecthubtest.hhs.gov",
+    "name_value": "asaconnecthubtest.hhs.gov",
+    "id": 25566765495,
+    "entry_timestamp": "2026-04-18T09:04:36.498",
+    "not_before": "2026-04-18T08:06:06",
+    "not_after": "2026-07-17T08:06:05",
+    "serial_number": "0563d038b79c3eda06f1ab3d496b0c31a0d7",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "go.hhs.gov",
+    "name_value": "go.hhs.gov",
+    "id": 25541100619,
+    "entry_timestamp": "2026-04-16T19:30:53.93",
+    "not_before": "2026-04-16T18:32:23",
+    "not_after": "2026-07-15T18:32:22",
+    "serial_number": "06af18a931c62c626cbac621aced81a9bbf6",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 295809,
     "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
     "common_name": "cisionone-email.hhs.gov",
@@ -473,7 +497,7 @@
     "common_name": "datahub.hhs.gov",
     "name_value": "datahub.hhs.gov",
     "id": 25279358414,
-    "entry_timestamp": "2026-03-30T19:36:04.694",
+    "entry_timestamp": "2026-03-30T19:36:04.334",
     "not_before": "2026-03-30T19:36:01",
     "not_after": "2026-10-15T19:36:01",
     "serial_number": "24816d6555e54e2beb33f11d",
@@ -1221,18 +1245,6 @@
     "not_before": "2026-03-13T15:12:28",
     "not_after": "2026-09-28T15:11:28",
     "serial_number": "40019ce7c192128083c01455b6d8aa1b",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "nppes.cms.hhs.gov",
-    "name_value": "nppes.cms.hhs.gov",
-    "id": 24963565701,
-    "entry_timestamp": "2026-03-13T13:20:55.847",
-    "not_before": "2025-03-19T19:08:30",
-    "not_after": "2026-04-18T19:07:30",
-    "serial_number": "400195afcea6e18839a3622228d253bb",
     "result_count": 2
   },
   {
@@ -11448,30 +11460,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "orr-uc-apps.acf.hhs.gov",
-    "name_value": "orr-uc-apps.acf.hhs.gov\norr-uc-apps-stage.acf.hhs.gov\nwww.orr-uc-apps.acf.hhs.gov",
-    "id": 17767780316,
-    "entry_timestamp": "2025-04-10T20:31:46.783",
-    "not_before": "2025-04-10T20:21:45",
-    "not_after": "2026-04-17T11:17:20",
-    "serial_number": "4ebbbb1b384212bcb60a0f9cdfad07d7",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "sponsor.acf.hhs.gov",
-    "name_value": "sponsor.acf.hhs.gov\nsponsor-stage.acf.hhs.gov\nwww.sponsor.acf.hhs.gov",
-    "id": 17762425025,
-    "entry_timestamp": "2025-04-10T14:24:46.535",
-    "not_before": "2025-04-10T14:14:45",
-    "not_after": "2026-04-18T11:19:18",
-    "serial_number": "0c0e508486cbef4056a2baf0db8b4388",
-    "result_count": 4
-  },
-  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "external-test.scms.hhs.gov",
@@ -11805,18 +11793,6 @@
     "not_before": "2025-03-20T16:50:57",
     "not_after": "2026-04-19T16:49:57",
     "serial_number": "400195b4771400eb19c6eb148b14d90d",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "nppes.cms.hhs.gov",
-    "name_value": "nppes.cms.hhs.gov",
-    "id": 17244914770,
-    "entry_timestamp": "2025-03-19T19:08:30.87",
-    "not_before": "2025-03-19T19:08:30",
-    "not_after": "2026-04-18T19:07:30",
-    "serial_number": "400195afcea6e18839a3622228d253bb",
     "result_count": 2
   }
 ]
