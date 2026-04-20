@@ -2,6 +2,30 @@
   {
     "issuer_ca_id": 295817,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "servicedev1.cancer.gov",
+    "name_value": "seerdataaccess-dev1.cancer.gov\nservicedev1.cancer.gov",
+    "id": 25583820387,
+    "entry_timestamp": "2026-04-19T23:32:57.498",
+    "not_before": "2026-04-19T22:34:26",
+    "not_after": "2026-07-18T22:34:25",
+    "serial_number": "0538926201b2aabf74e63ed6748b6419d89b",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "*.cancercontrol.cancer.gov",
+    "name_value": "*.cancercontrol.cancer.gov\ncancercontrol.cancer.gov",
+    "id": 25553322888,
+    "entry_timestamp": "2026-04-15T15:01:31.151",
+    "not_before": "2026-04-15T14:03:00",
+    "not_after": "2026-07-14T14:02:59",
+    "serial_number": "053f90aed365ee8d2391483ea3fd306dacc3",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "*.cancercontrol.cancer.gov",
     "name_value": "*.cancercontrol.cancer.gov\ncancercontrol.cancer.gov",
     "id": 25506091700,
@@ -10,6 +34,18 @@
     "not_after": "2026-07-13T17:00:27",
     "serial_number": "0569ad096ff15bd30c637f4df5d14c5b2951",
     "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "cams-dev.ims.cancer.gov",
+    "name_value": "cams-dev.ems.cancer.gov\ncams-dev.ims.cancer.gov\ncams-dev.sms.cancer.gov",
+    "id": 25590590993,
+    "entry_timestamp": "2026-04-14T17:56:38.008",
+    "not_before": "2026-04-14T16:58:05",
+    "not_after": "2026-07-13T16:58:04",
+    "serial_number": "061c5489836eb93dc8e9ae94b7b9e5a3ecd3",
+    "result_count": 4
   },
   {
     "issuer_ca_id": 295816,
@@ -36,6 +72,18 @@
     "result_count": 3
   },
   {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "*.cancer.gov",
+    "name_value": "*.cancer.gov\ncancer.gov",
+    "id": 25590444832,
+    "entry_timestamp": "2026-04-14T17:47:00.254",
+    "not_before": "2026-04-14T16:48:30",
+    "not_after": "2026-07-13T16:48:29",
+    "serial_number": "0682c620a9d089ec29945f5591a54a73679d",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 295817,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "*.cancer.gov",
@@ -45,6 +93,18 @@
     "not_before": "2026-04-14T16:39:13",
     "not_after": "2026-07-13T16:39:12",
     "serial_number": "06c832a5fa7da3df6ac39007e9a067b9a9c0",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "*.cancercontrol.cancer.gov",
+    "name_value": "*.cancercontrol.cancer.gov\ncancercontrol.cancer.gov",
+    "id": 25589509151,
+    "entry_timestamp": "2026-04-14T16:44:59.725",
+    "not_before": "2026-04-14T15:44:36",
+    "not_after": "2026-07-13T15:44:35",
+    "serial_number": "069b7882691ca77370c583a88b667e7d34a8",
     "result_count": 3
   },
   {
@@ -62,13 +122,13 @@
   {
     "issuer_ca_id": 295816,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "*.semantics.cancer.gov",
-    "name_value": "*.semantics.cancer.gov\nsemantics.cancer.gov",
-    "id": 25522452379,
-    "entry_timestamp": "2026-04-14T16:42:57.497",
+    "common_name": "*.ccr.cancer.gov",
+    "name_value": "*.ccr.cancer.gov\nccr.cancer.gov",
+    "id": 25589477846,
+    "entry_timestamp": "2026-04-14T16:43:00.457",
     "not_before": "2026-04-14T15:44:26",
     "not_after": "2026-07-13T15:44:25",
-    "serial_number": "069f90f61d9f73cba4b27418bce58ae1e9b5",
+    "serial_number": "05f1cb003c1112bfd10e0717c7999b054f75",
     "result_count": 3
   },
   {
@@ -81,6 +141,18 @@
     "not_before": "2026-04-14T15:44:26",
     "not_after": "2026-07-13T15:44:25",
     "serial_number": "06ef3538af5796f66bc7b5b9d595cbd2f583",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "*.semantics.cancer.gov",
+    "name_value": "*.semantics.cancer.gov\nsemantics.cancer.gov",
+    "id": 25522452379,
+    "entry_timestamp": "2026-04-14T16:42:57.497",
+    "not_before": "2026-04-14T15:44:26",
+    "not_after": "2026-07-13T15:44:25",
+    "serial_number": "069f90f61d9f73cba4b27418bce58ae1e9b5",
     "result_count": 3
   },
   {
@@ -122,6 +194,18 @@
   {
     "issuer_ca_id": 295817,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "chuck1.cancer.gov",
+    "name_value": "chuck1.cancer.gov\nwww.cancer.gov",
+    "id": 25588396095,
+    "entry_timestamp": "2026-04-14T15:34:21.996",
+    "not_before": "2026-04-14T14:35:51",
+    "not_after": "2026-07-13T14:35:50",
+    "serial_number": "05e07c2ccdec656d00af994529109df9f3cc",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "*.cancer.gov",
     "name_value": "*.cancer.gov\ncancer.gov",
     "id": 25502526107,
@@ -142,6 +226,30 @@
     "not_after": "2026-10-29T23:59:59",
     "serial_number": "0c6761810306ab89b150c8b7566f91ce",
     "result_count": 4
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "*.cancer.gov",
+    "name_value": "*.cancer.gov",
+    "id": 25568550832,
+    "entry_timestamp": "2026-04-13T20:35:48.155",
+    "not_before": "2026-04-13T19:37:17",
+    "not_after": "2026-07-12T19:37:16",
+    "serial_number": "0555f087f1d338cd407615649f581062ea9b",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "*.cancer.gov",
+    "name_value": "*.cancer.gov",
+    "id": 25594472690,
+    "entry_timestamp": "2026-04-13T19:56:12.702",
+    "not_before": "2026-04-13T18:57:42",
+    "not_after": "2026-07-12T18:57:41",
+    "serial_number": "068f6a483c02ef2aa440a0c6fbd11a0d8920",
+    "result_count": 2
   },
   {
     "issuer_ca_id": 295817,
@@ -172,6 +280,18 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "*.cancer.gov",
     "name_value": "*.cancer.gov",
+    "id": 25573650239,
+    "entry_timestamp": "2026-04-13T19:13:34.701",
+    "not_before": "2026-04-13T18:15:02",
+    "not_after": "2026-07-12T18:15:01",
+    "serial_number": "066ad958dcb7a439d096f714cf5a59021557",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "*.cancer.gov",
+    "name_value": "*.cancer.gov",
     "id": 25489921778,
     "entry_timestamp": "2026-04-13T19:13:32.73",
     "not_before": "2026-04-13T18:15:02",
@@ -189,6 +309,18 @@
     "not_before": "2026-04-13T00:00:00",
     "not_after": "2026-10-28T23:59:59",
     "serial_number": "03289ba4243db64953ba36871d0ed656",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "cams.ims.cancer.gov",
+    "name_value": "cams.ems.cancer.gov\ncams.ims.cancer.gov\ncams.sms.cancer.gov",
+    "id": 25587134315,
+    "entry_timestamp": "2026-04-13T11:51:09.7",
+    "not_before": "2026-04-09T00:00:00",
+    "not_after": "2026-10-24T23:59:59",
+    "serial_number": "084d6c4951edd86545f08a825abe137d",
     "result_count": 4
   },
   {
@@ -725,7 +857,7 @@
     "common_name": "*.cancer.gov",
     "name_value": "*.cancer.gov\ncancer.gov\nccrweb.cancer.gov\nFSCCRW-WEB05P.cancer.gov",
     "id": 25279617013,
-    "entry_timestamp": "2026-03-30T20:23:48.908",
+    "entry_timestamp": "2026-03-30T20:23:48.879",
     "not_before": "2026-03-30T00:00:00",
     "not_after": "2026-10-14T23:59:59",
     "serial_number": "0b19d9eaca651e047c8b38555c4be905",
@@ -737,7 +869,7 @@
     "common_name": "*.cancer.gov",
     "name_value": "*.cancer.gov\ncancer.gov\nccrweb.cancer.gov\nFSCCRW-WEB05P.cancer.gov",
     "id": 25281648767,
-    "entry_timestamp": "2026-03-30T20:18:16.878",
+    "entry_timestamp": "2026-03-30T20:18:16.873",
     "not_before": "2026-03-30T00:00:00",
     "not_after": "2026-10-14T23:59:59",
     "serial_number": "022381e7d8715b057deb7c743373ff68",
@@ -773,7 +905,7 @@
     "common_name": "*.cancer.gov",
     "name_value": "*.cancer.gov\ncancer.gov\nccrweb.cancer.gov\nFSCCRW-WEB05P.cancer.gov",
     "id": 25281585506,
-    "entry_timestamp": "2026-03-30T20:06:25.335",
+    "entry_timestamp": "2026-03-30T20:06:25.323",
     "not_before": "2026-03-30T00:00:00",
     "not_after": "2026-10-14T23:59:59",
     "serial_number": "01056841efcbdf3c2645ae9f497a706b",
@@ -785,7 +917,7 @@
     "common_name": "*.cancer.gov",
     "name_value": "*.cancer.gov\ncancer.gov\nccrweb.cancer.gov\nFSCCRW-WEB05P.cancer.gov",
     "id": 25279509865,
-    "entry_timestamp": "2026-03-30T20:03:51.857",
+    "entry_timestamp": "2026-03-30T20:03:51.827",
     "not_before": "2026-03-30T00:00:00",
     "not_after": "2026-10-14T23:59:59",
     "serial_number": "0160f867f3623e2cba697a6e5cb77339",
@@ -809,7 +941,7 @@
     "common_name": "*.cancer.gov",
     "name_value": "*.cancer.gov\ncancer.gov\nccrweb.cancer.gov\nFSCCRW-WEB05P.cancer.gov",
     "id": 25281558178,
-    "entry_timestamp": "2026-03-30T20:00:19.52",
+    "entry_timestamp": "2026-03-30T20:00:19.492",
     "not_before": "2026-03-30T00:00:00",
     "not_after": "2026-10-14T23:59:59",
     "serial_number": "050102f849280d8367ee73587092eabc",
@@ -821,7 +953,7 @@
     "common_name": "*.cancer.gov",
     "name_value": "*.cancer.gov\ncancer.gov\nccrweb.cancer.gov\nFSCCRW-WEB05P.cancer.gov",
     "id": 25281543826,
-    "entry_timestamp": "2026-03-30T19:57:51.958",
+    "entry_timestamp": "2026-03-30T19:57:51.955",
     "not_before": "2026-03-30T00:00:00",
     "not_after": "2026-10-14T23:59:59",
     "serial_number": "0fee86925fc3d97cd66b556b0263e581",
@@ -833,7 +965,7 @@
     "common_name": "*.cancer.gov",
     "name_value": "*.cancer.gov\ncancer.gov\nccrweb.cancer.gov\nFSCCRW-WEB02P.cancer.gov",
     "id": 25281530782,
-    "entry_timestamp": "2026-03-30T19:54:58.144",
+    "entry_timestamp": "2026-03-30T19:54:58.135",
     "not_before": "2026-03-30T00:00:00",
     "not_after": "2026-10-14T23:59:59",
     "serial_number": "0fc061a5ae26086d47dcc892fe14b5cb",
