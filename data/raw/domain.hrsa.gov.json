@@ -2,6 +2,18 @@
   {
     "issuer_ca_id": 295816,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "secureapp-ddas-01.hrsa.gov",
+    "name_value": "ahrf-stage.hdw.hrsa.gov\ndata.hrsa.gov\ndata-stage.hdw.hrsa.gov\ndata-uat.hdw.hrsa.gov\ndatawarehouse.hrsa.gov\ndatawarehouse-stage.hdw.hrsa.gov\nesr.os.hrsa.gov\nesr.staging.hrsa.gov\nesr.test.hrsa.gov\ngeocarenavigator.hrsa.gov\ngeocarenavigator-stage.hdw.hrsa.gov\ngisportal-2.staging.hrsa.gov\ngisportalha-2.staging.hrsa.gov\ngisportalha.staging.hrsa.gov\ngisportal.staging.hrsa.gov\nhcsds.hrsa.gov\nhrsainyourstate.hrsa.gov\nhrsainyourstate-stage.hdw.hrsa.gov\nikndata-stage.hdw.hrsa.gov\nmuafind.hrsa.gov\nmuafind-stage.hdw.hrsa.gov\nmydata-stage.hdw.hrsa.gov\nopotxfind.hrsa.gov\nopotxfind-stage.hdw.hrsa.gov\nsearch.stage.hdw.hrsa.gov\nsecureapp-ddas-01.hrsa.gov\nsrtr-stage.hdw.hrsa.gov\ntableau-uat.hdw.hrsa.gov",
+    "id": 25542303801,
+    "entry_timestamp": "2026-04-14T21:06:19.15",
+    "not_before": "2026-04-14T20:07:48",
+    "not_after": "2026-07-13T20:07:47",
+    "serial_number": "062d63a62ec67917bda4cc766ee251e2c444",
+    "result_count": 29
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "search.usa.gov",
     "name_value": "search.npdb.hrsa.gov",
     "id": 25522046079,
@@ -22,6 +34,18 @@
     "not_after": "2026-10-28T23:59:59",
     "serial_number": "0e501aa69a54d379094f02770f8f2b05",
     "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "hrsa.gov",
+    "name_value": "*.hrsa.gov\nhrsa.gov",
+    "id": 25554793869,
+    "entry_timestamp": "2026-04-13T05:43:38.503",
+    "not_before": "2026-04-13T04:38:15",
+    "not_after": "2026-07-12T05:35:23",
+    "serial_number": "00a9f4cd89e0d6a5ba0ea3397ab9c73e43",
+    "result_count": 3
   },
   {
     "issuer_ca_id": 185752,
@@ -1402,30 +1426,6 @@
     "not_after": "2026-04-24T13:01:28",
     "serial_number": "00b3246532199ff6c5d849a8742d0c9d69",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "search.usa.gov",
-    "name_value": "search.npdb.hrsa.gov",
-    "id": 23882183563,
-    "entry_timestamp": "2026-01-20T14:58:31.038",
-    "not_before": "2026-01-20T14:00:00",
-    "not_after": "2026-04-20T13:59:59",
-    "serial_number": "06471f929bce7ec0aaeceee9bb8abebca3ba",
-    "result_count": 1
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "search.usa.gov",
-    "name_value": "search.npdb.hrsa.gov",
-    "id": 23882165756,
-    "entry_timestamp": "2026-01-20T14:58:30.767",
-    "not_before": "2026-01-20T14:00:00",
-    "not_after": "2026-04-20T13:59:59",
-    "serial_number": "06471f929bce7ec0aaeceee9bb8abebca3ba",
-    "result_count": 1
   },
   {
     "issuer_ca_id": 153248,
@@ -4137,66 +4137,6 @@
     "not_before": "2025-03-25T15:25:23",
     "not_after": "2026-04-24T15:24:23",
     "serial_number": "400195cde886e09ca05c1e7b67cc8286",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "bhwcloudrepo.hrsa.gov",
-    "name_value": "bhwcloudrepo.hrsa.gov\nwww.bhwcloudrepo.hrsa.gov",
-    "id": 17292211216,
-    "entry_timestamp": "2025-03-21T14:12:25.444",
-    "not_before": "2025-03-21T14:12:25",
-    "not_after": "2026-04-20T14:11:25",
-    "serial_number": "400195b90c4a8bce13f0f53c63da7119",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "bcrsdmwebsvc.hrsa.gov",
-    "name_value": "bcrsdmwebsvc.hrsa.gov\nwww.bcrsdmwebsvc.hrsa.gov",
-    "id": 17292211538,
-    "entry_timestamp": "2025-03-21T14:12:25.135",
-    "not_before": "2025-03-21T14:12:25",
-    "not_after": "2026-04-20T14:11:25",
-    "serial_number": "400195b90c494d638c18112577e22246",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "bcrsdmwebsvc.hrsa.gov",
-    "name_value": "bcrsdmwebsvc.hrsa.gov\nwww.bcrsdmwebsvc.hrsa.gov",
-    "id": 17292212548,
-    "entry_timestamp": "2025-03-21T14:12:17.632",
-    "not_before": "2025-03-21T14:12:17",
-    "not_after": "2026-04-20T14:11:17",
-    "serial_number": "400195b90c2c3053eccc735af22e618f",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "bhwgisportal.hrsa.gov",
-    "name_value": "bhwgisportal.hrsa.gov\nwww.bhwgisportal.hrsa.gov",
-    "id": 17292199157,
-    "entry_timestamp": "2025-03-21T14:10:33.93",
-    "not_before": "2025-03-21T14:10:33",
-    "not_after": "2026-04-20T14:09:33",
-    "serial_number": "400195b90a96dc0c1c65d64e6a2cda67",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "bhwdashboards.hrsa.gov",
-    "name_value": "bhwdashboards.hrsa.gov\nwww.bhwdashboards.hrsa.gov",
-    "id": 17292186798,
-    "entry_timestamp": "2025-03-21T14:10:14.454",
-    "not_before": "2025-03-21T14:10:14",
-    "not_after": "2026-04-20T14:09:14",
-    "serial_number": "400195b90a4a98204f11ec9bedc9ca35",
     "result_count": 3
   }
 ]
