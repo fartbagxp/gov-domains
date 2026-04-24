@@ -1,14 +1,14 @@
 [
   {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "nps.gov",
-    "name_value": "*.nps.gov\nnps.gov",
-    "id": 25435750049,
-    "entry_timestamp": "2026-04-07T06:56:10.701",
-    "not_before": "2026-04-07T01:19:52",
-    "not_after": "2026-07-06T01:19:51",
-    "serial_number": "06f08a49ed85a59397a0da05dab54c0e2b93",
+    "issuer_ca_id": 904,
+    "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+    "common_name": "*.cr.nps.gov",
+    "name_value": "*.cr.nps.gov\ncr.nps.gov",
+    "id": 25630898151,
+    "entry_timestamp": "2026-04-13T20:06:21.168",
+    "not_before": "2026-04-13T14:51:24",
+    "not_after": "2026-10-28T14:51:24",
+    "serial_number": "00fd8c13ac73786fbf",
     "result_count": 3
   },
   {
@@ -17,7 +17,7 @@
     "common_name": "nps.gov",
     "name_value": "*.nps.gov\nnps.gov",
     "id": 25394905905,
-    "entry_timestamp": "2026-04-07T02:19:47.576",
+    "entry_timestamp": "2026-04-07T02:18:39.51",
     "not_before": "2026-04-07T01:20:08",
     "not_after": "2026-07-06T01:20:07",
     "serial_number": "05a3a5d962dd2cd72176fa4609abaa5d659b",
@@ -29,10 +29,22 @@
     "common_name": "nps.gov",
     "name_value": "*.nps.gov\nnps.gov",
     "id": 25434500014,
-    "entry_timestamp": "2026-04-07T02:18:39.15",
+    "entry_timestamp": "2026-04-07T02:18:38.63",
     "not_before": "2026-04-07T01:20:08",
     "not_after": "2026-07-06T01:20:07",
     "serial_number": "05a3a5d962dd2cd72176fa4609abaa5d659b",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "nps.gov",
+    "name_value": "*.nps.gov\nnps.gov",
+    "id": 25435750049,
+    "entry_timestamp": "2026-04-07T02:18:23.407",
+    "not_before": "2026-04-07T01:19:52",
+    "not_after": "2026-07-06T01:19:51",
+    "serial_number": "06f08a49ed85a59397a0da05dab54c0e2b93",
     "result_count": 3
   },
   {
