@@ -1,5 +1,17 @@
 [
   {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "assistance.for.irs.gov",
+    "name_value": "assistance.for.irs.gov",
+    "id": 25712473828,
+    "entry_timestamp": "2026-04-21T00:10:15.74",
+    "not_before": "2026-04-20T23:11:45",
+    "not_after": "2026-07-19T23:11:44",
+    "serial_number": "06a1e7853cc26e3ac57ccb2e6b7ab680e01d",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 365075,
     "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
     "common_name": "directpay.irs.gov",
@@ -52,11 +64,35 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "assistance-uat.for.irs.gov",
     "name_value": "assistance-uat.for.irs.gov",
+    "id": 25840111580,
+    "entry_timestamp": "2026-04-14T07:07:57.503",
+    "not_before": "2026-04-14T06:09:24",
+    "not_after": "2026-07-13T06:09:23",
+    "serial_number": "0672867c9401594690945b35a4a1ea942d1d",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "assistance-uat.for.irs.gov",
+    "name_value": "assistance-uat.for.irs.gov",
     "id": 25494751783,
     "entry_timestamp": "2026-04-14T07:07:55.13",
     "not_before": "2026-04-14T06:09:24",
     "not_after": "2026-07-13T06:09:23",
     "serial_number": "0672867c9401594690945b35a4a1ea942d1d",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "svcnowirsiti.for.irs.gov",
+    "name_value": "svcnowirsiti.for.irs.gov",
+    "id": 25742180772,
+    "entry_timestamp": "2026-04-10T19:00:44.377",
+    "not_before": "2026-04-10T18:02:12",
+    "not_after": "2026-07-09T18:02:11",
+    "serial_number": "06c2abb8777fc88c7c0b35b31ed169f311fd",
     "result_count": 2
   },
   {
@@ -76,11 +112,35 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "assistance-prodfix.for.irs.gov",
     "name_value": "assistance-prodfix.for.irs.gov",
+    "id": 25719828132,
+    "entry_timestamp": "2026-04-10T04:59:42.864",
+    "not_before": "2026-04-10T04:01:12",
+    "not_after": "2026-07-09T04:01:11",
+    "serial_number": "06899384d9e3345a0c0b6138f6789c6f6f02",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "assistance-prodfix.for.irs.gov",
+    "name_value": "assistance-prodfix.for.irs.gov",
     "id": 25474221492,
     "entry_timestamp": "2026-04-10T04:59:42.165",
     "not_before": "2026-04-10T04:01:12",
     "not_after": "2026-07-09T04:01:11",
     "serial_number": "06899384d9e3345a0c0b6138f6789c6f6f02",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "assistance-stage.for.irs.gov",
+    "name_value": "assistance-stage.for.irs.gov",
+    "id": 25719820736,
+    "entry_timestamp": "2026-04-10T04:59:22.001",
+    "not_before": "2026-04-10T04:00:50",
+    "not_after": "2026-07-09T04:00:49",
+    "serial_number": "06c5f82409c087634680e6559bb6ba4964ad",
     "result_count": 2
   },
   {
@@ -101,7 +161,7 @@
     "common_name": "assistance-load.for.irs.gov",
     "name_value": "assistance-load.for.irs.gov",
     "id": 25457563117,
-    "entry_timestamp": "2026-04-08T03:59:25.197",
+    "entry_timestamp": "2026-04-08T03:59:23.744",
     "not_before": "2026-04-08T03:00:52",
     "not_after": "2026-07-07T03:00:51",
     "serial_number": "06e3ffb7e7f0137eb6e32b4d2aaa9c0e5c4a",
@@ -125,7 +185,7 @@
     "common_name": "svcnowpreprod.for.irs.gov",
     "name_value": "svcnowpreprod.for.irs.gov",
     "id": 25589812732,
-    "entry_timestamp": "2026-04-07T03:39:10.951",
+    "entry_timestamp": "2026-04-07T03:39:10.883",
     "not_before": "2026-04-07T02:40:39",
     "not_after": "2026-07-06T02:40:38",
     "serial_number": "06f30d4de779099bb1fced3ee214b70e7d11",
@@ -1065,30 +1125,6 @@
     "not_before": "2026-01-30T04:00:55",
     "not_after": "2026-04-30T04:00:54",
     "serial_number": "050782a9ea62674413c22634eba68bd19168",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "irs.gov",
-    "name_value": "irs.gov",
-    "id": 24017628146,
-    "entry_timestamp": "2026-01-27T18:47:06.483",
-    "not_before": "2026-01-27T00:00:00",
-    "not_after": "2026-04-27T23:59:59",
-    "serial_number": "62fdaba70adf7f23ab4a0b890a480501",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "irs.gov",
-    "name_value": "irs.gov",
-    "id": 24017628214,
-    "entry_timestamp": "2026-01-27T18:47:05.429",
-    "not_before": "2026-01-27T00:00:00",
-    "not_after": "2026-04-27T23:59:59",
-    "serial_number": "62fdaba70adf7f23ab4a0b890a480501",
     "result_count": 2
   },
   {
