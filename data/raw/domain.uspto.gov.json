@@ -156,18 +156,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "ise-admin-a-200.uspto.gov",
-    "name_value": "ise-admin-a-200.uspto.gov",
-    "id": 25776022279,
-    "entry_timestamp": "2026-04-21T14:32:47.81",
-    "not_before": "2026-04-21T00:00:00",
-    "not_after": "2026-11-05T23:59:59",
-    "serial_number": "034a1dbd5b29319f3957cc789b60f24e",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "tmcms-docs.test.uspto.gov",
@@ -339,18 +327,6 @@
     "issuer_ca_id": 246719,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "dscm-dev.tm-pea.awslab.uspto.gov",
-    "name_value": "dscm-dev.int.tm-pea.awslab.uspto.gov\ndscm-dev.tm-pea.awslab.uspto.gov\ndscm-test.int.tm-pea.awslab.uspto.gov\ndscm-test.tm-pea.awslab.uspto.gov\ntest.tm-ns.tm-pea.awslab.uspto.gov",
-    "id": 25558392455,
-    "entry_timestamp": "2026-04-17T15:18:26.497",
-    "not_before": "2026-04-17T00:00:00",
-    "not_after": "2026-10-31T23:59:59",
-    "serial_number": "0cb7649dcd1a1a3a1158cb6c72ed384e",
-    "result_count": 6
-  },
-  {
-    "issuer_ca_id": 246719,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
-    "common_name": "dscm-dev.tm-pea.awslab.uspto.gov",
     "name_value": "dscm-dev.int.tm-pea.awslab.uspto.gov\ndscm-dev.tm-pea.awslab.uspto.gov\ndscm-test.int.tm-pea.awslab.uspto.gov\ndscm-test.tm-pea.awslab.uspto.gov",
     "id": 25558392176,
     "entry_timestamp": "2026-04-17T15:18:26.497",
@@ -358,6 +334,18 @@
     "not_after": "2026-10-31T23:59:59",
     "serial_number": "01d119fbf9e7c5acf8dbb0b07ca4929a",
     "result_count": 5
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "dscm-dev.tm-pea.awslab.uspto.gov",
+    "name_value": "dscm-dev.int.tm-pea.awslab.uspto.gov\ndscm-dev.tm-pea.awslab.uspto.gov\ndscm-test.int.tm-pea.awslab.uspto.gov\ndscm-test.tm-pea.awslab.uspto.gov\ntest.tm-ns.tm-pea.awslab.uspto.gov",
+    "id": 25558392455,
+    "entry_timestamp": "2026-04-17T15:18:26.497",
+    "not_before": "2026-04-17T00:00:00",
+    "not_after": "2026-10-31T23:59:59",
+    "serial_number": "0cb7649dcd1a1a3a1158cb6c72ed384e",
+    "result_count": 6
   },
   {
     "issuer_ca_id": 246719,
@@ -600,30 +588,6 @@
     "result_count": 1
   },
   {
-    "issuer_ca_id": 247119,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
-    "common_name": "penpot.awslab.uspto.gov",
-    "name_value": "*.penpot.awslab.uspto.gov\npenpot.awslab.uspto.gov",
-    "id": 25519209315,
-    "entry_timestamp": "2026-04-14T10:46:03.151",
-    "not_before": "2026-04-14T00:00:00",
-    "not_after": "2026-10-28T23:59:59",
-    "serial_number": "0a0baa1994678f3148305add4b19257e",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 246719,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
-    "common_name": "penpot.awslab.uspto.gov",
-    "name_value": "*.penpot.awslab.uspto.gov\npenpot.awslab.uspto.gov",
-    "id": 25519210370,
-    "entry_timestamp": "2026-04-14T10:46:03.151",
-    "not_before": "2026-04-14T00:00:00",
-    "not_after": "2026-10-28T23:59:59",
-    "serial_number": "0ab8f13fff1657de4ca7bb79108759e1",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 246719,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "penpot.awslab.uspto.gov",
@@ -638,13 +602,25 @@
   {
     "issuer_ca_id": 246719,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
-    "common_name": "ideas.awslab.uspto.gov",
-    "name_value": "*.ideas.awslab.uspto.gov\nideas.awslab.uspto.gov",
-    "id": 25536366784,
-    "entry_timestamp": "2026-04-14T10:45:56.15",
+    "common_name": "penpot.awslab.uspto.gov",
+    "name_value": "*.penpot.awslab.uspto.gov\npenpot.awslab.uspto.gov",
+    "id": 25519210370,
+    "entry_timestamp": "2026-04-14T10:46:03.151",
     "not_before": "2026-04-14T00:00:00",
     "not_after": "2026-10-28T23:59:59",
-    "serial_number": "0b85fed64aec65d1dca57a92826cfebd",
+    "serial_number": "0ab8f13fff1657de4ca7bb79108759e1",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "penpot.awslab.uspto.gov",
+    "name_value": "*.penpot.awslab.uspto.gov\npenpot.awslab.uspto.gov",
+    "id": 25519209315,
+    "entry_timestamp": "2026-04-14T10:46:03.151",
+    "not_before": "2026-04-14T00:00:00",
+    "not_after": "2026-10-28T23:59:59",
+    "serial_number": "0a0baa1994678f3148305add4b19257e",
     "result_count": 3
   },
   {
@@ -652,11 +628,11 @@
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "ideas.awslab.uspto.gov",
     "name_value": "*.ideas.awslab.uspto.gov\nideas.awslab.uspto.gov",
-    "id": 25519210513,
-    "entry_timestamp": "2026-04-14T10:45:55.498",
+    "id": 25536366784,
+    "entry_timestamp": "2026-04-14T10:45:56.15",
     "not_before": "2026-04-14T00:00:00",
     "not_after": "2026-10-28T23:59:59",
-    "serial_number": "032c95b95e16a168f6506ad38c1e105e",
+    "serial_number": "0b85fed64aec65d1dca57a92826cfebd",
     "result_count": 3
   },
   {
@@ -670,6 +646,18 @@
     "not_after": "2026-10-28T23:59:59",
     "serial_number": "0c673e728fc0036e62bc9c62b2d10cae",
     "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "ideas.awslab.uspto.gov",
+    "name_value": "*.ideas.awslab.uspto.gov\nideas.awslab.uspto.gov",
+    "id": 25519210513,
+    "entry_timestamp": "2026-04-14T10:45:55.498",
+    "not_before": "2026-04-14T00:00:00",
+    "not_after": "2026-10-28T23:59:59",
+    "serial_number": "032c95b95e16a168f6506ad38c1e105e",
+    "result_count": 3
   },
   {
     "issuer_ca_id": 246719,
@@ -1313,7 +1301,7 @@
     "common_name": "oedci-dev.etc.uspto.gov",
     "name_value": "ci-dev-oedis-aws.etc.uspto.gov\noedci-dev.etc.uspto.gov",
     "id": 25435450655,
-    "entry_timestamp": "2026-04-07T22:03:37.666",
+    "entry_timestamp": "2026-04-07T22:03:37.696",
     "not_before": "2026-04-07T00:00:00",
     "not_after": "2026-10-21T23:59:59",
     "serial_number": "08d095a5eba32eafed278cd1cf356645",
@@ -1337,7 +1325,7 @@
     "common_name": "oedci-test.etc.uspto.gov",
     "name_value": "ci-test-oedis-aws.etc.uspto.gov\noedci-passive-test.etc.uspto.gov\noedci-test.etc.uspto.gov",
     "id": 25435420077,
-    "entry_timestamp": "2026-04-07T22:00:49.304",
+    "entry_timestamp": "2026-04-07T22:00:49.323",
     "not_before": "2026-04-07T00:00:00",
     "not_after": "2026-10-21T23:59:59",
     "serial_number": "0ee40d5dc1f5eeec18d4aecaeb3d400a",
@@ -1349,7 +1337,7 @@
     "common_name": "oedis-core-test.etc.uspto.gov",
     "name_value": "core-test.oedis.awslab.uspto.gov\noedis-core-passive-test.etc.uspto.gov\noedis-core-test.etc.uspto.gov",
     "id": 25435414189,
-    "entry_timestamp": "2026-04-07T22:00:11.042",
+    "entry_timestamp": "2026-04-07T22:00:11.08",
     "not_before": "2026-04-07T00:00:00",
     "not_after": "2026-10-21T23:59:59",
     "serial_number": "0f4bbbe163e5d47afb2e41186421bc69",
@@ -1361,7 +1349,7 @@
     "common_name": "oedis-core.dev.uspto.gov",
     "name_value": "core-dev.oedis.awslab.uspto.gov\noedis-core.dev.uspto.gov",
     "id": 25483120169,
-    "entry_timestamp": "2026-04-07T21:53:20.124",
+    "entry_timestamp": "2026-04-07T21:53:20.163",
     "not_before": "2026-04-07T00:00:00",
     "not_after": "2026-10-21T23:59:59",
     "serial_number": "0dba43bdd62412ce7907d8f1944bad07",
@@ -8722,41 +8710,5 @@
     "not_after": "2026-05-07T04:00:00",
     "serial_number": "4c2f4586135e2b7e42aa5e2f05fae25b",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "dev-tmsearch.etc.uspto.gov",
-    "name_value": "dev-tmsearch.etc.uspto.gov",
-    "id": 17538679127,
-    "entry_timestamp": "2025-03-31T18:57:16.421",
-    "not_before": "2025-03-31T18:47:14",
-    "not_after": "2026-04-30T04:00:00",
-    "serial_number": "3d41eaa3b5811f9a18283ca2cd78133a",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "test-tmsearch.etc.uspto.gov",
-    "name_value": "test-tmsearch.etc.uspto.gov",
-    "id": 17538589652,
-    "entry_timestamp": "2025-03-31T18:49:30.893",
-    "not_before": "2025-03-31T18:39:29",
-    "not_after": "2026-04-30T04:00:00",
-    "serial_number": "0806e9885184f1e1a8b76158f0a520b8",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "CUCM-PUB-ITE-ms.uspto.gov",
-    "name_value": "CUCM-PUB-ITE-ms.uspto.gov\nCUCM-PUB-ITE.uspto.gov\ncucm-sub1-ite.uspto.gov\nuspto.gov",
-    "id": 17534814213,
-    "entry_timestamp": "2025-03-31T14:07:41.847",
-    "not_before": "2025-03-31T13:57:40",
-    "not_after": "2026-04-30T04:00:00",
-    "serial_number": "27ff19e519e5228a4d7f5c5bc579ebea",
-    "result_count": 5
   }
 ]
