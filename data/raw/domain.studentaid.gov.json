@@ -410,13 +410,13 @@
   {
     "issuer_ca_id": 295816,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "*.apps.temp.test.studentaid.gov",
-    "name_value": "*.apps.temp.test.studentaid.gov",
-    "id": 25835622699,
-    "entry_timestamp": "2026-04-14T01:49:40.996",
-    "not_before": "2026-04-13T18:32:26",
-    "not_after": "2026-07-12T18:32:25",
-    "serial_number": "05cd696fa75e51606620acf75a7f26251b27",
+    "common_name": "gitlab.studentaid.gov",
+    "name_value": "gitlab.studentaid.gov",
+    "id": 25570556136,
+    "entry_timestamp": "2026-04-13T22:40:33.346",
+    "not_before": "2026-04-13T21:05:04",
+    "not_after": "2026-07-12T21:05:03",
+    "serial_number": "0591b706c95f705b59c347c0b6bcca98d9f8",
     "result_count": 2
   },
   {
@@ -425,22 +425,10 @@
     "common_name": "registry.gitlab.studentaid.gov",
     "name_value": "registry.gitlab.studentaid.gov",
     "id": 25569951854,
-    "entry_timestamp": "2026-04-13T22:03:37.589",
+    "entry_timestamp": "2026-04-13T22:03:45.999",
     "not_before": "2026-04-13T21:05:04",
     "not_after": "2026-07-12T21:05:03",
     "serial_number": "05026d14fab4ec978dcefea140fa2c373018",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "gitlab.studentaid.gov",
-    "name_value": "gitlab.studentaid.gov",
-    "id": 25570556136,
-    "entry_timestamp": "2026-04-13T22:03:37.495",
-    "not_before": "2026-04-13T21:05:04",
-    "not_after": "2026-07-12T21:05:03",
-    "serial_number": "0591b706c95f705b59c347c0b6bcca98d9f8",
     "result_count": 2
   },
   {
@@ -494,22 +482,10 @@
   {
     "issuer_ca_id": 295816,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "console-openshift-console.apps.temp.test.studentaid.gov",
-    "name_value": "console-openshift-console.apps.temp.test.studentaid.gov",
-    "id": 25831149627,
-    "entry_timestamp": "2026-04-13T19:31:00.073",
-    "not_before": "2026-04-13T18:32:26",
-    "not_after": "2026-07-12T18:32:25",
-    "serial_number": "051ad3a8960f53a48b1384f834d6410cb0eb",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "oauth-openshift.apps.temp.test.studentaid.gov",
     "name_value": "oauth-openshift.apps.temp.test.studentaid.gov",
-    "id": 25831148987,
-    "entry_timestamp": "2026-04-13T19:30:59.881",
+    "id": 25594153046,
+    "entry_timestamp": "2026-04-13T19:30:57.701",
     "not_before": "2026-04-13T18:32:26",
     "not_after": "2026-07-12T18:32:25",
     "serial_number": "061259959884b1590a3980dbf1c8e397b2e9",
@@ -525,18 +501,6 @@
     "not_before": "2026-04-13T18:32:26",
     "not_after": "2026-07-12T18:32:25",
     "serial_number": "051ad3a8960f53a48b1384f834d6410cb0eb",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "oauth-openshift.apps.temp.test.studentaid.gov",
-    "name_value": "oauth-openshift.apps.temp.test.studentaid.gov",
-    "id": 25594153046,
-    "entry_timestamp": "2026-04-13T19:30:57.701",
-    "not_before": "2026-04-13T18:32:26",
-    "not_after": "2026-07-12T18:32:25",
-    "serial_number": "061259959884b1590a3980dbf1c8e397b2e9",
     "result_count": 2
   },
   {
@@ -612,18 +576,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "gitlab.studentaid.gov",
-    "name_value": "*.gitlab.studentaid.gov\ngitlab.studentaid.gov",
-    "id": 25821855095,
-    "entry_timestamp": "2026-04-11T18:42:38.017",
-    "not_before": "2026-04-11T17:42:37",
-    "not_after": "2026-07-10T18:42:31",
-    "serial_number": "00f091238404650d4f0e2bbcbe67e765de",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 286242,
     "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
     "common_name": "gitlab.studentaid.gov",
@@ -641,7 +593,7 @@
     "common_name": "test-aqm.ccb.studentaid.gov",
     "name_value": "test-aqm.ccb.studentaid.gov\ntest-wfm.ccb.studentaid.gov\ntest-wfm-cip-hist.ccb.studentaid.gov\ntest-wfm-cip-rta.ccb.studentaid.gov",
     "id": 25458855455,
-    "entry_timestamp": "2026-04-09T19:34:47.226",
+    "entry_timestamp": "2026-04-09T19:34:47.242",
     "not_before": "2026-04-09T00:00:00",
     "not_after": "2026-10-24T23:59:59",
     "serial_number": "089709b31563b9a9f434ca677653db63",
@@ -653,7 +605,7 @@
     "common_name": "aqm.ccb.studentaid.gov",
     "name_value": "aqm.ccb.studentaid.gov\nwfm.ccb.studentaid.gov\nwfm-cip-hist.ccb.studentaid.gov\nwfm-cip-rta.ccb.studentaid.gov",
     "id": 25458398729,
-    "entry_timestamp": "2026-04-09T18:31:05.482",
+    "entry_timestamp": "2026-04-09T18:31:05.523",
     "not_before": "2026-04-09T00:00:00",
     "not_after": "2026-10-24T23:59:59",
     "serial_number": "033ec12c9cc9477ce0393319c14f76f7",
