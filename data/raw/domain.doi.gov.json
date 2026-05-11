@@ -1,11 +1,23 @@
 [
   {
+    "issuer_ca_id": 439352,
+    "issuer_name": "C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2026 Q2",
+    "common_name": "securefoia.doi.gov",
+    "name_value": "securefoia.doi.gov",
+    "id": 25908503844,
+    "entry_timestamp": "2026-04-29T10:30:38.701",
+    "not_before": "2026-04-26T12:28:18",
+    "not_after": "2026-07-25T12:28:18",
+    "serial_number": "0104cf58af1fbb49ad4ac455ca1c0fde",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "exm.doi.gov",
     "name_value": "*.exm.doi.gov\nexm.doi.gov",
     "id": 25585069663,
-    "entry_timestamp": "2026-04-19T16:05:37.533",
+    "entry_timestamp": "2026-04-19T16:04:02.547",
     "not_before": "2026-04-19T15:04:01",
     "not_after": "2026-07-18T16:03:47",
     "serial_number": "1dddaa666ac547d513b6a995f33eb416",
@@ -17,7 +29,7 @@
     "common_name": "exm.doi.gov",
     "name_value": "*.exm.doi.gov\nexm.doi.gov",
     "id": 25584574610,
-    "entry_timestamp": "2026-04-19T16:04:45.76",
+    "entry_timestamp": "2026-04-19T16:03:41.807",
     "not_before": "2026-04-19T15:03:41",
     "not_after": "2026-07-18T16:01:07",
     "serial_number": "00d8cbb84f0cf2577f0eebac6dc293392c",
@@ -36,15 +48,51 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "blockpagetest.doi.gov",
+    "name_value": "blockpagetest.doi.gov",
+    "id": 25984607582,
+    "entry_timestamp": "2026-04-18T02:56:13.159",
+    "not_before": "2026-04-18T01:56:12",
+    "not_after": "2026-07-17T02:56:03",
+    "serial_number": "00cf5c3d4e92999a0d137e66ba44fbe9d0",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "blockpagetest.doi.gov",
+    "name_value": "blockpagetest.doi.gov",
+    "id": 25916110369,
+    "entry_timestamp": "2026-04-18T02:55:58.234",
+    "not_before": "2026-04-18T01:55:57",
+    "not_after": "2026-07-17T02:55:49",
+    "serial_number": "00da11bba482fcbe9e0e04bb4468e1d3a5",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 413869,
     "issuer_name": "C=US, O=SSL Corporation, CN=Cloudflare TLS Issuing ECC CA 4",
     "common_name": "cloud.doi.gov",
     "name_value": "*.cloud.doi.gov\ncloud.doi.gov",
     "id": 25678853977,
-    "entry_timestamp": "2026-04-17T16:08:35.281",
+    "entry_timestamp": "2026-04-17T16:07:09.368",
     "not_before": "2026-04-17T15:57:07",
     "not_after": "2026-07-16T16:03:20",
     "serial_number": "1dc68aa40824663d79d7a008cdd2e5db",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295813,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
+    "common_name": "cloud.doi.gov",
+    "name_value": "*.cloud.doi.gov\ncloud.doi.gov",
+    "id": 25910212954,
+    "entry_timestamp": "2026-04-17T16:07:09.351",
+    "not_before": "2026-04-17T15:08:36",
+    "not_after": "2026-07-16T15:08:35",
+    "serial_number": "0604932131ef945fc2e933b521ea47a13a7c",
     "result_count": 3
   },
   {
@@ -81,18 +129,6 @@
     "not_before": "2026-04-16T17:54:51",
     "not_after": "2026-07-15T17:54:50",
     "serial_number": "0533adc0afe47d6085de98d9be6c40059ed7",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "on.doi.gov",
-    "name_value": "on.doi.gov",
-    "id": 25726977061,
-    "entry_timestamp": "2026-04-10T01:32:26.514",
-    "not_before": "2026-04-10T00:33:55",
-    "not_after": "2026-07-09T00:33:54",
-    "serial_number": "06edfe3869ab305a8abfff88edb01180f019",
     "result_count": 2
   },
   {
@@ -208,35 +244,11 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "www.firejobs.doi.gov",
     "name_value": "www.firejobs.doi.gov",
-    "id": 25248349399,
-    "entry_timestamp": "2026-03-27T06:33:04.457",
-    "not_before": "2026-03-27T05:34:33",
-    "not_after": "2026-06-25T05:34:32",
-    "serial_number": "054b10769e75f4ae93832eddf037fa83e737",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "www.firejobs.doi.gov",
-    "name_value": "www.firejobs.doi.gov",
     "id": 25248333747,
     "entry_timestamp": "2026-03-27T06:33:03.997",
     "not_before": "2026-03-27T05:34:33",
     "not_after": "2026-06-25T05:34:32",
     "serial_number": "054b10769e75f4ae93832eddf037fa83e737",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "blog-nrrd.doi.gov",
-    "name_value": "blog-nrrd.doi.gov",
-    "id": 25245675752,
-    "entry_timestamp": "2026-03-27T03:19:28.597",
-    "not_before": "2026-03-27T02:20:56",
-    "not_after": "2026-06-25T02:20:55",
-    "serial_number": "06e81ca31f7f16561d337381d8a01555005f",
     "result_count": 2
   },
   {
@@ -280,35 +292,11 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "firejobs.doi.gov",
     "name_value": "firejobs.doi.gov",
-    "id": 25235541823,
-    "entry_timestamp": "2026-03-26T15:04:09.506",
-    "not_before": "2026-03-26T14:05:36",
-    "not_after": "2026-06-24T14:05:35",
-    "serial_number": "05ef3f07ed72b4a0ed60dd6e70984dec95db",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "firejobs.doi.gov",
-    "name_value": "firejobs.doi.gov",
     "id": 25235522076,
     "entry_timestamp": "2026-03-26T15:04:07.441",
     "not_before": "2026-03-26T14:05:36",
     "not_after": "2026-06-24T14:05:35",
     "serial_number": "05ef3f07ed72b4a0ed60dd6e70984dec95db",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "*.api.doi.gov",
-    "name_value": "*.api.doi.gov",
-    "id": 25234215575,
-    "entry_timestamp": "2026-03-26T13:37:53.686",
-    "not_before": "2026-03-26T12:39:19",
-    "not_after": "2026-06-24T12:39:18",
-    "serial_number": "06c21e171027cf6de2cb8c9d230af0059c28",
     "result_count": 2
   },
   {
@@ -408,78 +396,6 @@
     "result_count": 9
   },
   {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "hr.doi.gov",
-    "name_value": "hr.doi.gov\nohc.doi.gov",
-    "id": 25027376752,
-    "entry_timestamp": "2026-03-16T17:04:52.933",
-    "not_before": "2026-03-16T16:06:22",
-    "not_after": "2026-06-14T16:06:21",
-    "serial_number": "05e96481fe6357ca76aa51bd579e168fd254",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "hr.doi.gov",
-    "name_value": "hr.doi.gov\nohc.doi.gov",
-    "id": 25027355699,
-    "entry_timestamp": "2026-03-16T17:04:52.599",
-    "not_before": "2026-03-16T16:06:22",
-    "not_after": "2026-06-14T16:06:21",
-    "serial_number": "05e96481fe6357ca76aa51bd579e168fd254",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "testohc.doi.gov",
-    "name_value": "testhr.doi.gov\ntestohc.doi.gov",
-    "id": 25027378799,
-    "entry_timestamp": "2026-03-16T17:04:50.681",
-    "not_before": "2026-03-16T16:06:18",
-    "not_after": "2026-06-14T16:06:17",
-    "serial_number": "0698484e73206af7348ba3697bab5606260e",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "testohc.doi.gov",
-    "name_value": "testhr.doi.gov\ntestohc.doi.gov",
-    "id": 25027355551,
-    "entry_timestamp": "2026-03-16T17:04:48.524",
-    "not_before": "2026-03-16T16:06:18",
-    "not_after": "2026-06-14T16:06:17",
-    "serial_number": "0698484e73206af7348ba3697bab5606260e",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "devohc.doi.gov",
-    "name_value": "devhr.doi.gov\ndevohc.doi.gov",
-    "id": 25005647786,
-    "entry_timestamp": "2026-03-15T16:34:21.442",
-    "not_before": "2026-03-15T15:35:50",
-    "not_after": "2026-06-13T15:35:49",
-    "serial_number": "050f15fe82aaab84769bec76946bccf6d696",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "devohc.doi.gov",
-    "name_value": "devhr.doi.gov\ndevohc.doi.gov",
-    "id": 25005641341,
-    "entry_timestamp": "2026-03-15T16:34:20.414",
-    "not_before": "2026-03-15T15:35:50",
-    "not_after": "2026-06-13T15:35:49",
-    "serial_number": "050f15fe82aaab84769bec76946bccf6d696",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "doi.gov",
@@ -508,35 +424,11 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "revenuedata.doi.gov",
     "name_value": "revenuedata.doi.gov",
-    "id": 24966381702,
-    "entry_timestamp": "2026-03-13T16:19:56.455",
-    "not_before": "2026-03-13T15:21:23",
-    "not_after": "2026-06-11T15:21:22",
-    "serial_number": "05d9760b97348e57f075c3970e36d18a30f4",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "revenuedata.doi.gov",
-    "name_value": "revenuedata.doi.gov",
     "id": 24966356527,
     "entry_timestamp": "2026-03-13T16:19:53.509",
     "not_before": "2026-03-13T15:21:23",
     "not_after": "2026-06-11T15:21:22",
     "serial_number": "05d9760b97348e57f075c3970e36d18a30f4",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "*.exm.doi.gov",
-    "name_value": "*.exm.doi.gov",
-    "id": 24908761505,
-    "entry_timestamp": "2026-03-11T00:06:31.415",
-    "not_before": "2026-03-10T23:07:58",
-    "not_after": "2026-06-08T23:07:57",
-    "serial_number": "067385a087607a82c621db66eca7adc69bf0",
     "result_count": 2
   },
   {
@@ -628,18 +520,6 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "archive.revenuedata.doi.gov",
     "name_value": "archive.revenuedata.doi.gov",
-    "id": 24849341274,
-    "entry_timestamp": "2026-03-08T05:19:48.924",
-    "not_before": "2026-03-08T04:21:18",
-    "not_after": "2026-06-06T04:21:17",
-    "serial_number": "067f614f5bf05e08f7a9cedfa71155ed2e69",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "archive.revenuedata.doi.gov",
-    "name_value": "archive.revenuedata.doi.gov",
     "id": 24851892127,
     "entry_timestamp": "2026-03-08T05:19:48.545",
     "not_before": "2026-03-08T04:21:18",
@@ -724,18 +604,6 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "ai.doi.gov",
     "name_value": "*.ai.doi.gov\nai.doi.gov",
-    "id": 24727549664,
-    "entry_timestamp": "2026-03-02T02:39:54.926",
-    "not_before": "2026-03-02T01:41:23",
-    "not_after": "2026-05-31T01:41:22",
-    "serial_number": "05473a9a494a066c477fe7306e89e04cca92",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "ai.doi.gov",
-    "name_value": "*.ai.doi.gov\nai.doi.gov",
     "id": 24727529098,
     "entry_timestamp": "2026-03-02T02:39:54.084",
     "not_before": "2026-03-02T01:41:23",
@@ -765,18 +633,6 @@
     "not_before": "2026-03-01T12:46:56",
     "not_after": "2026-05-30T12:46:55",
     "serial_number": "06daa908e28b2904023c26222733a7a3982d",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "exm.doi.gov",
-    "name_value": "*.exm.doi.gov\nexm.doi.gov",
-    "id": 24716801147,
-    "entry_timestamp": "2026-03-01T13:45:21.706",
-    "not_before": "2026-03-01T12:46:51",
-    "not_after": "2026-05-30T12:46:50",
-    "serial_number": "06e29bc1625129f2692ccca6b3f6fef7fd70",
     "result_count": 3
   },
   {
@@ -957,30 +813,6 @@
     "not_before": "2026-02-18T04:08:57",
     "not_after": "2026-05-18T22:03:05",
     "serial_number": "6db16021cb6a825d117433515dfac463",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295809,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
-    "common_name": "doi.gov",
-    "name_value": "doi.gov",
-    "id": 24295160552,
-    "entry_timestamp": "2026-02-09T21:09:12.935",
-    "not_before": "2026-02-09T20:10:42",
-    "not_after": "2026-05-10T20:10:41",
-    "serial_number": "057dc3478a93e403c08c16453481c649451a",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295809,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
-    "common_name": "doi.gov",
-    "name_value": "doi.gov",
-    "id": 24294877735,
-    "entry_timestamp": "2026-02-09T21:09:12.732",
-    "not_before": "2026-02-09T20:10:42",
-    "not_after": "2026-05-10T20:10:41",
-    "serial_number": "057dc3478a93e403c08c16453481c649451a",
     "result_count": 2
   },
   {
