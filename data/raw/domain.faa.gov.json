@@ -1,5 +1,41 @@
 [
   {
+    "issuer_ca_id": 62123,
+    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
+    "common_name": "ajw1cvvcp31.faa.gov",
+    "name_value": "ajw1cvvcp31.faa.gov",
+    "id": 25922160354,
+    "entry_timestamp": "2026-04-29T20:22:04.15",
+    "not_before": "2026-04-29T00:00:00",
+    "not_after": "2026-11-13T23:59:59",
+    "serial_number": "041c2d12e72c1b6c51598a9f33399eed",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "servicearea.ato.faa.gov",
+    "name_value": "servicearea.ato.faa.gov",
+    "id": 25918577811,
+    "entry_timestamp": "2026-04-29T17:49:02.151",
+    "not_before": "2026-04-29T00:00:00",
+    "not_after": "2026-11-12T23:59:59",
+    "serial_number": "0de388f4846d9bc740ecedfeeffab182",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "sftp-e911-dev.faa.gov",
+    "name_value": "sftp-e911-dev.faa.gov",
+    "id": 25916455563,
+    "entry_timestamp": "2026-04-29T16:13:25.151",
+    "not_before": "2026-04-29T00:00:00",
+    "not_after": "2026-11-12T23:59:59",
+    "serial_number": "0be54db4d2c7cbc9474256a93dac390b",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247106,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
     "common_name": "faadronezone.faa.gov",
@@ -485,7 +521,7 @@
     "common_name": "cas-dev.faa.gov",
     "name_value": "cas-dev.faa.gov",
     "id": 25557846357,
-    "entry_timestamp": "2026-04-17T14:12:46.498",
+    "entry_timestamp": "2026-04-17T14:12:46.271",
     "not_before": "2026-04-17T00:00:00",
     "not_after": "2026-10-31T23:59:59",
     "serial_number": "0db321ce705343c097738ae0cdd568b9",
@@ -497,7 +533,7 @@
     "common_name": "*.apps.ocp.eids.faa.gov",
     "name_value": "api.ocp.eids.faa.gov\n*.apps.ocp.eids.faa.gov",
     "id": 25548991826,
-    "entry_timestamp": "2026-04-16T20:51:10.151",
+    "entry_timestamp": "2026-04-16T20:51:09.559",
     "not_before": "2026-04-16T00:00:00",
     "not_after": "2026-10-31T23:59:59",
     "serial_number": "0e9797c9cb1b21a869704970c8270395",
@@ -533,7 +569,7 @@
     "common_name": "ASH-FCS-DBL-P06.ash.faa.gov",
     "name_value": "ASH-FCS-DBL-P06.ash.faa.gov\nEC2AMAZ-10FEBJR.ash.faa.gov\nEC2AMAZ-JRQ8N6E.ash.faa.gov",
     "id": 25534286878,
-    "entry_timestamp": "2026-04-15T17:21:32.835",
+    "entry_timestamp": "2026-04-15T17:21:32.824",
     "not_before": "2026-04-15T00:00:00",
     "not_after": "2026-10-30T23:59:59",
     "serial_number": "0d12bb87eb6d7c6088e153469fbb2a35",
@@ -23390,18 +23426,6 @@
   {
     "issuer_ca_id": 62123,
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "n4fp.faa.gov",
-    "name_value": "n4fp.faa.gov",
-    "id": 18387953123,
-    "entry_timestamp": "2025-05-13T20:16:00.273",
-    "not_before": "2025-05-13T00:00:00",
-    "not_after": "2026-05-12T23:59:59",
-    "serial_number": "0646de4ba19bcf318d6026c3270404ac",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
     "common_name": "t2ifpa.faa.gov",
     "name_value": "t2ifpa.faa.gov",
     "id": 18387377552,
@@ -23421,18 +23445,6 @@
     "not_before": "2025-05-13T00:00:00",
     "not_after": "2026-06-05T23:59:59",
     "serial_number": "09d79e0174f0644007be5b43ac70bfc8",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "iamcdcpvdb252.ad.faa.gov",
-    "name_value": "iamcdcpvdb252.ad.faa.gov",
-    "id": 18369775767,
-    "entry_timestamp": "2025-05-12T22:20:37.651",
-    "not_before": "2025-05-12T00:00:00",
-    "not_after": "2026-05-11T23:59:59",
-    "serial_number": "06e1bfd36e86f89b41fe46b29f3665ee",
     "result_count": 2
   },
   {
@@ -23481,18 +23493,6 @@
     "not_before": "2025-05-12T00:00:00",
     "not_after": "2026-05-29T23:59:59",
     "serial_number": "0ea6dae6f7dc8ea8825326870db5a086",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "cares-training.faa.gov",
-    "name_value": "cares-training.faa.gov",
-    "id": 18364658751,
-    "entry_timestamp": "2025-05-12T16:18:20.015",
-    "not_before": "2025-05-12T00:00:00",
-    "not_after": "2026-05-11T23:59:59",
-    "serial_number": "07e7ad1ae29ddf4aedd1276162884201",
     "result_count": 2
   },
   {
@@ -23880,18 +23880,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "ang-a.faa.gov",
-    "name_value": "ang-a.faa.gov",
-    "id": 18168019476,
-    "entry_timestamp": "2025-05-01T16:35:35.163",
-    "not_before": "2025-05-01T00:00:00",
-    "not_after": "2026-05-13T23:59:59",
-    "serial_number": "05c6969e9ccc6a6c1addf8e85d376745",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 62123,
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
     "common_name": "ifpa.faa.gov",
@@ -23901,18 +23889,6 @@
     "not_before": "2025-05-01T00:00:00",
     "not_after": "2026-05-21T23:59:59",
     "serial_number": "06e8bdb3c3975a044d16429f8575a89b",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "swb.faa.gov",
-    "name_value": "swb.faa.gov",
-    "id": 18130413847,
-    "entry_timestamp": "2025-04-29T20:30:09.836",
-    "not_before": "2025-04-29T00:00:00",
-    "not_after": "2026-05-13T23:59:59",
-    "serial_number": "091b1ffebf4e4e4dbf27f4ef639f8034",
     "result_count": 2
   },
   {
@@ -24408,30 +24384,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "sams.faa.gov",
-    "name_value": "sams.faa.gov",
-    "id": 17844516341,
-    "entry_timestamp": "2025-04-14T15:22:45.917",
-    "not_before": "2025-04-14T00:00:00",
-    "not_after": "2026-05-12T23:59:59",
-    "serial_number": "046db939554b15ec9619e81edb884411",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "vocr.faa.gov",
-    "name_value": "vocr.faa.gov",
-    "id": 17844149552,
-    "entry_timestamp": "2025-04-14T14:51:23.723",
-    "not_before": "2025-04-14T00:00:00",
-    "not_after": "2026-05-11T23:59:59",
-    "serial_number": "0f63db9212ca38fc39f674eb2d2af6e4",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 247106,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
     "common_name": "argocd.rdoe.faa.gov",
@@ -24441,18 +24393,6 @@
     "not_before": "2025-04-14T00:00:00",
     "not_after": "2026-05-14T23:59:59",
     "serial_number": "03c15fe4ae9b041b5a2e721321b8ab5b",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247119,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
-    "common_name": "www-splunk-test.faa.gov",
-    "name_value": "www-splunk-test.faa.gov",
-    "id": 17797803329,
-    "entry_timestamp": "2025-04-12T04:18:20.064",
-    "not_before": "2025-04-12T00:00:00",
-    "not_after": "2026-05-11T23:59:59",
-    "serial_number": "0733fb3a78ccd12dac6bb8ff6b610657",
     "result_count": 2
   }
 ]
