@@ -1,5 +1,65 @@
 [
   {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "servicecenterdev.ftc.gov",
+    "name_value": "servicecenterdev.ftc.gov",
+    "id": 25942459172,
+    "entry_timestamp": "2026-04-30T11:36:16.059",
+    "not_before": "2026-04-30T10:37:44",
+    "not_after": "2026-07-29T10:37:43",
+    "serial_number": "0613970276bfcd60e102a67d769090962e93",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "servicecenterdev.ftc.gov",
+    "name_value": "servicecenterdev.ftc.gov",
+    "id": 25942345904,
+    "entry_timestamp": "2026-04-30T11:36:15.701",
+    "not_before": "2026-04-30T10:37:44",
+    "not_after": "2026-07-29T10:37:43",
+    "serial_number": "0613970276bfcd60e102a67d769090962e93",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "*.takeitdown.ftc.gov",
+    "name_value": "*.takeitdown.ftc.gov\ntakeitdown.ftc.gov",
+    "id": 25891059079,
+    "entry_timestamp": "2026-04-28T21:36:16.497",
+    "not_before": "2026-04-28T00:00:00",
+    "not_after": "2026-11-11T23:59:59",
+    "serial_number": "04dcf7b5f53ae8f5806422837b89df0f",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "*.takeitdown.ftc.gov",
+    "name_value": "*.takeitdown.ftc.gov\nwww.takeitdown.ftc.gov",
+    "id": 25890702869,
+    "entry_timestamp": "2026-04-28T21:22:30.151",
+    "not_before": "2026-04-28T00:00:00",
+    "not_after": "2026-11-11T23:59:59",
+    "serial_number": "05aa5711a49ffbc70cafddb09dac36ac",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "*.takeitdown.ftc.gov",
+    "name_value": "*.takeitdown.ftc.gov",
+    "id": 25889414981,
+    "entry_timestamp": "2026-04-28T20:22:07.15",
+    "not_before": "2026-04-28T00:00:00",
+    "not_after": "2026-11-11T23:59:59",
+    "serial_number": "079968a3706d29b6480d33cdc70bc604",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 62123,
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
     "common_name": "www.ftc.gov",
@@ -26,18 +86,6 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "sslvpn.ftc.gov",
-    "name_value": "sslvpn.ftc.gov",
-    "id": 25847379283,
-    "entry_timestamp": "2026-04-27T14:08:55.498",
-    "not_before": "2026-04-27T00:00:00",
-    "not_after": "2026-11-11T23:59:59",
-    "serial_number": "0f13688c60c127a58aebe3766a69fe7e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "devfoiaxpress.ftc.gov",
     "name_value": "devfoiaxpress.ftc.gov",
     "id": 25847379747,
@@ -48,12 +96,24 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "sslvpn.ftc.gov",
+    "name_value": "sslvpn.ftc.gov",
+    "id": 25847379283,
+    "entry_timestamp": "2026-04-27T14:08:55.498",
+    "not_before": "2026-04-27T00:00:00",
+    "not_after": "2026-11-11T23:59:59",
+    "serial_number": "0f13688c60c127a58aebe3766a69fe7e",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 295816,
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "rnlogin.ftc.gov",
     "name_value": "rnlogin.ftc.gov",
     "id": 25694715134,
-    "entry_timestamp": "2026-04-20T02:01:31.949",
+    "entry_timestamp": "2026-04-20T02:01:31.625",
     "not_before": "2026-04-20T01:02:59",
     "not_after": "2026-07-19T01:02:58",
     "serial_number": "059349cffa295adcd672df423bf2b9ca8d50",
@@ -77,7 +137,7 @@
     "common_name": "test.adminefiling.ftc.gov",
     "name_value": "test.adminefiling.ftc.gov",
     "id": 25787829570,
-    "entry_timestamp": "2026-04-12T05:48:22.922",
+    "entry_timestamp": "2026-04-12T05:48:22.853",
     "not_before": "2026-04-12T04:49:52",
     "not_after": "2026-07-11T04:49:51",
     "serial_number": "06ff758b3adfd3484584df4f02170fdd21a0",
@@ -89,7 +149,7 @@
     "common_name": "test.rnlogin.ftc.gov",
     "name_value": "test.rnlogin.ftc.gov",
     "id": 25789097210,
-    "entry_timestamp": "2026-04-12T05:48:22.917",
+    "entry_timestamp": "2026-04-12T05:48:22.85",
     "not_before": "2026-04-12T04:49:52",
     "not_after": "2026-07-11T04:49:51",
     "serial_number": "0633edb730db4386b10da75db03065d447b0",
@@ -718,29 +778,5 @@
     "not_after": "2026-06-29T23:59:59",
     "serial_number": "0bcc17724d7187f2f99182fb1bb3c515",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "sslvpn.ftc.gov",
-    "name_value": "sslvpn.ftc.gov",
-    "id": 17866129246,
-    "entry_timestamp": "2025-04-15T17:21:20.846",
-    "not_before": "2025-04-15T00:00:00",
-    "not_after": "2026-05-16T23:59:59",
-    "serial_number": "08d74b140a49f2d3855f011cdb8b0d76",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "collab.ftc.gov",
-    "name_value": "collab.ftc.gov\nftc.gov\nhq1-vtcvcse-s1.ftc.gov\ntrade.ftc.gov\nvtc.ftc.gov",
-    "id": 17866105742,
-    "entry_timestamp": "2025-04-15T17:19:37.013",
-    "not_before": "2025-04-15T00:00:00",
-    "not_after": "2026-05-16T23:59:59",
-    "serial_number": "01bacf702b1c6c6abe1d490fbc72ca78",
-    "result_count": 6
   }
 ]
