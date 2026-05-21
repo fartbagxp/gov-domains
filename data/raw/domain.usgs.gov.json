@@ -2,6 +2,30 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "*.chs.usgs.gov",
+    "name_value": "*.chs.usgs.gov\nchs.usgs.gov",
+    "id": 25890614092,
+    "entry_timestamp": "2026-04-28T21:18:02.497",
+    "not_before": "2026-04-28T00:00:00",
+    "not_after": "2026-07-27T23:59:59",
+    "serial_number": "05f09e1cb0e8d8c49d441064562e60fc",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "*.ipds.usgs.gov",
+    "name_value": "*.ipds.usgs.gov\nipds.usgs.gov\nspfileuploaddev.ipds.usgs.gov\nspfileupload.ipds.usgs.gov\nspfileuploadtest.ipds.usgs.gov\nspfileuploaduat.ipds.usgs.gov",
+    "id": 25879747315,
+    "entry_timestamp": "2026-04-28T13:08:23.15",
+    "not_before": "2026-04-28T00:00:00",
+    "not_after": "2026-11-12T23:59:59",
+    "serial_number": "0b0199a20e3d9d969a1dc6fb9aa990be",
+    "result_count": 7
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "*.ipds.usgs.gov",
     "name_value": "*.ipds.usgs.gov\nipds.usgs.gov\nspfileuploaddev.ipds.usgs.gov\nspfileupload.ipds.usgs.gov\nspfileuploadtest.ipds.usgs.gov\nspfileuploaduat.ipds.usgs.gov",
     "id": 25713183433,
@@ -53,7 +77,7 @@
     "common_name": "api.waterdata.usgs.gov",
     "name_value": "api.waterdata.usgs.gov",
     "id": 25673327934,
-    "entry_timestamp": "2026-04-18T22:19:55.177",
+    "entry_timestamp": "2026-04-18T22:19:51.882",
     "not_before": "2026-04-18T21:21:20",
     "not_after": "2026-07-17T21:21:19",
     "serial_number": "0512037d889fef23473ea11cf77e66b86067",
@@ -69,6 +93,18 @@
     "not_before": "2026-04-18T21:21:20",
     "not_after": "2026-07-17T21:21:19",
     "serial_number": "0512037d889fef23473ea11cf77e66b86067",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295809,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
+    "common_name": "libraryguides.usgs.gov",
+    "name_value": "libraryguides.usgs.gov",
+    "id": 25914997466,
+    "entry_timestamp": "2026-04-18T00:44:38.59",
+    "not_before": "2026-04-17T23:46:06",
+    "not_after": "2026-07-16T23:46:05",
+    "serial_number": "06e478909552911ee142e15efc2be3a4243f",
     "result_count": 2
   },
   {
@@ -682,30 +718,6 @@
     "not_after": "2027-03-24T23:59:59",
     "serial_number": "01d2afb0628841442a5de131c28d1f0e",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "api.waterdata.usgs.gov",
-    "name_value": "api.waterdata.usgs.gov",
-    "id": 24476308032,
-    "entry_timestamp": "2026-02-17T22:19:07.124",
-    "not_before": "2026-02-17T21:20:36",
-    "not_after": "2026-05-18T21:20:35",
-    "serial_number": "0524280ba655d9a98e9d2a3f03fbec120cd4",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "api.waterdata.usgs.gov",
-    "name_value": "api.waterdata.usgs.gov",
-    "id": 24476292604,
-    "entry_timestamp": "2026-02-17T22:19:06.892",
-    "not_before": "2026-02-17T21:20:36",
-    "not_after": "2026-05-18T21:20:35",
-    "serial_number": "0524280ba655d9a98e9d2a3f03fbec120cd4",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 185752,
@@ -4234,17 +4246,5 @@
     "not_after": "2026-05-31T23:59:59",
     "serial_number": "0a8c12b05c5b18a48c03dbd9950c67bc",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "*.iot.usgs.gov",
-    "name_value": "*.iot.usgs.gov\niot.usgs.gov",
-    "id": 18043181810,
-    "entry_timestamp": "2025-04-24T19:56:28.036",
-    "not_before": "2025-04-24T00:00:00",
-    "not_after": "2026-05-19T23:59:59",
-    "serial_number": "0fc9d64242a48fd093797487b226c47f",
-    "result_count": 3
   }
 ]
