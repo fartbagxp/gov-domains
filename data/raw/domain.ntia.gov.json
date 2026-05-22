@@ -5,10 +5,34 @@
     "common_name": "listserv.ntia.gov",
     "name_value": "listserv.ntia.gov",
     "id": 25734076059,
-    "entry_timestamp": "2026-04-23T17:06:58.858",
+    "entry_timestamp": "2026-04-23T17:06:57.999",
     "not_before": "2026-04-23T16:55:47",
     "not_after": "2026-11-08T16:55:46",
     "serial_number": "48c3b6ad9f46ee58adf228ed69ff136e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 413868,
+    "issuer_name": "C=US, O=SSL Corporation, CN=Cloudflare TLS Issuing ECC CA 3",
+    "common_name": "listserv.ntia.gov",
+    "name_value": "listserv.ntia.gov",
+    "id": 25987096997,
+    "entry_timestamp": "2026-04-23T17:05:49.241",
+    "not_before": "2026-04-23T16:55:47",
+    "not_after": "2026-11-08T16:55:46",
+    "serial_number": "48c3b6ad9f46ee58adf228ed69ff136e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 413864,
+    "issuer_name": "C=US, O=SSL Corporation, CN=Cloudflare TLS Issuing RSA CA 3",
+    "common_name": "listserv.ntia.gov",
+    "name_value": "listserv.ntia.gov",
+    "id": 25987096033,
+    "entry_timestamp": "2026-04-23T17:05:41.649",
+    "not_before": "2026-04-23T16:55:40",
+    "not_after": "2026-11-08T16:55:39",
+    "serial_number": "5d87cf4b66050919ebae4fd407cb4910",
     "result_count": 2
   },
   {
@@ -113,7 +137,7 @@
     "common_name": "social.ntia.gov",
     "name_value": "social.ntia.gov",
     "id": 25918347112,
-    "entry_timestamp": "2026-04-13T10:25:11.981",
+    "entry_timestamp": "2026-04-13T10:25:11.91",
     "not_before": "2026-04-13T09:26:41",
     "not_after": "2026-07-12T09:26:40",
     "serial_number": "05fe1688bbd966e1f46eaec493e1a87f6457",
@@ -1560,30 +1584,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "okta.ntia.gov",
-    "name_value": "okta.ntia.gov",
-    "id": 24535154564,
-    "entry_timestamp": "2026-02-20T14:22:59.122",
-    "not_before": "2026-02-20T13:24:25",
-    "not_after": "2026-05-21T13:24:24",
-    "serial_number": "055fcb3e2cf874c2949fbd267103c7577cc8",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "okta.ntia.gov",
-    "name_value": "okta.ntia.gov",
-    "id": 24535128501,
-    "entry_timestamp": "2026-02-20T14:22:55.523",
-    "not_before": "2026-02-20T13:24:25",
-    "not_after": "2026-05-21T13:24:24",
-    "serial_number": "055fcb3e2cf874c2949fbd267103c7577cc8",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 62123,
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
     "common_name": "slfcpdev.ntia.gov",
@@ -2098,18 +2098,6 @@
     "not_after": "2027-01-12T23:59:59",
     "serial_number": "0b21ad117436201299cf3e22a7e8d5e5",
     "result_count": 6
-  },
-  {
-    "issuer_ca_id": 282054,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
-    "common_name": "iracnet.ntia.gov",
-    "name_value": "iracnet.ntia.gov",
-    "id": 23659651655,
-    "entry_timestamp": "2026-01-09T16:24:26.597",
-    "not_before": "2025-05-19T20:39:53",
-    "not_after": "2026-05-19T20:44:17",
-    "serial_number": "7d66504d98668f30aa54ef3fdab185da",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 185752,
@@ -3945,138 +3933,6 @@
     "not_before": "2025-06-02T00:00:00",
     "not_after": "2026-07-03T23:59:59",
     "serial_number": "017ecb2e4713b2c8e78d0cfea69aa8af",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 282053,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
-    "common_name": "iracnettest.ntia.gov",
-    "name_value": "iracnettest.ntia.gov",
-    "id": 18543192941,
-    "entry_timestamp": "2025-05-21T19:12:14.568",
-    "not_before": "2025-05-21T18:58:44",
-    "not_after": "2026-05-21T19:06:28",
-    "serial_number": "3cf477c9040e17fdf560a9e128af7874",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 282054,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
-    "common_name": "iracnettest.ntia.gov",
-    "name_value": "iracnettest.ntia.gov",
-    "id": 18543157712,
-    "entry_timestamp": "2025-05-21T19:12:13.57",
-    "not_before": "2025-05-21T19:02:09",
-    "not_after": "2026-05-21T19:06:30",
-    "serial_number": "4fb0babdc80fdcfdfb2bc8ec1414f829",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 282054,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
-    "common_name": "iracnettest.ntia.gov",
-    "name_value": "iracnettest.ntia.gov",
-    "id": 18543172676,
-    "entry_timestamp": "2025-05-21T19:12:10.207",
-    "not_before": "2025-05-21T19:02:09",
-    "not_after": "2026-05-21T19:06:30",
-    "serial_number": "4fb0babdc80fdcfdfb2bc8ec1414f829",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 282053,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
-    "common_name": "iracnettest.ntia.gov",
-    "name_value": "iracnettest.ntia.gov",
-    "id": 18543120968,
-    "entry_timestamp": "2025-05-21T19:08:45.595",
-    "not_before": "2025-05-21T18:58:44",
-    "not_after": "2026-05-21T19:06:28",
-    "serial_number": "3cf477c9040e17fdf560a9e128af7874",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 282053,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
-    "common_name": "iracnet.ntia.gov",
-    "name_value": "iracnet.ntia.gov",
-    "id": 18505020782,
-    "entry_timestamp": "2025-05-19T20:50:06.673",
-    "not_before": "2025-05-19T20:36:29",
-    "not_after": "2026-05-19T20:44:15",
-    "serial_number": "097acdc0d201b9f62e7c0ad49b9123e4",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 282054,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
-    "common_name": "iracnet.ntia.gov",
-    "name_value": "iracnet.ntia.gov",
-    "id": 18505007641,
-    "entry_timestamp": "2025-05-19T20:49:54.248",
-    "not_before": "2025-05-19T20:39:53",
-    "not_after": "2026-05-19T20:44:17",
-    "serial_number": "7d66504d98668f30aa54ef3fdab185da",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 282054,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
-    "common_name": "elcidonline.ntia.gov",
-    "name_value": "elcidonline.ntia.gov",
-    "id": 18505009346,
-    "entry_timestamp": "2025-05-19T20:48:56.59",
-    "not_before": "2025-05-19T20:38:43",
-    "not_after": "2026-05-19T20:44:12",
-    "serial_number": "512d65b50f1aceeae86bca809a98492d",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 282053,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
-    "common_name": "elcidonline.ntia.gov",
-    "name_value": "elcidonline.ntia.gov",
-    "id": 18505008463,
-    "entry_timestamp": "2025-05-19T20:48:53.769",
-    "not_before": "2025-05-19T20:36:26",
-    "not_after": "2026-05-19T20:44:12",
-    "serial_number": "0b439e3c5e14b4c9a6012ca3d56810a9",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 282054,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
-    "common_name": "elcidonline.ntia.gov",
-    "name_value": "elcidonline.ntia.gov",
-    "id": 18504995341,
-    "entry_timestamp": "2025-05-19T20:48:44.52",
-    "not_before": "2025-05-19T20:38:43",
-    "not_after": "2026-05-19T20:44:12",
-    "serial_number": "512d65b50f1aceeae86bca809a98492d",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 282053,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
-    "common_name": "iracnet.ntia.gov",
-    "name_value": "iracnet.ntia.gov",
-    "id": 18504950205,
-    "entry_timestamp": "2025-05-19T20:46:30.887",
-    "not_before": "2025-05-19T20:36:29",
-    "not_after": "2026-05-19T20:44:15",
-    "serial_number": "097acdc0d201b9f62e7c0ad49b9123e4",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 282053,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
-    "common_name": "elcidonline.ntia.gov",
-    "name_value": "elcidonline.ntia.gov",
-    "id": 18504950371,
-    "entry_timestamp": "2025-05-19T20:46:27.296",
-    "not_before": "2025-05-19T20:36:26",
-    "not_after": "2026-05-19T20:44:12",
-    "serial_number": "0b439e3c5e14b4c9a6012ca3d56810a9",
     "result_count": 2
   }
 ]
