@@ -21,8 +21,10 @@ jobs:
           # Executive Branch: Dept of Health and Human Services
           hhs.gov,
           cdc.gov,
+          clinicaltrials.gov,
           cms.gov,
           fda.gov,
+          medicare.gov,
           nih.gov,
           acf.gov,
           hrsa.gov,
@@ -36,6 +38,7 @@ jobs:
 
           # Executive Branch: Dept of Homeland Security
           dhs.gov,
+          cbp.gov,
           cisa.gov,
           data.gov,
           fema.gov,
@@ -51,7 +54,6 @@ jobs:
           ojp.gov,
           dea.gov,
           fbi.gov,
-          uscourts.gov,
 
           # Executive Branch: Dept of Labor
           dol.gov,
@@ -102,6 +104,7 @@ jobs:
 
           # Executive Branch: Dept of Interior
           doi.gov,
+          fws.gov,
           usgs.gov,
           nps.gov,
 
@@ -144,13 +147,29 @@ jobs:
           ndstudio.gov,
           trumpcard.gov,
           americabydesign.gov,
-          freedom.gov
+          freedom.gov,
+
+          # Executive Branch: Independent Agencies
+          ssa.gov,
+          consumerfinance.gov,
+          sba.gov,
+          tsp.gov,
+
+          # Legislative Branch
+          congress.gov,
+          senate.gov,
+          house.gov,
+          gpo.gov,
+          loc.gov,
+
+          # Judicial Branch
+          uscourts.gov
         ]
       fail-fast: false # continue if any domain fails
       max-parallel: 5 # limit to 5 parallel jobs to avoid overwhelming resources
 
     steps:
-      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+      - uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6.0.3
         with:
           fetch-depth: 0
           persist-credentials: false
@@ -183,7 +202,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+      - uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6.0.3
         with:
           fetch-depth: 0
           persist-credentials: true
