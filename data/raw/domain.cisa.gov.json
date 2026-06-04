@@ -1,5 +1,77 @@
 [
   {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "cisa.gov",
+    "name_value": "*.access.cisa.gov\n*.access-dev.cisa.gov\n*.access-uat.cisa.gov\n*.cisa.gov\ncisa.gov\n*.lb.cisa.gov",
+    "id": 26834985960,
+    "entry_timestamp": "2026-06-02T19:04:21.386",
+    "not_before": "2026-05-10T12:57:06",
+    "not_after": "2026-08-08T13:56:58",
+    "serial_number": "00a0fc7d4d1cfadfd7130560be3ac208de",
+    "result_count": 7
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "*.gateway.cisa.gov",
+    "name_value": "*.development.gateway.cisa.gov\n*.gateway.cisa.gov",
+    "id": 26835890968,
+    "entry_timestamp": "2026-06-02T19:02:30.811",
+    "not_before": "2026-06-02T18:02:30",
+    "not_after": "2026-08-31T19:02:28",
+    "serial_number": "51bc56656c9199060ebc575ae34ed4bf",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "*.gateway.cisa.gov",
+    "name_value": "*.development.gateway.cisa.gov\n*.gateway.cisa.gov",
+    "id": 26834974934,
+    "entry_timestamp": "2026-06-02T19:02:23.34",
+    "not_before": "2026-06-02T18:02:22",
+    "not_after": "2026-08-31T19:00:06",
+    "serial_number": "008d32b8da949077ac13a5ddf5d44c4021",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185748,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
+    "common_name": "www3.dhs.gov",
+    "name_value": "cisa.gov\npreview.cisa.gov\nstaging.cisa.gov\ntripwire.cisa.gov\nus-cert.cisa.gov\nwww.us-cert.cisa.gov",
+    "id": 26827912771,
+    "entry_timestamp": "2026-06-02T13:39:52.589",
+    "not_before": "2026-04-14T00:00:00",
+    "not_after": "2026-10-29T23:59:59",
+    "serial_number": "04427ef97a2e4800e1ca22e8a50036fd",
+    "result_count": 6
+  },
+  {
+    "issuer_ca_id": 185748,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
+    "common_name": "www3.dhs.gov",
+    "name_value": "cisa.gov\npreview.cisa.gov\nstaging.cisa.gov\ntripwire.cisa.gov\nus-cert.cisa.gov\nwww.us-cert.cisa.gov",
+    "id": 26827910261,
+    "entry_timestamp": "2026-06-02T13:39:49.505",
+    "not_before": "2026-06-02T00:00:00",
+    "not_after": "2026-12-17T23:59:59",
+    "serial_number": "06ae339d0d1e167201aa52e27abc115d",
+    "result_count": 6
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "www3.dhs.gov",
+    "name_value": "cisa.gov\npreview.cisa.gov\nstaging.cisa.gov\ntripwire.cisa.gov\nus-cert.cisa.gov\nwww.us-cert.cisa.gov",
+    "id": 26827891567,
+    "entry_timestamp": "2026-06-02T13:37:48.054",
+    "not_before": "2026-06-02T00:00:00",
+    "not_after": "2026-12-17T23:59:59",
+    "serial_number": "0df9cc10ef02666f7666c8141b790098",
+    "result_count": 6
+  },
+  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "Malware.cisa.gov",
@@ -58,6 +130,18 @@
     "not_after": "2026-08-19T03:19:42",
     "serial_number": "00ae7c8a7dea12eb870ecfea69bae8d22f",
     "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295809,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
+    "common_name": "protectivedns.cisa.gov",
+    "name_value": "*.ci.protectivedns.cisa.gov\n*.dev.protectivedns.cisa.gov\n*.protectivedns.cisa.gov\nprotectivedns.cisa.gov\n*.test-ci.protectivedns.cisa.gov\n*.test.protectivedns.cisa.gov",
+    "id": 26502322904,
+    "entry_timestamp": "2026-05-20T22:02:12.75",
+    "not_before": "2026-05-20T21:03:42",
+    "not_after": "2026-08-18T21:03:41",
+    "serial_number": "0579246f001bdba9114757f6dabad6020e41",
+    "result_count": 7
   },
   {
     "issuer_ca_id": 295809,
@@ -682,6 +766,18 @@
     "not_after": "2026-06-20T23:52:19",
     "serial_number": "00b7da66644199bacf0e5b419090c6b7ad",
     "result_count": 3
+  },
+  {
+    "issuer_ca_id": 295809,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
+    "common_name": "protectivedns.cisa.gov",
+    "name_value": "*.ci.protectivedns.cisa.gov\n*.dev.protectivedns.cisa.gov\n*.protectivedns.cisa.gov\nprotectivedns.cisa.gov\n*.test-ci.protectivedns.cisa.gov\n*.test.protectivedns.cisa.gov",
+    "id": 25159265802,
+    "entry_timestamp": "2026-03-22T22:34:39.454",
+    "not_before": "2026-03-22T21:36:08",
+    "not_after": "2026-06-20T21:36:07",
+    "serial_number": "06ff5ba8f5e27c8db81e05a8fe7301b712e8",
+    "result_count": 7
   },
   {
     "issuer_ca_id": 295809,
@@ -2062,17 +2158,5 @@
     "not_after": "2026-06-16T23:59:59",
     "serial_number": "02bc1a1641a1ac23314576641860d162",
     "result_count": 29
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "tripwire.dhs.gov",
-    "name_value": "stage.tripwire.cisa.gov\ntripwire.cisa.gov",
-    "id": 18789273659,
-    "entry_timestamp": "2025-06-03T14:20:31.149",
-    "not_before": "2025-06-03T00:00:00",
-    "not_after": "2026-06-02T23:59:59",
-    "serial_number": "0f77ac930c7edbc3cbeeea31e9fcf09e",
-    "result_count": 2
   }
 ]
