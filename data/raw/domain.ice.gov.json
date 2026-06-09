@@ -1,5 +1,89 @@
 [
   {
+    "issuer_ca_id": 431054,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YE2",
+    "common_name": "cg-sa.ice.gov",
+    "name_value": "cg-sa.ice.gov",
+    "id": 26886350097,
+    "entry_timestamp": "2026-06-04T13:52:33.395",
+    "not_before": "2026-06-04T12:54:02",
+    "not_after": "2026-09-02T12:54:01",
+    "serial_number": "0689705631bd37eda6c7058a0a0524f2a814",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 431054,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YE2",
+    "common_name": "cg-sa.ice.gov",
+    "name_value": "cg-sa.ice.gov",
+    "id": 26886345398,
+    "entry_timestamp": "2026-06-04T13:52:32.681",
+    "not_before": "2026-06-04T12:54:02",
+    "not_after": "2026-09-02T12:54:01",
+    "serial_number": "0689705631bd37eda6c7058a0a0524f2a814",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 431054,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YE2",
+    "common_name": "n-sa.ice.gov",
+    "name_value": "n-sa.ice.gov",
+    "id": 26885064945,
+    "entry_timestamp": "2026-06-04T12:45:03.245",
+    "not_before": "2026-06-04T11:46:32",
+    "not_after": "2026-09-02T11:46:31",
+    "serial_number": "05a90df9a4f0ada98b2e3aae224318d3bcd7",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 431054,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YE2",
+    "common_name": "n-sa.ice.gov",
+    "name_value": "n-sa.ice.gov",
+    "id": 26885059683,
+    "entry_timestamp": "2026-06-04T12:45:02.946",
+    "not_before": "2026-06-04T11:46:32",
+    "not_after": "2026-09-02T11:46:31",
+    "serial_number": "05a90df9a4f0ada98b2e3aae224318d3bcd7",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185748,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
+    "common_name": "www3.dhs.gov",
+    "name_value": "ice.gov\njoin.ice.gov\nsecretservice.gov\nvoice.ice.gov",
+    "id": 26827912771,
+    "entry_timestamp": "2026-06-02T13:39:52.589",
+    "not_before": "2026-04-14T00:00:00",
+    "not_after": "2026-10-29T23:59:59",
+    "serial_number": "04427ef97a2e4800e1ca22e8a50036fd",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 185748,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
+    "common_name": "www3.dhs.gov",
+    "name_value": "ice.gov\njoin.ice.gov\nsecretservice.gov\nvoice.ice.gov",
+    "id": 26827910261,
+    "entry_timestamp": "2026-06-02T13:39:49.478",
+    "not_before": "2026-06-02T00:00:00",
+    "not_after": "2026-12-17T23:59:59",
+    "serial_number": "06ae339d0d1e167201aa52e27abc115d",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "www3.dhs.gov",
+    "name_value": "ice.gov\njoin.ice.gov\nsecretservice.gov\nvoice.ice.gov",
+    "id": 26827891567,
+    "entry_timestamp": "2026-06-02T13:37:48.051",
+    "not_before": "2026-06-02T00:00:00",
+    "not_after": "2026-12-17T23:59:59",
+    "serial_number": "0df9cc10ef02666f7666c8141b790098",
+    "result_count": 4
+  },
+  {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "batch.sevis.ice.gov",
@@ -70,18 +154,6 @@
     "not_after": "2026-08-22T22:53:47",
     "serial_number": "06b2923fc1bba3401a3b4dfe52fe876a8650",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "chis.ice.gov",
-    "name_value": "chis.ice.gov",
-    "id": 26552063349,
-    "entry_timestamp": "2026-05-22T14:41:13.919",
-    "not_before": "2025-05-05T00:00:00",
-    "not_after": "2026-06-05T23:59:59",
-    "serial_number": "0bbd8fb674f3963418a15ee1dd912194",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 185752,
@@ -886,102 +958,6 @@
     "not_after": "2026-09-22T23:59:59",
     "serial_number": "04a8ca98fb4ed679894aaa2fcc55ce8a",
     "result_count": 5
-  },
-  {
-    "issuer_ca_id": 295813,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
-    "common_name": "batch.beta.sevis.ice.gov",
-    "name_value": "*.batch.beta.sevis.ice.gov\nbatch.beta.sevis.ice.gov",
-    "id": 24892561345,
-    "entry_timestamp": "2026-03-10T06:31:58.778",
-    "not_before": "2026-03-10T05:33:28",
-    "not_after": "2026-06-08T05:33:27",
-    "serial_number": "05a93652b36a588e70eb1252fa5bf21946be",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295813,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
-    "common_name": "batch.beta.sevis.ice.gov",
-    "name_value": "*.batch.beta.sevis.ice.gov\nbatch.beta.sevis.ice.gov",
-    "id": 24892562157,
-    "entry_timestamp": "2026-03-10T06:31:58.44",
-    "not_before": "2026-03-10T05:33:28",
-    "not_after": "2026-06-08T05:33:27",
-    "serial_number": "05a93652b36a588e70eb1252fa5bf21946be",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "batch.beta.sevis.ice.gov",
-    "name_value": "*.batch.beta.sevis.ice.gov\nbatch.beta.sevis.ice.gov",
-    "id": 24892559140,
-    "entry_timestamp": "2026-03-10T06:31:44.921",
-    "not_before": "2026-03-10T05:33:13",
-    "not_after": "2026-06-08T05:33:12",
-    "serial_number": "060b09dbbf44cfb8f60e9c03cf43ec19e160",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "batch.beta.sevis.ice.gov",
-    "name_value": "*.batch.beta.sevis.ice.gov\nbatch.beta.sevis.ice.gov",
-    "id": 24892537762,
-    "entry_timestamp": "2026-03-10T06:31:44.072",
-    "not_before": "2026-03-10T05:33:13",
-    "not_after": "2026-06-08T05:33:12",
-    "serial_number": "060b09dbbf44cfb8f60e9c03cf43ec19e160",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "batch.beta.sevis.ice.gov",
-    "name_value": "*.batch.beta.sevis.ice.gov\nbatch.beta.sevis.ice.gov",
-    "id": 24867155129,
-    "entry_timestamp": "2026-03-09T01:26:40.242",
-    "not_before": "2026-03-09T00:26:39",
-    "not_after": "2026-06-07T01:26:37",
-    "serial_number": "00af45a1016d7e9d3e0e2997e3089b8001",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "batch.beta.sevis.ice.gov",
-    "name_value": "*.batch.beta.sevis.ice.gov\nbatch.beta.sevis.ice.gov",
-    "id": 24867167537,
-    "entry_timestamp": "2026-03-09T01:26:32.08",
-    "not_before": "2026-03-09T00:26:31",
-    "not_after": "2026-06-07T01:24:01",
-    "serial_number": "00ac50aa86b6ae5506112d41d93ed824b9",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295809,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
-    "common_name": "cg-sa.ice.gov",
-    "name_value": "cg-sa.ice.gov",
-    "id": 24805525706,
-    "entry_timestamp": "2026-03-05T19:35:05.142",
-    "not_before": "2026-03-05T18:36:32",
-    "not_after": "2026-06-03T18:36:31",
-    "serial_number": "06b7b5643a4645a8b022fcc8cfcbc58d28b4",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295809,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
-    "common_name": "cg-sa.ice.gov",
-    "name_value": "cg-sa.ice.gov",
-    "id": 24805526283,
-    "entry_timestamp": "2026-03-05T19:35:03.044",
-    "not_before": "2026-03-05T18:36:32",
-    "not_after": "2026-06-03T18:36:31",
-    "serial_number": "06b7b5643a4645a8b022fcc8cfcbc58d28b4",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 185748,
@@ -1941,18 +1917,6 @@
     "not_before": "2025-05-27T00:00:00",
     "not_after": "2026-06-27T23:59:59",
     "serial_number": "0f2acc63ea09fe68c541337e58428c4a",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "chis.ice.gov",
-    "name_value": "chis.ice.gov",
-    "id": 18235472756,
-    "entry_timestamp": "2025-05-05T14:02:54.722",
-    "not_before": "2025-05-05T00:00:00",
-    "not_after": "2026-06-05T23:59:59",
-    "serial_number": "0bbd8fb674f3963418a15ee1dd912194",
     "result_count": 2
   }
 ]

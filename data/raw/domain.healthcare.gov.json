@@ -2,6 +2,42 @@
   {
     "issuer_ca_id": 62123,
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
+    "common_name": "www.healthcare.gov",
+    "name_value": "aca.api.healthcare.gov\napi.finder.healthcare.gov\nbilling.healthcare.gov\ncompanyprofiles.healthcare.gov\ndata.healthcare.gov\nedit.data.healthcare.gov\nfinder.healthcare.gov\ngeo.api.healthcare.gov\ngo.healthcare.gov\nhealthcare.gov\nlocalhelp.healthcare.gov\nlogin.healthcare.gov\nmarketplace.api.healthcare.gov\nmarketplace-int.api.healthcare.gov\nprodprime.healthcare.gov\nratereview.healthcare.gov\nsignup.healthcare.gov\nstatus.healthcare.gov\nwww.healthcare.gov",
+    "id": 26927074002,
+    "entry_timestamp": "2026-06-06T00:02:58.649",
+    "not_before": "2026-06-06T00:00:00",
+    "not_after": "2026-12-21T23:59:59",
+    "serial_number": "074cabb85deff58f225eb9b7ffd32aa8",
+    "result_count": 20
+  },
+  {
+    "issuer_ca_id": 185748,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
+    "common_name": "www2.cms.gov",
+    "name_value": "vpn.aws.healthcare.gov",
+    "id": 26919888673,
+    "entry_timestamp": "2026-06-05T18:10:04.462",
+    "not_before": "2026-06-05T00:00:00",
+    "not_after": "2026-12-08T23:59:59",
+    "serial_number": "02a1df56e61f9f090a738760bc90113a",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "www2.cms.gov",
+    "name_value": "vpn.aws.healthcare.gov",
+    "id": 26919851089,
+    "entry_timestamp": "2026-06-05T18:07:59.215",
+    "not_before": "2026-06-05T00:00:00",
+    "not_after": "2026-12-08T23:59:59",
+    "serial_number": "0850c8e5e4088882b10ae938ea252bd0",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 62123,
+    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
     "common_name": "www2.healthcare.gov",
     "name_value": "address.api.healthcare.gov\ndashboard.healthcare.gov\ndr.ses.api.healthcare.gov\ndsrs.api.healthcare.gov\nedit.healthcare.gov\nfdai.healthcare.gov\nmcr.api.healthcare.gov\nses.api.healthcare.gov\nwww2.healthcare.gov",
     "id": 26743537447,
@@ -3898,17 +3934,5 @@
     "not_after": "2026-06-14T23:59:59",
     "serial_number": "0a45324b135f3ea355557044790c1016",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "www.healthcare.gov.prod.warp.backends.cms.gov",
-    "name_value": "healthcare.gov\nwww.healthcare.gov.prod.warp.backends.cms.gov",
-    "id": 18260826014,
-    "entry_timestamp": "2025-05-07T00:57:01.371",
-    "not_before": "2025-05-07T00:00:00",
-    "not_after": "2026-06-06T23:59:59",
-    "serial_number": "0be8e8b3786b5200516afee6899010e2",
-    "result_count": 3
   }
 ]

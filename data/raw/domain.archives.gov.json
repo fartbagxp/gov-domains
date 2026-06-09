@@ -1,5 +1,41 @@
 [
   {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "uat.civics.archives.gov",
+    "name_value": "uat.civics.archives.gov",
+    "id": 26957714552,
+    "entry_timestamp": "2026-06-07T04:05:17.211",
+    "not_before": "2026-06-07T00:00:00",
+    "not_after": "2026-12-21T23:59:59",
+    "serial_number": "0a7285fb41dcddce8edbc8c32c57b8cc",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247115,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
+    "common_name": "d10.qa.museum.archives.gov",
+    "name_value": "d10.qa.museum.archives.gov\nuat.qa.museum.archives.gov",
+    "id": 26957634683,
+    "entry_timestamp": "2026-06-07T04:00:24.202",
+    "not_before": "2025-07-07T00:00:00",
+    "not_after": "2026-08-05T23:59:59",
+    "serial_number": "06858027286142d5be936c6cb36efa23",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "d10.qa.museum.archives.gov",
+    "name_value": "d10.qa.museum.archives.gov\nuat.qa.museum.archives.gov",
+    "id": 26957564206,
+    "entry_timestamp": "2026-06-07T03:57:52.93",
+    "not_before": "2026-06-07T00:00:00",
+    "not_after": "2026-12-21T23:59:59",
+    "serial_number": "084a3217c895c05d4a54ecbc3cbf87e1",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 385512,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
     "common_name": "xfer.archives.gov",
@@ -2436,18 +2472,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "*.qa.archives.gov",
-    "name_value": "*.qa.archives.gov\n*.qa.museum.archives.gov",
-    "id": 19509807622,
-    "entry_timestamp": "2025-07-07T14:29:32.025",
-    "not_before": "2025-05-09T00:00:00",
-    "not_after": "2026-06-08T23:59:59",
-    "serial_number": "04dd926c0d143730e8c5a8389992b73b",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 247106,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
     "common_name": "uat.civics.archives.gov",
@@ -2722,17 +2746,5 @@
     "not_after": "2026-06-09T23:59:59",
     "serial_number": "0a5ecae2f72a2de21b5dcbe7ad9a6a55",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "*.qa.archives.gov",
-    "name_value": "*.qa.archives.gov\n*.qa.museum.archives.gov",
-    "id": 18300800327,
-    "entry_timestamp": "2025-05-09T03:01:43.142",
-    "not_before": "2025-05-09T00:00:00",
-    "not_after": "2026-06-08T23:59:59",
-    "serial_number": "04dd926c0d143730e8c5a8389992b73b",
-    "result_count": 3
   }
 ]
