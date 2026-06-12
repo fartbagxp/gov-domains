@@ -1,5 +1,53 @@
 [
   {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "sls-app.impl2.healthcare.gov",
+    "name_value": "sls-app.impl2.healthcare.gov",
+    "id": 27032373511,
+    "entry_timestamp": "2026-06-09T20:55:39.523",
+    "not_before": "2026-06-09T00:00:00",
+    "not_after": "2026-12-23T23:59:59",
+    "serial_number": "0d991bafa3ba4bdbecf41b45ce001a1b",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "pc2-app.impl2.healthcare.gov",
+    "name_value": "pc2-app.impl2.healthcare.gov",
+    "id": 27032334454,
+    "entry_timestamp": "2026-06-09T20:53:23.775",
+    "not_before": "2026-06-09T00:00:00",
+    "not_after": "2026-12-23T23:59:59",
+    "serial_number": "08306db014d1a48acfbd7054dbd70bcc",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "origin-es-app.impl2.healthcare.gov",
+    "name_value": "origin-es-app.impl2.healthcare.gov",
+    "id": 27032292335,
+    "entry_timestamp": "2026-06-09T20:51:12.632",
+    "not_before": "2026-06-09T00:00:00",
+    "not_after": "2026-12-23T23:59:59",
+    "serial_number": "0dec1fbf2e0399d6eb265677c49f6af1",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "origin-en-app.impl2.healthcare.gov",
+    "name_value": "origin-en-app.impl2.healthcare.gov",
+    "id": 27032289124,
+    "entry_timestamp": "2026-06-09T20:50:41.283",
+    "not_before": "2026-06-09T00:00:00",
+    "not_after": "2026-12-23T23:59:59",
+    "serial_number": "0be2e2df54b2f56edecb543706ebac2d",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 62123,
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
     "common_name": "www.healthcare.gov",
@@ -17,7 +65,7 @@
     "common_name": "www2.cms.gov",
     "name_value": "vpn.aws.healthcare.gov",
     "id": 26919888673,
-    "entry_timestamp": "2026-06-05T18:10:04.462",
+    "entry_timestamp": "2026-06-05T18:10:04.43",
     "not_before": "2026-06-05T00:00:00",
     "not_after": "2026-12-08T23:59:59",
     "serial_number": "02a1df56e61f9f090a738760bc90113a",
