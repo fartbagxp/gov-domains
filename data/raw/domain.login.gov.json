@@ -1,5 +1,41 @@
 [
   {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "mta-sts.login.gov",
+    "name_value": "mta-sts.login.gov",
+    "id": 27220912388,
+    "entry_timestamp": "2026-06-16T02:01:35.87",
+    "not_before": "2026-06-10T00:00:00",
+    "not_after": "2026-12-24T23:59:59",
+    "serial_number": "0b20eda68e1fc83735008a4e36c66db2",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "pages.production.gitlab.login.gov",
+    "name_value": "*.pages.production.gitlab.login.gov\npages.production.gitlab.login.gov",
+    "id": 27170969391,
+    "entry_timestamp": "2026-06-14T05:15:51.04",
+    "not_before": "2026-06-07T00:00:00",
+    "not_after": "2026-12-21T23:59:59",
+    "serial_number": "06dd27f52e20998e33d3c981912df8bf",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "mta-sts.login.gov",
+    "name_value": "mta-sts.login.gov",
+    "id": 27037671750,
+    "entry_timestamp": "2026-06-10T01:32:23.583",
+    "not_before": "2026-06-10T00:00:00",
+    "not_after": "2026-12-24T23:59:59",
+    "serial_number": "0b20eda68e1fc83735008a4e36c66db2",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "pages.gitstaging.gitlab.login.gov",
@@ -768,78 +804,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "design.login.gov",
-    "name_value": "design.login.gov",
-    "id": 25048715637,
-    "entry_timestamp": "2026-03-17T17:19:24.053",
-    "not_before": "2026-03-17T16:20:51",
-    "not_after": "2026-06-15T16:20:50",
-    "serial_number": "05ffd90a2e39bb6d353d8c98a301b01bd027",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "design.login.gov",
-    "name_value": "design.login.gov",
-    "id": 25048698501,
-    "entry_timestamp": "2026-03-17T17:19:21.808",
-    "not_before": "2026-03-17T16:20:51",
-    "not_after": "2026-06-15T16:20:50",
-    "serial_number": "05ffd90a2e39bb6d353d8c98a301b01bd027",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "developers.login.gov",
-    "name_value": "developers.login.gov",
-    "id": 25045264117,
-    "entry_timestamp": "2026-03-17T14:19:21.519",
-    "not_before": "2026-03-17T13:20:51",
-    "not_after": "2026-06-15T13:20:50",
-    "serial_number": "0502d2c1e4d5d9a239c6bcf410607452dd99",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "developers.login.gov",
-    "name_value": "developers.login.gov",
-    "id": 25045192633,
-    "entry_timestamp": "2026-03-17T14:19:21.387",
-    "not_before": "2026-03-17T13:20:51",
-    "not_after": "2026-06-15T13:20:50",
-    "serial_number": "0502d2c1e4d5d9a239c6bcf410607452dd99",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "*.pivcac.staging.login.gov",
-    "name_value": "*.pivcac.staging.login.gov",
-    "id": 24966480503,
-    "entry_timestamp": "2026-03-13T16:25:38.437",
-    "not_before": "2026-03-13T15:27:08",
-    "not_after": "2026-06-11T15:27:07",
-    "serial_number": "05aadcbf3de6419c4b95f483961a6f49e51e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "*.pivcac.staging.login.gov",
-    "name_value": "*.pivcac.staging.login.gov",
-    "id": 24966460783,
-    "entry_timestamp": "2026-03-13T16:25:38.223",
-    "not_before": "2026-03-13T15:27:08",
-    "not_after": "2026-06-11T15:27:07",
-    "serial_number": "05aadcbf3de6419c4b95f483961a6f49e51e",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "portal.dm.login.gov",
@@ -1209,54 +1173,6 @@
     "not_before": "2025-05-28T00:00:00",
     "not_after": "2026-06-26T23:59:59",
     "serial_number": "0df6f3444edeb071e42b9f12aed669b8",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "public-reporting-data.staging.login.gov",
-    "name_value": "public-reporting-data.staging.login.gov",
-    "id": 18435854913,
-    "entry_timestamp": "2025-05-16T04:53:48.11",
-    "not_before": "2025-05-16T00:00:00",
-    "not_after": "2026-06-13T23:59:59",
-    "serial_number": "064fda565def420cb2f4cb414ad2e6fc",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "public-reporting-data.prod.login.gov",
-    "name_value": "public-reporting-data.prod.login.gov",
-    "id": 18435833151,
-    "entry_timestamp": "2025-05-16T04:51:44.729",
-    "not_before": "2025-05-16T00:00:00",
-    "not_after": "2026-06-13T23:59:59",
-    "serial_number": "05a8ffda306f2212c61d277481fcf4a3",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "public-reporting-data.staging.login.gov",
-    "name_value": "public-reporting-data.staging.login.gov",
-    "id": 18435362348,
-    "entry_timestamp": "2025-05-16T03:45:39.109",
-    "not_before": "2025-05-16T00:00:00",
-    "not_after": "2026-06-13T23:59:59",
-    "serial_number": "064fda565def420cb2f4cb414ad2e6fc",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "public-reporting-data.prod.login.gov",
-    "name_value": "public-reporting-data.prod.login.gov",
-    "id": 18434815190,
-    "entry_timestamp": "2025-05-16T03:34:19.469",
-    "not_before": "2025-05-16T00:00:00",
-    "not_after": "2026-06-13T23:59:59",
-    "serial_number": "05a8ffda306f2212c61d277481fcf4a3",
     "result_count": 2
   }
 ]
