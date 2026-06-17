@@ -1,5 +1,53 @@
 [
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "ssavpn.ssa.gov",
+    "name_value": "accelerate.ssa.gov\naccelerate-test.ssa.gov\nssavpn.ssa.gov",
+    "id": 26994352964,
+    "entry_timestamp": "2026-06-08T12:17:48.516",
+    "not_before": "2025-06-11T00:00:00",
+    "not_after": "2026-07-08T23:59:59",
+    "serial_number": "08cf60aee7699173da0d23d1ad509c54",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "guestwlc.ssa.gov",
+    "name_value": "guestwlc.ssa.gov\nwww.guestwlc.ssa.gov",
+    "id": 26994277566,
+    "entry_timestamp": "2026-06-08T12:14:39.671",
+    "not_before": "2026-06-08T00:00:00",
+    "not_after": "2026-12-23T23:59:59",
+    "serial_number": "06a852cd363c08097d8b3c667c3ee0fd",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "sys0vpn.ssa.gov",
+    "name_value": "accelerate.ssa.gov\naccelerate-test.ssa.gov\nsys0vpn.ssa.gov",
+    "id": 26994273273,
+    "entry_timestamp": "2026-06-08T12:13:40.434",
+    "not_before": "2026-06-08T00:00:00",
+    "not_after": "2026-12-23T23:59:59",
+    "serial_number": "03f3e5ee11860d62bbc7c4216bdc2a88",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "ssavpn.ssa.gov",
+    "name_value": "accelerate.ssa.gov\naccelerate-test.ssa.gov\nssavpn.ssa.gov",
+    "id": 26994314698,
+    "entry_timestamp": "2026-06-08T12:11:59.951",
+    "not_before": "2026-06-08T00:00:00",
+    "not_after": "2026-12-23T23:59:59",
+    "serial_number": "0def94426ae2d59a816fb68f11b49aec",
+    "result_count": 4
+  },
+  {
     "issuer_ca_id": 432952,
     "issuer_name": "C=US, O=Let's Encrypt, CN=YE1",
     "common_name": "v2.api.ssa.gov",
@@ -1234,66 +1282,6 @@
     "not_after": "2026-06-17T14:45:00",
     "serial_number": "00a7f5cbfb21a453290ed6ec3fc6e73a51",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "v2.api.ssa.gov",
-    "name_value": "*.v2.api.ssa.gov\nv2.api.ssa.gov",
-    "id": 24998090534,
-    "entry_timestamp": "2026-03-15T07:19:37.262",
-    "not_before": "2026-03-15T06:19:36",
-    "not_after": "2026-06-13T07:19:15",
-    "serial_number": "0097e0c8a65d146ef30da7bc6eed44f150",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "v2.api.ssa.gov",
-    "name_value": "*.v2.api.ssa.gov\nv2.api.ssa.gov",
-    "id": 24998082060,
-    "entry_timestamp": "2026-03-15T07:19:09.872",
-    "not_before": "2026-03-15T06:19:08",
-    "not_after": "2026-06-13T07:17:30",
-    "serial_number": "00fed20db85c847af7137fd34c3f118d3a",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "v2.api.ssa.gov",
-    "name_value": "staging.v2.api.ssa.gov\nv2.api.ssa.gov",
-    "id": 24990833791,
-    "entry_timestamp": "2026-03-14T22:27:40.907",
-    "not_before": "2026-03-14T21:24:57",
-    "not_after": "2026-06-12T22:24:54",
-    "serial_number": "169c6f1892c226c30dbd2487b836b8b2",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "v2.api.ssa.gov",
-    "name_value": "staging.v2.api.ssa.gov\nv2.api.ssa.gov",
-    "id": 24990830096,
-    "entry_timestamp": "2026-03-14T22:24:58.473",
-    "not_before": "2026-03-14T21:24:57",
-    "not_after": "2026-06-12T22:24:54",
-    "serial_number": "169c6f1892c226c30dbd2487b836b8b2",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "v2.api.ssa.gov",
-    "name_value": "staging.v2.api.ssa.gov\nv2.api.ssa.gov",
-    "id": 24990821440,
-    "entry_timestamp": "2026-03-14T22:24:48.948",
-    "not_before": "2026-03-14T21:24:48",
-    "not_after": "2026-06-12T22:22:31",
-    "serial_number": "66ca7e712ab4cdff0e5f190842e3bcd2",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 185752,
