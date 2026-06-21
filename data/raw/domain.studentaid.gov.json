@@ -1,5 +1,41 @@
 [
   {
+    "issuer_ca_id": 286244,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR3",
+    "common_name": "content.nelnet.studentaid.gov",
+    "name_value": "content.nelnet.studentaid.gov",
+    "id": 27315323903,
+    "entry_timestamp": "2026-06-18T10:15:13.041",
+    "not_before": "2026-06-18T09:15:12",
+    "not_after": "2026-09-16T10:11:07",
+    "serial_number": "5dbd3d91cb9619460a3899984fd16db3",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 432477,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
+    "common_name": "careers.studentaid.gov",
+    "name_value": "careers.studentaid.gov",
+    "id": 27269465682,
+    "entry_timestamp": "2026-06-17T19:15:22.229",
+    "not_before": "2026-06-17T18:16:49",
+    "not_after": "2026-09-15T18:16:48",
+    "serial_number": "06b40b85ad1d4ce5b078e6c3d2f233a42646",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 432477,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
+    "common_name": "careers.studentaid.gov",
+    "name_value": "careers.studentaid.gov",
+    "id": 27269466132,
+    "entry_timestamp": "2026-06-17T19:15:19.908",
+    "not_before": "2026-06-17T18:16:49",
+    "not_after": "2026-09-15T18:16:48",
+    "serial_number": "06b40b85ad1d4ce5b078e6c3d2f233a42646",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 185748,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
     "common_name": "aidvantage.studentaid.gov",
@@ -672,6 +708,30 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "studentaid.gov",
+    "name_value": "dcc-app-fix.studentaid.gov\ndcc-app-fixuat.studentaid.gov\ndcc-app-int.studentaid.gov\ndcc-app-serviceint.studentaid.gov\ndcc-app-serviceuat.studentaid.gov\ndcc-app-stage.studentaid.gov\ndcc-app-uat.studentaid.gov\ndcc-system-api-fix.studentaid.gov\ndcc-system-api-fixuat.studentaid.gov\ndcc-system-api-int.studentaid.gov\ndcc-system-api-serviceint.studentaid.gov\ndcc-system-api-serviceuat.studentaid.gov\ndcc-system-api-stage.studentaid.gov\ndcc-system-api-uat.studentaid.gov\ndcc-user-api-fix.studentaid.gov\ndcc-user-api-fixuat.studentaid.gov\ndcc-user-api-int.studentaid.gov\ndcc-user-api-serviceint.studentaid.gov\ndcc-user-api-serviceuat.studentaid.gov\ndcc-user-api-stage.studentaid.gov\ndcc-user-api-uat.studentaid.gov\nstudentaid.gov",
+    "id": 26494958375,
+    "entry_timestamp": "2026-05-20T16:14:07.742",
+    "not_before": "2026-05-20T15:15:36",
+    "not_after": "2026-08-18T15:15:35",
+    "serial_number": "06da7b73c9476050fb458d28bc59afc14347",
+    "result_count": 23
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "studentaid.gov",
+    "name_value": "dcc-app-fix.studentaid.gov\ndcc-app-fixuat.studentaid.gov\ndcc-app-int.studentaid.gov\ndcc-app-serviceint.studentaid.gov\ndcc-app-serviceuat.studentaid.gov\ndcc-app-stage.studentaid.gov\ndcc-app-uat.studentaid.gov\ndcc-system-api-fix.studentaid.gov\ndcc-system-api-fixuat.studentaid.gov\ndcc-system-api-int.studentaid.gov\ndcc-system-api-serviceint.studentaid.gov\ndcc-system-api-serviceuat.studentaid.gov\ndcc-system-api-stage.studentaid.gov\ndcc-system-api-uat.studentaid.gov\ndcc-user-api-fix.studentaid.gov\ndcc-user-api-fixuat.studentaid.gov\ndcc-user-api-int.studentaid.gov\ndcc-user-api-serviceint.studentaid.gov\ndcc-user-api-serviceuat.studentaid.gov\ndcc-user-api-stage.studentaid.gov\ndcc-user-api-uat.studentaid.gov\nstudentaid.gov",
+    "id": 26494951269,
+    "entry_timestamp": "2026-05-20T16:14:07.133",
+    "not_before": "2026-05-20T15:15:36",
+    "not_after": "2026-08-18T15:15:35",
+    "serial_number": "06da7b73c9476050fb458d28bc59afc14347",
+    "result_count": 23
+  },
+  {
     "issuer_ca_id": 286244,
     "issuer_name": "C=US, O=Google Trust Services, CN=WR3",
     "common_name": "data.nelnet.studentaid.gov",
@@ -1246,6 +1306,18 @@
     "not_after": "2026-07-16T16:24:50",
     "serial_number": "05018c520a720ceadbbf78434ee16e87eddd",
     "result_count": 1
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "*.nsldsops.ed.gov",
+    "name_value": "*.ops.studentaid.gov\n*.origin.test.studentaid.gov\n*.test.studentaid.gov",
+    "id": 25910886336,
+    "entry_timestamp": "2026-04-17T17:08:54.78",
+    "not_before": "2026-04-17T16:10:23",
+    "not_after": "2026-07-16T16:10:22",
+    "serial_number": "050295c6c8c867c798386bb71af0be6ac6ed",
+    "result_count": 3
   },
   {
     "issuer_ca_id": 295816,
