@@ -13,7 +13,7 @@ Tracking technology stacks, IP address ranges, and autonomous system numbers (AS
 | Lint | [![Lint](https://github.com/fartbagxp/gov-domains/actions/workflows/lint.yml/badge.svg)](https://github.com/fartbagxp/gov-domains/actions/workflows/lint.yml) |
 
 <!-- BEGIN:timestamp -->
-_Last updated: 2026-06-23 10:49 UTC_
+_Last updated: 2026-06-23 11:03 UTC_
 <!-- END:timestamp -->
 
 ---
@@ -49,7 +49,7 @@ Data is collected automatically on a regular schedule and committed back to this
 | Category                      | Organizations | ASNs | IPv4 Prefixes | IPv6 Prefixes | Est. IPv4 Addresses |
 | :---                          | ---:          | ---: | ---:          | ---:          | ---:                |
 | **Federal Agencies**          |            87 |   87 |         7,973 |           257 |              321.4M |
-| **State Governments**         |            70 |   70 |         1,655 |            48 |               10.5M |
+| **State Governments**         |            85 |   70 |         1,655 |            48 |               10.5M |
 | **City Governments**          |            53 |   53 |           416 |            10 |                1.4M |
 | **Hospital Systems**          |           544 |  544 |         1,633 |            17 |                4.8M |
 | **Health Insurers**           |            76 |   76 |           455 |             5 |              638.5K |
@@ -133,69 +133,83 @@ Tracked in [`data/us-fed-gov-agencies.csv`](data/us-fed-gov-agencies.csv). Prefi
 Tracked in [`data/us-state-gov-agencies.csv`](data/us-state-gov-agencies.csv). Prefix data in [`data/asn/state-gov-prefixes.csv`](data/asn/state-gov-prefixes.csv).
 
 <!-- BEGIN:state-gov-table -->
-| Organization                                              | ASNs | IPv4 Prefixes | IPv6 Prefixes | Est. IPv4 Addresses |
-| :---                                                      | ---: | ---:          | ---:          | ---:                |
-| California Department of Technology                       |    1 |            20 |             — |              135.7K |
-| Commonwealth of Massachusetts                             |    1 |            13 |             — |              230.4K |
-| Commonwealth of Virginia                                  |    1 |             — |             — |                   — |
-| Commonwealth of Virginia Office of the Attorney General   |    1 |             4 |             — |                1.0K |
-| Florida Department of Management Services                 |    1 |           805 |            22 |              896.8K |
-| Georgia Technology Authority                              |    2 |             7 |             — |              591.1K |
-| Indiana Office of Technology                              |    1 |             4 |             1 |                8.2K |
-| Iowa Communications Network                               |    1 |            14 |             3 |              386.8K |
-| Maryland Administrative Office of the Courts              |    1 |            15 |             — |               69.1K |
-| Maryland Information Technology Center                    |    1 |             — |             — |                   — |
-| Michigan State Government                                 |    1 |             9 |             — |              508.2K |
-| Mississippi Department of Information Technology Services |    1 |             9 |             — |               22.3K |
-| NJOIT New Jersey Office of Information Technology         |    1 |            85 |             — |               21.8K |
-| Network Nebraska                                          |    1 |            32 |             2 |              294.7K |
-| North Carolina Administrative Office of the Courts        |    1 |             4 |             — |                2.0K |
-| State of Alabama Office of Information Technology         |    1 |            16 |             — |                4.1K |
-| State of Alaska                                           |    1 |            14 |             — |              134.3K |
-| State of Arizona                                          |    1 |            17 |             — |              265.2K |
-| State of Arkansas                                         |    1 |            12 |             — |              370.4K |
-| State of California Department of Food and Agriculture    |    1 |             — |             — |                   — |
-| State of California Department of Motor Vehicles          |    1 |             — |             — |                   — |
-| State of California Department of Technology              |    3 |            35 |             1 |                1.0M |
-| State of Connecticut Department of Information Technology |    1 |            16 |             — |               63.2K |
-| State of Connecticut Judicial Branch                      |    1 |            15 |             1 |                3.8K |
-| State of Delaware                                         |    1 |             2 |             1 |               65.5K |
-| State of Hawaii                                           |    1 |            10 |             — |                6.1K |
-| State of Idaho                                            |    3 |            12 |             1 |              132.4K |
-| State of Idaho Department of Health and Welfare           |    1 |             1 |             — |                 512 |
-| State of Indiana                                          |    1 |             — |             — |                   — |
-| State of Iowa OCIO                                        |    1 |             2 |             — |                2.0K |
-| State of Kansas                                           |    1 |             2 |             — |               65.8K |
-| State of Louisiana Office of Technology Services          |    2 |           100 |             — |              314.1K |
-| State of Louisiana Supreme Court                          |    1 |             1 |             — |                 512 |
-| State of Maine                                            |    1 |             1 |             — |                 256 |
-| State of Minnesota                                        |    1 |            10 |             1 |              230.9K |
-| State of Missouri Office of Administration                |    1 |             4 |             2 |               70.7K |
-| State of Montana                                          |    1 |             3 |             — |               66.0K |
-| State of Nebraska Office of the CIO                       |    1 |             1 |             — |               65.5K |
-| State of Nevada                                           |    1 |             3 |             — |              131.1K |
-| State of Nevada Legislature                               |    1 |             2 |             1 |                2.3K |
-| State of New Hampshire                                    |    1 |             3 |             — |                3.3K |
-| State of New Jersey Judiciary                             |    1 |             1 |             — |                 256 |
-| State of New Mexico                                       |    1 |           143 |             1 |              109.6K |
-| State of North Carolina                                   |    1 |             9 |             — |              410.4K |
-| State of North Dakota ITD                                 |    2 |             2 |             1 |              131.1K |
-| State of North Dakota Information Technology Department   |    1 |             — |             — |                   — |
-| State of Oregon                                           |    2 |            20 |             2 |              218.6K |
-| State of Rhode Island                                     |    1 |             3 |             — |               35.3K |
-| State of Rhode Island General Assembly                    |    1 |             1 |             — |                 256 |
-| State of South Carolina                                   |    1 |            20 |             — |              103.7K |
-| State of Tennessee                                        |    1 |            28 |             — |              525.3K |
-| State of Utah                                             |    1 |             9 |             — |              395.8K |
-| State of Utah Courts                                      |    1 |             3 |             — |                2.0K |
-| State of WI Dept. of Administration                       |    1 |            39 |             1 |              786.2K |
-| State of Washington                                       |    1 |            32 |             1 |              656.9K |
-| State of Washington Legislative Service Center            |    1 |             — |             — |                   — |
-| State of Wisconsin Investment Board                       |    1 |             1 |             — |                 256 |
-| State of Wyoming Department                               |    1 |            15 |             1 |              595.2K |
-| Tennessee Valley Authority                                |    1 |            15 |             1 |              264.4K |
-| University of Maryland                                    |    1 |             9 |             4 |               12.5K |
-| Virginia Information Technologies Agency                  |    2 |             2 |             — |                1.0K |
+| St   | Organization                                               | ASNs | IPv4 Prefixes | IPv6 Prefixes | Est. IPv4 Addresses |
+| :--- | :---                                                       | ---: | ---:          | ---:          | ---:                |
+| AK   | State of Alaska                                            |    1 |            14 |             — |              134.3K |
+| AL   | State of Alabama Office of Information Technology          |    1 |            16 |             — |                4.1K |
+| AR   | State of Arkansas                                          |    1 |            12 |             — |              370.4K |
+| AZ   | State of Arizona                                           |    1 |            17 |             — |              265.2K |
+| CA   | California Department of Technology                        |    1 |            20 |             — |              135.7K |
+| CA   | State of California Department of Food and Agriculture     |    1 |             — |             — |                   — |
+| CA   | State of California Department of Motor Vehicles           |    1 |             — |             — |                   — |
+| CA   | State of California Department of Technology               |    3 |            35 |             1 |                1.0M |
+| CO   | Governor's Office of Information Technology                |    — |             — |             — |                   — |
+| CT   | State of Connecticut Department of Information Technology  |    1 |            16 |             — |               63.2K |
+| CT   | State of Connecticut Judicial Branch                       |    1 |            15 |             1 |                3.8K |
+| DE   | State of Delaware                                          |    1 |             2 |             1 |               65.5K |
+| FL   | Florida Department of Management Services                  |    1 |           805 |            22 |              896.8K |
+| GA   | Georgia Technology Authority                               |    2 |             7 |             — |              591.1K |
+| HI   | State of Hawaii                                            |    1 |            10 |             — |                6.1K |
+| IA   | Iowa Communications Network                                |    1 |            14 |             3 |              386.8K |
+| IA   | State of Iowa OCIO                                         |    1 |             2 |             — |                2.0K |
+| ID   | State of Idaho                                             |    3 |            12 |             1 |              132.4K |
+| ID   | State of Idaho Department of Health and Welfare            |    1 |             1 |             — |                 512 |
+| IL   | Illinois Century Network                                   |    — |             — |             — |                   — |
+| IN   | Indiana Office of Technology                               |    1 |             4 |             1 |                8.2K |
+| IN   | State of Indiana                                           |    1 |             — |             — |                   — |
+| KS   | State of Kansas                                            |    1 |             2 |             — |               65.8K |
+| KY   | Commonwealth of Kentucky Department of Information Systems |    — |             — |             — |                   — |
+| KY   | Kentucky Communications Network Authority                  |    — |             — |             — |                   — |
+| LA   | State of Louisiana Office of Technology Services           |    2 |           100 |             — |              314.1K |
+| LA   | State of Louisiana Supreme Court                           |    1 |             1 |             — |                 512 |
+| MA   | Commonwealth of Massachusetts                              |    1 |            13 |             — |              230.4K |
+| MD   | Maryland Administrative Office of the Courts               |    1 |            15 |             — |               69.1K |
+| MD   | Maryland Information Technology Center                     |    1 |             — |             — |                   — |
+| MD   | University of Maryland                                     |    1 |             9 |             4 |               12.5K |
+| ME   | State of Maine                                             |    1 |             1 |             — |                 256 |
+| MI   | Michigan State Government                                  |    1 |             9 |             — |              508.2K |
+| MN   | State of Minnesota                                         |    1 |            10 |             1 |              230.9K |
+| MO   | State of Missouri Office of Administration                 |    1 |             4 |             2 |               70.7K |
+| MS   | Mississippi Department of Information Technology Services  |    1 |             9 |             — |               22.3K |
+| MT   | State of Montana                                           |    1 |             3 |             — |               66.0K |
+| NC   | North Carolina Administrative Office of the Courts         |    1 |             4 |             — |                2.0K |
+| NC   | State of North Carolina                                    |    1 |             9 |             — |              410.4K |
+| ND   | State of North Dakota ITD                                  |    2 |             2 |             1 |              131.1K |
+| ND   | State of North Dakota Information Technology Department    |    1 |             — |             — |                   — |
+| NE   | Network Nebraska                                           |    1 |            32 |             2 |              294.7K |
+| NE   | State of Nebraska Office of the CIO                        |    1 |             1 |             — |               65.5K |
+| NH   | State of New Hampshire                                     |    1 |             3 |             — |                3.3K |
+| NJ   | NJOIT New Jersey Office of Information Technology          |    1 |            85 |             — |               21.8K |
+| NJ   | State of New Jersey Judiciary                              |    1 |             1 |             — |                 256 |
+| NM   | State of New Mexico                                        |    1 |           143 |             1 |              109.6K |
+| NV   | State of Nevada                                            |    1 |             3 |             — |              131.1K |
+| NV   | State of Nevada Legislature                                |    1 |             2 |             1 |                2.3K |
+| NY   | New York State                                             |    — |             — |             — |                   — |
+| NY   | New York State Department of Health                        |    — |             — |             — |                   — |
+| NY   | New York State Department of Transportation                |    — |             — |             — |                   — |
+| OH   | Department of Administrative Services                      |    — |             — |             — |                   — |
+| OK   | Oklahoma Office of Management & Enterprise Services        |    — |             — |             — |                   — |
+| OR   | State of Oregon                                            |    2 |            20 |             2 |              218.6K |
+| PA   | Commonwealth of PA                                         |    — |             — |             — |                   — |
+| RI   | State of Rhode Island                                      |    1 |             3 |             — |               35.3K |
+| RI   | State of Rhode Island General Assembly                     |    1 |             1 |             — |                 256 |
+| SC   | State of South Carolina                                    |    1 |            20 |             — |              103.7K |
+| SD   | South Dakota State Government                              |    — |             — |             — |                   — |
+| TN   | State of Tennessee                                         |    1 |            28 |             — |              525.3K |
+| TN   | Tennessee Valley Authority                                 |    1 |            15 |             1 |              264.4K |
+| TX   | Texas Department of Information Resources                  |    — |             — |             — |                   — |
+| UT   | State of Utah                                              |    1 |             9 |             — |              395.8K |
+| UT   | State of Utah Courts                                       |    1 |             3 |             — |                2.0K |
+| VA   | Commonwealth of Virginia                                   |    1 |             — |             — |                   — |
+| VA   | Commonwealth of Virginia Office of the Attorney General    |    1 |             4 |             — |                1.0K |
+| VA   | Virginia Information Technologies Agency                   |    2 |             2 |             — |                1.0K |
+| VT   | Vermont Agency of Digital Services                         |    — |             — |             — |                   — |
+| WA   | State of Washington                                        |    1 |            32 |             1 |              656.9K |
+| WA   | State of Washington Legislative Service Center             |    1 |             — |             — |                   — |
+| WI   | State of WI Dept. of Administration                        |    1 |            39 |             1 |              786.2K |
+| WI   | State of Wisconsin Investment Board                        |    1 |             1 |             — |                 256 |
+| WV   | West Virginia Network for Educational Telecomputing        |    — |             — |             — |                   — |
+| WY   | State of Wyoming Department                                |    1 |            15 |             1 |              595.2K |
 <!-- END:state-gov-table -->
 
 ---
@@ -205,56 +219,56 @@ Tracked in [`data/us-state-gov-agencies.csv`](data/us-state-gov-agencies.csv). P
 Tracked in [`data/us-city-gov-agencies.csv`](data/us-city-gov-agencies.csv). Prefix data in [`data/asn/city-gov-prefixes.csv`](data/asn/city-gov-prefixes.csv).
 
 <!-- BEGIN:city-gov-table -->
-| City / Organization                                      | State | ASNs | IPv4 Prefixes | IPv6 Prefixes | Est. IPv4 Addresses |
-| :---                                                     | :---  | ---: | ---:          | ---:          | ---:                |
-| City and County of Denver                                | CO    |    1 |             3 |             — |               66.0K |
-| City and County of Honolulu                              | HI    |    1 |             7 |             — |                1.8K |
-| City and County of San Francisco                         | CA    |    1 |             1 |             1 |                 256 |
-| City of Albuquerque                                      | NM    |    1 |            13 |             — |              129.0K |
-| City of Austin                                           | TX    |    1 |            20 |             — |                9.0K |
-| City of Austin Public Safety                             | TX    |    1 |             — |             — |                   — |
-| City of Baltimore Mayor Office of Information Technology | MD    |    2 |             2 |             — |                 512 |
-| City of Boston                                           | MA    |    1 |            14 |             — |               77.8K |
-| City of Charlotte                                        | NC    |    1 |             1 |             1 |               16.4K |
-| City of Chicago                                          | IL    |    1 |            11 |             — |              134.4K |
-| City of Columbus                                         | OH    |    1 |             3 |             — |               16.4K |
-| City of Dallas                                           | TX    |    1 |             — |             — |                   — |
-| City of Detroit                                          | MI    |    1 |             1 |             — |                 256 |
-| City of Houston                                          | TX    |    1 |            14 |             — |                3.6K |
-| City of Houston Public Works                             | TX    |    1 |             1 |             — |                 256 |
-| City of Indianapolis                                     | IN    |    1 |             2 |             — |               67.6K |
-| City of Jacksonville                                     | FL    |    1 |            30 |             — |               72.8K |
-| City of Kansas City                                      | MO    |    2 |             2 |             — |                 512 |
-| City of Las Vegas                                        | NV    |    2 |             2 |             1 |                1.3K |
-| City of Los Angeles                                      | CA    |    1 |            19 |             — |                4.9K |
-| City of Memphis                                          | TN    |    1 |             — |             — |                   — |
-| City of Miami                                            | FL    |    1 |             1 |             — |                 256 |
-| City of New Orleans                                      | LA    |    1 |             1 |             — |                 512 |
-| City of New York                                         | NY    |    1 |            23 |             — |              336.4K |
-| City of New York Public Safety                           | NY    |    1 |            12 |             6 |                3.8K |
-| City of Philadelphia                                     | PA    |    1 |             3 |             — |               66.3K |
-| City of Phoenix                                          | AZ    |    3 |            35 |             — |               23.8K |
-| City of Pittsburgh                                       | PA    |    1 |             1 |             — |               16.4K |
-| City of Portland                                         | OR    |    1 |             1 |             — |                1.0K |
-| City of Raleigh                                          | NC    |    1 |             3 |             — |                1.0K |
-| City of Sacramento                                       | CA    |    1 |             4 |             — |                1.0K |
-| City of San Antonio                                      | TX    |    1 |            37 |             — |               75.8K |
-| City of San Diego                                        | CA    |    1 |             6 |             — |                1.5K |
-| City of San Jose                                         | CA    |    1 |            25 |             1 |               10.8K |
-| City of Seattle                                          | WA    |    1 |             3 |             — |                4.1K |
-| City of Seattle City Light                               | WA    |    1 |             — |             — |                   — |
-| City of Tampa                                            | FL    |    1 |             3 |             — |                 768 |
-| City of Tucson                                           | AZ    |    1 |             1 |             — |               65.5K |
-| City of Tucson Wireless                                  | AZ    |    1 |             — |             — |                   — |
-| Denver International Airport                             | CO    |    1 |             8 |             — |                2.3K |
-| Government of the District of Columbia                   | DC    |    1 |            14 |             — |                5.9K |
-| Louisville Jefferson County Metro Government             | KY    |    1 |             2 |             — |                 768 |
-| New York City Board of Education                         | NY    |    1 |            50 |             — |              139.8K |
-| New York City Board of Elections                         | NY    |    1 |             1 |             — |                2.0K |
-| New York City Employees Retirement System                | NY    |    1 |             — |             — |                   — |
-| New York City Health and Hospitals Corporation           | NY    |    1 |            15 |             — |               15.1K |
-| New York City Police Department                          | NY    |    1 |             3 |             — |               16.9K |
-| Salt Lake City Corporation                               | UT    |    1 |            18 |             — |                4.6K |
+| St   | City / Organization                                      | ASNs | IPv4 Prefixes | IPv6 Prefixes | Est. IPv4 Addresses |
+| :--- | :---                                                     | ---: | ---:          | ---:          | ---:                |
+| AZ   | City of Phoenix                                          |    3 |            35 |             — |               23.8K |
+| AZ   | City of Tucson                                           |    1 |             1 |             — |               65.5K |
+| AZ   | City of Tucson Wireless                                  |    1 |             — |             — |                   — |
+| CA   | City and County of San Francisco                         |    1 |             1 |             1 |                 256 |
+| CA   | City of Los Angeles                                      |    1 |            19 |             — |                4.9K |
+| CA   | City of Sacramento                                       |    1 |             4 |             — |                1.0K |
+| CA   | City of San Diego                                        |    1 |             6 |             — |                1.5K |
+| CA   | City of San Jose                                         |    1 |            25 |             1 |               10.8K |
+| CO   | City and County of Denver                                |    1 |             3 |             — |               66.0K |
+| CO   | Denver International Airport                             |    1 |             8 |             — |                2.3K |
+| DC   | Government of the District of Columbia                   |    1 |            14 |             — |                5.9K |
+| FL   | City of Jacksonville                                     |    1 |            30 |             — |               72.8K |
+| FL   | City of Miami                                            |    1 |             1 |             — |                 256 |
+| FL   | City of Tampa                                            |    1 |             3 |             — |                 768 |
+| HI   | City and County of Honolulu                              |    1 |             7 |             — |                1.8K |
+| IL   | City of Chicago                                          |    1 |            11 |             — |              134.4K |
+| IN   | City of Indianapolis                                     |    1 |             2 |             — |               67.6K |
+| KY   | Louisville Jefferson County Metro Government             |    1 |             2 |             — |                 768 |
+| LA   | City of New Orleans                                      |    1 |             1 |             — |                 512 |
+| MA   | City of Boston                                           |    1 |            14 |             — |               77.8K |
+| MD   | City of Baltimore Mayor Office of Information Technology |    2 |             2 |             — |                 512 |
+| MI   | City of Detroit                                          |    1 |             1 |             — |                 256 |
+| MO   | City of Kansas City                                      |    2 |             2 |             — |                 512 |
+| NC   | City of Charlotte                                        |    1 |             1 |             1 |               16.4K |
+| NC   | City of Raleigh                                          |    1 |             3 |             — |                1.0K |
+| NM   | City of Albuquerque                                      |    1 |            13 |             — |              129.0K |
+| NV   | City of Las Vegas                                        |    2 |             2 |             1 |                1.3K |
+| NY   | City of New York                                         |    1 |            23 |             — |              336.4K |
+| NY   | City of New York Public Safety                           |    1 |            12 |             6 |                3.8K |
+| NY   | New York City Board of Education                         |    1 |            50 |             — |              139.8K |
+| NY   | New York City Board of Elections                         |    1 |             1 |             — |                2.0K |
+| NY   | New York City Employees Retirement System                |    1 |             — |             — |                   — |
+| NY   | New York City Health and Hospitals Corporation           |    1 |            15 |             — |               15.1K |
+| NY   | New York City Police Department                          |    1 |             3 |             — |               16.9K |
+| OH   | City of Columbus                                         |    1 |             3 |             — |               16.4K |
+| OR   | City of Portland                                         |    1 |             1 |             — |                1.0K |
+| PA   | City of Philadelphia                                     |    1 |             3 |             — |               66.3K |
+| PA   | City of Pittsburgh                                       |    1 |             1 |             — |               16.4K |
+| TN   | City of Memphis                                          |    1 |             — |             — |                   — |
+| TX   | City of Austin                                           |    1 |            20 |             — |                9.0K |
+| TX   | City of Austin Public Safety                             |    1 |             — |             — |                   — |
+| TX   | City of Dallas                                           |    1 |             — |             — |                   — |
+| TX   | City of Houston                                          |    1 |            14 |             — |                3.6K |
+| TX   | City of Houston Public Works                             |    1 |             1 |             — |                 256 |
+| TX   | City of San Antonio                                      |    1 |            37 |             — |               75.8K |
+| UT   | Salt Lake City Corporation                               |    1 |            18 |             — |                4.6K |
+| WA   | City of Seattle                                          |    1 |             3 |             — |                4.1K |
+| WA   | City of Seattle City Light                               |    1 |             — |             — |                   — |
 <!-- END:city-gov-table -->
 
 ---
@@ -930,11 +944,11 @@ Top technologies detected across actively scanned government domains via httpx f
 | jQuery CDN                  |      29 | cancer.gov, energy.gov, fws.gov          |
 | Google Cloud                |      27 | cancer.gov, clinicaltrials.gov, doe.gov  |
 | Varnish                     |      26 | atf.gov, energy.gov, hiv.gov             |
-| cdnjs                       |      24 | cancer.gov, energy.gov, ice.gov          |
 | Microsoft HTTPAPI:2.0       |      24 | cdc.gov, doe.gov, energy.gov             |
+| cdnjs                       |      24 | cancer.gov, energy.gov, ice.gov          |
 | Google Cloud CDN            |      23 | cancer.gov, clinicaltrials.gov, doe.gov  |
 | Font Awesome                |      21 | cancer.gov, cdc.gov, gsa.gov             |
-| Ruby                        |      19 | commerce.gov, energy.gov, login.gov      |
+| jQuery:3.7.1                |      19 | cancer.gov, commerce.gov, doi.gov        |
 <!-- END:tech-table -->
 
 ---
