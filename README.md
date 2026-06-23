@@ -13,7 +13,7 @@ Tracking technology stacks, IP address ranges, and autonomous system numbers (AS
 | Lint | [![Lint](https://github.com/fartbagxp/gov-domains/actions/workflows/lint.yml/badge.svg)](https://github.com/fartbagxp/gov-domains/actions/workflows/lint.yml) |
 
 <!-- BEGIN:timestamp -->
-_Last updated: 2026-06-23 11:03 UTC_
+_Last updated: 2026-06-23 11:13 UTC_
 <!-- END:timestamp -->
 
 ---
@@ -944,11 +944,11 @@ Top technologies detected across actively scanned government domains via httpx f
 | jQuery CDN                  |      29 | cancer.gov, energy.gov, fws.gov          |
 | Google Cloud                |      27 | cancer.gov, clinicaltrials.gov, doe.gov  |
 | Varnish                     |      26 | atf.gov, energy.gov, hiv.gov             |
-| Microsoft HTTPAPI:2.0       |      24 | cdc.gov, doe.gov, energy.gov             |
 | cdnjs                       |      24 | cancer.gov, energy.gov, ice.gov          |
+| Microsoft HTTPAPI:2.0       |      24 | cdc.gov, doe.gov, energy.gov             |
 | Google Cloud CDN            |      23 | cancer.gov, clinicaltrials.gov, doe.gov  |
 | Font Awesome                |      21 | cancer.gov, cdc.gov, gsa.gov             |
-| jQuery:3.7.1                |      19 | cancer.gov, commerce.gov, doi.gov        |
+| Ruby                        |      19 | commerce.gov, energy.gov, login.gov      |
 <!-- END:tech-table -->
 
 ---
