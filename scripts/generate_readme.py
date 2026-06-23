@@ -219,21 +219,25 @@ def section_state_gov_table() -> str:
         return "_Source data not found._\n"
 
     by_org: dict[str, dict] = {}
+    org_state: dict[str, str] = {}
     for r in src_rows:
         org = r.get("stategov", "").strip()
-        if org and org not in by_org:
-            by_org[org] = _empty_bucket()
+        state = r.get("state", "").strip()
+        if org:
+            org_state[org] = state
+            if org not in by_org:
+                by_org[org] = _empty_bucket()
 
     for r in load_prefix_csv("state-gov"):
         org = r.get("agency") or r.get("abbreviation", "")
         if org in by_org:
             _accumulate(by_org[org], r)
 
-    headers = ["Organization", "ASNs", "IPv4 Prefixes", "IPv6 Prefixes", "Est. IPv4 Addresses"]
-    alignments = ["left", "right", "right", "right", "right"]
+    headers = ["St", "Organization", "ASNs", "IPv4 Prefixes", "IPv6 Prefixes", "Est. IPv4 Addresses"]
+    alignments = ["left", "left", "right", "right", "right", "right"]
     table_rows = [
-        [org] + _stats_cells(d)
-        for org, d in sorted(by_org.items())
+        [org_state.get(org, ""), org] + _stats_cells(d)
+        for org, d in sorted(by_org.items(), key=lambda x: (org_state.get(x[0], ""), x[0]))
     ]
     return md_table(headers, table_rows, alignments)
 
@@ -258,11 +262,11 @@ def section_city_gov_table() -> str:
         if org in by_org:
             _accumulate(by_org[org], r)
 
-    headers = ["City / Organization", "State", "ASNs", "IPv4 Prefixes", "IPv6 Prefixes", "Est. IPv4 Addresses"]
+    headers = ["St", "City / Organization", "ASNs", "IPv4 Prefixes", "IPv6 Prefixes", "Est. IPv4 Addresses"]
     alignments = ["left", "left", "right", "right", "right", "right"]
     table_rows = [
-        [org, city_state.get(org, "")] + _stats_cells(d)
-        for org, d in sorted(by_org.items())
+        [city_state.get(org, ""), org] + _stats_cells(d)
+        for org, d in sorted(by_org.items(), key=lambda x: (city_state.get(x[0], ""), x[0]))
     ]
     return md_table(headers, table_rows, alignments)
 
