@@ -1,0 +1,191 @@
+name: Update ASN Prefix Data - Monthly
+
+on:
+  schedule:
+    - cron: "0 6 1 * *"  # 1st of each month at 06:00 UTC
+  workflow_dispatch:
+
+concurrency:
+  group: pipeline-asn-prefixes
+  cancel-in-progress: false
+
+jobs:
+  fetch-rir-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - name: Download RIR delegation files and ASN listing
+        run: |
+          mkdir -p rir-data
+
+          echo "Fetching ARIN delegation file..."
+          curl -L --retry 5 --max-time 180 -f \
+            -o rir-data/delegated-arin-extended-latest.txt \
+            https://ftp.arin.net/pub/stats/arin/delegated-arin-extended-latest || true
+
+          echo "Fetching RIPE NCC delegation file..."
+          curl -L --retry 5 --max-time 180 \
+            -o rir-data/delegated-ripencc-extended-latest.txt \
+            https://ftp.ripe.net/pub/stats/ripencc/delegated-ripencc-extended-latest || true
+
+          echo "Fetching APNIC delegation file..."
+          curl -L --retry 5 --max-time 180 -f \
+            -o rir-data/delegated-apnic-extended-latest.txt \
+            https://ftp.apnic.net/pub/stats/apnic/delegated-apnic-extended-latest || true
+
+          echo "Fetching LACNIC delegation file..."
+          curl -L --retry 5 --max-time 180 -f \
+            -o rir-data/delegated-lacnic-extended-latest.txt \
+            https://ftp.lacnic.net/pub/stats/lacnic/delegated-lacnic-extended-latest || true
+
+          echo "Fetching AFRINIC delegation file..."
+          curl -L --retry 5 --max-time 180 -f \
+            -o rir-data/delegated-afrinic-extended-latest.txt \
+            https://ftp.afrinic.net/pub/stats/afrinic/delegated-afrinic-extended-latest || true
+
+          echo "Fetching ASN listing (autnums.html)..."
+          curl -L --retry 5 --max-time 180 \
+            -o rir-data/autnums.html \
+            https://bgp.potaroo.net/cidr/autnums.html || true
+
+          ls -lh rir-data/
+
+      - name: Upload RIR data as artifact
+        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
+        with:
+          name: rir-data
+          path: rir-data/
+          retention-days: 1
+
+  fetch-prefixes:
+    needs: fetch-rir-data
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    strategy:
+      matrix:
+        category: [fed-gov, state-gov, city-gov, academic, hospitals, insurance, pbm, health-it]
+      fail-fast: false
+
+    steps:
+      - uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Download RIR data
+        uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
+        with:
+          name: rir-data
+          path: rir-data
+
+      - name: Install the latest version of uv
+        uses: astral-sh/setup-uv@fac544c07dec837d0ccb6301d7b5580bf5edae39 # v8.2.0
+        with:
+          version: "latest"
+
+      - name: Fetch prefixes for ${{ matrix.category }}
+        run: |
+          mkdir -p data/asn
+          uv run python scripts/fetch_asn_prefixes.py \
+            --category ${{ matrix.category }} \
+            --rir-data-dir rir-data \
+            || echo "Script failed, continuing."
+          ls -la data/asn/
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
+        with:
+          name: asn-${{ matrix.category }}
+          path: data/asn/${{ matrix.category }}-prefixes.csv
+          retention-days: 1
+
+  commit-results:
+    needs: fetch-prefixes
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Create asn directory
+        run: mkdir -p data/asn
+
+      - name: Download fed-gov artifact
+        uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
+        with:
+          name: asn-fed-gov
+          path: data/asn
+        continue-on-error: true
+
+      - name: Download state-gov artifact
+        uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
+        with:
+          name: asn-state-gov
+          path: data/asn
+        continue-on-error: true
+
+      - name: Download city-gov artifact
+        uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
+        with:
+          name: asn-city-gov
+          path: data/asn
+        continue-on-error: true
+
+      - name: Download hospitals artifact
+        uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
+        with:
+          name: asn-hospitals
+          path: data/asn
+        continue-on-error: true
+
+      - name: Download insurance artifact
+        uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
+        with:
+          name: asn-insurance
+          path: data/asn
+        continue-on-error: true
+
+      - name: Download pbm artifact
+        uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
+        with:
+          name: asn-pbm
+          path: data/asn
+        continue-on-error: true
+
+      - name: Download health-it artifact
+        uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
+        with:
+          name: asn-health-it
+          path: data/asn
+        continue-on-error: true
+
+      - name: Download academic artifact
+        uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
+        with:
+          name: asn-academic
+          path: data/asn
+        continue-on-error: true
+
+      - name: List collected files
+        run: ls -la data/asn/
+
+      - name: Commit and push changes
+        if: github.ref == 'refs/heads/main'
+        run: |
+          git config --local user.email "noreply@github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/asn/
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "Monthly ASN prefix update - $(date +'%Y-%m-%d')"
+            git pull --rebase origin main
+            git push origin main
+          else
+            echo "No changes to commit"
+          fi
