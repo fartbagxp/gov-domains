@@ -1,5 +1,53 @@
 [
   {
+    "issuer_ca_id": 439355,
+    "issuer_name": "C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R46 DV TLS CA 2026 Q2",
+    "common_name": "imperva.com",
+    "name_value": "securefoia.ssa.gov",
+    "id": 27476175802,
+    "entry_timestamp": "2026-06-25T13:25:53.945",
+    "not_before": "2026-06-25T13:25:50",
+    "not_after": "2026-06-26T13:25:50",
+    "serial_number": "01c41fe57a8b114cc7565aee9107c798",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 439355,
+    "issuer_name": "C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R46 DV TLS CA 2026 Q2",
+    "common_name": "securefoia.ssa.gov",
+    "name_value": "securefoia.ssa.gov",
+    "id": 27469791319,
+    "entry_timestamp": "2026-06-25T07:29:36.009",
+    "not_before": "2026-06-25T07:29:33",
+    "not_after": "2026-09-23T07:29:09",
+    "serial_number": "01322557f94dfdfa77cc7813a848ee21",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 432477,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
+    "common_name": "san1.govdelivery.com",
+    "name_value": "a.links.ssa.gov\ngovlinks.ssa.gov",
+    "id": 27396390566,
+    "entry_timestamp": "2026-06-22T13:40:19.147",
+    "not_before": "2026-06-22T12:41:48",
+    "not_after": "2026-09-20T12:41:47",
+    "serial_number": "059cd34105fdf72381c4f369c0042edc1658",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 432477,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
+    "common_name": "san1.govdelivery.com",
+    "name_value": "a.links.ssa.gov\ngovlinks.ssa.gov",
+    "id": 27396388622,
+    "entry_timestamp": "2026-06-22T13:40:18.851",
+    "not_before": "2026-06-22T12:41:48",
+    "not_after": "2026-09-20T12:41:47",
+    "serial_number": "059cd34105fdf72381c4f369c0042edc1658",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "mtvsbcnc00.ssa.gov",
@@ -816,54 +864,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "oig.ssa.gov",
-    "name_value": "oig.ssa.gov",
-    "id": 25237560758,
-    "entry_timestamp": "2026-03-26T17:19:28.51",
-    "not_before": "2026-03-26T16:20:57",
-    "not_after": "2026-06-24T16:20:56",
-    "serial_number": "0676a8b129a4e0228baddb4a14a52638731e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "oig.ssa.gov",
-    "name_value": "oig.ssa.gov",
-    "id": 25237542672,
-    "entry_timestamp": "2026-03-26T17:19:27.58",
-    "not_before": "2026-03-26T16:20:57",
-    "not_after": "2026-06-24T16:20:56",
-    "serial_number": "0676a8b129a4e0228baddb4a14a52638731e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "oig-files.ssa.gov",
-    "name_value": "oig-files.ssa.gov",
-    "id": 25215751613,
-    "entry_timestamp": "2026-03-25T16:19:27.434",
-    "not_before": "2026-03-25T15:20:56",
-    "not_after": "2026-06-23T15:20:55",
-    "serial_number": "0518eec4c0446ab990fead9be9213c8305cd",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "oig-files.ssa.gov",
-    "name_value": "oig-files.ssa.gov",
-    "id": 25215733101,
-    "entry_timestamp": "2026-03-25T16:19:26.32",
-    "not_before": "2026-03-25T15:20:56",
-    "not_after": "2026-06-23T15:20:55",
-    "serial_number": "0518eec4c0446ab990fead9be9213c8305cd",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "mf-ngac9k101.adint.ssa.gov",
@@ -873,30 +873,6 @@
     "not_before": "2026-03-25T00:00:00",
     "not_after": "2026-10-09T23:59:59",
     "serial_number": "09f7316004c9358797b44f9e8e096027",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "oig-demo.ssa.gov",
-    "name_value": "oig-demo.ssa.gov",
-    "id": 25199245244,
-    "entry_timestamp": "2026-03-24T20:19:27.294",
-    "not_before": "2026-03-24T19:20:56",
-    "not_after": "2026-06-22T19:20:55",
-    "serial_number": "055b36a290fe6f62a25b14ccbbb2dadadbed",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "oig-demo.ssa.gov",
-    "name_value": "oig-demo.ssa.gov",
-    "id": 25199228272,
-    "entry_timestamp": "2026-03-24T20:19:26.335",
-    "not_before": "2026-03-24T19:20:56",
-    "not_after": "2026-06-22T19:20:55",
-    "serial_number": "055b36a290fe6f62a25b14ccbbb2dadadbed",
     "result_count": 2
   },
   {
@@ -1846,17 +1822,5 @@
     "not_after": "2026-07-08T23:59:59",
     "serial_number": "0629ccbf9fe666966e402d1509900ec1",
     "result_count": 4
-  },
-  {
-    "issuer_ca_id": 247119,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
-    "common_name": "blog.ssa.gov",
-    "name_value": "blog.ssa.gov",
-    "id": 18649135541,
-    "entry_timestamp": "2025-05-27T06:06:05.672",
-    "not_before": "2025-05-27T00:00:00",
-    "not_after": "2026-06-23T23:59:59",
-    "serial_number": "0d5cdf424c7e187e4b714652ff202b86",
-    "result_count": 2
   }
 ]
