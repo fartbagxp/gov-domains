@@ -1,5 +1,101 @@
 [
   {
+    "issuer_ca_id": 432477,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
+    "common_name": "click.e.justice.senate.gov",
+    "name_value": "click.e.justice.senate.gov",
+    "id": 27567784965,
+    "entry_timestamp": "2026-06-29T12:12:29.268",
+    "not_before": "2026-06-29T11:13:58",
+    "not_after": "2026-09-27T11:13:57",
+    "serial_number": "05a199599b73a56fc8e0acfa3dfb10dcef21",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 432477,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
+    "common_name": "click.e.justice.senate.gov",
+    "name_value": "click.e.justice.senate.gov",
+    "id": 27567776267,
+    "entry_timestamp": "2026-06-29T12:12:29.043",
+    "not_before": "2026-06-29T11:13:58",
+    "not_after": "2026-09-27T11:13:57",
+    "serial_number": "05a199599b73a56fc8e0acfa3dfb10dcef21",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "*.apps.s-fmis.senate.gov",
+    "name_value": "*.apps.s-fmis.senate.gov",
+    "id": 27507515978,
+    "entry_timestamp": "2026-06-26T20:04:05.301",
+    "not_before": "2026-06-26T00:00:00",
+    "not_after": "2027-01-10T23:59:59",
+    "serial_number": "0c12bc57a4dae970cdbc8c3793d3cced",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "*.apps.l-fmis.senate.gov",
+    "name_value": "*.apps.l-fmis.senate.gov",
+    "id": 27507078925,
+    "entry_timestamp": "2026-06-26T19:36:27.927",
+    "not_before": "2026-06-26T00:00:00",
+    "not_after": "2027-01-10T23:59:59",
+    "serial_number": "03f88754fcc8dda2d4f74004e543a51f",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "P-LIS-ATS2-P.senate.ussenate.us",
+    "name_value": "ats.senate.gov",
+    "id": 27478197626,
+    "entry_timestamp": "2026-06-25T15:24:01.27",
+    "not_before": "2026-06-25T00:00:00",
+    "not_after": "2027-01-09T23:59:59",
+    "serial_number": "054cc3b8c5c1892579f6bffdd345efdf",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 176211,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2",
+    "common_name": "sdmc.senate.gov",
+    "name_value": "sdmc.senate.gov",
+    "id": 27454266959,
+    "entry_timestamp": "2026-06-24T16:45:53.82",
+    "not_before": "2026-06-24T00:00:00",
+    "not_after": "2027-01-08T23:59:59",
+    "serial_number": "0fdd9a71c92f03b1b32390aa40a62001",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "webmail.senate.ussenate.us",
+    "name_value": "autodiscover.senate.gov",
+    "id": 27430121496,
+    "entry_timestamp": "2026-06-23T18:59:20.489",
+    "not_before": "2025-08-07T00:00:00",
+    "not_after": "2026-08-06T23:59:59",
+    "serial_number": "060fe2465683226feb89a9644dbad1d3",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "webmail.senate.ussenate.us",
+    "name_value": "autodiscover.senate.gov",
+    "id": 27430101082,
+    "entry_timestamp": "2026-06-23T18:58:12.96",
+    "not_before": "2026-06-23T00:00:00",
+    "not_after": "2027-01-07T23:59:59",
+    "serial_number": "04d2541a8d3392ba1b436799cb68e39d",
+    "result_count": 1
+  },
+  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "Jointdocs2.senate.gov",
@@ -1030,30 +1126,6 @@
     "not_after": "2026-10-09T23:59:59",
     "serial_number": "0946e978bfaaa6cfbda412d64cff1f68",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "www.senate.gov",
-    "name_value": "www.aging.senate.gov\nwww.agriculture.senate.gov\nwww.armed-services.senate.gov\nwww.baldwin.senate.gov\nwww.blackburn.senate.gov\nwww.blumenthal.senate.gov\nwww.booker.senate.gov\nwww.capito.senate.gov\nwww.collins.senate.gov\nwww.commerce.senate.gov\nwww.coons.senate.gov\nwww.cotton.senate.gov\nwww.cramer.senate.gov\nwww.crapo.senate.gov\nwww.cruz.senate.gov\nwww.daines.senate.gov\nwww.democrats.senate.gov\nwww.disclosure.senate.gov\nwww.energy.senate.gov\nwww.ernst.senate.gov\nwww.foreign.senate.gov\nwww.grassley.senate.gov\nwww.hassan.senate.gov\nwww.heinrich.senate.gov\nwww.help.senate.gov\nwww.hirono.senate.gov\nwww.hydesmith.senate.gov\nwww.judiciary.senate.gov\nwww.kaine.senate.gov\nwww.kelly.senate.gov\nwww.king.senate.gov\nwww.lee.senate.gov\nwww.markey.senate.gov\nwww.murphy.senate.gov\nwww.peters.senate.gov\nwww.reed.senate.gov\nwww.rickscott.senate.gov\nwww.ronjohnson.senate.gov\nwww.rounds.senate.gov\nwww.rpc.senate.gov\nwww.rules.senate.gov\nwww.sanders.senate.gov\nwww.schatz.senate.gov\nwww.schumer.senate.gov\nwww.senate.gov\nwww.shaheen.senate.gov\nwww.tillis.senate.gov\nwww.vanhollen.senate.gov\nwww.veterans.senate.gov\nwww.wicker.senate.gov",
-    "id": 25216870324,
-    "entry_timestamp": "2026-03-25T17:31:31.604",
-    "not_before": "2026-03-25T16:32:59",
-    "not_after": "2026-06-23T16:32:58",
-    "serial_number": "05c4d1cf77bcce964b0861da685d631b018c",
-    "result_count": 51
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "www.senate.gov",
-    "name_value": "www.aging.senate.gov\nwww.agriculture.senate.gov\nwww.armed-services.senate.gov\nwww.baldwin.senate.gov\nwww.blackburn.senate.gov\nwww.blumenthal.senate.gov\nwww.booker.senate.gov\nwww.capito.senate.gov\nwww.collins.senate.gov\nwww.commerce.senate.gov\nwww.coons.senate.gov\nwww.cotton.senate.gov\nwww.cramer.senate.gov\nwww.crapo.senate.gov\nwww.cruz.senate.gov\nwww.daines.senate.gov\nwww.democrats.senate.gov\nwww.disclosure.senate.gov\nwww.energy.senate.gov\nwww.ernst.senate.gov\nwww.foreign.senate.gov\nwww.grassley.senate.gov\nwww.hassan.senate.gov\nwww.heinrich.senate.gov\nwww.help.senate.gov\nwww.hirono.senate.gov\nwww.hydesmith.senate.gov\nwww.judiciary.senate.gov\nwww.kaine.senate.gov\nwww.kelly.senate.gov\nwww.king.senate.gov\nwww.lee.senate.gov\nwww.markey.senate.gov\nwww.murphy.senate.gov\nwww.peters.senate.gov\nwww.reed.senate.gov\nwww.rickscott.senate.gov\nwww.ronjohnson.senate.gov\nwww.rounds.senate.gov\nwww.rpc.senate.gov\nwww.rules.senate.gov\nwww.sanders.senate.gov\nwww.schatz.senate.gov\nwww.schumer.senate.gov\nwww.senate.gov\nwww.shaheen.senate.gov\nwww.tillis.senate.gov\nwww.vanhollen.senate.gov\nwww.veterans.senate.gov\nwww.wicker.senate.gov",
-    "id": 25216850150,
-    "entry_timestamp": "2026-03-25T17:31:30.15",
-    "not_before": "2026-03-25T16:32:59",
-    "not_after": "2026-06-23T16:32:58",
-    "serial_number": "05c4d1cf77bcce964b0861da685d631b018c",
-    "result_count": 51
   },
   {
     "issuer_ca_id": 185752,

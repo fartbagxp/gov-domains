@@ -1,5 +1,41 @@
 [
   {
+    "issuer_ca_id": 432476,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
+    "common_name": "stage.api.data.gov",
+    "name_value": "stage.api.data.gov",
+    "id": 27479240044,
+    "entry_timestamp": "2026-06-25T16:19:30.006",
+    "not_before": "2026-06-25T15:20:59",
+    "not_after": "2026-09-23T15:20:58",
+    "serial_number": "056b8984f7f4d5947cb434f4b4f0bc2cd01e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 432476,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
+    "common_name": "stage.api.data.gov",
+    "name_value": "stage.api.data.gov",
+    "id": 27479233586,
+    "entry_timestamp": "2026-06-25T16:19:29.109",
+    "not_before": "2026-06-25T15:20:59",
+    "not_after": "2026-09-23T15:20:58",
+    "serial_number": "056b8984f7f4d5947cb434f4b4f0bc2cd01e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "status.api.data.gov",
+    "name_value": "status.api.data.gov",
+    "id": 27439139358,
+    "entry_timestamp": "2026-06-24T03:14:42.624",
+    "not_before": "2026-06-24T00:00:00",
+    "not_after": "2027-01-07T23:59:59",
+    "serial_number": "0dfe82a2b254fc5e12f16257c7f58034",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 432477,
     "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
     "common_name": "api.data.gov",
@@ -1149,90 +1185,6 @@
     "not_before": "2025-06-02T00:00:00",
     "not_after": "2026-07-01T23:59:59",
     "serial_number": "054c4d8897905f3b67653c7f98c6e044",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "solr-76251ac1-dad7.ssb.data.gov",
-    "name_value": "*.solr-76251ac1-dad7.ssb.data.gov\nsolr-76251ac1-dad7.ssb.data.gov",
-    "id": 18677147061,
-    "entry_timestamp": "2025-05-28T17:35:55.408",
-    "not_before": "2025-05-28T00:00:00",
-    "not_after": "2026-06-26T23:59:59",
-    "serial_number": "0d8173f60d73a2810dca83f53a4c77d8",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "solr-f1e3bee9-45b0.ssb.data.gov",
-    "name_value": "*.solr-f1e3bee9-45b0.ssb.data.gov\nsolr-f1e3bee9-45b0.ssb.data.gov",
-    "id": 18675653910,
-    "entry_timestamp": "2025-05-28T15:43:51.991",
-    "not_before": "2025-05-28T00:00:00",
-    "not_after": "2026-06-26T23:59:59",
-    "serial_number": "0535c64d126e041068d84f18e3cf1bbd",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "solr-d4469758-f8ee.ssb.data.gov",
-    "name_value": "*.solr-d4469758-f8ee.ssb.data.gov\nsolr-d4469758-f8ee.ssb.data.gov",
-    "id": 18660123732,
-    "entry_timestamp": "2025-05-27T19:51:07.283",
-    "not_before": "2025-05-27T00:00:00",
-    "not_after": "2026-06-25T23:59:59",
-    "serial_number": "05b9c194533326e728e901b085c8a728",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "solr-960d5761-7db7.ssb.data.gov",
-    "name_value": "*.solr-960d5761-7db7.ssb.data.gov\nsolr-960d5761-7db7.ssb.data.gov",
-    "id": 18658642229,
-    "entry_timestamp": "2025-05-27T17:57:39.521",
-    "not_before": "2025-05-27T00:00:00",
-    "not_after": "2026-06-25T23:59:59",
-    "serial_number": "0e54d77181951f19b142c209178860c7",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "solr-a8dbb58e-1c9c.ssb.data.gov",
-    "name_value": "*.solr-a8dbb58e-1c9c.ssb.data.gov\nsolr-a8dbb58e-1c9c.ssb.data.gov",
-    "id": 18656879640,
-    "entry_timestamp": "2025-05-27T15:58:06.688",
-    "not_before": "2025-05-27T00:00:00",
-    "not_after": "2026-06-25T23:59:59",
-    "serial_number": "0682587e412012081f679ea71c41bff4",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "b82ebda8-266c-481d-9df7-e7672d36b6bd.ssb-staging.data.gov",
-    "name_value": "*.b82ebda8-266c-481d-9df7-e7672d36b6bd.ssb-staging.data.gov\nb82ebda8-266c-481d-9df7-e7672d36b6bd.ssb-staging.data.gov",
-    "id": 18605944141,
-    "entry_timestamp": "2025-05-25T01:18:23.175",
-    "not_before": "2025-05-25T00:00:00",
-    "not_after": "2026-06-23T23:59:59",
-    "serial_number": "0e058fad506245d232dc18830e505af3",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "b82ebda8-266c-481d-9df7-e7672d36b6bd.ssb-staging.data.gov",
-    "name_value": "*.b82ebda8-266c-481d-9df7-e7672d36b6bd.ssb-staging.data.gov\nb82ebda8-266c-481d-9df7-e7672d36b6bd.ssb-staging.data.gov",
-    "id": 18605380029,
-    "entry_timestamp": "2025-05-25T00:36:22.019",
-    "not_before": "2025-05-25T00:00:00",
-    "not_after": "2026-06-23T23:59:59",
-    "serial_number": "0e058fad506245d232dc18830e505af3",
     "result_count": 3
   }
 ]
