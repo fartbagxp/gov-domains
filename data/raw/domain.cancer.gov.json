@@ -1,5 +1,89 @@
 [
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "*.cancer.gov",
+    "name_value": "*.cancer.gov\ncancer.gov\nmocha-cbioportal.cancer.gov",
+    "id": 27570260189,
+    "entry_timestamp": "2026-06-29T14:33:22.429",
+    "not_before": "2026-06-29T00:00:00",
+    "not_after": "2027-01-13T23:59:59",
+    "serial_number": "064d87b2461ca048f9f1da72197137b3",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 432477,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
+    "common_name": "seerdataaccess-test.cancer.gov",
+    "name_value": "seerdataaccess-test.cancer.gov\nservicetest.cancer.gov",
+    "id": 27554733068,
+    "entry_timestamp": "2026-06-28T23:29:41.137",
+    "not_before": "2026-06-28T22:31:09",
+    "not_after": "2026-09-26T22:31:08",
+    "serial_number": "05d8be090afcaeb82c8af8c5f03419545d47",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 432477,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
+    "common_name": "seerdataaccess-test.cancer.gov",
+    "name_value": "seerdataaccess-test.cancer.gov\nservicetest.cancer.gov",
+    "id": 27554736245,
+    "entry_timestamp": "2026-06-28T23:29:39.084",
+    "not_before": "2026-06-28T22:31:09",
+    "not_after": "2026-09-26T22:31:08",
+    "serial_number": "05d8be090afcaeb82c8af8c5f03419545d47",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 432476,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
+    "common_name": "seerdataaccess.cancer.gov",
+    "name_value": "seerdataaccess.cancer.gov\nservice1.cancer.gov\nservice.cancer.gov",
+    "id": 27554732464,
+    "entry_timestamp": "2026-06-28T23:29:33.373",
+    "not_before": "2026-06-28T22:31:02",
+    "not_after": "2026-09-26T22:31:01",
+    "serial_number": "0587ec1a4b8b8d186c7fe92e2edeb8201cc4",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 432476,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
+    "common_name": "seerdataaccess.cancer.gov",
+    "name_value": "seerdataaccess.cancer.gov\nservice1.cancer.gov\nservice.cancer.gov",
+    "id": 27554732426,
+    "entry_timestamp": "2026-06-28T23:29:33.125",
+    "not_before": "2026-06-28T22:31:02",
+    "not_after": "2026-09-26T22:31:01",
+    "serial_number": "0587ec1a4b8b8d186c7fe92e2edeb8201cc4",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 432476,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
+    "common_name": "hello-internal.cancer.gov",
+    "name_value": "hello-internal.cancer.gov",
+    "id": 27544952664,
+    "entry_timestamp": "2026-06-28T13:09:49.203",
+    "not_before": "2026-06-28T12:11:18",
+    "not_after": "2026-09-26T12:11:17",
+    "serial_number": "0568afeac6cf8e79d92edddcf39521dc6bf4",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 432476,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
+    "common_name": "hello-internal.cancer.gov",
+    "name_value": "hello-internal.cancer.gov",
+    "id": 27544950251,
+    "entry_timestamp": "2026-06-28T13:09:48.844",
+    "not_before": "2026-06-28T12:11:18",
+    "not_after": "2026-09-26T12:11:17",
+    "serial_number": "0568afeac6cf8e79d92edddcf39521dc6bf4",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 431054,
     "issuer_name": "C=US, O=Let's Encrypt, CN=YE2",
     "common_name": "resources.cisnet.cancer.gov",
@@ -6432,18 +6516,6 @@
     "result_count": 4
   },
   {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "cancertrialsfinder-dev.cancer.gov",
-    "name_value": "cancertrialsfinder-dev.cancer.gov",
-    "id": 18774103158,
-    "entry_timestamp": "2025-06-02T19:34:06.772",
-    "not_before": "2025-05-30T00:00:00",
-    "not_after": "2026-06-28T23:59:59",
-    "serial_number": "0ac1fc9042ace88dfada72e9ba34daf1",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 247106,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
     "common_name": "cancertrialsfinder-dev.cancer.gov",
@@ -6453,18 +6525,6 @@
     "not_before": "2025-06-02T00:00:00",
     "not_after": "2026-07-01T23:59:59",
     "serial_number": "030415f452fd2b5297160a165d1efe41",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "cancertrialsfinder-dev.cancer.gov",
-    "name_value": "cancertrialsfinder-dev.cancer.gov",
-    "id": 18717351921,
-    "entry_timestamp": "2025-05-30T19:18:32.42",
-    "not_before": "2025-05-30T00:00:00",
-    "not_after": "2026-06-28T23:59:59",
-    "serial_number": "0ac1fc9042ace88dfada72e9ba34daf1",
     "result_count": 2
   }
 ]
