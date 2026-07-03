@@ -1,5 +1,65 @@
 [
   {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "dev.dashboard.healthcare.gov",
+    "name_value": "dev.dashboard.healthcare.gov",
+    "id": 27648823342,
+    "entry_timestamp": "2026-07-02T18:48:30.313",
+    "not_before": "2026-07-02T00:00:00",
+    "not_after": "2027-01-15T23:59:59",
+    "serial_number": "046aa5e9289953bf544c6663818a8e64",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "test0.fdai.healthcare.gov",
+    "name_value": "test0.fdai.healthcare.gov",
+    "id": 27646315217,
+    "entry_timestamp": "2026-07-02T16:17:11.645",
+    "not_before": "2026-07-02T00:00:00",
+    "not_after": "2027-01-15T23:59:59",
+    "serial_number": "0b5b1a468213a58c4189d959fa530b3f",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 62123,
+    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
+    "common_name": "www2.healthcare.gov",
+    "name_value": "address.api.healthcare.gov\ndashboard.healthcare.gov\ndr.ses.api.healthcare.gov\ndsrs.api.healthcare.gov\nedit.healthcare.gov\nfdai.healthcare.gov\nmcr.api.healthcare.gov\nses.api.healthcare.gov\nwww2.healthcare.gov",
+    "id": 27620475443,
+    "entry_timestamp": "2026-07-01T15:08:20.712",
+    "not_before": "2026-05-30T00:00:00",
+    "not_after": "2026-12-14T23:59:59",
+    "serial_number": "0cd8f23b1cf89bdc9182bb87c84ac046",
+    "result_count": 10
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "fdai.healthcare.gov",
+    "name_value": "fdai.healthcare.gov",
+    "id": 27620432604,
+    "entry_timestamp": "2026-07-01T15:06:29.452",
+    "not_before": "2026-07-01T00:00:00",
+    "not_after": "2027-01-14T23:59:59",
+    "serial_number": "0bc2d5cf5f73864cd4c15d3aafc49c0d",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "fdai.healthcare.gov",
+    "name_value": "fdai.healthcare.gov",
+    "id": 27620289186,
+    "entry_timestamp": "2026-07-01T14:58:30.348",
+    "not_before": "2026-07-01T00:00:00",
+    "not_after": "2027-01-14T23:59:59",
+    "serial_number": "065d69e5c389c4f428d40fb6c9d9903f",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 62123,
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
     "common_name": "origin-en-app.prod.healthcare.gov",
@@ -4329,54 +4389,6 @@
     "not_before": "2025-06-05T00:00:00",
     "not_after": "2026-07-04T23:59:59",
     "serial_number": "072cec9846c2bf30c782af5d6daca7a2",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "app3-elb.perf.healthcare.gov",
-    "name_value": "app3-elb.perf.healthcare.gov",
-    "id": 18789881224,
-    "entry_timestamp": "2025-06-03T16:11:57.003",
-    "not_before": "2025-06-03T00:00:00",
-    "not_after": "2026-07-02T23:59:59",
-    "serial_number": "04085d14532b3b10d98446d3a2856bc3",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "app3-elb.perf.healthcare.gov",
-    "name_value": "app3-elb.perf.healthcare.gov",
-    "id": 18789774604,
-    "entry_timestamp": "2025-06-03T15:00:03.122",
-    "not_before": "2025-06-03T00:00:00",
-    "not_after": "2026-07-02T23:59:59",
-    "serial_number": "09ce20a0aeff906eda83741c74faa1a7",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "app3-elb.perf.healthcare.gov",
-    "name_value": "app3-elb.perf.healthcare.gov",
-    "id": 18775608814,
-    "entry_timestamp": "2025-06-02T20:55:55.369",
-    "not_before": "2025-06-02T00:00:00",
-    "not_after": "2026-07-01T23:59:59",
-    "serial_number": "02255e2840ff4423e83baa4b66a7eaff",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "app3-elb.perf.healthcare.gov",
-    "name_value": "app3-elb.perf.healthcare.gov",
-    "id": 18774469608,
-    "entry_timestamp": "2025-06-02T19:51:16.506",
-    "not_before": "2025-06-02T00:00:00",
-    "not_after": "2026-07-01T23:59:59",
-    "serial_number": "0bb96a0ed1163160498b2b9ad0ac61c0",
     "result_count": 2
   }
 ]

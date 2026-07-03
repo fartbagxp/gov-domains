@@ -1,5 +1,53 @@
 [
   {
+    "issuer_ca_id": 413868,
+    "issuer_name": "C=US, O=SSL Corporation, CN=Cloudflare TLS Issuing ECC CA 3",
+    "common_name": "rsp-public-service.cbp.gov",
+    "name_value": "rsp-public-service.cbp.gov",
+    "id": 27602043899,
+    "entry_timestamp": "2026-06-30T21:16:50.793",
+    "not_before": "2026-06-30T21:05:39",
+    "not_after": "2026-09-28T21:11:33",
+    "serial_number": "6b50b5609c125cecf79f3c16d38ead12",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 413864,
+    "issuer_name": "C=US, O=SSL Corporation, CN=Cloudflare TLS Issuing RSA CA 3",
+    "common_name": "rsp-public-service.cbp.gov",
+    "name_value": "rsp-public-service.cbp.gov",
+    "id": 27602045714,
+    "entry_timestamp": "2026-06-30T21:16:49.572",
+    "not_before": "2026-06-30T21:05:29",
+    "not_after": "2026-09-28T21:11:32",
+    "serial_number": "12d7b0356c066ced483a154eb02af42f",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 413868,
+    "issuer_name": "C=US, O=SSL Corporation, CN=Cloudflare TLS Issuing ECC CA 3",
+    "common_name": "rsp-public-service.cbp.gov",
+    "name_value": "rsp-public-service.cbp.gov",
+    "id": 27602008345,
+    "entry_timestamp": "2026-06-30T21:15:40.769",
+    "not_before": "2026-06-30T21:05:39",
+    "not_after": "2026-09-28T21:11:33",
+    "serial_number": "6b50b5609c125cecf79f3c16d38ead12",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 413864,
+    "issuer_name": "C=US, O=SSL Corporation, CN=Cloudflare TLS Issuing RSA CA 3",
+    "common_name": "rsp-public-service.cbp.gov",
+    "name_value": "rsp-public-service.cbp.gov",
+    "id": 27602006331,
+    "entry_timestamp": "2026-06-30T21:15:31.26",
+    "not_before": "2026-06-30T21:05:29",
+    "not_after": "2026-09-28T21:11:32",
+    "serial_number": "12d7b0356c066ced483a154eb02af42f",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 204411,
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
     "common_name": "*.tvs.cbp.gov",
@@ -324,54 +372,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 282053,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
-    "common_name": "awt.qa.cbp.gov",
-    "name_value": "awt.qa.cbp.gov",
-    "id": 25405848731,
-    "entry_timestamp": "2026-04-02T22:33:38.857",
-    "not_before": "2026-04-02T21:43:05",
-    "not_after": "2026-07-01T21:29:43",
-    "serial_number": "5c1581e83b813c0dcba9acf12db3a4c2",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 282054,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
-    "common_name": "awt.qa.cbp.gov",
-    "name_value": "awt.qa.cbp.gov",
-    "id": 25342750609,
-    "entry_timestamp": "2026-04-02T22:30:51.395",
-    "not_before": "2026-04-02T22:18:36",
-    "not_after": "2026-07-01T21:53:13",
-    "serial_number": "33e4f08843d301667cca20da3a7635ca",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 282054,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing ECC CA 1",
-    "common_name": "awt.qa.cbp.gov",
-    "name_value": "awt.qa.cbp.gov",
-    "id": 25375867425,
-    "entry_timestamp": "2026-04-02T22:28:37.877",
-    "not_before": "2026-04-02T22:18:36",
-    "not_after": "2026-07-01T21:53:13",
-    "serial_number": "33e4f08843d301667cca20da3a7635ca",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 282053,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
-    "common_name": "awt.qa.cbp.gov",
-    "name_value": "awt.qa.cbp.gov",
-    "id": 25373552906,
-    "entry_timestamp": "2026-04-02T21:53:06.93",
-    "not_before": "2026-04-02T21:43:05",
-    "not_after": "2026-07-01T21:29:43",
-    "serial_number": "5c1581e83b813c0dcba9acf12db3a4c2",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 185748,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
     "common_name": "www3.dhs.gov",
@@ -382,18 +382,6 @@
     "not_after": "2026-10-16T23:59:59",
     "serial_number": "0c9abd73d170ce23f99fda9cc8b6633d",
     "result_count": 6
-  },
-  {
-    "issuer_ca_id": 282053,
-    "issuer_name": "C=US, O=\"CLOUDFLARE, INC.\", CN=Cloudflare TLS Issuing RSA CA 1",
-    "common_name": "awt.qa.cbp.gov",
-    "name_value": "awt.qa.cbp.gov",
-    "id": 25368995801,
-    "entry_timestamp": "2026-04-02T20:29:30.378",
-    "not_before": "2026-04-02T20:18:52",
-    "not_after": "2026-07-01T20:26:49",
-    "serial_number": "4c82039deb10a96044a569b6edc27cb6",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 185748,
