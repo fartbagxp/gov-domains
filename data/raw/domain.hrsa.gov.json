@@ -1,5 +1,77 @@
 [
   {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "inthubos.hrsa.gov",
+    "name_value": "inthubos.hrsa.gov\nwww.inthubos.hrsa.gov",
+    "id": 27624098276,
+    "entry_timestamp": "2026-07-01T18:33:21.363",
+    "not_before": "2026-07-01T18:33:21",
+    "not_after": "2027-01-16T18:32:21",
+    "serial_number": "40019f1ef50219299a22cb52011346ca",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "inthubsec.hrsa.gov",
+    "name_value": "inthubsec.hrsa.gov\nwww.inthubsec.hrsa.gov",
+    "id": 27624098309,
+    "entry_timestamp": "2026-07-01T18:32:54.523",
+    "not_before": "2026-07-01T18:32:54",
+    "not_after": "2027-01-16T18:31:54",
+    "serial_number": "40019f1ef4999f5e9c694a57d1af5c21",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "ehbnrm.hrsa.gov",
+    "name_value": "ehbnrm.hrsa.gov\nwww.ehbnrm.hrsa.gov",
+    "id": 27624060840,
+    "entry_timestamp": "2026-07-01T18:30:38.098",
+    "not_before": "2026-07-01T18:30:38",
+    "not_after": "2027-01-16T18:29:38",
+    "serial_number": "40019f1ef284ba670deef14c771069a3",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "community.hrsa.gov",
+    "name_value": "community.hrsa.gov",
+    "id": 27624045922,
+    "entry_timestamp": "2026-07-01T18:30:06.147",
+    "not_before": "2026-07-01T18:30:06",
+    "not_after": "2027-01-16T18:29:06",
+    "serial_number": "40019f1ef207ff09c06de8088a85a4e5",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 432476,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
+    "common_name": "secureapp1.hrsa.gov",
+    "name_value": "secureapp1.hrsa.gov\ntestvaultobf01.hrsa.gov",
+    "id": 27622985181,
+    "entry_timestamp": "2026-07-01T17:26:36.539",
+    "not_before": "2026-07-01T16:28:05",
+    "not_after": "2026-09-29T16:28:04",
+    "serial_number": "057efdf97d78ebe0ca3813f0e4c653bbfe25",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 432476,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
+    "common_name": "secureapp1.hrsa.gov",
+    "name_value": "secureapp1.hrsa.gov\ntestvaultobf01.hrsa.gov",
+    "id": 27622977751,
+    "entry_timestamp": "2026-07-01T17:26:35.961",
+    "not_before": "2026-07-01T16:28:05",
+    "not_after": "2026-09-29T16:28:04",
+    "serial_number": "057efdf97d78ebe0ca3813f0e4c653bbfe25",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 432477,
     "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
     "common_name": "www.hhs.gov",
@@ -460,18 +532,6 @@
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
     "common_name": "hrsa.gov",
     "name_value": "*.hrsa.gov\nhrsa.gov",
-    "id": 27034719037,
-    "entry_timestamp": "2026-06-09T22:57:22.39",
-    "not_before": "2026-06-09T00:00:00",
-    "not_after": "2026-09-01T13:52:39",
-    "serial_number": "362b23125c1af762903d0efd4969921e",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "hrsa.gov",
-    "name_value": "*.hrsa.gov\nhrsa.gov",
     "id": 27034719622,
     "entry_timestamp": "2026-06-09T22:57:21.073",
     "not_before": "2026-06-09T00:00:00",
@@ -648,18 +708,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "bms-src01as-d02.hrsa.gov",
-    "name_value": "bms-buildas-p02.hrsa.gov\nbms-src01as-d02.hrsa.gov\nbms-src01as-q02.hrsa.gov\nbms-src01as-t02.hrsa.gov\nbms-src02as-d02.hrsa.gov\nbms-src02as-q02.hrsa.gov\nbms-src02as-t02.hrsa.gov\nbms-src03as-d02.hrsa.gov\nbms-src03as-t02.hrsa.gov\nbms-src04as-d02.hrsa.gov\nbms-src04as-t02.hrsa.gov",
-    "id": 26874275921,
-    "entry_timestamp": "2026-06-04T04:04:14.188",
-    "not_before": "2026-06-04T00:00:00",
-    "not_after": "2026-07-03T23:59:59",
-    "serial_number": "05d8a45d094c7ee2286710b2450ae937",
-    "result_count": 12
-  },
-  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "help.stg01.hrsa.gov",
@@ -706,18 +754,6 @@
     "not_after": "2026-12-19T20:08:28",
     "serial_number": "40019e8f1af2e35701432f76757d567e",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "bms-mqb01as-d01.hrsa.gov",
-    "name_value": "bms-mqb01as-d01.hrsa.gov\nbms-mqb01as-d02.hrsa.gov\nbms-mqb01as-d03.hrsa.gov\nbms-mqb01as-t01.hrsa.gov\nbms-mqb01as-t02.hrsa.gov\nbms-mqb01as-t03.hrsa.gov\nbms-mqbas-d06.hrsa.gov\nbms-mqbas-d07.hrsa.gov\nbms-mqbas-d08.hrsa.gov\nbms-mqbas-t06.hrsa.gov\nbms-mqbas-t07.hrsa.gov\nbms-mqbas-t08.hrsa.gov",
-    "id": 26847280247,
-    "entry_timestamp": "2026-06-03T04:38:08.416",
-    "not_before": "2026-06-03T00:00:00",
-    "not_after": "2026-07-02T23:59:59",
-    "serial_number": "07eee0315430168eef471f467224e513",
-    "result_count": 13
   },
   {
     "issuer_ca_id": 153248,
@@ -780,54 +816,6 @@
     "result_count": 22
   },
   {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "secureapp-ehb-01.hrsa.gov",
-    "name_value": "brsos.hrsa.gov\nbrsrs.hrsa.gov\nbrsrsos.hrsa.gov\nbrsrsstg01.hrsa.gov\nbrssec.hrsa.gov\nbrsstg01.hrsa.gov\ndashboardext.hrsa.gov\ndashboardext.os.hrsa.gov\ndashboardext.stg01.hrsa.gov\ndashboardext.uat.hrsa.gov\ndashboards.os.hrsa.gov\ndashboards.uat.hrsa.gov\negis.hrsa.gov\negisos.hrsa.gov\negissec.hrsa.gov\negisstg01.hrsa.gov\nehbcmn.hrsa.gov\nehbcmnos.hrsa.gov\nehbcmnsec.hrsa.gov\nehbcmnstg01.hrsa.gov\nehbnrm.hrsa.gov\nehbos.hrsa.gov\nehbsec.hrsa.gov\nehbstg01.hrsa.gov\nehbuat02t01.hrsa.gov\nehbuat02t02.hrsa.gov\nehbuat02t03.hrsa.gov\nehbuat02t04.hrsa.gov\nehbuat03t01.hrsa.gov\nehbuat03t02.hrsa.gov\nehbuat03t03.hrsa.gov\nehbuat03t04.hrsa.gov\nehbuat04t01.hrsa.gov\nehbuat04t02.hrsa.gov\nehbuat04t03.hrsa.gov\nehbuat04t04.hrsa.gov\nehbuat05t01.hrsa.gov\nehbuat05t02.hrsa.gov\nehbuat05t03.hrsa.gov\nehbuat05t04.hrsa.gov\ners.hrsa.gov\nersos.hrsa.gov\nerssec.hrsa.gov\nersstg01.hrsa.gov\ngrants2.hrsa.gov\ngrants3.hrsa.gov\ngrants4.hrsa.gov\ngrants5.hrsa.gov\ngrants6.hrsa.gov\ngrants.hrsa.gov\nhelp.hrsa.gov\nhelp.stg01.hrsa.gov\ninthubstg01.hrsa.gov\nmchb.tvisdata.hrsa.gov\nmchbtvisdataos.hrsa.gov\nmchb.tvisdata.sec.hrsa.gov\nmchbtvisdatastg01.hrsa.gov\nmchbtvisdatauat02.hrsa.gov\nmchbtvisdatauat03.hrsa.gov\nmchbtvisdatauat04.hrsa.gov\nmchbtvisdatauat05.hrsa.gov\nmchbtvis.hrsa.gov\nmchbtvisos.hrsa.gov\nmchbtvis.sec.hrsa.gov\nmchbtvisstg01.hrsa.gov\nmchbtvisuat02.hrsa.gov\nmchbtvisuat03.hrsa.gov\nmchbtvisuat04.hrsa.gov\nmchbtvisuat05.hrsa.gov\nsecureapp-ehb-01.hrsa.gov",
-    "id": 26661351336,
-    "entry_timestamp": "2026-05-26T18:25:41.468",
-    "not_before": "2026-05-26T17:27:10",
-    "not_after": "2026-08-24T17:27:09",
-    "serial_number": "05699103af95fbdb3fc437909859a2af4e42",
-    "result_count": 71
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "secureapp-ehb-01.hrsa.gov",
-    "name_value": "brsos.hrsa.gov\nbrsrs.hrsa.gov\nbrsrsos.hrsa.gov\nbrsrsstg01.hrsa.gov\nbrssec.hrsa.gov\nbrsstg01.hrsa.gov\ndashboardext.hrsa.gov\ndashboardext.os.hrsa.gov\ndashboardext.stg01.hrsa.gov\ndashboardext.uat.hrsa.gov\ndashboards.os.hrsa.gov\ndashboards.uat.hrsa.gov\negis.hrsa.gov\negisos.hrsa.gov\negissec.hrsa.gov\negisstg01.hrsa.gov\nehbcmn.hrsa.gov\nehbcmnos.hrsa.gov\nehbcmnsec.hrsa.gov\nehbcmnstg01.hrsa.gov\nehbnrm.hrsa.gov\nehbos.hrsa.gov\nehbsec.hrsa.gov\nehbstg01.hrsa.gov\nehbuat02t01.hrsa.gov\nehbuat02t02.hrsa.gov\nehbuat02t03.hrsa.gov\nehbuat02t04.hrsa.gov\nehbuat03t01.hrsa.gov\nehbuat03t02.hrsa.gov\nehbuat03t03.hrsa.gov\nehbuat03t04.hrsa.gov\nehbuat04t01.hrsa.gov\nehbuat04t02.hrsa.gov\nehbuat04t03.hrsa.gov\nehbuat04t04.hrsa.gov\nehbuat05t01.hrsa.gov\nehbuat05t02.hrsa.gov\nehbuat05t03.hrsa.gov\nehbuat05t04.hrsa.gov\ners.hrsa.gov\nersos.hrsa.gov\nerssec.hrsa.gov\nersstg01.hrsa.gov\ngrants2.hrsa.gov\ngrants3.hrsa.gov\ngrants4.hrsa.gov\ngrants5.hrsa.gov\ngrants6.hrsa.gov\ngrants.hrsa.gov\nhelp.hrsa.gov\nhelp.stg01.hrsa.gov\ninthubstg01.hrsa.gov\nmchb.tvisdata.hrsa.gov\nmchbtvisdataos.hrsa.gov\nmchb.tvisdata.sec.hrsa.gov\nmchbtvisdatastg01.hrsa.gov\nmchbtvisdatauat02.hrsa.gov\nmchbtvisdatauat03.hrsa.gov\nmchbtvisdatauat04.hrsa.gov\nmchbtvisdatauat05.hrsa.gov\nmchbtvis.hrsa.gov\nmchbtvisos.hrsa.gov\nmchbtvis.sec.hrsa.gov\nmchbtvisstg01.hrsa.gov\nmchbtvisuat02.hrsa.gov\nmchbtvisuat03.hrsa.gov\nmchbtvisuat04.hrsa.gov\nmchbtvisuat05.hrsa.gov\nsecureapp-ehb-01.hrsa.gov",
-    "id": 26661358201,
-    "entry_timestamp": "2026-05-26T18:25:40.553",
-    "not_before": "2026-05-26T17:27:10",
-    "not_after": "2026-08-24T17:27:09",
-    "serial_number": "05699103af95fbdb3fc437909859a2af4e42",
-    "result_count": 71
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "secureapp-ehb-01.hrsa.gov",
-    "name_value": "brsos.hrsa.gov\nbrsrs.hrsa.gov\nbrsrsos.hrsa.gov\nbrsrsstg01.hrsa.gov\nbrssec.hrsa.gov\nbrsstg01.hrsa.gov\ndashboardext.hrsa.gov\ndashboardext.os.hrsa.gov\ndashboardext.stg01.hrsa.gov\ndashboardext.uat.hrsa.gov\ndashboards.os.hrsa.gov\ndashboards.uat.hrsa.gov\negis.hrsa.gov\negisos.hrsa.gov\negissec.hrsa.gov\negisstg01.hrsa.gov\nehbcmn.hrsa.gov\nehbcmnos.hrsa.gov\nehbcmnsec.hrsa.gov\nehbcmnstg01.hrsa.gov\nehbos.hrsa.gov\nehbsec.hrsa.gov\nehbstg01.hrsa.gov\nehbuat02t01.hrsa.gov\nehbuat02t02.hrsa.gov\nehbuat02t03.hrsa.gov\nehbuat02t04.hrsa.gov\nehbuat03t01.hrsa.gov\nehbuat03t02.hrsa.gov\nehbuat03t03.hrsa.gov\nehbuat03t04.hrsa.gov\nehbuat04t01.hrsa.gov\nehbuat04t02.hrsa.gov\nehbuat04t03.hrsa.gov\nehbuat04t04.hrsa.gov\nehbuat05t01.hrsa.gov\nehbuat05t02.hrsa.gov\nehbuat05t03.hrsa.gov\nehbuat05t04.hrsa.gov\ners.hrsa.gov\nersos.hrsa.gov\nerssec.hrsa.gov\nersstg01.hrsa.gov\ngrants2.hrsa.gov\ngrants3.hrsa.gov\ngrants4.hrsa.gov\ngrants5.hrsa.gov\ngrants6.hrsa.gov\ngrants.hrsa.gov\nhelp.hrsa.gov\nhelp.stg01.hrsa.gov\ninthubstg01.hrsa.gov\nmchb.tvisdata.hrsa.gov\nmchbtvisdataos.hrsa.gov\nmchb.tvisdata.sec.hrsa.gov\nmchbtvisdatastg01.hrsa.gov\nmchbtvisdatauat02.hrsa.gov\nmchbtvisdatauat03.hrsa.gov\nmchbtvisdatauat04.hrsa.gov\nmchbtvisdatauat05.hrsa.gov\nmchbtvis.hrsa.gov\nmchbtvisos.hrsa.gov\nmchbtvis.sec.hrsa.gov\nmchbtvisstg01.hrsa.gov\nmchbtvisuat02.hrsa.gov\nmchbtvisuat03.hrsa.gov\nmchbtvisuat04.hrsa.gov\nmchbtvisuat05.hrsa.gov\nsecureapp-ehb-01.hrsa.gov",
-    "id": 26556055733,
-    "entry_timestamp": "2026-05-22T18:06:46.394",
-    "not_before": "2026-05-22T17:08:15",
-    "not_after": "2026-08-20T17:08:14",
-    "serial_number": "0667ba07b7bd1a2ec76a67ef915074dcd0d5",
-    "result_count": 70
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "secureapp-ehb-01.hrsa.gov",
-    "name_value": "brsos.hrsa.gov\nbrsrs.hrsa.gov\nbrsrsos.hrsa.gov\nbrsrsstg01.hrsa.gov\nbrssec.hrsa.gov\nbrsstg01.hrsa.gov\ndashboardext.hrsa.gov\ndashboardext.os.hrsa.gov\ndashboardext.stg01.hrsa.gov\ndashboardext.uat.hrsa.gov\ndashboards.os.hrsa.gov\ndashboards.uat.hrsa.gov\negis.hrsa.gov\negisos.hrsa.gov\negissec.hrsa.gov\negisstg01.hrsa.gov\nehbcmn.hrsa.gov\nehbcmnos.hrsa.gov\nehbcmnsec.hrsa.gov\nehbcmnstg01.hrsa.gov\nehbos.hrsa.gov\nehbsec.hrsa.gov\nehbstg01.hrsa.gov\nehbuat02t01.hrsa.gov\nehbuat02t02.hrsa.gov\nehbuat02t03.hrsa.gov\nehbuat02t04.hrsa.gov\nehbuat03t01.hrsa.gov\nehbuat03t02.hrsa.gov\nehbuat03t03.hrsa.gov\nehbuat03t04.hrsa.gov\nehbuat04t01.hrsa.gov\nehbuat04t02.hrsa.gov\nehbuat04t03.hrsa.gov\nehbuat04t04.hrsa.gov\nehbuat05t01.hrsa.gov\nehbuat05t02.hrsa.gov\nehbuat05t03.hrsa.gov\nehbuat05t04.hrsa.gov\ners.hrsa.gov\nersos.hrsa.gov\nerssec.hrsa.gov\nersstg01.hrsa.gov\ngrants2.hrsa.gov\ngrants3.hrsa.gov\ngrants4.hrsa.gov\ngrants5.hrsa.gov\ngrants6.hrsa.gov\ngrants.hrsa.gov\nhelp.hrsa.gov\nhelp.stg01.hrsa.gov\ninthubstg01.hrsa.gov\nmchb.tvisdata.hrsa.gov\nmchbtvisdataos.hrsa.gov\nmchb.tvisdata.sec.hrsa.gov\nmchbtvisdatastg01.hrsa.gov\nmchbtvisdatauat02.hrsa.gov\nmchbtvisdatauat03.hrsa.gov\nmchbtvisdatauat04.hrsa.gov\nmchbtvisdatauat05.hrsa.gov\nmchbtvis.hrsa.gov\nmchbtvisos.hrsa.gov\nmchbtvis.sec.hrsa.gov\nmchbtvisstg01.hrsa.gov\nmchbtvisuat02.hrsa.gov\nmchbtvisuat03.hrsa.gov\nmchbtvisuat04.hrsa.gov\nmchbtvisuat05.hrsa.gov\nsecureapp-ehb-01.hrsa.gov",
-    "id": 26556058364,
-    "entry_timestamp": "2026-05-22T18:06:45.716",
-    "not_before": "2026-05-22T17:08:15",
-    "not_after": "2026-08-20T17:08:14",
-    "serial_number": "0667ba07b7bd1a2ec76a67ef915074dcd0d5",
-    "result_count": 70
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "*.npdb.hrsa.gov",
@@ -850,54 +838,6 @@
     "not_after": "2026-12-06T23:59:59",
     "serial_number": "06d357e6c176b6bef53e034dea737587",
     "result_count": 6
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "secureapp-ddas-01.hrsa.gov",
-    "name_value": "ahrf-stage.hdw.hrsa.gov\ndata.hrsa.gov\ndata-stage.hdw.hrsa.gov\ndata-uat.hdw.hrsa.gov\ndatawarehouse.hrsa.gov\ndatawarehouse-stage.hdw.hrsa.gov\nesr.os.hrsa.gov\nesr.staging.hrsa.gov\nesr.test.hrsa.gov\nfindahealthcenter.hrsa.gov\nfindahealthcenter-stage.hdw.hrsa.gov\nfindanetwork.hrsa.gov\nfindanetwork-stage.hdw.hrsa.gov\nfindhivcare.hrsa.gov\nfindhivcare-stage.hdw.hrsa.gov\ngeocarenavigator.hrsa.gov\ngeocarenavigator-stage.hdw.hrsa.gov\ngisportal-2.staging.hrsa.gov\ngisportalha-2.staging.hrsa.gov\ngisportalha.staging.hrsa.gov\ngisportal.hrsa.gov\ngisportal.staging.hrsa.gov\nhpsafind.hrsa.gov\nhpsafind-stage.hdw.hrsa.gov\nhrsainyourstate.hrsa.gov\nhrsainyourstate-stage.hdw.hrsa.gov\nikndata-stage.hdw.hrsa.gov\nmuafind.hrsa.gov\nmuafind-stage.hdw.hrsa.gov\nmydata-stage.hdw.hrsa.gov\nopotxfind.hrsa.gov\nopotxfind-stage.hdw.hrsa.gov\nsearch1.hrsa.gov\nsearch.prod.hdw.hrsa.gov\nsearch.stage.hdw.hrsa.gov\nsecureapp-ddas-01.hrsa.gov\nsrtr.hrsa.gov\nsrtr-stage.hdw.hrsa.gov\nstateprofiles.hrsa.gov\nstateprofiles-stage.hdw.hrsa.gov\ntableau.hdw.hrsa.gov\ntableau.prod.hdw.hrsa.gov\ntableau-uat.hdw.hrsa.gov",
-    "id": 26551076193,
-    "entry_timestamp": "2026-05-22T13:50:55.53",
-    "not_before": "2026-05-22T12:52:24",
-    "not_after": "2026-08-20T12:52:23",
-    "serial_number": "06eacdc6e4cce763777a052abc90df8dd285",
-    "result_count": 44
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "secureapp-ddas-01.hrsa.gov",
-    "name_value": "ahrf-stage.hdw.hrsa.gov\ndata.hrsa.gov\ndata-stage.hdw.hrsa.gov\ndata-uat.hdw.hrsa.gov\ndatawarehouse.hrsa.gov\ndatawarehouse-stage.hdw.hrsa.gov\nesr.os.hrsa.gov\nesr.staging.hrsa.gov\nesr.test.hrsa.gov\nfindahealthcenter.hrsa.gov\nfindahealthcenter-stage.hdw.hrsa.gov\nfindanetwork.hrsa.gov\nfindanetwork-stage.hdw.hrsa.gov\nfindhivcare.hrsa.gov\nfindhivcare-stage.hdw.hrsa.gov\ngeocarenavigator.hrsa.gov\ngeocarenavigator-stage.hdw.hrsa.gov\ngisportal-2.staging.hrsa.gov\ngisportalha-2.staging.hrsa.gov\ngisportalha.staging.hrsa.gov\ngisportal.hrsa.gov\ngisportal.staging.hrsa.gov\nhpsafind.hrsa.gov\nhpsafind-stage.hdw.hrsa.gov\nhrsainyourstate.hrsa.gov\nhrsainyourstate-stage.hdw.hrsa.gov\nikndata-stage.hdw.hrsa.gov\nmuafind.hrsa.gov\nmuafind-stage.hdw.hrsa.gov\nmydata-stage.hdw.hrsa.gov\nopotxfind.hrsa.gov\nopotxfind-stage.hdw.hrsa.gov\nsearch1.hrsa.gov\nsearch.prod.hdw.hrsa.gov\nsearch.stage.hdw.hrsa.gov\nsecureapp-ddas-01.hrsa.gov\nsrtr.hrsa.gov\nsrtr-stage.hdw.hrsa.gov\nstateprofiles.hrsa.gov\nstateprofiles-stage.hdw.hrsa.gov\ntableau.hdw.hrsa.gov\ntableau.prod.hdw.hrsa.gov\ntableau-uat.hdw.hrsa.gov",
-    "id": 26551077350,
-    "entry_timestamp": "2026-05-22T13:50:54.829",
-    "not_before": "2026-05-22T12:52:24",
-    "not_after": "2026-08-20T12:52:23",
-    "serial_number": "06eacdc6e4cce763777a052abc90df8dd285",
-    "result_count": 44
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "secureapp-ddas-01.hrsa.gov",
-    "name_value": "ahrf-stage.hdw.hrsa.gov\ndata.hrsa.gov\ndata-stage.hdw.hrsa.gov\ndata-uat.hdw.hrsa.gov\ndatawarehouse.hrsa.gov\ndatawarehouse-stage.hdw.hrsa.gov\nesr.os.hrsa.gov\nesr.staging.hrsa.gov\nesr.test.hrsa.gov\nfindahealthcenter.hrsa.gov\nfindahealthcenter-stage.hdw.hrsa.gov\nfindanetwork.hrsa.gov\nfindanetwork-stage.hdw.hrsa.gov\nfindhivcare.hrsa.gov\nfindhivcare-stage.hdw.hrsa.gov\ngeocarenavigator.hrsa.gov\ngeocarenavigator-stage.hdw.hrsa.gov\ngisportal-2.staging.hrsa.gov\ngisportalha-2.staging.hrsa.gov\ngisportalha.staging.hrsa.gov\ngisportal.hrsa.gov\ngisportal.staging.hrsa.gov\nhpsafind.hrsa.gov\nhpsafind-stage.hdw.hrsa.gov\nhrsainyourstate.hrsa.gov\nhrsainyourstate-stage.hdw.hrsa.gov\nikndata-stage.hdw.hrsa.gov\nmuafind.hrsa.gov\nmuafind-stage.hdw.hrsa.gov\nmydata-stage.hdw.hrsa.gov\nopotxfind.hrsa.gov\nopotxfind-stage.hdw.hrsa.gov\nsearch1.hrsa.gov\nsearch.prod.hdw.hrsa.gov\nsearch.stage.hdw.hrsa.gov\nsecureapp-ddas-01.hrsa.gov\nsrtr-stage.hdw.hrsa.gov\nstateprofiles.hrsa.gov\nstateprofiles-stage.hdw.hrsa.gov\ntableau.hdw.hrsa.gov\ntableau.prod.hdw.hrsa.gov\ntableau-uat.hdw.hrsa.gov",
-    "id": 26499384424,
-    "entry_timestamp": "2026-05-20T18:55:45.53",
-    "not_before": "2026-05-20T17:57:14",
-    "not_after": "2026-08-18T17:57:13",
-    "serial_number": "05335e44f409e765f617039c4326f97f245b",
-    "result_count": 43
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "secureapp-ddas-01.hrsa.gov",
-    "name_value": "ahrf-stage.hdw.hrsa.gov\ndata.hrsa.gov\ndata-stage.hdw.hrsa.gov\ndata-uat.hdw.hrsa.gov\ndatawarehouse.hrsa.gov\ndatawarehouse-stage.hdw.hrsa.gov\nesr.os.hrsa.gov\nesr.staging.hrsa.gov\nesr.test.hrsa.gov\nfindahealthcenter.hrsa.gov\nfindahealthcenter-stage.hdw.hrsa.gov\nfindanetwork.hrsa.gov\nfindanetwork-stage.hdw.hrsa.gov\nfindhivcare.hrsa.gov\nfindhivcare-stage.hdw.hrsa.gov\ngeocarenavigator.hrsa.gov\ngeocarenavigator-stage.hdw.hrsa.gov\ngisportal-2.staging.hrsa.gov\ngisportalha-2.staging.hrsa.gov\ngisportalha.staging.hrsa.gov\ngisportal.hrsa.gov\ngisportal.staging.hrsa.gov\nhpsafind.hrsa.gov\nhpsafind-stage.hdw.hrsa.gov\nhrsainyourstate.hrsa.gov\nhrsainyourstate-stage.hdw.hrsa.gov\nikndata-stage.hdw.hrsa.gov\nmuafind.hrsa.gov\nmuafind-stage.hdw.hrsa.gov\nmydata-stage.hdw.hrsa.gov\nopotxfind.hrsa.gov\nopotxfind-stage.hdw.hrsa.gov\nsearch1.hrsa.gov\nsearch.prod.hdw.hrsa.gov\nsearch.stage.hdw.hrsa.gov\nsecureapp-ddas-01.hrsa.gov\nsrtr-stage.hdw.hrsa.gov\nstateprofiles.hrsa.gov\nstateprofiles-stage.hdw.hrsa.gov\ntableau.hdw.hrsa.gov\ntableau.prod.hdw.hrsa.gov\ntableau-uat.hdw.hrsa.gov",
-    "id": 26498489302,
-    "entry_timestamp": "2026-05-20T18:55:44.915",
-    "not_before": "2026-05-20T17:57:14",
-    "not_after": "2026-08-18T17:57:13",
-    "serial_number": "05335e44f409e765f617039c4326f97f245b",
-    "result_count": 43
   },
   {
     "issuer_ca_id": 153248,
@@ -972,30 +912,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "secureapp-ehb-01.hrsa.gov",
-    "name_value": "brsos.hrsa.gov\nbrsrsos.hrsa.gov\nbrsrsstg01.hrsa.gov\nbrssec.hrsa.gov\nbrsstg01.hrsa.gov\ndashboardext.os.hrsa.gov\ndashboardext.stg01.hrsa.gov\ndashboardext.uat.hrsa.gov\ndashboards.uat.hrsa.gov\negisos.hrsa.gov\negissec.hrsa.gov\negisstg01.hrsa.gov\nehbcmnos.hrsa.gov\nehbcmnsec.hrsa.gov\nehbcmnstg01.hrsa.gov\nehbos.hrsa.gov\nehbsec.hrsa.gov\nehbstg01.hrsa.gov\nehbuat02t01.hrsa.gov\nehbuat02t02.hrsa.gov\nehbuat02t03.hrsa.gov\nehbuat02t04.hrsa.gov\nehbuat03t01.hrsa.gov\nehbuat03t02.hrsa.gov\nehbuat03t03.hrsa.gov\nehbuat03t04.hrsa.gov\nehbuat04t01.hrsa.gov\nehbuat04t02.hrsa.gov\nehbuat04t03.hrsa.gov\nehbuat04t04.hrsa.gov\nehbuat05t01.hrsa.gov\nehbuat05t02.hrsa.gov\nehbuat05t03.hrsa.gov\nehbuat05t04.hrsa.gov\nersos.hrsa.gov\nerssec.hrsa.gov\nersstg01.hrsa.gov\nhelp.stg01.hrsa.gov\ninthubstg01.hrsa.gov\nmchbtvisdataos.hrsa.gov\nmchb.tvisdata.sec.hrsa.gov\nmchbtvisdatastg01.hrsa.gov\nmchbtvisdatauat02.hrsa.gov\nmchbtvisdatauat03.hrsa.gov\nmchbtvisdatauat04.hrsa.gov\nmchbtvisdatauat05.hrsa.gov\nmchbtvisos.hrsa.gov\nmchbtvis.sec.hrsa.gov\nmchbtvisstg01.hrsa.gov\nmchbtvisuat02.hrsa.gov\nmchbtvisuat03.hrsa.gov\nmchbtvisuat04.hrsa.gov\nmchbtvisuat05.hrsa.gov\nsecureapp-ehb-01.hrsa.gov",
-    "id": 26472952712,
-    "entry_timestamp": "2026-05-19T19:22:43.848",
-    "not_before": "2026-05-19T18:24:12",
-    "not_after": "2026-08-17T18:24:11",
-    "serial_number": "05c1b7104bf1cfdbddb91a4f0eb5f801051b",
-    "result_count": 55
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "secureapp-ehb-01.hrsa.gov",
-    "name_value": "brsos.hrsa.gov\nbrsrsos.hrsa.gov\nbrsrsstg01.hrsa.gov\nbrssec.hrsa.gov\nbrsstg01.hrsa.gov\ndashboardext.os.hrsa.gov\ndashboardext.stg01.hrsa.gov\ndashboardext.uat.hrsa.gov\ndashboards.uat.hrsa.gov\negisos.hrsa.gov\negissec.hrsa.gov\negisstg01.hrsa.gov\nehbcmnos.hrsa.gov\nehbcmnsec.hrsa.gov\nehbcmnstg01.hrsa.gov\nehbos.hrsa.gov\nehbsec.hrsa.gov\nehbstg01.hrsa.gov\nehbuat02t01.hrsa.gov\nehbuat02t02.hrsa.gov\nehbuat02t03.hrsa.gov\nehbuat02t04.hrsa.gov\nehbuat03t01.hrsa.gov\nehbuat03t02.hrsa.gov\nehbuat03t03.hrsa.gov\nehbuat03t04.hrsa.gov\nehbuat04t01.hrsa.gov\nehbuat04t02.hrsa.gov\nehbuat04t03.hrsa.gov\nehbuat04t04.hrsa.gov\nehbuat05t01.hrsa.gov\nehbuat05t02.hrsa.gov\nehbuat05t03.hrsa.gov\nehbuat05t04.hrsa.gov\nersos.hrsa.gov\nerssec.hrsa.gov\nersstg01.hrsa.gov\nhelp.stg01.hrsa.gov\ninthubstg01.hrsa.gov\nmchbtvisdataos.hrsa.gov\nmchb.tvisdata.sec.hrsa.gov\nmchbtvisdatastg01.hrsa.gov\nmchbtvisdatauat02.hrsa.gov\nmchbtvisdatauat03.hrsa.gov\nmchbtvisdatauat04.hrsa.gov\nmchbtvisdatauat05.hrsa.gov\nmchbtvisos.hrsa.gov\nmchbtvis.sec.hrsa.gov\nmchbtvisstg01.hrsa.gov\nmchbtvisuat02.hrsa.gov\nmchbtvisuat03.hrsa.gov\nmchbtvisuat04.hrsa.gov\nmchbtvisuat05.hrsa.gov\nsecureapp-ehb-01.hrsa.gov",
-    "id": 26472945554,
-    "entry_timestamp": "2026-05-19T19:22:42.785",
-    "not_before": "2026-05-19T18:24:12",
-    "not_after": "2026-08-17T18:24:11",
-    "serial_number": "05c1b7104bf1cfdbddb91a4f0eb5f801051b",
-    "result_count": 55
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "*.npdb.hrsa.gov",
@@ -1048,36 +964,12 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "secureapp-oc-01.hrsa.gov",
     "name_value": "hab.hrsa.gov\nhrsa.gov\ninjurycompensation.hrsa.gov\njobfair.hrsa.gov\nmchbgrandchallenges.hrsa.gov\nnewsroom.hrsa.gov\noptn.transplant.hrsa.gov\nsecureapp-oc-01.hrsa.gov",
-    "id": 26339253364,
-    "entry_timestamp": "2026-05-14T16:23:31.353",
-    "not_before": "2026-05-14T15:25:00",
-    "not_after": "2026-08-12T15:24:59",
-    "serial_number": "05f02a2d2bbd8e83e606d770a7e70e0ad3a2",
-    "result_count": 9
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "secureapp-oc-01.hrsa.gov",
-    "name_value": "hab.hrsa.gov\nhrsa.gov\ninjurycompensation.hrsa.gov\njobfair.hrsa.gov\nmchbgrandchallenges.hrsa.gov\nnewsroom.hrsa.gov\noptn.transplant.hrsa.gov\nsecureapp-oc-01.hrsa.gov",
     "id": 26329198942,
     "entry_timestamp": "2026-05-14T16:23:30.509",
     "not_before": "2026-05-14T15:25:00",
     "not_after": "2026-08-12T15:24:59",
     "serial_number": "05f02a2d2bbd8e83e606d770a7e70e0ad3a2",
     "result_count": 9
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "servicecenterdev.hrsa.gov",
-    "name_value": "servicecenterdev.hrsa.gov",
-    "id": 26300710273,
-    "entry_timestamp": "2026-05-13T03:59:09.727",
-    "not_before": "2026-05-13T03:00:39",
-    "not_after": "2026-08-11T03:00:38",
-    "serial_number": "052eaa92e4eb87f29aecdfdde2cd2b4f3022",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 295817,
@@ -1126,18 +1018,6 @@
     "not_after": "2026-11-26T18:25:03",
     "serial_number": "40019e1849ff90598cd803a14b1cc53e",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "servicecentertest.hrsa.gov",
-    "name_value": "servicecentertest.hrsa.gov",
-    "id": 26240388499,
-    "entry_timestamp": "2026-05-10T23:29:19.942",
-    "not_before": "2026-05-10T22:30:48",
-    "not_after": "2026-08-08T22:30:47",
-    "serial_number": "060f3f411647e5cf694a8f5c8a01a7c049e9",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 295817,
@@ -1228,18 +1108,6 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "servicecenter.hrsa.gov",
     "name_value": "servicecenter.hrsa.gov",
-    "id": 26100343240,
-    "entry_timestamp": "2026-05-05T20:59:15.031",
-    "not_before": "2026-05-05T20:00:43",
-    "not_after": "2026-08-03T20:00:42",
-    "serial_number": "064a12e3cc9e8c8ede60db107a1b3a97f18d",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "servicecenter.hrsa.gov",
-    "name_value": "servicecenter.hrsa.gov",
     "id": 26100344956,
     "entry_timestamp": "2026-05-05T20:59:13.26",
     "not_before": "2026-05-05T20:00:43",
@@ -1270,30 +1138,6 @@
     "not_after": "2026-11-20T18:25:51",
     "serial_number": "40019df9649447cfcc842b6b42764edc",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "secureapp-ddas-01.hrsa.gov",
-    "name_value": "ahrf-stage.hdw.hrsa.gov\ndata.hrsa.gov\ndata-stage.hdw.hrsa.gov\ndata-uat.hdw.hrsa.gov\ndatawarehouse.hrsa.gov\ndatawarehouse-stage.hdw.hrsa.gov\nesr.os.hrsa.gov\nesr.staging.hrsa.gov\nesr.test.hrsa.gov\nfindahealthcenter-stage.hdw.hrsa.gov\nfindanetwork-stage.hdw.hrsa.gov\nfindhivcare-stage.hdw.hrsa.gov\ngeocarenavigator.hrsa.gov\ngeocarenavigator-stage.hdw.hrsa.gov\ngisportal-2.staging.hrsa.gov\ngisportalha-2.staging.hrsa.gov\ngisportalha.staging.hrsa.gov\ngisportal.staging.hrsa.gov\nhpsafind-stage.hdw.hrsa.gov\nhrsainyourstate.hrsa.gov\nhrsainyourstate-stage.hdw.hrsa.gov\nikndata-stage.hdw.hrsa.gov\nmuafind.hrsa.gov\nmuafind-stage.hdw.hrsa.gov\nmydata-stage.hdw.hrsa.gov\nopotxfind.hrsa.gov\nopotxfind-stage.hdw.hrsa.gov\nsearch1.hrsa.gov\nsearch.prod.hdw.hrsa.gov\nsearch.stage.hdw.hrsa.gov\nsecureapp-ddas-01.hrsa.gov\nsrtr-stage.hdw.hrsa.gov\nstateprofiles-stage.hdw.hrsa.gov\ntableau.hdw.hrsa.gov\ntableau.prod.hdw.hrsa.gov\ntableau-uat.hdw.hrsa.gov",
-    "id": 26096914959,
-    "entry_timestamp": "2026-05-05T17:47:21.762",
-    "not_before": "2026-05-05T16:48:51",
-    "not_after": "2026-08-03T16:48:50",
-    "serial_number": "068cd48db9b40dec5dec6c824d69c2cf5690",
-    "result_count": 37
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "secureapp-ddas-01.hrsa.gov",
-    "name_value": "ahrf-stage.hdw.hrsa.gov\ndata.hrsa.gov\ndata-stage.hdw.hrsa.gov\ndata-uat.hdw.hrsa.gov\ndatawarehouse.hrsa.gov\ndatawarehouse-stage.hdw.hrsa.gov\nesr.os.hrsa.gov\nesr.staging.hrsa.gov\nesr.test.hrsa.gov\nfindahealthcenter-stage.hdw.hrsa.gov\nfindanetwork-stage.hdw.hrsa.gov\nfindhivcare-stage.hdw.hrsa.gov\ngeocarenavigator.hrsa.gov\ngeocarenavigator-stage.hdw.hrsa.gov\ngisportal-2.staging.hrsa.gov\ngisportalha-2.staging.hrsa.gov\ngisportalha.staging.hrsa.gov\ngisportal.staging.hrsa.gov\nhpsafind-stage.hdw.hrsa.gov\nhrsainyourstate.hrsa.gov\nhrsainyourstate-stage.hdw.hrsa.gov\nikndata-stage.hdw.hrsa.gov\nmuafind.hrsa.gov\nmuafind-stage.hdw.hrsa.gov\nmydata-stage.hdw.hrsa.gov\nopotxfind.hrsa.gov\nopotxfind-stage.hdw.hrsa.gov\nsearch1.hrsa.gov\nsearch.prod.hdw.hrsa.gov\nsearch.stage.hdw.hrsa.gov\nsecureapp-ddas-01.hrsa.gov\nsrtr-stage.hdw.hrsa.gov\nstateprofiles-stage.hdw.hrsa.gov\ntableau.hdw.hrsa.gov\ntableau.prod.hdw.hrsa.gov\ntableau-uat.hdw.hrsa.gov",
-    "id": 26096449499,
-    "entry_timestamp": "2026-05-05T17:47:21.295",
-    "not_before": "2026-05-05T16:48:51",
-    "not_after": "2026-08-03T16:48:50",
-    "serial_number": "068cd48db9b40dec5dec6c824d69c2cf5690",
-    "result_count": 37
   },
   {
     "issuer_ca_id": 185748,
@@ -1500,30 +1344,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "secureapp-ddas-01.hrsa.gov",
-    "name_value": "ahrf-stage.hdw.hrsa.gov\ndata.hrsa.gov\ndata-stage.hdw.hrsa.gov\ndata-uat.hdw.hrsa.gov\ndatawarehouse.hrsa.gov\ndatawarehouse-stage.hdw.hrsa.gov\nesr.os.hrsa.gov\nesr.staging.hrsa.gov\nesr.test.hrsa.gov\ngeocarenavigator.hrsa.gov\ngeocarenavigator-stage.hdw.hrsa.gov\ngisportal-2.staging.hrsa.gov\ngisportalha-2.staging.hrsa.gov\ngisportalha.staging.hrsa.gov\ngisportal.staging.hrsa.gov\nhrsainyourstate.hrsa.gov\nhrsainyourstate-stage.hdw.hrsa.gov\nikndata-stage.hdw.hrsa.gov\nmuafind.hrsa.gov\nmuafind-stage.hdw.hrsa.gov\nmydata-stage.hdw.hrsa.gov\nopotxfind.hrsa.gov\nopotxfind-stage.hdw.hrsa.gov\nsearch1.hrsa.gov\nsearch.prod.hdw.hrsa.gov\nsearch.stage.hdw.hrsa.gov\nsecureapp-ddas-01.hrsa.gov\nsrtr-stage.hdw.hrsa.gov\ntableau.hdw.hrsa.gov\ntableau.prod.hdw.hrsa.gov\ntableau-uat.hdw.hrsa.gov",
-    "id": 25915751629,
-    "entry_timestamp": "2026-04-29T15:38:53.396",
-    "not_before": "2026-04-29T14:40:22",
-    "not_after": "2026-07-28T14:40:21",
-    "serial_number": "0531e62e4a1a86613c8773543a079f2b69a6",
-    "result_count": 32
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "secureapp-ddas-01.hrsa.gov",
-    "name_value": "ahrf-stage.hdw.hrsa.gov\ndata.hrsa.gov\ndata-stage.hdw.hrsa.gov\ndata-uat.hdw.hrsa.gov\ndatawarehouse.hrsa.gov\ndatawarehouse-stage.hdw.hrsa.gov\nesr.os.hrsa.gov\nesr.staging.hrsa.gov\nesr.test.hrsa.gov\ngeocarenavigator.hrsa.gov\ngeocarenavigator-stage.hdw.hrsa.gov\ngisportal-2.staging.hrsa.gov\ngisportalha-2.staging.hrsa.gov\ngisportalha.staging.hrsa.gov\ngisportal.staging.hrsa.gov\nhrsainyourstate.hrsa.gov\nhrsainyourstate-stage.hdw.hrsa.gov\nikndata-stage.hdw.hrsa.gov\nmuafind.hrsa.gov\nmuafind-stage.hdw.hrsa.gov\nmydata-stage.hdw.hrsa.gov\nopotxfind.hrsa.gov\nopotxfind-stage.hdw.hrsa.gov\nsearch1.hrsa.gov\nsearch.prod.hdw.hrsa.gov\nsearch.stage.hdw.hrsa.gov\nsecureapp-ddas-01.hrsa.gov\nsrtr-stage.hdw.hrsa.gov\ntableau.hdw.hrsa.gov\ntableau.prod.hdw.hrsa.gov\ntableau-uat.hdw.hrsa.gov",
-    "id": 25915721329,
-    "entry_timestamp": "2026-04-29T15:38:52.224",
-    "not_before": "2026-04-29T14:40:22",
-    "not_after": "2026-07-28T14:40:21",
-    "serial_number": "0531e62e4a1a86613c8773543a079f2b69a6",
-    "result_count": 32
-  },
-  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "ddasagw-network01-05.hrsa.gov",
@@ -1584,30 +1404,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "www.hhs.gov",
-    "name_value": "bhw.hrsa.gov\nbloodcell.transplant.hrsa.gov\nbloodstemcell.hrsa.gov\nbphc.hrsa.gov\ncoviduninsuredclaim.hrsa.gov\nhab.hrsa.gov\njobfair.hrsa.gov\nmchbgrandchallenges.hrsa.gov\nmchb.hrsa.gov\nnewbornscreening.hrsa.gov\nnhsc.hrsa.gov\npoisonhelp.hrsa.gov\nproviderrelief.hrsa.gov\nryanwhite.hrsa.gov\nwww.bhw.hrsa.gov\nwww.bloodstemcell.hrsa.gov\nwww.bphc.hrsa.gov\nwww.coviduninsuredclaim.hrsa.gov\nwww.hab.hrsa.gov\nwww.hrsa.gov\nwww.mchb.hrsa.gov\nwww.newbornscreening.hrsa.gov\nwww.nhsc.hrsa.gov\nwww.poisonhelp.hrsa.gov\nwww.providerrelief.hrsa.gov\nwww.ryanwhite.hrsa.gov",
-    "id": 25729218450,
-    "entry_timestamp": "2026-04-21T11:32:06.125",
-    "not_before": "2026-04-21T10:33:35",
-    "not_after": "2026-07-20T10:33:34",
-    "serial_number": "06ff6a767bc04db2e491f230f8cc7ecdd8f3",
-    "result_count": 26
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "www.hhs.gov",
-    "name_value": "bhw.hrsa.gov\nbloodcell.transplant.hrsa.gov\nbloodstemcell.hrsa.gov\nbphc.hrsa.gov\ncoviduninsuredclaim.hrsa.gov\nhab.hrsa.gov\njobfair.hrsa.gov\nmchbgrandchallenges.hrsa.gov\nmchb.hrsa.gov\nnewbornscreening.hrsa.gov\nnhsc.hrsa.gov\npoisonhelp.hrsa.gov\nproviderrelief.hrsa.gov\nryanwhite.hrsa.gov\nwww.bhw.hrsa.gov\nwww.bloodstemcell.hrsa.gov\nwww.bphc.hrsa.gov\nwww.coviduninsuredclaim.hrsa.gov\nwww.hab.hrsa.gov\nwww.hrsa.gov\nwww.mchb.hrsa.gov\nwww.newbornscreening.hrsa.gov\nwww.nhsc.hrsa.gov\nwww.poisonhelp.hrsa.gov\nwww.providerrelief.hrsa.gov\nwww.ryanwhite.hrsa.gov",
-    "id": 25733601348,
-    "entry_timestamp": "2026-04-21T11:32:05.629",
-    "not_before": "2026-04-21T10:33:35",
-    "not_after": "2026-07-20T10:33:34",
-    "serial_number": "06ff6a767bc04db2e491f230f8cc7ecdd8f3",
-    "result_count": 26
-  },
-  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "gss-pklnscon-p01.hrsa.gov",
@@ -1618,54 +1414,6 @@
     "not_after": "2026-11-01T20:34:57",
     "serial_number": "40019d9801f21e395a9b4ad92ea3eaa5",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "secureapp-ddas-01.hrsa.gov",
-    "name_value": "ahrf-stage.hdw.hrsa.gov\ndata.hrsa.gov\ndata-stage.hdw.hrsa.gov\ndata-uat.hdw.hrsa.gov\ndatawarehouse.hrsa.gov\ndatawarehouse-stage.hdw.hrsa.gov\nesr.os.hrsa.gov\nesr.staging.hrsa.gov\nesr.test.hrsa.gov\ngeocarenavigator.hrsa.gov\ngeocarenavigator-stage.hdw.hrsa.gov\ngisportal-2.staging.hrsa.gov\ngisportalha-2.staging.hrsa.gov\ngisportalha.staging.hrsa.gov\ngisportal.staging.hrsa.gov\nhcsds.hrsa.gov\nhrsainyourstate.hrsa.gov\nhrsainyourstate-stage.hdw.hrsa.gov\nikndata-stage.hdw.hrsa.gov\nmuafind.hrsa.gov\nmuafind-stage.hdw.hrsa.gov\nmydata-stage.hdw.hrsa.gov\nopotxfind.hrsa.gov\nopotxfind-stage.hdw.hrsa.gov\nsearch.stage.hdw.hrsa.gov\nsecureapp-ddas-01.hrsa.gov\nsrtr-stage.hdw.hrsa.gov\ntableau-uat.hdw.hrsa.gov",
-    "id": 25965421149,
-    "entry_timestamp": "2026-04-14T21:06:19.337",
-    "not_before": "2026-04-14T20:07:48",
-    "not_after": "2026-07-13T20:07:47",
-    "serial_number": "062d63a62ec67917bda4cc766ee251e2c444",
-    "result_count": 29
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "secureapp-ddas-01.hrsa.gov",
-    "name_value": "ahrf-stage.hdw.hrsa.gov\ndata.hrsa.gov\ndata-stage.hdw.hrsa.gov\ndata-uat.hdw.hrsa.gov\ndatawarehouse.hrsa.gov\ndatawarehouse-stage.hdw.hrsa.gov\nesr.os.hrsa.gov\nesr.staging.hrsa.gov\nesr.test.hrsa.gov\ngeocarenavigator.hrsa.gov\ngeocarenavigator-stage.hdw.hrsa.gov\ngisportal-2.staging.hrsa.gov\ngisportalha-2.staging.hrsa.gov\ngisportalha.staging.hrsa.gov\ngisportal.staging.hrsa.gov\nhcsds.hrsa.gov\nhrsainyourstate.hrsa.gov\nhrsainyourstate-stage.hdw.hrsa.gov\nikndata-stage.hdw.hrsa.gov\nmuafind.hrsa.gov\nmuafind-stage.hdw.hrsa.gov\nmydata-stage.hdw.hrsa.gov\nopotxfind.hrsa.gov\nopotxfind-stage.hdw.hrsa.gov\nsearch.stage.hdw.hrsa.gov\nsecureapp-ddas-01.hrsa.gov\nsrtr-stage.hdw.hrsa.gov\ntableau-uat.hdw.hrsa.gov",
-    "id": 25542303801,
-    "entry_timestamp": "2026-04-14T21:06:18.575",
-    "not_before": "2026-04-14T20:07:48",
-    "not_after": "2026-07-13T20:07:47",
-    "serial_number": "062d63a62ec67917bda4cc766ee251e2c444",
-    "result_count": 29
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "search.usa.gov",
-    "name_value": "search.npdb.hrsa.gov",
-    "id": 25855982244,
-    "entry_timestamp": "2026-04-14T15:50:45.915",
-    "not_before": "2026-04-14T14:52:14",
-    "not_after": "2026-07-13T14:52:13",
-    "serial_number": "052e01a2e09f813e463eeba4fa6fd800f993",
-    "result_count": 1
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "search.usa.gov",
-    "name_value": "search.npdb.hrsa.gov",
-    "id": 25522046079,
-    "entry_timestamp": "2026-04-14T15:50:45.388",
-    "not_before": "2026-04-14T14:52:14",
-    "not_after": "2026-07-13T14:52:13",
-    "serial_number": "052e01a2e09f813e463eeba4fa6fd800f993",
-    "result_count": 1
   },
   {
     "issuer_ca_id": 62123,
@@ -2266,54 +2014,6 @@
     "not_after": "2027-02-10T23:59:59",
     "serial_number": "03c407a19886aa315848e5fed85b83f3",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185748,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
-    "common_name": "at3.npdb.hrsa.gov",
-    "name_value": "at3-analytics.npdb.hrsa.gov\nat3-hcpp.npdb.hrsa.gov\nat3-int.npdb.hrsa.gov\nat3-iqrs.npdb.hrsa.gov\nat3-my.npdb.hrsa.gov\nat3.npdb.hrsa.gov\nat3-sso.npdb.hrsa.gov\nat3-tracker.npdb.hrsa.gov",
-    "id": 24205133668,
-    "entry_timestamp": "2026-02-05T15:58:28.474",
-    "not_before": "2026-02-05T00:00:00",
-    "not_after": "2026-07-02T23:59:59",
-    "serial_number": "0e50a7342ae636a5ca9fe6a97ae37e4b",
-    "result_count": 9
-  },
-  {
-    "issuer_ca_id": 185748,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
-    "common_name": "at3.npdb.hrsa.gov",
-    "name_value": "at3-analytics.npdb.hrsa.gov\nat3-hcpp.npdb.hrsa.gov\nat3-int.npdb.hrsa.gov\nat3-iqrs.npdb.hrsa.gov\nat3-my.npdb.hrsa.gov\nat3.npdb.hrsa.gov\nat3-sso.npdb.hrsa.gov\nat3-tracker.npdb.hrsa.gov",
-    "id": 24203794653,
-    "entry_timestamp": "2026-02-05T14:32:14.591",
-    "not_before": "2026-02-05T00:00:00",
-    "not_after": "2026-07-02T23:59:59",
-    "serial_number": "0e50a7342ae636a5ca9fe6a97ae37e4b",
-    "result_count": 9
-  },
-  {
-    "issuer_ca_id": 185748,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
-    "common_name": "at3.npdb.hrsa.gov",
-    "name_value": "at3-analytics.npdb.hrsa.gov\nat3-hcpp.npdb.hrsa.gov\nat3-int.npdb.hrsa.gov\nat3-iqrs.npdb.hrsa.gov\nat3.npdb.hrsa.gov\nat3-sso.npdb.hrsa.gov\nat3-tracker.npdb.hrsa.gov",
-    "id": 24203746368,
-    "entry_timestamp": "2026-02-05T14:30:03.679",
-    "not_before": "2025-07-02T00:00:00",
-    "not_after": "2026-07-02T23:59:59",
-    "serial_number": "045e8364e93482a8b5e90ca2671d721f",
-    "result_count": 8
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "at3.npdb.hrsa.gov",
-    "name_value": "at3-analytics.npdb.hrsa.gov\nat3-hcpp.npdb.hrsa.gov\nat3-int.npdb.hrsa.gov\nat3-iqrs.npdb.hrsa.gov\nat3-my.npdb.hrsa.gov\nat3.npdb.hrsa.gov\nat3-sso.npdb.hrsa.gov\nat3-tracker.npdb.hrsa.gov",
-    "id": 24203748543,
-    "entry_timestamp": "2026-02-05T14:29:50.777",
-    "not_before": "2026-02-05T00:00:00",
-    "not_after": "2026-07-02T23:59:59",
-    "serial_number": "0279b953037ad01005dbc1d2c0b1f597",
-    "result_count": 9
   },
   {
     "issuer_ca_id": 153248,
@@ -4260,30 +3960,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 185748,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
-    "common_name": "at3.npdb.hrsa.gov",
-    "name_value": "at3-analytics.npdb.hrsa.gov\nat3-hcpp.npdb.hrsa.gov\nat3-int.npdb.hrsa.gov\nat3-iqrs.npdb.hrsa.gov\nat3.npdb.hrsa.gov\nat3-sso.npdb.hrsa.gov\nat3-tracker.npdb.hrsa.gov",
-    "id": 19397614477,
-    "entry_timestamp": "2025-07-02T14:40:00.285",
-    "not_before": "2025-07-02T00:00:00",
-    "not_after": "2026-07-02T23:59:59",
-    "serial_number": "045e8364e93482a8b5e90ca2671d721f",
-    "result_count": 8
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "at3.npdb.hrsa.gov",
-    "name_value": "at3-analytics.npdb.hrsa.gov\nat3-hcpp.npdb.hrsa.gov\nat3-int.npdb.hrsa.gov\nat3-iqrs.npdb.hrsa.gov\nat3.npdb.hrsa.gov\nat3-sso.npdb.hrsa.gov\nat3-tracker.npdb.hrsa.gov",
-    "id": 19397607174,
-    "entry_timestamp": "2025-07-02T14:39:04.498",
-    "not_before": "2025-07-02T00:00:00",
-    "not_after": "2026-07-01T23:59:59",
-    "serial_number": "0be488b672f5a958c24960e113081248",
-    "result_count": 8
-  },
-  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "community.hrsa.gov",
@@ -4389,78 +4065,6 @@
     "not_before": "2025-06-04T14:59:52",
     "not_after": "2026-07-04T14:58:52",
     "serial_number": "4001973b74ae9841d04ed56f3f08a4e1",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "vicpsubmit.hrsa.gov",
-    "name_value": "vicpsubmit.hrsa.gov\nwww.vicpsubmit.hrsa.gov",
-    "id": 18790358593,
-    "entry_timestamp": "2025-06-03T20:42:46.282",
-    "not_before": "2025-06-03T20:42:46",
-    "not_after": "2026-07-03T20:41:46",
-    "serial_number": "400197378842424ac1ad7db770f78775",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "cicpsubmit.hrsa.gov",
-    "name_value": "cicpsubmit.hrsa.gov\nwww.cicpsubmit.hrsa.gov",
-    "id": 18790358577,
-    "entry_timestamp": "2025-06-03T20:42:32.481",
-    "not_before": "2025-06-03T20:42:32",
-    "not_after": "2026-07-03T20:41:32",
-    "serial_number": "40019737880c3fc16b3cdb4f1c439c0c",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "mchbtvisstg01.hrsa.gov",
-    "name_value": "mchbtvisstg01.hrsa.gov\nwww.mchbtvisstg01.hrsa.gov",
-    "id": 18790309382,
-    "entry_timestamp": "2025-06-03T20:40:50.178",
-    "not_before": "2025-06-03T20:40:49",
-    "not_after": "2026-07-03T20:39:49",
-    "serial_number": "40019737867c40fc6ddccb97a7b3fc94",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "mchbtvisstg01.hrsa.gov",
-    "name_value": "mchbtvisstg01.hrsa.gov\nwww.mchbtvisstg01.hrsa.gov",
-    "id": 18789788568,
-    "entry_timestamp": "2025-06-03T16:29:15.715",
-    "not_before": "2025-06-03T16:29:15",
-    "not_after": "2026-07-03T16:28:15",
-    "serial_number": "40019736a029f4e343de18eca7b82acb",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "mchbtvisdatastg01.hrsa.gov",
-    "name_value": "mchbtvisdatastg01.hrsa.gov\nwww.mchbtvisdatastg01.hrsa.gov",
-    "id": 18789788653,
-    "entry_timestamp": "2025-06-03T16:25:41.034",
-    "not_before": "2025-06-03T16:25:40",
-    "not_after": "2026-07-03T16:24:40",
-    "serial_number": "400197369ce35cd42d048fc38016be77",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "help.stg01.hrsa.gov",
-    "name_value": "help.stg01.hrsa.gov\nwww.help.stg01.hrsa.gov",
-    "id": 18789785871,
-    "entry_timestamp": "2025-06-03T16:12:40.891",
-    "not_before": "2025-06-03T16:12:40",
-    "not_after": "2026-07-03T16:11:40",
-    "serial_number": "4001973690fbe82b6df0e61a41d0d35e",
     "result_count": 3
   }
 ]

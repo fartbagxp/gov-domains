@@ -1,5 +1,41 @@
 [
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "*.epa.gov",
+    "name_value": "*.epa.gov\nepa.gov\nhero.epa.gov\nheronetnext-rtp.epa.gov\nheronetnext-wjc.epa.gov",
+    "id": 27644086977,
+    "entry_timestamp": "2026-07-02T14:05:31.426",
+    "not_before": "2026-07-02T00:00:00",
+    "not_after": "2026-10-21T23:59:59",
+    "serial_number": "03acb763e13b39c45581bd75a1a616fa",
+    "result_count": 6
+  },
+  {
+    "issuer_ca_id": 432477,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
+    "common_name": "servicenow-dev.epa.gov",
+    "name_value": "servicenow-dev.epa.gov",
+    "id": 27579839569,
+    "entry_timestamp": "2026-06-29T23:59:22.372",
+    "not_before": "2026-06-29T23:00:51",
+    "not_after": "2026-09-27T23:00:50",
+    "serial_number": "058679aae66a6badbecd7cc1886c296dc943",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 432477,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
+    "common_name": "servicenow-dev.epa.gov",
+    "name_value": "servicenow-dev.epa.gov",
+    "id": 27579828772,
+    "entry_timestamp": "2026-06-29T23:59:21.489",
+    "not_before": "2026-06-29T23:00:51",
+    "not_after": "2026-09-27T23:00:50",
+    "serial_number": "058679aae66a6badbecd7cc1886c296dc943",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 439355,
     "issuer_name": "C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R46 DV TLS CA 2026 Q2",
     "common_name": "securefoia.epa.gov",
@@ -460,6 +496,18 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "servicenow-test.epa.gov",
     "name_value": "servicenow-test.epa.gov",
+    "id": 26447876315,
+    "entry_timestamp": "2026-05-18T20:29:56.614",
+    "not_before": "2026-05-18T19:31:25",
+    "not_after": "2026-08-16T19:31:24",
+    "serial_number": "06e0b6e5dd18cb88c4d54e33312525e7d9f9",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "servicenow-test.epa.gov",
+    "name_value": "servicenow-test.epa.gov",
     "id": 26447257015,
     "entry_timestamp": "2026-05-18T20:29:55.912",
     "not_before": "2026-05-18T19:31:25",
@@ -520,6 +568,18 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "servicenow.epa.gov",
     "name_value": "servicenow.epa.gov",
+    "id": 26304998874,
+    "entry_timestamp": "2026-05-13T07:35:35.475",
+    "not_before": "2026-05-13T06:37:04",
+    "not_after": "2026-08-11T06:37:03",
+    "serial_number": "05cb86f8c16b863216832b72c32aee2fb006",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "servicenow.epa.gov",
+    "name_value": "servicenow.epa.gov",
     "id": 26305000419,
     "entry_timestamp": "2026-05-13T07:35:34.816",
     "not_before": "2026-05-13T06:37:04",
@@ -544,11 +604,35 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "servicenow-demo.epa.gov",
     "name_value": "servicenow-demo.epa.gov",
+    "id": 26117910924,
+    "entry_timestamp": "2026-05-06T11:06:51.994",
+    "not_before": "2026-05-06T10:08:20",
+    "not_after": "2026-08-04T10:08:19",
+    "serial_number": "0644fe156053ae40bc9a9f069d5898c79994",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "servicenow-demo.epa.gov",
+    "name_value": "servicenow-demo.epa.gov",
     "id": 26117911475,
     "entry_timestamp": "2026-05-06T11:06:51.194",
     "not_before": "2026-05-06T10:08:20",
     "not_after": "2026-08-04T10:08:19",
     "serial_number": "0644fe156053ae40bc9a9f069d5898c79994",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "servicenow-dev.epa.gov",
+    "name_value": "servicenow-dev.epa.gov",
+    "id": 25957096670,
+    "entry_timestamp": "2026-04-30T22:00:00.42",
+    "not_before": "2026-04-30T21:01:29",
+    "not_after": "2026-07-29T21:01:28",
+    "serial_number": "06df12f4ca5c1f34b92f20d1f35ade84fd05",
     "result_count": 2
   },
   {
@@ -3432,54 +3516,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "iwaste.epa.gov",
-    "name_value": "iwaste.epa.gov",
-    "id": 25337800141,
-    "entry_timestamp": "2026-04-03T20:19:48.343",
-    "not_before": "2026-04-03T19:21:17",
-    "not_after": "2026-07-02T19:21:16",
-    "serial_number": "063611281c3e4ff48783a44498ca7ab858c3",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "owapps.epa.gov",
-    "name_value": "owapps.epa.gov",
-    "id": 25481533794,
-    "entry_timestamp": "2026-04-03T20:19:47.884",
-    "not_before": "2026-04-03T19:21:17",
-    "not_after": "2026-07-02T19:21:16",
-    "serial_number": "0673405e68f9c7950a4b62484138216a8a6f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "owapps.epa.gov",
-    "name_value": "owapps.epa.gov",
-    "id": 25349725234,
-    "entry_timestamp": "2026-04-03T20:19:47.531",
-    "not_before": "2026-04-03T19:21:17",
-    "not_after": "2026-07-02T19:21:16",
-    "serial_number": "0673405e68f9c7950a4b62484138216a8a6f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "iwaste.epa.gov",
-    "name_value": "iwaste.epa.gov",
-    "id": 25381242873,
-    "entry_timestamp": "2026-04-03T20:19:47.438",
-    "not_before": "2026-04-03T19:21:17",
-    "not_after": "2026-07-02T19:21:16",
-    "serial_number": "063611281c3e4ff48783a44498ca7ab858c3",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "*.rtpnc.epa.gov",
@@ -3502,30 +3538,6 @@
     "not_after": "2026-10-17T23:59:59",
     "serial_number": "08cc6ef246e4d7e9fcd7adbc3667f4af",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "easey.epa.gov",
-    "name_value": "easey.epa.gov",
-    "id": 25349829575,
-    "entry_timestamp": "2026-04-01T21:42:29.352",
-    "not_before": "2026-04-01T20:43:59",
-    "not_after": "2026-06-30T20:43:58",
-    "serial_number": "06e55c2556e2508c60d92cb7a75da545cf46",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "easey.epa.gov",
-    "name_value": "easey.epa.gov",
-    "id": 25341922432,
-    "entry_timestamp": "2026-04-01T21:42:29.139",
-    "not_before": "2026-04-01T20:43:59",
-    "not_after": "2026-06-30T20:43:58",
-    "serial_number": "06e55c2556e2508c60d92cb7a75da545cf46",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 185752,

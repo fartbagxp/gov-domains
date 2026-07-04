@@ -1,5 +1,17 @@
 [
   {
+    "issuer_ca_id": 286244,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR3",
+    "common_name": "sit-chatbot.ofspoai.hhs.gov",
+    "name_value": "sit-chatbot.ofspoai.hhs.gov",
+    "id": 27674686135,
+    "entry_timestamp": "2026-07-03T21:42:23.697",
+    "not_before": "2026-07-03T20:42:23",
+    "not_after": "2026-10-01T21:36:36",
+    "serial_number": "00b0ef2776c3a0ca8b099fe601b4c2e2a9",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 62123,
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
     "common_name": "cybertools.tech.hhs.gov",
@@ -58,18 +70,6 @@
     "not_after": "2027-01-16T18:33:58",
     "serial_number": "40019f1ef67fb80eca259ccbbff33a92",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 432476,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
-    "common_name": "develop.tanfdata.acf.hhs.gov",
-    "name_value": "develop.tanfdata.acf.hhs.gov\nstaging.auth.tanfdata.acf.hhs.gov\nstaging.tanfdata.acf.hhs.gov",
-    "id": 27622233035,
-    "entry_timestamp": "2026-07-01T16:45:56.553",
-    "not_before": "2026-07-01T15:47:25",
-    "not_after": "2026-09-29T15:47:24",
-    "serial_number": "0510897e2c276d215bab4fb26ebabeb13c51",
-    "result_count": 4
   },
   {
     "issuer_ca_id": 432476,
@@ -190,18 +190,6 @@
     "not_after": "2026-09-28T10:00:07",
     "serial_number": "052fe89f1c7a7cae169728bc15d4325b954b",
     "result_count": 12
-  },
-  {
-    "issuer_ca_id": 432476,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
-    "common_name": "productordering.cms.hhs.gov",
-    "name_value": "productordering.cms.hhs.gov",
-    "id": 27583486043,
-    "entry_timestamp": "2026-06-30T03:30:15.064",
-    "not_before": "2026-06-30T02:31:44",
-    "not_after": "2026-09-28T02:31:43",
-    "serial_number": "05cb253d9b725cffb36116ea3038a1be9f74",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 432476,
@@ -436,36 +424,12 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
     "common_name": "www.rds.cms.hhs.gov",
     "name_value": "dev.rds.cms.hhs.gov\nimp.rds.cms.hhs.gov\nrds.cms.hhs.gov\nwww.dev.rds.cms.hhs.gov\nwww.imp.rds.cms.hhs.gov\nwww.rds.cms.hhs.gov",
-    "id": 27429673887,
-    "entry_timestamp": "2026-06-23T18:33:23.028",
-    "not_before": "2026-06-23T17:34:52",
-    "not_after": "2026-09-21T17:34:51",
-    "serial_number": "052fba712c46c82df42cad2aba38faa7327c",
-    "result_count": 7
-  },
-  {
-    "issuer_ca_id": 432476,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
-    "common_name": "www.rds.cms.hhs.gov",
-    "name_value": "dev.rds.cms.hhs.gov\nimp.rds.cms.hhs.gov\nrds.cms.hhs.gov\nwww.dev.rds.cms.hhs.gov\nwww.imp.rds.cms.hhs.gov\nwww.rds.cms.hhs.gov",
     "id": 27429680892,
     "entry_timestamp": "2026-06-23T18:33:22.682",
     "not_before": "2026-06-23T17:34:52",
     "not_after": "2026-09-21T17:34:51",
     "serial_number": "052fba712c46c82df42cad2aba38faa7327c",
     "result_count": 7
-  },
-  {
-    "issuer_ca_id": 432476,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
-    "common_name": "test.tanfdata.acf.hhs.gov",
-    "name_value": "a11y.tanfdata.acf.hhs.gov\ndev.auth.tanfdata.acf.hhs.gov\nqasp.tanfdata.acf.hhs.gov\ntest.tanfdata.acf.hhs.gov",
-    "id": 27425146752,
-    "entry_timestamp": "2026-06-23T14:40:19.555",
-    "not_before": "2026-06-23T13:41:48",
-    "not_after": "2026-09-21T13:41:47",
-    "serial_number": "0576c835270f9a57da28b124e4bf06943c74",
-    "result_count": 5
   },
   {
     "issuer_ca_id": 432476,
@@ -1174,18 +1138,6 @@
     "not_after": "2026-09-05T18:32:58",
     "serial_number": "06e3242e27dcd972afe6e02b9f6721706b38",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 432476,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
-    "common_name": "tdp-frontend-develop.acf.hhs.gov",
-    "name_value": "tdp-backend-develop.acf.hhs.gov\ntdp-backend-staging.acf.hhs.gov\ntdp-frontend-develop.acf.hhs.gov\ntdp-frontend-staging.acf.hhs.gov",
-    "id": 26968326769,
-    "entry_timestamp": "2026-06-07T13:19:38.928",
-    "not_before": "2026-06-07T12:21:07",
-    "not_after": "2026-09-05T12:21:06",
-    "serial_number": "05549439bff8e4f0ae250152529a89c019cf",
-    "result_count": 5
   },
   {
     "issuer_ca_id": 432476,
@@ -2700,30 +2652,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "wecandothis.hhs.gov",
-    "name_value": "akadev-juntossipodemos.hhs.gov\nakadev-wecandothis.hhs.gov\nakaprod-juntossipodemos.hhs.gov\nakaprod-telehealth.hhs.gov\nakaprod-wecandothis.hhs.gov\nakastage-juntossipodemos.hhs.gov\nakastage-telehealth.hhs.gov\nakastage-wecandothis.hhs.gov\naspr.hhs.gov\njuntossipodemos.hhs.gov\nrisklessdomore.hhs.gov\nstratcomm.hhs.gov\ntelehealth.hhs.gov\nwecandothis.hhs.gov\nwww.aspr.hhs.gov\nwww.telehealth.hhs.gov",
-    "id": 25984264960,
-    "entry_timestamp": "2026-05-01T20:02:53.028",
-    "not_before": "2026-05-01T19:04:22",
-    "not_after": "2026-07-30T19:04:21",
-    "serial_number": "065b4c6feff33a87d638cc3cca95bda9b512",
-    "result_count": 17
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "wecandothis.hhs.gov",
-    "name_value": "akadev-juntossipodemos.hhs.gov\nakadev-wecandothis.hhs.gov\nakaprod-juntossipodemos.hhs.gov\nakaprod-telehealth.hhs.gov\nakaprod-wecandothis.hhs.gov\nakastage-juntossipodemos.hhs.gov\nakastage-telehealth.hhs.gov\nakastage-wecandothis.hhs.gov\naspr.hhs.gov\njuntossipodemos.hhs.gov\nrisklessdomore.hhs.gov\nstratcomm.hhs.gov\ntelehealth.hhs.gov\nwecandothis.hhs.gov\nwww.aspr.hhs.gov\nwww.telehealth.hhs.gov",
-    "id": 25983996282,
-    "entry_timestamp": "2026-05-01T20:02:52.31",
-    "not_before": "2026-05-01T19:04:22",
-    "not_after": "2026-07-30T19:04:21",
-    "serial_number": "065b4c6feff33a87d638cc3cca95bda9b512",
-    "result_count": 17
-  },
-  {
     "issuer_ca_id": 62123,
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
     "common_name": "www.cms.gov",
@@ -2740,48 +2668,12 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "productordering.cms.hhs.gov",
     "name_value": "productordering.cms.hhs.gov",
-    "id": 25962415833,
-    "entry_timestamp": "2026-05-01T01:29:41.333",
-    "not_before": "2026-05-01T00:31:10",
-    "not_after": "2026-07-30T00:31:09",
-    "serial_number": "05730caef6fab29b1c14897f762e0d01aba8",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "productordering.cms.hhs.gov",
-    "name_value": "productordering.cms.hhs.gov",
     "id": 25961735771,
     "entry_timestamp": "2026-05-01T01:29:40.987",
     "not_before": "2026-05-01T00:31:10",
     "not_after": "2026-07-30T00:31:09",
     "serial_number": "05730caef6fab29b1c14897f762e0d01aba8",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "wecandothis.hhs.gov",
-    "name_value": "akadev-juntossipodemos.hhs.gov\nakadev-wecandothis.hhs.gov\nakaprod-juntossipodemos.hhs.gov\nakaprod-telehealth.hhs.gov\nakaprod-wecandothis.hhs.gov\nakastage-juntossipodemos.hhs.gov\nakastage-telehealth.hhs.gov\nakastage-wecandothis.hhs.gov\naspr.hhs.gov\njuntossipodemos.hhs.gov\nrisklessdomore.hhs.gov\nstratcomm.hhs.gov\ntelehealth.hhs.gov\nwecandothis.hhs.gov\nwww.aspr.hhs.gov\nwww.telehealth.hhs.gov",
-    "id": 25948531832,
-    "entry_timestamp": "2026-04-30T16:00:27.711",
-    "not_before": "2026-04-30T15:01:56",
-    "not_after": "2026-07-29T15:01:55",
-    "serial_number": "059805a19cc755045a9d62cbcd8dac3aa2c3",
-    "result_count": 17
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "wecandothis.hhs.gov",
-    "name_value": "akadev-juntossipodemos.hhs.gov\nakadev-wecandothis.hhs.gov\nakaprod-juntossipodemos.hhs.gov\nakaprod-telehealth.hhs.gov\nakaprod-wecandothis.hhs.gov\nakastage-juntossipodemos.hhs.gov\nakastage-telehealth.hhs.gov\nakastage-wecandothis.hhs.gov\naspr.hhs.gov\njuntossipodemos.hhs.gov\nrisklessdomore.hhs.gov\nstratcomm.hhs.gov\ntelehealth.hhs.gov\nwecandothis.hhs.gov\nwww.aspr.hhs.gov\nwww.telehealth.hhs.gov",
-    "id": 25948205861,
-    "entry_timestamp": "2026-04-30T16:00:26.317",
-    "not_before": "2026-04-30T15:01:56",
-    "not_after": "2026-07-29T15:01:55",
-    "serial_number": "059805a19cc755045a9d62cbcd8dac3aa2c3",
-    "result_count": 17
   },
   {
     "issuer_ca_id": 247119,
@@ -3144,30 +3036,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "www.hhs.gov",
-    "name_value": "akaprod-www.hhs.gov\napi.digitalmedia.hhs.gov\nbeta-intranet.hhs.gov\ncareers.hhs.gov\ndcdservicedesk.hhs.gov\ndigitalmedia.hhs.gov\nintranet.hhs.gov\nstage-api.digitalmedia.hhs.gov\nstage-digitalmedia.hhs.gov\nstage-intranet.cloud.hhs.gov\nwww.hhs.gov",
-    "id": 25729218450,
-    "entry_timestamp": "2026-04-21T11:32:06.125",
-    "not_before": "2026-04-21T10:33:35",
-    "not_after": "2026-07-20T10:33:34",
-    "serial_number": "06ff6a767bc04db2e491f230f8cc7ecdd8f3",
-    "result_count": 12
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "www.hhs.gov",
-    "name_value": "akaprod-www.hhs.gov\napi.digitalmedia.hhs.gov\nbeta-intranet.hhs.gov\ncareers.hhs.gov\ndcdservicedesk.hhs.gov\ndigitalmedia.hhs.gov\nintranet.hhs.gov\nstage-api.digitalmedia.hhs.gov\nstage-digitalmedia.hhs.gov\nstage-intranet.cloud.hhs.gov\nwww.hhs.gov",
-    "id": 25733601348,
-    "entry_timestamp": "2026-04-21T11:32:05.629",
-    "not_before": "2026-04-21T10:33:35",
-    "not_after": "2026-07-20T10:33:34",
-    "serial_number": "06ff6a767bc04db2e491f230f8cc7ecdd8f3",
-    "result_count": 12
-  },
-  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "cccm-thinkculturalhealth-qc.thinkculturalhealth.hhs.gov",
@@ -3177,18 +3045,6 @@
     "not_before": "2026-04-20T16:00:11",
     "not_after": "2026-11-05T15:59:11",
     "serial_number": "40019dab9eea3bb8e52d2a02e0f7c175",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "asaconnecthubtest.hhs.gov",
-    "name_value": "asaconnecthubtest.hhs.gov",
-    "id": 26049360269,
-    "entry_timestamp": "2026-04-18T09:04:36.856",
-    "not_before": "2026-04-18T08:06:06",
-    "not_after": "2026-07-17T08:06:05",
-    "serial_number": "0563d038b79c3eda06f1ab3d496b0c31a0d7",
     "result_count": 2
   },
   {
