@@ -1,5 +1,41 @@
 [
   {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "ci.protectivedns.cisa.gov",
+    "name_value": "*.ci.protectivedns.cisa.gov\nci.protectivedns.cisa.gov",
+    "id": 27697548926,
+    "entry_timestamp": "2026-07-05T00:03:01.306",
+    "not_before": "2026-07-05T00:00:00",
+    "not_after": "2027-01-18T23:59:59",
+    "serial_number": "0580524d691244937a7886be8ef307fd",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "uat.cisa.gov",
+    "name_value": "*.uat.cisa.gov\nuat.cisa.gov",
+    "id": 27690077160,
+    "entry_timestamp": "2026-07-04T15:30:22.898",
+    "not_before": "2026-07-04T14:30:22",
+    "not_after": "2026-10-02T15:30:16",
+    "serial_number": "5bb5a51a6bfd30bf13ecc1961f5cde1d",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "uat.cisa.gov",
+    "name_value": "*.uat.cisa.gov\nuat.cisa.gov",
+    "id": 27690071186,
+    "entry_timestamp": "2026-07-04T15:30:10.947",
+    "not_before": "2026-07-04T14:30:10",
+    "not_after": "2026-10-02T15:26:29",
+    "serial_number": "009483c6024e7e477f13d193df4cc2a3a7",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 432476,
     "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
     "common_name": "myservices.cisa.gov",
@@ -850,30 +886,6 @@
     "not_after": "2026-10-21T23:59:59",
     "serial_number": "0d49d831ade233f92e2053a009fc7081",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "*.gateway.cisa.gov",
-    "name_value": "*.development.gateway.cisa.gov\n*.gateway.cisa.gov",
-    "id": 25493650671,
-    "entry_timestamp": "2026-04-04T18:42:09.775",
-    "not_before": "2026-04-04T17:42:09",
-    "not_after": "2026-07-03T18:42:06",
-    "serial_number": "74f991bc078ec0e50e1e2aa2931965c6",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "*.gateway.cisa.gov",
-    "name_value": "*.development.gateway.cisa.gov\n*.gateway.cisa.gov",
-    "id": 25522089131,
-    "entry_timestamp": "2026-04-04T18:42:01.112",
-    "not_before": "2026-04-04T17:42:00",
-    "not_after": "2026-07-03T18:39:38",
-    "serial_number": "00ee0d846db2de0bc6136bba9783cf6fd3",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 185748,

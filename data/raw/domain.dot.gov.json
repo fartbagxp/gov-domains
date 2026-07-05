@@ -1,5 +1,17 @@
 [
   {
+    "issuer_ca_id": 439355,
+    "issuer_name": "C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R46 DV TLS CA 2026 Q2",
+    "common_name": "imperva.com",
+    "name_value": "securefoia.dot.gov",
+    "id": 27703414856,
+    "entry_timestamp": "2026-07-05T06:43:52.118",
+    "not_before": "2026-07-05T06:43:49",
+    "not_after": "2026-07-06T06:42:50",
+    "serial_number": "01a2be4d6c58137a3fc36118fcd0389b",
+    "result_count": 1
+  },
+  {
     "issuer_ca_id": 432477,
     "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
     "common_name": "ocioclientcenter.dot.gov",
@@ -741,18 +753,6 @@
     "not_before": "2026-06-02T00:00:00",
     "not_after": "2026-12-17T23:59:59",
     "serial_number": "009efcf7bd6c5eaf63762b8095f4b16749",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286244,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR3",
-    "common_name": "learn-google.dot.gov",
-    "name_value": "learn-google.dot.gov",
-    "id": 26819852330,
-    "entry_timestamp": "2026-06-02T06:27:54.299",
-    "not_before": "2026-04-05T20:03:49",
-    "not_after": "2026-07-04T20:55:01",
-    "serial_number": "00a0817d20aed0fe3112949ce9aa2656d6",
     "result_count": 2
   },
   {
@@ -3526,30 +3526,6 @@
     "not_after": "2026-10-21T23:59:59",
     "serial_number": "00a7ba4fa1065f27b1af3a8eacf16565ce",
     "result_count": 4
-  },
-  {
-    "issuer_ca_id": 286244,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR3",
-    "common_name": "learngoogle.dot.gov",
-    "name_value": "learngoogle.dot.gov",
-    "id": 25537163695,
-    "entry_timestamp": "2026-04-05T21:08:16.18",
-    "not_before": "2026-04-05T20:08:15",
-    "not_after": "2026-07-04T20:56:05",
-    "serial_number": "00cdca37d01b087dbe0ae77823c9f9ca68",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 286244,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR3",
-    "common_name": "learn-google.dot.gov",
-    "name_value": "learn-google.dot.gov",
-    "id": 25587629213,
-    "entry_timestamp": "2026-04-05T21:03:50.016",
-    "not_before": "2026-04-05T20:03:49",
-    "not_after": "2026-07-04T20:55:01",
-    "serial_number": "00a0817d20aed0fe3112949ce9aa2656d6",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 185752,
@@ -11534,30 +11510,6 @@
   {
     "issuer_ca_id": 385511,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing ECC CA 2",
-    "common_name": "external.phmsa.dot.gov",
-    "name_value": "authstaging.phmsa.dot.gov\nexternal.phmsa.dot.gov\nhazmatonlinedevtest.phmsa.dot.gov\nia-content.phmsa.dot.gov\nia-content-stage.phmsa.dot.gov\nia-sync.phmsa.dot.gov\nia-sync-stage.phmsa.dot.gov\nia-training.phmsa.dot.gov\nnpmsdr.phmsa.dot.gov\nopsweb.phmsa.dot.gov\nphmhqnwas005.phmsa.dot.gov\nphmsaservicesdr.phmsa.dot.gov\nphmsaservices.phmsa.dot.gov\nphmsaservicesuat.phmsa.dot.gov\nphmsatv.ad.dot.gov\nportaldev.phmsa.dot.gov\nportaldr.phmsa.dot.gov\nportal.phmsa.dot.gov\nportalpublic.phmsa.dot.gov\nppsapprod.phmsa.dot.gov\nprimis-dr.phmsa.dot.gov\nprimis-meetings.phmsa.dot.gov\nprimis-meetings-stage.phmsa.dot.gov\nprimis.phmsa.dot.gov\nprimis-rdmis.phmsa.dot.gov\nprimis-rdmis-stage.phmsa.dot.gov\nprimis-rdmis-uat.phmsa.dot.gov\nprimis-stage.phmsa.dot.gov\nprimis-test.phmsa.dot.gov\nprimis-transfer.phmsa.dot.gov\nprimis-uat.phmsa.dot.gov\npvnpms.phmsa.dot.gov\nsftp1.phmsa.dot.gov\nwww.npms.phmsa.dot.gov",
-    "id": 19424222556,
-    "entry_timestamp": "2025-07-03T17:03:44.322",
-    "not_before": "2025-07-03T00:00:00",
-    "not_after": "2026-07-03T23:59:59",
-    "serial_number": "38a2b1166897c687daae7bbc2d19bb1b",
-    "result_count": 35
-  },
-  {
-    "issuer_ca_id": 385511,
-    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing ECC CA 2",
-    "common_name": "external.phmsa.dot.gov",
-    "name_value": "authstaging.phmsa.dot.gov\nexternal.phmsa.dot.gov\nhazmatonlinedevtest.phmsa.dot.gov\nia-content.phmsa.dot.gov\nia-content-stage.phmsa.dot.gov\nia-sync.phmsa.dot.gov\nia-sync-stage.phmsa.dot.gov\nia-training.phmsa.dot.gov\nnpmsdr.phmsa.dot.gov\nopsweb.phmsa.dot.gov\nphmhqnwas005.phmsa.dot.gov\nphmsaservicesdr.phmsa.dot.gov\nphmsaservices.phmsa.dot.gov\nphmsaservicesuat.phmsa.dot.gov\nphmsatv.ad.dot.gov\nportaldev.phmsa.dot.gov\nportaldr.phmsa.dot.gov\nportal.phmsa.dot.gov\nportalpublic.phmsa.dot.gov\nppsapprod.phmsa.dot.gov\nprimis-dr.phmsa.dot.gov\nprimis-meetings.phmsa.dot.gov\nprimis-meetings-stage.phmsa.dot.gov\nprimis.phmsa.dot.gov\nprimis-rdmis.phmsa.dot.gov\nprimis-rdmis-stage.phmsa.dot.gov\nprimis-rdmis-uat.phmsa.dot.gov\nprimis-stage.phmsa.dot.gov\nprimis-test.phmsa.dot.gov\nprimis-transfer.phmsa.dot.gov\nprimis-uat.phmsa.dot.gov\npvnpms.phmsa.dot.gov\nsftp1.phmsa.dot.gov\nwww.npms.phmsa.dot.gov",
-    "id": 19424222476,
-    "entry_timestamp": "2025-07-03T17:03:41.691",
-    "not_before": "2025-07-03T00:00:00",
-    "not_after": "2026-07-03T23:59:59",
-    "serial_number": "38a2b1166897c687daae7bbc2d19bb1b",
-    "result_count": 35
-  },
-  {
-    "issuer_ca_id": 385511,
-    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing ECC CA 2",
     "common_name": "TSMART.VOLPE.DOT.GOV",
     "name_value": "TSMART.VOLPE.DOT.GOV\nwww.TSMART.VOLPE.DOT.GOV",
     "id": 19423771953,
@@ -11578,54 +11530,6 @@
     "not_after": "2026-08-01T23:59:59",
     "serial_number": "30c43e1e8de4c6f3bd7009238245a3a8",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 385511,
-    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing ECC CA 2",
-    "common_name": "external.phmsa.dot.gov",
-    "name_value": "external.phmsa.dot.gov\nprimis-dr.phmsa.dot.gov\nprimis-rdmis.phmsa.dot.gov\nprimis-rdmis-stage.phmsa.dot.gov\nprimis-rdmis-uat.phmsa.dot.gov\nwww.EXTERNAL.PHMSA.DOT.GOV",
-    "id": 19423313695,
-    "entry_timestamp": "2025-07-03T16:27:34.272",
-    "not_before": "2025-07-03T00:00:00",
-    "not_after": "2026-07-03T23:59:59",
-    "serial_number": "00c11433731779980cabb602942accab4c",
-    "result_count": 7
-  },
-  {
-    "issuer_ca_id": 385511,
-    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing ECC CA 2",
-    "common_name": "external.phmsa.dot.gov",
-    "name_value": "external.phmsa.dot.gov\nprimis-dr.phmsa.dot.gov\nprimis-rdmis.phmsa.dot.gov\nprimis-rdmis-stage.phmsa.dot.gov\nprimis-rdmis-uat.phmsa.dot.gov\nwww.EXTERNAL.PHMSA.DOT.GOV",
-    "id": 19423313688,
-    "entry_timestamp": "2025-07-03T16:27:32.808",
-    "not_before": "2025-07-03T00:00:00",
-    "not_after": "2026-07-03T23:59:59",
-    "serial_number": "00c11433731779980cabb602942accab4c",
-    "result_count": 7
-  },
-  {
-    "issuer_ca_id": 385511,
-    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing ECC CA 2",
-    "common_name": "external.phmsa.dot.gov",
-    "name_value": "external.phmsa.dot.gov\nprimis-dr.phmsa.dot.gov\nprimis-rdmis.phmsa.dot.gov\nprimis-rdmis-stage.phmsa.dot.gov\nprimis-rdmis-uat.phmsa.dot.gov\nwww.EXTERNAL.PHMSA.DOT.GOV",
-    "id": 19423278684,
-    "entry_timestamp": "2025-07-03T16:27:16.053",
-    "not_before": "2025-07-03T00:00:00",
-    "not_after": "2026-07-03T23:59:59",
-    "serial_number": "4c21656a56118ed9c59d8f2f516961cc",
-    "result_count": 7
-  },
-  {
-    "issuer_ca_id": 385511,
-    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing ECC CA 2",
-    "common_name": "external.phmsa.dot.gov",
-    "name_value": "external.phmsa.dot.gov\nprimis-dr.phmsa.dot.gov\nprimis-rdmis.phmsa.dot.gov\nprimis-rdmis-stage.phmsa.dot.gov\nprimis-rdmis-uat.phmsa.dot.gov\nwww.EXTERNAL.PHMSA.DOT.GOV",
-    "id": 19423279078,
-    "entry_timestamp": "2025-07-03T16:27:14.609",
-    "not_before": "2025-07-03T00:00:00",
-    "not_after": "2026-07-03T23:59:59",
-    "serial_number": "4c21656a56118ed9c59d8f2f516961cc",
-    "result_count": 7
   },
   {
     "issuer_ca_id": 385512,
