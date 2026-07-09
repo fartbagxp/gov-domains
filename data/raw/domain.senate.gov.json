@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 185748,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
+    "common_name": "*.senate.gov",
+    "name_value": "*.senate.gov\nsenate.gov",
+    "id": 27719338778,
+    "entry_timestamp": "2026-07-06T00:05:30.196",
+    "not_before": "2026-07-06T00:00:00",
+    "not_after": "2027-01-20T23:59:59",
+    "serial_number": "01a3b29c00b15f976af643b49d89f612",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "*.senate.gov",
+    "name_value": "*.senate.gov\nsenate.gov",
+    "id": 27719290525,
+    "entry_timestamp": "2026-07-06T00:03:45.754",
+    "not_before": "2026-07-06T00:00:00",
+    "not_after": "2027-01-20T23:59:59",
+    "serial_number": "041c0a5cf5fd6a2af984e1749611993d",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 176211,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2",
     "common_name": "mac.senate.gov",
@@ -1017,30 +1041,6 @@
     "not_before": "2026-04-14T01:24:24",
     "not_after": "2026-07-13T01:24:23",
     "serial_number": "056b861aa417c0da9d57d595c478618dd7f2",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "adfs.senate.gov",
-    "name_value": "adfs.senate.gov",
-    "id": 25463055354,
-    "entry_timestamp": "2026-04-09T17:49:37.33",
-    "not_before": "2026-04-09T16:51:06",
-    "not_after": "2026-07-08T16:51:05",
-    "serial_number": "06a7f30ae0f4524e375936fd47f4357433f3",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "adfs.senate.gov",
-    "name_value": "adfs.senate.gov",
-    "id": 25472961863,
-    "entry_timestamp": "2026-04-09T17:49:37.023",
-    "not_before": "2026-04-09T16:51:06",
-    "not_after": "2026-07-08T16:51:05",
-    "serial_number": "06a7f30ae0f4524e375936fd47f4357433f3",
     "result_count": 2
   },
   {
@@ -3552,18 +3552,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "Jointdocs.senate.gov",
-    "name_value": "Jointdocs2.senate.gov\nJointdocs.senate.gov",
-    "id": 19550005491,
-    "entry_timestamp": "2025-07-09T13:03:20.227",
-    "not_before": "2025-07-09T00:00:00",
-    "not_after": "2026-07-08T23:59:59",
-    "serial_number": "0957843cf2bcbd121f097a44a44ce451",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 176211,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2",
     "common_name": "mac.senate.gov",
@@ -3590,30 +3578,6 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "*.apps.l-fmis.senate.gov",
-    "name_value": "*.apps.l-fmis.senate.gov",
-    "id": 19508192744,
-    "entry_timestamp": "2025-07-07T12:39:35.603",
-    "not_before": "2025-07-07T00:00:00",
-    "not_after": "2026-07-06T23:59:59",
-    "serial_number": "02d26785c4d82925ed3d32a652d04e19",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "*.apps.s-fmis.senate.gov",
-    "name_value": "*.apps.s-fmis.senate.gov",
-    "id": 19507980242,
-    "entry_timestamp": "2025-07-07T12:26:15.887",
-    "not_before": "2025-07-07T00:00:00",
-    "not_after": "2026-07-06T23:59:59",
-    "serial_number": "08879f428bd47526a834a7b2f11d88f2",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "P-LIS-ATS2-P.senate.ussenate.us",
     "name_value": "ats.senate.gov",
     "id": 19076966456,
@@ -3622,18 +3586,6 @@
     "not_after": "2026-07-10T23:59:59",
     "serial_number": "07af36054ef4f1b5db950b388f65996a",
     "result_count": 1
-  },
-  {
-    "issuer_ca_id": 176211,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2",
-    "common_name": "sara-lab.senate.gov",
-    "name_value": "sara-lab.senate.gov",
-    "id": 18939332973,
-    "entry_timestamp": "2025-06-10T17:08:34.434",
-    "not_before": "2025-06-10T00:00:00",
-    "not_after": "2026-07-07T23:59:59",
-    "serial_number": "022443c2dde1f6711ec4a10b4c698093",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 176211,
