@@ -1,5 +1,41 @@
 [
   {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "www.tsp.gov",
+    "name_value": "beta.tsp.gov\nmyaccount.tsp.gov\nprod-tsp.sandd.tsp.gov\nsecure.tsp.gov\ntsp.gov\nwww.tsp.gov",
+    "id": 27443036152,
+    "entry_timestamp": "2026-06-24T06:57:55.555",
+    "not_before": "2026-04-29T00:00:00",
+    "not_after": "2026-11-13T23:59:59",
+    "serial_number": "0813d088c8230b62296da3c9a3e9dd76",
+    "result_count": 7
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "tsp.gov",
+    "name_value": "*.tsp.gov\ntsp.gov",
+    "id": 27443039130,
+    "entry_timestamp": "2026-06-24T06:56:51.213",
+    "not_before": "2026-06-24T05:56:50",
+    "not_after": "2026-09-22T06:56:46",
+    "serial_number": "00d460651800ab800b0e79278d8e04bd90",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "tsp.gov",
+    "name_value": "*.tsp.gov\ntsp.gov",
+    "id": 27443028786,
+    "entry_timestamp": "2026-06-24T06:56:40.385",
+    "not_before": "2026-06-24T05:56:39",
+    "not_after": "2026-09-22T06:54:16",
+    "serial_number": "12a9137378f82c8b0eee6e0595624ea4",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 432477,
     "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
     "common_name": "san1.govdelivery.com",
