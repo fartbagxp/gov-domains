@@ -1,5 +1,101 @@
 [
   {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "beta.veterans.certify.sba.gov",
+    "name_value": "beta.mailer.veterans.certify.sba.gov\nbeta.rulesengine.veterans.certify.sba.gov\n*.beta.veterans.certify.sba.gov\nbeta.veterans.certify.sba.gov",
+    "id": 27867722465,
+    "entry_timestamp": "2026-07-12T04:50:26.023",
+    "not_before": "2026-07-12T00:00:00",
+    "not_after": "2027-01-25T23:59:59",
+    "serial_number": "0c5cffd5a5f8975842a722ab820f3491",
+    "result_count": 5
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "sandbox.veterans.certify.sba.gov",
+    "name_value": "sandbox.mailer.veterans.certify.sba.gov\nsandbox.rulesengine.veterans.certify.sba.gov\n*.sandbox.veterans.certify.sba.gov\nsandbox.veterans.certify.sba.gov",
+    "id": 27863615591,
+    "entry_timestamp": "2026-07-12T00:10:18.521",
+    "not_before": "2026-07-12T00:00:00",
+    "not_after": "2027-01-25T23:59:59",
+    "serial_number": "0a0cdeb4176bcaf306b90ea1ede2de9a",
+    "result_count": 5
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "sandbox.veterans.certify.sba.gov",
+    "name_value": "sandbox.mailer.veterans.certify.sba.gov\nsandbox.rulesengine.veterans.certify.sba.gov\n*.sandbox.veterans.certify.sba.gov\nsandbox.veterans.certify.sba.gov",
+    "id": 27822075231,
+    "entry_timestamp": "2026-07-10T04:13:43.12",
+    "not_before": "2026-07-10T00:00:00",
+    "not_after": "2027-01-23T23:59:59",
+    "serial_number": "011379955653633e024754adf2ff9583",
+    "result_count": 5
+  },
+  {
+    "issuer_ca_id": 432476,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
+    "common_name": "login.sba.gov",
+    "name_value": "login.sba.gov",
+    "id": 27820283033,
+    "entry_timestamp": "2026-07-10T02:22:56.644",
+    "not_before": "2026-07-10T01:24:25",
+    "not_after": "2026-10-08T01:24:24",
+    "serial_number": "05f2d58b6c78650157e091cd1ba3af7d808b",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 432476,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
+    "common_name": "login.sba.gov",
+    "name_value": "login.sba.gov",
+    "id": 27820288535,
+    "entry_timestamp": "2026-07-10T02:22:55.574",
+    "not_before": "2026-07-10T01:24:25",
+    "not_after": "2026-10-08T01:24:24",
+    "serial_number": "05f2d58b6c78650157e091cd1ba3af7d808b",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "data.sba.gov",
+    "name_value": "*.data.sba.gov\ndata.sba.gov",
+    "id": 27815846788,
+    "entry_timestamp": "2026-07-09T22:08:46.202",
+    "not_before": "2026-07-09T00:00:00",
+    "not_after": "2027-01-22T23:59:59",
+    "serial_number": "0f3b054359fba3d9912d6e4f1a64c019",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "data.sba.gov",
+    "name_value": "*.data.sba.gov\ndata.sba.gov",
+    "id": 27814878163,
+    "entry_timestamp": "2026-07-09T21:11:56.464",
+    "not_before": "2026-07-09T00:00:00",
+    "not_after": "2027-01-22T23:59:59",
+    "serial_number": "0214a1e2b9ffaf2b7754b3b9d5efe0b2",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "data.sba.gov",
+    "name_value": "*.data.sba.gov\ndata.sba.gov",
+    "id": 27814847791,
+    "entry_timestamp": "2026-07-09T21:10:42.807",
+    "not_before": "2026-07-09T00:00:00",
+    "not_after": "2027-01-22T23:59:59",
+    "serial_number": "0f3b054359fba3d9912d6e4f1a64c019",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "delta.lending.sba.gov",
@@ -2844,30 +2940,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "test.vmsseclx9certs.sba.gov",
-    "name_value": "test2.vmsseclx9certs.sba.gov\ntest.vmsseclx9certs.sba.gov\nwww.test2.vmsseclx9certs.sba.gov\nwww.test.vmsseclx9certs.sba.gov",
-    "id": 25861681638,
-    "entry_timestamp": "2026-04-11T16:06:23.43",
-    "not_before": "2026-04-11T15:07:52",
-    "not_after": "2026-07-10T15:07:51",
-    "serial_number": "0520cd3d3f6da0db30c1ebc01778888228e9",
-    "result_count": 5
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "test.vmsseclx9certs.sba.gov",
-    "name_value": "test2.vmsseclx9certs.sba.gov\ntest.vmsseclx9certs.sba.gov\nwww.test2.vmsseclx9certs.sba.gov\nwww.test.vmsseclx9certs.sba.gov",
-    "id": 25500107727,
-    "entry_timestamp": "2026-04-11T16:06:22.484",
-    "not_before": "2026-04-11T15:07:52",
-    "not_after": "2026-07-10T15:07:51",
-    "serial_number": "0520cd3d3f6da0db30c1ebc01778888228e9",
-    "result_count": 5
-  },
-  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "hotfix.lender.sba.gov",
@@ -2938,54 +3010,6 @@
     "not_after": "2026-10-24T23:59:59",
     "serial_number": "071c285c195bc071919abf249235a164",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "pal-test.sba.gov",
-    "name_value": "pal-test.sba.gov\nwww.pal-test.sba.gov",
-    "id": 25739423303,
-    "entry_timestamp": "2026-04-10T17:06:26.665",
-    "not_before": "2026-04-10T16:07:55",
-    "not_after": "2026-07-09T16:07:54",
-    "serial_number": "0561d77c75fbeb5342c74633f0ba4e104dd1",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "pal-test.sba.gov",
-    "name_value": "pal-test.sba.gov\nwww.pal-test.sba.gov",
-    "id": 25463638169,
-    "entry_timestamp": "2026-04-10T17:06:26.329",
-    "not_before": "2026-04-10T16:07:55",
-    "not_after": "2026-07-09T16:07:54",
-    "serial_number": "0561d77c75fbeb5342c74633f0ba4e104dd1",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "foiaxpress-test.sba.gov",
-    "name_value": "foiaxpress-test.sba.gov\nwww.foiaxpress-test.sba.gov",
-    "id": 25522160770,
-    "entry_timestamp": "2026-04-10T17:03:44.333",
-    "not_before": "2026-04-10T16:05:13",
-    "not_after": "2026-07-09T16:05:12",
-    "serial_number": "06db36cad465ca551a52359672aed538fd8a",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "foiaxpress-test.sba.gov",
-    "name_value": "foiaxpress-test.sba.gov\nwww.foiaxpress-test.sba.gov",
-    "id": 25486229876,
-    "entry_timestamp": "2026-04-10T17:03:43.709",
-    "not_before": "2026-04-10T16:05:13",
-    "not_after": "2026-07-09T16:05:12",
-    "serial_number": "06db36cad465ca551a52359672aed538fd8a",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 246719,
@@ -5853,18 +5877,6 @@
     "not_before": "2025-08-08T00:00:00",
     "not_after": "2026-08-28T23:59:59",
     "serial_number": "076dd62cb28c2a81d2344e1a8d9dd671",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "sba.gov",
-    "name_value": "sba.gov",
-    "id": 20201999889,
-    "entry_timestamp": "2025-08-08T13:37:36.868",
-    "not_before": "2025-08-08T00:00:00",
-    "not_after": "2026-07-08T23:59:59",
-    "serial_number": "0256050200a50bd751c17865d9685fd2",
     "result_count": 2
   },
   {

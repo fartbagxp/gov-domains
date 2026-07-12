@@ -1,5 +1,53 @@
 [
   {
+    "issuer_ca_id": 432477,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
+    "common_name": "www.dol.gov",
+    "name_value": "api.bls.gov\ndata.bls.gov",
+    "id": 27789533461,
+    "entry_timestamp": "2026-07-08T20:20:12.945",
+    "not_before": "2026-07-08T19:21:42",
+    "not_after": "2026-10-06T19:21:41",
+    "serial_number": "05e8d4199d6abf5243f4b71520cfadf06c2b",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 432477,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
+    "common_name": "www.dol.gov",
+    "name_value": "api.bls.gov\ndata.bls.gov",
+    "id": 27789534419,
+    "entry_timestamp": "2026-07-08T20:20:12.376",
+    "not_before": "2026-07-08T19:21:42",
+    "not_after": "2026-10-06T19:21:41",
+    "serial_number": "05e8d4199d6abf5243f4b71520cfadf06c2b",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "ceswebdev.psb.bls.gov",
+    "name_value": "ceswebdev.psb.bls.gov\nwww.ceswebdev.psb.bls.gov",
+    "id": 27787788446,
+    "entry_timestamp": "2026-07-08T18:27:27.457",
+    "not_before": "2026-07-08T00:00:00",
+    "not_after": "2027-01-22T23:59:59",
+    "serial_number": "00deef3e1b98e39477d99c604963ec358d",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "ceswebdev.psb.bls.gov",
+    "name_value": "ceswebdev.psb.bls.gov\nwww.ceswebdev.psb.bls.gov",
+    "id": 27787786802,
+    "entry_timestamp": "2026-07-08T18:27:25.383",
+    "not_before": "2026-07-08T00:00:00",
+    "not_after": "2027-01-22T23:59:59",
+    "serial_number": "00deef3e1b98e39477d99c604963ec358d",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 385512,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
     "common_name": "cfsaceis04.psb.bls.gov",
@@ -2338,17 +2386,5 @@
     "not_after": "2026-07-16T04:00:00",
     "serial_number": "192c7b67ccf3857003220a07d4d513f2",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "statesmail.bls.gov",
-    "name_value": "*.osh.bls.gov\n*.states.bls.gov\nstates.bls.gov\nstatesmail.bls.gov",
-    "id": 18978942269,
-    "entry_timestamp": "2025-06-12T14:47:21.926",
-    "not_before": "2025-06-12T14:37:20",
-    "not_after": "2026-07-12T04:00:00",
-    "serial_number": "5a915db2a7e2f42a047015d68149ae35",
-    "result_count": 5
   }
 ]
