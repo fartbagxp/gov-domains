@@ -1,5 +1,65 @@
 [
   {
+    "issuer_ca_id": 62123,
+    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
+    "common_name": "www.healthcare.gov",
+    "name_value": "aca.api.healthcare.gov\napi.finder.healthcare.gov\nbilling.healthcare.gov\ncompanyprofiles.healthcare.gov\ndata.healthcare.gov\nedit.data.healthcare.gov\nfinder.healthcare.gov\ngeo.api.healthcare.gov\ngo.healthcare.gov\nhealthcare.gov\nlocalhelp.healthcare.gov\nlogin.healthcare.gov\nmarketplace.api.healthcare.gov\nmarketplace-int.api.healthcare.gov\nprodprime.healthcare.gov\nratereview.healthcare.gov\nsignup.healthcare.gov\nstatus.healthcare.gov\nwww.healthcare.gov",
+    "id": 27890421684,
+    "entry_timestamp": "2026-07-13T04:58:28.503",
+    "not_before": "2026-06-06T00:00:00",
+    "not_after": "2026-12-21T23:59:59",
+    "serial_number": "074cabb85deff58f225eb9b7ffd32aa8",
+    "result_count": 20
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "preview.healthcare.gov",
+    "name_value": "preview.healthcare.gov",
+    "id": 27889852905,
+    "entry_timestamp": "2026-07-13T04:25:33.028",
+    "not_before": "2026-07-13T00:00:00",
+    "not_after": "2027-01-26T23:59:59",
+    "serial_number": "078681bc08bdee7ec53846a6e4bbd846",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "www.healthcare.gov.impl.warp.backends.cms.gov",
+    "name_value": "healthcare.gov\nwww.healthcare.gov.impl.warp.backends.cms.gov",
+    "id": 27889435191,
+    "entry_timestamp": "2026-07-13T04:02:07.553",
+    "not_before": "2026-07-13T00:00:00",
+    "not_after": "2027-01-26T23:59:59",
+    "serial_number": "0c9b689a8e038a18d7c813a2522ef8b6",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185748,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
+    "common_name": "test4.healthcare.gov",
+    "name_value": "dev1.fdai.healthcare.gov\ndev.dashboard.healthcare.gov\ndev.fdai.healthcare.gov\nedit.dev.healthcare.gov\nedit.imp.healthcare.gov\nedit.test.healthcare.gov\nimp2b.healthcare.gov\nimp3.healthcare.gov\nimpl0.fdai.healthcare.gov\nimpl0.ies.api.healthcare.gov\nimpl1a.fdai.healthcare.gov\nimpl1a.ies.api.healthcare.gov\nimpl1b.ies.api.healthcare.gov\nimpl2b.dsrs.api.healthcare.gov\nimpl2b.ies.api.healthcare.gov\nimpl2b.mcr.api.healthcare.gov\nimpl2.ies.api.healthcare.gov\nimpl3.dsrs.api.healthcare.gov\nimpl3.ies.api.healthcare.gov\nimpl3.mcr.api.healthcare.gov\nimpl3.ses.api.healthcare.gov\nimpl.dashboard.healthcare.gov\npoc.dashboard.healthcare.gov\ntest0.fdai.healthcare.gov\ntest0.ies.api.healthcare.gov\ntest1.fdai.healthcare.gov\ntest1.ies.api.healthcare.gov\ntest2.ies.api.healthcare.gov\ntest3.ies.api.healthcare.gov\ntest4.dsrs.api.healthcare.gov\ntest4.healthcare.gov\ntest4.ies.api.healthcare.gov\ntest4.mcr.api.healthcare.gov\ntest5.dsrs.api.healthcare.gov\ntest5.ies.api.healthcare.gov\ntest5.mcr.api.healthcare.gov\ntest5.ses.api.healthcare.gov\ntest.dashboard.healthcare.gov\ntest.fdai.healthcare.gov\ntestpe1.ies.api.healthcare.gov\nuat0.fdai.healthcare.gov\nuat0.ies.api.healthcare.gov",
+    "id": 27848610547,
+    "entry_timestamp": "2026-07-11T07:02:36.003",
+    "not_before": "2026-07-07T00:00:00",
+    "not_after": "2027-01-21T23:59:59",
+    "serial_number": "045e6a20a20bdff6fbd2d97c7377161f",
+    "result_count": 43
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "nws.healthcare.gov",
+    "name_value": "nws.healthcare.gov",
+    "id": 27836713477,
+    "entry_timestamp": "2026-07-10T18:04:13.294",
+    "not_before": "2026-07-10T18:04:13",
+    "not_after": "2027-01-25T18:03:13",
+    "serial_number": "40019f4d33919d6f82a31b24c8530718",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "origin-en-app.test7.healthcare.gov",
@@ -192,6 +252,30 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 432477,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
+    "common_name": "mpf-help.medicare.gov",
+    "name_value": "mapi-help.healthcare.gov",
+    "id": 27677430118,
+    "entry_timestamp": "2026-07-04T00:52:09.779",
+    "not_before": "2026-07-03T23:53:39",
+    "not_after": "2026-10-01T23:53:38",
+    "serial_number": "050b910df3f4bf7a8849403d15613ee6b319",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 432477,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
+    "common_name": "mpf-help.medicare.gov",
+    "name_value": "mapi-help.healthcare.gov",
+    "id": 27677424021,
+    "entry_timestamp": "2026-07-04T00:52:09.446",
+    "not_before": "2026-07-03T23:53:39",
+    "not_after": "2026-10-01T23:53:38",
+    "serial_number": "050b910df3f4bf7a8849403d15613ee6b319",
+    "result_count": 1
+  },
+  {
     "issuer_ca_id": 246719,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "dev.dashboard.healthcare.gov",
@@ -300,6 +384,54 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 432477,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
+    "common_name": "test2.healthcare.gov",
+    "name_value": "dev.marketplace.api.healthcare.gov\ndev.marketplace-int.api.healthcare.gov\ndev-t.healthcare.gov\nimp1a.marketplace.api.healthcare.gov\nimp1b.marketplace.api.healthcare.gov\nimp.geo.api.healthcare.gov\nimpl0.dsrs.api.healthcare.gov\nimpl1a.mcr.api.healthcare.gov\nimpl1b.dsrs.api.healthcare.gov\nimpl1b.mcr.api.healthcare.gov\nimpl2b.ses.api.healthcare.gov\nimpl2.mcr.api.healthcare.gov\nimpl.mcr.api.healthcare.gov\nimp.marketplace.api.healthcare.gov\nimp.marketplace-int.api.healthcare.gov\nprod-t.healthcare.gov\nratereview.dev.healthcare.gov\nratereview.imp.healthcare.gov\nratereview.test.healthcare.gov\ntest0.dsrs.api.healthcare.gov\ntest0.mcr.api.healthcare.gov\ntest1.mcr.api.healthcare.gov\ntest2.healthcare.gov\ntest2.mcr.api.healthcare.gov\ntest3.mcr.api.healthcare.gov\ntest.aca.api.healthcare.gov\ntest.geo.api.healthcare.gov\ntest.marketplace.api.healthcare.gov\ntest.marketplace-int.api.healthcare.gov\ntest.mcr.api.healthcare.gov\ntestpe1.mcr.api.healthcare.gov\ntestpe.dsrs.api.healthcare.gov\ntestpe.mcr.api.healthcare.gov\ntest-t.healthcare.gov",
+    "id": 27502719871,
+    "entry_timestamp": "2026-06-26T15:26:05.034",
+    "not_before": "2026-06-26T14:27:33",
+    "not_after": "2026-09-24T14:27:32",
+    "serial_number": "05eb439dc2265979e809cab2cbcd55ad0a0c",
+    "result_count": 35
+  },
+  {
+    "issuer_ca_id": 432476,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
+    "common_name": "test.healthcare.gov",
+    "name_value": "api.finder.dev.healthcare.gov\napi.finder.imp.healthcare.gov\napi.finder.test.healthcare.gov\ncompanyprofiles.dev.healthcare.gov\ncompanyprofiles.imp.healthcare.gov\ncompanyprofiles.test.healthcare.gov\ndev2.healthcare.gov\ndev.data.healthcare.gov\ndev-edit.data.healthcare.gov\ndev.healthcare.gov\nfinder.dev.healthcare.gov\nfinder.imp.healthcare.gov\nfinder.test.healthcare.gov\nimp1a.healthcare.gov\nimp1b.healthcare.gov\nimp2.healthcare.gov\nimp.address.api.healthcare.gov\nimp.data.healthcare.gov\nimp-edit.data.healthcare.gov\nimp.healthcare.gov\nlocalhelp.dev.healthcare.gov\nlocalhelp.imp1a.healthcare.gov\nlocalhelp.imp.healthcare.gov\nlocalhelp.prodprime.healthcare.gov\nlocalhelp.test.healthcare.gov\ntest1.healthcare.gov\ntest2.healthcare.gov\ntest3.healthcare.gov\ntest.address.api.healthcare.gov\ntest.data.healthcare.gov\ntest-edit.data.healthcare.gov\ntest.healthcare.gov",
+    "id": 27502720388,
+    "entry_timestamp": "2026-06-26T15:26:04.198",
+    "not_before": "2026-06-26T14:27:32",
+    "not_after": "2026-09-24T14:27:31",
+    "serial_number": "05c07b694e25833fb3b136181a47d795daed",
+    "result_count": 33
+  },
+  {
+    "issuer_ca_id": 432477,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
+    "common_name": "test2.healthcare.gov",
+    "name_value": "dev.marketplace.api.healthcare.gov\ndev.marketplace-int.api.healthcare.gov\ndev-t.healthcare.gov\nimp1a.marketplace.api.healthcare.gov\nimp1b.marketplace.api.healthcare.gov\nimp.geo.api.healthcare.gov\nimpl0.dsrs.api.healthcare.gov\nimpl1a.mcr.api.healthcare.gov\nimpl1b.dsrs.api.healthcare.gov\nimpl1b.mcr.api.healthcare.gov\nimpl2b.ses.api.healthcare.gov\nimpl2.mcr.api.healthcare.gov\nimpl.mcr.api.healthcare.gov\nimp.marketplace.api.healthcare.gov\nimp.marketplace-int.api.healthcare.gov\nprod-t.healthcare.gov\nratereview.dev.healthcare.gov\nratereview.imp.healthcare.gov\nratereview.test.healthcare.gov\ntest0.dsrs.api.healthcare.gov\ntest0.mcr.api.healthcare.gov\ntest1.mcr.api.healthcare.gov\ntest2.healthcare.gov\ntest2.mcr.api.healthcare.gov\ntest3.mcr.api.healthcare.gov\ntest.aca.api.healthcare.gov\ntest.geo.api.healthcare.gov\ntest.marketplace.api.healthcare.gov\ntest.marketplace-int.api.healthcare.gov\ntest.mcr.api.healthcare.gov\ntestpe1.mcr.api.healthcare.gov\ntestpe.dsrs.api.healthcare.gov\ntestpe.mcr.api.healthcare.gov\ntest-t.healthcare.gov",
+    "id": 27502728371,
+    "entry_timestamp": "2026-06-26T15:26:03.179",
+    "not_before": "2026-06-26T14:27:33",
+    "not_after": "2026-09-24T14:27:32",
+    "serial_number": "05eb439dc2265979e809cab2cbcd55ad0a0c",
+    "result_count": 35
+  },
+  {
+    "issuer_ca_id": 432476,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
+    "common_name": "test.healthcare.gov",
+    "name_value": "api.finder.dev.healthcare.gov\napi.finder.imp.healthcare.gov\napi.finder.test.healthcare.gov\ncompanyprofiles.dev.healthcare.gov\ncompanyprofiles.imp.healthcare.gov\ncompanyprofiles.test.healthcare.gov\ndev2.healthcare.gov\ndev.data.healthcare.gov\ndev-edit.data.healthcare.gov\ndev.healthcare.gov\nfinder.dev.healthcare.gov\nfinder.imp.healthcare.gov\nfinder.test.healthcare.gov\nimp1a.healthcare.gov\nimp1b.healthcare.gov\nimp2.healthcare.gov\nimp.address.api.healthcare.gov\nimp.data.healthcare.gov\nimp-edit.data.healthcare.gov\nimp.healthcare.gov\nlocalhelp.dev.healthcare.gov\nlocalhelp.imp1a.healthcare.gov\nlocalhelp.imp.healthcare.gov\nlocalhelp.prodprime.healthcare.gov\nlocalhelp.test.healthcare.gov\ntest1.healthcare.gov\ntest2.healthcare.gov\ntest3.healthcare.gov\ntest.address.api.healthcare.gov\ntest.data.healthcare.gov\ntest-edit.data.healthcare.gov\ntest.healthcare.gov",
+    "id": 27502728087,
+    "entry_timestamp": "2026-06-26T15:26:03.001",
+    "not_before": "2026-06-26T14:27:32",
+    "not_after": "2026-09-24T14:27:31",
+    "serial_number": "05c07b694e25833fb3b136181a47d795daed",
+    "result_count": 33
+  },
+  {
     "issuer_ca_id": 246719,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "test7.ses.api.healthcare.gov",
@@ -310,6 +442,30 @@
     "not_after": "2027-01-08T23:59:59",
     "serial_number": "08ee6e8ad8b2b6c288ba86f4de088182",
     "result_count": 2
+  },
+  {
+    "issuer_ca_id": 432476,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
+    "common_name": "test3.healthcare.gov",
+    "name_value": "dev.status.healthcare.gov\nimpl0.mcr.api.healthcare.gov\nimpl1a.dsrs.api.healthcare.gov\nimpl1a.ses.api.healthcare.gov\nimpl1b.ses.api.healthcare.gov\nimpl2.dsrs.api.healthcare.gov\nimpl2.ses.api.healthcare.gov\nimpl.ses.api.healthcare.gov\ntealium-collect.healthcare.gov\ntealium-tags.healthcare.gov\ntest0.mcr.api.healthcare.gov\ntest0.ses.api.healthcare.gov\ntest1.dsrs.api.healthcare.gov\ntest1.ses.api.healthcare.gov\ntest2.dsrs.api.healthcare.gov\ntest2.ses.api.healthcare.gov\ntest3.dsrs.api.healthcare.gov\ntest3.healthcare.gov\ntest3.ses.api.healthcare.gov\ntest4.healthcare.gov\ntest4.ses.api.healthcare.gov\ntest5.healthcare.gov\ntestpe0.dsrs.api.healthcare.gov\ntestpe1.dsrs.api.healthcare.gov\ntestpe1.mcr.api.healthcare.gov\ntestpe1.ses.api.healthcare.gov\ntestpe.healthcare.gov\ntestpe.ses.api.healthcare.gov\nuat0.dsrs.api.healthcare.gov\nuat0.healthcare.gov\nuat0.mcr.api.healthcare.gov\nuat0.ses.api.healthcare.gov",
+    "id": 27449357358,
+    "entry_timestamp": "2026-06-24T12:17:19.023",
+    "not_before": "2026-06-24T11:18:48",
+    "not_after": "2026-09-22T11:18:47",
+    "serial_number": "05b30f5ea2e34a3706f0611cf08dbf1dfb54",
+    "result_count": 33
+  },
+  {
+    "issuer_ca_id": 432476,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
+    "common_name": "test3.healthcare.gov",
+    "name_value": "dev.status.healthcare.gov\nimpl0.mcr.api.healthcare.gov\nimpl1a.dsrs.api.healthcare.gov\nimpl1a.ses.api.healthcare.gov\nimpl1b.ses.api.healthcare.gov\nimpl2.dsrs.api.healthcare.gov\nimpl2.ses.api.healthcare.gov\nimpl.ses.api.healthcare.gov\ntealium-collect.healthcare.gov\ntealium-tags.healthcare.gov\ntest0.mcr.api.healthcare.gov\ntest0.ses.api.healthcare.gov\ntest1.dsrs.api.healthcare.gov\ntest1.ses.api.healthcare.gov\ntest2.dsrs.api.healthcare.gov\ntest2.ses.api.healthcare.gov\ntest3.dsrs.api.healthcare.gov\ntest3.healthcare.gov\ntest3.ses.api.healthcare.gov\ntest4.healthcare.gov\ntest4.ses.api.healthcare.gov\ntest5.healthcare.gov\ntestpe0.dsrs.api.healthcare.gov\ntestpe1.dsrs.api.healthcare.gov\ntestpe1.mcr.api.healthcare.gov\ntestpe1.ses.api.healthcare.gov\ntestpe.healthcare.gov\ntestpe.ses.api.healthcare.gov\nuat0.dsrs.api.healthcare.gov\nuat0.healthcare.gov\nuat0.mcr.api.healthcare.gov\nuat0.ses.api.healthcare.gov",
+    "id": 27449350731,
+    "entry_timestamp": "2026-06-24T12:17:18.324",
+    "not_before": "2026-06-24T11:18:48",
+    "not_after": "2026-09-22T11:18:47",
+    "serial_number": "05b30f5ea2e34a3706f0611cf08dbf1dfb54",
+    "result_count": 33
   },
   {
     "issuer_ca_id": 246719,
@@ -381,6 +537,18 @@
     "not_before": "2026-06-14T00:00:00",
     "not_after": "2026-12-28T23:59:59",
     "serial_number": "0fa444df2a1b6aa29075d21f09db8868",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 432477,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
+    "common_name": "monitor.healthcare.gov",
+    "name_value": "monitor.healthcare.gov",
+    "id": 27121945841,
+    "entry_timestamp": "2026-06-12T12:21:06.23",
+    "not_before": "2026-06-12T11:22:35",
+    "not_after": "2026-09-10T11:22:34",
+    "serial_number": "068394d76a908325835a90c934ffe8b6cdfb",
     "result_count": 2
   },
   {
@@ -934,6 +1102,30 @@
     "not_after": "2026-07-21T23:59:59",
     "serial_number": "030d8f519e6927f6da2434c29a291e29",
     "result_count": 42
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "mpf-help.medicare.gov",
+    "name_value": "mapi-help.healthcare.gov",
+    "id": 26067580941,
+    "entry_timestamp": "2026-05-04T17:25:18.386",
+    "not_before": "2026-05-04T16:26:47",
+    "not_after": "2026-08-02T16:26:46",
+    "serial_number": "06f660cf704300deec31ff8c3912bedd38da",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "mpf-help.medicare.gov",
+    "name_value": "mapi-help.healthcare.gov",
+    "id": 26067572814,
+    "entry_timestamp": "2026-05-04T17:25:17.923",
+    "not_before": "2026-05-04T16:26:47",
+    "not_after": "2026-08-02T16:26:46",
+    "serial_number": "06f660cf704300deec31ff8c3912bedd38da",
+    "result_count": 1
   },
   {
     "issuer_ca_id": 247119,
@@ -1641,18 +1833,6 @@
     "not_before": "2026-04-14T00:00:00",
     "not_after": "2026-10-28T23:59:59",
     "serial_number": "05b5029048163d5a26031bbcd47270b0",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "monitor.healthcare.gov",
-    "name_value": "monitor.healthcare.gov",
-    "id": 25487822041,
-    "entry_timestamp": "2026-04-13T12:51:23.416",
-    "not_before": "2026-04-13T11:52:53",
-    "not_after": "2026-07-12T11:52:52",
-    "serial_number": "064ba580484c5a895763a38422197aeaffab",
     "result_count": 2
   },
   {
@@ -2856,18 +3036,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 185748,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
-    "common_name": "api.healthcare.gov",
-    "name_value": "api.healthcare.gov\nies.api.healthcare.gov\nmcr.api.healthcare.gov",
-    "id": 24050573084,
-    "entry_timestamp": "2026-01-29T05:32:09.632",
-    "not_before": "2025-07-12T00:00:00",
-    "not_after": "2026-07-14T23:59:59",
-    "serial_number": "045336d6f5bca6e7280014e6452511e6",
-    "result_count": 4
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "mcr.api.healthcare.gov",
@@ -3948,30 +4116,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 185748,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
-    "common_name": "api.healthcare.gov",
-    "name_value": "api.healthcare.gov\nies.api.healthcare.gov\nmcr.api.healthcare.gov",
-    "id": 19603014672,
-    "entry_timestamp": "2025-07-12T00:09:05.007",
-    "not_before": "2025-07-12T00:00:00",
-    "not_after": "2026-07-14T23:59:59",
-    "serial_number": "045336d6f5bca6e7280014e6452511e6",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "api.healthcare.gov",
-    "name_value": "api.healthcare.gov\nies.api.healthcare.gov\nmcr.api.healthcare.gov",
-    "id": 19602919305,
-    "entry_timestamp": "2025-07-12T00:03:20.776",
-    "not_before": "2025-07-12T00:00:00",
-    "not_after": "2026-07-14T23:59:59",
-    "serial_number": "0755d1deb136f62b82a737d7b1111870",
-    "result_count": 4
-  },
-  {
     "issuer_ca_id": 247106,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
     "common_name": "app3-elb.perf.healthcare.gov",
@@ -4305,54 +4449,6 @@
     "not_before": "2025-06-16T00:00:00",
     "not_after": "2026-07-15T23:59:59",
     "serial_number": "08f577ceb04a12f4f69c724aa2414715",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "app3-elb.perf.healthcare.gov",
-    "name_value": "app3-elb.perf.healthcare.gov",
-    "id": 19001101142,
-    "entry_timestamp": "2025-06-13T15:12:57.783",
-    "not_before": "2025-06-13T00:00:00",
-    "not_after": "2026-07-12T23:59:59",
-    "serial_number": "07909a815ce653675fdae83c56590fa6",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "app3-elb.perf.healthcare.gov",
-    "name_value": "app3-elb.perf.healthcare.gov",
-    "id": 18982063192,
-    "entry_timestamp": "2025-06-12T18:29:48.408",
-    "not_before": "2025-06-12T00:00:00",
-    "not_after": "2026-07-11T23:59:59",
-    "serial_number": "0196a2ebfc0d187514f17cfe8fb713ed",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "app3-elb.perf.healthcare.gov",
-    "name_value": "app3-elb.perf.healthcare.gov",
-    "id": 18957816650,
-    "entry_timestamp": "2025-06-11T13:58:02.827",
-    "not_before": "2025-06-11T00:00:00",
-    "not_after": "2026-07-10T23:59:59",
-    "serial_number": "012b59e5c222a698f1f36d8bb6208715",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "tealium-visitor-service.cuidadodesalud.gov",
-    "name_value": "tealium-collect.healthcare.gov\ntealium-visitor-service.healthcare.gov",
-    "id": 18947564119,
-    "entry_timestamp": "2025-06-11T02:43:05.226",
-    "not_before": "2025-06-11T00:00:00",
-    "not_after": "2026-07-10T23:59:59",
-    "serial_number": "0e2d9127a940b47fe1037b14869b1273",
     "result_count": 2
   }
 ]

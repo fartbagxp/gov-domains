@@ -1,5 +1,17 @@
 [
   {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "onboardingacknowledgement.house.gov",
+    "name_value": "flagtrack-dev.house.gov\nflagtrack.house.gov\nflagtrack-test.house.gov\nonboardingacknowledgement-dev.house.gov\nonboardingacknowledgement.house.gov\nonboardingacknowledgement-test.house.gov",
+    "id": 27781629734,
+    "entry_timestamp": "2026-07-08T12:29:06.844",
+    "not_before": "2026-07-08T00:00:00",
+    "not_after": "2027-01-21T23:59:59",
+    "serial_number": "08d585de1e3892de9e19018682d5c1aa",
+    "result_count": 7
+  },
+  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "xorgate.house.gov",
@@ -22,18 +34,6 @@
     "not_after": "2027-01-16T23:59:59",
     "serial_number": "0d445d635ddbe45f48fe586412cb7adf",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "xorgate.house.gov",
-    "name_value": "xorgate.house.gov\nxorgate-pri.house.gov\nxorgate-sec.house.gov\nxorn01a.house.gov\nxorn01.house.gov\nxorn02a.house.gov\nxorn02.house.gov\nxorn03a.house.gov\nxorn03.house.gov",
-    "id": 27646754201,
-    "entry_timestamp": "2026-07-02T16:40:15.508",
-    "not_before": "2025-07-10T00:00:00",
-    "not_after": "2026-07-09T23:59:59",
-    "serial_number": "0931a2489b2622859887b1d819eaa358",
-    "result_count": 10
   },
   {
     "issuer_ca_id": 185752,
@@ -2928,18 +2928,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "*.house.gov",
-    "name_value": "*.house.gov\nhouse.gov",
-    "id": 22572254867,
-    "entry_timestamp": "2025-11-18T21:12:42.246",
-    "not_before": "2025-07-07T00:00:00",
-    "not_after": "2026-07-09T23:59:59",
-    "serial_number": "02cab31336823e7186e338332d88ef7a",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 62123,
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
     "common_name": "www.house.gov",
@@ -3518,30 +3506,6 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "BF-MGR-02.US.HOUSE.GOV",
-    "name_value": "BF-MGR-02.US.HOUSE.GOV\nwww.BF-MGR-02.US.HOUSE.GOV",
-    "id": 19574795809,
-    "entry_timestamp": "2025-07-10T16:05:59.867",
-    "not_before": "2025-07-10T00:00:00",
-    "not_after": "2026-07-09T23:59:59",
-    "serial_number": "0e63756d3d1572cab49adec27068d4d3",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "BF-MGR-02.US.HOUSE.GOV",
-    "name_value": "BF-MGR-02.US.HOUSE.GOV\nwww.BF-MGR-02.US.HOUSE.GOV",
-    "id": 19574710369,
-    "entry_timestamp": "2025-07-10T16:00:30.248",
-    "not_before": "2025-07-10T00:00:00",
-    "not_after": "2026-07-09T23:59:59",
-    "serial_number": "0603ffe85b6bf02caadd21f8edb0f753",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "*.stg-hir.house.gov",
     "name_value": "*.stg-hir.house.gov\nstg-hir.house.gov",
     "id": 19573810565,
@@ -3549,102 +3513,6 @@
     "not_before": "2025-07-10T00:00:00",
     "not_after": "2026-08-04T23:59:59",
     "serial_number": "0cae97bb7f6ae2f0ded8b1e8c94b66ac",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "xorgate.house.gov",
-    "name_value": "xorgate.house.gov\nxorgate-pri.house.gov\nxorgate-sec.house.gov\nxorn01a.house.gov\nxorn01.house.gov\nxorn02a.house.gov\nxorn02.house.gov\nxorn03a.house.gov\nxorn03.house.gov",
-    "id": 19571780856,
-    "entry_timestamp": "2025-07-10T12:38:41.977",
-    "not_before": "2025-07-10T00:00:00",
-    "not_after": "2026-07-09T23:59:59",
-    "serial_number": "0931a2489b2622859887b1d819eaa358",
-    "result_count": 10
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "xorgate.house.gov",
-    "name_value": "www.xorgate.house.gov\nxorgate.house.gov",
-    "id": 19555748610,
-    "entry_timestamp": "2025-07-09T19:24:23.666",
-    "not_before": "2025-07-09T00:00:00",
-    "not_after": "2026-07-08T23:59:59",
-    "serial_number": "01a94d1cc598168817263d4d2a1d9ff7",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "xorgate.house.gov",
-    "name_value": "www.xorgate.house.gov\nxorgate.house.gov",
-    "id": 19555677228,
-    "entry_timestamp": "2025-07-09T19:19:08.646",
-    "not_before": "2025-07-09T00:00:00",
-    "not_after": "2026-07-08T23:59:59",
-    "serial_number": "01e0341ba6d21c67496fe9a3c8ff6178",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "BF-MGR-01.us.house.gov",
-    "name_value": "BF-MGR-01.us.house.gov\nwww.BF-MGR-01.us.house.gov",
-    "id": 19550076322,
-    "entry_timestamp": "2025-07-09T13:07:08.267",
-    "not_before": "2025-07-09T00:00:00",
-    "not_after": "2026-07-08T23:59:59",
-    "serial_number": "078a3414b1c85d26824cfa88c29fb319",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "BF-MGR-01.us.house.gov",
-    "name_value": "BF-MGR-01.us.house.gov\nwww.BF-MGR-01.us.house.gov",
-    "id": 19549671100,
-    "entry_timestamp": "2025-07-09T12:40:36.468",
-    "not_before": "2025-07-09T00:00:00",
-    "not_after": "2026-07-08T23:59:59",
-    "serial_number": "0368c6648f01f18cbc62d68d26ba77c8",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "BF-MGR-01.us.house.gov",
-    "name_value": "BF-MGR-01.us.house.gov\nwww.BF-MGR-01.us.house.gov",
-    "id": 19549466004,
-    "entry_timestamp": "2025-07-09T12:25:23.705",
-    "not_before": "2025-07-09T00:00:00",
-    "not_after": "2026-07-08T23:59:59",
-    "serial_number": "05a959137beed8c86a8f0e0e98ad599e",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "*.house.gov",
-    "name_value": "*.house.gov\nhouse.gov",
-    "id": 19505003328,
-    "entry_timestamp": "2025-07-07T08:59:23.283",
-    "not_before": "2025-07-07T00:00:00",
-    "not_after": "2026-07-09T23:59:59",
-    "serial_number": "02cab31336823e7186e338332d88ef7a",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "*.emanager.house.gov",
-    "name_value": "*.emanager.house.gov\nemanager.house.gov",
-    "id": 18920113719,
-    "entry_timestamp": "2025-06-09T19:21:23.143",
-    "not_before": "2025-06-09T00:00:00",
-    "not_after": "2026-07-09T23:59:59",
-    "serial_number": "0183545d959e955c49959d4ffadf6f7d",
     "result_count": 3
   }
 ]
