@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "namus.nij.ojp.gov",
+    "name_value": "namus.nij.ojp.gov",
+    "id": 27972500157,
+    "entry_timestamp": "2026-07-16T04:29:32.221",
+    "not_before": "2026-07-16T03:29:31",
+    "not_after": "2026-10-14T04:29:28",
+    "serial_number": "591f4567828715af0e419043109eefee",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "namus.nij.ojp.gov",
+    "name_value": "namus.nij.ojp.gov",
+    "id": 27972519381,
+    "entry_timestamp": "2026-07-16T04:29:22.95",
+    "not_before": "2026-07-16T03:29:22",
+    "not_after": "2026-10-14T04:28:14",
+    "serial_number": "00a84bb6c32ad26615133395bc8cba9f3f",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 413869,
     "issuer_name": "C=US, O=SSL Corporation, CN=Cloudflare TLS Issuing ECC CA 4",
     "common_name": "uat.smart.ojp.gov",
@@ -2796,30 +2820,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 204407,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
-    "common_name": "ashanti.bja.ojp.gov",
-    "name_value": "*.ashanti.bja.ojp.gov\nashanti.bja.ojp.gov",
-    "id": 25935800491,
-    "entry_timestamp": "2026-04-17T00:45:33.074",
-    "not_before": "2026-04-17T00:00:00",
-    "not_after": "2026-07-16T00:39:53",
-    "serial_number": "00a812ac0089af176a96b5e521d892369c",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204407,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
-    "common_name": "ashanti.bja.ojp.gov",
-    "name_value": "*.ashanti.bja.ojp.gov\nashanti.bja.ojp.gov",
-    "id": 25935800486,
-    "entry_timestamp": "2026-04-17T00:45:32.493",
-    "not_before": "2026-04-17T00:00:00",
-    "not_after": "2026-07-16T00:39:53",
-    "serial_number": "00a812ac0089af176a96b5e521d892369c",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "ashanti.bja.ojp.gov",
@@ -2830,78 +2830,6 @@
     "not_after": "2026-09-24T23:59:59",
     "serial_number": "08e082333be5390da8ac4167621f5b44",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "ashanti.bja.ojp.gov",
-    "name_value": "*.ashanti.bja.ojp.gov\nashanti.bja.ojp.gov",
-    "id": 25935760193,
-    "entry_timestamp": "2026-04-17T00:39:55.959",
-    "not_before": "2026-04-17T00:00:00",
-    "not_after": "2026-07-16T00:38:00",
-    "serial_number": "009e5ea52214f6558272caf7d9dedd4dcd",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "ashanti.bja.ojp.gov",
-    "name_value": "*.ashanti.bja.ojp.gov\nashanti.bja.ojp.gov",
-    "id": 25935759897,
-    "entry_timestamp": "2026-04-17T00:39:44.835",
-    "not_before": "2026-04-17T00:00:00",
-    "not_after": "2026-07-16T00:38:00",
-    "serial_number": "009e5ea52214f6558272caf7d9dedd4dcd",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204407,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
-    "common_name": "ncirc.bja.ojp.gov",
-    "name_value": "*.ncirc.bja.ojp.gov\nncirc.bja.ojp.gov",
-    "id": 25933717568,
-    "entry_timestamp": "2026-04-16T20:48:35.271",
-    "not_before": "2026-04-16T00:00:00",
-    "not_after": "2026-07-15T20:41:21",
-    "serial_number": "00ae3658dd99c2e978574bb300f0ecd7f9",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204407,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
-    "common_name": "ncirc.bja.ojp.gov",
-    "name_value": "*.ncirc.bja.ojp.gov\nncirc.bja.ojp.gov",
-    "id": 25933717448,
-    "entry_timestamp": "2026-04-16T20:48:34.306",
-    "not_before": "2026-04-16T00:00:00",
-    "not_after": "2026-07-15T20:41:21",
-    "serial_number": "00ae3658dd99c2e978574bb300f0ecd7f9",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "ncirc.bja.ojp.gov",
-    "name_value": "*.ncirc.bja.ojp.gov\nncirc.bja.ojp.gov",
-    "id": 25933604505,
-    "entry_timestamp": "2026-04-16T20:41:08.945",
-    "not_before": "2026-04-16T00:00:00",
-    "not_after": "2026-07-15T20:38:26",
-    "serial_number": "00fa1ca7039f476e56c2b91563f45b517e",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "ncirc.bja.ojp.gov",
-    "name_value": "*.ncirc.bja.ojp.gov\nncirc.bja.ojp.gov",
-    "id": 25933604404,
-    "entry_timestamp": "2026-04-16T20:41:07.854",
-    "not_before": "2026-04-16T00:00:00",
-    "not_after": "2026-07-15T20:38:26",
-    "serial_number": "00fa1ca7039f476e56c2b91563f45b517e",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 185752,

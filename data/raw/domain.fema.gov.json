@@ -1,5 +1,137 @@
 [
   {
+    "issuer_ca_id": 62123,
+    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
+    "common_name": "www.dhs.gov",
+    "name_value": "emilms.fema.gov\ngo.fema.gov\nm.fema.gov\nmobile.fema.gov\nm.usfa.fema.gov\npreview-m.fema.gov\nstaging-go.fema.gov\nusfa.fema.gov\nwww.fema.gov\nwww.usfa.fema.gov",
+    "id": 27962609909,
+    "entry_timestamp": "2026-07-15T20:18:21.578",
+    "not_before": "2026-07-15T00:00:00",
+    "not_after": "2026-10-23T23:59:59",
+    "serial_number": "0974296da69881f585451d18cd039846",
+    "result_count": 10
+  },
+  {
+    "issuer_ca_id": 185748,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
+    "common_name": "www4.dhs.gov",
+    "name_value": "gis.fema.gov",
+    "id": 27933743634,
+    "entry_timestamp": "2026-07-14T18:57:18.172",
+    "not_before": "2026-06-25T00:00:00",
+    "not_after": "2027-01-09T23:59:59",
+    "serial_number": "0fab539470faa03d5eda3244e65d5605",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 176211,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2",
+    "common_name": "psa.fema.gov",
+    "name_value": "psa.fema.gov",
+    "id": 27929698868,
+    "entry_timestamp": "2026-07-14T15:36:37.287",
+    "not_before": "2026-07-14T00:00:00",
+    "not_after": "2027-01-28T23:59:59",
+    "serial_number": "0fd8ea05c9064e29576d607e2be3ff0f",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 176211,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2",
+    "common_name": "pagrants.fema.gov",
+    "name_value": "grantee.fema.gov\npagrants.fema.gov",
+    "id": 27901226989,
+    "entry_timestamp": "2026-07-13T14:50:20.709",
+    "not_before": "2026-07-13T00:00:00",
+    "not_after": "2027-01-27T23:59:59",
+    "serial_number": "079fbf124834b612bf829a9e1442e779",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 176211,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2",
+    "common_name": "stg.pagrants.fema.gov",
+    "name_value": "stg.grantee.fema.gov\nstg.pagrants.fema.gov",
+    "id": 27901184633,
+    "entry_timestamp": "2026-07-13T14:48:32.024",
+    "not_before": "2026-07-13T00:00:00",
+    "not_after": "2027-01-27T23:59:59",
+    "serial_number": "0488f1e32f0ed8a592ed28935b4a7fe9",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "core.nfipdirect.fema.gov",
+    "name_value": "*.core.nfipdirect.fema.gov\ncore.nfipdirect.fema.gov",
+    "id": 27875055300,
+    "entry_timestamp": "2026-07-12T13:19:24.295",
+    "not_before": "2026-07-12T12:19:23",
+    "not_after": "2026-10-10T13:19:07",
+    "serial_number": "00d9f873d87c6b8299139611f3df2f7b66",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "core.nfipdirect.fema.gov",
+    "name_value": "*.core.nfipdirect.fema.gov\ncore.nfipdirect.fema.gov",
+    "id": 27875049278,
+    "entry_timestamp": "2026-07-12T13:19:02.273",
+    "not_before": "2026-07-12T12:19:01",
+    "not_after": "2026-10-10T13:18:43",
+    "serial_number": "00eb7403e535cebed60eaaa18d48b88d41",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "core.nfipdirect.fema.gov",
+    "name_value": "*.core.nfipdirect.fema.gov\ncore.nfipdirect.fema.gov",
+    "id": 27874928551,
+    "entry_timestamp": "2026-07-12T13:10:32.581",
+    "not_before": "2026-07-12T12:10:32",
+    "not_after": "2026-10-10T13:10:26",
+    "serial_number": "00fcf55ba4b1280b7713e438af2c36fb8d",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "core.nfipdirect.fema.gov",
+    "name_value": "*.core.nfipdirect.fema.gov\ncore.nfipdirect.fema.gov",
+    "id": 27874917217,
+    "entry_timestamp": "2026-07-12T13:10:20.688",
+    "not_before": "2026-07-12T12:10:20",
+    "not_after": "2026-10-10T13:08:01",
+    "serial_number": "0099bb5a1193591ece13106806b0321fa6",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "atp.aws.fema.gov",
+    "name_value": "*.atp.aws.fema.gov\natp.aws.fema.gov",
+    "id": 27873179314,
+    "entry_timestamp": "2026-07-12T11:11:25.493",
+    "not_before": "2026-07-12T10:11:24",
+    "not_after": "2026-10-10T11:11:21",
+    "serial_number": "00f46e7ab93bb12b0e0ee2830e4e8ad412",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "atp.aws.fema.gov",
+    "name_value": "*.atp.aws.fema.gov\natp.aws.fema.gov",
+    "id": 27873163414,
+    "entry_timestamp": "2026-07-12T11:11:15.524",
+    "not_before": "2026-07-12T10:11:14",
+    "not_after": "2026-10-10T11:09:55",
+    "serial_number": "00bd186b72ef4c85c90ebdd2410fbf4f3a",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "services.nfipdirect.fema.gov",
@@ -2892,30 +3024,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "ndgrants.fema.gov",
-    "name_value": "ndgrants.fema.gov",
-    "id": 25893889172,
-    "entry_timestamp": "2026-04-14T20:01:06.214",
-    "not_before": "2026-04-14T00:00:00",
-    "not_after": "2026-07-13T23:59:59",
-    "serial_number": "00ca13ce3d63c53d870512e29115203198",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "ndgrants.fema.gov",
-    "name_value": "ndgrants.fema.gov",
-    "id": 25893887190,
-    "entry_timestamp": "2026-04-14T20:01:04.648",
-    "not_before": "2026-04-14T00:00:00",
-    "not_after": "2026-07-13T23:59:59",
-    "serial_number": "00ca13ce3d63c53d870512e29115203198",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 185748,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
     "common_name": "www3.dhs.gov",
@@ -3586,42 +3694,6 @@
     "not_after": "2026-11-20T23:59:59",
     "serial_number": "0e45a4860074352103fd8a6c75f366b2",
     "result_count": 9
-  },
-  {
-    "issuer_ca_id": 176211,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2",
-    "common_name": "msc.fema.gov",
-    "name_value": "msc.fema.gov",
-    "id": 22523402997,
-    "entry_timestamp": "2025-11-16T23:54:38.507",
-    "not_before": "2025-06-20T00:00:00",
-    "not_after": "2026-07-14T23:59:59",
-    "serial_number": "02d588b7967c3586c0d92da1cfc0e049",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 176211,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2",
-    "common_name": "hazards.fema.gov",
-    "name_value": "hazards.fema.gov",
-    "id": 22523381255,
-    "entry_timestamp": "2025-11-16T23:52:49.549",
-    "not_before": "2025-06-20T00:00:00",
-    "not_after": "2026-07-14T23:59:59",
-    "serial_number": "097e4913c97eb04601818da9c64b67c7",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 176211,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2",
-    "common_name": "map1.msc.fema.gov",
-    "name_value": "cfas.msc.fema.gov\nep.msc.fema.gov\nfiletrail.msc.fema.gov\nfloodmaps.fema.gov\nhazus-support.msc.fema.gov\nmap1.msc.fema.gov\np4.msc.fema.gov\nrmd.msc.fema.gov\ntools.hazards.fema.gov\nwww.floodmaps.fema.gov",
-    "id": 22523360479,
-    "entry_timestamp": "2025-11-16T23:51:50.107",
-    "not_before": "2025-06-20T00:00:00",
-    "not_after": "2026-07-14T23:59:59",
-    "serial_number": "0e8d5e1ee070b8d7d9614ed263bf0d5f",
-    "result_count": 11
   },
   {
     "issuer_ca_id": 385517,
@@ -4450,41 +4522,5 @@
     "not_after": "2026-08-01T23:59:59",
     "serial_number": "46de634d9861c2ae294fbb8770151ca5",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 176211,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2",
-    "common_name": "map1.msc.fema.gov",
-    "name_value": "cfas.msc.fema.gov\nep.msc.fema.gov\nfiletrail.msc.fema.gov\nfloodmaps.fema.gov\nhazus-support.msc.fema.gov\nmap1.msc.fema.gov\np4.msc.fema.gov\nrmd.msc.fema.gov\ntools.hazards.fema.gov\nwww.floodmaps.fema.gov",
-    "id": 19142531315,
-    "entry_timestamp": "2025-06-20T19:59:39.868",
-    "not_before": "2025-06-20T00:00:00",
-    "not_after": "2026-07-14T23:59:59",
-    "serial_number": "0e8d5e1ee070b8d7d9614ed263bf0d5f",
-    "result_count": 11
-  },
-  {
-    "issuer_ca_id": 176211,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2",
-    "common_name": "hazards.fema.gov",
-    "name_value": "hazards.fema.gov",
-    "id": 19142497616,
-    "entry_timestamp": "2025-06-20T19:56:16.881",
-    "not_before": "2025-06-20T00:00:00",
-    "not_after": "2026-07-14T23:59:59",
-    "serial_number": "097e4913c97eb04601818da9c64b67c7",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 176211,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2",
-    "common_name": "msc.fema.gov",
-    "name_value": "msc.fema.gov",
-    "id": 19142473260,
-    "entry_timestamp": "2025-06-20T19:54:37.813",
-    "not_before": "2025-06-20T00:00:00",
-    "not_after": "2026-07-14T23:59:59",
-    "serial_number": "02d588b7967c3586c0d92da1cfc0e049",
-    "result_count": 2
   }
 ]

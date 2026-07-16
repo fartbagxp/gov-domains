@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 62123,
+    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
+    "common_name": "www.dhs.gov",
+    "name_value": "niccs.cisa.gov\nwww.niccs.cisa.gov",
+    "id": 27962609909,
+    "entry_timestamp": "2026-07-15T20:18:21.578",
+    "not_before": "2026-07-15T00:00:00",
+    "not_after": "2026-10-23T23:59:59",
+    "serial_number": "0974296da69881f585451d18cd039846",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185748,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
+    "common_name": "www4.dhs.gov",
+    "name_value": "cybermarketplace.cisa.gov\ndashboard.gateway.cisa.gov\ngateway.cisa.gov\npciims.cisa.gov",
+    "id": 27933743634,
+    "entry_timestamp": "2026-07-14T18:57:18.172",
+    "not_before": "2026-06-25T00:00:00",
+    "not_after": "2027-01-09T23:59:59",
+    "serial_number": "0fab539470faa03d5eda3244e65d5605",
+    "result_count": 4
+  },
+  {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "*.cybertraininglab.cisa.gov",
@@ -828,78 +852,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "gwids.cisa.gov",
-    "name_value": "*.gwids.cisa.gov\ngwids.cisa.gov",
-    "id": 25692321468,
-    "entry_timestamp": "2026-04-16T04:26:31.049",
-    "not_before": "2026-04-16T03:24:53",
-    "not_after": "2026-07-15T04:24:39",
-    "serial_number": "009f6d95d46808d1060e9006658a3e7ab5",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "gwids.cisa.gov",
-    "name_value": "*.gwids.cisa.gov\ngwids.cisa.gov",
-    "id": 25921590253,
-    "entry_timestamp": "2026-04-16T04:24:54.128",
-    "not_before": "2026-04-16T03:24:53",
-    "not_after": "2026-07-15T04:24:39",
-    "serial_number": "009f6d95d46808d1060e9006658a3e7ab5",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "gwids.cisa.gov",
-    "name_value": "*.gwids.cisa.gov\ngwids.cisa.gov",
-    "id": 25882176674,
-    "entry_timestamp": "2026-04-16T04:24:33.794",
-    "not_before": "2026-04-16T03:24:33",
-    "not_after": "2026-07-15T04:24:13",
-    "serial_number": "00b206e93bc267e77c13eb6c77c940b27c",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "gwids.cisa.gov",
-    "name_value": "*.gwids.cisa.gov\ngwids.cisa.gov",
-    "id": 25690442039,
-    "entry_timestamp": "2026-04-16T02:34:21.923",
-    "not_before": "2026-04-16T01:33:07",
-    "not_after": "2026-07-15T02:32:43",
-    "serial_number": "2ff957056395c93c0e231c5b4d9660dc",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "gwids.cisa.gov",
-    "name_value": "*.gwids.cisa.gov\ngwids.cisa.gov",
-    "id": 26058877224,
-    "entry_timestamp": "2026-04-16T02:33:08.463",
-    "not_before": "2026-04-16T01:33:07",
-    "not_after": "2026-07-15T02:32:43",
-    "serial_number": "2ff957056395c93c0e231c5b4d9660dc",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "gwids.cisa.gov",
-    "name_value": "*.gwids.cisa.gov\ngwids.cisa.gov",
-    "id": 25880275603,
-    "entry_timestamp": "2026-04-16T02:32:37.985",
-    "not_before": "2026-04-16T01:32:37",
-    "not_after": "2026-07-15T02:30:53",
-    "serial_number": "00e5d403ac1de7eec90ebf4f3d40acf519",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 185748,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
     "common_name": "www3.dhs.gov",
@@ -1714,17 +1666,5 @@
     "not_after": "2026-08-06T23:59:59",
     "serial_number": "042e9d6b5ea106ff9b88726edcef00c6",
     "result_count": 4
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "stage.gateway.cisa.gov",
-    "name_value": "*.stage.gateway.cisa.gov\nstage.gateway.cisa.gov",
-    "id": 19245530222,
-    "entry_timestamp": "2025-06-25T12:40:42.855",
-    "not_before": "2025-06-25T00:00:00",
-    "not_after": "2026-07-15T23:59:59",
-    "serial_number": "0cd52c02f8decfe8f4584e72f7ec7aeb",
-    "result_count": 3
   }
 ]
