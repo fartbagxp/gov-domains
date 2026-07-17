@@ -1,5 +1,53 @@
 [
   {
+    "issuer_ca_id": 204411,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
+    "common_name": "hybrid.wipp.ws",
+    "name_value": "autodiscover.transcom.energy.gov\nautodiscover.wipp.energy.gov\nhybrid.wipp.energy.gov\nmail.wipp.energy.gov\ntransport.transcom.energy.gov\ntransport.transcom.wipp.energy.gov\ntransport.wipp.energy.gov",
+    "id": 27994510849,
+    "entry_timestamp": "2026-07-16T22:38:49.98",
+    "not_before": "2026-07-16T00:00:00",
+    "not_after": "2027-01-30T23:59:59",
+    "serial_number": "00d755382f572285648b106ba3b564f504",
+    "result_count": 7
+  },
+  {
+    "issuer_ca_id": 204411,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
+    "common_name": "hybrid.wipp.ws",
+    "name_value": "autodiscover.transcom.energy.gov\nautodiscover.wipp.energy.gov\nhybrid.wipp.energy.gov\nmail.wipp.energy.gov\ntransport.transcom.energy.gov\ntransport.transcom.wipp.energy.gov\ntransport.wipp.energy.gov",
+    "id": 27994510793,
+    "entry_timestamp": "2026-07-16T22:38:49.214",
+    "not_before": "2026-07-16T00:00:00",
+    "not_after": "2027-01-30T23:59:59",
+    "serial_number": "00d755382f572285648b106ba3b564f504",
+    "result_count": 7
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "genesis.energy.gov",
+    "name_value": "*.genesis.energy.gov\ngenesis.energy.gov",
+    "id": 27986319364,
+    "entry_timestamp": "2026-07-16T15:50:28.393",
+    "not_before": "2026-07-16T14:50:27",
+    "not_after": "2026-10-14T15:50:05",
+    "serial_number": "326b0658b9de70a513d08224ffbaf72a",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 286242,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
+    "common_name": "genesis.energy.gov",
+    "name_value": "*.genesis.energy.gov\ngenesis.energy.gov",
+    "id": 27986315340,
+    "entry_timestamp": "2026-07-16T15:50:00.325",
+    "not_before": "2026-07-16T14:49:59",
+    "not_after": "2026-10-14T15:48:11",
+    "serial_number": "5024b759c645e0bb1397e48f59693a6e",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 431054,
     "issuer_name": "C=US, O=Let's Encrypt, CN=YE2",
     "common_name": "web.ornl.gov",
@@ -2049,18 +2097,6 @@
     "not_before": "2026-06-24T19:54:12",
     "not_after": "2026-09-22T20:52:56",
     "serial_number": "0085ba5d8e0737d642139a9f75ff128826",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "brilliance.nnsa.energy.gov",
-    "name_value": "brilliance.nnsa.energy.gov",
-    "id": 27455199827,
-    "entry_timestamp": "2026-06-24T17:33:03.896",
-    "not_before": "2025-06-16T15:13:48",
-    "not_after": "2026-07-15T07:00:00",
-    "serial_number": "6e5863a30bc2ac5d3a057d459cc94cda",
     "result_count": 2
   },
   {
@@ -9324,30 +9360,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "apps.transcom.energy.gov",
-    "name_value": "apps.transcom.energy.gov",
-    "id": 19661179851,
-    "entry_timestamp": "2025-07-14T16:53:35.469",
-    "not_before": "2025-07-14T16:43:33",
-    "not_after": "2026-07-14T16:52:25",
-    "serial_number": "35a95ead26598d9bb2cef8ed2da1c8f2",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "fs.wipp.ws",
-    "name_value": "certauth.fs.wipp.energy.gov\nfs.wipp.energy.gov",
-    "id": 19658924130,
-    "entry_timestamp": "2025-07-14T14:21:52.766",
-    "not_before": "2025-07-14T14:11:51",
-    "not_after": "2026-07-15T13:14:58",
-    "serial_number": "09d516f005c89e99ac88d25083803152",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 385512,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
     "common_name": "epact.energy.gov",
@@ -9441,42 +9453,6 @@
     "not_before": "2025-07-07T19:34:51",
     "not_after": "2026-08-03T15:34:49",
     "serial_number": "676b6766873ee180cecc52d64521a8c7",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "colonial.nnsa.energy.gov",
-    "name_value": "colonial.nnsa.energy.gov",
-    "id": 19055563118,
-    "entry_timestamp": "2025-06-16T15:24:02.448",
-    "not_before": "2025-06-16T15:14:01",
-    "not_after": "2026-07-16T04:00:00",
-    "serial_number": "777337c5aeefb9db81d38296e260fcff",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "brilliance.nnsa.energy.gov",
-    "name_value": "brilliance.nnsa.energy.gov",
-    "id": 19055563109,
-    "entry_timestamp": "2025-06-16T15:23:49.646",
-    "not_before": "2025-06-16T15:13:48",
-    "not_after": "2026-07-15T07:00:00",
-    "serial_number": "6e5863a30bc2ac5d3a057d459cc94cda",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "aspire.nnsa.energy.gov",
-    "name_value": "aspire.nnsa.energy.gov",
-    "id": 19055562885,
-    "entry_timestamp": "2025-06-16T15:23:35.609",
-    "not_before": "2025-06-16T15:13:34",
-    "not_after": "2026-07-15T07:00:00",
-    "serial_number": "4144de2559de89d60a9f76b5d2f282dc",
     "result_count": 2
   }
 ]

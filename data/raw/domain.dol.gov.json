@@ -2,6 +2,54 @@
   {
     "issuer_ca_id": 246719,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "stage-admin-jobcorps.dol.gov",
+    "name_value": "stage-admin-jobcorps.dol.gov",
+    "id": 28004985298,
+    "entry_timestamp": "2026-07-17T07:15:32.047",
+    "not_before": "2026-07-17T00:00:00",
+    "not_after": "2027-01-30T23:59:59",
+    "serial_number": "018029bd5b315c7debfc1303d4bdf4b5",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "test-admin-jobcorps.dol.gov",
+    "name_value": "test-admin-jobcorps.dol.gov",
+    "id": 28003582551,
+    "entry_timestamp": "2026-07-17T06:06:38.368",
+    "not_before": "2026-07-17T00:00:00",
+    "not_after": "2027-01-30T23:59:59",
+    "serial_number": "014005db43599463e7e0f219e02390bc",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 439355,
+    "issuer_name": "C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R46 DV TLS CA 2026 Q2",
+    "common_name": "imperva.com",
+    "name_value": "*.dol.gov",
+    "id": 27993305051,
+    "entry_timestamp": "2026-07-16T21:39:35.235",
+    "not_before": "2026-07-16T21:39:33",
+    "not_after": "2026-07-17T21:38:34",
+    "serial_number": "015be1e7e7dea0fdcbbea01f8b9ca567",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "otcapp-dev.osha.dol.gov",
+    "name_value": "otcapp-dev.osha.dol.gov",
+    "id": 27990832608,
+    "entry_timestamp": "2026-07-16T19:32:43.53",
+    "not_before": "2026-07-16T00:00:00",
+    "not_after": "2027-01-29T23:59:59",
+    "serial_number": "0cab89216e92947a2d7963b980ebadd9",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "dev-admin-jobcorps.dol.gov",
     "name_value": "dev-admin-jobcorps.dol.gov",
     "id": 27973058663,
@@ -22,30 +70,6 @@
     "not_after": "2027-01-29T23:59:59",
     "serial_number": "0a315ff096831dfdd37aa833284219d1",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 439355,
-    "issuer_name": "C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R46 DV TLS CA 2026 Q2",
-    "common_name": "imperva.com",
-    "name_value": "*.uat.dol.gov",
-    "id": 27968326734,
-    "entry_timestamp": "2026-07-16T00:34:20.16",
-    "not_before": "2026-07-16T00:34:17",
-    "not_after": "2026-07-17T00:34:17",
-    "serial_number": "01394682fd332b5608a5e9c5c023d807",
-    "result_count": 1
-  },
-  {
-    "issuer_ca_id": 439355,
-    "issuer_name": "C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R46 DV TLS CA 2026 Q2",
-    "common_name": "imperva.com",
-    "name_value": "*.uat.dol.gov",
-    "id": 27958177065,
-    "entry_timestamp": "2026-07-15T16:34:27.32",
-    "not_before": "2026-07-15T16:34:25",
-    "not_after": "2026-07-16T16:33:28",
-    "serial_number": "0139dc13d3a92ea130c476866c930d0f",
-    "result_count": 1
   },
   {
     "issuer_ca_id": 247119,
@@ -14830,17 +14854,5 @@
     "not_after": "2026-07-18T23:59:59",
     "serial_number": "0df2d729805114ee8294959f393d88bc",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 247119,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
-    "common_name": "aicenter.dol.gov",
-    "name_value": "aicenter.dol.gov",
-    "id": 19066174584,
-    "entry_timestamp": "2025-06-17T04:19:07.185",
-    "not_before": "2025-06-17T00:00:00",
-    "not_after": "2026-07-16T23:59:59",
-    "serial_number": "06fe6ebe590c1b26990c068ce9b3d3a6",
-    "result_count": 2
   }
 ]
