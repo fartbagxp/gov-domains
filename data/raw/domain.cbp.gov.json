@@ -2,6 +2,30 @@
   {
     "issuer_ca_id": 62123,
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
+    "common_name": "www.dhs.gov",
+    "name_value": "bsrcompliance.contracting.cbp.gov\ncbpworkforce.cbp.gov\ncontracting.cbp.gov\nenroll.recruiting.cbp.gov\nerulings.cbp.gov\nhelp.cbp.gov\nhelpspanish.cbp.gov\nlogin.cbp.gov\nmyapplication.cbp.gov\noutreach.cbp.gov\ntrade.cbp.gov\nwww.cbp.gov",
+    "id": 27962609909,
+    "entry_timestamp": "2026-07-15T20:18:21.578",
+    "not_before": "2026-07-15T00:00:00",
+    "not_after": "2026-10-23T23:59:59",
+    "serial_number": "0974296da69881f585451d18cd039846",
+    "result_count": 12
+  },
+  {
+    "issuer_ca_id": 185748,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
+    "common_name": "www4.dhs.gov",
+    "name_value": "ace.cbp.gov\nace-test.cbp.gov\ncbpcomplaints.cbp.gov\nclientservicesportal.cbp.gov\neallegations.cbp.gov\neapallegations.cbp.gov\niprr.cbp.gov\niprs.cbp.gov\npublicstats.cbp.gov\nsurveys.cbp.gov",
+    "id": 27933743634,
+    "entry_timestamp": "2026-07-14T18:57:18.172",
+    "not_before": "2026-06-25T00:00:00",
+    "not_after": "2027-01-09T23:59:59",
+    "serial_number": "0fab539470faa03d5eda3244e65d5605",
+    "result_count": 10
+  },
+  {
+    "issuer_ca_id": 62123,
+    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
     "common_name": "edit-wcms-testint.dhs.gov",
     "name_value": "staging.cbp.gov\ntestint.cbp.gov",
     "id": 27765274771,
@@ -1197,30 +1221,6 @@
     "not_before": "2025-07-28T00:00:00",
     "not_after": "2026-07-28T23:59:59",
     "serial_number": "00ae0016d76faff5ead09c08488b5c1adc",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "*.tvs.cbp.gov",
-    "name_value": "*.tvs.cbp.gov",
-    "id": 19734727560,
-    "entry_timestamp": "2025-07-17T14:10:08.595",
-    "not_before": "2025-07-17T00:00:00",
-    "not_after": "2026-07-17T23:59:59",
-    "serial_number": "722cadda5591058af2a99afda8c40516",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204411,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
-    "common_name": "*.tvs.cbp.gov",
-    "name_value": "*.tvs.cbp.gov",
-    "id": 19734727788,
-    "entry_timestamp": "2025-07-17T14:10:07.806",
-    "not_before": "2025-07-17T00:00:00",
-    "not_after": "2026-07-17T23:59:59",
-    "serial_number": "722cadda5591058af2a99afda8c40516",
     "result_count": 2
   }
 ]
