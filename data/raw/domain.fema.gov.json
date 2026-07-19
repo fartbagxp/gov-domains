@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 185748,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1",
+    "common_name": "edit.dhs.gov",
+    "name_value": "edit-m.fema.gov\nedit-preview-m.fema.gov\nedit-staging-m.fema.gov\nedit-testint-m.fema.gov\nstaging-m.fema.gov\ntestint-m.fema.gov",
+    "id": 28025943412,
+    "entry_timestamp": "2026-07-18T00:58:17.945",
+    "not_before": "2026-07-18T00:00:00",
+    "not_after": "2027-02-01T23:59:59",
+    "serial_number": "0f3b9902fa152742be9ea0ef6e46eb21",
+    "result_count": 6
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "edit.dhs.gov",
+    "name_value": "edit-m.fema.gov\nedit-preview-m.fema.gov\nedit-staging-m.fema.gov\nedit-testint-m.fema.gov\nstaging-m.fema.gov\ntestint-m.fema.gov",
+    "id": 28025350782,
+    "entry_timestamp": "2026-07-18T00:27:49.294",
+    "not_before": "2026-07-18T00:00:00",
+    "not_after": "2027-02-01T23:59:59",
+    "serial_number": "0571fbda07194c88d99795adda2de510",
+    "result_count": 6
+  },
+  {
     "issuer_ca_id": 62123,
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
     "common_name": "www.dhs.gov",
@@ -2668,18 +2692,6 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "origin-go.fema.gov",
     "name_value": "*.origin-go.fema.gov\norigin-go.fema.gov",
-    "id": 26189841202,
-    "entry_timestamp": "2026-05-08T23:38:23.482",
-    "not_before": "2026-05-08T22:39:52",
-    "not_after": "2026-08-06T22:39:51",
-    "serial_number": "067dff81b3297c8b263cc10498098341660b",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "origin-go.fema.gov",
-    "name_value": "*.origin-go.fema.gov\norigin-go.fema.gov",
     "id": 26189833998,
     "entry_timestamp": "2026-05-08T23:38:22.567",
     "not_before": "2026-05-08T22:39:52",
@@ -2925,54 +2937,6 @@
     "not_before": "2026-04-21T00:00:00",
     "not_after": "2026-07-20T13:36:01",
     "serial_number": "2eb11d000133d0373a1b273e82a68a3d",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "origin-staging-go.fema.gov",
-    "name_value": "*.origin-staging-go.fema.gov\norigin-staging-go.fema.gov",
-    "id": 26023095341,
-    "entry_timestamp": "2026-04-19T18:30:44.179",
-    "not_before": "2026-04-19T17:30:43",
-    "not_after": "2026-07-18T18:30:41",
-    "serial_number": "008b8371461cb84c580ee7d8e5316a19e1",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "origin-staging-go.fema.gov",
-    "name_value": "*.origin-staging-go.fema.gov\norigin-staging-go.fema.gov",
-    "id": 25753020125,
-    "entry_timestamp": "2026-04-19T18:30:34.48",
-    "not_before": "2026-04-19T17:30:34",
-    "not_after": "2026-07-18T18:29:07",
-    "serial_number": "336ec4d2f72688480e52c71a1a35b281",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286236,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
-    "common_name": "origin-go.fema.gov",
-    "name_value": "*.origin-go.fema.gov\norigin-go.fema.gov",
-    "id": 25684587119,
-    "entry_timestamp": "2026-04-19T00:33:15.733",
-    "not_before": "2026-04-18T23:33:15",
-    "not_after": "2026-07-18T00:33:13",
-    "serial_number": "3ccc0a9a93256f0e13b2a87ee507c35d",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 286242,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR1",
-    "common_name": "origin-go.fema.gov",
-    "name_value": "*.origin-go.fema.gov\norigin-go.fema.gov",
-    "id": 25999006936,
-    "entry_timestamp": "2026-04-19T00:33:07.615",
-    "not_before": "2026-04-18T23:33:07",
-    "not_after": "2026-07-18T00:31:44",
-    "serial_number": "6e46d391f8057b5513029db753b8c615",
     "result_count": 3
   },
   {

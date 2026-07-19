@@ -1,5 +1,77 @@
 [
   {
+    "issuer_ca_id": 432477,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
+    "common_name": "a-sa.ice.gov",
+    "name_value": "a-sa.ice.gov",
+    "id": 28039334804,
+    "entry_timestamp": "2026-07-18T13:28:56.836",
+    "not_before": "2026-07-18T12:30:25",
+    "not_after": "2026-10-16T12:30:24",
+    "serial_number": "0532d02420150deeef45d2dc5c6b651f2acb",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 432477,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
+    "common_name": "a-sa.ice.gov",
+    "name_value": "a-sa.ice.gov",
+    "id": 28039340483,
+    "entry_timestamp": "2026-07-18T13:28:55.747",
+    "not_before": "2026-07-18T12:30:25",
+    "not_after": "2026-10-16T12:30:24",
+    "serial_number": "0532d02420150deeef45d2dc5c6b651f2acb",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 432476,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
+    "common_name": "int-sa.ice.gov",
+    "name_value": "int-sa.ice.gov",
+    "id": 28039208081,
+    "entry_timestamp": "2026-07-18T13:21:15.561",
+    "not_before": "2026-07-18T12:22:45",
+    "not_after": "2026-10-16T12:22:44",
+    "serial_number": "0527a80f83eb0a3d766d7768508e2ff24de8",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 432476,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
+    "common_name": "int-sa.ice.gov",
+    "name_value": "int-sa.ice.gov",
+    "id": 28039203219,
+    "entry_timestamp": "2026-07-18T13:21:15.097",
+    "not_before": "2026-07-18T12:22:45",
+    "not_after": "2026-10-16T12:22:44",
+    "serial_number": "0527a80f83eb0a3d766d7768508e2ff24de8",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 62123,
+    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
+    "common_name": "www.dhs.gov",
+    "name_value": "legacy.secretservice.gov\nm.ice.gov\npreview.secretservice.gov\nwww.ice.gov\nwww.secretservice.gov",
+    "id": 27962609909,
+    "entry_timestamp": "2026-07-15T20:18:21.578",
+    "not_before": "2026-07-15T00:00:00",
+    "not_after": "2026-10-23T23:59:59",
+    "serial_number": "0974296da69881f585451d18cd039846",
+    "result_count": 5
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "eservice.ice.gov",
+    "name_value": "eservice.ice.gov\neserviceportal.ice.gov\neserviceregistration.ice.gov",
+    "id": 27832861658,
+    "entry_timestamp": "2026-07-10T14:32:27.288",
+    "not_before": "2026-07-10T00:00:00",
+    "not_after": "2027-01-24T23:59:59",
+    "serial_number": "095cb02f3ee10565adc994eecce51c41",
+    "result_count": 4
+  },
+  {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "batch.beta.sevis.ice.gov",
@@ -46,18 +118,6 @@
     "not_after": "2026-09-21T17:45:53",
     "serial_number": "211402927481429399dfab174e8a2987",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "HSITOCSupport.ice.gov",
-    "name_value": "HSITOCSupport.ice.gov",
-    "id": 27397364747,
-    "entry_timestamp": "2026-06-22T14:32:08.384",
-    "not_before": "2025-06-05T00:00:00",
-    "not_after": "2026-07-06T23:59:59",
-    "serial_number": "04fb732fac45b9215590cd4137e21b63",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 185752,
@@ -490,102 +550,6 @@
     "not_after": "2026-10-29T23:59:59",
     "serial_number": "08509c3420e0c104d6eb1b70960b7890",
     "result_count": 4
-  },
-  {
-    "issuer_ca_id": 295809,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
-    "common_name": "author-brandcentral.ice.gov",
-    "name_value": "author-brandcentral.ice.gov",
-    "id": 25834815860,
-    "entry_timestamp": "2026-04-14T00:48:08.779",
-    "not_before": "2026-04-13T23:49:38",
-    "not_after": "2026-07-12T23:49:37",
-    "serial_number": "0549bfd5d1dc985182fc9774bfcf23aec71e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295809,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
-    "common_name": "author-brandcentral.ice.gov",
-    "name_value": "author-brandcentral.ice.gov",
-    "id": 25491915510,
-    "entry_timestamp": "2026-04-14T00:48:08.328",
-    "not_before": "2026-04-13T23:49:38",
-    "not_after": "2026-07-12T23:49:37",
-    "serial_number": "0549bfd5d1dc985182fc9774bfcf23aec71e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295809,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
-    "common_name": "brandcentral.ice.gov",
-    "name_value": "brandcentral.ice.gov",
-    "id": 25573064800,
-    "entry_timestamp": "2026-04-14T00:37:39.744",
-    "not_before": "2026-04-13T23:39:08",
-    "not_after": "2026-07-12T23:39:07",
-    "serial_number": "052d83ebe5c87fd3ee68bc8307a836a3ff19",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295809,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
-    "common_name": "brandcentral.ice.gov",
-    "name_value": "brandcentral.ice.gov",
-    "id": 25529513097,
-    "entry_timestamp": "2026-04-14T00:37:38.408",
-    "not_before": "2026-04-13T23:39:08",
-    "not_after": "2026-07-12T23:39:07",
-    "serial_number": "052d83ebe5c87fd3ee68bc8307a836a3ff19",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295809,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
-    "common_name": "devauthor-assetshare.ice.gov",
-    "name_value": "devauthor-assetshare.ice.gov",
-    "id": 25597629860,
-    "entry_timestamp": "2026-04-13T23:50:56.018",
-    "not_before": "2026-04-13T22:52:24",
-    "not_after": "2026-07-12T22:52:23",
-    "serial_number": "05126a3db2e061d5aa572df062fbb0dc8208",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295809,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
-    "common_name": "devauthor-assetshare.ice.gov",
-    "name_value": "devauthor-assetshare.ice.gov",
-    "id": 25597628936,
-    "entry_timestamp": "2026-04-13T23:50:55.033",
-    "not_before": "2026-04-13T22:52:24",
-    "not_after": "2026-07-12T22:52:23",
-    "serial_number": "05126a3db2e061d5aa572df062fbb0dc8208",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295813,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
-    "common_name": "dev-assetshare.ice.gov",
-    "name_value": "dev-assetshare.ice.gov",
-    "id": 25571582289,
-    "entry_timestamp": "2026-04-13T23:14:00.826",
-    "not_before": "2026-04-13T22:15:29",
-    "not_after": "2026-07-12T22:15:28",
-    "serial_number": "06d495997734da045a505a3f1e9d2f4f15dd",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295813,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
-    "common_name": "dev-assetshare.ice.gov",
-    "name_value": "dev-assetshare.ice.gov",
-    "id": 25571088840,
-    "entry_timestamp": "2026-04-13T23:13:59.777",
-    "not_before": "2026-04-13T22:15:29",
-    "not_after": "2026-07-12T22:15:28",
-    "serial_number": "06d495997734da045a505a3f1e9d2f4f15dd",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 185748,
@@ -1574,18 +1538,6 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "return.ice.gov",
-    "name_value": "return.ice.gov",
-    "id": 19737588322,
-    "entry_timestamp": "2025-07-17T17:11:11.898",
-    "not_before": "2025-07-17T00:00:00",
-    "not_after": "2026-07-16T23:59:59",
-    "serial_number": "06384d8093b1399e044f49a0cc45890c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "visitor.ice.gov",
     "name_value": "visitor.ice.gov",
     "id": 19551687747,
@@ -1593,18 +1545,6 @@
     "not_before": "2025-07-09T00:00:00",
     "not_after": "2026-08-09T23:59:59",
     "serial_number": "05dbcbb4f8ffa0dcd9157d6b3e1ac59c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "ravencic.ice.gov",
-    "name_value": "ravencic.ice.gov",
-    "id": 19551393828,
-    "entry_timestamp": "2025-07-09T14:36:06.705",
-    "not_before": "2025-07-09T00:00:00",
-    "not_after": "2026-07-09T23:59:59",
-    "serial_number": "02c66d59711c33577526cba22315c049",
     "result_count": 2
   },
   {
@@ -1618,17 +1558,5 @@
     "not_after": "2026-08-01T23:59:59",
     "serial_number": "06bbf049151dc234f8d30973e6fa125d",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "HSITOCSupport.ice.gov",
-    "name_value": "HSITOCSupport.ice.gov",
-    "id": 18832884795,
-    "entry_timestamp": "2025-06-05T20:23:23.637",
-    "not_before": "2025-06-05T00:00:00",
-    "not_after": "2026-07-06T23:59:59",
-    "serial_number": "04fb732fac45b9215590cd4137e21b63",
-    "result_count": 2
   }
 ]
