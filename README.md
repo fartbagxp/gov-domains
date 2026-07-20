@@ -13,7 +13,7 @@ Tracking technology stacks, IP address ranges, and autonomous system numbers (AS
 | Lint | [![Lint](https://github.com/fartbagxp/gov-domains/actions/workflows/lint.yml/badge.svg)](https://github.com/fartbagxp/gov-domains/actions/workflows/lint.yml) |
 
 <!-- BEGIN:timestamp -->
-_Last updated: 2026-07-13 09:10 UTC_
+_Last updated: 2026-07-20 09:08 UTC_
 <!-- END:timestamp -->
 
 ---
@@ -907,48 +907,48 @@ Includes EHR systems (Epic, Cerner/Oracle), clinical networks, and health data p
 Top technologies detected across actively scanned government domains via httpx fingerprinting.
 
 <!-- BEGIN:tech-table -->
-| Technology                  | Domains | Example Domains                           |
-| :---                        | ---:    | :---                                      |
-| HSTS                        |    2141 | archives.gov, atf.gov, bjs.gov            |
-| Cloudflare                  |     473 | americabydesign.gov, atf.gov, bis.gov     |
-| Amazon Web Services         |     406 | acf.gov, archives.gov, atf.gov            |
-| HTTP/3                      |     361 | americabydesign.gov, cancer.gov, cdc.gov  |
-| Cloudflare Bot Management   |     308 | atf.gov, bis.gov, census.gov              |
-| Amazon CloudFront           |     268 | archives.gov, atf.gov, cancer.gov         |
-| Cloudflare Browser Insights |     189 | americabydesign.gov, census.gov, cisa.gov |
-| Apache HTTP Server          |     162 | cancer.gov, commerce.gov, doi.gov         |
-| Nginx                       |     119 | archives.gov, atf.gov, cancer.gov         |
-| jQuery                      |     106 | cancer.gov, cdc.gov, census.gov           |
-| Google Tag Manager          |      94 | archives.gov, cancer.gov, data.gov        |
-| Akamai                      |      90 | dot.gov, faa.gov, fws.gov                 |
-| PHP                         |      86 | atf.gov, cancer.gov, commerce.gov         |
-| Google Analytics            |      80 | archives.gov, cancer.gov, commerce.gov    |
-| Amazon ELB                  |      76 | acf.gov, archives.gov, cisa.gov           |
-| IIS:10.0                    |      70 | atf.gov, bis.gov, cancer.gov              |
-| Windows Server              |      70 | atf.gov, bis.gov, cancer.gov              |
-| Azure                       |      67 | cdc.gov, ed.gov, gpo.gov                  |
-| Microsoft ASP.NET           |      62 | atf.gov, cdc.gov, commerce.gov            |
-| Amazon S3                   |      59 | archives.gov, atf.gov, cancer.gov         |
-| Azure Front Door            |      58 | cdc.gov, ed.gov, gpo.gov                  |
-| Akamai Bot Manager          |      57 | healthcare.gov, irs.gov, medicare.gov     |
-| Amazon ALB                  |      56 | cancer.gov, epa.gov, fema.gov             |
-| Drupal:10                   |      47 | atf.gov, cancer.gov, doi.gov              |
-| USWDS                       |      42 | data.gov, energy.gov, epa.gov             |
-| Bootstrap                   |      42 | archives.gov, cancer.gov, cdc.gov         |
-| Acquia Cloud Platform:next  |      40 | atf.gov, cancer.gov, doi.gov              |
-| jsDelivr                    |      39 | cancer.gov, data.gov, doi.gov             |
-| Java                        |      39 | atf.gov, cancer.gov, cisa.gov             |
-| Varnish                     |      36 | atf.gov, hiv.gov, justice.gov             |
-| F5 BigIP                    |      36 | bjs.gov, cancer.gov, commerce.gov         |
-| cdnjs                       |      35 | cancer.gov, energy.gov, epa.gov           |
-| jQuery CDN                  |      27 | cancer.gov, energy.gov, fws.gov           |
-| Microsoft HTTPAPI:2.0       |      25 | cdc.gov, doe.gov, dot.gov                 |
-| Google Cloud                |      24 | cancer.gov, clinicaltrials.gov, doe.gov   |
-| Microsoft ASP.NET:4.0.30319 |      22 | cdc.gov, energy.gov, epa.gov              |
-| DataTables                  |      22 | cdc.gov, data.gov, nist.gov               |
-| Ruby                        |      20 | commerce.gov, energy.gov, login.gov       |
-| Ruby on Rails               |      20 | commerce.gov, energy.gov, login.gov       |
-| Google Cloud CDN            |      20 | clinicaltrials.gov, doe.gov, doi.gov      |
+| Technology                  | Domains | Example Domains                            |
+| :---                        | ---:    | :---                                       |
+| HSTS                        |    2229 | acf.gov, americabydesign.gov, archives.gov |
+| Amazon Web Services         |     418 | acf.gov, archives.gov, atf.gov             |
+| Cloudflare                  |     418 | americabydesign.gov, atf.gov, bis.gov      |
+| HTTP/3                      |     342 | acf.gov, americabydesign.gov, cancer.gov   |
+| Amazon CloudFront           |     301 | acf.gov, archives.gov, atf.gov             |
+| Cloudflare Bot Management   |     300 | atf.gov, bis.gov, census.gov               |
+| Apache HTTP Server          |     163 | cancer.gov, commerce.gov, doi.gov          |
+| Cloudflare Browser Insights |     159 | americabydesign.gov, census.gov, cisa.gov  |
+| Akamai                      |     108 | faa.gov, fws.gov, healthcare.gov           |
+| Google Tag Manager          |     106 | archives.gov, data.gov, doi.gov            |
+| Nginx                       |     101 | acf.gov, archives.gov, atf.gov             |
+| Microsoft ASP.NET           |      96 | atf.gov, cdc.gov, commerce.gov             |
+| IIS:10.0                    |      94 | atf.gov, bis.gov, cancer.gov               |
+| Windows Server              |      94 | atf.gov, bis.gov, cancer.gov               |
+| jQuery                      |      90 | cancer.gov, cdc.gov, commerce.gov          |
+| Amazon ELB                  |      79 | acf.gov, archives.gov, cisa.gov            |
+| Google Analytics            |      76 | cancer.gov, commerce.gov, doi.gov          |
+| Akamai Bot Manager          |      73 | healthcare.gov, irs.gov, medicare.gov      |
+| PHP                         |      71 | cancer.gov, commerce.gov, doi.gov          |
+| Azure                       |      66 | cdc.gov, epa.gov, gpo.gov                  |
+| Amazon S3                   |      63 | acf.gov, archives.gov, cancer.gov          |
+| Azure Front Door            |      56 | cdc.gov, epa.gov, gpo.gov                  |
+| Amazon ALB                  |      50 | cancer.gov, epa.gov, fema.gov              |
+| USWDS                       |      46 | data.gov, energy.gov, epa.gov              |
+| Java                        |      43 | atf.gov, cancer.gov, data.gov              |
+| Bootstrap                   |      42 | cancer.gov, cdc.gov, data.gov              |
+| cdnjs                       |      35 | cancer.gov, doe.gov, energy.gov            |
+| jsDelivr                    |      32 | cancer.gov, data.gov, doi.gov              |
+| jQuery CDN                  |      29 | cancer.gov, energy.gov, epa.gov            |
+| Drupal:10                   |      28 | cancer.gov, doi.gov, epa.gov               |
+| F5 BigIP                    |      28 | acf.gov, bjs.gov, cancer.gov               |
+| Varnish                     |      26 | atf.gov, hiv.gov, house.gov                |
+| Acquia Cloud Platform:next  |      25 | atf.gov, cancer.gov, doi.gov               |
+| Microsoft ASP.NET:4.0.30319 |      22 | cdc.gov, energy.gov, epa.gov               |
+| Modernizr                   |      19 | atf.gov, cdc.gov, epa.gov                  |
+| Google Cloud                |      19 | cancer.gov, clinicaltrials.gov, doe.gov    |
+| Ruby                        |      18 | energy.gov, login.gov, nih.gov             |
+| Ruby on Rails               |      18 | energy.gov, login.gov, nih.gov             |
+| Font Awesome                |      17 | cancer.gov, cdc.gov, epa.gov               |
+| Microsoft HTTPAPI:2.0       |      17 | cdc.gov, doe.gov, energy.gov               |
 <!-- END:tech-table -->
 
 ---
