@@ -1,5 +1,53 @@
 [
   {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "cicd.is.dtc.va.gov",
+    "name_value": "cicd.is.dtc.va.gov",
+    "id": 28099519385,
+    "entry_timestamp": "2026-07-20T17:37:59.442",
+    "not_before": "2026-07-20T00:00:00",
+    "not_after": "2027-02-03T23:59:59",
+    "serial_number": "00c8ab92a1e05d224f83f5e60130f9b58f",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "cicd.is.dtc.va.gov",
+    "name_value": "cicd.is.dtc.va.gov",
+    "id": 28099518211,
+    "entry_timestamp": "2026-07-20T17:37:58.572",
+    "not_before": "2026-07-20T00:00:00",
+    "not_after": "2027-02-03T23:59:59",
+    "serial_number": "00c8ab92a1e05d224f83f5e60130f9b58f",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 432477,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
+    "common_name": "yourit.va.gov",
+    "name_value": "yourit.va.gov",
+    "id": 28076755023,
+    "entry_timestamp": "2026-07-19T23:32:56.975",
+    "not_before": "2026-07-19T22:34:25",
+    "not_after": "2026-10-17T22:34:24",
+    "serial_number": "05a012298479cf73ce5748881ae3d44f5a84",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 432477,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
+    "common_name": "yourit.va.gov",
+    "name_value": "yourit.va.gov",
+    "id": 28076758756,
+    "entry_timestamp": "2026-07-19T23:32:55.594",
+    "not_before": "2026-07-19T22:34:25",
+    "not_after": "2026-10-17T22:34:24",
+    "serial_number": "05a012298479cf73ce5748881ae3d44f5a84",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "StateVeteransHomes10-10SH.va.gov",
@@ -6852,30 +6900,6 @@
     "result_count": 6
   },
   {
-    "issuer_ca_id": 385512,
-    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
-    "common_name": "vaausappeiv21.aac.va.gov",
-    "name_value": "vaausappeiv21.aac.va.gov",
-    "id": 19738885957,
-    "entry_timestamp": "2025-07-17T18:38:01.939",
-    "not_before": "2025-07-17T00:00:00",
-    "not_after": "2026-07-17T23:59:59",
-    "serial_number": "00f619715f42eecaea73a4136acefed9d2",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 385512,
-    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
-    "common_name": "vaausappeiv21.aac.va.gov",
-    "name_value": "vaausappeiv21.aac.va.gov",
-    "id": 19738885955,
-    "entry_timestamp": "2025-07-17T18:38:00.652",
-    "not_before": "2025-07-17T00:00:00",
-    "not_after": "2026-07-17T23:59:59",
-    "serial_number": "00f619715f42eecaea73a4136acefed9d2",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "staging-api.eva.va.gov",
@@ -7065,30 +7089,6 @@
     "not_before": "2025-06-25T00:00:00",
     "not_after": "2026-07-24T23:59:59",
     "serial_number": "091847b77f7ff7fdb867f05613d41002",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "jira.devops.va.gov",
-    "name_value": "jira.devops.va.gov",
-    "id": 19085910976,
-    "entry_timestamp": "2025-06-18T01:46:46.763",
-    "not_before": "2025-06-18T00:00:00",
-    "not_after": "2026-07-19T23:59:59",
-    "serial_number": "0bedbf60d86fb74b59bb1d395ddb2c61",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "confluence.devops.va.gov",
-    "name_value": "confluence.devops.va.gov",
-    "id": 19085494369,
-    "entry_timestamp": "2025-06-18T01:21:02.907",
-    "not_before": "2025-06-18T00:00:00",
-    "not_after": "2026-07-19T23:59:59",
-    "serial_number": "0fe7b9fb2b710837e64f41d247f1cc9c",
     "result_count": 2
   }
 ]
