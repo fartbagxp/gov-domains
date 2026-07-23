@@ -2,6 +2,66 @@
   {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "ocssf.acf.gov",
+    "name_value": "ocssf.acf.gov",
+    "id": 28174414351,
+    "entry_timestamp": "2026-07-23T06:44:18.666",
+    "not_before": "2026-07-23T00:00:00",
+    "not_after": "2027-02-05T23:59:59",
+    "serial_number": "07dd52ddc72b446b622e8ff610165ccf",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "*.acf.gov",
+    "name_value": "*.acf.gov",
+    "id": 28172031447,
+    "entry_timestamp": "2026-07-23T04:42:16.302",
+    "not_before": "2026-07-23T00:00:00",
+    "not_after": "2027-02-05T23:59:59",
+    "serial_number": "04bba31dc6c028fca864d6e643bd897a",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 432476,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
+    "common_name": "survey.acf.gov",
+    "name_value": "survey.acf.gov",
+    "id": 28150985582,
+    "entry_timestamp": "2026-07-22T11:12:20.813",
+    "not_before": "2026-07-22T10:13:49",
+    "not_after": "2026-10-20T10:13:48",
+    "serial_number": "0533f66adf11aa7478f6949e2b22a6ea6aa3",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 432476,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
+    "common_name": "survey.acf.gov",
+    "name_value": "survey.acf.gov",
+    "id": 28150991662,
+    "entry_timestamp": "2026-07-22T11:12:19.99",
+    "not_before": "2026-07-22T10:13:49",
+    "not_after": "2026-10-20T10:13:48",
+    "serial_number": "0533f66adf11aa7478f6949e2b22a6ea6aa3",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "rhy-hmis-dev.acf.gov",
+    "name_value": "rhy-hmis-dev.acf.gov",
+    "id": 28127808620,
+    "entry_timestamp": "2026-07-21T15:55:35.139",
+    "not_before": "2026-07-21T00:00:00",
+    "not_after": "2027-02-03T23:59:59",
+    "serial_number": "01408c776469a09e5b290e9f62abb9a2",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "nct-test.acf.gov",
     "name_value": "nct-test.acf.gov",
     "id": 28030449959,
@@ -2092,11 +2152,35 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
     "common_name": "login-sbx.acf.gov",
     "name_value": "login-sbx.acf.gov",
+    "id": 26345563337,
+    "entry_timestamp": "2026-05-15T02:02:03.646",
+    "not_before": "2026-05-15T01:03:32",
+    "not_after": "2026-08-13T01:03:31",
+    "serial_number": "05276f90d5002657855e587c083f1369a55b",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "login-sbx.acf.gov",
+    "name_value": "login-sbx.acf.gov",
     "id": 26346452469,
     "entry_timestamp": "2026-05-15T02:02:02.037",
     "not_before": "2026-05-15T01:03:32",
     "not_after": "2026-08-13T01:03:31",
     "serial_number": "05276f90d5002657855e587c083f1369a55b",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "survey.acf.gov",
+    "name_value": "survey.acf.gov",
+    "id": 26309916728,
+    "entry_timestamp": "2026-05-13T11:29:52.856",
+    "not_before": "2026-05-13T10:31:22",
+    "not_after": "2026-08-11T10:31:21",
+    "serial_number": "05af9a8fc83b5c22993640d0d34c6924bf86",
     "result_count": 2
   },
   {
@@ -2380,6 +2464,18 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
     "common_name": "go.acf.gov",
     "name_value": "go.acf.gov",
+    "id": 25954338045,
+    "entry_timestamp": "2026-04-30T20:02:28.091",
+    "not_before": "2026-04-30T19:03:56",
+    "not_after": "2026-07-29T19:03:55",
+    "serial_number": "05a6bfeb8b51f16a30ffb0ccb214c63aef3a",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295816,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
+    "common_name": "go.acf.gov",
+    "name_value": "go.acf.gov",
     "id": 25953907199,
     "entry_timestamp": "2026-04-30T20:02:26.651",
     "not_before": "2026-04-30T19:03:56",
@@ -2421,6 +2517,18 @@
     "not_before": "2026-04-29T00:00:00",
     "not_after": "2026-11-12T23:59:59",
     "serial_number": "055c7a96e0846dde190215f8528b8413",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 295817,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
+    "common_name": "login.acf.gov",
+    "name_value": "login.acf.gov",
+    "id": 25897045832,
+    "entry_timestamp": "2026-04-29T02:01:31.17",
+    "not_before": "2026-04-29T01:02:59",
+    "not_after": "2026-07-28T01:02:58",
+    "serial_number": "06fbffddd75b0a4f569abf32157ba1f607a1",
     "result_count": 2
   },
   {
@@ -5820,18 +5928,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 247119,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
-    "common_name": "www.nct.acf.gov",
-    "name_value": "www.nct.acf.gov",
-    "id": 19291871501,
-    "entry_timestamp": "2025-06-27T17:51:04.965",
-    "not_before": "2025-06-27T00:00:00",
-    "not_after": "2026-07-26T23:59:59",
-    "serial_number": "057aebe42a0a0ba98e124c29f1f74344",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 247106,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
     "common_name": "nct.acf.gov",
@@ -5841,6 +5937,18 @@
     "not_before": "2025-06-27T00:00:00",
     "not_after": "2026-07-26T23:59:59",
     "serial_number": "0a0c817bd159167eeff64ff1ebebb6cb",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "www.nct.acf.gov",
+    "name_value": "www.nct.acf.gov",
+    "id": 19291871501,
+    "entry_timestamp": "2025-06-27T17:51:04.965",
+    "not_before": "2025-06-27T00:00:00",
+    "not_after": "2026-07-26T23:59:59",
+    "serial_number": "057aebe42a0a0ba98e124c29f1f74344",
     "result_count": 2
   },
   {
@@ -5877,54 +5985,6 @@
     "not_before": "2025-06-24T00:00:00",
     "not_after": "2026-07-23T23:59:59",
     "serial_number": "04db04788c0f282f06437d3fbe603b22",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "rads-pre-prod.acf.gov",
-    "name_value": "*.rads-pre-prod.acf.gov\nrads-pre-prod.acf.gov",
-    "id": 19204915349,
-    "entry_timestamp": "2025-06-23T14:47:05.48",
-    "not_before": "2025-06-23T00:00:00",
-    "not_after": "2026-07-22T23:59:59",
-    "serial_number": "09b811d5ad1e5daab33dfffceb5dd67c",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 247119,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
-    "common_name": "www.rads-pre-prod.acf.gov",
-    "name_value": "www.rads-pre-prod.acf.gov",
-    "id": 19204915110,
-    "entry_timestamp": "2025-06-23T14:46:59.477",
-    "not_before": "2025-06-23T00:00:00",
-    "not_after": "2026-07-22T23:59:59",
-    "serial_number": "0413f21d807e1d6c31196b0e5cb52df5",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "rads-pre-prod.acf.gov",
-    "name_value": "*.rads-pre-prod.acf.gov\nrads-pre-prod.acf.gov",
-    "id": 19203740529,
-    "entry_timestamp": "2025-06-23T13:31:45.525",
-    "not_before": "2025-06-23T00:00:00",
-    "not_after": "2026-07-22T23:59:59",
-    "serial_number": "09b811d5ad1e5daab33dfffceb5dd67c",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 247119,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
-    "common_name": "www.rads-pre-prod.acf.gov",
-    "name_value": "www.rads-pre-prod.acf.gov",
-    "id": 19203731716,
-    "entry_timestamp": "2025-06-23T13:31:15.621",
-    "not_before": "2025-06-23T00:00:00",
-    "not_after": "2026-07-22T23:59:59",
-    "serial_number": "0413f21d807e1d6c31196b0e5cb52df5",
     "result_count": 2
   }
 ]
