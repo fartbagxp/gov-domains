@@ -1,5 +1,17 @@
 [
   {
+    "issuer_ca_id": 62123,
+    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
+    "common_name": "dol.gov",
+    "name_value": "blscompdata.bls.gov\nblscompdatat.bls.gov\nblsconfidentialitytraining.bls.gov\nblsconfidentialitytrainingt.bls.gov\ncesdata.bls.gov\ncesdatat.bls.gov\ndownload.bls.gov\nidcfars.bls.gov\nidcfbbs.bls.gov\nidcf.bls.gov\nidcfoews.bls.gov\nidcftars.bls.gov\nidcftbbs.bls.gov\nidcft.bls.gov\nidcftoews.bls.gov\njoltsdata.bls.gov\njoltsdatat.bls.gov\nrespondents.bls.gov\nrespondentst.bls.gov\nsplunk-ds.bls.gov\nstats.bls.gov\ntraining.bls.gov\ntrainingt.bls.gov\nwww.bls.gov",
+    "id": 28129948765,
+    "entry_timestamp": "2026-07-21T17:28:15.858",
+    "not_before": "2026-07-21T00:00:00",
+    "not_after": "2027-02-04T23:59:59",
+    "serial_number": "0f52ead379ae90c68865a09b3cfaa577",
+    "result_count": 24
+  },
+  {
     "issuer_ca_id": 432476,
     "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
     "common_name": "www.dol.gov",
@@ -2385,30 +2397,6 @@
     "not_before": "2025-06-26T15:20:33",
     "not_after": "2026-07-26T04:00:00",
     "serial_number": "2ea56401c3e369cc6176af03cdebe73c",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "fsmscicdsrv01.psb.bls.gov",
-    "name_value": "fsmscicdsrv01.psb.bls.gov\nwww.fsmscicdsrv01.psb.bls.gov",
-    "id": 19204902965,
-    "entry_timestamp": "2025-06-23T14:45:40.146",
-    "not_before": "2025-06-23T14:35:38",
-    "not_after": "2026-07-23T04:00:00",
-    "serial_number": "0a056cf3523c2ee14595440d2ac8940b",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "ceswebdev.psb.bls.gov",
-    "name_value": "ceswebdev.psb.bls.gov\nwww.ceswebdev.psb.bls.gov",
-    "id": 19138634436,
-    "entry_timestamp": "2025-06-20T15:04:21.023",
-    "not_before": "2025-06-20T14:54:19",
-    "not_after": "2026-07-20T04:00:00",
-    "serial_number": "6baacf8c8611334dc7f41e84a0abd1c7",
     "result_count": 3
   }
 ]
