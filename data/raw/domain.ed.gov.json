@@ -1,5 +1,41 @@
 [
   {
+    "issuer_ca_id": 62123,
+    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
+    "common_name": "test2-api.ftim.ed.gov",
+    "name_value": "test2-api.ftim.ed.gov\ntest2-dva.ftim.ed.gov\ntest2-idr-api-backend.ftim.ed.gov\ntest2-int-api.ftim.ed.gov\ntest2-int-dva.ftim.ed.gov\ntest2-int-sample.ftim.ed.gov",
+    "id": 28213223571,
+    "entry_timestamp": "2026-07-24T14:12:36.445",
+    "not_before": "2026-07-24T00:00:00",
+    "not_after": "2027-02-07T23:59:59",
+    "serial_number": "064dfe23490620e6584446c264d5e148",
+    "result_count": 7
+  },
+  {
+    "issuer_ca_id": 62123,
+    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
+    "common_name": "drupaladmin.ed.gov",
+    "name_value": "drupaladmin.ed.gov",
+    "id": 28185331112,
+    "entry_timestamp": "2026-07-23T15:42:10.613",
+    "not_before": "2026-07-23T00:00:00",
+    "not_after": "2027-02-06T23:59:59",
+    "serial_number": "03ea25dd6e83922c7ee30008bc8eea6d",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 62123,
+    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
+    "common_name": "dev.drupaladmin.ed.gov",
+    "name_value": "dev.drupaladmin.ed.gov\nstage.drupaladmin.ed.gov\ntest.drupaladmin.ed.gov",
+    "id": 28185101023,
+    "entry_timestamp": "2026-07-23T15:31:41.846",
+    "not_before": "2026-07-23T00:00:00",
+    "not_after": "2027-02-06T23:59:59",
+    "serial_number": "0bf1a112f59c6545952663e97bfd9653",
+    "result_count": 4
+  },
+  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "ita-nonprod.ed.gov",
@@ -8114,18 +8150,6 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "title2.ed.gov",
-    "name_value": "title2.ed.gov",
-    "id": 19881789620,
-    "entry_timestamp": "2025-07-24T18:36:04.004",
-    "not_before": "2025-07-24T00:00:00",
-    "not_after": "2026-07-23T23:59:59",
-    "serial_number": "0fc771ec47a6cb2ce757e6e58a36ab1d",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "customersupport.cod.ed.gov",
     "name_value": "customersupport.cod.ed.gov",
     "id": 19878559271,
@@ -8302,17 +8326,5 @@
     "not_after": "2026-07-31T23:59:59",
     "serial_number": "0eb0b37873680aafd2633384f59264ab",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "portal.forms.ed.gov",
-    "name_value": "portal.formsdev.ed.gov\nportal.forms.ed.gov\nportal.formsstg.ed.gov\nportal.formstest.ed.gov",
-    "id": 19217703238,
-    "entry_timestamp": "2025-06-24T04:42:44.663",
-    "not_before": "2025-06-24T00:00:00",
-    "not_after": "2026-07-23T23:59:59",
-    "serial_number": "0dedb13e919e6d9fad07336bb3090647",
-    "result_count": 5
   }
 ]
