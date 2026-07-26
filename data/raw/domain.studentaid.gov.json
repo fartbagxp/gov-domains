@@ -1,5 +1,41 @@
 [
   {
+    "issuer_ca_id": 432476,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
+    "common_name": "*.nsldsops.ed.gov",
+    "name_value": "aap.apps.mgmt.studentaid.gov\n*.ops.studentaid.gov\n*.origin.test.studentaid.gov\n*.test.studentaid.gov",
+    "id": 28129564518,
+    "entry_timestamp": "2026-07-21T17:09:40.551",
+    "not_before": "2026-07-21T16:11:09",
+    "not_after": "2026-10-19T16:11:08",
+    "serial_number": "05d3e9506f291197328e63228402ec4c6f41",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 432476,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
+    "common_name": "*.nsldsops.ed.gov",
+    "name_value": "aap.apps.mgmt.studentaid.gov\n*.ops.studentaid.gov\n*.origin.test.studentaid.gov\n*.test.studentaid.gov",
+    "id": 28129554785,
+    "entry_timestamp": "2026-07-21T17:09:39.708",
+    "not_before": "2026-07-21T16:11:09",
+    "not_after": "2026-10-19T16:11:08",
+    "serial_number": "05d3e9506f291197328e63228402ec4c6f41",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 62123,
+    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
+    "common_name": "fafsa.gov",
+    "name_value": "apig-pft-api-dcc.studentaid.gov\napig-pft-system-dcc.studentaid.gov\napig-test-api-dcc.studentaid.gov\napig-test-system-dcc.studentaid.gov\ndocs.ops.studentaid.gov\ndocs.test.studentaid.gov\nexternal-api.studentaid.gov\nlogs.studentaid.gov\nmirror.mail.studentaid.gov\nmirror-mail-tce101.studentaid.gov\nmirror-mail-tce102.studentaid.gov\nmirror-mc-tce101.studentaid.gov\nmirror-mc-tce102.studentaid.gov\nnotify.mail.studentaid.gov\nnotify-mail-tce101.studentaid.gov\nnotify-mail-tce102.studentaid.gov\nnotify-mc-tce101.studentaid.gov\nnotify-mc-tce102.studentaid.gov\nportal.ops.studentaid.gov\nportal.test.studentaid.gov\nres.mail.studentaid.gov\nres-mail-tce101.studentaid.gov\nres-mail-tce102.studentaid.gov\nres-mc-tce101.studentaid.gov\nres-mc-tce102.studentaid.gov\nrtmirror.mail.studentaid.gov\nrtnotify.mail.studentaid.gov\nrtres.mail.studentaid.gov\nrttrack.mail.studentaid.gov\nservice-api.studentaid.gov\nstudentaid.gov\ntrack.mail.studentaid.gov\ntrack-mail-tce101.studentaid.gov\ntrack-mail-tce102.studentaid.gov\ntrack-mc-tce101.studentaid.gov\ntrack-mc-tce102.studentaid.gov\ntrack.ops.studentaid.gov\ntrack.test.studentaid.gov\ntraining.ops.studentaid.gov\ntraining-test.ops.studentaid.gov\nuser-api.studentaid.gov\nwww.studentaid.gov",
+    "id": 28078313843,
+    "entry_timestamp": "2026-07-20T00:41:12.43",
+    "not_before": "2026-07-20T00:00:00",
+    "not_after": "2027-02-03T23:59:59",
+    "serial_number": "0ee7c9654f0d5785640ac40859963fa7",
+    "result_count": 42
+  },
+  {
     "issuer_ca_id": 246719,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "contentmma.guides.nelnet.com",
@@ -1488,42 +1524,6 @@
     "result_count": 22
   },
   {
-    "issuer_ca_id": 286244,
-    "issuer_name": "C=US, O=Google Trust Services, CN=WR3",
-    "common_name": "content.nelnet.studentaid.gov",
-    "name_value": "content.nelnet.studentaid.gov",
-    "id": 26041056512,
-    "entry_timestamp": "2026-04-25T00:50:47.303",
-    "not_before": "2026-04-24T23:50:46",
-    "not_after": "2026-07-24T00:46:41",
-    "serial_number": "61bdf6625aad7f7b129184bb6f2dd36e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "*.cod.atagc.com",
-    "name_value": "*.test.studentaid.gov",
-    "id": 25718934018,
-    "entry_timestamp": "2026-04-23T20:00:14.998",
-    "not_before": "2026-04-23T19:01:44",
-    "not_after": "2026-07-22T19:01:43",
-    "serial_number": "057c5b30a9201f0864ea5adcc551dd3bf1fe",
-    "result_count": 1
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "*.cod.atagc.com",
-    "name_value": "*.test.studentaid.gov",
-    "id": 25764822406,
-    "entry_timestamp": "2026-04-23T20:00:14.541",
-    "not_before": "2026-04-23T19:01:44",
-    "not_after": "2026-07-22T19:01:43",
-    "serial_number": "057c5b30a9201f0864ea5adcc551dd3bf1fe",
-    "result_count": 1
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "qaextmma.nelnet.studentaid.gov",
@@ -2518,41 +2518,5 @@
     "not_after": "2026-08-11T23:59:59",
     "serial_number": "046e6eefa891a56d8d0a2b8c55081487",
     "result_count": 1
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "myaccount-cat.mohela.studentaid.gov",
-    "name_value": "myaccount-cat.mohela.studentaid.gov",
-    "id": 19574028255,
-    "entry_timestamp": "2025-07-10T15:11:19.038",
-    "not_before": "2025-07-10T00:00:00",
-    "not_after": "2026-07-24T23:59:59",
-    "serial_number": "0664dce6665250082f78ad8a90c1389f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "authenticate2-test.mohela.studentaid.gov",
-    "name_value": "authenticate2-test.mohela.studentaid.gov",
-    "id": 19574010765,
-    "entry_timestamp": "2025-07-10T15:10:07.181",
-    "not_before": "2025-07-10T00:00:00",
-    "not_after": "2026-07-24T23:59:59",
-    "serial_number": "0b42d0401c2b19394c36f3b5a0396313",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "authenticate1-test.mohela.studentaid.gov",
-    "name_value": "authenticate1-test.mohela.studentaid.gov",
-    "id": 19574010244,
-    "entry_timestamp": "2025-07-10T15:08:56.452",
-    "not_before": "2025-07-10T00:00:00",
-    "not_after": "2026-07-24T23:59:59",
-    "serial_number": "013b0f35ec072b9a841ad203fd8cfee3",
-    "result_count": 2
   }
 ]
