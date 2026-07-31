@@ -16,13 +16,13 @@ jobs:
     permissions:
       contents: read # Read access to the repository contents is enough for linting
     steps:
-      - uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           fetch-depth: 1
           persist-credentials: false
 
       - name: csvlinter
-        uses: kcheriyath/csvlinter@def8e270b407a64b6cd1fa5862127ac62e3decd4 # V0.7.0
+        uses: kcheriyath/csvlinter@8f78b213da9be31ba771a516ad63235ec65fbbd0 # V0.7.1
         with:
           find_pattern: "*.csv"
           fail_on_error: "true"
