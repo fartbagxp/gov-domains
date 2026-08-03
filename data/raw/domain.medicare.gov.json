@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "test.api.beta.medicare.gov",
+    "name_value": "test.api.beta.medicare.gov",
+    "id": 28414422796,
+    "entry_timestamp": "2026-07-31T17:58:51.308",
+    "not_before": "2026-07-31T00:00:00",
+    "not_after": "2027-02-13T23:59:59",
+    "serial_number": "0549cc41fc945b2dd7f77aa29ce1c426",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "api.medicare.gov",
+    "name_value": "api.medicare.gov",
+    "id": 28336181123,
+    "entry_timestamp": "2026-07-29T01:02:02.338",
+    "not_before": "2026-07-29T00:00:00",
+    "not_after": "2027-02-11T23:59:59",
+    "serial_number": "02053c8aaefbe0539e49a24f8943cafe",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "myportal.medicare.gov",
@@ -406,30 +430,6 @@
     "not_after": "2027-01-13T23:59:59",
     "serial_number": "0b8879f1de86ee21af2abf52bcbc0c71",
     "result_count": 4
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "mpf-help.medicare.gov",
-    "name_value": "mapnet-help.medicare.gov\nmpf-help.medicare.gov",
-    "id": 26067580941,
-    "entry_timestamp": "2026-05-04T17:25:18.386",
-    "not_before": "2026-05-04T16:26:47",
-    "not_after": "2026-08-02T16:26:46",
-    "serial_number": "06f660cf704300deec31ff8c3912bedd38da",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "mpf-help.medicare.gov",
-    "name_value": "mapnet-help.medicare.gov\nmpf-help.medicare.gov",
-    "id": 26067572814,
-    "entry_timestamp": "2026-05-04T17:25:17.923",
-    "not_before": "2026-05-04T16:26:47",
-    "not_after": "2026-08-02T16:26:46",
-    "serial_number": "06f660cf704300deec31ff8c3912bedd38da",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 246719,
