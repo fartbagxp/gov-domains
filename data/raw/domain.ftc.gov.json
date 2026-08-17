@@ -1,5 +1,29 @@
 [
   {
+    "issuer_ca_id": 432477,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
+    "common_name": "adminefilingtest.ftc.gov",
+    "name_value": "adminefilingtest.ftc.gov\nhsrfilingtest.ftc.gov\nrntest.ftc.gov",
+    "id": 28651705685,
+    "entry_timestamp": "2026-08-08T15:59:34.939",
+    "not_before": "2026-08-08T15:01:04",
+    "not_after": "2026-11-06T15:01:03",
+    "serial_number": "05258767e832a4ddeacaac04bd89ac8e8b7c",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 432477,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
+    "common_name": "adminefilingtest.ftc.gov",
+    "name_value": "adminefilingtest.ftc.gov\nhsrfilingtest.ftc.gov\nrntest.ftc.gov",
+    "id": 28651714594,
+    "entry_timestamp": "2026-08-08T15:59:34.55",
+    "not_before": "2026-08-08T15:01:04",
+    "not_after": "2026-11-06T15:01:03",
+    "serial_number": "05258767e832a4ddeacaac04bd89ac8e8b7c",
+    "result_count": 4
+  },
+  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "guest.ftc.gov",
@@ -297,126 +321,6 @@
     "not_before": "2026-05-21T01:03:00",
     "not_after": "2026-08-19T01:02:59",
     "serial_number": "05c691ce8e92b4744049429a5132b7f583f3",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "api.ftc.gov",
-    "name_value": "api.ftc.gov",
-    "id": 26442347324,
-    "entry_timestamp": "2026-05-18T16:19:51.17",
-    "not_before": "2026-05-18T15:21:20",
-    "not_after": "2026-08-16T15:21:19",
-    "serial_number": "05fa014a92e8f86e599bcb0a671ec143410f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "api.ftc.gov",
-    "name_value": "api.ftc.gov",
-    "id": 26442343800,
-    "entry_timestamp": "2026-05-18T16:19:50.7",
-    "not_before": "2026-05-18T15:21:20",
-    "not_after": "2026-08-16T15:21:19",
-    "serial_number": "05fa014a92e8f86e599bcb0a671ec143410f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "test.rnlogin.ftc.gov",
-    "name_value": "test.rnlogin.ftc.gov",
-    "id": 26302739409,
-    "entry_timestamp": "2026-05-13T05:48:10.214",
-    "not_before": "2026-05-13T04:49:39",
-    "not_after": "2026-08-11T04:49:38",
-    "serial_number": "051a98a69066b057ce9333e472b5ce1d2b3e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "test.adminefiling.ftc.gov",
-    "name_value": "test.adminefiling.ftc.gov",
-    "id": 26302737694,
-    "entry_timestamp": "2026-05-13T05:48:09.645",
-    "not_before": "2026-05-13T04:49:39",
-    "not_after": "2026-08-11T04:49:38",
-    "serial_number": "05394d4140ef19da161561fa0cf63ad0b44b",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "test.rnlogin.ftc.gov",
-    "name_value": "test.rnlogin.ftc.gov",
-    "id": 26302730516,
-    "entry_timestamp": "2026-05-13T05:48:09.437",
-    "not_before": "2026-05-13T04:49:39",
-    "not_after": "2026-08-11T04:49:38",
-    "serial_number": "051a98a69066b057ce9333e472b5ce1d2b3e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "test.adminefiling.ftc.gov",
-    "name_value": "test.adminefiling.ftc.gov",
-    "id": 26302726213,
-    "entry_timestamp": "2026-05-13T05:48:09.414",
-    "not_before": "2026-05-13T04:49:39",
-    "not_after": "2026-08-11T04:49:38",
-    "serial_number": "05394d4140ef19da161561fa0cf63ad0b44b",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "adminefiling.ftc.gov",
-    "name_value": "adminefiling.ftc.gov\nrn.ftc.gov",
-    "id": 26215927483,
-    "entry_timestamp": "2026-05-09T23:03:05.428",
-    "not_before": "2026-05-09T22:04:34",
-    "not_after": "2026-08-07T22:04:33",
-    "serial_number": "063caf7d97ee19eb059a848a63b140bfedff",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "adminefiling.ftc.gov",
-    "name_value": "adminefiling.ftc.gov\nrn.ftc.gov",
-    "id": 26215768062,
-    "entry_timestamp": "2026-05-09T23:03:05.108",
-    "not_before": "2026-05-09T22:04:34",
-    "not_after": "2026-08-07T22:04:33",
-    "serial_number": "063caf7d97ee19eb059a848a63b140bfedff",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "servicecenterdev.ftc.gov",
-    "name_value": "servicecenterdev.ftc.gov",
-    "id": 25942459172,
-    "entry_timestamp": "2026-04-30T11:36:16.059",
-    "not_before": "2026-04-30T10:37:44",
-    "not_after": "2026-07-29T10:37:43",
-    "serial_number": "0613970276bfcd60e102a67d769090962e93",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "servicecenterdev.ftc.gov",
-    "name_value": "servicecenterdev.ftc.gov",
-    "id": 25942345904,
-    "entry_timestamp": "2026-04-30T11:36:15.222",
-    "not_before": "2026-04-30T10:37:44",
-    "not_after": "2026-07-29T10:37:43",
-    "serial_number": "0613970276bfcd60e102a67d769090962e93",
     "result_count": 2
   },
   {
@@ -874,29 +778,5 @@
     "not_after": "2026-10-10T23:59:59",
     "serial_number": "06681e5a6ad1415be1db6bda46b19ad9",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "guest.ftc.gov",
-    "name_value": "cc-clearpass-s1.trade.ftc.gov\ncc-clearpass.trade.ftc.gov\nguest.ftc.gov\nhq-clearpass-s1.trade.ftc.gov\nhq-clearpass.trade.ftc.gov",
-    "id": 20162176294,
-    "entry_timestamp": "2025-08-06T16:21:07.795",
-    "not_before": "2025-08-06T00:00:00",
-    "not_after": "2026-08-05T23:59:59",
-    "serial_number": "01d9f188cb7b218895a565c900541c95",
-    "result_count": 6
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "guest.ftc.gov",
-    "name_value": "cc-clearpass-s1.trade.ftc.gov\ncc-clearpass.trade.ftc.gov\nguest.ftc.gov\nhq-clearpass-s1.trade.ftc.gov\nhq-clearpass.trade.ftc.gov",
-    "id": 20162035992,
-    "entry_timestamp": "2025-08-06T16:15:01.195",
-    "not_before": "2025-08-06T00:00:00",
-    "not_after": "2026-08-05T23:59:59",
-    "serial_number": "0390acd2a5185372b303f794022050c0",
-    "result_count": 6
   }
 ]
