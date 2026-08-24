@@ -2,188 +2,119 @@ name: Site Update Raw - Weekly
 
 on:
   schedule:
-    - cron: "0 1 * * 1"  # Every Monday at 01:00 UTC
+    - cron: "0 1 * * 1"  # Monday 01:00 UTC - full sweep of every domain
+    - cron: "0 3 * * 3"  # Wednesday 03:00 UTC - backfill whatever is stale
+    - cron: "0 3 * * 5"  # Friday 03:00 UTC - backfill whatever is stale
   workflow_dispatch:
+    inputs:
+      mode:
+        description: "full = every domain, stale = only domains missing or older than the staleness window"
+        type: choice
+        options: [full, stale]
+        default: full
+      stale_after_days:
+        description: "Age in days past which a domain counts as stale"
+        type: string
+        default: "4"
 
 concurrency:
   group: pipeline-raw
   cancel-in-progress: false
 
 jobs:
+  select-domains:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    outputs:
+      domains: ${{ steps.select.outputs.domains }}
+      count: ${{ steps.select.outputs.count }}
+
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 1
+          persist-credentials: false
+
+      - name: Install the latest version of uv
+        uses: astral-sh/setup-uv@20cfd1bf945f4377ade1205e4dbc17946fc9a30d # v10.0.1
+        with:
+          version: "latest"
+
+      - name: Select domains to fetch
+        id: select
+        env:
+          # The Monday cron does a full sweep; the mid-week crons only revisit
+          # domains whose data is missing or stale, so a domain that crt.sh was
+          # refusing on Monday gets more chances later in the same week.
+          MODE: ${{ github.event_name == 'workflow_dispatch' && inputs.mode || (github.event.schedule == '0 1 * * 1' && 'full' || 'stale') }}
+          STALE_AFTER_DAYS: ${{ github.event_name == 'workflow_dispatch' && inputs.stale_after_days || '4' }}
+        run: |
+          echo "Mode: ${MODE}"
+
+          if [ "${MODE}" = "full" ]; then
+            selected=$(grep -vE '^[[:space:]]*(#|$)' config/domains.txt)
+          else
+            selected=$(uv run python scripts/fetch_log.py --stale --stale-after-days "${STALE_AFTER_DAYS}")
+          fi
+
+          matrix=$(printf '%s' "${selected}" | jq -R -s -c 'split("\n") | map(select(length > 0))')
+          count=$(printf '%s' "${matrix}" | jq 'length')
+
+          echo "domains=${matrix}" >> "$GITHUB_OUTPUT"
+          echo "count=${count}" >> "$GITHUB_OUTPUT"
+          echo "Selected ${count} domain(s)."
+
   update-sites-raw:
+    needs: select-domains
+    if: needs.select-domains.outputs.count != '0'
     runs-on: ubuntu-latest
     permissions:
       contents: read
 
     strategy:
       matrix:
-        domain: [
-          # Executive Branch: Dept of Health and Human Services
-          hhs.gov,
-          cdc.gov,
-          clinicaltrials.gov,
-          cms.gov,
-          fda.gov,
-          medicare.gov,
-          nih.gov,
-          acf.gov,
-          hrsa.gov,
-          samhsa.gov,
-          vaccines.gov,
-          healthdata.gov,
-          healthcare.gov,
-          health.gov,
-          hiv.gov,
-          cancer.gov,
-
-          # Executive Branch: Dept of Homeland Security
-          dhs.gov,
-          cbp.gov,
-          cisa.gov,
-          data.gov,
-          fema.gov,
-          ice.gov,
-          tsa.gov,
-          uscis.gov,
-          ustraveldocs.com,
-
-          # Executive Branch: Dept of Justice
-          justice.gov,
-          atf.gov,
-          bjs.gov,
-          ojp.gov,
-          dea.gov,
-          fbi.gov,
-
-          # Executive Branch: Dept of Labor
-          dol.gov,
-          msha.gov,
-
-          ## Executive Branch: General Services Administration
-          gsa.gov,
-          gsaadvantage.gov,
-          gsaauctions.gov,
-          usa.gov,
-          sam.gov,
-          usaspending.gov,
-          usajobs.gov,
-          login.gov,
-          performance.gov,
-          regulations.gov,
-          fpds.gov,
-
-          ## Executive Branch: Environmental Protection Agency
-          epa.gov,
-
-          # Executive Branch: Dept of State
-          state.gov,
-          usembassy.gov,
-
-          # Executive Branch: Dept of Commerce
-          commerce.gov,
-          bis.gov,
-          bls.gov,
-          census.gov,
-          nist.gov,
-          noaa.gov,
-          weather.gov,
-          uspto.gov,
-          ntia.gov,
-
-          # Executive Branch: Dept of Education
-          ed.gov,
-          studentaid.gov,
-          headstart.gov,
-
-          # Executive Branch: Dept of Energy
-          energy.gov,
-          doe.gov,
-
-          # Executive Branch: Dept of Agriculture
-          usda.gov,
-
-          # Executive Branch: Dept of Interior
-          doi.gov,
-          fws.gov,
-          usgs.gov,
-          nps.gov,
-
-          # Executive Branch: Dept of Transportation
-          dot.gov,
-          faa.gov,
-          nhtsa.gov,
-
-          # Executive Branch: NASA
-          nasa.gov,
-
-          # Executive Branch: Treasury
-          treasury.gov,
-          treasurydirect.gov,
-          irs.gov,
-          irsauctions.gov,
-          sec.gov,
-          usmint.gov,
-
-          # Executive Branch: Dept of Veterans Affairs
-          va.gov,
-          veteranscrisisline.net,
-
-          # Executive Branch: Dept of Defense
-          defense.gov,
-          war.gov,
-
-          # Executive Branch: Federal Trade Commission
-          ftc.gov,
-
-          ## USPS
-          usps.com,
-          uspsdelivers.com,
-
-          # Executive Branch: Archives
-          archives.gov,
-
-          ## Executive Branch: White House
-          whitehouse.gov,
-          ndstudio.gov,
-          trumpcard.gov,
-          americabydesign.gov,
-          freedom.gov,
-
-          # Executive Branch: Independent Agencies
-          ssa.gov,
-          consumerfinance.gov,
-          sba.gov,
-          tsp.gov,
-
-          # Legislative Branch
-          congress.gov,
-          senate.gov,
-          house.gov,
-          gpo.gov,
-          loc.gov,
-
-          # Judicial Branch
-          uscourts.gov
-        ]
+        domain: ${{ fromJson(needs.select-domains.outputs.domains) }}
       fail-fast: false # continue if any domain fails
       max-parallel: 5 # limit to 5 parallel jobs to avoid overwhelming resources
 
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
-          fetch-depth: 0
+          fetch-depth: 1
           persist-credentials: false
 
       - name: Install the latest version of uv
-        uses: astral-sh/setup-uv@c771a70e6277c0a99b617c7a806ffedaca235ff9 # v9.0.0
+        uses: astral-sh/setup-uv@20cfd1bf945f4377ade1205e4dbc17946fc9a30d # v10.0.1
         with:
           version: "latest"
 
       - name: Running update script - ${{ matrix.domain }}
+        env:
+          DOMAIN: ${{ matrix.domain }}
         run: |
+          # Start from an empty directory so the only file that can be uploaded
+          # is one this run actually fetched. A domain that fails uploads
+          # nothing, and the commit job then leaves last week's data in place.
+          rm -rf data/raw
           mkdir -p data/raw
-          uv run python main.py -d ${{ matrix.domain }} || echo "Python script failed, keeping previous file."
+          uv run python main.py -d "$DOMAIN" || echo "crt.sh lookup failed for $DOMAIN; keeping the previous file."
           ls -la data/raw/
+
+      - name: Validate fetched file - ${{ matrix.domain }}
+        env:
+          DOMAIN: ${{ matrix.domain }}
+        run: |
+          file="data/raw/domain.${DOMAIN}.json"
+          if [ ! -s "$file" ]; then
+            echo "No data fetched for ${DOMAIN}; nothing to upload."
+            exit 0
+          fi
+          # Refuse to publish a truncated or non-JSON body over good data.
+          if ! python3 -c "import json,sys; d=json.load(open(sys.argv[1])); sys.exit(0 if isinstance(d, list) and d else 1)" "$file"; then
+            echo "Fetched file for ${DOMAIN} is not a non-empty JSON list; discarding."
+            rm -f "$file"
+          fi
 
       - name: Upload raw data file
         uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
@@ -191,13 +122,14 @@ jobs:
           name: raw-data-${{ matrix.domain }}
           path: data/raw/domain.${{ matrix.domain }}.json
           retention-days: 1
+          if-no-files-found: ignore
 
       - name: Sleep for 20 seconds
         run: sleep 20
 
   commit-changes:
-    needs: update-sites-raw
-    if: github.ref == 'refs/heads/main'
+    needs: [select-domains, update-sites-raw]
+    if: github.ref == 'refs/heads/main' && needs.select-domains.outputs.count != '0'
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -207,41 +139,51 @@ jobs:
           fetch-depth: 0
           persist-credentials: true
 
-      - name: Create data directories
-        run: |
-          mkdir -p data/raw
-          rm -f data/raw/*.json
-
       - name: Download all raw data artifacts
         uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
         with:
           path: artifacts
           pattern: raw-data-*
           merge-multiple: true
+        # Errors when zero artifacts match, which is exactly the total-outage
+        # case where we still want to leave the existing data untouched.
+        continue-on-error: true
 
-      - name: Copy artifacts to data directory
+      - name: Overlay fetched files onto the checked-out data
         run: |
-          # Copy all files from artifacts to data/raw
-          cp -R artifacts/* data/raw/
+          # Deliberately NOT clearing data/raw first: only domains that were
+          # fetched successfully get overwritten, so a domain crt.sh refused
+          # this run keeps whatever it had rather than being deleted.
+          mkdir -p data/raw artifacts
+          cp -R artifacts/. data/raw/ 2>/dev/null || echo "No artifacts to overlay."
 
-          # List files for verification
           echo "Files in data/raw:"
           ls -la data/raw/
 
-      - name: Commit and push changes
-        if: github.ref == 'refs/heads/main'
+      - name: Install the latest version of uv
+        uses: astral-sh/setup-uv@20cfd1bf945f4377ade1205e4dbc17946fc9a30d # v10.0.1
+        with:
+          version: "latest"
+
+      - name: Record successful fetches
         run: |
-          git status
-          git config --local user.email "noreply@github.com"
-          git config --local user.name "github-actions[bot]"
-          git add data/raw/
-          if ! git diff-index --quiet HEAD; then
-            git commit -m "Nightly update of raw site changes - $(date +'%Y-%m-%d')"
-            git pull --rebase origin main
-            git push origin main
-          else
-            echo "No changes to commit"
-          fi
+          # Only domains that actually produced an artifact are stamped, so the
+          # mid-week runs know exactly which ones still need another attempt.
+          uv run python scripts/fetch_log.py --record artifacts
+          cat data/raw/fetch-log.json | head -20
+
+      - name: Commit and push changes
+        run: |
+          # Commit only the domains this run actually re-fetched, so a
+          # concurrent job's writes to other domains are not reverted.
+          ( cd artifacts && ls domain.*.json 2>/dev/null || true ) \
+            | sed 's|^|data/raw/|' > /tmp/raw-paths.txt
+          echo "data/raw/fetch-log.json" >> /tmp/raw-paths.txt
+          cat /tmp/raw-paths.txt
+
+          ./scripts/commit-and-push.sh \
+            "Update of raw site changes - $(date +'%Y-%m-%d')" \
+            --paths-from /tmp/raw-paths.txt
 
   call-convert-to-csv:
     needs: commit-changes

@@ -1,7 +1,9 @@
-from ipwhois import IPWhois
-from ipwhois.net import Net
-from ipwhois.asn import IPASN
 from pprint import pprint
+
+from ipwhois import IPWhois
+from ipwhois.asn import IPASN
+from ipwhois.net import Net
+
 
 def whois(ip):
   obj = IPWhois(ip)
@@ -24,13 +26,13 @@ def whois(ip):
     "raw_command": f"whois -h whois.radb.net {ip}"
   }
 
-  if results.get("network") is not None:
-    if results.get("network").get("events") is not None:
-      for event in results.get("network").get("events"):
-        if event.get("action") == "last changed":
-          results_stripped["net_updated"] = event["timestamp"]
-        elif event.get("action") == "registration":
-          results_stripped["registration"] = event["timestamp"]
+  if (results.get("network") is not None
+      and results.get("network").get("events") is not None):
+    for event in results.get("network").get("events"):
+      if event.get("action") == "last changed":
+        results_stripped["net_updated"] = event["timestamp"]
+      elif event.get("action") == "registration":
+        results_stripped["registration"] = event["timestamp"]
 
   return results_stripped
 

@@ -2,6 +2,8 @@ version: 2
 updates:
   - package-ecosystem: uv
     directory: /
+    assignees:
+      - fartbagxp
     groups:
       python-dependencies:
         patterns:
@@ -12,6 +14,8 @@ updates:
       default-days: 14
   - package-ecosystem: github-actions
     directory: /
+    assignees:
+      - fartbagxp
     groups:
       actions:
         patterns:

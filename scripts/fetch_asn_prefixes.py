@@ -9,13 +9,13 @@ Enrichment (optional, via --rir-data-dir): RIR delegation files and
 Outputs per-category CSVs to data/asn/.
 """
 
+import argparse
 import csv
 import os
 import re
 import sys
 import time
-import argparse
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 
 import requests
 
@@ -205,7 +205,7 @@ def process_category(category, source_path, output_path, autnums, delegation):
 
     seen_asns = set()
     rows = []
-    collected_at = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    collected_at = datetime.now(UTC).strftime("%Y-%m-%dT%H:%M:%SZ")
 
     for entry in agencies:
         asn = entry["asn"]

@@ -7,11 +7,10 @@ auto-generated sections of README.md between <!-- BEGIN:name --> markers.
 import csv
 import ipaddress
 import json
-import os
 import re
 import sys
 from collections import Counter, defaultdict
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -328,7 +327,8 @@ def section_tech_summary() -> str:
                         if t:
                             tech_counter[t] += 1
                             domain_tech[t].add(domain)
-        except Exception:
+        except (OSError, csv.Error, UnicodeDecodeError) as e:
+            print(f"[!] Skipping {csv_file}: {e}", file=sys.stderr)
             continue
 
     if not tech_counter:
@@ -346,7 +346,7 @@ def section_tech_summary() -> str:
 
 
 def section_timestamp() -> str:
-    ts = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    ts = datetime.now(UTC).strftime("%Y-%m-%d %H:%M UTC")
     return f"_Last updated: {ts}_\n"
 
 
