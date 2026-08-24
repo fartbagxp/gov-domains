@@ -17,7 +17,7 @@ jobs:
           persist-credentials: true
 
       - name: Install the latest version of uv
-        uses: astral-sh/setup-uv@c771a70e6277c0a99b617c7a806ffedaca235ff9 # v9.0.0
+        uses: astral-sh/setup-uv@20cfd1bf945f4377ade1205e4dbc17946fc9a30d # v10.0.1
         with:
           version: "latest"
 
@@ -29,17 +29,9 @@ jobs:
       - name: Commit and push changes
         if: github.ref == 'refs/heads/main'
         run: |
-          git status
-          git config --local user.email "noreply@github.com"
-          git config --local user.name "github-actions[bot]"
-          git add data/csv
-          if ! git diff-index --quiet HEAD; then
-            git commit -m "Converting files to CSV format - $(date +'%Y-%m-%d')"
-            git pull --rebase origin main
-            git push origin main
-          else
-            echo "No changes to commit"
-          fi
+          ./scripts/commit-and-push.sh \
+            "Converting files to CSV format - $(date +'%Y-%m-%d')" \
+            data/csv
 
   call-update-technology:
     needs: convert-to-csv

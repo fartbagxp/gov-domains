@@ -4,9 +4,10 @@ import glob
 import json
 import os
 import sys
+from datetime import UTC, datetime
 
-from datetime import datetime, timezone
-from src.crtsh import CrtshClient
+from src.crtsh import CrtshClient, CrtshError
+
 
 def save_raw_json(data, filename):
   os.makedirs(os.path.dirname(filename), exist_ok=True)
@@ -31,7 +32,7 @@ def extract_domains_from_certificates(certificates):
     issuer_name = cert.get('issuer_name', 'unknown')
     not_before = cert.get('not_before', '')
     not_after = cert.get('not_after', '')
-    if 'common_name' in cert and cert['common_name']:
+    if cert.get('common_name'):
       domain = cert['common_name'].replace('*.', '')
       if domain and '@' not in domain:
         if domain not in domains_data:
@@ -51,7 +52,7 @@ def extract_domains_from_certificates(certificates):
         if not_after and (not domains_data[domain]['latest_expiry'] or not_after > domains_data[domain]['latest_expiry']):
           domains_data[domain]['latest_expiry'] = not_after
 
-    if 'name_value' in cert and cert['name_value']:
+    if cert.get('name_value'):
       for name in cert['name_value'].split('\n'):
         domain = name.replace('*.', '')
         if domain and '@' not in domain:
@@ -121,13 +122,13 @@ def filter_valid_certificates(certificates):
   Returns:
     List of non-expired certificate dictionaries.
   """
-  now = datetime.now(timezone.utc)
+  now = datetime.now(UTC)
   valid_certificates = []
 
   for cert in certificates:
     if 'not_after' in cert:
       try:
-        expiry_date = datetime.strptime(cert['not_after'], '%Y-%m-%dT%H:%M:%S').replace(tzinfo=timezone.utc)
+        expiry_date = datetime.strptime(cert['not_after'], '%Y-%m-%dT%H:%M:%S').replace(tzinfo=UTC)
         if expiry_date > now:
           valid_certificates.append(cert)
       except ValueError:
@@ -162,7 +163,7 @@ def process_raw_json_file(input_file):
     return domains_data
 
   except (json.JSONDecodeError, FileNotFoundError) as e:
-    print(f"Error processing file {input_file}: {str(e)}")
+    print(f"Error processing file {input_file}: {e!s}")
     return {}
 
 def process_all_raw_files():
@@ -214,8 +215,8 @@ def main():
       else:
         print(f"No results found for domain {args.domain}")
         sys.exit(1)
-    except Exception as e:
-      print(f"Error searching for domain {args.domain}: {str(e)}")
+    except (CrtshError, OSError) as e:
+      print(f"Error searching for domain {args.domain}: {e!s}")
       sys.exit(1)
 
   elif args.process_file:
@@ -229,7 +230,7 @@ def main():
   elif args.process_all:
     combined_domains = process_all_raw_files()
     if combined_domains:
-      timestamp = datetime.now().strftime("%Y%m%d")
+      timestamp = datetime.now(UTC).strftime("%Y%m%d")
       csv_output = f"data/csv/all_domains_{timestamp}.csv"
       save_domains_to_csv(combined_domains, csv_output)
 

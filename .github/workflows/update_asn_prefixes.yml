@@ -20,35 +20,27 @@ jobs:
         run: |
           mkdir -p rir-data
 
-          echo "Fetching ARIN delegation file..."
-          curl -L --retry 5 --max-time 180 -f \
-            -o rir-data/delegated-arin-extended-latest.txt \
-            https://ftp.arin.net/pub/stats/arin/delegated-arin-extended-latest || true
+          # curl --retry already covers transient resets, but a download that
+          # fails outright must not leave a truncated file behind for the
+          # parser to treat as authoritative.
+          fetch() {
+            local name="$1" url="$2" dest="$3"
+            echo "Fetching ${name}..."
+            if curl -L --retry 5 --retry-all-errors --retry-delay 5 --max-time 180 -f \
+                 -o "${dest}.part" "${url}"; then
+              mv "${dest}.part" "${dest}"
+            else
+              echo "::warning::Could not fetch ${name}; continuing without it."
+              rm -f "${dest}.part"
+            fi
+          }
 
-          echo "Fetching RIPE NCC delegation file..."
-          curl -L --retry 5 --max-time 180 \
-            -o rir-data/delegated-ripencc-extended-latest.txt \
-            https://ftp.ripe.net/pub/stats/ripencc/delegated-ripencc-extended-latest || true
-
-          echo "Fetching APNIC delegation file..."
-          curl -L --retry 5 --max-time 180 -f \
-            -o rir-data/delegated-apnic-extended-latest.txt \
-            https://ftp.apnic.net/pub/stats/apnic/delegated-apnic-extended-latest || true
-
-          echo "Fetching LACNIC delegation file..."
-          curl -L --retry 5 --max-time 180 -f \
-            -o rir-data/delegated-lacnic-extended-latest.txt \
-            https://ftp.lacnic.net/pub/stats/lacnic/delegated-lacnic-extended-latest || true
-
-          echo "Fetching AFRINIC delegation file..."
-          curl -L --retry 5 --max-time 180 -f \
-            -o rir-data/delegated-afrinic-extended-latest.txt \
-            https://ftp.afrinic.net/pub/stats/afrinic/delegated-afrinic-extended-latest || true
-
-          echo "Fetching ASN listing (autnums.html)..."
-          curl -L --retry 5 --max-time 180 \
-            -o rir-data/autnums.html \
-            https://bgp.potaroo.net/cidr/autnums.html || true
+          fetch "ARIN delegation file" "https://ftp.arin.net/pub/stats/arin/delegated-arin-extended-latest" "rir-data/delegated-arin-extended-latest.txt"
+          fetch "RIPE NCC delegation file" "https://ftp.ripe.net/pub/stats/ripencc/delegated-ripencc-extended-latest" "rir-data/delegated-ripencc-extended-latest.txt"
+          fetch "APNIC delegation file" "https://ftp.apnic.net/pub/stats/apnic/delegated-apnic-extended-latest" "rir-data/delegated-apnic-extended-latest.txt"
+          fetch "LACNIC delegation file" "https://ftp.lacnic.net/pub/stats/lacnic/delegated-lacnic-extended-latest" "rir-data/delegated-lacnic-extended-latest.txt"
+          fetch "AFRINIC delegation file" "https://ftp.afrinic.net/pub/stats/afrinic/delegated-afrinic-extended-latest" "rir-data/delegated-afrinic-extended-latest.txt"
+          fetch "ASN listing (autnums.html)" "https://bgp.potaroo.net/cidr/autnums.html" "rir-data/autnums.html"
 
           ls -lh rir-data/
 
@@ -82,7 +74,7 @@ jobs:
           path: rir-data
 
       - name: Install the latest version of uv
-        uses: astral-sh/setup-uv@c771a70e6277c0a99b617c7a806ffedaca235ff9 # v9.0.0
+        uses: astral-sh/setup-uv@20cfd1bf945f4377ade1205e4dbc17946fc9a30d # v10.0.1
         with:
           version: "latest"
 
@@ -179,13 +171,10 @@ jobs:
       - name: Commit and push changes
         if: github.ref == 'refs/heads/main'
         run: |
-          git config --local user.email "noreply@github.com"
-          git config --local user.name "github-actions[bot]"
-          git add data/asn/
-          if ! git diff-index --quiet HEAD; then
-            git commit -m "Monthly ASN prefix update - $(date +'%Y-%m-%d')"
-            git pull --rebase origin main
-            git push origin main
-          else
-            echo "No changes to commit"
-          fi
+          ( cd data/asn && ls ./*-prefixes.csv 2>/dev/null || true ) \
+            | sed 's|^\./|data/asn/|' > /tmp/asn-paths.txt
+          cat /tmp/asn-paths.txt
+
+          ./scripts/commit-and-push.sh \
+            "Monthly ASN prefix update - $(date +'%Y-%m-%d')" \
+            --paths-from /tmp/asn-paths.txt
