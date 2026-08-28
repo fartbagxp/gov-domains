@@ -1,5 +1,65 @@
 [
   {
+    "issuer_ca_id": 432476,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
+    "common_name": "stage.api.data.gov",
+    "name_value": "stage.api.data.gov",
+    "id": 29066796829,
+    "entry_timestamp": "2026-08-24T16:19:44.037",
+    "not_before": "2026-08-24T15:21:15",
+    "not_after": "2026-11-22T15:21:14",
+    "serial_number": "05ffd38715988140b751c39a219f932313a5",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 432477,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
+    "common_name": "api.data.gov",
+    "name_value": "api.data.gov",
+    "id": 28905255861,
+    "entry_timestamp": "2026-08-17T15:19:46.931",
+    "not_before": "2026-08-17T14:21:14",
+    "not_after": "2026-11-15T14:21:13",
+    "serial_number": "066cb07f056801c55ad61fe955055f2d1a75",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 432477,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
+    "common_name": "api.data.gov",
+    "name_value": "api.data.gov",
+    "id": 28905253189,
+    "entry_timestamp": "2026-08-17T15:19:44.854",
+    "not_before": "2026-08-17T14:21:14",
+    "not_after": "2026-11-15T14:21:13",
+    "serial_number": "066cb07f056801c55ad61fe955055f2d1a75",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 432476,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
+    "common_name": "resources.data.gov",
+    "name_value": "resources.data.gov",
+    "id": 28842740100,
+    "entry_timestamp": "2026-08-14T19:19:44.697",
+    "not_before": "2026-08-14T18:21:13",
+    "not_after": "2026-11-12T18:21:12",
+    "serial_number": "05485d43b16add08f92dee62bdabe7de4f97",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 432476,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
+    "common_name": "resources.data.gov",
+    "name_value": "resources.data.gov",
+    "id": 28840137347,
+    "entry_timestamp": "2026-08-14T19:19:43.444",
+    "not_before": "2026-08-14T18:21:13",
+    "not_after": "2026-11-12T18:21:12",
+    "serial_number": "05485d43b16add08f92dee62bdabe7de4f97",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 432477,
     "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
     "common_name": "catalog-beta.data.gov",
@@ -444,102 +504,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "harvest.data.gov",
-    "name_value": "harvest.data.gov",
-    "id": 26500130836,
-    "entry_timestamp": "2026-05-20T20:11:06.059",
-    "not_before": "2026-05-20T19:12:34",
-    "not_after": "2026-08-18T19:12:33",
-    "serial_number": "05d3c1046f96b0b4ecdba0ab52d9420599a5",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "harvest.data.gov",
-    "name_value": "harvest.data.gov",
-    "id": 26500131696,
-    "entry_timestamp": "2026-05-20T20:11:04.398",
-    "not_before": "2026-05-20T19:12:34",
-    "not_after": "2026-08-18T19:12:33",
-    "serial_number": "05d3c1046f96b0b4ecdba0ab52d9420599a5",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "catalog.data.gov",
-    "name_value": "catalog.data.gov",
-    "id": 26500120465,
-    "entry_timestamp": "2026-05-20T20:10:23.93",
-    "not_before": "2026-05-20T19:11:53",
-    "not_after": "2026-08-18T19:11:52",
-    "serial_number": "05ac31c4776ece13c4fc06d8a3b015e2313a",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "catalog.data.gov",
-    "name_value": "catalog.data.gov",
-    "id": 26500123730,
-    "entry_timestamp": "2026-05-20T20:10:23.567",
-    "not_before": "2026-05-20T19:11:53",
-    "not_after": "2026-08-18T19:11:52",
-    "serial_number": "05ac31c4776ece13c4fc06d8a3b015e2313a",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "harvest.data.gov",
-    "name_value": "harvest.data.gov",
-    "id": 26501387662,
-    "entry_timestamp": "2026-05-20T19:45:16.297",
-    "not_before": "2026-05-20T18:46:45",
-    "not_after": "2026-08-18T18:46:44",
-    "serial_number": "06bccd946ee3bf81d0e624c0d74f0b3c3d9c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "harvest.data.gov",
-    "name_value": "harvest.data.gov",
-    "id": 26499622858,
-    "entry_timestamp": "2026-05-20T19:45:15.672",
-    "not_before": "2026-05-20T18:46:45",
-    "not_after": "2026-08-18T18:46:44",
-    "serial_number": "06bccd946ee3bf81d0e624c0d74f0b3c3d9c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "catalog.data.gov",
-    "name_value": "catalog.data.gov",
-    "id": 26499623941,
-    "entry_timestamp": "2026-05-20T19:45:01.328",
-    "not_before": "2026-05-20T18:46:30",
-    "not_after": "2026-08-18T18:46:29",
-    "serial_number": "05c4d32bbd9c5637e200fb6423f2add9c7c5",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295816,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R12",
-    "common_name": "catalog.data.gov",
-    "name_value": "catalog.data.gov",
-    "id": 26499623737,
-    "entry_timestamp": "2026-05-20T19:45:00.453",
-    "not_before": "2026-05-20T18:46:30",
-    "not_after": "2026-08-18T18:46:29",
-    "serial_number": "05c4d32bbd9c5637e200fb6423f2add9c7c5",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "test.data.gov",
@@ -801,18 +765,6 @@
     "not_before": "2025-10-19T00:00:00",
     "not_after": "2026-11-17T23:59:59",
     "serial_number": "019ca3f08abe5985d37b7169941804de",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "status.api.data.gov",
-    "name_value": "status.api.data.gov",
-    "id": 19889512936,
-    "entry_timestamp": "2025-07-25T02:34:44.641",
-    "not_before": "2025-07-25T00:00:00",
-    "not_after": "2026-08-22T23:59:59",
-    "serial_number": "03721888fc8dc5f5124d1da81971eb5d",
     "result_count": 2
   }
 ]
