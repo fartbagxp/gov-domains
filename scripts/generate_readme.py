@@ -316,12 +316,14 @@ def section_tech_summary() -> str:
             with open(csv_file, newline="", encoding="utf-8") as f:
                 for row in csv.DictReader(f):
                     raw = row.get("tech", "")
-                    if not raw or raw in ("[]", ""):
+                    if not raw or raw in ("[]", "", "null"):
                         continue
                     try:
                         techs = json.loads(raw)
                     except (json.JSONDecodeError, ValueError):
                         techs = [t.strip().strip('"') for t in raw.strip("[]").split(",") if t.strip()]
+                    if not techs:
+                        continue
                     for t in techs:
                         t = t.strip()
                         if t:
