@@ -1,5 +1,701 @@
 [
   {
+    "issuer_ca_id": 432477,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
+    "common_name": "develop.tanfdata.acf.hhs.gov",
+    "name_value": "develop.tanfdata.acf.hhs.gov\nstaging.auth.tanfdata.acf.hhs.gov\nstaging.tanfdata.acf.hhs.gov",
+    "id": 29178383899,
+    "entry_timestamp": "2026-08-30T16:19:04.973",
+    "not_before": "2026-08-30T15:20:36",
+    "not_after": "2026-11-28T15:20:35",
+    "serial_number": "05c0a8ed4a55bd92c3498e05185543487b7e",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 62123,
+    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
+    "common_name": "m.claude.hhs.gov",
+    "name_value": "m.claude.hhs.gov",
+    "id": 29117674339,
+    "entry_timestamp": "2026-08-28T23:27:13.628",
+    "not_before": "2026-08-28T00:00:00",
+    "not_after": "2027-02-28T23:59:59",
+    "serial_number": "0529ab17ee4d53cf3a513eed12484ce0",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "oicptch.hhs.gov",
+    "name_value": "oicptchce.hhs.gov\noicptchgw.hhs.gov\noicptch.hhs.gov",
+    "id": 29088839614,
+    "entry_timestamp": "2026-08-27T19:08:13.936",
+    "not_before": "2026-08-27T19:08:13",
+    "not_after": "2027-03-14T19:07:13",
+    "serial_number": "4001a0449f6c97d28f70b84bb3c69224",
+    "result_count": 4
+  },
+  {
+    "issuer_ca_id": 432476,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
+    "common_name": "www.vaers.hhs.gov",
+    "name_value": "vaers.hhs.gov\nwww.vaers.hhs.gov",
+    "id": 29090382260,
+    "entry_timestamp": "2026-08-26T17:26:04.363",
+    "not_before": "2026-08-26T16:27:33",
+    "not_after": "2026-11-24T16:27:32",
+    "serial_number": "0596fe691ce7bc5d4c7e25fc9020b2eba8d1",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "ehcm-eoy.hhs.gov",
+    "name_value": "ehcm-eoy.hhs.gov",
+    "id": 29023893656,
+    "entry_timestamp": "2026-08-25T12:51:28.871",
+    "not_before": "2026-08-25T00:00:00",
+    "not_after": "2027-03-11T23:59:59",
+    "serial_number": "0567acb03c590aa2245531afd3c71a24",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "osdb-dev2.hhs.gov",
+    "name_value": "osdb-dev2.hhs.gov",
+    "id": 29023872753,
+    "entry_timestamp": "2026-08-25T12:50:28.369",
+    "not_before": "2026-08-25T00:00:00",
+    "not_after": "2027-03-11T23:59:59",
+    "serial_number": "03f4e906bb67c627c5014b3b9b567963",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "osdb-dev1.hhs.gov",
+    "name_value": "osdb-dev1.hhs.gov",
+    "id": 29023844029,
+    "entry_timestamp": "2026-08-25T12:48:15.371",
+    "not_before": "2026-08-25T00:00:00",
+    "not_after": "2027-03-11T23:59:59",
+    "serial_number": "09b5cef9b1ecd7bcfc58cc02649f1261",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "ehcm-preprod2.hhs.gov",
+    "name_value": "ehcm-preprod2.hhs.gov",
+    "id": 29023797595,
+    "entry_timestamp": "2026-08-25T12:46:59.325",
+    "not_before": "2026-08-25T00:00:00",
+    "not_after": "2027-03-11T23:59:59",
+    "serial_number": "0a6ff5a475dfdfdb8b18e1a541dad668",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "ehcm-phiremaint.hhs.gov",
+    "name_value": "ehcm-phiremaint.hhs.gov",
+    "id": 29023778841,
+    "entry_timestamp": "2026-08-25T12:45:50.945",
+    "not_before": "2026-08-25T00:00:00",
+    "not_after": "2027-03-11T23:59:59",
+    "serial_number": "0dbd432d659cb65dbcc000e2ae085b2e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "ehcm-demo.hhs.gov",
+    "name_value": "ehcm-demo.hhs.gov",
+    "id": 29023753459,
+    "entry_timestamp": "2026-08-25T12:44:32.071",
+    "not_before": "2026-08-25T00:00:00",
+    "not_after": "2027-03-11T23:59:59",
+    "serial_number": "03630d8caadb902a394eae4628c7b9f8",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "ehcm-dev3.hhs.gov",
+    "name_value": "ehcm-dev3.hhs.gov",
+    "id": 29023715113,
+    "entry_timestamp": "2026-08-25T12:42:28.935",
+    "not_before": "2026-08-25T00:00:00",
+    "not_after": "2027-03-11T23:59:59",
+    "serial_number": "0d824577cbd64449858fde1940a52298",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "ehcm-dev2.hhs.gov",
+    "name_value": "ehcm-dev2.hhs.gov",
+    "id": 29023675454,
+    "entry_timestamp": "2026-08-25T12:40:40.847",
+    "not_before": "2026-08-25T00:00:00",
+    "not_after": "2027-03-11T23:59:59",
+    "serial_number": "0a9cb954d34a08b0e57a35e0dff4c994",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "osdb-dev3.hhs.gov",
+    "name_value": "osdb-dev3.hhs.gov",
+    "id": 29023628134,
+    "entry_timestamp": "2026-08-25T12:38:22.936",
+    "not_before": "2026-08-25T00:00:00",
+    "not_after": "2027-03-11T23:59:59",
+    "serial_number": "0a8c11ac83ad9e712975da4284b3afa3",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286244,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR3",
+    "common_name": "dev.gemini.hhs.gov",
+    "name_value": "dev.gemini.hhs.gov",
+    "id": 29173073129,
+    "entry_timestamp": "2026-08-25T03:32:56.218",
+    "not_before": "2026-08-08T00:42:39",
+    "not_after": "2026-11-06T01:38:35",
+    "serial_number": "0099ed2571e8a6dcfb0ad80620bae5c551",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "asprowa.hhs.gov",
+    "name_value": "asprowa.hhs.gov",
+    "id": 28993604391,
+    "entry_timestamp": "2026-08-24T13:56:20.23",
+    "not_before": "2026-08-24T13:56:20",
+    "not_after": "2027-03-11T13:55:20",
+    "serial_number": "4001a0340ecc48a91612c4d83fba23e3",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 247109,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon ECDSA 256 M04",
+    "common_name": "usphstraining-test.hhs.gov",
+    "name_value": "usphstraining-test.hhs.gov\nwww.usphstraining-test.hhs.gov",
+    "id": 28936712917,
+    "entry_timestamp": "2026-08-23T00:08:53.26",
+    "not_before": "2026-08-23T00:00:00",
+    "not_after": "2027-03-08T23:59:59",
+    "serial_number": "08346d1157edab29cdebfb7284f6728a",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 432476,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
+    "common_name": "test.tanfdata.acf.hhs.gov",
+    "name_value": "a11y.tanfdata.acf.hhs.gov\ndev.auth.tanfdata.acf.hhs.gov\nqasp.tanfdata.acf.hhs.gov\ntest.tanfdata.acf.hhs.gov",
+    "id": 29153761102,
+    "entry_timestamp": "2026-08-22T14:19:45.412",
+    "not_before": "2026-08-22T13:21:15",
+    "not_after": "2026-11-20T13:21:14",
+    "serial_number": "06f4f6656a5a332e18ae1b338bdeb6efbc37",
+    "result_count": 5
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "des.hhs.gov",
+    "name_value": "des.hhs.gov",
+    "id": 28894872015,
+    "entry_timestamp": "2026-08-21T20:47:36.383",
+    "not_before": "2026-08-21T20:47:36",
+    "not_after": "2027-03-08T20:46:36",
+    "serial_number": "4001a026143f7be48fdc5f4590295d5f",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "gal.hhs.gov",
+    "name_value": "gal.hhs.gov",
+    "id": 28894857745,
+    "entry_timestamp": "2026-08-21T20:47:11.231",
+    "not_before": "2026-08-21T20:47:11",
+    "not_after": "2027-03-08T20:46:11",
+    "serial_number": "4001a02613dcb820e0657eb303c03a02",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "iacc.hhs.gov",
+    "name_value": "iacc.hhs.gov",
+    "id": 28891679628,
+    "entry_timestamp": "2026-08-21T18:38:43.56",
+    "not_before": "2026-08-21T18:38:43",
+    "not_after": "2027-03-08T18:37:43",
+    "serial_number": "4001a0259e40fc9f7c920fc1478e9173",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "pecos-val.cms.hhs.gov",
+    "name_value": "pecos-val.cms.hhs.gov",
+    "id": 28870003676,
+    "entry_timestamp": "2026-08-21T04:01:35.921",
+    "not_before": "2026-08-21T00:00:00",
+    "not_after": "2027-03-07T23:59:59",
+    "serial_number": "074b42e62a97a93c82a34de1c814ad0c",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "hhs.gov",
+    "name_value": "hhs.gov",
+    "id": 29039302893,
+    "entry_timestamp": "2026-08-20T18:01:19.291",
+    "not_before": "2026-08-20T00:00:00",
+    "not_after": "2026-11-18T23:59:59",
+    "serial_number": "00fd102af8c51abb7e125ef53b20a52da3",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "hhs.gov",
+    "name_value": "hhs.gov",
+    "id": 29039302671,
+    "entry_timestamp": "2026-08-20T18:01:18.289",
+    "not_before": "2026-08-20T00:00:00",
+    "not_after": "2026-11-18T23:59:59",
+    "serial_number": "00fd102af8c51abb7e125ef53b20a52da3",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "omha-sso.eappeal.hhs.gov",
+    "name_value": "omha-sso.eappeal.hhs.gov",
+    "id": 28864319750,
+    "entry_timestamp": "2026-08-20T16:05:00.886",
+    "not_before": "2026-08-20T16:05:00",
+    "not_after": "2027-03-07T16:04:00",
+    "serial_number": "4001a01feb2af6ebca460ac36193c491",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "pecos-val.cms.hhs.gov",
+    "name_value": "pecos-val.cms.hhs.gov",
+    "id": 28842780189,
+    "entry_timestamp": "2026-08-20T04:02:35.15",
+    "not_before": "2026-08-20T00:00:00",
+    "not_after": "2027-03-06T23:59:59",
+    "serial_number": "09cfd3926e74696be47313f8678b3604",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "iknowotds.hhs.gov",
+    "name_value": "iknowotds.hhs.gov",
+    "id": 28855517628,
+    "entry_timestamp": "2026-08-19T18:32:25.667",
+    "not_before": "2026-08-19T18:32:25",
+    "not_after": "2027-03-06T18:31:25",
+    "serial_number": "4001a01b4bc4d9e2d24d3059cb833cd5",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "oacpoc.hhs.gov",
+    "name_value": "oacpoc.hhs.gov",
+    "id": 28855513819,
+    "entry_timestamp": "2026-08-19T18:32:00.033",
+    "not_before": "2026-08-19T18:31:59",
+    "not_after": "2027-03-06T18:30:59",
+    "serial_number": "4001a01b4b60c22313efef4862495a27",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "ofspo.hhs.gov",
+    "name_value": "ofspo.hhs.gov",
+    "id": 28855513979,
+    "entry_timestamp": "2026-08-19T18:31:36.327",
+    "not_before": "2026-08-19T18:31:36",
+    "not_after": "2027-03-06T18:30:36",
+    "serial_number": "4001a01b4b040c809b9c59efe33696a9",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "osdb-dev3.hhs.gov",
+    "name_value": "osdb-dev3.hhs.gov",
+    "id": 28855509144,
+    "entry_timestamp": "2026-08-19T18:31:14.795",
+    "not_before": "2026-08-19T18:31:14",
+    "not_after": "2027-03-06T18:30:14",
+    "serial_number": "4001a01b4ab008a2e80b6f364056184d",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "pocebscm.hhs.gov",
+    "name_value": "pocebscm.hhs.gov",
+    "id": 28855506949,
+    "entry_timestamp": "2026-08-19T18:30:49.941",
+    "not_before": "2026-08-19T18:30:49",
+    "not_after": "2027-03-06T18:29:49",
+    "serial_number": "4001a01b4a4efcac7f13e37de294f3ef",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "ufmsebspoc.hhs.gov",
+    "name_value": "ufmsebspoc.hhs.gov",
+    "id": 28855506933,
+    "entry_timestamp": "2026-08-19T18:30:20.518",
+    "not_before": "2026-08-19T18:30:20",
+    "not_after": "2027-03-06T18:29:20",
+    "serial_number": "4001a01b49dc043435f2a1b961f0ca62",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "omha-landing.eappeal.hhs.gov",
+    "name_value": "omha-landing.eappeal.hhs.gov",
+    "id": 28855507383,
+    "entry_timestamp": "2026-08-19T18:29:57.015",
+    "not_before": "2026-08-19T18:29:56",
+    "not_after": "2027-03-06T18:28:56",
+    "serial_number": "4001a01b49803c7cf8327e2b818429a9",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "omha.eappeal.hhs.gov",
+    "name_value": "omha.eappeal.hhs.gov",
+    "id": 28855507016,
+    "entry_timestamp": "2026-08-19T18:29:39.009",
+    "not_before": "2026-08-19T18:29:38",
+    "not_after": "2027-03-06T18:28:38",
+    "serial_number": "4001a01b4939d326d99718992368566e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 385516,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust DV TLS Issuing RSA CA 2",
+    "common_name": "vaers.hhs.gov",
+    "name_value": "vaers.hhs.gov",
+    "id": 28855840451,
+    "entry_timestamp": "2026-08-19T15:06:51.572",
+    "not_before": "2026-08-19T00:00:00",
+    "not_after": "2027-03-05T23:59:59",
+    "serial_number": "00e4248f4ba8700450ba5d3e6ff5ac30dc",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 385516,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust DV TLS Issuing RSA CA 2",
+    "common_name": "vaers.hhs.gov",
+    "name_value": "vaers.hhs.gov",
+    "id": 28836869509,
+    "entry_timestamp": "2026-08-19T15:06:48.929",
+    "not_before": "2026-08-19T00:00:00",
+    "not_after": "2027-03-05T23:59:59",
+    "serial_number": "00e4248f4ba8700450ba5d3e6ff5ac30dc",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "pecos-val.cms.hhs.gov",
+    "name_value": "pecos-val.cms.hhs.gov",
+    "id": 28822372087,
+    "entry_timestamp": "2026-08-19T04:02:33.063",
+    "not_before": "2026-08-19T00:00:00",
+    "not_after": "2027-03-05T23:59:59",
+    "serial_number": "0a98d2157576ece43d93309f44429ab4",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "impl.pecos-om.cms.hhs.gov",
+    "name_value": "impl.pecos-om.cms.hhs.gov\nval.pecos-om.cms.hhs.gov",
+    "id": 28844746063,
+    "entry_timestamp": "2026-08-18T21:27:47.579",
+    "not_before": "2026-08-18T21:27:47",
+    "not_after": "2027-03-05T21:26:47",
+    "serial_number": "4001a016c5f5a1fd48bef2fbdc877df5",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "a1enm004cm136.hhs.gov",
+    "name_value": "a1enm004cm136.hhs.gov",
+    "id": 28843298108,
+    "entry_timestamp": "2026-08-18T17:47:54.737",
+    "not_before": "2026-08-18T17:47:54",
+    "not_after": "2027-03-05T17:46:54",
+    "serial_number": "4001a015fca5175e67985dea78c79ad9",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "xms.hhs.gov",
+    "name_value": "xms.hhs.gov",
+    "id": 28843282877,
+    "entry_timestamp": "2026-08-18T17:45:17.406",
+    "not_before": "2026-08-18T17:45:16",
+    "not_after": "2027-03-05T17:44:16",
+    "serial_number": "4001a015fa3e80f145120a59970fbd80",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "a1enm002cm136.hhs.gov",
+    "name_value": "a1enm002cm136.hhs.gov",
+    "id": 28843280804,
+    "entry_timestamp": "2026-08-18T17:44:47.143",
+    "not_before": "2026-08-18T17:44:47",
+    "not_after": "2027-03-05T17:43:47",
+    "serial_number": "4001a015f9cab9dce7039f20c3c08bd7",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "a1enm003cm136.hhs.gov",
+    "name_value": "a1enm003cm136.hhs.gov",
+    "id": 28843277222,
+    "entry_timestamp": "2026-08-18T17:44:35.456",
+    "not_before": "2026-08-18T17:44:34",
+    "not_after": "2027-03-05T17:43:34",
+    "serial_number": "4001a015f99ab89c07f248a7aec77380",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "a1enm001cm136.hhs.gov",
+    "name_value": "a1enm001cm136.hhs.gov",
+    "id": 28843275139,
+    "entry_timestamp": "2026-08-18T17:44:19.922",
+    "not_before": "2026-08-18T17:44:19",
+    "not_after": "2027-03-05T17:43:19",
+    "serial_number": "4001a015f95da5d9e8de4f9b77ed0fc9",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "int.xms.hhs.gov",
+    "name_value": "int.xms.hhs.gov",
+    "id": 28841957262,
+    "entry_timestamp": "2026-08-18T14:55:26.927",
+    "not_before": "2026-08-18T14:55:26",
+    "not_after": "2027-03-05T14:54:26",
+    "serial_number": "4001a0155ebffb19587ef28ab974bf09",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "hsdw.hhs.gov",
+    "name_value": "hsdw.hhs.gov",
+    "id": 28841936556,
+    "entry_timestamp": "2026-08-18T14:52:56.006",
+    "not_before": "2026-08-18T14:52:55",
+    "not_after": "2027-03-05T14:51:55",
+    "serial_number": "4001a0155c725cf85cafd6f3eb8b4d0c",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "hhs.gov",
+    "name_value": "hhs.gov",
+    "id": 28977610045,
+    "entry_timestamp": "2026-08-18T13:59:57.044",
+    "not_before": "2026-08-18T00:00:00",
+    "not_after": "2026-11-16T23:59:59",
+    "serial_number": "00a1c13bf5d02752a1153e4cf99c079397",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": "hhs.gov",
+    "name_value": "hhs.gov",
+    "id": 28977601631,
+    "entry_timestamp": "2026-08-18T13:59:28.066",
+    "not_before": "2026-08-18T00:00:00",
+    "not_after": "2026-11-16T23:59:59",
+    "serial_number": "00a1c13bf5d02752a1153e4cf99c079397",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "pecos-val.cms.hhs.gov",
+    "name_value": "pecos-val.cms.hhs.gov",
+    "id": 28797162093,
+    "entry_timestamp": "2026-08-18T04:02:22.505",
+    "not_before": "2026-08-18T00:00:00",
+    "not_after": "2027-03-04T23:59:59",
+    "serial_number": "0d86fa006bb23c528e4f7387c2a13231",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 286244,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WR3",
+    "common_name": "gemini.hhs.gov",
+    "name_value": "gemini.hhs.gov",
+    "id": 28879105110,
+    "entry_timestamp": "2026-08-18T00:59:49.268",
+    "not_before": "2026-08-17T23:59:48",
+    "not_after": "2026-11-16T00:55:43",
+    "serial_number": "009a1fc6ad209beeea125f4893133a8518",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "hhspancms.cso.hhs.gov",
+    "name_value": "hhspancms.cso.hhs.gov",
+    "id": 28834206838,
+    "entry_timestamp": "2026-08-17T19:48:00.156",
+    "not_before": "2026-08-17T19:47:59",
+    "not_after": "2027-03-04T19:46:59",
+    "serial_number": "4001a011443b69383d83d41576124d19",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "ispgsplunkext01.cms.hhs.gov",
+    "name_value": "ispgsplunkext01.cms.hhs.gov",
+    "id": 28833814917,
+    "entry_timestamp": "2026-08-17T18:40:48.614",
+    "not_before": "2026-08-17T18:40:47",
+    "not_after": "2027-03-04T18:39:47",
+    "serial_number": "4001a01106b6bf81828bbde8f75fd58c",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 185752,
+    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
+    "common_name": "pecos-val.cms.hhs.gov",
+    "name_value": "pecos-val.cms.hhs.gov",
+    "id": 28793909085,
+    "entry_timestamp": "2026-08-17T14:27:12.632",
+    "not_before": "2026-08-17T00:00:00",
+    "not_after": "2027-03-03T23:59:59",
+    "serial_number": "0c5026d0d85069a5fb67c06cb48bf7fe",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "hhspancms.cso.hhs.gov",
+    "name_value": "hhspancms.cso.hhs.gov",
+    "id": 28788041419,
+    "entry_timestamp": "2026-08-13T20:03:30.116",
+    "not_before": "2026-08-13T20:03:29",
+    "not_after": "2027-02-28T20:02:29",
+    "serial_number": "40019ffcb8fbeb2a946cc79470a14f4b",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "protect-ows.hhs.gov",
+    "name_value": "asprready.hhs.gov\nprotect-ows.hhs.gov",
+    "id": 28784663216,
+    "entry_timestamp": "2026-08-13T14:10:08.16",
+    "not_before": "2026-08-13T14:10:07",
+    "not_after": "2027-02-28T14:09:07",
+    "serial_number": "40019ffb7578839754a3e9e9c04db6cd",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "nppes.cms.hhs.gov",
+    "name_value": "nppes.cms.hhs.gov",
+    "id": 28782835939,
+    "entry_timestamp": "2026-08-13T11:03:36.237",
+    "not_before": "2026-08-13T00:00:00",
+    "not_after": "2027-02-26T23:59:59",
+    "serial_number": "03eea4b656ca9b7f994c646112c9057e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 385516,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust DV TLS Issuing RSA CA 2",
+    "common_name": "rhy-hmis.acf.hhs.gov",
+    "name_value": "dashboard.rhy-hmis.acf.hhs.gov\ndashboard-stage.rhy-hmis.acf.hhs.gov\nidsvr.rhy-hmis.acf.hhs.gov\nidsvr-stage.rhy-hmis.acf.hhs.gov\nrhy-hmis.acf.hhs.gov\nrhy-hmis-stage.acf.hhs.gov\nwww.rhy-hmis.acf.hhs.gov",
+    "id": 28778129170,
+    "entry_timestamp": "2026-08-13T02:55:20.308",
+    "not_before": "2026-08-13T00:00:00",
+    "not_after": "2027-02-27T23:59:59",
+    "serial_number": "3a8c1d5ae6467d05f51bdb129a3474ec",
+    "result_count": 8
+  },
+  {
+    "issuer_ca_id": 385516,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust DV TLS Issuing RSA CA 2",
+    "common_name": "rhy-hmis.acf.hhs.gov",
+    "name_value": "dashboard.rhy-hmis.acf.hhs.gov\ndashboard-stage.rhy-hmis.acf.hhs.gov\nidsvr.rhy-hmis.acf.hhs.gov\nidsvr-stage.rhy-hmis.acf.hhs.gov\nrhy-hmis.acf.hhs.gov\nrhy-hmis-stage.acf.hhs.gov\nwww.rhy-hmis.acf.hhs.gov",
+    "id": 28775544989,
+    "entry_timestamp": "2026-08-13T02:55:19.294",
+    "not_before": "2026-08-13T00:00:00",
+    "not_after": "2027-02-27T23:59:59",
+    "serial_number": "3a8c1d5ae6467d05f51bdb129a3474ec",
+    "result_count": 8
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "hsdw.hhs.gov",
+    "name_value": "hsdw.hhs.gov",
+    "id": 28774635103,
+    "entry_timestamp": "2026-08-12T20:45:55.859",
+    "not_before": "2026-08-12T20:45:55",
+    "not_after": "2027-02-27T20:44:55",
+    "serial_number": "40019ff7b9790168b8c90562739edbb4",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "cpsg.beam.hhs.gov",
+    "name_value": "cpsg.beam.hhs.gov",
+    "id": 28774067337,
+    "entry_timestamp": "2026-08-12T19:41:56.237",
+    "not_before": "2026-08-12T19:41:55",
+    "not_after": "2027-02-27T19:40:55",
+    "serial_number": "40019ff77ee23bafd92ff8d6dce823c5",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "pecos-val.cms.hhs.gov",
@@ -72,30 +768,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 432476,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
-    "common_name": "wecandothis.hhs.gov",
-    "name_value": "akadev-juntossipodemos.hhs.gov\nakadev-wecandothis.hhs.gov\nakaprod-juntossipodemos.hhs.gov\nakaprod-opa.hhs.gov\nakaprod-telehealth.hhs.gov\nakaprod-wecandothis.hhs.gov\nakastage-juntossipodemos.hhs.gov\nakastage-opa.hhs.gov\nakastage-telehealth.hhs.gov\nakastage-wecandothis.hhs.gov\naspr.hhs.gov\njuntossipodemos.hhs.gov\nopa.hhs.gov\nrisklessdomore.hhs.gov\nstratcomm.hhs.gov\ntelehealth.hhs.gov\nwecandothis.hhs.gov\nwww.aspr.hhs.gov\nwww.opa.hhs.gov\nwww.telehealth.hhs.gov",
-    "id": 28747930288,
-    "entry_timestamp": "2026-08-11T18:23:38.268",
-    "not_before": "2026-08-11T17:25:07",
-    "not_after": "2026-11-09T17:25:06",
-    "serial_number": "06cc3c8f37de90e881418275060b072908e9",
-    "result_count": 21
-  },
-  {
-    "issuer_ca_id": 432476,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
-    "common_name": "wecandothis.hhs.gov",
-    "name_value": "akadev-juntossipodemos.hhs.gov\nakadev-wecandothis.hhs.gov\nakaprod-juntossipodemos.hhs.gov\nakaprod-opa.hhs.gov\nakaprod-telehealth.hhs.gov\nakaprod-wecandothis.hhs.gov\nakastage-juntossipodemos.hhs.gov\nakastage-opa.hhs.gov\nakastage-telehealth.hhs.gov\nakastage-wecandothis.hhs.gov\naspr.hhs.gov\njuntossipodemos.hhs.gov\nopa.hhs.gov\nrisklessdomore.hhs.gov\nstratcomm.hhs.gov\ntelehealth.hhs.gov\nwecandothis.hhs.gov\nwww.aspr.hhs.gov\nwww.opa.hhs.gov\nwww.telehealth.hhs.gov",
-    "id": 28747913629,
-    "entry_timestamp": "2026-08-11T18:23:38.027",
-    "not_before": "2026-08-11T17:25:07",
-    "not_after": "2026-11-09T17:25:06",
-    "serial_number": "06cc3c8f37de90e881418275060b072908e9",
-    "result_count": 21
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "pecos-val.cms.hhs.gov",
@@ -118,30 +790,6 @@
     "not_after": "2027-02-24T23:59:59",
     "serial_number": "0fdcd84e6de8b41686d2b4fc740796c1",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 432477,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
-    "common_name": "aka-www.hhs.gov",
-    "name_value": "akadev1-ion-www.hhs.gov\nakadev2-ion-www.hhs.gov\nakadev3-ion-www.hhs.gov\nakadev4-ion-www.hhs.gov\nakadev5-ion-www.hhs.gov\nakadev-ion-www.hhs.gov\nakapreview-ion-www.hhs.gov\nakaprod-digitalmedia.hhs.gov\nakaprod-everytrycounts.betobaccofree.hhs.gov\nakaprod-ion-www.hhs.gov\nakaqa1-ion-www.hhs.gov\nakaqa2-ion-www.hhs.gov\nakaqa3-ion-www.hhs.gov\nakaqa4-ion-www.hhs.gov\nakaqa5-ion-www.hhs.gov\nakaqa-ion-www.hhs.gov\nakastage1-ion-www.hhs.gov\nakastage2-ion-www.hhs.gov\nakastage3-ion-www.hhs.gov\nakastage4-ion-www.hhs.gov\nakastage5-ion-www.hhs.gov\nakastage-everytrycounts.betobaccofree.hhs.gov\nakastage-ion-www.hhs.gov\nakastage-therealcost.betobaccofree.hhs.gov\nakastage-www.hhs.gov\nakatest1-ion-www.hhs.gov\nakatest2-ion-www.hhs.gov\nakatest3-ion-www.hhs.gov\nakatest4-ion-www.hhs.gov\nakatest5-ion-www.hhs.gov\nakatest-ion-www.hhs.gov\nakauat-ion-www.hhs.gov\naka-www.hhs.gov",
-    "id": 28713295219,
-    "entry_timestamp": "2026-08-10T17:34:56.351",
-    "not_before": "2026-08-10T16:36:25",
-    "not_after": "2026-11-08T16:36:24",
-    "serial_number": "069ad35827e8722e0222dcc808a91de43fae",
-    "result_count": 34
-  },
-  {
-    "issuer_ca_id": 432477,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
-    "common_name": "aka-www.hhs.gov",
-    "name_value": "akadev1-ion-www.hhs.gov\nakadev2-ion-www.hhs.gov\nakadev3-ion-www.hhs.gov\nakadev4-ion-www.hhs.gov\nakadev5-ion-www.hhs.gov\nakadev-ion-www.hhs.gov\nakapreview-ion-www.hhs.gov\nakaprod-digitalmedia.hhs.gov\nakaprod-everytrycounts.betobaccofree.hhs.gov\nakaprod-ion-www.hhs.gov\nakaqa1-ion-www.hhs.gov\nakaqa2-ion-www.hhs.gov\nakaqa3-ion-www.hhs.gov\nakaqa4-ion-www.hhs.gov\nakaqa5-ion-www.hhs.gov\nakaqa-ion-www.hhs.gov\nakastage1-ion-www.hhs.gov\nakastage2-ion-www.hhs.gov\nakastage3-ion-www.hhs.gov\nakastage4-ion-www.hhs.gov\nakastage5-ion-www.hhs.gov\nakastage-everytrycounts.betobaccofree.hhs.gov\nakastage-ion-www.hhs.gov\nakastage-therealcost.betobaccofree.hhs.gov\nakastage-www.hhs.gov\nakatest1-ion-www.hhs.gov\nakatest2-ion-www.hhs.gov\nakatest3-ion-www.hhs.gov\nakatest4-ion-www.hhs.gov\nakatest5-ion-www.hhs.gov\nakatest-ion-www.hhs.gov\nakauat-ion-www.hhs.gov\naka-www.hhs.gov",
-    "id": 28713266205,
-    "entry_timestamp": "2026-08-10T17:34:55.809",
-    "not_before": "2026-08-10T16:36:25",
-    "not_after": "2026-11-08T16:36:24",
-    "serial_number": "069ad35827e8722e0222dcc808a91de43fae",
-    "result_count": 34
   },
   {
     "issuer_ca_id": 432952,
@@ -324,54 +972,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "UC-HHH-EXPE-Pri1.hhs.gov",
-    "name_value": "hhs.gov\nUC-HHH-EXPE-Pri1.hhs.gov\nUC-HHS-EXPE.hhs.gov\nUC-PKL-EXPE-Sec1.hhs.gov",
-    "id": 28587610140,
-    "entry_timestamp": "2026-08-06T11:51:00.87",
-    "not_before": "2025-07-23T00:00:00",
-    "not_after": "2026-08-23T23:59:59",
-    "serial_number": "02a46dc927feb22ecde0e65f306e1f29",
-    "result_count": 5
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "UC-PKL-EXPE-Sec1.hhs.gov",
-    "name_value": "hhs.gov\nUC-HHH-EXPE-Pri1.hhs.gov\nUC-HHS-EXPE.hhs.gov\nUC-PKL-EXPE-Sec1.hhs.gov",
-    "id": 28587604568,
-    "entry_timestamp": "2026-08-06T11:50:20.279",
-    "not_before": "2025-07-23T00:00:00",
-    "not_after": "2026-08-23T23:59:59",
-    "serial_number": "0b7f33ce627ba288bcceb7d9c02fa5fa",
-    "result_count": 5
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "UC-HHH-EXPE-Pri1.hhs.gov",
-    "name_value": "hhs.gov\nUC-HHH-EXPE-Pri1.hhs.gov\nUC-HHS-EXPE.hhs.gov\nUC-PKL-EXPE-Sec1.hhs.gov",
-    "id": 28587335061,
-    "entry_timestamp": "2026-08-06T11:43:48.02",
-    "not_before": "2026-08-06T00:00:00",
-    "not_after": "2027-02-20T23:59:59",
-    "serial_number": "08d2fd95e9b3031e85ccc76e6a98c00f",
-    "result_count": 5
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "UC-PKL-EXPE-Sec1.hhs.gov",
-    "name_value": "hhs.gov\nUC-HHH-EXPE-Pri1.hhs.gov\nUC-HHS-EXPE.hhs.gov\nUC-PKL-EXPE-Sec1.hhs.gov",
-    "id": 28587313536,
-    "entry_timestamp": "2026-08-06T11:42:25.865",
-    "not_before": "2026-08-06T00:00:00",
-    "not_after": "2027-02-20T23:59:59",
-    "serial_number": "06b2630f04aa86f23006677ee55fc032",
-    "result_count": 5
-  },
-  {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "simplergrants.hhs.gov",
@@ -465,18 +1065,6 @@
     "not_before": "2026-08-04T00:00:00",
     "not_after": "2027-02-18T23:59:59",
     "serial_number": "02116a60a440baac542fc28af9e17b32",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 246719,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
-    "common_name": "jamf.hhs.gov",
-    "name_value": "jamf.hhs.gov",
-    "id": 28526084558,
-    "entry_timestamp": "2026-08-04T12:57:28.109",
-    "not_before": "2026-08-04T00:00:00",
-    "not_after": "2027-02-17T23:59:59",
-    "serial_number": "0909dd065e9e4e867ae3e22b34bc4df0",
     "result_count": 2
   },
   {
@@ -592,18 +1180,6 @@
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "osdbu.hhs.gov",
     "name_value": "*.osdbu.hhs.gov\nosdbu.hhs.gov",
-    "id": 28487310029,
-    "entry_timestamp": "2026-08-03T09:03:40.452",
-    "not_before": "2026-08-03T00:00:00",
-    "not_after": "2027-02-16T23:59:59",
-    "serial_number": "0937d2009c846222c577c9eb8bfd808a",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 246719,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
-    "common_name": "osdbu.hhs.gov",
-    "name_value": "*.osdbu.hhs.gov\nosdbu.hhs.gov",
     "id": 28486031070,
     "entry_timestamp": "2026-08-03T08:15:04.848",
     "not_before": "2026-08-03T00:00:00",
@@ -634,18 +1210,6 @@
     "not_after": "2026-10-08T11:33:25",
     "serial_number": "7b08e45f987bb7c40ae2de9368b17fd1",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 432477,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
-    "common_name": "minorityhealth.hhs.gov",
-    "name_value": "minorityhealth.hhs.gov\nwww.minorityhealth.hhs.gov",
-    "id": 28445027533,
-    "entry_timestamp": "2026-08-01T21:19:38.18",
-    "not_before": "2026-08-01T20:21:07",
-    "not_after": "2026-10-30T20:21:06",
-    "serial_number": "0680a34a5843af68490f241dd7e251b0f10a",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 432477,
@@ -754,18 +1318,6 @@
     "not_after": "2027-02-15T15:51:53",
     "serial_number": "40019fb8e0e0a661a292e8230581f7e6",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 432476,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
-    "common_name": "resources.rhyttac.org",
-    "name_value": "rhyclearinghouse.acf.hhs.gov\nwww.rhyclearinghouse.acf.hhs.gov",
-    "id": 28409751655,
-    "entry_timestamp": "2026-07-31T14:13:20.743",
-    "not_before": "2026-07-31T13:14:49",
-    "not_after": "2026-10-29T13:14:48",
-    "serial_number": "06e2c19ec793e43f2d77b7d1d1395c158266",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 432476,
@@ -900,30 +1452,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "UC-PKL-EXPE-Sec1.hhs.gov",
-    "name_value": "hhs.gov\nUC-HHH-EXPE-Pri1.hhs.gov\nUC-HHS-EXPE.hhs.gov\nUC-PKL-EXPE-Sec1.hhs.gov",
-    "id": 28379546282,
-    "entry_timestamp": "2026-07-30T12:52:47.952",
-    "not_before": "2026-07-30T00:00:00",
-    "not_after": "2027-02-13T23:59:59",
-    "serial_number": "0606709573e6af07904f916d120441a1",
-    "result_count": 5
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "UC-HHH-EXPE-Pri1.hhs.gov",
-    "name_value": "hhs.gov\nUC-HHH-EXPE-Pri1.hhs.gov\nUC-HHS-EXPE.hhs.gov\nUC-PKL-EXPE-Sec1.hhs.gov",
-    "id": 28379528306,
-    "entry_timestamp": "2026-07-30T12:51:06.849",
-    "not_before": "2026-07-30T00:00:00",
-    "not_after": "2027-02-13T23:59:59",
-    "serial_number": "0a58c38d9b2b45d91c6a4afad654419e",
-    "result_count": 5
-  },
-  {
     "issuer_ca_id": 204411,
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36",
     "common_name": "sts.oig.hhs.gov",
@@ -957,18 +1485,6 @@
     "not_before": "2026-07-29T00:00:00",
     "not_after": "2027-02-12T23:59:59",
     "serial_number": "043c5427d4d88e467570a2291a79c55c",
-    "result_count": 31
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "aka-www.hhs.gov",
-    "name_value": "akadev1-ion-www.hhs.gov\nakadev2-ion-www.hhs.gov\nakadev3-ion-www.hhs.gov\nakadev4-ion-www.hhs.gov\nakadev5-ion-www.hhs.gov\nakadev-ion-www.hhs.gov\nakapreview-ion-www.hhs.gov\nakaprod-digitalmedia.hhs.gov\nakaprod-ion-www.hhs.gov\nakaqa1-ion-www.hhs.gov\nakaqa2-ion-www.hhs.gov\nakaqa3-ion-www.hhs.gov\nakaqa4-ion-www.hhs.gov\nakaqa5-ion-www.hhs.gov\nakaqa-ion-www.hhs.gov\nakastage1-ion-www.hhs.gov\nakastage2-ion-www.hhs.gov\nakastage3-ion-www.hhs.gov\nakastage4-ion-www.hhs.gov\nakastage5-ion-www.hhs.gov\nakastage-ion-www.hhs.gov\nakastage-www.hhs.gov\nakatest1-ion-www.hhs.gov\nakatest2-ion-www.hhs.gov\nakatest3-ion-www.hhs.gov\nakatest4-ion-www.hhs.gov\nakatest5-ion-www.hhs.gov\nakatest-ion-www.hhs.gov\nakauat-ion-www.hhs.gov\naka-www.hhs.gov",
-    "id": 28334785874,
-    "entry_timestamp": "2026-07-29T00:08:42.92",
-    "not_before": "2026-07-29T00:00:00",
-    "not_after": "2027-02-12T23:59:59",
-    "serial_number": "054028917763f4b4ad103ccdcad71098",
     "result_count": 31
   },
   {
@@ -1054,18 +1570,6 @@
     "not_after": "2027-02-09T23:59:59",
     "serial_number": "03b1c14dc27e3e7e6d982fe4b7f529f7",
     "result_count": 1
-  },
-  {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "www.cdc.gov",
-    "name_value": "hospitals.millionhearts.hhs.gov\nhospitals.millionhearts-int.hhs.gov\nmillionhearts.hhs.gov\nmillionheartsns.hhs.gov\nwww.millionhearts.hhs.gov",
-    "id": 28289721713,
-    "entry_timestamp": "2026-07-27T11:03:28.677",
-    "not_before": "2026-07-09T00:00:00",
-    "not_after": "2026-12-17T23:59:59",
-    "serial_number": "0acd87c56e9cba82d45c9c71a51a33f7",
-    "result_count": 5
   },
   {
     "issuer_ca_id": 431054,
@@ -1380,30 +1884,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "verify.oig.hhs.gov",
-    "name_value": "verify.oig.hhs.gov\nwww.verify.oig.hhs.gov",
-    "id": 28099336507,
-    "entry_timestamp": "2026-07-20T17:29:29.252",
-    "not_before": "2026-07-20T00:00:00",
-    "not_after": "2027-02-03T23:59:59",
-    "serial_number": "2b7aa0f088e76d839280bd216f6de5eb",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "verify.oig.hhs.gov",
-    "name_value": "verify.oig.hhs.gov\nwww.verify.oig.hhs.gov",
-    "id": 28099335547,
-    "entry_timestamp": "2026-07-20T17:29:28.105",
-    "not_before": "2026-07-20T00:00:00",
-    "not_after": "2027-02-03T23:59:59",
-    "serial_number": "2b7aa0f088e76d839280bd216f6de5eb",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "iknowtest.hhs.gov",
@@ -1596,30 +2076,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 432476,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
-    "common_name": "wecandothis.hhs.gov",
-    "name_value": "akadev-juntossipodemos.hhs.gov\nakadev-wecandothis.hhs.gov\nakaprod-juntossipodemos.hhs.gov\nakaprod-telehealth.hhs.gov\nakaprod-wecandothis.hhs.gov\nakastage-juntossipodemos.hhs.gov\nakastage-telehealth.hhs.gov\nakastage-wecandothis.hhs.gov\naspr.hhs.gov\njuntossipodemos.hhs.gov\nrisklessdomore.hhs.gov\nstratcomm.hhs.gov\ntelehealth.hhs.gov\nwecandothis.hhs.gov\nwww.aspr.hhs.gov\nwww.telehealth.hhs.gov",
-    "id": 27838189221,
-    "entry_timestamp": "2026-07-10T19:32:56.021",
-    "not_before": "2026-07-10T18:34:24",
-    "not_after": "2026-10-08T18:34:23",
-    "serial_number": "05fa61aec1935394749f8efb09fca6a33d00",
-    "result_count": 17
-  },
-  {
-    "issuer_ca_id": 432476,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
-    "common_name": "wecandothis.hhs.gov",
-    "name_value": "akadev-juntossipodemos.hhs.gov\nakadev-wecandothis.hhs.gov\nakaprod-juntossipodemos.hhs.gov\nakaprod-telehealth.hhs.gov\nakaprod-wecandothis.hhs.gov\nakastage-juntossipodemos.hhs.gov\nakastage-telehealth.hhs.gov\nakastage-wecandothis.hhs.gov\naspr.hhs.gov\njuntossipodemos.hhs.gov\nrisklessdomore.hhs.gov\nstratcomm.hhs.gov\ntelehealth.hhs.gov\nwecandothis.hhs.gov\nwww.aspr.hhs.gov\nwww.telehealth.hhs.gov",
-    "id": 27838195466,
-    "entry_timestamp": "2026-07-10T19:32:54.876",
-    "not_before": "2026-07-10T18:34:24",
-    "not_after": "2026-10-08T18:34:23",
-    "serial_number": "05fa61aec1935394749f8efb09fca6a33d00",
-    "result_count": 17
-  },
-  {
     "issuer_ca_id": 286236,
     "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
     "common_name": "wiki.simpler.hhs.gov",
@@ -1678,18 +2134,6 @@
     "not_after": "2026-10-08T11:33:25",
     "serial_number": "7b08e45f987bb7c40ae2de9368b17fd1",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "www.cdc.gov",
-    "name_value": "hospitals.millionhearts.hhs.gov\nhospitals.millionhearts-int.hhs.gov\nmillionhearts.hhs.gov\nmillionheartsns.hhs.gov\nwww.millionhearts.hhs.gov",
-    "id": 27811084338,
-    "entry_timestamp": "2026-07-09T17:29:39.808",
-    "not_before": "2026-07-09T00:00:00",
-    "not_after": "2026-12-17T23:59:59",
-    "serial_number": "0acd87c56e9cba82d45c9c71a51a33f7",
-    "result_count": 5
   },
   {
     "issuer_ca_id": 153248,
@@ -1774,18 +2218,6 @@
     "not_after": "2027-01-20T23:59:59",
     "serial_number": "1bfd2eb7711175c21f707ab85e2d8ae7",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 247119,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
-    "common_name": "smartclass.ohs.acf.hhs.gov",
-    "name_value": "smartclass.ohs.acf.hhs.gov",
-    "id": 27735102120,
-    "entry_timestamp": "2026-07-06T15:05:19.204",
-    "not_before": "2026-07-06T00:00:00",
-    "not_after": "2027-01-19T23:59:59",
-    "serial_number": "01ac0ae45dc84f26b30a567a1d220cc6",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 247119,
@@ -2044,36 +2476,12 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
     "common_name": "develop.tanfdata.acf.hhs.gov",
     "name_value": "develop.tanfdata.acf.hhs.gov\nstaging.auth.tanfdata.acf.hhs.gov\nstaging.tanfdata.acf.hhs.gov",
-    "id": 27622233035,
-    "entry_timestamp": "2026-07-01T16:45:56.553",
-    "not_before": "2026-07-01T15:47:25",
-    "not_after": "2026-09-29T15:47:24",
-    "serial_number": "0510897e2c276d215bab4fb26ebabeb13c51",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 432476,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
-    "common_name": "develop.tanfdata.acf.hhs.gov",
-    "name_value": "develop.tanfdata.acf.hhs.gov\nstaging.auth.tanfdata.acf.hhs.gov\nstaging.tanfdata.acf.hhs.gov",
     "id": 27622228460,
     "entry_timestamp": "2026-07-01T16:45:55.789",
     "not_before": "2026-07-01T15:47:25",
     "not_after": "2026-09-29T15:47:24",
     "serial_number": "0510897e2c276d215bab4fb26ebabeb13c51",
     "result_count": 4
-  },
-  {
-    "issuer_ca_id": 247119,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
-    "common_name": "mysbcx.hhs.gov",
-    "name_value": "*.mysbcx.hhs.gov\nmysbcx.hhs.gov",
-    "id": 27609022821,
-    "entry_timestamp": "2026-07-01T04:00:04.581",
-    "not_before": "2025-08-01T00:00:00",
-    "not_after": "2026-08-29T23:59:59",
-    "serial_number": "0f30b41b0ad9f5c239ca2e1cd939247f",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 246719,
@@ -2148,54 +2556,6 @@
     "result_count": 4
   },
   {
-    "issuer_ca_id": 432477,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
-    "common_name": "www.hhs.gov",
-    "name_value": "akaprod-www.hhs.gov\napi.digitalmedia.hhs.gov\nbeta-intranet.hhs.gov\ncareers.hhs.gov\ndcdservicedesk.hhs.gov\ndigitalmedia.hhs.gov\nintranet.hhs.gov\nstage-api.digitalmedia.hhs.gov\nstage-digitalmedia.hhs.gov\nstage-intranet.cloud.hhs.gov\nwww.hhs.gov",
-    "id": 27591234840,
-    "entry_timestamp": "2026-06-30T10:58:39.166",
-    "not_before": "2026-06-30T10:00:08",
-    "not_after": "2026-09-28T10:00:07",
-    "serial_number": "052fe89f1c7a7cae169728bc15d4325b954b",
-    "result_count": 12
-  },
-  {
-    "issuer_ca_id": 432477,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
-    "common_name": "www.hhs.gov",
-    "name_value": "akaprod-www.hhs.gov\napi.digitalmedia.hhs.gov\nbeta-intranet.hhs.gov\ncareers.hhs.gov\ndcdservicedesk.hhs.gov\ndigitalmedia.hhs.gov\nintranet.hhs.gov\nstage-api.digitalmedia.hhs.gov\nstage-digitalmedia.hhs.gov\nstage-intranet.cloud.hhs.gov\nwww.hhs.gov",
-    "id": 27591230294,
-    "entry_timestamp": "2026-06-30T10:58:38.986",
-    "not_before": "2026-06-30T10:00:08",
-    "not_after": "2026-09-28T10:00:07",
-    "serial_number": "052fe89f1c7a7cae169728bc15d4325b954b",
-    "result_count": 12
-  },
-  {
-    "issuer_ca_id": 432476,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
-    "common_name": "productordering.cms.hhs.gov",
-    "name_value": "productordering.cms.hhs.gov",
-    "id": 27583486043,
-    "entry_timestamp": "2026-06-30T03:30:15.064",
-    "not_before": "2026-06-30T02:31:44",
-    "not_after": "2026-09-28T02:31:43",
-    "serial_number": "05cb253d9b725cffb36116ea3038a1be9f74",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 432476,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
-    "common_name": "productordering.cms.hhs.gov",
-    "name_value": "productordering.cms.hhs.gov",
-    "id": 27583475378,
-    "entry_timestamp": "2026-06-30T03:30:14.346",
-    "not_before": "2026-06-30T02:31:44",
-    "not_after": "2026-09-28T02:31:43",
-    "serial_number": "05cb253d9b725cffb36116ea3038a1be9f74",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "eftv2.cms.hhs.gov",
@@ -2224,35 +2584,11 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
     "common_name": "staging.hses.ohs.acf.hhs.gov",
     "name_value": "staging.hses.ohs.acf.hhs.gov",
-    "id": 27539547881,
-    "entry_timestamp": "2026-06-28T07:19:30.269",
-    "not_before": "2026-06-28T06:20:58",
-    "not_after": "2026-09-26T06:20:57",
-    "serial_number": "0563b266be65b064279e787bf70869b76ef0",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 432476,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
-    "common_name": "staging.hses.ohs.acf.hhs.gov",
-    "name_value": "staging.hses.ohs.acf.hhs.gov",
     "id": 27539541760,
     "entry_timestamp": "2026-06-28T07:19:28.305",
     "not_before": "2026-06-28T06:20:58",
     "not_after": "2026-09-26T06:20:57",
     "serial_number": "0563b266be65b064279e787bf70869b76ef0",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "cyberneo.tech.hhs.gov",
-    "name_value": "cyberneo.tech.hhs.gov",
-    "id": 27538932625,
-    "entry_timestamp": "2026-06-28T06:39:53.12",
-    "not_before": "2026-02-17T00:00:00",
-    "not_after": "2026-08-17T23:59:59",
-    "serial_number": "051b84e77bec94214a473ec7aaf3a6ae",
     "result_count": 2
   },
   {
@@ -2296,18 +2632,6 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
     "common_name": "cob.cms.hhs.gov",
     "name_value": "cob.cms.hhs.gov\ndev.cob.cms.hhs.gov\nimp.cob.cms.hhs.gov\nwww.cob.cms.hhs.gov\nwww.dev.cob.cms.hhs.gov\nwww.imp.cob.cms.hhs.gov",
-    "id": 27475878305,
-    "entry_timestamp": "2026-06-25T13:07:30.586",
-    "not_before": "2026-06-25T12:08:59",
-    "not_after": "2026-09-23T12:08:58",
-    "serial_number": "056e2c43d549317897f86dfb3d4a003adb8c",
-    "result_count": 7
-  },
-  {
-    "issuer_ca_id": 432477,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
-    "common_name": "cob.cms.hhs.gov",
-    "name_value": "cob.cms.hhs.gov\ndev.cob.cms.hhs.gov\nimp.cob.cms.hhs.gov\nwww.cob.cms.hhs.gov\nwww.dev.cob.cms.hhs.gov\nwww.imp.cob.cms.hhs.gov",
     "id": 27475878882,
     "entry_timestamp": "2026-06-25T13:07:29.759",
     "not_before": "2026-06-25T12:08:59",
@@ -2344,30 +2668,6 @@
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "licensingregulations.acf.hhs.gov",
     "name_value": "*.licensingregulations.acf.hhs.gov\nlicensingregulations.acf.hhs.gov",
-    "id": 27438305496,
-    "entry_timestamp": "2026-06-24T02:26:55.495",
-    "not_before": "2026-06-24T00:00:00",
-    "not_after": "2027-01-07T23:59:59",
-    "serial_number": "0e5ff4de255bd67399e34e896f30b879",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 247119,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
-    "common_name": "licensingregulations.acf.hhs.gov",
-    "name_value": "*.licensingregulations.acf.hhs.gov\nlicensingregulations.acf.hhs.gov",
-    "id": 27437465549,
-    "entry_timestamp": "2026-06-24T01:40:09.934",
-    "not_before": "2025-07-24T00:00:00",
-    "not_after": "2026-08-22T23:59:59",
-    "serial_number": "08dabe1f45d9e289e6ec36809b60c10f",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 247119,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
-    "common_name": "licensingregulations.acf.hhs.gov",
-    "name_value": "*.licensingregulations.acf.hhs.gov\nlicensingregulations.acf.hhs.gov",
     "id": 27437370930,
     "entry_timestamp": "2026-06-24T01:36:01.778",
     "not_before": "2026-06-24T00:00:00",
@@ -2388,18 +2688,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "www.cms.gov",
-    "name_value": "cms.hhs.gov\nwww.cms.hhs.gov",
-    "id": 27432994652,
-    "entry_timestamp": "2026-06-23T21:39:10.336",
-    "not_before": "2026-05-30T00:00:00",
-    "not_after": "2026-12-14T23:59:59",
-    "serial_number": "0a62f8c0ef0fae63a91b421ef561a8e8",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "esmd-docs.cms.hhs.gov",
@@ -2410,18 +2698,6 @@
     "not_after": "2027-01-07T23:59:59",
     "serial_number": "0e5a09583e5bb19b41bd0c1beaf0b3cb",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 432476,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
-    "common_name": "www.rds.cms.hhs.gov",
-    "name_value": "dev.rds.cms.hhs.gov\nimp.rds.cms.hhs.gov\nrds.cms.hhs.gov\nwww.dev.rds.cms.hhs.gov\nwww.imp.rds.cms.hhs.gov\nwww.rds.cms.hhs.gov",
-    "id": 27429673887,
-    "entry_timestamp": "2026-06-23T18:33:23.028",
-    "not_before": "2026-06-23T17:34:52",
-    "not_after": "2026-09-21T17:34:51",
-    "serial_number": "052fba712c46c82df42cad2aba38faa7327c",
-    "result_count": 7
   },
   {
     "issuer_ca_id": 432476,
@@ -2440,18 +2716,6 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
     "common_name": "test.tanfdata.acf.hhs.gov",
     "name_value": "a11y.tanfdata.acf.hhs.gov\ndev.auth.tanfdata.acf.hhs.gov\nqasp.tanfdata.acf.hhs.gov\ntest.tanfdata.acf.hhs.gov",
-    "id": 27425146752,
-    "entry_timestamp": "2026-06-23T14:40:19.555",
-    "not_before": "2026-06-23T13:41:48",
-    "not_after": "2026-09-21T13:41:47",
-    "serial_number": "0576c835270f9a57da28b124e4bf06943c74",
-    "result_count": 5
-  },
-  {
-    "issuer_ca_id": 432476,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
-    "common_name": "test.tanfdata.acf.hhs.gov",
-    "name_value": "a11y.tanfdata.acf.hhs.gov\ndev.auth.tanfdata.acf.hhs.gov\nqasp.tanfdata.acf.hhs.gov\ntest.tanfdata.acf.hhs.gov",
     "id": 27425148543,
     "entry_timestamp": "2026-06-23T14:40:19.001",
     "not_before": "2026-06-23T13:41:48",
@@ -2464,47 +2728,11 @@
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
     "common_name": "opendata.hhs.gov",
     "name_value": "opendata.hhs.gov",
-    "id": 27375975131,
-    "entry_timestamp": "2026-06-21T19:16:49.739",
-    "not_before": "2026-06-21T00:00:00",
-    "not_after": "2026-12-21T23:59:59",
-    "serial_number": "0fbf06da964b2a650d663c454069dbe0",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "opendata.hhs.gov",
-    "name_value": "opendata.hhs.gov",
     "id": 27362919999,
     "entry_timestamp": "2026-06-21T06:35:12.378",
     "not_before": "2026-06-21T00:00:00",
     "not_after": "2026-12-21T23:59:59",
     "serial_number": "0fbf06da964b2a650d663c454069dbe0",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "staging.opendata.hhs.gov",
-    "name_value": "staging.opendata.hhs.gov",
-    "id": 27361947240,
-    "entry_timestamp": "2026-06-21T05:36:11.058",
-    "not_before": "2026-06-19T00:00:00",
-    "not_after": "2026-12-19T23:59:59",
-    "serial_number": "04cee6f73bed6b13f407c0a752edf923",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "ai.hhs.gov",
-    "name_value": "ai.hhs.gov",
-    "id": 27352243790,
-    "entry_timestamp": "2026-06-20T19:47:53.418",
-    "not_before": "2026-06-18T00:00:00",
-    "not_after": "2026-12-18T23:59:59",
-    "serial_number": "07b54f5a60a09a644b4aa1443c52c99c",
     "result_count": 2
   },
   {
@@ -2529,18 +2757,6 @@
     "not_before": "2026-06-20T14:30:22",
     "not_after": "2026-09-18T15:26:18",
     "serial_number": "5e47eac13f184cdc0adca3abdebf618e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "iam.tech.hhs.gov",
-    "name_value": "iam.tech.hhs.gov",
-    "id": 27337956164,
-    "entry_timestamp": "2026-06-20T05:48:58.037",
-    "not_before": "2026-06-17T00:00:00",
-    "not_after": "2026-12-16T23:59:59",
-    "serial_number": "0e72e5cd34155517f9fab26f3fdab3c4",
     "result_count": 2
   },
   {
@@ -2589,18 +2805,6 @@
     "not_before": "2026-06-18T00:00:00",
     "not_after": "2026-12-18T23:59:59",
     "serial_number": "07b54f5a60a09a644b4aa1443c52c99c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "oig-gpt.oig.hhs.gov",
-    "name_value": "oig-gpt.oig.hhs.gov",
-    "id": 27280967367,
-    "entry_timestamp": "2026-06-18T05:02:47.054",
-    "not_before": "2026-06-13T00:00:00",
-    "not_after": "2026-12-13T23:59:59",
-    "serial_number": "096659fc6b685af642cc67e223e40068",
     "result_count": 2
   },
   {
@@ -2664,30 +2868,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 432477,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
-    "common_name": "asaconnecthubtest.hhs.gov",
-    "name_value": "asaconnecthubtest.hhs.gov",
-    "id": 27259757754,
-    "entry_timestamp": "2026-06-17T10:59:40.982",
-    "not_before": "2026-06-17T10:01:09",
-    "not_after": "2026-09-15T10:01:08",
-    "serial_number": "055849c8148d8ffcd6ea213c73c29fa2180f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 432477,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
-    "common_name": "asaconnecthubtest.hhs.gov",
-    "name_value": "asaconnecthubtest.hhs.gov",
-    "id": 27259761703,
-    "entry_timestamp": "2026-06-17T10:59:40.103",
-    "not_before": "2026-06-17T10:01:09",
-    "not_after": "2026-09-15T10:01:08",
-    "serial_number": "055849c8148d8ffcd6ea213c73c29fa2180f",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "exsmtp02.hhs.gov",
@@ -2734,42 +2914,6 @@
     "not_after": "2027-01-01T20:06:26",
     "serial_number": "40019ed20bc335442b836e1b66d16d57",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "pki.hhs.gov",
-    "name_value": "pki.hhs.gov",
-    "id": 27229608489,
-    "entry_timestamp": "2026-06-16T09:31:39.021",
-    "not_before": "2026-06-10T00:00:00",
-    "not_after": "2026-12-10T23:59:59",
-    "serial_number": "021563feab10525f9df4421136d68717",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "portal.foia.hhs.gov",
-    "name_value": "portal.foia.hhs.gov",
-    "id": 27228833368,
-    "entry_timestamp": "2026-06-16T08:53:58.072",
-    "not_before": "2026-06-10T00:00:00",
-    "not_after": "2026-12-10T23:59:59",
-    "serial_number": "07a7db6ca863f9991d08c7e427361abd",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 246719,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
-    "common_name": "pcqc.acf.hhs.gov",
-    "name_value": "*.pcqc.acf.hhs.gov\npcqc.acf.hhs.gov",
-    "id": 27226066990,
-    "entry_timestamp": "2026-06-16T06:36:19.048",
-    "not_before": "2026-06-16T00:00:00",
-    "not_after": "2026-12-30T23:59:59",
-    "serial_number": "0ad69c9f60cf94b271f78714779c3c19",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 246719,
@@ -2932,18 +3076,6 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
     "common_name": "test.tanfdata.acf.hhs.gov",
     "name_value": "dev.auth.tanfdata.acf.hhs.gov\ntest.tanfdata.acf.hhs.gov",
-    "id": 27126509681,
-    "entry_timestamp": "2026-06-12T15:40:17.397",
-    "not_before": "2026-06-12T14:41:46",
-    "not_after": "2026-09-10T14:41:45",
-    "serial_number": "05a83f7a1c4296e1f355e7933ff7db36d2a3",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 432477,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
-    "common_name": "test.tanfdata.acf.hhs.gov",
-    "name_value": "dev.auth.tanfdata.acf.hhs.gov\ntest.tanfdata.acf.hhs.gov",
     "id": 27126503072,
     "entry_timestamp": "2026-06-12T15:40:16.895",
     "not_before": "2026-06-12T14:41:46",
@@ -3036,30 +3168,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "ato.tech.hhs.gov",
-    "name_value": "ato.tech.hhs.gov",
-    "id": 26990304999,
-    "entry_timestamp": "2026-06-08T08:55:49.548",
-    "not_before": "2026-06-03T00:00:00",
-    "not_after": "2026-12-01T23:59:59",
-    "serial_number": "0232d19d482e3e551241150ad2ebf6ee",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "grc.tech.hhs.gov",
-    "name_value": "grc.tech.hhs.gov",
-    "id": 26990090764,
-    "entry_timestamp": "2026-06-08T08:45:09.156",
-    "not_before": "2026-06-03T00:00:00",
-    "not_after": "2026-12-01T23:59:59",
-    "serial_number": "06044aa845e19e7352deb9bca253d154",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 247119,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "*.acts.hhs.gov",
@@ -3100,36 +3208,12 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
     "common_name": "ocsannualreport.acf.hhs.gov",
     "name_value": "ocsannualreport.acf.hhs.gov",
-    "id": 26975520602,
-    "entry_timestamp": "2026-06-07T19:31:29.914",
-    "not_before": "2026-06-07T18:32:59",
-    "not_after": "2026-09-05T18:32:58",
-    "serial_number": "06e3242e27dcd972afe6e02b9f6721706b38",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 432477,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
-    "common_name": "ocsannualreport.acf.hhs.gov",
-    "name_value": "ocsannualreport.acf.hhs.gov",
     "id": 26975515458,
     "entry_timestamp": "2026-06-07T19:31:29.617",
     "not_before": "2026-06-07T18:32:59",
     "not_after": "2026-09-05T18:32:58",
     "serial_number": "06e3242e27dcd972afe6e02b9f6721706b38",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 432476,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
-    "common_name": "tdp-frontend-develop.acf.hhs.gov",
-    "name_value": "tdp-backend-develop.acf.hhs.gov\ntdp-backend-staging.acf.hhs.gov\ntdp-frontend-develop.acf.hhs.gov\ntdp-frontend-staging.acf.hhs.gov",
-    "id": 26968326769,
-    "entry_timestamp": "2026-06-07T13:19:38.928",
-    "not_before": "2026-06-07T12:21:07",
-    "not_after": "2026-09-05T12:21:06",
-    "serial_number": "05549439bff8e4f0ae250152529a89c019cf",
-    "result_count": 5
   },
   {
     "issuer_ca_id": 432476,
@@ -3166,18 +3250,6 @@
     "not_after": "2026-09-05T02:16:05",
     "serial_number": "062c996191215ca4f11643e3671e0bd0a245",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "www.hhs.gov",
-    "name_value": "akaprod-log.cloud.hhs.gov\nakaprod-therealcost.betobaccofree.hhs.gov\nakaprod-www.hhs.gov\napi.digitalmedia.hhs.gov\narriesgamenos.hhs.gov\nbeta-intranet.hhs.gov\ncareers.hhs.gov\ndcdservicedesk.hhs.gov\ndigitalmedia.hhs.gov\neverytrycounts.betobaccofree.hhs.gov\nhhs.gov\nintranet.hhs.gov\nletsgetreal.hhs.gov\nrisklessdomore.hhs.gov\nstage-api.digitalmedia.hhs.gov\nstage-digitalmedia.hhs.gov\nstage-intranet.cloud.hhs.gov\ntherealcost.betobaccofree.hhs.gov\nthisfreelife.betobaccofree.hhs.gov\nwww.arriesgamenos.hhs.gov\nwww.hhs.gov\nwww.letsgetreal.hhs.gov\nwww.risklessdomore.hhs.gov",
-    "id": 26955859473,
-    "entry_timestamp": "2026-06-07T02:34:23.991",
-    "not_before": "2026-04-14T00:00:00",
-    "not_after": "2026-10-29T23:59:59",
-    "serial_number": "04ca45bc33a25d0be0a7b321855bf63c",
-    "result_count": 24
   },
   {
     "issuer_ca_id": 246719,
@@ -3256,18 +3328,6 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
     "common_name": "minorityhealth.hhs.gov",
     "name_value": "minorityhealth.hhs.gov\nwww.minorityhealth.hhs.gov",
-    "id": 26838139316,
-    "entry_timestamp": "2026-06-02T21:19:39.098",
-    "not_before": "2026-06-02T20:21:07",
-    "not_after": "2026-08-31T20:21:06",
-    "serial_number": "062675d40e12b4d5f2e1bf51d93b9e95fe77",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 432477,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
-    "common_name": "minorityhealth.hhs.gov",
-    "name_value": "minorityhealth.hhs.gov\nwww.minorityhealth.hhs.gov",
     "id": 26838137952,
     "entry_timestamp": "2026-06-02T21:19:38.146",
     "not_before": "2026-06-02T20:21:07",
@@ -3297,18 +3357,6 @@
     "not_before": "2026-06-02T20:21:06",
     "not_after": "2026-08-31T20:21:05",
     "serial_number": "0593b87e5a5c1d106d43bc41c0bd08c1e620",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "ehcm-mirrormaint.hhs.gov",
-    "name_value": "ehcm-mirrormaint.hhs.gov",
-    "id": 26826559684,
-    "entry_timestamp": "2026-06-02T12:25:59.375",
-    "not_before": "2026-06-02T00:00:00",
-    "not_after": "2026-12-17T23:59:59",
-    "serial_number": "0ce84950717d1f7778880f570a44cda6",
     "result_count": 2
   },
   {
@@ -3348,198 +3396,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 432477,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
-    "common_name": "aka-www.hhs.gov",
-    "name_value": "akadev1-ion-www.hhs.gov\nakadev2-ion-www.hhs.gov\nakadev3-ion-www.hhs.gov\nakadev4-ion-www.hhs.gov\nakadev5-ion-www.hhs.gov\nakadev-ion-www.hhs.gov\nakapreview-ion-www.hhs.gov\nakaprod-digitalmedia.hhs.gov\nakaprod-everytrycounts.betobaccofree.hhs.gov\nakaprod-ion-www.hhs.gov\nakaqa1-ion-www.hhs.gov\nakaqa2-ion-www.hhs.gov\nakaqa3-ion-www.hhs.gov\nakaqa4-ion-www.hhs.gov\nakaqa5-ion-www.hhs.gov\nakaqa-ion-www.hhs.gov\nakastage1-ion-www.hhs.gov\nakastage2-ion-www.hhs.gov\nakastage3-ion-www.hhs.gov\nakastage4-ion-www.hhs.gov\nakastage5-ion-www.hhs.gov\nakastage-everytrycounts.betobaccofree.hhs.gov\nakastage-ion-www.hhs.gov\nakastage-therealcost.betobaccofree.hhs.gov\nakastage-www.hhs.gov\nakatest1-ion-www.hhs.gov\nakatest2-ion-www.hhs.gov\nakatest3-ion-www.hhs.gov\nakatest4-ion-www.hhs.gov\nakatest5-ion-www.hhs.gov\nakatest-ion-www.hhs.gov\nakauat-ion-www.hhs.gov\naka-www.hhs.gov",
-    "id": 26804866199,
-    "entry_timestamp": "2026-06-01T16:22:40.086",
-    "not_before": "2026-06-01T15:24:07",
-    "not_after": "2026-08-30T15:24:06",
-    "serial_number": "060a6ef63b791a85518e5fc4a9da8fd1eff5",
-    "result_count": 34
-  },
-  {
-    "issuer_ca_id": 432477,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
-    "common_name": "aka-www.hhs.gov",
-    "name_value": "akadev1-ion-www.hhs.gov\nakadev2-ion-www.hhs.gov\nakadev3-ion-www.hhs.gov\nakadev4-ion-www.hhs.gov\nakadev5-ion-www.hhs.gov\nakadev-ion-www.hhs.gov\nakapreview-ion-www.hhs.gov\nakaprod-digitalmedia.hhs.gov\nakaprod-everytrycounts.betobaccofree.hhs.gov\nakaprod-ion-www.hhs.gov\nakaqa1-ion-www.hhs.gov\nakaqa2-ion-www.hhs.gov\nakaqa3-ion-www.hhs.gov\nakaqa4-ion-www.hhs.gov\nakaqa5-ion-www.hhs.gov\nakaqa-ion-www.hhs.gov\nakastage1-ion-www.hhs.gov\nakastage2-ion-www.hhs.gov\nakastage3-ion-www.hhs.gov\nakastage4-ion-www.hhs.gov\nakastage5-ion-www.hhs.gov\nakastage-everytrycounts.betobaccofree.hhs.gov\nakastage-ion-www.hhs.gov\nakastage-therealcost.betobaccofree.hhs.gov\nakastage-www.hhs.gov\nakatest1-ion-www.hhs.gov\nakatest2-ion-www.hhs.gov\nakatest3-ion-www.hhs.gov\nakatest4-ion-www.hhs.gov\nakatest5-ion-www.hhs.gov\nakatest-ion-www.hhs.gov\nakauat-ion-www.hhs.gov\naka-www.hhs.gov",
-    "id": 26804868010,
-    "entry_timestamp": "2026-06-01T16:22:38.21",
-    "not_before": "2026-06-01T15:24:07",
-    "not_after": "2026-08-30T15:24:06",
-    "serial_number": "060a6ef63b791a85518e5fc4a9da8fd1eff5",
-    "result_count": 34
-  },
-  {
-    "issuer_ca_id": 432476,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
-    "common_name": "resources.rhyttac.org",
-    "name_value": "rhyclearinghouse.acf.hhs.gov\nwww.rhyclearinghouse.acf.hhs.gov",
-    "id": 26803063591,
-    "entry_timestamp": "2026-06-01T14:38:37.445",
-    "not_before": "2026-06-01T13:40:06",
-    "not_after": "2026-08-30T13:40:05",
-    "serial_number": "067e03b256536463de1e4e943d5c8f834dd7",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 432476,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
-    "common_name": "resources.rhyttac.org",
-    "name_value": "rhyclearinghouse.acf.hhs.gov\nwww.rhyclearinghouse.acf.hhs.gov",
-    "id": 26803056579,
-    "entry_timestamp": "2026-06-01T14:38:37.13",
-    "not_before": "2026-06-01T13:40:06",
-    "not_after": "2026-08-30T13:40:05",
-    "serial_number": "067e03b256536463de1e4e943d5c8f834dd7",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 431054,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YE2",
-    "common_name": "www.geospatialpublic.hhs.gov",
-    "name_value": "www.geospatialpublic.hhs.gov",
-    "id": 26801390924,
-    "entry_timestamp": "2026-06-01T12:34:03.38",
-    "not_before": "2026-06-01T11:35:32",
-    "not_after": "2026-08-30T11:35:31",
-    "serial_number": "06819baac397cd5148d3e39e1e53bbabc4de",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 431054,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YE2",
-    "common_name": "www.geospatialpublic.hhs.gov",
-    "name_value": "www.geospatialpublic.hhs.gov",
-    "id": 26801388190,
-    "entry_timestamp": "2026-06-01T12:34:02.946",
-    "not_before": "2026-06-01T11:35:32",
-    "not_after": "2026-08-30T11:35:31",
-    "serial_number": "06819baac397cd5148d3e39e1e53bbabc4de",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 431054,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YE2",
-    "common_name": "treatments-zh.hhs.gov",
-    "name_value": "treatments-zh.hhs.gov",
-    "id": 26801365690,
-    "entry_timestamp": "2026-06-01T12:32:37.443",
-    "not_before": "2026-06-01T11:34:07",
-    "not_after": "2026-08-30T11:34:06",
-    "serial_number": "05004498b3e6590b4ce3076af19bdfd7e22a",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 431054,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YE2",
-    "common_name": "treatments-zh.hhs.gov",
-    "name_value": "treatments-zh.hhs.gov",
-    "id": 26801359367,
-    "entry_timestamp": "2026-06-01T12:32:37.217",
-    "not_before": "2026-06-01T11:34:07",
-    "not_after": "2026-08-30T11:34:06",
-    "serial_number": "05004498b3e6590b4ce3076af19bdfd7e22a",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 432952,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YE1",
-    "common_name": "treatments-es.hhs.gov",
-    "name_value": "treatments-es.hhs.gov",
-    "id": 26801368615,
-    "entry_timestamp": "2026-06-01T12:32:28.333",
-    "not_before": "2026-06-01T11:33:57",
-    "not_after": "2026-08-30T11:33:56",
-    "serial_number": "06aaf2156621e7922b304ca5308aa12c9601",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 432952,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YE1",
-    "common_name": "treatments-es.hhs.gov",
-    "name_value": "treatments-es.hhs.gov",
-    "id": 26801358087,
-    "entry_timestamp": "2026-06-01T12:32:27.839",
-    "not_before": "2026-06-01T11:33:57",
-    "not_after": "2026-08-30T11:33:56",
-    "serial_number": "06aaf2156621e7922b304ca5308aa12c9601",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 431054,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YE2",
-    "common_name": "protect-public.hhs.gov",
-    "name_value": "protect-public.hhs.gov",
-    "id": 26801314053,
-    "entry_timestamp": "2026-06-01T12:29:28.449",
-    "not_before": "2026-06-01T11:30:57",
-    "not_after": "2026-08-30T11:30:56",
-    "serial_number": "057b92e79ed865eb881a5474ebbb5a00f88d",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 431054,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YE2",
-    "common_name": "protect-public.hhs.gov",
-    "name_value": "protect-public.hhs.gov",
-    "id": 26801319321,
-    "entry_timestamp": "2026-06-01T12:29:27.295",
-    "not_before": "2026-06-01T11:30:57",
-    "not_after": "2026-08-30T11:30:56",
-    "serial_number": "057b92e79ed865eb881a5474ebbb5a00f88d",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 431054,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YE2",
-    "common_name": "geohub.oig.hhs.gov",
-    "name_value": "geohub.oig.hhs.gov",
-    "id": 26801226202,
-    "entry_timestamp": "2026-06-01T12:23:45.759",
-    "not_before": "2026-06-01T11:25:14",
-    "not_after": "2026-08-30T11:25:13",
-    "serial_number": "053291cd6b40e6305f715885a2881ad253e4",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 431054,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YE2",
-    "common_name": "geohub.oig.hhs.gov",
-    "name_value": "geohub.oig.hhs.gov",
-    "id": 26801224596,
-    "entry_timestamp": "2026-06-01T12:23:44.26",
-    "not_before": "2026-06-01T11:25:14",
-    "not_after": "2026-08-30T11:25:13",
-    "serial_number": "053291cd6b40e6305f715885a2881ad253e4",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "grc.tech.hhs.gov",
-    "name_value": "grc.tech.hhs.gov",
-    "id": 26767643484,
-    "entry_timestamp": "2026-05-31T00:44:19.198",
-    "not_before": "2026-05-29T00:00:00",
-    "not_after": "2026-11-29T23:59:59",
-    "serial_number": "0e2e8539015ae11d54d814c4fc689754",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "www.cms.gov",
-    "name_value": "cms.hhs.gov\nwww.cms.hhs.gov",
-    "id": 26743547074,
-    "entry_timestamp": "2026-05-30T00:06:42.866",
-    "not_before": "2026-05-30T00:00:00",
-    "not_after": "2026-12-14T23:59:59",
-    "serial_number": "0a62f8c0ef0fae63a91b421ef561a8e8",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 62123,
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
     "common_name": "grc.tech.hhs.gov",
@@ -3549,30 +3405,6 @@
     "not_before": "2026-05-29T00:00:00",
     "not_after": "2026-11-29T23:59:59",
     "serial_number": "0e2e8539015ae11d54d814c4fc689754",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295809,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
-    "common_name": "liheapch.acf.hhs.gov",
-    "name_value": "liheapch.acf.hhs.gov",
-    "id": 26688367218,
-    "entry_timestamp": "2026-05-27T19:25:00.505",
-    "not_before": "2026-05-27T18:26:29",
-    "not_after": "2026-08-25T18:26:28",
-    "serial_number": "064188823fcbd7a515c901eba0ce53809a39",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 295809,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E8",
-    "common_name": "liheapch.acf.hhs.gov",
-    "name_value": "liheapch.acf.hhs.gov",
-    "id": 26688366078,
-    "entry_timestamp": "2026-05-27T19:24:59.21",
-    "not_before": "2026-05-27T18:26:29",
-    "not_after": "2026-08-25T18:26:28",
-    "serial_number": "064188823fcbd7a515c901eba0ce53809a39",
     "result_count": 2
   },
   {
@@ -3609,54 +3441,6 @@
     "not_before": "2026-05-26T19:57:56",
     "not_after": "2026-12-11T19:56:56",
     "serial_number": "40019e65dd842a0cfae73930dccd0b58",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295813,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
-    "common_name": "hhs.gov",
-    "name_value": "*.hhs.gov\nhhs.gov",
-    "id": 26647966032,
-    "entry_timestamp": "2026-05-26T06:14:24.472",
-    "not_before": "2026-05-26T05:15:53",
-    "not_after": "2026-08-24T05:15:52",
-    "serial_number": "06a13678757f7db2432a8764f2990679323a",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295813,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=E7",
-    "common_name": "hhs.gov",
-    "name_value": "*.hhs.gov\nhhs.gov",
-    "id": 26647969962,
-    "entry_timestamp": "2026-05-26T06:14:23.43",
-    "not_before": "2026-05-26T05:15:53",
-    "not_after": "2026-08-24T05:15:52",
-    "serial_number": "06a13678757f7db2432a8764f2990679323a",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "hhs.gov",
-    "name_value": "*.hhs.gov\nhhs.gov",
-    "id": 26647966382,
-    "entry_timestamp": "2026-05-26T06:14:10.422",
-    "not_before": "2026-05-26T05:15:39",
-    "not_after": "2026-08-24T05:15:38",
-    "serial_number": "06f4f904271a46f9408a1751890f7917d845",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 295817,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=R13",
-    "common_name": "hhs.gov",
-    "name_value": "*.hhs.gov\nhhs.gov",
-    "id": 26647969243,
-    "entry_timestamp": "2026-05-26T06:14:09.34",
-    "not_before": "2026-05-26T05:15:39",
-    "not_after": "2026-08-24T05:15:38",
-    "serial_number": "06f4f904271a46f9408a1751890f7917d845",
     "result_count": 3
   },
   {
@@ -4308,18 +4092,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "webinarcqauth1.cms.hhs.gov",
-    "name_value": "webinarcqauth1.cms.hhs.gov\nwebinarcqpub1.cms.hhs.gov",
-    "id": 26361619013,
-    "entry_timestamp": "2026-05-05T19:56:23.44",
-    "not_before": "2026-05-05T00:00:00",
-    "not_after": "2026-11-19T23:59:59",
-    "serial_number": "0b77a61efdabc2080f152f11fb107c16",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "qc.thinkculturalhealth.hhs.gov",
@@ -4390,18 +4162,6 @@
     "not_after": "2026-11-03T23:59:59",
     "serial_number": "0cdee4ad5710dab78f8aba2607a8ffc0",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247119,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
-    "common_name": "prod.dssnytd.com",
-    "name_value": "nytd.acf.hhs.gov",
-    "id": 25938883962,
-    "entry_timestamp": "2026-04-30T08:33:15.126",
-    "not_before": "2026-04-30T00:00:00",
-    "not_after": "2026-11-13T23:59:59",
-    "serial_number": "061e6feea1954490fd175f4cb794a4dc",
-    "result_count": 1
   },
   {
     "issuer_ca_id": 247119,
@@ -4572,18 +4332,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "owa.hhs.gov",
-    "name_value": "activesync.hhs.gov\nautodiscover.acf.hhs.gov\nautodiscover.acl.hhs.gov\nautodiscover.ahrq.hhs.gov\nautodiscover.aoa.hhs.gov\nautodiscover.ees.hhs.gov\nautodiscover.foh.hhs.gov\nautodiscover.hhs.gov\nautodiscover.os.hhs.gov\nautodiscover.psc.hhs.gov\nautodiscover.samhsa.hhs.gov\nautodiscover.whcoa.hhs.gov\ncashhh.hhs.gov\ncaspl.hhs.gov\nexsmtp.ees.hhs.gov\nhhh-i2-exch1.ees.hhs.gov\nhhh-i2-exch2.ees.hhs.gov\nhhh-i2-exch3.ees.hhs.gov\nhhh-i2-hybrid1.hhs.gov\nhhh-i2-hybrid2.hhs.gov\nhhh-i2-hybrid3.hhs.gov\nowa.hhs.gov\npl-i2-exch1.ees.hhs.gov\npl-i2-exch2.ees.hhs.gov\npl-i2-exch3.ees.hhs.gov\npl-i2-hybrid1.hhs.gov\npl-i2-hybrid2.hhs.gov\npl-i2-hybrid3.hhs.gov\nsmtp2.ees.hhs.gov\nsmtp.ees.hhs.gov\nwebmail.hhs.gov",
-    "id": 25736552872,
-    "entry_timestamp": "2026-04-24T07:15:46.375",
-    "not_before": "2026-04-24T00:00:00",
-    "not_after": "2026-11-08T23:59:59",
-    "serial_number": "0f64a99b86eed5e3c8fa59c5bba06523",
-    "result_count": 32
-  },
-  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "stage.ossiservices.hhs.gov",
@@ -4629,18 +4377,6 @@
     "not_before": "2026-04-23T00:00:00",
     "not_after": "2026-11-07T23:59:59",
     "serial_number": "0b2cc35a64d8c93b2f2888e4d7aafa0f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "ehcm-preprod2maint.hhs.gov",
-    "name_value": "ehcm-preprod2maint.hhs.gov",
-    "id": 25707754954,
-    "entry_timestamp": "2026-04-23T13:04:57.812",
-    "not_before": "2026-04-23T00:00:00",
-    "not_after": "2026-11-07T23:59:59",
-    "serial_number": "0ff940a86bf08285308eff3bb429fb04",
     "result_count": 2
   },
   {
@@ -4858,18 +4594,6 @@
     "not_after": "2026-10-30T16:22:53",
     "serial_number": "40019d8cce724557e95af1926115be26",
     "result_count": 11
-  },
-  {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "www.hhs.gov",
-    "name_value": "akaprod-log.cloud.hhs.gov\nakaprod-therealcost.betobaccofree.hhs.gov\nakaprod-www.hhs.gov\napi.digitalmedia.hhs.gov\narriesgamenos.hhs.gov\nbeta-intranet.hhs.gov\ncareers.hhs.gov\ndcdservicedesk.hhs.gov\ndigitalmedia.hhs.gov\neverytrycounts.betobaccofree.hhs.gov\nhhs.gov\nintranet.hhs.gov\nletsgetreal.hhs.gov\nrisklessdomore.hhs.gov\nstage-api.digitalmedia.hhs.gov\nstage-digitalmedia.hhs.gov\nstage-intranet.cloud.hhs.gov\ntherealcost.betobaccofree.hhs.gov\nthisfreelife.betobaccofree.hhs.gov\nwww.arriesgamenos.hhs.gov\nwww.hhs.gov\nwww.letsgetreal.hhs.gov\nwww.risklessdomore.hhs.gov",
-    "id": 25862792874,
-    "entry_timestamp": "2026-04-14T14:52:30.271",
-    "not_before": "2026-04-14T00:00:00",
-    "not_after": "2026-10-29T23:59:59",
-    "serial_number": "04ca45bc33a25d0be0a7b321855bf63c",
-    "result_count": 24
   },
   {
     "issuer_ca_id": 153248,
@@ -5268,18 +4992,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "*.cloud.hhs.gov",
-    "name_value": "*.cloud.hhs.gov\ncloud.hhs.gov",
-    "id": 25277899035,
-    "entry_timestamp": "2026-03-30T16:57:39.63",
-    "not_before": "2026-03-30T00:00:00",
-    "not_after": "2026-10-14T23:59:59",
-    "serial_number": "0d7623062e7aea205561feb24aab62be",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 385512,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
     "common_name": "partnerportal.oig.hhs.gov",
@@ -5400,18 +5112,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "www.hhs.gov",
-    "name_value": "akaprod-log.cloud.hhs.gov\nakaprod-therealcost.betobaccofree.hhs.gov\nakaprod-www.hhs.gov\napi.digitalmedia.hhs.gov\narriesgamenos.hhs.gov\nbeta-intranet.hhs.gov\nbetobaccofree.hhs.gov\ncareers.hhs.gov\ncomment-app.hhs.gov\ndcdservicedesk.hhs.gov\ndigitalmedia.hhs.gov\neverytrycounts.betobaccofree.hhs.gov\nfreshempire.betobaccofree.hhs.gov\nhhs.gov\nintranet.hhs.gov\nletsgetreal.hhs.gov\nrisklessdomore.hhs.gov\nstage-api.digitalmedia.hhs.gov\nstage-digitalmedia.hhs.gov\nstage-intranet.cloud.hhs.gov\ntherealcost.betobaccofree.hhs.gov\nthisfreelife.betobaccofree.hhs.gov\nwcdapps.hhs.gov\nwww.arriesgamenos.hhs.gov\nwww.hhs.gov\nwww.letsgetreal.hhs.gov\nwww.risklessdomore.hhs.gov",
-    "id": 25197827555,
-    "entry_timestamp": "2026-03-24T18:43:59.772",
-    "not_before": "2026-03-24T00:00:00",
-    "not_after": "2026-10-08T23:59:59",
-    "serial_number": "012bbf7b334f0e56f1146d02d6dff1f4",
-    "result_count": 28
-  },
-  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "guardicoretest.hhs.gov",
@@ -5422,18 +5122,6 @@
     "not_after": "2026-10-09T16:11:10",
     "serial_number": "40019d209e2ce56e90bbd7d2af2a7094",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "www.hhs.gov",
-    "name_value": "akaprod-log.cloud.hhs.gov\nakaprod-therealcost.betobaccofree.hhs.gov\nakaprod-www.hhs.gov\napi.digitalmedia.hhs.gov\narriesgamenos.hhs.gov\nbeta-intranet.hhs.gov\nbetobaccofree.hhs.gov\ncareers.hhs.gov\ncomment-app.hhs.gov\ndcdservicedesk.hhs.gov\ndigitalmedia.hhs.gov\neverytrycounts.betobaccofree.hhs.gov\nfreshempire.betobaccofree.hhs.gov\nhhs.gov\nintranet.hhs.gov\nletsgetreal.hhs.gov\nrisklessdomore.hhs.gov\nstage-api.digitalmedia.hhs.gov\nstage-digitalmedia.hhs.gov\nstage-intranet.cloud.hhs.gov\ntherealcost.betobaccofree.hhs.gov\nthisfreelife.betobaccofree.hhs.gov\nwcdapps.hhs.gov\nwww.arriesgamenos.hhs.gov\nwww.hhs.gov\nwww.letsgetreal.hhs.gov\nwww.risklessdomore.hhs.gov",
-    "id": 25182293221,
-    "entry_timestamp": "2026-03-24T01:44:33.858",
-    "not_before": "2026-03-24T00:00:00",
-    "not_after": "2026-10-08T23:59:59",
-    "serial_number": "0d7f4f74557214583136e18d1709f8e3",
-    "result_count": 28
   },
   {
     "issuer_ca_id": 385516,
@@ -5649,18 +5337,6 @@
     "not_before": "2026-03-12T00:00:00",
     "not_after": "2026-09-26T23:59:59",
     "serial_number": "0c94d2dd9869cb3cfa08e252988445ad",
-    "result_count": 31
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "aka-www.hhs.gov",
-    "name_value": "akadev1-ion-www.hhs.gov\nakadev2-ion-www.hhs.gov\nakadev3-ion-www.hhs.gov\nakadev4-ion-www.hhs.gov\nakadev5-ion-www.hhs.gov\nakadev-ion-www.hhs.gov\nakapreview-ion-www.hhs.gov\nakaprod-digitalmedia.hhs.gov\nakaprod-ion-www.hhs.gov\nakaqa1-ion-www.hhs.gov\nakaqa2-ion-www.hhs.gov\nakaqa3-ion-www.hhs.gov\nakaqa4-ion-www.hhs.gov\nakaqa5-ion-www.hhs.gov\nakaqa-ion-www.hhs.gov\nakastage1-ion-www.hhs.gov\nakastage2-ion-www.hhs.gov\nakastage3-ion-www.hhs.gov\nakastage4-ion-www.hhs.gov\nakastage5-ion-www.hhs.gov\nakastage-ion-www.hhs.gov\nakastage-www.hhs.gov\nakatest1-ion-www.hhs.gov\nakatest2-ion-www.hhs.gov\nakatest3-ion-www.hhs.gov\nakatest4-ion-www.hhs.gov\nakatest5-ion-www.hhs.gov\nakatest-ion-www.hhs.gov\nakauat-ion-www.hhs.gov\naka-www.hhs.gov",
-    "id": 24947935128,
-    "entry_timestamp": "2026-03-12T19:20:39.803",
-    "not_before": "2026-03-12T00:00:00",
-    "not_after": "2026-09-26T23:59:59",
-    "serial_number": "03b99047369b0a466ce9554f3e60da75",
     "result_count": 31
   },
   {
@@ -6240,30 +5916,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "wp.hhs.gov",
-    "name_value": "wp.hhs.gov",
-    "id": 24618864298,
-    "entry_timestamp": "2026-02-24T14:46:13.57",
-    "not_before": "2026-02-24T00:00:00",
-    "not_after": "2026-08-24T23:59:59",
-    "serial_number": "051ac666ae2017b48cd77b9c6b3b9008",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "wp.hhs.gov",
-    "name_value": "wp.hhs.gov",
-    "id": 24617791178,
-    "entry_timestamp": "2026-02-24T13:33:02.792",
-    "not_before": "2026-02-24T00:00:00",
-    "not_after": "2026-08-24T23:59:59",
-    "serial_number": "051ac666ae2017b48cd77b9c6b3b9008",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 385516,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust DV TLS Issuing RSA CA 2",
     "common_name": "test.api.itams.ohs.acf.hhs.gov",
@@ -6372,30 +6024,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "site1.wp.hhs.gov",
-    "name_value": "site1.wp.hhs.gov",
-    "id": 24591932174,
-    "entry_timestamp": "2026-02-23T07:53:50.129",
-    "not_before": "2026-02-23T00:00:00",
-    "not_after": "2026-08-23T23:59:59",
-    "serial_number": "013e649ace80f6876a3400bbddad5691",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "site1.wp.hhs.gov",
-    "name_value": "site1.wp.hhs.gov",
-    "id": 24590979572,
-    "entry_timestamp": "2026-02-23T06:45:55.695",
-    "not_before": "2026-02-23T00:00:00",
-    "not_after": "2026-08-23T23:59:59",
-    "serial_number": "013e649ace80f6876a3400bbddad5691",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "osdb-eoy.hhs.gov",
@@ -6405,30 +6033,6 @@
     "not_before": "2026-02-22T00:00:00",
     "not_after": "2027-03-24T23:59:59",
     "serial_number": "0efb3cc0ff15058bdf69b12683bfcf80",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "oig-gpt.oig.hhs.gov",
-    "name_value": "oig-gpt.oig.hhs.gov",
-    "id": 24546935981,
-    "entry_timestamp": "2026-02-21T03:46:28.79",
-    "not_before": "2026-02-21T00:00:00",
-    "not_after": "2026-08-21T23:59:59",
-    "serial_number": "06a6127b686ddd2d87d4285617f7e2f9",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "oig-gpt.oig.hhs.gov",
-    "name_value": "oig-gpt.oig.hhs.gov",
-    "id": 24544459112,
-    "entry_timestamp": "2026-02-21T00:52:26.104",
-    "not_before": "2026-02-21T00:00:00",
-    "not_after": "2026-08-21T23:59:59",
-    "serial_number": "06a6127b686ddd2d87d4285617f7e2f9",
     "result_count": 2
   },
   {
@@ -6537,18 +6141,6 @@
     "not_before": "2026-02-18T15:40:32",
     "not_after": "2027-03-20T15:39:32",
     "serial_number": "40019c7168ff6ff6aa90b17316a1eb81",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "cyberneo.tech.hhs.gov",
-    "name_value": "cyberneo.tech.hhs.gov",
-    "id": 24469743518,
-    "entry_timestamp": "2026-02-17T15:25:12.19",
-    "not_before": "2026-02-17T00:00:00",
-    "not_after": "2026-08-17T23:59:59",
-    "serial_number": "051b84e77bec94214a473ec7aaf3a6ae",
     "result_count": 2
   },
   {
@@ -7392,18 +6984,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 246719,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
-    "common_name": "reproductivehealthservices.gov",
-    "name_value": "opa-fpclinicdb.hhs.gov\nwww.opa-fpclinicdb.hhs.gov",
-    "id": 23947286219,
-    "entry_timestamp": "2026-01-24T04:23:13.04",
-    "not_before": "2026-01-24T00:00:00",
-    "not_after": "2027-02-22T23:59:59",
-    "serial_number": "0972b955ea020ba3de28a08aff948d1f",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "adaptiveapi.hhs.gov",
@@ -7546,18 +7126,6 @@
     "not_after": "2027-02-02T23:59:59",
     "serial_number": "0095f22138c5415562cc32aecec8d94a38",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "www.imp.cob.cms.hhs.gov",
-    "name_value": "www.imp.cob.cms.hhs.gov",
-    "id": 23787939446,
-    "entry_timestamp": "2026-01-15T19:18:00.03",
-    "not_before": "2026-01-15T00:00:00",
-    "not_after": "2027-01-19T23:59:59",
-    "serial_number": "0f9f89ea1eac203f86a5bf4ca634358a",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 185752,
@@ -7836,18 +7404,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "www.imp.cob.cms.hhs.gov",
-    "name_value": "www.imp.cob.cms.hhs.gov",
-    "id": 23726058536,
-    "entry_timestamp": "2026-01-12T18:01:15.283",
-    "not_before": "2026-01-12T00:00:00",
-    "not_after": "2027-01-19T23:59:59",
-    "serial_number": "0a942f07f6a6a8bbedb2707d471e2ecc",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "tech.hhs.gov",
@@ -7860,18 +7416,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "www.dev.cob.cms.hhs.gov",
-    "name_value": "www.dev.cob.cms.hhs.gov",
-    "id": 23726023527,
-    "entry_timestamp": "2026-01-12T17:59:08.648",
-    "not_before": "2026-01-12T00:00:00",
-    "not_after": "2027-01-19T23:59:59",
-    "serial_number": "0f24c288ea44d7efe57d4cac88f743c2",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "asprtracie.hhs.gov",
@@ -7882,18 +7426,6 @@
     "not_after": "2027-02-11T16:18:45",
     "serial_number": "40019bb3019ab5b8f49b27010c72ffbb",
     "result_count": 6
-  },
-  {
-    "issuer_ca_id": 247119,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
-    "common_name": "www.ahrq.gov",
-    "name_value": "certs.hhs.gov\nwww.certs.hhs.gov",
-    "id": 23691367698,
-    "entry_timestamp": "2026-01-11T03:21:16.711",
-    "not_before": "2026-01-11T00:00:00",
-    "not_after": "2027-02-09T23:59:59",
-    "serial_number": "013c76aca6b14f4a457f7275b5deabf7",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 153248,
@@ -7920,18 +7452,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "www.cdc.gov",
-    "name_value": "hospitals.millionhearts.hhs.gov\nhospitals.millionhearts-int.hhs.gov\nmillionhearts.hhs.gov\nmillionheartsns.hhs.gov",
-    "id": 23616599193,
-    "entry_timestamp": "2026-01-07T21:06:18.833",
-    "not_before": "2025-12-18T00:00:00",
-    "not_after": "2026-12-17T23:59:59",
-    "serial_number": "0f8f736ffc461709951388b91ccf3861",
-    "result_count": 4
-  },
-  {
     "issuer_ca_id": 385516,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust DV TLS Issuing RSA CA 2",
     "common_name": "www.cdc.gov",
@@ -7954,18 +7474,6 @@
     "not_after": "2027-01-07T23:59:59",
     "serial_number": "1dd6800bf5598f32461df879c5206831",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "hhs.gov",
-    "name_value": "dhhs.gov\nhhs.gov\nwww.dhhs.gov",
-    "id": 23615467381,
-    "entry_timestamp": "2026-01-07T19:52:55.841",
-    "not_before": "2025-12-01T00:00:00",
-    "not_after": "2026-12-21T23:59:59",
-    "serial_number": "09a0df661e6bd4f7f9f4c33ff60d4375",
-    "result_count": 4
   },
   {
     "issuer_ca_id": 153248,
@@ -8136,42 +7644,6 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 247119,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
-    "common_name": "www.ahrq.gov",
-    "name_value": "certs.hhs.gov\nwww.certs.hhs.gov",
-    "id": 23560903584,
-    "entry_timestamp": "2026-01-05T06:07:16.377",
-    "not_before": "2026-01-05T00:00:00",
-    "not_after": "2027-02-03T23:59:59",
-    "serial_number": "0f8192ca779997bfef1e00c5d5343691",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247119,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
-    "common_name": "www.ahrq.gov",
-    "name_value": "certs.hhs.gov\nwww.certs.hhs.gov",
-    "id": 23560119228,
-    "entry_timestamp": "2026-01-05T05:01:00.583",
-    "not_before": "2026-01-05T00:00:00",
-    "not_after": "2027-02-03T23:59:59",
-    "serial_number": "0f8192ca779997bfef1e00c5d5343691",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 246719,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
-    "common_name": "fpar.opa.hhs.gov",
-    "name_value": "*.fpar.opa.hhs.gov\nfpar.opa.hhs.gov",
-    "id": 23466335783,
-    "entry_timestamp": "2025-12-31T01:15:44.344",
-    "not_before": "2025-12-31T00:00:00",
-    "not_after": "2027-01-29T23:59:59",
-    "serial_number": "03bf35c7d1a4f8a2957ca6f0ceac6d94",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 246719,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "fpar.opa.hhs.gov",
@@ -8205,18 +7677,6 @@
     "not_before": "2025-12-30T15:17:26",
     "not_after": "2027-01-29T15:16:26",
     "serial_number": "40019b6fd5e1837de852ddebc44426c0",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247119,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
-    "common_name": "www.ahrq.gov",
-    "name_value": "certs.hhs.gov\nwww.certs.hhs.gov",
-    "id": 23449048644,
-    "entry_timestamp": "2025-12-30T05:31:53.129",
-    "not_before": "2025-12-30T00:00:00",
-    "not_after": "2027-01-28T23:59:59",
-    "serial_number": "0debe33d99898c52d0006d3c6ab41c84",
     "result_count": 2
   },
   {
@@ -8350,30 +7810,6 @@
     "not_after": "2027-01-10T23:59:59",
     "serial_number": "00ee033cd9d122820c452c1a4526f6df91",
     "result_count": 1
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "biis.aws.hhs.gov",
-    "name_value": "biis.aws.hhs.gov",
-    "id": 23189098934,
-    "entry_timestamp": "2025-12-18T01:05:34.053",
-    "not_before": "2025-08-28T00:00:00",
-    "not_after": "2026-09-26T23:59:59",
-    "serial_number": "02470f56802d3ff0cb1a367705dede22",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 62123,
-    "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
-    "common_name": "www.cdc.gov",
-    "name_value": "hospitals.millionhearts.hhs.gov\nhospitals.millionhearts-int.hhs.gov\nmillionhearts.hhs.gov\nmillionheartsns.hhs.gov",
-    "id": 23188645597,
-    "entry_timestamp": "2025-12-18T00:38:02.226",
-    "not_before": "2025-12-18T00:00:00",
-    "not_after": "2026-12-17T23:59:59",
-    "serial_number": "0f8f736ffc461709951388b91ccf3861",
-    "result_count": 4
   },
   {
     "issuer_ca_id": 247119,
@@ -8760,18 +8196,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "akamai-san15.exacttarget.com",
-    "name_value": "image.connect.hhs.gov",
-    "id": 23009833958,
-    "entry_timestamp": "2025-12-09T19:33:29.515",
-    "not_before": "2025-09-24T00:00:00",
-    "not_after": "2026-10-25T23:59:59",
-    "serial_number": "03a9b5a3d67f2f3eea1db855c84b4732",
-    "result_count": 1
-  },
-  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "aasis.omha.hhs.gov",
@@ -8966,18 +8390,6 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "hhs.gov",
-    "name_value": "dhhs.gov\nhhs.gov\nwww.dhhs.gov",
-    "id": 22848634881,
-    "entry_timestamp": "2025-12-01T19:42:39.097",
-    "not_before": "2025-12-01T00:00:00",
-    "not_after": "2026-12-21T23:59:59",
-    "serial_number": "09a0df661e6bd4f7f9f4c33ff60d4375",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "*.hhs.gov",
     "name_value": "*.hhs.gov\nhhs.gov",
     "id": 22848538112,
@@ -9070,30 +8482,6 @@
     "not_after": "2026-12-24T21:30:42",
     "serial_number": "40019ab7c7971b0d631ac406294eac8e",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247119,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
-    "common_name": "api.portal.prepeval.acf.hhs.gov",
-    "name_value": "api.portal.prepeval.acf.hhs.gov",
-    "id": 22677787638,
-    "entry_timestamp": "2025-11-23T07:21:32.202",
-    "not_before": "2025-11-23T00:00:00",
-    "not_after": "2026-12-22T23:59:59",
-    "serial_number": "0eafa24e548658f3373ddf1924879b9e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 246719,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
-    "common_name": "portal.prepeval.acf.hhs.gov",
-    "name_value": "portal.prepeval.acf.hhs.gov\nwww.portal.prepeval.acf.hhs.gov",
-    "id": 22675997230,
-    "entry_timestamp": "2025-11-23T05:24:39.52",
-    "not_before": "2025-11-23T00:00:00",
-    "not_after": "2026-12-22T23:59:59",
-    "serial_number": "0a0a66a85d6453a731bebba34c5967d1",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 247119,
@@ -9250,18 +8638,6 @@
     "not_after": "2026-11-21T23:59:59",
     "serial_number": "00f0a4e7d68ccbf4ce3d1767bb1f161492",
     "result_count": 4
-  },
-  {
-    "issuer_ca_id": 246719,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
-    "common_name": "prepeval.acf.hhs.gov",
-    "name_value": "prepeval.acf.hhs.gov\nwww.prepeval.acf.hhs.gov",
-    "id": 22578631596,
-    "entry_timestamp": "2025-11-19T03:18:24.948",
-    "not_before": "2025-11-19T00:00:00",
-    "not_after": "2026-12-18T23:59:59",
-    "serial_number": "08f02b951f6fddd0900c6c13bba53e2c",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 246719,
@@ -9640,47 +9016,11 @@
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "view.connect.hhs.gov",
     "name_value": "view.connect.hhs.gov",
-    "id": 22122066522,
-    "entry_timestamp": "2025-10-31T15:06:42.661",
-    "not_before": "2025-10-31T00:00:00",
-    "not_after": "2026-12-01T23:59:59",
-    "serial_number": "08f8403d06298b2c04030145b9647c87",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "cloud.connect.hhs.gov",
-    "name_value": "cloud.connect.hhs.gov",
-    "id": 22121398765,
-    "entry_timestamp": "2025-10-31T14:11:36.863",
-    "not_before": "2025-10-31T00:00:00",
-    "not_after": "2026-12-01T23:59:59",
-    "serial_number": "010494be4a59731f321e76bdaf0ecb4c",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "view.connect.hhs.gov",
-    "name_value": "view.connect.hhs.gov",
     "id": 22121384454,
     "entry_timestamp": "2025-10-31T14:11:02.159",
     "not_before": "2025-10-31T00:00:00",
     "not_after": "2026-12-01T23:59:59",
     "serial_number": "08f8403d06298b2c04030145b9647c87",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "click.connect.hhs.gov",
-    "name_value": "click.connect.hhs.gov",
-    "id": 22121383714,
-    "entry_timestamp": "2025-10-31T14:10:09.098",
-    "not_before": "2025-10-31T00:00:00",
-    "not_after": "2026-12-01T23:59:59",
-    "serial_number": "088b44cd28bcc9f7ac66422bc37b3895",
     "result_count": 2
   },
   {
@@ -10476,54 +9816,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "san-25-s13.tlsprovisioning.exacttarget.com",
-    "name_value": "image.partnership.cms.hhs.gov",
-    "id": 21563592274,
-    "entry_timestamp": "2025-10-08T04:56:58.166",
-    "not_before": "2025-10-08T00:00:00",
-    "not_after": "2026-11-08T23:59:59",
-    "serial_number": "064cd4d231857e3f2d4eaf93ba382c9b",
-    "result_count": 1
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "san-25-s13.tlsprovisioning.exacttarget.com",
-    "name_value": "image.partnership.cms.hhs.gov",
-    "id": 21561743345,
-    "entry_timestamp": "2025-10-08T03:32:22.429",
-    "not_before": "2025-10-08T00:00:00",
-    "not_after": "2026-11-08T23:59:59",
-    "serial_number": "064cd4d231857e3f2d4eaf93ba382c9b",
-    "result_count": 1
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "san-25-s13.tlsprovisioning.exacttarget.com",
-    "name_value": "image.partnership.cms.hhs.gov",
-    "id": 21561741390,
-    "entry_timestamp": "2025-10-08T03:32:07.404",
-    "not_before": "2025-10-08T00:00:00",
-    "not_after": "2026-11-08T23:59:59",
-    "serial_number": "03ab712f47c9fda116e500bba8e08a90",
-    "result_count": 1
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "san-25-s13.tlsprovisioning.exacttarget.com",
-    "name_value": "image.partnership.cms.hhs.gov",
-    "id": 21561739112,
-    "entry_timestamp": "2025-10-08T03:31:43.161",
-    "not_before": "2025-10-08T00:00:00",
-    "not_after": "2026-11-08T23:59:59",
-    "serial_number": "0f9b98ec4e073939c41e13228946d9d5",
-    "result_count": 1
-  },
-  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "charon-mfa-staging.thinkculturalhealth.hhs.gov",
@@ -10738,18 +10030,6 @@
     "not_after": "2026-10-24T15:20:28",
     "serial_number": "4001997c50b6efb7f44f6869116f067a",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "akamai-san15.exacttarget.com",
-    "name_value": "image.connect.hhs.gov",
-    "id": 21236887257,
-    "entry_timestamp": "2025-09-24T03:13:29.356",
-    "not_before": "2025-09-24T00:00:00",
-    "not_after": "2026-10-25T23:59:59",
-    "serial_number": "03a9b5a3d67f2f3eea1db855c84b4732",
-    "result_count": 1
   },
   {
     "issuer_ca_id": 385516,
@@ -11332,18 +10612,6 @@
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
     "common_name": "osdbu.hhs.gov",
     "name_value": "*.osdbu.hhs.gov\nosdbu.hhs.gov",
-    "id": 20756979258,
-    "entry_timestamp": "2025-09-03T02:52:39.463",
-    "not_before": "2025-09-03T00:00:00",
-    "not_after": "2026-10-01T23:59:59",
-    "serial_number": "03a5689dcbbc168ecabdaf0c2df67764",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "osdbu.hhs.gov",
-    "name_value": "*.osdbu.hhs.gov\nosdbu.hhs.gov",
     "id": 20756190764,
     "entry_timestamp": "2025-09-03T02:02:35.933",
     "not_before": "2025-09-03T00:00:00",
@@ -11760,18 +11028,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "childwelfare.gov",
-    "name_value": "cbportal.acf.hhs.gov\ncwoutcomes.acf.hhs.gov",
-    "id": 20317090508,
-    "entry_timestamp": "2025-08-13T23:23:46.064",
-    "not_before": "2025-08-13T14:00:20",
-    "not_after": "2026-08-30T16:56:32",
-    "serial_number": "5f1226e47c04d556a9aae15abe0c12e8",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "verilog.hhs.gov",
@@ -11782,18 +11038,6 @@
     "not_after": "2026-09-12T14:22:51",
     "serial_number": "400198a3d0dfd2bde0f5316b47964060",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "childwelfare.gov",
-    "name_value": "cbportal.acf.hhs.gov\ncwoutcomes.acf.hhs.gov",
-    "id": 20309380118,
-    "entry_timestamp": "2025-08-13T14:10:21.905",
-    "not_before": "2025-08-13T14:00:20",
-    "not_after": "2026-08-30T16:56:32",
-    "serial_number": "5f1226e47c04d556a9aae15abe0c12e8",
-    "result_count": 2
   },
   {
     "issuer_ca_id": 247119,
@@ -11830,18 +11074,6 @@
     "not_after": "2026-09-08T23:59:59",
     "serial_number": "06db5d0a9b20da998b2af2abbc39941c",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 365075,
-    "issuer_name": "C=US, O=SSL Corporation, CN=Entrust OV TLS Issuing RSA CA 1",
-    "common_name": "rhy-hmis.acf.hhs.gov",
-    "name_value": "dashboard.rhy-hmis.acf.hhs.gov\ndashboard-stage.rhy-hmis.acf.hhs.gov\nidsvr.rhy-hmis.acf.hhs.gov\nidsvr-stage.rhy-hmis.acf.hhs.gov\nrhy-hmis.acf.hhs.gov\nrhy-hmis-stage.acf.hhs.gov\nwww.rhy-hmis.acf.hhs.gov",
-    "id": 20204934054,
-    "entry_timestamp": "2025-08-08T16:28:46.929",
-    "not_before": "2025-08-08T16:18:45",
-    "not_after": "2026-08-17T17:11:39",
-    "serial_number": "52b8d5c667f7d14cdba849778fc1580e",
-    "result_count": 8
   },
   {
     "issuer_ca_id": 153248,
@@ -11964,18 +11196,6 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 247106,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M03",
-    "common_name": "www.pathwaystowork.acf.hhs.gov",
-    "name_value": "www.pathwaystowork.acf.hhs.gov",
-    "id": 20136240419,
-    "entry_timestamp": "2025-08-05T14:13:46.985",
-    "not_before": "2025-08-05T00:00:00",
-    "not_after": "2026-09-03T23:59:59",
-    "serial_number": "0be439857ea5e69014dd969a1297c3bb",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "hhspancms.cso.hhs.gov",
@@ -11998,18 +11218,6 @@
     "not_after": "2026-09-03T23:59:59",
     "serial_number": "0be439857ea5e69014dd969a1297c3bb",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247119,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
-    "common_name": "childcareta.acf.hhs.gov",
-    "name_value": "*.childcareta.acf.hhs.gov\nchildcareta.acf.hhs.gov",
-    "id": 20105187153,
-    "entry_timestamp": "2025-08-04T06:15:00.916",
-    "not_before": "2025-08-04T00:00:00",
-    "not_after": "2026-09-02T23:59:59",
-    "serial_number": "096c6bd6aea52a849bc0ff4d9c40aa2c",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 247119,
@@ -12046,281 +11254,5 @@
     "not_after": "2026-08-31T15:48:49",
     "serial_number": "400198665344f5ce8ed53df40a927843",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "ehcm-sit2.hhs.gov",
-    "name_value": "ehcm-sit2.hhs.gov",
-    "id": 20050395421,
-    "entry_timestamp": "2025-08-01T12:27:33.447",
-    "not_before": "2025-08-01T00:00:00",
-    "not_after": "2026-08-26T23:59:59",
-    "serial_number": "0896613c8cbc70a2aa6a3139514e10bf",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "ehcm-sit1.hhs.gov",
-    "name_value": "ehcm-sit1.hhs.gov",
-    "id": 20050394704,
-    "entry_timestamp": "2025-08-01T12:26:41.151",
-    "not_before": "2025-08-01T00:00:00",
-    "not_after": "2026-08-27T23:59:59",
-    "serial_number": "0d1d79ededc65079b178191e9c1b53a7",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "ehcm-uatmaint.hhs.gov",
-    "name_value": "ehcm-uatmaint.hhs.gov",
-    "id": 20050376952,
-    "entry_timestamp": "2025-08-01T12:25:28.803",
-    "not_before": "2025-08-01T00:00:00",
-    "not_after": "2026-08-18T23:59:59",
-    "serial_number": "07fd8b8af7123a0db988433ad2dbf533",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "ehcm-phire.hhs.gov",
-    "name_value": "ehcm-phire.hhs.gov",
-    "id": 20050354202,
-    "entry_timestamp": "2025-08-01T12:23:55.463",
-    "not_before": "2025-08-01T00:00:00",
-    "not_after": "2026-08-18T23:59:59",
-    "serial_number": "0114af8def3bd802c43a878de7d9a5ff",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247119,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
-    "common_name": "mysbcx.hhs.gov",
-    "name_value": "*.mysbcx.hhs.gov\nmysbcx.hhs.gov",
-    "id": 20042302373,
-    "entry_timestamp": "2025-08-01T03:01:22.855",
-    "not_before": "2025-08-01T00:00:00",
-    "not_after": "2026-08-29T23:59:59",
-    "serial_number": "0f30b41b0ad9f5c239ca2e1cd939247f",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "chemm-app-dev.beam.hhs.gov",
-    "name_value": "chemm-app-dev.beam.hhs.gov\nwww.chemm-app-dev.beam.hhs.gov",
-    "id": 20032546322,
-    "entry_timestamp": "2025-07-31T15:20:16.568",
-    "not_before": "2025-07-31T15:20:16",
-    "not_after": "2026-08-30T15:19:16",
-    "serial_number": "4001986111d95ad345e3b2daa07d07b8",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "remm-app-dev.beam.hhs.gov",
-    "name_value": "remm-app-dev.beam.hhs.gov\nwww.remm-app-dev.beam.hhs.gov",
-    "id": 20032544742,
-    "entry_timestamp": "2025-07-31T15:19:47.398",
-    "not_before": "2025-07-31T15:19:47",
-    "not_after": "2026-08-30T15:18:47",
-    "serial_number": "400198611167768b5338f2bb3312a05c",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "mcm-app-dev.beam.hhs.gov",
-    "name_value": "mcm-app-dev.beam.hhs.gov\nwww.mcm-app-dev.beam.hhs.gov",
-    "id": 20032533379,
-    "entry_timestamp": "2025-07-31T15:18:44.434",
-    "not_before": "2025-07-31T15:18:44",
-    "not_after": "2026-08-30T15:17:44",
-    "serial_number": "4001986110718a310b84d917ad1de3fa",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "drive-app-dev.beam.hhs.gov",
-    "name_value": "drive-app-dev.beam.hhs.gov\nwww.drive-app-dev.beam.hhs.gov",
-    "id": 20032532913,
-    "entry_timestamp": "2025-07-31T15:18:10.226",
-    "not_before": "2025-07-31T15:18:10",
-    "not_after": "2026-08-30T15:17:10",
-    "serial_number": "400198610fec0364038ed8a58ec05525",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "cpsg.beam.hhs.gov",
-    "name_value": "cpsg.beam.hhs.gov",
-    "id": 20032514366,
-    "entry_timestamp": "2025-07-31T15:16:49.479",
-    "not_before": "2025-07-31T15:16:49",
-    "not_after": "2026-08-30T15:15:49",
-    "serial_number": "400198610eb0859013962833d9f5314e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247115,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M02",
-    "common_name": "site-monitor.hhs.gov",
-    "name_value": "site-monitor.hhs.gov",
-    "id": 20021954999,
-    "entry_timestamp": "2025-07-31T03:20:17.325",
-    "not_before": "2025-07-31T00:00:00",
-    "not_after": "2026-08-27T23:59:59",
-    "serial_number": "0e710f9d7087efc5b24fceea1a9302f0",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "uar-dr.hhs.gov",
-    "name_value": "uar-dr.hhs.gov",
-    "id": 19988663735,
-    "entry_timestamp": "2025-07-29T15:37:43.276",
-    "not_before": "2025-07-29T15:37:43",
-    "not_after": "2026-08-28T15:36:43",
-    "serial_number": "40019856d51a0ba02eaa3520225667b8",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "uar.hhs.gov",
-    "name_value": "uar.hhs.gov",
-    "id": 19988645641,
-    "entry_timestamp": "2025-07-29T15:37:24.608",
-    "not_before": "2025-07-29T15:37:24",
-    "not_after": "2026-08-28T15:36:24",
-    "serial_number": "40019856d4d127f517284720b17e1c6f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "int.xms.hhs.gov",
-    "name_value": "int.xms.hhs.gov",
-    "id": 19966695114,
-    "entry_timestamp": "2025-07-28T15:51:54.353",
-    "not_before": "2025-07-28T15:51:54",
-    "not_after": "2026-08-27T15:50:54",
-    "serial_number": "40019851bbba23eaa21dc695919799c2",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "xms.hhs.gov",
-    "name_value": "xms.hhs.gov",
-    "id": 19965438274,
-    "entry_timestamp": "2025-07-28T14:36:04.521",
-    "not_before": "2025-07-28T14:36:04",
-    "not_after": "2026-08-27T14:35:04",
-    "serial_number": "40019851764df66820cbe8ad0c0828cc",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 247119,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
-    "common_name": "licensingregulations.acf.hhs.gov",
-    "name_value": "*.licensingregulations.acf.hhs.gov\nlicensingregulations.acf.hhs.gov",
-    "id": 19868987546,
-    "entry_timestamp": "2025-07-24T03:58:50.104",
-    "not_before": "2025-07-24T00:00:00",
-    "not_after": "2026-08-22T23:59:59",
-    "serial_number": "08dabe1f45d9e289e6ec36809b60c10f",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "emportal.hhs.gov",
-    "name_value": "emportal.hhs.gov",
-    "id": 19861911595,
-    "entry_timestamp": "2025-07-23T20:06:12.176",
-    "not_before": "2025-07-23T20:06:12",
-    "not_after": "2026-08-22T20:05:12",
-    "serial_number": "40019838e4bf8134785c9cf94e7af4cb",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "UC-HHH-EXPE-Pri1.hhs.gov",
-    "name_value": "hhs.gov\nUC-HHH-EXPE-Pri1.hhs.gov\nUC-HHS-EXPE.hhs.gov\nUC-PKL-EXPE-Sec1.hhs.gov",
-    "id": 19861517573,
-    "entry_timestamp": "2025-07-23T19:39:47.314",
-    "not_before": "2025-07-23T00:00:00",
-    "not_after": "2026-08-23T23:59:59",
-    "serial_number": "02a46dc927feb22ecde0e65f306e1f29",
-    "result_count": 5
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "UC-PKL-EXPE-Sec1.hhs.gov",
-    "name_value": "hhs.gov\nUC-HHH-EXPE-Pri1.hhs.gov\nUC-HHS-EXPE.hhs.gov\nUC-PKL-EXPE-Sec1.hhs.gov",
-    "id": 19861473509,
-    "entry_timestamp": "2025-07-23T19:36:46.013",
-    "not_before": "2025-07-23T00:00:00",
-    "not_after": "2026-08-23T23:59:59",
-    "serial_number": "0b7f33ce627ba288bcceb7d9c02fa5fa",
-    "result_count": 5
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "hsdw.hhs.gov",
-    "name_value": "hsdw.hhs.gov",
-    "id": 19839303819,
-    "entry_timestamp": "2025-07-22T19:22:23.639",
-    "not_before": "2025-07-22T19:22:23",
-    "not_after": "2026-08-21T19:21:23",
-    "serial_number": "400198339647a1175c246f17bf847656",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "des.hhs.gov",
-    "name_value": "des.hhs.gov",
-    "id": 19836228176,
-    "entry_timestamp": "2025-07-22T16:07:42.49",
-    "not_before": "2025-07-22T16:07:42",
-    "not_after": "2026-08-21T16:06:42",
-    "serial_number": "40019832e40a49e5242ad7629c70e62f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "chemm.hhs.gov",
-    "name_value": "chemm.hhs.gov\nwww.chemm.hhs.gov",
-    "id": 19756465738,
-    "entry_timestamp": "2025-07-18T14:23:09.108",
-    "not_before": "2025-07-18T14:23:09",
-    "not_after": "2026-08-17T14:22:09",
-    "serial_number": "4001981deae0e0a03b013edb0ccce02c",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "remm.hhs.gov",
-    "name_value": "remm.hhs.gov\nwww.remm.hhs.gov",
-    "id": 19756446982,
-    "entry_timestamp": "2025-07-18T14:22:27.438",
-    "not_before": "2025-07-18T14:22:27",
-    "not_after": "2026-08-17T14:21:27",
-    "serial_number": "4001981dea3e1f484c2805079823cab8",
-    "result_count": 3
   }
 ]
