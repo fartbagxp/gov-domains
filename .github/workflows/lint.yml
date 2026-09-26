@@ -10,8 +10,15 @@ on:
       - "**.py"
       - ".github/workflows/lint.yml"
 
+permissions: {}
+
+concurrency:
+  group: lint-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   csv-lint:
+    name: Lint CSV files
     runs-on: ubuntu-latest
     permissions:
       contents: read # Read access to the repository contents is enough for linting

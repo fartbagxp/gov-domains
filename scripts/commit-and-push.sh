@@ -36,6 +36,15 @@ MAX_ATTEMPTS=${PUSH_MAX_ATTEMPTS:-5}
 git config --local user.email "noreply@github.com"
 git config --local user.name "github-actions[bot]"
 
+# CI checks out with persist-credentials: false and hands the token only to
+# this step, so it is passed per command rather than written to .git/config.
+GIT_AUTH=()
+if [ -n "${GITHUB_TOKEN:-}" ]; then
+  basic=$(printf 'x-access-token:%s' "$GITHUB_TOKEN" | base64 -w0)
+  echo "::add-mask::${basic}"
+  GIT_AUTH=(-c "http.https://github.com/.extraheader=AUTHORIZATION: basic ${basic}")
+fi
+
 STAGING=$(mktemp -d)
 trap 'rm -rf "$STAGING"' EXIT
 
@@ -49,7 +58,7 @@ for attempt in $(seq 1 "$MAX_ATTEMPTS"); do
     fi
   done
 
-  git fetch origin main
+  git "${GIT_AUTH[@]}" fetch origin main
   git reset --hard origin/main
 
   for path in "${PATHS[@]}"; do
@@ -66,7 +75,7 @@ for attempt in $(seq 1 "$MAX_ATTEMPTS"); do
   fi
 
   git commit -m "$MESSAGE"
-  if git push origin HEAD:main; then
+  if git "${GIT_AUTH[@]}" push origin HEAD:main; then
     echo "Pushed on attempt ${attempt}/${MAX_ATTEMPTS}."
     exit 0
   fi

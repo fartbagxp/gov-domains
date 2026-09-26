@@ -17,12 +17,15 @@ on:
         type: string
         default: "4"
 
+permissions: {}
+
 concurrency:
   group: pipeline-raw
   cancel-in-progress: false
 
 jobs:
   select-domains:
+    name: Select domains to fetch
     runs-on: ubuntu-latest
     permissions:
       contents: read
@@ -66,6 +69,7 @@ jobs:
           echo "Selected ${count} domain(s)."
 
   update-sites-raw:
+    name: Fetch ${{ matrix.domain }}
     needs: select-domains
     if: needs.select-domains.outputs.count != '0'
     runs-on: ubuntu-latest
@@ -128,16 +132,17 @@ jobs:
         run: sleep 20
 
   commit-changes:
+    name: Commit raw data
     needs: [select-domains, update-sites-raw]
     if: github.ref == 'refs/heads/main' && needs.select-domains.outputs.count != '0'
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write # Commits data/raw back to main
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           fetch-depth: 0
-          persist-credentials: true
+          persist-credentials: false
 
       - name: Download all raw data artifacts
         uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
@@ -173,6 +178,8 @@ jobs:
           cat data/raw/fetch-log.json | head -20
 
       - name: Commit and push changes
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
         run: |
           # Commit only the domains this run actually re-fetched, so a
           # concurrent job's writes to other domains are not reverted.
@@ -186,7 +193,8 @@ jobs:
             --paths-from /tmp/raw-paths.txt
 
   call-convert-to-csv:
+    name: Convert to CSV
     needs: commit-changes
-    uses: ./.github/workflows/convert_to_csv.yml
+    uses: $/.github/workflows/convert_to_csv.yml
     permissions:
-      contents: write
+      contents: write # The called workflows commit data/csv and data/tech back to main

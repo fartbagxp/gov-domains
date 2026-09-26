@@ -5,12 +5,15 @@ on:
     - cron: "0 6 1 * *"  # 1st of each month at 06:00 UTC
   workflow_dispatch:
 
+permissions: {}
+
 concurrency:
   group: pipeline-asn-prefixes
   cancel-in-progress: false
 
 jobs:
   fetch-rir-data:
+    name: Download RIR data
     runs-on: ubuntu-latest
     permissions:
       contents: read
@@ -52,6 +55,7 @@ jobs:
           retention-days: 1
 
   fetch-prefixes:
+    name: Fetch prefixes (${{ matrix.category }})
     needs: fetch-rir-data
     runs-on: ubuntu-latest
     permissions:
@@ -79,10 +83,12 @@ jobs:
           version: "latest"
 
       - name: Fetch prefixes for ${{ matrix.category }}
+        env:
+          CATEGORY: ${{ matrix.category }}
         run: |
           mkdir -p data/asn
           uv run python scripts/fetch_asn_prefixes.py \
-            --category ${{ matrix.category }} \
+            --category "${CATEGORY}" \
             --rir-data-dir rir-data \
             || echo "Script failed, continuing."
           ls -la data/asn/
@@ -95,16 +101,17 @@ jobs:
           retention-days: 1
 
   commit-results:
+    name: Commit prefix data
     needs: fetch-prefixes
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write # Commits data/asn back to main
 
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           fetch-depth: 0
-          persist-credentials: true
+          persist-credentials: false
 
       - name: Create asn directory
         run: mkdir -p data/asn
@@ -170,6 +177,8 @@ jobs:
 
       - name: Commit and push changes
         if: github.ref == 'refs/heads/main'
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
         run: |
           ( cd data/asn && ls ./*-prefixes.csv 2>/dev/null || true ) \
             | sed 's|^\./|data/asn/|' > /tmp/asn-paths.txt
