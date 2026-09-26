@@ -4,8 +4,16 @@ on:
   workflow_dispatch:
   workflow_call:
 
+permissions: {}
+
+# Distinct from the caller's group (pipeline-csv); sharing it would deadlock.
+concurrency:
+  group: pipeline-technology
+  cancel-in-progress: false
+
 jobs:
   find-csv-files:
+    name: Find CSV files to scan
     runs-on: ubuntu-latest
     permissions:
       contents: read
@@ -26,6 +34,7 @@ jobs:
           echo "Found CSV files: ${CSV_FILES}"
 
   process-csv:
+    name: Scan ${{ matrix.csv_file }}
     needs: find-csv-files
     runs-on: ubuntu-latest
     permissions:
@@ -99,16 +108,17 @@ jobs:
           if-no-files-found: ignore
 
   commit-results:
+    name: Commit scan results
     needs: process-csv
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write # Commits data/tech back to main
 
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           fetch-depth: 0
-          persist-credentials: true
+          persist-credentials: false
 
       - name: Create tech directory
         run: mkdir -p data/tech
@@ -131,6 +141,8 @@ jobs:
 
       - name: Commit and push changes
         if: github.ref == 'refs/heads/main'
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
         run: |
           ( cd artifacts && ls ./*.csv 2>/dev/null || true ) \
             | sed 's|^\./|data/tech/|' > /tmp/tech-paths.txt

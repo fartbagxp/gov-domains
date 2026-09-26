@@ -4,17 +4,25 @@ on:
   workflow_dispatch:
   workflow_call:
 
+permissions: {}
+
+# Distinct from the caller's group (pipeline-raw); sharing it would deadlock.
+concurrency:
+  group: pipeline-csv
+  cancel-in-progress: false
+
 jobs:
   convert-to-csv:
+    name: Convert raw JSON to CSV
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write # Commits the regenerated data/csv files back to main
 
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           fetch-depth: 0
-          persist-credentials: true
+          persist-credentials: false
 
       - name: Install the latest version of uv
         uses: astral-sh/setup-uv@c18668ad3cf93ea998bef934396af7bb5c839dc7 # v10.2.0
@@ -28,14 +36,17 @@ jobs:
 
       - name: Commit and push changes
         if: github.ref == 'refs/heads/main'
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
         run: |
           ./scripts/commit-and-push.sh \
             "Converting files to CSV format - $(date +'%Y-%m-%d')" \
             data/csv
 
   call-update-technology:
+    name: Run technology detection
     needs: convert-to-csv
     if: github.ref == 'refs/heads/main'
-    uses: ./.github/workflows/update_technology.yml
+    uses: $/.github/workflows/update_technology.yml
     permissions:
-      contents: write
+      contents: write # The called workflow commits data/tech back to main
