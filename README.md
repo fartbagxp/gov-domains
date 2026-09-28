@@ -13,7 +13,7 @@ Tracking technology stacks, IP address ranges, and autonomous system numbers (AS
 | Lint | [![Lint](https://github.com/fartbagxp/gov-domains/actions/workflows/lint.yml/badge.svg)](https://github.com/fartbagxp/gov-domains/actions/workflows/lint.yml) |
 
 <!-- BEGIN:timestamp -->
-_Last updated: 2026-09-21 08:21 UTC_
+_Last updated: 2026-09-28 08:25 UTC_
 <!-- END:timestamp -->
 
 ---
@@ -909,46 +909,46 @@ Top technologies detected across actively scanned government domains via httpx f
 <!-- BEGIN:tech-table -->
 | Technology                  | Domains | Example Domains                            |
 | :---                        | ---:    | :---                                       |
-| HSTS                        |   11456 | acf.gov, americabydesign.gov, archives.gov |
-| Amazon Web Services         |    2852 | acf.gov, archives.gov, atf.gov             |
-| Amazon CloudFront           |    1785 | acf.gov, archives.gov, atf.gov             |
-| Cloudflare                  |    1527 | acf.gov, americabydesign.gov, atf.gov      |
-| Apache HTTP Server          |    1420 | acf.gov, cancer.gov, cbp.gov               |
-| HTTP/3                      |    1283 | acf.gov, americabydesign.gov, bls.gov      |
-| Cloudflare Bot Management   |     903 | acf.gov, atf.gov, bis.gov                  |
-| PHP                         |     877 | acf.gov, archives.gov, cancer.gov          |
-| jQuery                      |     807 | acf.gov, archives.gov, bls.gov             |
-| Microsoft ASP.NET           |     725 | acf.gov, archives.gov, atf.gov             |
-| Azure                       |     721 | archives.gov, cdc.gov, cms.gov             |
-| Google Analytics            |     654 | acf.gov, archives.gov, cancer.gov          |
-| Amazon S3                   |     612 | acf.gov, archives.gov, cancer.gov          |
-| Amazon ELB                  |     591 | acf.gov, archives.gov, cdc.gov             |
-| Nginx                       |     579 | acf.gov, archives.gov, atf.gov             |
-| Google Tag Manager          |     563 | acf.gov, archives.gov, cancer.gov          |
-| Windows Server              |     554 | acf.gov, archives.gov, atf.gov             |
-| Azure Front Door            |     546 | cdc.gov, doe.gov, ed.gov                   |
-| IIS:10.0                    |     543 | acf.gov, archives.gov, atf.gov             |
-| jQuery CDN                  |     463 | acf.gov, cancer.gov, cdc.gov               |
-| Bootstrap                   |     451 | acf.gov, archives.gov, bls.gov             |
-| F5 BigIP                    |     422 | archives.gov, atf.gov, bjs.gov             |
-| Akamai                      |     416 | cbp.gov, cdc.gov, cisa.gov                 |
-| jsDelivr                    |     397 | acf.gov, archives.gov, cancer.gov          |
-| Java                        |     376 | acf.gov, atf.gov, cancer.gov               |
-| Cloudflare Browser Insights |     364 | americabydesign.gov, census.gov, cisa.gov  |
-| Modernizr                   |     348 | acf.gov, atf.gov, cdc.gov                  |
-| USWDS                       |     328 | acf.gov, cancer.gov, cdc.gov               |
-| Amazon ALB                  |     281 | acf.gov, archives.gov, cancer.gov          |
-| Drupal:7                    |     244 | archives.gov, noaa.gov, ntia.gov           |
-| cdnjs                       |     238 | cancer.gov, cdc.gov, cms.gov               |
-| jQuery Migrate              |     228 | archives.gov, cdc.gov, cms.gov             |
-| Drupal:10                   |     226 | acf.gov, archives.gov, cancer.gov          |
-| jQuery:3.7.1                |     222 | archives.gov, cancer.gov, cdc.gov          |
-| jQuery:3.7.0                |     216 | dhs.gov, epa.gov, nist.gov                 |
-| Akamai Bot Manager          |     205 | cms.gov, dot.gov, ed.gov                   |
-| MySQL                       |     196 | archives.gov, cancer.gov, cdc.gov          |
-| Font Awesome                |     194 | cancer.gov, cdc.gov, census.gov            |
-| Varnish                     |     187 | acf.gov, atf.gov, cancer.gov               |
-| Drupal:11                   |     174 | acf.gov, archives.gov, cancer.gov          |
+| HSTS                        |   11435 | acf.gov, americabydesign.gov, archives.gov |
+| Amazon Web Services         |    2859 | acf.gov, archives.gov, atf.gov             |
+| Amazon CloudFront           |    1737 | acf.gov, archives.gov, atf.gov             |
+| Cloudflare                  |    1572 | acf.gov, americabydesign.gov, atf.gov      |
+| HTTP/3                      |    1414 | acf.gov, americabydesign.gov, bls.gov      |
+| Apache HTTP Server          |    1374 | acf.gov, cancer.gov, cbp.gov               |
+| PHP                         |     988 | acf.gov, archives.gov, cancer.gov          |
+| Cloudflare Bot Management   |     904 | acf.gov, atf.gov, bis.gov                  |
+| jQuery                      |     794 | acf.gov, archives.gov, bls.gov             |
+| Azure                       |     740 | archives.gov, cdc.gov, cms.gov             |
+| Microsoft ASP.NET           |     726 | acf.gov, archives.gov, atf.gov             |
+| Google Analytics            |     664 | acf.gov, archives.gov, cancer.gov          |
+| Amazon S3                   |     633 | acf.gov, archives.gov, cancer.gov          |
+| Amazon ELB                  |     613 | acf.gov, archives.gov, cancer.gov          |
+| Google Tag Manager          |     593 | acf.gov, archives.gov, cancer.gov          |
+| jQuery CDN                  |     568 | acf.gov, cancer.gov, cdc.gov               |
+| Azure Front Door            |     568 | cdc.gov, doe.gov, ed.gov                   |
+| Nginx                       |     567 | acf.gov, archives.gov, atf.gov             |
+| Windows Server              |     558 | acf.gov, archives.gov, atf.gov             |
+| IIS:10.0                    |     548 | acf.gov, archives.gov, atf.gov             |
+| Bootstrap                   |     472 | acf.gov, archives.gov, bls.gov             |
+| jsDelivr                    |     469 | acf.gov, archives.gov, cancer.gov          |
+| Modernizr                   |     414 | acf.gov, atf.gov, cdc.gov                  |
+| Akamai                      |     406 | cbp.gov, cisa.gov, cms.gov                 |
+| Cloudflare Browser Insights |     364 | americabydesign.gov, census.gov, dhs.gov   |
+| USWDS                       |     363 | acf.gov, cancer.gov, cdc.gov               |
+| Java                        |     358 | acf.gov, atf.gov, cancer.gov               |
+| F5 BigIP                    |     333 | archives.gov, atf.gov, bjs.gov             |
+| Drupal:7                    |     331 | archives.gov, noaa.gov, ntia.gov           |
+| jQuery Migrate              |     304 | archives.gov, cdc.gov, cms.gov             |
+| jQuery:3.7.0                |     286 | dhs.gov, nist.gov, ojp.gov                 |
+| Amazon ALB                  |     263 | acf.gov, archives.gov, cancer.gov          |
+| cdnjs                       |     253 | cancer.gov, cdc.gov, cms.gov               |
+| jQuery:3.7.1                |     249 | archives.gov, cancer.gov, cdc.gov          |
+| Drupal:10                   |     235 | acf.gov, archives.gov, cancer.gov          |
+| jQuery UI:1.14.1            |     215 | ed.gov, faa.gov, nasa.gov                  |
+| Varnish                     |     202 | acf.gov, atf.gov, cancer.gov               |
+| Drupal:11                   |     196 | acf.gov, archives.gov, cancer.gov          |
+| Akamai Bot Manager          |     196 | cms.gov, dot.gov, ed.gov                   |
+| Siteimprove                 |     187 | cbp.gov, cisa.gov, dhs.gov                 |
 <!-- END:tech-table -->
 
 ---
