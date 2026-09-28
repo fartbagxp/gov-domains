@@ -2,6 +2,17 @@
   {
     "issuer_ca_id": 432477,
     "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
+    "common_name": "weather.gov",
+    "name_value": "api.weather.gov\nforecast.weather.gov\nmarine.weather.gov\npreview-api.weather.gov\npreview-forecast.weather.gov\npreview-marine.weather.gov\npreview-ra4-gifs.weather.gov\npreview-radar.weather.gov\npreview-spot.weather.gov\npreview.weather.gov\nra4-gifs-idp.weather.gov\nra4-gifs.weather.gov\nradar.weather.gov\nspot.weather.gov\nweather.gov\nwww.weather.gov",
+    "id": 29543584668,
+    "not_before": "2026-09-09T11:09:48",
+    "not_after": "2026-12-08T11:09:47",
+    "serial_number": "06ff456823222b789fa67ba7900bd7c72b1d",
+    "result_count": 17
+  },
+  {
+    "issuer_ca_id": 432477,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
     "common_name": "ocean.weather.gov",
     "name_value": "ftp.ocean.weather.gov\nocean.weather.gov",
     "id": 29344383625,
@@ -169,7 +180,7 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
     "common_name": "preview.weather.gov",
     "name_value": "preview-api.weather.gov\npreview-forecast.weather.gov\npreview-radar.weather.gov\npreview.weather.gov",
-    "id": 28804267094,
+    "id": 28816264921,
     "not_before": "2026-08-13T10:38:57",
     "not_after": "2026-11-11T10:38:56",
     "serial_number": "0624c8f84f786d13905e6d07c1114de15228",
@@ -180,7 +191,7 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
     "common_name": "preview.weather.gov",
     "name_value": "preview-api.weather.gov\npreview-forecast.weather.gov\npreview-radar.weather.gov\npreview.weather.gov",
-    "id": 28816264921,
+    "id": 28804267094,
     "not_before": "2026-08-13T10:38:57",
     "not_after": "2026-11-11T10:38:56",
     "serial_number": "0624c8f84f786d13905e6d07c1114de15228",
@@ -191,7 +202,7 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
     "common_name": "weather.gov",
     "name_value": "preview-api.weather.gov\npreview-forecast.weather.gov\npreview-radar.weather.gov\npreview.weather.gov\nweather.gov",
-    "id": 28608380323,
+    "id": 28608386029,
     "not_before": "2026-08-07T02:46:20",
     "not_after": "2026-11-05T02:46:19",
     "serial_number": "05e457afd662d05d5bb7ddc8202ead45e051",
@@ -202,7 +213,7 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
     "common_name": "weather.gov",
     "name_value": "preview-api.weather.gov\npreview-forecast.weather.gov\npreview-radar.weather.gov\npreview.weather.gov\nweather.gov",
-    "id": 28608386029,
+    "id": 28608380323,
     "not_before": "2026-08-07T02:46:20",
     "not_after": "2026-11-05T02:46:19",
     "serial_number": "05e457afd662d05d5bb7ddc8202ead45e051",
@@ -235,7 +246,7 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
     "common_name": "secure.training.weather.gov",
     "name_value": "secure.training.weather.gov",
-    "id": 28434748270,
+    "id": 28434746290,
     "not_before": "2026-08-01T11:03:15",
     "not_after": "2026-10-30T11:03:14",
     "serial_number": "0643bcca61ecaae1c41246e227e07f20931a",
@@ -246,7 +257,7 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
     "common_name": "secure.training.weather.gov",
     "name_value": "secure.training.weather.gov",
-    "id": 28434746290,
+    "id": 28434748270,
     "not_before": "2026-08-01T11:03:15",
     "not_after": "2026-10-30T11:03:14",
     "serial_number": "0643bcca61ecaae1c41246e227e07f20931a",
@@ -279,7 +290,7 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
     "common_name": "ocean.weather.gov",
     "name_value": "ftp.ocean.weather.gov\nocean.weather.gov",
-    "id": 27740911452,
+    "id": 27740902098,
     "not_before": "2026-07-06T19:38:49",
     "not_after": "2026-10-04T19:38:48",
     "serial_number": "0567c8ce1b1df02b8f1bbb517ebc0634be62",
@@ -290,7 +301,7 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
     "common_name": "ocean.weather.gov",
     "name_value": "ftp.ocean.weather.gov\nocean.weather.gov",
-    "id": 27740902098,
+    "id": 27740911452,
     "not_before": "2026-07-06T19:38:49",
     "not_after": "2026-10-04T19:38:48",
     "serial_number": "0567c8ce1b1df02b8f1bbb517ebc0634be62",
@@ -323,17 +334,6 @@
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "*.weather.gov",
     "name_value": "*.weather.gov\nweather.gov",
-    "id": 27242407930,
-    "not_before": "2026-06-16T00:00:00",
-    "not_after": "2026-12-30T23:59:59",
-    "serial_number": "0a42d6b731d74922863b4415e644d3c9",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 247119,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
-    "common_name": "*.weather.gov",
-    "name_value": "*.weather.gov\nweather.gov",
     "id": 27242392888,
     "not_before": "2026-06-16T00:00:00",
     "not_after": "2026-12-30T23:59:59",
@@ -341,15 +341,15 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 904,
-    "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
-    "common_name": "nco.ncep.noaa.gov",
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "*.weather.gov",
     "name_value": "*.weather.gov\nweather.gov",
-    "id": 28496658134,
-    "not_before": "2026-05-27T20:45:54",
-    "not_after": "2026-12-11T20:45:54",
-    "serial_number": "060d08903ba6b503",
-    "result_count": 2
+    "id": 27242407930,
+    "not_before": "2026-06-16T00:00:00",
+    "not_after": "2026-12-30T23:59:59",
+    "serial_number": "0a42d6b731d74922863b4415e644d3c9",
+    "result_count": 3
   },
   {
     "issuer_ca_id": 904,
@@ -363,15 +363,15 @@
     "result_count": 2
   },
   {
-    "issuer_ca_id": 246719,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
-    "common_name": "internal.weather.gov",
-    "name_value": "*.internal.weather.gov\ninternal.weather.gov",
-    "id": 26662447187,
-    "not_before": "2026-05-26T00:00:00",
-    "not_after": "2026-12-09T23:59:59",
-    "serial_number": "0ff97a7eeaf767eb24c1c986a9de5103",
-    "result_count": 3
+    "issuer_ca_id": 904,
+    "issuer_name": "C=US, ST=Arizona, L=Scottsdale, O=\"GoDaddy.com, Inc.\", OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2",
+    "common_name": "nco.ncep.noaa.gov",
+    "name_value": "*.weather.gov\nweather.gov",
+    "id": 28496658134,
+    "not_before": "2026-05-27T20:45:54",
+    "not_after": "2026-12-11T20:45:54",
+    "serial_number": "060d08903ba6b503",
+    "result_count": 2
   },
   {
     "issuer_ca_id": 246719,
@@ -393,6 +393,28 @@
     "not_before": "2026-05-26T00:00:00",
     "not_after": "2026-12-09T23:59:59",
     "serial_number": "0b126916730338da626dace32f7072b9",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "internal.weather.gov",
+    "name_value": "*.internal.weather.gov\ninternal.weather.gov",
+    "id": 26662447308,
+    "not_before": "2026-05-26T00:00:00",
+    "not_after": "2026-12-09T23:59:59",
+    "serial_number": "06f779d4ccf765cd3336e3320fe1ae37",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "internal.weather.gov",
+    "name_value": "*.internal.weather.gov\ninternal.weather.gov",
+    "id": 26662446737,
+    "not_before": "2026-05-26T00:00:00",
+    "not_after": "2026-12-09T23:59:59",
+    "serial_number": "0f35dfa75d47c3202da1d37052904bd2",
     "result_count": 3
   },
   {
@@ -433,10 +455,10 @@
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "internal.weather.gov",
     "name_value": "*.internal.weather.gov\ninternal.weather.gov",
-    "id": 26662447308,
+    "id": 26662447187,
     "not_before": "2026-05-26T00:00:00",
     "not_after": "2026-12-09T23:59:59",
-    "serial_number": "06f779d4ccf765cd3336e3320fe1ae37",
+    "serial_number": "0ff97a7eeaf767eb24c1c986a9de5103",
     "result_count": 3
   },
   {
@@ -484,14 +506,25 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 246719,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
     "common_name": "internal.weather.gov",
     "name_value": "*.internal.weather.gov\ninternal.weather.gov",
-    "id": 26662446737,
+    "id": 26662577842,
     "not_before": "2026-05-26T00:00:00",
     "not_after": "2026-12-09T23:59:59",
-    "serial_number": "0f35dfa75d47c3202da1d37052904bd2",
+    "serial_number": "0b4cdf94a88c300701833331c1434756",
+    "result_count": 3
+  },
+  {
+    "issuer_ca_id": 247119,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
+    "common_name": "internal.weather.gov",
+    "name_value": "*.internal.weather.gov\ninternal.weather.gov",
+    "id": 26662575752,
+    "not_before": "2026-05-26T00:00:00",
+    "not_after": "2026-12-09T23:59:59",
+    "serial_number": "0a54e410c18237ea503d50444f545012",
     "result_count": 3
   },
   {
@@ -525,28 +558,6 @@
     "not_before": "2026-05-26T00:00:00",
     "not_after": "2026-12-09T23:59:59",
     "serial_number": "0f21f7387e8e714b225a78503b964d05",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 247119,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
-    "common_name": "internal.weather.gov",
-    "name_value": "*.internal.weather.gov\ninternal.weather.gov",
-    "id": 26662575752,
-    "not_before": "2026-05-26T00:00:00",
-    "not_after": "2026-12-09T23:59:59",
-    "serial_number": "0a54e410c18237ea503d50444f545012",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 247119,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M04",
-    "common_name": "internal.weather.gov",
-    "name_value": "*.internal.weather.gov\ninternal.weather.gov",
-    "id": 26662577842,
-    "not_before": "2026-05-26T00:00:00",
-    "not_after": "2026-12-09T23:59:59",
-    "serial_number": "0b4cdf94a88c300701833331c1434756",
     "result_count": 3
   },
   {
