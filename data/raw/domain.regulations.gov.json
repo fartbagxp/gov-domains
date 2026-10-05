@@ -2,6 +2,17 @@
   {
     "issuer_ca_id": 432477,
     "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
+    "common_name": "api.regulations.gov",
+    "name_value": "api.regulations.gov",
+    "id": 29625771782,
+    "not_before": "2026-09-10T17:20:36",
+    "not_after": "2026-12-09T17:20:35",
+    "serial_number": "0619bf9dc0dfe870766f52c3f802c327fa11",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 432477,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
     "common_name": "api-staging.regulations.gov",
     "name_value": "api-staging.regulations.gov",
     "id": 28824812076,
@@ -26,7 +37,7 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
     "common_name": "api.regulations.gov",
     "name_value": "api.regulations.gov",
-    "id": 27879899664,
+    "id": 27879901116,
     "not_before": "2026-07-12T17:21:23",
     "not_after": "2026-10-10T17:21:22",
     "serial_number": "057b7d9abaf9beb263055937842d3ee4c37e",
@@ -37,22 +48,11 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
     "common_name": "api.regulations.gov",
     "name_value": "api.regulations.gov",
-    "id": 27879901116,
+    "id": 27879899664,
     "not_before": "2026-07-12T17:21:23",
     "not_after": "2026-10-10T17:21:22",
     "serial_number": "057b7d9abaf9beb263055937842d3ee4c37e",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "www.regulations.gov",
-    "name_value": "api.regulations.gov\nbulk-downloads.regulations.gov\ndownloads.regulations.gov\nregulations.gov\nresources.regulations.gov\nwww.regulations.gov",
-    "id": 29023224386,
-    "not_before": "2026-06-16T00:00:00",
-    "not_after": "2026-12-31T23:59:59",
-    "serial_number": "038ec05a1dedff189b439f41b348b1c7",
-    "result_count": 7
   },
   {
     "issuer_ca_id": 185752,
@@ -68,13 +68,13 @@
   {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "staging.regulations.gov",
-    "name_value": "dev-bulk-downloads.regulations.gov\ndev-downloads.regulations.gov\ndev.regulations.gov\nstaging-bulk-downloads.regulations.gov\nstaging-downloads.regulations.gov\nstaging.regulations.gov\ntest-bulk-downloads.regulations.gov\ntest-downloads.regulations.gov\ntest.regulations.gov",
-    "id": 25041915129,
-    "not_before": "2026-03-17T00:00:00",
-    "not_after": "2026-10-01T23:59:59",
-    "serial_number": "07dbaa3d88c9b5c11eb1ff5aac52949e",
-    "result_count": 10
+    "common_name": "www.regulations.gov",
+    "name_value": "api.regulations.gov\nbulk-downloads.regulations.gov\ndownloads.regulations.gov\nregulations.gov\nresources.regulations.gov\nwww.regulations.gov",
+    "id": 29023224386,
+    "not_before": "2026-06-16T00:00:00",
+    "not_after": "2026-12-31T23:59:59",
+    "serial_number": "038ec05a1dedff189b439f41b348b1c7",
+    "result_count": 7
   },
   {
     "issuer_ca_id": 185752,

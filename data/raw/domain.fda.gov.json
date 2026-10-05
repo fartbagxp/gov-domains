@@ -1,5 +1,38 @@
 [
   {
+    "issuer_ca_id": 432477,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
+    "common_name": "powerapps.fda.gov",
+    "name_value": "powerapps.fda.gov",
+    "id": 29608991502,
+    "not_before": "2026-09-26T06:26:05",
+    "not_after": "2026-12-25T06:26:04",
+    "serial_number": "068e6d67911dfa6419f03870e7ae6b85663e",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "fda-foia-ext.fda.gov",
+    "name_value": "fda-foia-ext.fda.gov",
+    "id": 29598717298,
+    "not_before": "2026-09-25T15:55:45",
+    "not_after": "2027-04-12T15:54:45",
+    "serial_number": "4001a0d947a27cd5cb9dd2f8eb2e3f8d",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 153248,
+    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
+    "common_name": "sites.fda.gov",
+    "name_value": "sites.fda.gov",
+    "id": 29579379985,
+    "not_before": "2026-09-24T21:07:05",
+    "not_after": "2027-04-11T21:06:05",
+    "serial_number": "4001a0d53e4f1db5adaa8efd5a08e792",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 153248,
     "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
     "common_name": "developer2.fda.gov",
@@ -279,7 +312,7 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
     "common_name": "api.fda.gov",
     "name_value": "api.fda.gov",
-    "id": 28990119584,
+    "id": 29067760994,
     "not_before": "2026-08-21T11:21:16",
     "not_after": "2026-11-19T11:21:15",
     "serial_number": "056b64ae14ae657dbb41c9eadbb7918f77c2",
@@ -290,7 +323,7 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
     "common_name": "api.fda.gov",
     "name_value": "api.fda.gov",
-    "id": 29067760994,
+    "id": 28990119584,
     "not_before": "2026-08-21T11:21:16",
     "not_after": "2026-11-19T11:21:15",
     "serial_number": "056b64ae14ae657dbb41c9eadbb7918f77c2",
@@ -312,7 +345,7 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=YE1",
     "common_name": "geoplatform.fda.gov",
     "name_value": "geoplatform.fda.gov",
-    "id": 28889144327,
+    "id": 28885401106,
     "not_before": "2026-08-16T11:28:16",
     "not_after": "2026-11-14T11:28:15",
     "serial_number": "054415bf7e8c0ed99229752696bb78960e30",
@@ -323,7 +356,7 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=YE1",
     "common_name": "geoplatform.fda.gov",
     "name_value": "geoplatform.fda.gov",
-    "id": 28885401106,
+    "id": 28889144327,
     "not_before": "2026-08-16T11:28:16",
     "not_after": "2026-11-14T11:28:15",
     "serial_number": "054415bf7e8c0ed99229752696bb78960e30",
@@ -345,7 +378,7 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
     "common_name": "tbmcoe-apps.fda.gov",
     "name_value": "tbmcoe-apps.fda.gov",
-    "id": 28838508948,
+    "id": 28914030312,
     "not_before": "2026-08-14T14:24:14",
     "not_after": "2026-11-12T14:24:13",
     "serial_number": "05a87724d089ac2d169baf19f9c4d4a2505e",
@@ -356,21 +389,10 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
     "common_name": "tbmcoe-apps.fda.gov",
     "name_value": "tbmcoe-apps.fda.gov",
-    "id": 28914030312,
+    "id": 28838508948,
     "not_before": "2026-08-14T14:24:14",
     "not_after": "2026-11-12T14:24:13",
     "serial_number": "05a87724d089ac2d169baf19f9c4d4a2505e",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 432476,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
-    "common_name": "ofemsapps.fda.gov",
-    "name_value": "ofemsapps.fda.gov",
-    "id": 28776440610,
-    "not_before": "2026-08-12T14:24:14",
-    "not_after": "2026-11-10T14:24:13",
-    "serial_number": "05f15d59e113a15736716f82da27607449ad",
     "result_count": 2
   },
   {
@@ -385,11 +407,22 @@
     "result_count": 2
   },
   {
+    "issuer_ca_id": 432476,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
+    "common_name": "ofemsapps.fda.gov",
+    "name_value": "ofemsapps.fda.gov",
+    "id": 28776440610,
+    "not_before": "2026-08-12T14:24:14",
+    "not_after": "2026-11-10T14:24:13",
+    "serial_number": "05f15d59e113a15736716f82da27607449ad",
+    "result_count": 2
+  },
+  {
     "issuer_ca_id": 431054,
     "issuer_name": "C=US, O=Let's Encrypt, CN=YE2",
     "common_name": "cdrh-rst.preprod.fda.gov",
     "name_value": "cdrh-rst.preprod.fda.gov",
-    "id": 28640555203,
+    "id": 28640569462,
     "not_before": "2026-08-08T05:04:25",
     "not_after": "2026-11-06T05:04:24",
     "serial_number": "066771b0af31c57d1e97dddcec20bf18c3e0",
@@ -400,7 +433,7 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=YE2",
     "common_name": "cdrh-rst.preprod.fda.gov",
     "name_value": "cdrh-rst.preprod.fda.gov",
-    "id": 28640569462,
+    "id": 28640555203,
     "not_before": "2026-08-08T05:04:25",
     "not_after": "2026-11-06T05:04:24",
     "serial_number": "066771b0af31c57d1e97dddcec20bf18c3e0",
@@ -1582,50 +1615,6 @@
     "not_after": "2026-10-10T16:50:53",
     "serial_number": "40019d25e8e5b8d03971eff035d0c573",
     "result_count": 9
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "download.open.fda.gov",
-    "name_value": "download.open.fda.gov",
-    "id": 25050238829,
-    "not_before": "2026-03-17T18:59:10",
-    "not_after": "2026-10-02T18:58:10",
-    "serial_number": "40019cfd2a8e0688b757a82de8ed620f",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "open.fda.gov",
-    "name_value": "open.fda.gov",
-    "id": 25050236136,
-    "not_before": "2026-03-17T18:58:13",
-    "not_after": "2026-10-02T18:57:13",
-    "serial_number": "40019cfd29af9d14a8f173311f966dbb",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "appian-uat-dsc.fda.gov",
-    "name_value": "appian-uat-dsc-dynamic.fda.gov\nappian-uat-dsc.fda.gov\nappian-uat-dsc-static.fda.gov",
-    "id": 25045883166,
-    "not_before": "2026-03-17T14:53:04",
-    "not_after": "2026-10-02T14:52:04",
-    "serial_number": "40019cfc493dcfe544b6e576a4608b1e",
-    "result_count": 4
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "safetyreporting.preprod.fda.gov",
-    "name_value": "safetyreporting-mig.preprod.fda.gov\nsafetyreporting.preprod.fda.gov\nwww.safetyreporting-mig.preprod.fda.gov\nwww.safetyreporting.preprod.fda.gov",
-    "id": 24965278851,
-    "not_before": "2026-03-13T15:12:28",
-    "not_after": "2026-09-28T15:11:28",
-    "serial_number": "40019ce7c192128083c01455b6d8aa1b",
-    "result_count": 5
   },
   {
     "issuer_ca_id": 153248,
@@ -3870,16 +3859,5 @@
     "not_after": "2026-10-05T18:31:46",
     "serial_number": "4001991b2706506d8ff47f345c1d4bbc",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 153248,
-    "issuer_name": "C=US, O=IdenTrust, OU=HydrantID Trusted Certificate Service, CN=HydrantID Server CA O1",
-    "common_name": "labels.fda.gov",
-    "name_value": "labels.fda.gov\nlabels-mig.fda.gov",
-    "id": 20771704356,
-    "not_before": "2025-09-03T20:51:49",
-    "not_after": "2026-10-03T20:50:49",
-    "serial_number": "40019911599c88dbdc720a52afe5d1fd",
-    "result_count": 3
   }
 ]
