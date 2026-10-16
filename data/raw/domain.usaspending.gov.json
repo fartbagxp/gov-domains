@@ -1,5 +1,27 @@
 [
   {
+    "issuer_ca_id": 204406,
+    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
+    "common_name": null,
+    "name_value": "usaspending.gov",
+    "id": 29815092049,
+    "not_before": "2026-10-13T00:00:00",
+    "not_after": "2027-04-29T23:59:59",
+    "serial_number": "55700d13dc1aaaf19ac4dbbca79da801",
+    "result_count": 1
+  },
+  {
+    "issuer_ca_id": 385512,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust OV TLS Issuing RSA CA 2",
+    "common_name": "usaspending.gov",
+    "name_value": "*.usaspending.gov\nusaspending.gov",
+    "id": 29767159624,
+    "not_before": "2026-10-06T00:00:00",
+    "not_after": "2027-04-22T23:59:59",
+    "serial_number": "6806ed49335bfc14b092ca857f7876c2",
+    "result_count": 3
+  },
+  {
     "issuer_ca_id": 204407,
     "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV E36",
     "common_name": "usaspending.gov",
@@ -53,6 +75,17 @@
     "not_after": "2027-03-18T23:59:59",
     "serial_number": "00eacfd85020afca06ee6ac691dc3225fe",
     "result_count": 12
+  },
+  {
+    "issuer_ca_id": 286236,
+    "issuer_name": "C=US, O=Google Trust Services, CN=WE1",
+    "common_name": "usaspending.gov",
+    "name_value": "*.usaspending.gov\nusaspending.gov",
+    "id": 29664805743,
+    "not_before": "2026-09-01T19:38:11",
+    "not_after": "2026-11-30T20:38:00",
+    "serial_number": "62e2e35a2ad33bb713bd8e415e73d058",
+    "result_count": 3
   },
   {
     "issuer_ca_id": 432477,

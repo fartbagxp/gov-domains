@@ -1,5 +1,16 @@
 [
   {
+    "issuer_ca_id": 432476,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
+    "common_name": "adminefilingtest.ftc.gov",
+    "name_value": "adminefilingtest.ftc.gov\nhsrfilingtest.ftc.gov\nrntest.ftc.gov",
+    "id": 29827479355,
+    "not_before": "2026-10-07T17:01:06",
+    "not_after": "2027-01-05T17:01:05",
+    "serial_number": "0574330ad22603b70664d33efc56b2dd14a3",
+    "result_count": 4
+  },
+  {
     "issuer_ca_id": 246719,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "*.takeitdown.ftc.gov",
@@ -46,6 +57,28 @@
   {
     "issuer_ca_id": 432476,
     "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
+    "common_name": "test.rnlogin.ftc.gov",
+    "name_value": "test.rnlogin.ftc.gov",
+    "id": 29823827976,
+    "not_before": "2026-09-14T04:49:56",
+    "not_after": "2026-12-13T04:49:55",
+    "serial_number": "06864d74e977094e00aa0618e1e7f47ea415",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 432476,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
+    "common_name": "test.rnlogin.ftc.gov",
+    "name_value": "test.rnlogin.ftc.gov",
+    "id": 29823755175,
+    "not_before": "2026-09-14T04:49:56",
+    "not_after": "2026-12-13T04:49:55",
+    "serial_number": "06864d74e977094e00aa0618e1e7f47ea415",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 432476,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
     "common_name": "adminefiling.ftc.gov",
     "name_value": "adminefiling.ftc.gov\nrn.ftc.gov",
     "id": 29413253995,
@@ -70,7 +103,7 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
     "common_name": "servicecenterdev.ftc.gov",
     "name_value": "servicecenterdev.ftc.gov",
-    "id": 29126042348,
+    "id": 29327272094,
     "not_before": "2026-08-28T14:36:26",
     "not_after": "2026-11-26T14:36:25",
     "serial_number": "05e3bb97d64d8f32aec90ddb8dd6f72d9c3c",
@@ -81,22 +114,11 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
     "common_name": "servicecenterdev.ftc.gov",
     "name_value": "servicecenterdev.ftc.gov",
-    "id": 29327272094,
+    "id": 29126042348,
     "not_before": "2026-08-28T14:36:26",
     "not_after": "2026-11-26T14:36:25",
     "serial_number": "05e3bb97d64d8f32aec90ddb8dd6f72d9c3c",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 246719,
-    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
-    "common_name": "*.reportefraude.ftc.gov",
-    "name_value": "*.reportefraude.ftc.gov\nreportefraude.ftc.gov",
-    "id": 28984117112,
-    "not_before": "2026-08-24T00:00:00",
-    "not_after": "2027-03-09T23:59:59",
-    "serial_number": "0a4ae33b98114f37b89dcde65a5053fe",
-    "result_count": 3
   },
   {
     "issuer_ca_id": 246719,
@@ -112,12 +134,12 @@
   {
     "issuer_ca_id": 246719,
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
-    "common_name": "*.reportfraud.ftc.gov",
-    "name_value": "*.reportfraud.ftc.gov\nreportfraud.ftc.gov",
-    "id": 28997768030,
+    "common_name": "*.reportefraude.ftc.gov",
+    "name_value": "*.reportefraude.ftc.gov\nreportefraude.ftc.gov",
+    "id": 28984117112,
     "not_before": "2026-08-24T00:00:00",
     "not_after": "2027-03-09T23:59:59",
-    "serial_number": "03329b02c610efa2e674687503c4ca1c",
+    "serial_number": "0a4ae33b98114f37b89dcde65a5053fe",
     "result_count": 3
   },
   {
@@ -132,15 +154,15 @@
     "result_count": 3
   },
   {
-    "issuer_ca_id": 432477,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
-    "common_name": "rnlogin.ftc.gov",
-    "name_value": "rnlogin.ftc.gov",
-    "id": 29064014468,
-    "not_before": "2026-08-22T01:03:00",
-    "not_after": "2026-11-20T01:02:59",
-    "serial_number": "058f1fead93ec9428f11724f90d75c13d959",
-    "result_count": 2
+    "issuer_ca_id": 246719,
+    "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
+    "common_name": "*.reportfraud.ftc.gov",
+    "name_value": "*.reportfraud.ftc.gov\nreportfraud.ftc.gov",
+    "id": 28997768030,
+    "not_before": "2026-08-24T00:00:00",
+    "not_after": "2027-03-09T23:59:59",
+    "serial_number": "03329b02c610efa2e674687503c4ca1c",
+    "result_count": 3
   },
   {
     "issuer_ca_id": 432477,
@@ -156,9 +178,20 @@
   {
     "issuer_ca_id": 432477,
     "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
+    "common_name": "rnlogin.ftc.gov",
+    "name_value": "rnlogin.ftc.gov",
+    "id": 29064014468,
+    "not_before": "2026-08-22T01:03:00",
+    "not_after": "2026-11-20T01:02:59",
+    "serial_number": "058f1fead93ec9428f11724f90d75c13d959",
+    "result_count": 2
+  },
+  {
+    "issuer_ca_id": 432477,
+    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
     "common_name": "test.rnlogin.ftc.gov",
     "name_value": "test.rnlogin.ftc.gov",
-    "id": 28844502761,
+    "id": 28826911925,
     "not_before": "2026-08-14T04:49:40",
     "not_after": "2026-11-12T04:49:39",
     "serial_number": "05a0130673f873d2f6f04ae70b5576111af4",
@@ -169,7 +202,7 @@
     "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
     "common_name": "test.rnlogin.ftc.gov",
     "name_value": "test.rnlogin.ftc.gov",
-    "id": 28826911925,
+    "id": 28844502761,
     "not_before": "2026-08-14T04:49:40",
     "not_after": "2026-11-12T04:49:39",
     "serial_number": "05a0130673f873d2f6f04ae70b5576111af4",
@@ -253,94 +286,6 @@
     "result_count": 6
   },
   {
-    "issuer_ca_id": 432476,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
-    "common_name": "api.ftc.gov",
-    "name_value": "api.ftc.gov",
-    "id": 28015788218,
-    "not_before": "2026-07-17T15:21:23",
-    "not_after": "2026-10-15T15:21:22",
-    "serial_number": "0574eb22067c7e1ce6d77bcd5bc3155bdaad",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 432476,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
-    "common_name": "api.ftc.gov",
-    "name_value": "api.ftc.gov",
-    "id": 28015796838,
-    "not_before": "2026-07-17T15:21:23",
-    "not_after": "2026-10-15T15:21:22",
-    "serial_number": "0574eb22067c7e1ce6d77bcd5bc3155bdaad",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 432477,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
-    "common_name": "test.rnlogin.ftc.gov",
-    "name_value": "test.rnlogin.ftc.gov",
-    "id": 27917804689,
-    "not_before": "2026-07-14T04:49:40",
-    "not_after": "2026-10-12T04:49:39",
-    "serial_number": "056474338330fcc2fed25a6a47fb769f8fab",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 432477,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
-    "common_name": "test.rnlogin.ftc.gov",
-    "name_value": "test.rnlogin.ftc.gov",
-    "id": 27917798770,
-    "not_before": "2026-07-14T04:49:40",
-    "not_after": "2026-10-12T04:49:39",
-    "serial_number": "056474338330fcc2fed25a6a47fb769f8fab",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 432477,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
-    "common_name": "test.adminefiling.ftc.gov",
-    "name_value": "test.adminefiling.ftc.gov",
-    "id": 27917792919,
-    "not_before": "2026-07-14T04:49:39",
-    "not_after": "2026-10-12T04:49:38",
-    "serial_number": "05370351098142556a6eef08dc2d7ca00dd1",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 432477,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YR2",
-    "common_name": "test.adminefiling.ftc.gov",
-    "name_value": "test.adminefiling.ftc.gov",
-    "id": 27917799660,
-    "not_before": "2026-07-14T04:49:39",
-    "not_after": "2026-10-12T04:49:38",
-    "serial_number": "05370351098142556a6eef08dc2d7ca00dd1",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 432476,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
-    "common_name": "adminefiling.ftc.gov",
-    "name_value": "adminefiling.ftc.gov\nrn.ftc.gov",
-    "id": 27794206391,
-    "not_before": "2026-07-09T00:00:54",
-    "not_after": "2026-10-07T00:00:53",
-    "serial_number": "05f437f170986bc849decb351e89cdbba66d",
-    "result_count": 3
-  },
-  {
-    "issuer_ca_id": 432476,
-    "issuer_name": "C=US, O=Let's Encrypt, CN=YR1",
-    "common_name": "adminefiling.ftc.gov",
-    "name_value": "adminefiling.ftc.gov\nrn.ftc.gov",
-    "id": 27794193064,
-    "not_before": "2026-07-09T00:00:54",
-    "not_after": "2026-10-07T00:00:53",
-    "serial_number": "05f437f170986bc849decb351e89cdbba66d",
-    "result_count": 3
-  },
-  {
     "issuer_ca_id": 185752,
     "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
     "common_name": "login.ftc.gov",
@@ -378,7 +323,7 @@
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "*.takeitdown.ftc.gov",
     "name_value": "*.takeitdown.ftc.gov\ntakeitdown.ftc.gov",
-    "id": 25891059079,
+    "id": 26044764341,
     "not_before": "2026-04-28T00:00:00",
     "not_after": "2026-11-11T23:59:59",
     "serial_number": "04dcf7b5f53ae8f5806422837b89df0f",
@@ -389,7 +334,7 @@
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "*.takeitdown.ftc.gov",
     "name_value": "*.takeitdown.ftc.gov\ntakeitdown.ftc.gov",
-    "id": 26044764341,
+    "id": 25891059079,
     "not_before": "2026-04-28T00:00:00",
     "not_after": "2026-11-11T23:59:59",
     "serial_number": "04dcf7b5f53ae8f5806422837b89df0f",
@@ -438,17 +383,6 @@
     "not_after": "2026-11-11T23:59:59",
     "serial_number": "0f13688c60c127a58aebe3766a69fe7e",
     "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "guest.ftc.gov",
-    "name_value": "guest.ftc.gov\nhq2-clearpass-s1.trade.ftc.gov\nhq-clearpass-s1.trade.ftc.gov\nhq-clearpass.trade.ftc.gov",
-    "id": 25218086096,
-    "not_before": "2026-03-25T00:00:00",
-    "not_after": "2026-10-09T23:59:59",
-    "serial_number": "0972afd1577c77f8de51ee16df7308e4",
-    "result_count": 5
   },
   {
     "issuer_ca_id": 153248,
@@ -587,7 +521,7 @@
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
     "common_name": "www.ftc.gov",
     "name_value": "bulkorder2.ftc.gov\nbulkorder.ftc.gov\nbusiness.ftc.gov\nconsumer.ftc.gov\nconsumidor.ftc.gov\nedit.bulkorder.ftc.gov\nedit.consumer.ftc.gov\nedit.ftc.gov\nedit.staging.ftc.gov\nftc.gov\nloadtest.ftc.gov\noig.ftc.gov\nsearch.ftc.gov\nstaging.bulkorder.ftc.gov\nstaging.consumer.ftc.gov\nstaging.ftc.gov\nwww.bulkorder.ftc.gov\nwww.business.ftc.gov\nwww.consumer.ftc.gov\nwww.consumidor.ftc.gov\nwww.ftc.gov",
-    "id": 24274056482,
+    "id": 25847396973,
     "not_before": "2026-02-09T00:00:00",
     "not_after": "2027-02-08T23:59:59",
     "serial_number": "0ea2123e0e9d8ebc68802792d04d5fdf",
@@ -598,7 +532,7 @@
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
     "common_name": "www.ftc.gov",
     "name_value": "bulkorder2.ftc.gov\nbulkorder.ftc.gov\nbusiness.ftc.gov\nconsumer.ftc.gov\nconsumidor.ftc.gov\nedit.bulkorder.ftc.gov\nedit.consumer.ftc.gov\nedit.ftc.gov\nedit.staging.ftc.gov\nftc.gov\nloadtest.ftc.gov\noig.ftc.gov\nsearch.ftc.gov\nstaging.bulkorder.ftc.gov\nstaging.consumer.ftc.gov\nstaging.ftc.gov\nwww.bulkorder.ftc.gov\nwww.business.ftc.gov\nwww.consumer.ftc.gov\nwww.consumidor.ftc.gov\nwww.ftc.gov",
-    "id": 25847396973,
+    "id": 24274056482,
     "not_before": "2026-02-09T00:00:00",
     "not_after": "2027-02-08T23:59:59",
     "serial_number": "0ea2123e0e9d8ebc68802792d04d5fdf",
@@ -686,7 +620,7 @@
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "*.reportefraude.ftc.gov",
     "name_value": "*.reportefraude.ftc.gov\nreportefraude.ftc.gov",
-    "id": 29058602131,
+    "id": 21225890942,
     "not_before": "2025-09-23T00:00:00",
     "not_after": "2026-10-22T23:59:59",
     "serial_number": "08ba0eb12e9c765f0423aab2ce1fa7f1",
@@ -697,7 +631,7 @@
     "issuer_name": "C=US, O=Amazon, CN=Amazon RSA 2048 M01",
     "common_name": "*.reportefraude.ftc.gov",
     "name_value": "*.reportefraude.ftc.gov\nreportefraude.ftc.gov",
-    "id": 21225890942,
+    "id": 29058602131,
     "not_before": "2025-09-23T00:00:00",
     "not_after": "2026-10-22T23:59:59",
     "serial_number": "08ba0eb12e9c765f0423aab2ce1fa7f1",
@@ -713,27 +647,5 @@
     "not_after": "2026-10-22T23:59:59",
     "serial_number": "088178568c486c292c15564dbc97b2b2",
     "result_count": 3
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "devfoiaxpress.ftc.gov",
-    "name_value": "devfoiaxpress.ftc.gov",
-    "id": 20902516544,
-    "not_before": "2025-09-09T00:00:00",
-    "not_after": "2026-10-10T23:59:59",
-    "serial_number": "0ee43ef062120858bdd7f1f47a955b17",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 185752,
-    "issuer_name": "C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1",
-    "common_name": "devfoiaxpresspal.ftc.gov",
-    "name_value": "devfoiaxpresspal.ftc.gov",
-    "id": 20902516160,
-    "not_before": "2025-09-09T00:00:00",
-    "not_after": "2026-10-10T23:59:59",
-    "serial_number": "06681e5a6ad1415be1db6bda46b19ad9",
-    "result_count": 2
   }
 ]
