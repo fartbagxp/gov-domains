@@ -13,7 +13,7 @@ Tracking technology stacks, IP address ranges, and autonomous system numbers (AS
 | Lint | [![Lint](https://github.com/fartbagxp/gov-domains/actions/workflows/lint.yml/badge.svg)](https://github.com/fartbagxp/gov-domains/actions/workflows/lint.yml) |
 
 <!-- BEGIN:timestamp -->
-_Last updated: 2026-10-26 14:55 UTC_
+_Last updated: 2026-11-02 17:55 UTC_
 <!-- END:timestamp -->
 
 ---
@@ -48,14 +48,14 @@ Data is collected automatically on a regular schedule and committed back to this
 <!-- BEGIN:overview-table -->
 | Category                      | Organizations | ASNs | IPv4 Prefixes | IPv6 Prefixes | Est. IPv4 Addresses |
 | :---                          | ---:          | ---: | ---:          | ---:          | ---:                |
-| **Federal Agencies**          |            87 |   87 |         7,968 |           262 |              321.1M |
-| **State Governments**         |            85 |   85 |         1,915 |            55 |               13.9M |
-| **City Governments**          |            53 |   53 |           379 |            10 |                1.3M |
-| **Hospital Systems**          |           544 |  544 |         1,654 |            18 |                4.9M |
-| **Health Insurers**           |            76 |   76 |           462 |             5 |              641.5K |
+| **Federal Agencies**          |            87 |   87 |         7,975 |           273 |              320.8M |
+| **State Governments**         |            85 |   85 |         1,909 |            55 |               13.9M |
+| **City Governments**          |            53 |   53 |           392 |            10 |                1.3M |
+| **Hospital Systems**          |           544 |  544 |         1,643 |            18 |                4.8M |
+| **Health Insurers**           |            76 |   76 |           455 |            11 |              639.8K |
 | **Pharmacy Benefit Managers** |            13 |   13 |            96 |             — |              203.0K |
 | **Health IT Vendors**         |            40 |   40 |           109 |             6 |               72.2K |
-| **Academic Institutions**     |            20 |   20 |         1,240 |           110 |               27.2M |
+| **Academic Institutions**     |            20 |   20 |         1,241 |           111 |               27.2M |
 <!-- END:overview-table -->
 
 ---
@@ -72,17 +72,17 @@ Tracked in [`data/us-fed-gov-agencies.csv`](data/us-fed-gov-agencies.csv). Prefi
 | CDC     | Centers for Disease Control and Prevention (CDC)       |    1 |             2 |             — |               73.7K |
 | CIA     | Central Intelligence Agency                            |    1 |             — |             — |                   — |
 | CNCS    | AmeriCorps                                             |    1 |             — |             1 |                   — |
-| DHS     | Department of Homeland Security                        |    1 |            16 |             1 |               15.9K |
+| DHS     | Department of Homeland Security                        |    1 |            21 |             1 |               77.3K |
 | DOC     | Department of Commerce - Bureau of Economic Analysis   |    3 |             3 |             3 |               66.0K |
 | DOS-OIG | Department of State - Office of Inspector General      |    1 |             — |             1 |                   — |
-| DoD     | Department of Defense - Network Information Center     |   10 |         7,277 |            98 |              314.4M |
+| DoD     | Department of Defense - Network Information Center     |   10 |         7,261 |            96 |              314.2M |
 | DoL     | U.S. Department of Labor                               |    2 |            14 |            13 |                3.8K |
-| DoT     | US Department of Transportation                        |    1 |            20 |            33 |              269.3K |
+| DoT     | US Department of Transportation                        |    1 |            20 |            34 |              269.3K |
 | EOP     | Executive Office of the President                      |    2 |             8 |             6 |               67.6K |
 | EPA     | Environmental Protection Agency (EPA)                  |    2 |             4 |             1 |              262.4K |
 | EXIM    | Export-Import Bank of the United States                |    1 |             — |             — |                   — |
 | FAA     | Federal Aviation Administration                        |    2 |            18 |             6 |              203.5K |
-| FBI     | Federal Bureau of Investigation - CJIS Division        |    1 |            29 |            13 |              137.7K |
+| FBI     | Federal Bureau of Investigation - CJIS Division        |    1 |            30 |            13 |              138.0K |
 | FDA     | Food and Drug Administration                           |    1 |             1 |             1 |               65.5K |
 | FDIC    | Federal Deposit Insurance Corporation                  |    1 |            13 |             — |                3.3K |
 | FEC     | Federal Election Commission                            |    1 |             — |             — |                   — |
@@ -100,13 +100,13 @@ Tracked in [`data/us-fed-gov-agencies.csv`](data/us-fed-gov-agencies.csv). Prefi
 | IRS     | Internal Revenue Service                               |    1 |            13 |             4 |               13.6K |
 | LOC     | Library of Congress                                    |    1 |             1 |             — |               65.5K |
 | NARA    | National Archives and Records Administration           |    1 |             5 |             — |               16.9K |
-| NASA    | National Aeronautics and Space Administration (NASA)   |    2 |           221 |             1 |                3.2M |
+| NASA    | National Aeronautics and Space Administration (NASA)   |    2 |           215 |             1 |                2.9M |
 | NCUA    | National Credit Union Administration                   |    1 |             3 |             — |                 768 |
 | NGA     | National Gallery of Art                                |    1 |             1 |             — |                4.1K |
 | NIH     | National Institutes of Health                          |    2 |            27 |             1 |              359.2K |
 | NIST    | National Institute of Standards and Technology         |    1 |            29 |             7 |               81.7K |
 | NOAA    | National Oceanic and Atmospheric Administration (NOAA) |    2 |            87 |            26 |              338.4K |
-| NRC     | Nuclear Regulatory Commission                          |    1 |             — |             — |                   — |
+| NRC     | Nuclear Regulatory Commission                          |    1 |            23 |            12 |               70.7K |
 | NSF     | National Science Foundation                            |    2 |             3 |             1 |               66.0K |
 | OPM     | Office of Personnel Management                         |    1 |             — |             — |                   — |
 | PBGC    | Pension Benefit Guaranty Corporation                   |    1 |             2 |             — |                 512 |
@@ -147,20 +147,20 @@ Tracked in [`data/us-state-gov-agencies.csv`](data/us-state-gov-agencies.csv). P
 | CT   | State of Connecticut Department of Information Technology  |    1 |            16 |             — |               63.2K |
 | CT   | State of Connecticut Judicial Branch                       |    1 |            15 |             1 |                3.8K |
 | DE   | State of Delaware                                          |    1 |             2 |             1 |               65.5K |
-| FL   | Florida Department of Management Services                  |    1 |           796 |            22 |              892.7K |
+| FL   | Florida Department of Management Services                  |    1 |           798 |            22 |              893.2K |
 | GA   | Georgia Technology Authority                               |    2 |             7 |             — |              591.1K |
 | HI   | State of Hawaii                                            |    1 |             9 |             — |                5.9K |
-| IA   | Iowa Communications Network                                |    1 |            14 |             3 |              386.8K |
+| IA   | Iowa Communications Network                                |    1 |            13 |             3 |              386.6K |
 | IA   | State of Iowa OCIO                                         |    1 |             2 |             — |                2.0K |
 | ID   | State of Idaho                                             |    3 |            11 |             — |              131.3K |
 | ID   | State of Idaho Department of Health and Welfare            |    1 |             1 |             — |                 512 |
-| IL   | Illinois Century Network                                   |    1 |            63 |             5 |                1.7M |
+| IL   | Illinois Century Network                                   |    1 |            56 |             5 |                1.7M |
 | IN   | Indiana Office of Technology                               |    1 |             4 |             1 |                8.2K |
 | IN   | State of Indiana                                           |    1 |             — |             — |                   — |
 | KS   | State of Kansas                                            |    1 |             2 |             — |               65.8K |
 | KY   | Commonwealth of Kentucky Department of Information Systems |    1 |             7 |             — |              164.9K |
 | KY   | Kentucky Communications Network Authority                  |    1 |             4 |             — |                1.8K |
-| LA   | State of Louisiana Office of Technology Services           |    2 |            98 |             — |              313.4K |
+| LA   | State of Louisiana Office of Technology Services           |    2 |            99 |             — |              313.4K |
 | LA   | State of Louisiana Supreme Court                           |    1 |             1 |             — |                 512 |
 | MA   | Commonwealth of Massachusetts                              |    1 |            13 |             — |              230.4K |
 | MD   | Maryland Administrative Office of the Courts               |    1 |            15 |             — |               69.1K |
@@ -169,7 +169,7 @@ Tracked in [`data/us-state-gov-agencies.csv`](data/us-state-gov-agencies.csv). P
 | ME   | State of Maine                                             |    1 |             1 |             — |                 256 |
 | MI   | Michigan State Government                                  |    1 |             9 |             — |              508.2K |
 | MN   | State of Minnesota                                         |    1 |            10 |             1 |              230.9K |
-| MO   | State of Missouri Office of Administration                 |    1 |             4 |             2 |               70.7K |
+| MO   | State of Missouri Office of Administration                 |    1 |             5 |             2 |               74.8K |
 | MS   | Mississippi Department of Information Technology Services  |    1 |             9 |             — |               22.3K |
 | MT   | State of Montana                                           |    1 |             3 |             — |               66.0K |
 | NC   | North Carolina Administrative Office of the Courts         |    1 |             4 |             — |                2.0K |
@@ -193,11 +193,11 @@ Tracked in [`data/us-state-gov-agencies.csv`](data/us-state-gov-agencies.csv). P
 | PA   | Commonwealth of PA                                         |    1 |             — |             — |                   — |
 | RI   | State of Rhode Island                                      |    1 |             3 |             — |               35.3K |
 | RI   | State of Rhode Island General Assembly                     |    1 |             1 |             — |                 256 |
-| SC   | State of South Carolina                                    |    1 |            20 |             — |              103.7K |
+| SC   | State of South Carolina                                    |    1 |            19 |             — |              103.7K |
 | SD   | South Dakota State Government                              |    2 |             9 |             1 |              114.9K |
 | TN   | State of Tennessee                                         |    1 |            25 |             — |              524.5K |
 | TN   | Tennessee Valley Authority                                 |    1 |            15 |             1 |              264.4K |
-| TX   | Texas Department of Information Resources                  |    1 |            92 |             2 |              321.3K |
+| TX   | Texas Department of Information Resources                  |    1 |            91 |             2 |              304.9K |
 | UT   | State of Utah                                              |    1 |             8 |             — |              395.5K |
 | UT   | State of Utah Courts                                       |    1 |             3 |             — |                2.0K |
 | VA   | Commonwealth of Virginia                                   |    1 |             — |             — |                   — |
@@ -232,7 +232,7 @@ Tracked in [`data/us-city-gov-agencies.csv`](data/us-city-gov-agencies.csv). Pre
 | CO   | City and County of Denver                                |    1 |             3 |             — |               66.0K |
 | CO   | Denver International Airport                             |    1 |             9 |             — |                2.6K |
 | DC   | Government of the District of Columbia                   |    1 |            14 |             — |                5.9K |
-| FL   | City of Jacksonville                                     |    1 |            30 |             — |               72.8K |
+| FL   | City of Jacksonville                                     |    1 |            29 |             — |               72.5K |
 | FL   | City of Miami                                            |    1 |             1 |             — |                 256 |
 | FL   | City of Tampa                                            |    1 |             3 |             — |                 768 |
 | HI   | City and County of Honolulu                              |    1 |             7 |             — |                1.8K |
@@ -252,7 +252,7 @@ Tracked in [`data/us-city-gov-agencies.csv`](data/us-city-gov-agencies.csv). Pre
 | NY   | City of New York Public Safety                           |    1 |            12 |             6 |                3.8K |
 | NY   | New York City Board of Education                         |    1 |            24 |             — |              122.6K |
 | NY   | New York City Board of Elections                         |    1 |             1 |             — |                2.0K |
-| NY   | New York City Employees Retirement System                |    1 |             — |             — |                   — |
+| NY   | New York City Employees Retirement System                |    1 |             1 |             — |                 256 |
 | NY   | New York City Health and Hospitals Corporation           |    1 |            15 |             — |               15.1K |
 | NY   | New York City Police Department                          |    1 |             3 |             — |               16.9K |
 | OH   | City of Columbus                                         |    1 |             3 |             — |               16.4K |
@@ -260,10 +260,10 @@ Tracked in [`data/us-city-gov-agencies.csv`](data/us-city-gov-agencies.csv). Pre
 | PA   | City of Philadelphia                                     |    1 |             3 |             — |               66.3K |
 | PA   | City of Pittsburgh                                       |    1 |             1 |             — |               16.4K |
 | TN   | City of Memphis                                          |    1 |             2 |             — |                2.0K |
-| TX   | City of Austin                                           |    1 |            20 |             — |                9.0K |
+| TX   | City of Austin                                           |    1 |            19 |             — |                8.7K |
 | TX   | City of Austin Public Safety                             |    1 |             — |             — |                   — |
 | TX   | City of Dallas                                           |    1 |             — |             — |                   — |
-| TX   | City of Houston                                          |    1 |             — |             — |                   — |
+| TX   | City of Houston                                          |    1 |            14 |             — |                3.6K |
 | TX   | City of Houston Public Works                             |    1 |             1 |             — |                 256 |
 | TX   | City of San Antonio                                      |    1 |            37 |             — |               75.8K |
 | UT   | Salt Lake City Corporation                               |    1 |            18 |             — |                4.6K |
@@ -284,9 +284,7 @@ Tracked in [`data/us-hospital-systems.csv`](data/us-hospital-systems.csv). Prefi
 | :---                                                                                                    | ---: | ---:          | ---:          | ---:                |
 | NewYork-Presbyterian Hospital                                                                           |    2 |            31 |             — |              672.8K |
 | UPMC                                                                                                    |    5 |            15 |             1 |              272.4K |
-| Mass General Brigham Incorporated                                                                       |    1 |             6 |             — |              197.4K |
-| University of Tennessee Medical Center                                                                  |    1 |             7 |             — |              147.7K |
-| Spectrum Health                                                                                         |    1 |             8 |             — |              140.3K |
+| Mass General Brigham Incorporated                                                                       |    1 |             5 |             — |              197.1K |
 | Mayo Foundation for Medical Education and Research                                                      |    1 |            15 |             — |              137.2K |
 | Cleveland Clinic Foundation                                                                             |    1 |            13 |             — |              135.4K |
 | Danbury Hospital - ITG                                                                                  |    1 |            10 |             — |              134.4K |
@@ -294,6 +292,7 @@ Tracked in [`data/us-hospital-systems.csv`](data/us-hospital-systems.csv). Prefi
 | Memorial Sloan-Kettering Cancer Center                                                                  |    1 |             7 |             — |              132.1K |
 | Intermountain Health Care, Inc.                                                                         |    2 |             4 |             — |              131.8K |
 | Univeristy of Chicago Hospitals & Health System                                                         |    1 |             4 |             — |              131.3K |
+| University of Tennessee Medical Center                                                                  |    1 |             5 |             — |              131.3K |
 | Loma Linda University Medical Center                                                                    |    1 |             8 |             — |              131.1K |
 | University of Kansas Medical Center                                                                     |    1 |             8 |             — |              108.3K |
 | Joan and Sanford I. Weill Medical College and Graduate School of Medical Sciences of Cornell University |    1 |             4 |             — |               98.8K |
@@ -312,6 +311,7 @@ Tracked in [`data/us-hospital-systems.csv`](data/us-hospital-systems.csv). Prefi
 | The University Of Texas M.D. Anderson Cancer Center                                                     |    1 |             5 |             — |               66.6K |
 | Unity Health System                                                                                     |    2 |             5 |             — |               66.6K |
 | Texas Tech University Health Sciences Center                                                            |    1 |             4 |             1 |               66.0K |
+| University of California Davis Medical Center                                                           |    1 |             3 |             — |               66.0K |
 | Harris County Hospital District                                                                         |    1 |             2 |             — |               65.8K |
 | BJC HEALTH SYSTEM                                                                                       |    1 |             1 |             — |               65.5K |
 | Dartmouth-Hitchcock Medical Center                                                                      |    1 |             1 |             — |               65.5K |
@@ -333,23 +333,22 @@ Tracked in [`data/us-hospital-systems.csv`](data/us-hospital-systems.csv). Prefi
 | CommonSpirit Health                                                                                     |    2 |            18 |             — |               11.5K |
 | Christus Health                                                                                         |    1 |            22 |             — |                9.5K |
 | Froedtert Memorial Lutheran Hospital, Inc.                                                              |    1 |             4 |             — |                9.2K |
-| Providence Health & Services                                                                            |    4 |            25 |             — |                9.0K |
+| Providence Health & Services                                                                            |    4 |            26 |             — |                9.2K |
 | Dignity Health                                                                                          |    1 |             4 |             — |                8.7K |
 | Scripps Health                                                                                          |    1 |             3 |             — |                8.7K |
 | Baylor Health Care System                                                                               |    2 |            11 |             — |                8.4K |
 | Community Hospital of the Monterey Peninsula                                                            |    1 |             2 |             — |                8.4K |
-| Summa Health System                                                                                     |    1 |             7 |             — |                8.4K |
 | Hospital Sisters Health Systems                                                                         |    1 |             1 |             — |                8.2K |
 | LSU Health Sciences Center - Shreveport                                                                 |    1 |             1 |             — |                8.2K |
 | Sisters of Mercy Health System                                                                          |    1 |            15 |             — |                8.2K |
 | The Methodist Hospital                                                                                  |    1 |             4 |             — |                8.2K |
+| The Toledo Hospital                                                                                     |    1 |            24 |             1 |                7.9K |
 | University of Nebraska Medical Center                                                                   |    1 |             9 |             — |                7.9K |
 | Yale-New Haven Health Services Corporation                                                              |    1 |            30 |             — |                7.7K |
 | MaineHealth Maine Medical Center                                                                        |    1 |            13 |             — |                7.2K |
 | BANNER HEALTH                                                                                           |    1 |            11 |             — |                6.7K |
 | Sutter Health                                                                                           |    4 |             4 |             — |                6.7K |
 | New York Medical College                                                                                |    1 |             3 |             — |                6.1K |
-| The Toledo Hospital                                                                                     |    1 |            20 |             1 |                6.1K |
 | Children's Hospital Colorado                                                                            |    1 |             8 |             — |                5.9K |
 | Virginia Mason Medical Center                                                                           |    1 |             3 |             — |                5.4K |
 | Prisma Health                                                                                           |    3 |            17 |             — |                5.1K |
@@ -368,6 +367,7 @@ Tracked in [`data/us-hospital-systems.csv`](data/us-hospital-systems.csv). Prefi
 | RWJBarnabas Health, Inc.                                                                                |    1 |             8 |             — |                4.1K |
 | Weill Cornell Medical College in Qatar                                                                  |    1 |             1 |             1 |                4.1K |
 | Memorial Medical Center                                                                                 |    1 |            15 |             — |                3.8K |
+| Summa Health System                                                                                     |    1 |             5 |             — |                3.8K |
 | Benefis Health System                                                                                   |    1 |             7 |             — |                3.3K |
 | Inova Health System Foundation                                                                          |    1 |             4 |             — |                3.3K |
 | North Shore Long Island Jewish Health System                                                            |    1 |            10 |             — |                3.3K |
@@ -427,7 +427,6 @@ Tracked in [`data/us-hospital-systems.csv`](data/us-hospital-systems.csv). Prefi
 | ADVENTIST HEALTH SYSTEM/SUNBELT, INC.                                                                   |    1 |             3 |             — |                1.0K |
 | Alaska Native Medical Center                                                                            |    1 |             1 |             — |                1.0K |
 | Asante Health System                                                                                    |    1 |             1 |             — |                1.0K |
-| Bellin Memorial Hospital, Inc.                                                                          |    1 |             3 |             — |                1.0K |
 | Boston Medical Center                                                                                   |    1 |             4 |             — |                1.0K |
 | Brockton Hospital                                                                                       |    1 |             4 |             — |                1.0K |
 | Carolinas Healthcare System                                                                             |    1 |             2 |             — |                1.0K |
@@ -439,7 +438,7 @@ Tracked in [`data/us-hospital-systems.csv`](data/us-hospital-systems.csv). Prefi
 | Froedtert South, Inc.                                                                                   |    2 |             3 |             — |                1.0K |
 | Hackensack University Medical Center                                                                    |    1 |             4 |             — |                1.0K |
 | Hospital for Special Surgery                                                                            |    1 |             3 |             — |                1.0K |
-| Huntsville Hospital                                                                                     |    1 |             4 |             1 |                1.0K |
+| Huntsville Hospital                                                                                     |    1 |             4 |             — |                1.0K |
 | Hutchinson Regional Medical Center                                                                      |    1 |             1 |             — |                1.0K |
 | Maricopa Integrated Health System                                                                       |    1 |             3 |             — |                1.0K |
 | Maury Regional Hospital                                                                                 |    1 |             1 |             — |                1.0K |
@@ -460,7 +459,7 @@ Tracked in [`data/us-hospital-systems.csv`](data/us-hospital-systems.csv). Prefi
 | Straub Clinic & Hospital                                                                                |    1 |             4 |             — |                1.0K |
 | University Medical Center                                                                               |    1 |             2 |             — |                1.0K |
 | ANNE ARUNDEL MEDICAL CENTER                                                                             |    1 |             3 |             — |                 768 |
-| Capital Health System, Inc                                                                              |    1 |             3 |             — |                 768 |
+| Bellin Memorial Hospital, Inc.                                                                          |    1 |             2 |             — |                 768 |
 | Children's Medical Center of Dallas                                                                     |    1 |             3 |             — |                 768 |
 | Cook Children's Health Care System                                                                      |    1 |             2 |             — |                 768 |
 | DuBois Regional Medical Center                                                                          |    2 |             2 |             — |                 768 |
@@ -474,10 +473,9 @@ Tracked in [`data/us-hospital-systems.csv`](data/us-hospital-systems.csv). Prefi
 | Peninsula Regional Medical Center                                                                       |    1 |             3 |             — |                 768 |
 | Providence Hospital                                                                                     |    1 |             3 |             — |                 768 |
 | Rady Children's Hospital - San Diego                                                                    |    1 |             3 |             — |                 768 |
-| St. Mary's Medical Center, Inc.                                                                         |    2 |             3 |             — |                 768 |
+| St. Mary's Medical Center, Inc.                                                                         |    2 |             3 |             1 |                 768 |
 | Thorek Memorial Hospital                                                                                |    1 |             3 |             — |                 768 |
 | Tri-City Medical Center                                                                                 |    1 |             2 |             — |                 768 |
-| University Medical Center, Inc                                                                          |    1 |             2 |             — |                 768 |
 | Willis-Knighton Medical Center                                                                          |    1 |             3 |             — |                 768 |
 | American Hospital Association                                                                           |    1 |             2 |             — |                 512 |
 | Atlantic Health System                                                                                  |    1 |             2 |             — |                 512 |
@@ -488,6 +486,7 @@ Tracked in [`data/us-hospital-systems.csv`](data/us-hospital-systems.csv). Prefi
 | Butler Memorial Hospital                                                                                |    1 |             2 |             — |                 512 |
 | CARE NEW ENGLAND HEALTH SYSTEM                                                                          |    1 |             2 |             — |                 512 |
 | CGH Medical Center                                                                                      |    1 |             2 |             — |                 512 |
+| Capital Health System, Inc                                                                              |    1 |             2 |             — |                 512 |
 | Catawba Valley Medical Center                                                                           |    1 |             2 |             — |                 512 |
 | Catholic Medical Center                                                                                 |    1 |             1 |             — |                 512 |
 | Children's Hospital Medical Center of Akron                                                             |    1 |             2 |             — |                 512 |
@@ -515,10 +514,8 @@ Tracked in [`data/us-hospital-systems.csv`](data/us-hospital-systems.csv). Prefi
 | Mercy Medical Center                                                                                    |    1 |             2 |             — |                 512 |
 | Miami Children's Hospital                                                                               |    1 |             1 |             — |                 512 |
 | Montgomery County Hospital District                                                                     |    1 |             2 |             — |                 512 |
-| Mount Nittany Medical Center                                                                            |    1 |             2 |             — |                 512 |
 | NCH Healthcare System, Inc.                                                                             |    1 |             2 |             — |                 512 |
 | Norman Regional Health System                                                                           |    1 |             1 |             — |                 512 |
-| Penn Medicine                                                                                           |    1 |             2 |             — |                 512 |
 | Pomona Valley Hospital Medical Center                                                                   |    1 |             2 |             — |                 512 |
 | Providence Health Plan                                                                                  |    1 |             2 |             — |                 512 |
 | RIVERVIEW HOSPITAL                                                                                      |    1 |             2 |             — |                 512 |
@@ -537,7 +534,7 @@ Tracked in [`data/us-hospital-systems.csv`](data/us-hospital-systems.csv). Prefi
 | Texas Medical Center                                                                                    |    1 |             2 |             — |                 512 |
 | The Children's Hospital Corporation                                                                     |    1 |             1 |             1 |                 512 |
 | Torrance Memorial Medical Center                                                                        |    1 |             2 |             — |                 512 |
-| University of California Davis Medical Center                                                           |    1 |             2 |             — |                 512 |
+| University Medical Center, Inc                                                                          |    1 |             1 |             — |                 512 |
 | University of Wisconsin Hospital and Clinics                                                            |    1 |             2 |             — |                 512 |
 | Virginia Hospital Center                                                                                |    1 |             2 |             — |                 512 |
 | Washington Hospital Healthcare Sysem                                                                    |    1 |             2 |             — |                 512 |
@@ -688,6 +685,7 @@ Tracked in [`data/us-hospital-systems.csv`](data/us-hospital-systems.csv). Prefi
 | Saint Francis Medical Center                                                                            |    1 |             1 |             — |                 256 |
 | Saint Mary's Hospital, Inc.                                                                             |    1 |             1 |             — |                 256 |
 | Salem Hospital                                                                                          |    1 |             1 |             — |                 256 |
+| Salinas Valley Memorial Hospital                                                                        |    1 |             1 |             — |                 256 |
 | San Antonio Regional Hospital                                                                           |    1 |             1 |             — |                 256 |
 | San Luis Valley Regional Medical Center                                                                 |    1 |             1 |             1 |                 256 |
 | Saratoga Hospital                                                                                       |    1 |             1 |             — |                 256 |
@@ -719,6 +717,7 @@ Tracked in [`data/us-hospital-systems.csv`](data/us-hospital-systems.csv). Prefi
 | The Children's Mercy Hospital                                                                           |    1 |             1 |             — |                 256 |
 | The Harrison Memorrial Hospital, Inc.                                                                   |    1 |             1 |             — |                 256 |
 | The Health Care Authority for Baptist Health, An Affiliate of UAB Health System                         |    1 |             1 |             — |                 256 |
+| The New London Hospital Association, Inc                                                                |    1 |             1 |             — |                 256 |
 | The Queen's Medical Center                                                                              |    1 |             1 |             — |                 256 |
 | Thibodaux Regional Medical Center                                                                       |    1 |             1 |             — |                 256 |
 | Tift Regional Health System, Inc.                                                                       |    1 |             1 |             — |                 256 |
@@ -726,6 +725,7 @@ Tracked in [`data/us-hospital-systems.csv`](data/us-hospital-systems.csv). Prefi
 | Touro Infirmary Hospital                                                                                |    1 |             1 |             — |                 256 |
 | Tufts Medical Center Inc.                                                                               |    1 |             1 |             — |                 256 |
 | UP Health System - Marquette                                                                            |    1 |             1 |             — |                 256 |
+| Union Hospital, Inc.                                                                                    |    1 |             1 |             — |                 256 |
 | University Medical Center of Southern Nevada                                                            |    1 |             1 |             — |                 256 |
 | VALLEY VIEW HOSPITAL ASSOCIATION                                                                        |    1 |             1 |             — |                 256 |
 | Valley Children's Hospital                                                                              |    1 |             1 |             — |                 256 |
@@ -762,26 +762,26 @@ Tracked in [`data/us-hospital-systems.csv`](data/us-hospital-systems.csv). Prefi
 | Luthern General Health System                                                                           |    1 |             — |             — |                   — |
 | Memorial Hospital                                                                                       |    1 |             — |             — |                   — |
 | Mother Frances Hospital Regional Health Care Center                                                     |    1 |             — |             — |                   — |
+| Mount Nittany Medical Center                                                                            |    1 |             — |             — |                   — |
 | Nashville General Hospital                                                                              |    1 |             — |             — |                   — |
 | North Valley Hospital                                                                                   |    1 |             — |             1 |                   — |
 | Oregon Health Network, Inc.                                                                             |    1 |             — |             — |                   — |
 | Parrish Medical Center                                                                                  |    1 |             — |             — |                   — |
 | Pender Community Hospital District                                                                      |    1 |             — |             — |                   — |
+| Penn Medicine                                                                                           |    1 |             — |             — |                   — |
 | Robert Wood Johnson University Hospital                                                                 |    1 |             — |             — |                   — |
 | SWEDISH MEDICAL CENTER                                                                                  |    1 |             — |             — |                   — |
 | Saint Joseph's Hospital & Medical Center                                                                |    1 |             — |             — |                   — |
 | Saint Joseph's Hospital of Atlanta, Inc.                                                                |    1 |             — |             — |                   — |
-| Salinas Valley Memorial Hospital                                                                        |    1 |             — |             — |                   — |
 | Sapient Health Network                                                                                  |    1 |             — |             — |                   — |
 | Silver Cross Hospital                                                                                   |    1 |             — |             — |                   — |
+| Spectrum Health                                                                                         |    1 |             — |             — |                   — |
 | Springhill Memorial Hospital                                                                            |    1 |             — |             — |                   — |
 | St. Joseph Hospital                                                                                     |    1 |             — |             — |                   — |
 | THE HARDIN MEMORIAL HOSPITAL FOUNDATION, INC.                                                           |    1 |             — |             — |                   — |
 | The Milton S. Hershey Medical Center                                                                    |    1 |             — |             — |                   — |
-| The New London Hospital Association, Inc                                                                |    1 |             — |             — |                   — |
 | The Union Hospital of Cecil County, Inc.                                                                |    1 |             — |             — |                   — |
 | UC HEALTH                                                                                               |    1 |             — |             — |                   — |
-| Union Hospital, Inc.                                                                                    |    1 |             — |             — |                   — |
 | United Hospital Center                                                                                  |    1 |             — |             — |                   — |
 | University Hospital                                                                                     |    1 |             — |             — |                   — |
 | University of Alabama at Birmingham Medical Center                                                      |    1 |             — |             — |                   — |
@@ -803,7 +803,7 @@ Tracked in [`data/us-health-insurance.csv`](data/us-health-insurance.csv). Prefi
 | Blue Cross Blue Shield of Michigan Mutual Insurance                   |    1 |             9 |             — |              100.1K |
 | Anthem Broadband                                                      |    4 |            42 |             3 |               74.5K |
 | HealthPlan Services, Inc.                                             |    1 |             6 |             — |               66.8K |
-| Independence Blue Cross                                               |    1 |             3 |             — |               66.0K |
+| Independence Blue Cross                                               |    1 |             1 |             — |               65.5K |
 | CIGNA                                                                 |    2 |            47 |             — |               61.4K |
 | Centene Corporation                                                   |    4 |            47 |             — |               37.4K |
 | Aetna, Inc.                                                           |    1 |            20 |             — |               37.1K |
@@ -811,16 +811,16 @@ Tracked in [`data/us-health-insurance.csv`](data/us-health-insurance.csv). Prefi
 | Kaiser Foundation Health Plan, Inc.                                   |    2 |            42 |             1 |               31.0K |
 | Blue Cross and Blue Shield of North Carolina                          |    1 |             6 |             — |               29.4K |
 | Magellan Health Services                                              |    1 |            14 |             — |               20.2K |
-| Elevance Health, Inc.                                                 |    1 |            13 |             — |               16.9K |
+| Elevance Health, Inc.                                                 |    1 |            13 |             6 |               16.9K |
 | Blue Cross and Blue Shield of Alabama                                 |    1 |             6 |             — |               13.6K |
 | Blue Cross & Blue Shield of Minnesota                                 |    1 |            17 |             — |                7.9K |
 | Highmark Inc                                                          |    1 |            22 |             — |                5.6K |
 | Premera Blue Cross                                                    |    3 |             9 |             — |                5.4K |
 | Blue Cross Blue Shield of South Carolina                              |    1 |             7 |             — |                4.9K |
 | WELLMARK BLUE CROSS AND BLUE SHIELD                                   |    1 |            11 |             — |                4.9K |
-| Blue Shield of California                                             |    4 |            13 |             — |                3.6K |
 | Blue Cross Blue Shield of Illinois or Blue Cross Blue Shield of Texas |    7 |             9 |             — |                2.3K |
 | Blue Cross Blue Shield of Nebraska                                    |    1 |             3 |             — |                2.3K |
+| Blue Shield of California                                             |    4 |             8 |             — |                2.3K |
 | HORIZON BLUE CROSS BLUE SHIELD OF NJ                                  |    1 |             9 |             — |                2.3K |
 | Blue Cross Blue Shield of North Dakota                                |    1 |             1 |             — |                2.0K |
 | Blue Cross and Blue Shield of Massachusetts, Inc.                     |    1 |             7 |             — |                1.8K |
@@ -909,46 +909,46 @@ Top technologies detected across actively scanned government domains via httpx f
 <!-- BEGIN:tech-table -->
 | Technology                  | Domains | Example Domains                            |
 | :---                        | ---:    | :---                                       |
-| HSTS                        |   10819 | acf.gov, americabydesign.gov, archives.gov |
-| Amazon Web Services         |    2912 | acf.gov, archives.gov, atf.gov             |
-| Amazon CloudFront           |    1785 | acf.gov, archives.gov, atf.gov             |
-| Cloudflare                  |    1521 | acf.gov, americabydesign.gov, atf.gov      |
-| HTTP/3                      |    1393 | acf.gov, americabydesign.gov, bls.gov      |
-| Apache HTTP Server          |    1310 | acf.gov, cancer.gov, cbp.gov               |
-| Cloudflare Bot Management   |     922 | acf.gov, atf.gov, bis.gov                  |
-| Azure                       |     735 | archives.gov, cdc.gov, cms.gov             |
-| jQuery                      |     722 | acf.gov, archives.gov, bls.gov             |
-| Microsoft ASP.NET           |     706 | acf.gov, archives.gov, atf.gov             |
-| PHP                         |     662 | acf.gov, archives.gov, cancer.gov          |
-| Amazon ELB                  |     655 | acf.gov, archives.gov, cancer.gov          |
-| Amazon S3                   |     649 | acf.gov, archives.gov, cancer.gov          |
-| Nginx                       |     578 | acf.gov, archives.gov, atf.gov             |
-| Azure Front Door            |     555 | cdc.gov, doe.gov, ed.gov                   |
-| Google Analytics            |     550 | archives.gov, cancer.gov, cdc.gov          |
-| Windows Server              |     531 | acf.gov, archives.gov, atf.gov             |
-| Google Tag Manager          |     520 | acf.gov, archives.gov, cancer.gov          |
-| IIS:10.0                    |     520 | acf.gov, archives.gov, atf.gov             |
-| Akamai                      |     428 | cancer.gov, cbp.gov, cdc.gov               |
-| Bootstrap                   |     428 | acf.gov, archives.gov, bls.gov             |
-| Cloudflare Browser Insights |     385 | americabydesign.gov, census.gov, dhs.gov   |
-| Java                        |     343 | acf.gov, atf.gov, cancer.gov               |
-| USWDS                       |     333 | acf.gov, cancer.gov, cdc.gov               |
-| F5 BigIP                    |     328 | archives.gov, bls.gov, cancer.gov          |
-| jQuery CDN                  |     325 | acf.gov, cancer.gov, cdc.gov               |
-| Amazon ALB                  |     279 | acf.gov, archives.gov, cancer.gov          |
-| jsDelivr                    |     260 | acf.gov, archives.gov, cancer.gov          |
-| Akamai Bot Manager          |     222 | cms.gov, dot.gov, ed.gov                   |
-| Drupal:11                   |     220 | acf.gov, archives.gov, cancer.gov          |
-| jQuery:3.7.1                |     211 | archives.gov, cancer.gov, cdc.gov          |
-| Varnish                     |     204 | acf.gov, archives.gov, atf.gov             |
-| Drupal:10                   |     192 | acf.gov, archives.gov, cancer.gov          |
-| Modernizr                   |     191 | acf.gov, atf.gov, cdc.gov                  |
-| cdnjs                       |     185 | cancer.gov, cdc.gov, cms.gov               |
-| Envoy                       |     158 | acf.gov, cbp.gov, cdc.gov                  |
-| Siteimprove                 |     153 | acf.gov, cbp.gov, cisa.gov                 |
-| Acquia Cloud Platform:next  |     149 | atf.gov, cancer.gov, cdc.gov               |
-| Microsoft ASP.NET:4.0.30319 |     143 | acf.gov, cdc.gov, cms.gov                  |
-| Font Awesome                |     132 | cancer.gov, cdc.gov, census.gov            |
+| HSTS                        |   11476 | acf.gov, americabydesign.gov, archives.gov |
+| Amazon Web Services         |    2856 | acf.gov, archives.gov, atf.gov             |
+| Amazon CloudFront           |    1806 | acf.gov, archives.gov, cancer.gov          |
+| Apache HTTP Server          |    1662 | acf.gov, cancer.gov, cbp.gov               |
+| Cloudflare                  |    1501 | acf.gov, americabydesign.gov, atf.gov      |
+| HTTP/3                      |    1416 | acf.gov, americabydesign.gov, bls.gov      |
+| Cloudflare Bot Management   |     891 | acf.gov, atf.gov, bis.gov                  |
+| Azure                       |     746 | archives.gov, cdc.gov, cms.gov             |
+| jQuery                      |     726 | acf.gov, archives.gov, cancer.gov          |
+| Microsoft ASP.NET           |     690 | acf.gov, archives.gov, atf.gov             |
+| PHP                         |     658 | acf.gov, archives.gov, cancer.gov          |
+| Amazon ELB                  |     649 | acf.gov, archives.gov, cancer.gov          |
+| Nginx                       |     648 | acf.gov, archives.gov, atf.gov             |
+| Amazon S3                   |     594 | acf.gov, archives.gov, cancer.gov          |
+| Azure Front Door            |     572 | cdc.gov, doe.gov, ed.gov                   |
+| Windows Server              |     564 | acf.gov, archives.gov, atf.gov             |
+| Google Analytics            |     553 | acf.gov, archives.gov, cancer.gov          |
+| IIS:10.0                    |     551 | acf.gov, archives.gov, atf.gov             |
+| Google Tag Manager          |     450 | acf.gov, archives.gov, cancer.gov          |
+| Akamai                      |     432 | cancer.gov, cbp.gov, cdc.gov               |
+| Cloudflare Browser Insights |     359 | americabydesign.gov, census.gov, dhs.gov   |
+| Bootstrap                   |     340 | acf.gov, archives.gov, cancer.gov          |
+| Java                        |     330 | acf.gov, atf.gov, cancer.gov               |
+| F5 BigIP                    |     320 | archives.gov, bls.gov, cancer.gov          |
+| Amazon ALB                  |     288 | acf.gov, archives.gov, cancer.gov          |
+| USWDS                       |     268 | acf.gov, cancer.gov, cdc.gov               |
+| jsDelivr                    |     257 | acf.gov, cancer.gov, cbp.gov               |
+| jQuery CDN                  |     252 | acf.gov, cancer.gov, cdc.gov               |
+| Drupal:11                   |     217 | acf.gov, archives.gov, cancer.gov          |
+| Akamai Bot Manager          |     205 | cms.gov, dot.gov, ed.gov                   |
+| cdnjs                       |     192 | cdc.gov, cms.gov, doe.gov                  |
+| Drupal:10                   |     191 | acf.gov, archives.gov, cancer.gov          |
+| Modernizr                   |     186 | acf.gov, cdc.gov, census.gov               |
+| Varnish                     |     185 | acf.gov, atf.gov, cdc.gov                  |
+| Envoy                       |     170 | acf.gov, cbp.gov, cdc.gov                  |
+| Microsoft ASP.NET:4.0.30319 |     150 | acf.gov, cdc.gov, cms.gov                  |
+| jQuery:3.7.1                |     138 | archives.gov, cancer.gov, cdc.gov          |
+| Font Awesome                |     135 | cancer.gov, cdc.gov, census.gov            |
+| Acquia Cloud Platform:next  |     133 | atf.gov, cancer.gov, cdc.gov               |
+| Google Cloud                |     132 | cancer.gov, clinicaltrials.gov, dhs.gov    |
 <!-- END:tech-table -->
 
 ---
