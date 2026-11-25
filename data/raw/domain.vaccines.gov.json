@@ -11,28 +11,6 @@
     "result_count": 4
   },
   {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "vaccines.gov",
-    "name_value": "vaccines.gov",
-    "id": 29085435573,
-    "not_before": "2026-08-22T00:00:00",
-    "not_after": "2026-11-20T23:59:59",
-    "serial_number": "00e58227b5a6b8459f6728130b821acfaf",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 204406,
-    "issuer_name": "C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36",
-    "common_name": "vaccines.gov",
-    "name_value": "vaccines.gov",
-    "id": 29085435922,
-    "not_before": "2026-08-22T00:00:00",
-    "not_after": "2026-11-20T23:59:59",
-    "serial_number": "00e58227b5a6b8459f6728130b821acfaf",
-    "result_count": 2
-  },
-  {
     "issuer_ca_id": 62123,
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
     "common_name": "www.cdc.gov",
@@ -59,17 +37,6 @@
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust DV TLS Issuing RSA CA 2",
     "common_name": "www.cdc.gov",
     "name_value": "www.staging.vaccines.gov\nwww.vaccines.gov",
-    "id": 26284354451,
-    "not_before": "2026-05-12T00:00:00",
-    "not_after": "2026-11-26T23:59:59",
-    "serial_number": "00f113c3d120a1f60a0636385d6ae4822a",
-    "result_count": 2
-  },
-  {
-    "issuer_ca_id": 385516,
-    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust DV TLS Issuing RSA CA 2",
-    "common_name": "www.cdc.gov",
-    "name_value": "www.staging.vaccines.gov\nwww.vaccines.gov",
     "id": 26284293755,
     "not_before": "2026-05-12T00:00:00",
     "not_after": "2026-11-26T23:59:59",
@@ -80,12 +47,12 @@
     "issuer_ca_id": 385516,
     "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust DV TLS Issuing RSA CA 2",
     "common_name": "www.cdc.gov",
-    "name_value": "origin.vaccines.gov\nvaccines.gov\nwww.staging.vaccines.gov\nwww.vaccines.gov",
-    "id": 23616545856,
-    "not_before": "2026-01-07T00:00:00",
-    "not_after": "2027-01-07T23:59:59",
-    "serial_number": "1dd6800bf5598f32461df879c5206831",
-    "result_count": 4
+    "name_value": "www.staging.vaccines.gov\nwww.vaccines.gov",
+    "id": 26284354451,
+    "not_before": "2026-05-12T00:00:00",
+    "not_after": "2026-11-26T23:59:59",
+    "serial_number": "00f113c3d120a1f60a0636385d6ae4822a",
+    "result_count": 2
   },
   {
     "issuer_ca_id": 385516,
@@ -99,11 +66,22 @@
     "result_count": 4
   },
   {
+    "issuer_ca_id": 385516,
+    "issuer_name": "C=CA, O=Entrust Limited, CN=Entrust DV TLS Issuing RSA CA 2",
+    "common_name": "www.cdc.gov",
+    "name_value": "origin.vaccines.gov\nvaccines.gov\nwww.staging.vaccines.gov\nwww.vaccines.gov",
+    "id": 23616545856,
+    "not_before": "2026-01-07T00:00:00",
+    "not_after": "2027-01-07T23:59:59",
+    "serial_number": "1dd6800bf5598f32461df879c5206831",
+    "result_count": 4
+  },
+  {
     "issuer_ca_id": 62123,
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
     "common_name": "www.cdc.gov",
     "name_value": "Wwwns.vaccines.gov",
-    "id": 23616599193,
+    "id": 23188645597,
     "not_before": "2025-12-18T00:00:00",
     "not_after": "2026-12-17T23:59:59",
     "serial_number": "0f8f736ffc461709951388b91ccf3861",
@@ -114,7 +92,7 @@
     "issuer_name": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1",
     "common_name": "www.cdc.gov",
     "name_value": "Wwwns.vaccines.gov",
-    "id": 23188645597,
+    "id": 23616599193,
     "not_before": "2025-12-18T00:00:00",
     "not_after": "2026-12-17T23:59:59",
     "serial_number": "0f8f736ffc461709951388b91ccf3861",
